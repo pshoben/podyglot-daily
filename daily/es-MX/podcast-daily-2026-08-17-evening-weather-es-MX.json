@@ -1,0 +1,249 @@
+{
+ "title": "El clima, lunes 17 de agosto",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-weather",
+   "wpm": 186,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-17",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El clima para mañana y para los próximos días.",
+   "en": "Tomorrow's weather, and the rest of the week.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mañana martes, en la Ciudad de México,",
+   "en": "Tomorrow, Tuesday, in «Ciudad de México»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "veintitrés grados de máxima y doce de mínima.",
+   "en": "twenty three degrees at the highest and twelve at the lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Habrá llovizna, con un sesenta y uno por ciento de probabilidad de precipitación.",
+   "en": "There will be drizzle, with a sixty one per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El miércoles la probabilidad sube al ochenta y nueve por ciento,",
+   "en": "On Wednesday the chance rises to eighty nine per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con veinticuatro grados de máxima.",
+   "en": "with a high of twenty four degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El jueves llegan los chubascos y la probabilidad alcanza el noventa y cuatro por ciento.",
+   "en": "On Thursday the showers arrive and the chance reaches ninety four per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viernes, veintitrés grados y llovizna otra vez,",
+   "en": "On Friday, twenty three degrees and drizzle again,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según el modelo del Centro Europeo, el ECMWF.",
+   "en": "according to the European Centre model, the «ECMWF».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Guadalajara el termómetro es más alto y la lluvia también aprieta.",
+   "en": "In «Guadalajara» the thermometer is higher and the rain bites too.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mañana, treinta grados de máxima y dieciséis de mínima, con cielo nuboso.",
+   "en": "Tomorrow, thirty degrees at the highest and sixteen at the lowest, under a cloudy sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El miércoles y el jueves se repiten los treinta grados,",
+   "en": "Wednesday and Thursday repeat the thirty degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con llovizna los dos días.",
+   "en": "with drizzle on both days.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viernes baja a veintisiete grados,",
+   "en": "On Friday it drops to twenty seven degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pero con un setenta y ocho por ciento de probabilidad de chubascos.",
+   "en": "but with a seventy eight per cent chance of showers.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Monterrey manda el calor y no la lluvia.",
+   "en": "In «Monterrey» it is the heat that rules, not the rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mañana, treinta y seis grados de máxima y veinticuatro de mínima, sin probabilidad de precipitación.",
+   "en": "Tomorrow, thirty six degrees at the highest and twenty four at the lowest, with no chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El miércoles, otra vez treinta y seis grados, con cielo poco nuboso.",
+   "en": "On Wednesday, thirty six degrees again, under a lightly clouded sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El jueves es el día más caluroso de la semana:",
+   "en": "Thursday is the hottest day of the week:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "treinta y ocho grados de máxima.",
+   "en": "thirty eight degrees at the highest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viernes afloja a treinta y cuatro grados, con veinticinco de mínima.",
+   "en": "On Friday it eases to thirty four degrees, with twenty five at the lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y ese es el clima que viene para el resto de la semana.",
+   "en": "And that is the week ahead in the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "The forecast, Monday 17 August",
+ "edition": "evening",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "Previsión para Ciudad de México, mañana, martes 2026-08-18",
+ "summary_en": [
+  "Previsión para Ciudad de México, mañana, martes 2026-08-18",
+  "Previsión para Ciudad de México, miércoles 2026-08-19"
+ ]
+}

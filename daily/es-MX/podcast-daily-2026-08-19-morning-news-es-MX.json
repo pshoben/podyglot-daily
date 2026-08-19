@@ -1,0 +1,400 @@
+{
+ "title": "El noticiario matutino, miércoles 19 de agosto",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-news",
+   "wpm": 186,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-19",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Miércoles diecinueve de agosto, once y veinte de la mañana en la Ciudad de México.",
+   "en": "Wednesday the nineteenth of August, twenty past eleven in the morning in «Mexico City».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El noticiario matutino.",
+   "en": "The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Michoacán amanece con bloqueos carreteros,",
+   "en": "Michoacan wakes up to road blockades,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "balaceras y quema de vehículos.",
+   "en": "shootings and the burning of vehicles.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y Estados Unidos acusa de dumping a los productores mexicanos de fresa.",
+   "en": "And the United States accuses Mexican strawberry producers of dumping.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos por los bloqueos.",
+   "en": "We start with the blockades.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El C5 estatal reportó al menos dieciséis cierres durante la mañana.",
+   "en": "The state C5 reported at least sixteen closures during the morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Financiero, por su parte,",
+   "en": "«El Financiero», for its part,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "contó al menos veinticuatro bloqueos carreteros.",
+   "en": "counted at least twenty-four road blockades.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Claudia Sheinbaum confirmó que los bloqueos",
+   "en": "«Claudia Sheinbaum» confirmed that the blockades",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la quema de vehículos vienen de un operativo de las fuerzas federales.",
+   "en": "and the burning of vehicles come from an operation by the federal forces.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El operativo busca detener a objetivos relevantes.",
+   "en": "The operation is seeking to detain relevant targets.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Reforma, El Economista y El Financiero siguen los cierres punto por punto.",
+   "en": "«Reforma», «El Economista» and «El Financiero» are following the closures point by point.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos en seguridad.",
+   "en": "We stay with security.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El director de la agencia antidrogas de Estados Unidos, Terry Cole,",
+   "en": "The director of the United States anti-drug agency, Terry Cole,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "llamó socio de confianza a Omar García Harfuch.",
+   "en": "called «Omar Garcia Harfuch» a trusted partner.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "García Harfuch encabeza la Secretaría de Seguridad y Protección Ciudadana.",
+   "en": "«Garcia Harfuch» heads the Secretariat of Security and Citizen Protection.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cole dijo también que lo considera un buen amigo de Estados Unidos.",
+   "en": "Cole also said that he considers him a good friend of the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y añadió que entiende las amenazas que los dos países enfrentan juntos.",
+   "en": "And he added that he understands the threats the two countries face together.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Habló de organizaciones criminales trasnacionales que operan a través de las fronteras.",
+   "en": "He spoke of transnational criminal organisations that operate across borders.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo publican Reforma y La Jornada.",
+   "en": "«Reforma» and «La Jornada» carry it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasamos al comercio.",
+   "en": "We move to trade.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Departamento de Comercio de Estados Unidos fijó de forma preliminar márgenes antidumping de hasta",
+   "en": "The United States Department of Commerce preliminarily set antidumping margins of up to five",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "cinco punto veintiocho por ciento a la fresa mexicana.",
+   "en": "point two eight per cent on Mexican strawberries.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según esa resolución, los productores mexicanos venden por debajo del precio de mercado durante",
+   "en": "According to that ruling, Mexican producers sell below the market price during",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la temporada invernal.",
+   "en": "the winter season.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El gobierno de México manifestó su preocupación y respondió que no hay bases.",
+   "en": "The Mexican government expressed its concern and answered that there are no grounds for it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es una nueva disputa comercial entre México y Estados Unidos.",
+   "en": "It is a new trade dispute between Mexico and the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Jornada y El Financiero dan cuenta del caso.",
+   "en": "«La Jornada» and «El Financiero» report the case.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cerramos con la justicia.",
+   "en": "We close with justice.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Claudia Sheinbaum criticó una propuesta para regresar privilegios a los ministros de la Suprema Corte.",
+   "en": "«Claudia Sheinbaum» criticised a proposal to return privileges to the justices of the Supreme Court.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dijo que no está de acuerdo con los privilegios para los servidores públicos.",
+   "en": "She said she does not agree with privileges for public servants.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les reprochó el regreso del seguro de gastos médicos mayores.",
+   "en": "She reproached them over the return of major medical expenses insurance.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Tienen buen salario, dijo, y les pidió humildad.",
+   "en": "They have a good salary, she said, and she asked them for humility.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También les pidió sacudirse los espíritus del pasado.",
+   "en": "She also asked them to shake off the spirits of the past.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Financiero y Reforma recogen sus palabras.",
+   "en": "«El Financiero» and «Reforma» carry her words.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y hasta aquí el repaso de esta mañana.",
+   "en": "And that is the round-up for this morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Wednesday 19 August",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "Roadblocks, shootings and the burning of vehicles are being recorded at various points in",
+ "summary_en": [
+  "Roadblocks, shootings and the burning of vehicles are being recorded at various points in",
+  "The United States Department of Commerce preliminarily set antidumping margins of up to 5",
+  "The director of the United States anti-drug agency, the DEA, Terry Cole, said that Omar Ga"
+ ]
+}

@@ -1,0 +1,440 @@
+{
+ "title": "Le dix-huit heures, lundi 17 août",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-news",
+   "wpm": 222,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-17",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lundi dix-sept août. Le dix-huit heures.",
+   "en": "Monday the seventeenth of August. «Le dix-huit heures».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il pleut enfin sur les Hautes Fagnes,",
+   "en": "It is raining at last on «les Hautes Fagnes»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et l'incendie ne progresse plus vers la frontière allemande.",
+   "en": "and the fire is no longer advancing towards the German border.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Roi s'est rendu sur place auprès des pompiers.",
+   "en": "The King went to the scene to see the firefighters.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On ouvre avec le feu qui a occupé toute la journée.",
+   "en": "We open with the fire that took up the whole day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans les Hautes Fagnes, la pluie facilite le travail des secours, selon la DH.",
+   "en": "In «les Hautes Fagnes», the rain is making the work of the emergency services easier, according to «la DH».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est le premier vrai répit depuis le début du sinistre, vendredi dernier.",
+   "en": "It is the first real respite since the fire began, last Friday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les équipes de secours se relaient toujours sur le plateau, sans interruption.",
+   "en": "The emergency teams are still working in relays on the plateau, without a break.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'incendie ne progresse pas vers la frontière allemande,",
+   "en": "The fire is not advancing towards the German border,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "indiquait 7sur7 dans la journée.",
+   "en": "«7sur7» was reporting during the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le bilan donné dimanche soir,",
+   "en": "In the assessment given on Sunday evening,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "près de trois mille hectares seraient déjà partis en fumée.",
+   "en": "close to three thousand hectares had already gone up in smoke.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Roi a rendu visite aux pompiers mobilisés sur le plateau ce lundi matin.",
+   "en": "The King visited the firefighters deployed on the plateau this Monday morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est la première visite royale depuis le début du sinistre.",
+   "en": "It is the first royal visit since the fire began.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les renforts venus de l'étranger restent sur place.",
+   "en": "The reinforcements that came from abroad are still on site.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Chez nous toujours, un autre feu, bien plus petit, a marqué la journée.",
+   "en": "Still here at home, another fire, a much smaller one, marked the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un violent incendie a frappé la place de Montigny-le-Tilleul.",
+   "en": "A violent fire struck the square at «Montigny-le-Tilleul».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un café qui devait rouvrir bientôt a été touché par les flammes, selon la DH.",
+   "en": "A cafe that was due to reopen soon was hit by the flames, according to «la DH».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La maison d'à côté a été atteinte au niveau de la toiture.",
+   "en": "The house next door was caught at roof level.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Beauraing, une boîte d'allumettes a par ailleurs été retrouvée sur les lieux d'un",
+   "en": "At «Beauraing», a box of matches was also found at the scene of",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "feu de champ.",
+   "en": "a field fire.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est ce que rapportait 7sur7 ce lundi.",
+   "en": "That is what «7sur7» was reporting this Monday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ailleurs dans l'actu, le cinéma américain est en deuil.",
+   "en": "Elsewhere in the news, American cinema is in mourning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'actrice Hayden Panettiere est décédée à l'âge de trente-six ans.",
+   "en": "The actress «Hayden Panettiere» has died at the age of thirty six.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Son agent a confirmé le décès à ABC News, selon La Libre.",
+   "en": "Her agent confirmed the death to «ABC News», according to «La Libre».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La cause de sa mort n'a pas encore été communiquée.",
+   "en": "The cause of her death has not yet been given.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle était surtout connue pour ses rôles dans les séries Heroes et Nashville.",
+   "en": "She was best known for her roles in the series «Heroes» and «Nashville».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sur le plan européen, la cheffe de la diplomatie veut sanctionner davantage la Russie.",
+   "en": "On the European front, the head of EU diplomacy wants more sanctions on Russia.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Kaja Kallas l'a annoncé lundi dans le journal allemand Die Welt, selon la DH.",
+   "en": "«Kaja Kallas» announced it on Monday in the German paper «Die Welt», according to «la DH».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle veut augmenter d'un tiers le nombre d'entités russes sanctionnées.",
+   "en": "She wants to increase by a third the number of Russian entities sanctioned.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est en raison de la guerre en Ukraine.",
+   "en": "It is because of the war in «Ukraine».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle décrit cette liste comme la plus ambitieuse depuis le début du conflit.",
+   "en": "She describes that list as the most ambitious since the start of the conflict.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour terminer, une belle soirée pour le hockey belge.",
+   "en": "To finish, a fine evening for Belgian hockey.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les Red Panthers ont lancé leur Coupe du monde à Wavre.",
+   "en": "The «Red Panthers» launched their World Cup at «Wavre».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elles ont nettement dominé la Nouvelle-Zélande, cinq buts à deux, selon 7sur7.",
+   "en": "They clearly beat New Zealand, five goals to two, according to «7sur7».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Justine Rasir a signé un doublé, avec des buts de Stéphanie Vanden Borre,",
+   "en": "«Justine Rasir» scored twice, with goals from «Stéphanie Vanden Borre», «Emma",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'Emma Puvrez et de Charlotte Englebert.",
+   "en": "Puvrez» and «Charlotte Englebert».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Leur entraîneur s'est dit ravi de l'impact des plus jeunes, selon la DH.",
+   "en": "Their coach said he was delighted with the impact of the youngest players, according to «la DH».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Du côté masculin, les Red Lions affrontent les champions du monde allemands.",
+   "en": "On the men's side, the «Red Lions» face the German world champions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce sera leur deuxième match du tournoi, selon La Libre.",
+   "en": "It will be their second match of the tournament, according to «La Libre».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà où nous en sommes. Place à la météo.",
+   "en": "That is where we stand. Over to the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "script",
+ "title_en": "The evening news, Monday 17 August",
+ "edition": "evening",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "EU foreign policy chief wants a third more Russian entities sanctioned",
+ "summary_en": [
+  "EU foreign policy chief wants a third more Russian entities sanctioned",
+  "Rain in the Fagnes; fire not advancing towards the German border; King visits",
+  "Cafe destroyed by fire on the square at Montigny-le-Tilleul"
+ ]
+}

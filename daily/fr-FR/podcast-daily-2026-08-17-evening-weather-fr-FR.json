@@ -1,0 +1,299 @@
+{
+ "title": "La météo, lundi 17 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-17",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "La météo, maintenant, pour demain et pour les jours suivants.",
+   "en": "The weather now, for tomorrow and for the days that follow.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Demain mardi, le ciel reste couvert sur la moitié nord.",
+   "en": "Tomorrow, Tuesday, the sky stays overcast across the northern half.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Paris, on attend vingt-sept degrés au plus haut et dix-neuf au plus bas.",
+   "en": "In «Paris», twenty seven degrees are expected at the highest and nineteen at the lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y souffle jusqu'à dix-neuf kilomètres par heure,",
+   "en": "The wind there blows up to nineteen kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon les modèles de Météo-France.",
+   "en": "according to the «Météo-France» models.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mercredi, la baisse est nette dans la capitale :",
+   "en": "On Wednesday the drop is sharp in the capital:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "vingt-quatre degrés seulement, avec de la bruine.",
+   "en": "only twenty four degrees, with drizzle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et jeudi, vingt-deux degrés au plus haut,",
+   "en": "And on Thursday, twenty two degrees at the highest,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec de la pluie et un vent faible.",
+   "en": "with rain and a light wind.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le Sud, la chaleur tient bon toute la période.",
+   "en": "In the south, the heat holds firm right through the period.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Marseille, demain, trente-quatre degrés au plus haut et vingt-sept au plus bas.",
+   "en": "In «Marseille», tomorrow, thirty four degrees at the highest and twenty seven at the lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y est fort,",
+   "en": "The wind there is strong,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "jusqu'à trente-sept kilomètres par heure,",
+   "en": "up to thirty seven kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après les modèles de Météo-France.",
+   "en": "according to the «Météo-France» models.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mercredi, trente et un degrés sous des nuages épars,",
+   "en": "On Wednesday, thirty one degrees under scattered cloud,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un vent qui retombe à vingt et un kilomètres par heure.",
+   "en": "with the wind falling back to twenty one kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Jeudi, la maximale remonte à trente-deux degrés, sous un ciel couvert.",
+   "en": "On Thursday the high climbs again to thirty two degrees, under an overcast sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le Sud-Ouest, à Bordeaux, demain,",
+   "en": "In the south west, in «Bordeaux», tomorrow,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "trente-deux degrés au plus haut pour vingt au plus bas.",
+   "en": "thirty two degrees at the highest against twenty at the lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mercredi, trente degrés, sous un ciel couvert.",
+   "en": "On Wednesday, thirty degrees, under an overcast sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et jeudi, vingt-six degrés seulement,",
+   "en": "And on Thursday, only twenty six degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sous les nuages du matin au soir.",
+   "en": "under cloud from morning to evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La minimale y remonte à vingt et un degrés jeudi,",
+   "en": "The low there climbs back to twenty one degrees on Thursday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon les modèles de Météo-France.",
+   "en": "according to the «Météo-France» models.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Prudence en Gironde et dans les Landes,",
+   "en": "Take care in «la Gironde» and «les Landes»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où les sols restent secs après les incendies.",
+   "en": "where the ground stays dry after the fires.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo des prochains jours.",
+   "en": "That is the weather for the days ahead.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "The forecast, Monday 17 August",
+ "edition": "evening",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Prévision pour Paris, demain, mardi 2026-08-18",
+ "summary_en": [
+  "Prévision pour Paris, demain, mardi 2026-08-18",
+  "Prévision pour Paris, mercredi 2026-08-19"
+ ]
+}

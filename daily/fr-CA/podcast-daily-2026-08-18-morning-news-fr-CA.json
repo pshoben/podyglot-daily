@@ -1,0 +1,520 @@
+{
+ "title": "Le bulletin du matin, mardi 18 août",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-news",
+   "wpm": 185,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-18",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Mardi dix-huit août, dix heures trente à Montréal. Le bulletin du matin.",
+   "en": "Tuesday the eighteenth of August, half past ten in «Montréal». The morning bulletin.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Paul St-Pierre Plamondon écarte tout référendum tant que Donald Trump sera à la Maison-Blanche.",
+   "en": "«Paul St-Pierre Plamondon» rules out any referendum for as long as «Donald Trump» is in the White House.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'entente de Churchill Falls prévoit environ dix mille mégawatts pour le Québec.",
+   "en": "The «Churchill Falls» agreement provides about ten thousand megawatts for «Québec».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et un camp d'été ontarien a gardé un moniteur qui avait plaidé coupable d'agression",
+   "en": "And an Ontario summer camp kept an instructor who had pleaded guilty",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "contre des enfants.",
+   "en": "to assaulting children.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On débute avec la politique québécoise.",
+   "en": "We begin with Quebec politics.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Paul St-Pierre Plamondon a pris un engagement formel.",
+   "en": "«Paul St-Pierre Plamondon» has made a formal commitment.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un gouvernement du Parti québécois ne tiendra pas de référendum tant que Donald Trump",
+   "en": "A «Parti québécois» government will hold no referendum for as long as «Donald Trump» occupies",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "occupera la Maison-Blanche.",
+   "en": "the White House.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le chef péquiste avait évoqué la possibilité auparavant.",
+   "en": "The «PQ» leader had raised the possibility before.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cette fois, l'engagement est formel.",
+   "en": "This time the commitment is formal.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il garde tout de même le cap sur une consultation populaire dans un premier mandat.",
+   "en": "He is still keeping to a popular consultation in a first mandate.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mais pas avant le vingt janvier deux mille vingt-neuf.",
+   "en": "But not before the twentieth of January two thousand and twenty nine.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est ce que rapportent Radio-Canada et La Presse.",
+   "en": "That is what «Radio-Canada» and «La Presse» report.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On poursuit avec l'énergie, et avec un dossier qui revient sans cesse.",
+   "en": "We move on to energy, and to a file that keeps coming back.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le nouvel accord sur Churchill Falls prévoit que le Québec recevra environ dix mille mégawatts.",
+   "en": "The new «Churchill Falls» agreement provides that «Québec» will receive about ten thousand megawatts.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est une quantité considérable pour le réseau québécois.",
+   "en": "That is a considerable amount for the Quebec grid.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Parti québécois, lui, conteste la manière.",
+   "en": "The «Parti québécois», for its part, disputes how it was done.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il répète que Christine Fréchette n'avait pas la légitimité pour négocier.",
+   "en": "It repeats that «Christine Fréchette» did not have the legitimacy to negotiate.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il s'agit d'une nouvelle entente d'au moins quarante-cinq milliards avec Terre-Neuve-et-Labrador.",
+   "en": "This is a new agreement of at least forty five billion with «Terre-Neuve-et-Labrador».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le montant donne une idée de l'ampleur du dossier.",
+   "en": "The figure gives a sense of the scale of the file.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ces éléments viennent de Radio-Canada et de La Presse.",
+   "en": "These details come from «Radio-Canada» and «La Presse».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre nouvelle maintenant, du côté de l'Ontario.",
+   "en": "Another story now, over in «Ontario».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pendant des semaines cet été,",
+   "en": "For weeks this summer,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un moniteur en chef travaillait dans un camp de hockey à Kawartha Lakes.",
+   "en": "a lead instructor was working at a hockey camp in «Kawartha Lakes».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cet homme avait récemment plaidé coupable à des accusations d'agression contre des enfants.",
+   "en": "This man had recently pleaded guilty to charges of assaulting children.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aucune loi ontarienne n'oblige actuellement les camps d'été à filtrer le personnel qui travaille",
+   "en": "No Ontario law currently requires summer camps to screen staff who work",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "auprès des enfants.",
+   "en": "with children.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est le cœur de l'affaire.",
+   "en": "That is the heart of the matter.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le camp KL Hockey offre des activités de jour et des séjours de nuit.",
+   "en": "The «KL Hockey» camp offers day activities and overnight stays.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ces activités s'adressent aux enfants,",
+   "en": "These activities are for children,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en juillet et en août.",
+   "en": "in July and in August.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est ce que rapportent Radio-Canada et CBC.",
+   "en": "That is what «Radio-Canada» and «CBC» report.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En terminant, le soccer international.",
+   "en": "Finally, international football.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La présidente de la Fédération norvégienne de soccer, Lise Klaveness, a réagi mardi.",
+   "en": "The president of the Norwegian football federation, «Lise Klaveness», responded on Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle a qualifié d'inacceptable un congédiement décidé par la FIFA.",
+   "en": "She called a dismissal decided by «FIFA» unacceptable.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le haut responsable congédié avait déclaré que Gianni Infantino avait trompé le personnel.",
+   "en": "The senior official who was dismissed had said that «Gianni Infantino» misled the staff.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il s'agissait du projet de cession de la Coupe du monde.",
+   "en": "It concerned the plan to sell off the World Cup.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Madame Klaveness a exhorté les autres dirigeants de l'instance à résister aux directives potentiellement préjudiciables.",
+   "en": "Ms «Klaveness» urged the body's other leaders to resist potentially harmful directives.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le dirigeant qui a quitté son poste est Kevin Lamour, le numéro trois de l'instance.",
+   "en": "The official who left his post is «Kevin Lamour», the body's number three.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'information vient de Radio-Canada et de La Presse.",
+   "en": "The information comes from «Radio-Canada» and «La Presse».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Toujours à l'international, la péninsule coréenne.",
+   "en": "Still abroad, the Korean peninsula.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La présidence sud-coréenne a donné des assurances mardi.",
+   "en": "The South Korean presidency gave assurances on Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les manœuvres militaires annuelles lancées avec les États-Unis ne visent pas à attaquer la",
+   "en": "The annual military exercises launched with the United States are not intended to",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Corée du Nord.",
+   "en": "attack «North Korea».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De l'autre côté, la volonté de Donald Trump de réduire ces exercices suscite des critiques.",
+   "en": "On the other side, «Donald Trump»'s wish to reduce those exercises is drawing criticism.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des experts et des élus s'interrogent.",
+   "en": "Experts and elected representatives are questioning it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Radio-Canada et La Presse rapportent les deux versants.",
+   "en": "«Radio-Canada» and «La Presse» report both sides.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est le portrait du jour.",
+   "en": "That is the picture of the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 18 August",
+ "edition": "morning",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "Lise Klaveness, president of the Norwegian football federation, said on Tuesday that FIFA'",
+ "summary_en": [
+  "Lise Klaveness, president of the Norwegian football federation, said on Tuesday that FIFA'",
+  "Paul St-Pierre Plamondon has given a formal commitment that a Parti quebecois government w",
+  "For weeks this summer a lead instructor at a Kawartha Lakes hockey camp was a man who had"
+ ]
+}

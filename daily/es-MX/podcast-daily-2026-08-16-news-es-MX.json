@@ -1,0 +1,478 @@
+{
+ "title": "El noticiario vespertino, domingo 16 de agosto",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-news",
+   "wpm": 186,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-16",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Domingo dieciséis de agosto. El noticiario vespertino.",
+   "en": "Sunday the sixteenth of August. «El noticiario vespertino», the evening news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Indonesia, el terremoto del sábado",
+   "en": "In «Indonesia», Saturday's earthquake",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "es el más mortífero que ha sufrido el país desde dos mil veintidós.",
+   "en": "is the deadliest the country has suffered since two thousand and twenty-two.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en México,",
+   "en": "Here in «México»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la embajada de Estados Unidos afirma que la visa es un privilegio y no un derecho.",
+   "en": "the United States embassy says a visa is a privilege and not a right.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Comenzamos con Indonesia, y ese sismo de magnitud siete punto siete.",
+   "en": "We begin with «Indonesia», and that magnitude seven point seven quake.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sacudió la costa norte de la isla de Flores.",
+   "en": "It shook the north coast of the island of «Flores».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los balances han ido subiendo a lo largo del día,",
+   "en": "The tolls have risen through the day,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de unos cuarenta a más de cincuenta muertos.",
+   "en": "from around forty to more than fifty dead.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Unas cinco mil personas fueron evacuadas.",
+   "en": "Some five thousand people were evacuated.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El sismo dejó también deslaves y carreteras bloqueadas.",
+   "en": "The quake also caused landslides and blocked roads.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los equipos de emergencias continúan las labores de búsqueda y rescate.",
+   "en": "Emergency teams are continuing search and rescue work.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sigue el resto de la actualidad internacional, en Ceuta.",
+   "en": "The rest of the international news follows, in «Ceuta».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Entre cinco mil y ocho mil migrantes permanecen en el enclave español",
+   "en": "Between five thousand and eight thousand migrants remain in the Spanish enclave",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tras el cruce masivo de más de setenta y dos mil personas.",
+   "en": "after the mass crossing of more than seventy-two thousand people.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Muchos viven en condiciones precarias mientras buscan evitar su devolución a Marruecos.",
+   "en": "Many are living in precarious conditions while seeking to avoid being returned to «Marruecos».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los migrantes protestan y exigen asilo a España.",
+   "en": "The migrants are protesting and demanding asylum from Spain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Donald Trump ha comparado el episodio con la situación migratoria de Estados Unidos.",
+   "en": "«Donald Trump» has compared the episode to the migration situation in the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en México, el retiro de la visa a Andy López Beltrán.",
+   "en": "Here in «México», the withdrawal of «Andy López Beltrán»'s visa.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sin mencionarlo directamente,",
+   "en": "Without naming him directly,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la representación diplomática estadounidense sostuvo que su posición sobre las visas es clara.",
+   "en": "the American diplomatic mission held that its position on visas is clear.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se aplica, dijo, independientemente de la identidad o posición política de las personas.",
+   "en": "It applies, it said, regardless of people's identity or political position.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El embajador Christopher Landau destacó por su parte la relación entre México y Estados Unidos.",
+   "en": "The ambassador «Christopher Landau» for his part stressed the relationship between «México» and the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pidió no dejar que el drama político afecte la cooperación bilateral.",
+   "en": "He asked that the political drama not be allowed to affect bilateral cooperation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el resto de la actualidad, el registro de celulares.",
+   "en": "In other news, the mobile phone registry.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ayer concluyó la prórroga en el plazo para registrar las líneas terminadas en cero.",
+   "en": "Yesterday the extension closed on the deadline for registering lines ending in zero.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El sábado quince de agosto venció ese primer plazo.",
+   "en": "Saturday the fifteenth of August was when that first deadline expired.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "No se conocía la cifra precisa de los usuarios que omitieron el trámite.",
+   "en": "The precise number of users who did not complete the process was not known.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También en el resto de la actualidad, la Cofepris respondió a Estados Unidos.",
+   "en": "Also in other news, «Cofepris» has responded to the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Descartó que haya encontrado salmonela en muestras de chile jalapeño,",
+   "en": "It ruled out having found salmonella in samples of jalapeno pepper,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tras la alerta sanitaria estadounidense.",
+   "en": "after the American health alert.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Salud federal y las autoridades estatales mantienen vigilancia permanente",
+   "en": "Federal health and the state authorities maintain permanent surveillance",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sobre la cadena de producción y distribución de alimentos.",
+   "en": "over the food production and distribution chain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y hoy, la Universidad Nacional Autónoma de México.",
+   "en": "And today, the «Universidad Nacional Autónoma de México».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las y los aspirantes presentan hoy el examen de control presencial",
+   "en": "Candidates are sitting the in-person control exam today",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la Ciudad de México.",
+   "en": "in «Ciudad de México».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ya se conocen las sedes, los horarios, las rutas y los objetos permitidos.",
+   "en": "The venues, the times, the routes and the permitted items are now known.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "No podrán usar teléfonos celulares durante la prueba.",
+   "en": "They will not be able to use mobile phones during the test.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Tampoco se permitirá el acceso con mochilas, bolsas o bultos grandes.",
+   "en": "Nor will access be allowed with rucksacks, bags or large bundles.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y para terminar, una entrega de viviendas en Matamoros.",
+   "en": "And to finish, a handover of housing in «Matamoros».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Con la entrega de viviendas se hace justicia a quienes menos tienen,",
+   "en": "With the handover of housing,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dijo la presidenta Claudia Sheinbaum.",
+   "en": "justice is done to those who have least, said President «Claudia Sheinbaum».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cumple así compromisos con las familias de Matamoros.",
+   "en": "She is thereby keeping commitments to the families of «Matamoros».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más importante.",
+   "en": "That is the most important of it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y ahora, los resultados.",
+   "en": "And now, the results.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "title_en": "The evening news, Sunday 16 August",
+ "edition": "legacy",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "Indonesia's earthquake is the country's deadliest since 2022",
+ "summary_en": [
+  "Indonesia's earthquake is the country's deadliest since 2022",
+  "Migrants protest in Ceuta and demand asylum from Spain",
+  "US embassy: a visa is a privilege, not a right"
+ ]
+}

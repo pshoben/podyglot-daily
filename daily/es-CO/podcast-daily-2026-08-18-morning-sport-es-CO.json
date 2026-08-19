@@ -1,0 +1,179 @@
+{
+ "title": "La jornada deportiva, martes 18 de agosto",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-sport",
+   "wpm": 195,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-18",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos con el ciclismo.",
+   "en": "We start with cycling.",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Movistar confirmó que Nairo Quintana no hará parte de la Vuelta a España.",
+   "en": "«Movistar» has confirmed that «Nairo Quintana» will not be part of the «Vuelta a España».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El boyacense venía preparándose con la ilusión de volver a una gran vuelta.",
+   "en": "The rider from «Boyacá» had been preparing in the hope of returning to a grand tour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su ausencia es una de las bajas más importantes para Colombia.",
+   "en": "His absence is one of the biggest losses for «Colombia».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aun así, ya son tres los corredores colombianos confirmados para la carrera.",
+   "en": "Even so, three Colombian riders are already confirmed for the race.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Vuelta arranca este sábado en Mónaco.",
+   "en": "The «Vuelta» starts this Saturday in «Mónaco».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo reportan El Colombiano, El Tiempo y Semana.",
+   "en": "«El Colombiano», «El Tiempo» and «Semana» report it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y en la Selección Colombia,",
+   "en": "And in the «Colombia» national team,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "cambio en el cuerpo técnico.",
+   "en": "a change in the coaching staff.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El argentino José María Bazán, de cincuenta y cuatro años,",
+   "en": "The Argentine «José María Bazán», aged fifty four,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "se suma al equipo de trabajo de Néstor Lorenzo.",
+   "en": "joins «Néstor Lorenzo»'s staff.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Llega en reemplazo de Luis Amaranto Perea.",
+   "en": "He arrives to replace «Luis Amaranto Perea».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Perea dejó el cargo para asumir como técnico del Independiente Medellín.",
+   "en": "«Perea» left the post to become coach of «Independiente Medellín».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Así lo publican El Colombiano y Semana.",
+   "en": "That is what «El Colombiano» and «Semana» publish.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esa es la jornada.",
+   "en": "That is the day's sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Tuesday 18 August",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "Movistar confirmed that Nairo Quintana will not take part in the Vuelta a Espana 2026, des",
+ "summary_en": [
+  "Movistar confirmed that Nairo Quintana will not take part in the Vuelta a Espana 2026, des",
+  "Argentine Jose Maria Bazan, aged 54, joins Nestor Lorenzo's staff with the Colombia nation"
+ ]
+}

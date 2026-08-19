@@ -1,0 +1,166 @@
+{
+ "title": "Los resultados, domingo 16 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-results",
+   "wpm": 208,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "results",
+ "date": "2026-08-16",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Llega ahora el resultado del maratón del Campeonato de Europa de atletismo,",
+   "en": "Now comes the result of the marathon at the European athletics championships,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en las carreras femenina y masculina.",
+   "en": "in the women's and men's races.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Si no quiere oír estos resultados, pase a lo siguiente ahora.",
+   "en": "If you would rather not hear these results, move on now.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las atletas españolas han logrado la medalla de bronce por equipos en el",
+   "en": "The Spanish women have taken the team bronze medal in the marathon",
+   "prosody": {
+    "pause_ms": 4000,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "maratón del Europeo.",
+   "en": "at the Europeans.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La carrera se ha disputado en Birmingham,",
+   "en": "The race was held in «Birmingham»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que ha amanecido con once grados y cielo cubierto.",
+   "en": "which woke up to eleven degrees and overcast skies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Una mañana fresca, ideal para correr",
+   "en": "A cool morning, ideal for running",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "los cuarenta y dos kilómetros y ciento noventa y cinco metros de la distancia.",
+   "en": "the forty-two kilometres and one hundred and ninety-five metres of the distance.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la carrera femenina,",
+   "en": "In the women's race,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la victoria ha sido para la finlandesa Vainio,",
+   "en": "the win went to «Vainio» of «Finlandia»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tras una carrera en solitario.",
+   "en": "after running alone.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la masculina, se ha impuesto el alemán Petros, un refugiado de Eritrea.",
+   "en": "In the men's, the winner was «Petros» of «Alemania», a refugee from «Eritrea».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y hasta aquí los resultados.",
+   "en": "That is the end of the results.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "title_en": "Results, Sunday 16 August",
+ "edition": "legacy",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "The marathon at the European athletics championships",
+ "summary_en": [
+  "The marathon at the European athletics championships"
+ ]
+}

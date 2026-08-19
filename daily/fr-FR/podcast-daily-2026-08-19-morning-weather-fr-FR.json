@@ -1,0 +1,309 @@
+{
+ "title": "La météo, mercredi 19 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-19",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le temps de ce mercredi,",
+   "en": "The weather for this Wednesday,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans un pays marqué par la sécheresse.",
+   "en": "in a country marked by drought.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par le Var,",
+   "en": "We begin with the «Var»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où l'incendie est officiellement éteint.",
+   "en": "where the fire is officially out.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le feu du Gros Bessillon s'était déclaré le vingt et un juillet à Pontevès.",
+   "en": "The «Gros Bessillon» fire had started on the twenty first of July at «Pontevès».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a parcouru six mille trois cents hectares.",
+   "en": "It burned through six thousand three hundred hectares.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Plus de onze mille pompiers ont été mobilisés sur cet incendie.",
+   "en": "More than eleven thousand firefighters were sent to this fire.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il est considéré comme le feu le plus long de l'histoire du département.",
+   "en": "It is considered the longest fire in the history of the department.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "France Télévisions et Sud Ouest annoncent la fin des opérations.",
+   "en": "«France Télévisions» and «Sud Ouest» report the end of operations.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La sécheresse, elle, continue de marquer le pays.",
+   "en": "The drought, for its part, continues to mark the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les images satellite montrent des étendues jaunies dans la moitié nord.",
+   "en": "Satellite images show yellowed expanses in the northern half.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au domaine de Chambord, les pelouses sont jaunies, voire complètement brûlées.",
+   "en": "At the «domaine de Chambord», the lawns are yellowed, and even completely burned.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les arbustes sont desséchés, et les arbres montrent maintenant des signes de faiblesse.",
+   "en": "The shrubs are dried out, and the trees are now showing signs of weakness.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "France Télévisions et Ouest-France décrivent cet été historique.",
+   "en": "«France Télévisions» and «Ouest-France» describe this historic summer.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour les températures d'aujourd'hui maintenant, ville par ville.",
+   "en": "Now for today's temperatures, city by city.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Paris, on attend vingt-huit degrés au plus haut et dix-neuf au plus bas.",
+   "en": "In «Paris», twenty eight degrees are expected at the highest and nineteen at the lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De la bruine est prévue dans la capitale.",
+   "en": "Drizzle is forecast in the capital.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y souffle jusqu'à vingt-trois kilomètres par heure.",
+   "en": "The wind there blows up to twenty three kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Bordeaux, la maximale monte à trente degrés et la minimale descend à dix-neuf.",
+   "en": "In «Bordeaux», the maximum climbs to thirty degrees and the minimum drops to nineteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ciel y est couvert,",
+   "en": "The sky there is overcast,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent reste faible,",
+   "en": "and the wind stays light,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à seize kilomètres par heure.",
+   "en": "at sixteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Marseille, on attend trente degrés au plus haut et vingt-cinq au plus bas.",
+   "en": "In «Marseille», thirty degrees are expected at the highest and twenty five at the lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ciel y est couvert aussi,",
+   "en": "The sky there is overcast as well,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un vent jusqu'à dix-neuf kilomètres par heure.",
+   "en": "with wind up to nineteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est donc Marseille qui garde la nuit la plus douce des trois villes.",
+   "en": "So it is «Marseille» that keeps the mildest night of the three cities.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ces prévisions viennent des modèles de Météo-France.",
+   "en": "These forecasts come from the models of «Météo-France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le temps de ce mercredi.",
+   "en": "That is the weather for this Wednesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Wednesday 19 August",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Prévision pour Paris, mercredi 2026-08-19",
+ "summary_en": [
+  "Prévision pour Paris, mercredi 2026-08-19",
+  "Prévision pour Bordeaux, mercredi 2026-08-19"
+ ]
+}

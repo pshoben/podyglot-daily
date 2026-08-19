@@ -1,0 +1,289 @@
+{
+ "title": "El pronóstico, miércoles 19 de agosto",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-weather",
+   "wpm": 195,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-19",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Así está el cielo en Buenos Aires,",
+   "en": "Here is the sky in «Buenos Aires»,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en Córdoba y en Mendoza.",
+   "en": "in «Cordoba» and in «Mendoza».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Buenos Aires, cielo nuboso.",
+   "en": "In «Buenos Aires», cloudy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Máxima de trece grados y mínima de seis.",
+   "en": "A high of thirteen degrees and a low of six.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación es de apenas cuatro por ciento,",
+   "en": "The chance of precipitation is only four per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con viento de hasta once kilómetros por hora.",
+   "en": "with wind of up to eleven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Córdoba, también nuboso.",
+   "en": "In «Cordoba», cloudy as well.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Máxima de diecisiete grados y mínima de cinco.",
+   "en": "A high of seventeen degrees and a low of five.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ahí la probabilidad baja al dos por ciento,",
+   "en": "There the chance drops to two per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con viento de hasta siete kilómetros por hora.",
+   "en": "with wind of up to seven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Mendoza, cielo poco nuboso.",
+   "en": "In «Mendoza», light cloud.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Máxima de veinte grados y mínima de cuatro.",
+   "en": "A high of twenty degrees and a low of four.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cero por ciento de probabilidad de precipitación y viento de hasta siete kilómetros por hora.",
+   "en": "A zero per cent chance of precipitation and wind of up to seven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Buenos Aires se queda entonces con la máxima más baja de las tres,",
+   "en": "«Buenos Aires», then, has the lowest maximum of the three,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "siete grados por debajo de Mendoza.",
+   "en": "seven degrees below «Mendoza».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y en el área metropolitana,",
+   "en": "And in the metropolitan area,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "después de semanas seguidas de lluvias y cielos cubiertos por una masa de baja presión,",
+   "en": "after consecutive weeks of rain and overcast skies from a low pressure mass,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el sol volvió a aparecer.",
+   "en": "the sun has come back out.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Conviene aprovecharlo.",
+   "en": "It is worth making the most of it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Servicio Meteorológico Nacional anticipó tres días de ciclogénesis,",
+   "en": "The national weather service has forecast three days of cyclogenesis,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con tormentas de hasta setenta milímetros de agua,",
+   "en": "with storms of up to seventy millimetres of water,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ráfagas de sesenta kilómetros por hora y la irrupción de aire frío polar.",
+   "en": "gusts of sixty kilometres an hour and the irruption of polar cold air.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Litoral y parte del noreste concentrarán las mayores probabilidades de precipitaciones,",
+   "en": "The «Litoral» and part of the northeast will see the highest chances of rain,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el fenómeno traerá un marcado descenso térmico.",
+   "en": "and the phenomenon will bring a marked drop in temperature.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los valores de hoy, ciudad por ciudad, son del modelo del Centro Europeo, el ECMWF.",
+   "en": "Today's city-by-city values are from the European Centre model, the «ECMWF».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Con eso queda el tiempo de la jornada.",
+   "en": "That leaves the weather for the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Wednesday 19 August",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Previsión para Buenos Aires, miércoles 2026-08-19",
+ "summary_en": [
+  "Previsión para Buenos Aires, miércoles 2026-08-19",
+  "Previsión para Córdoba, miércoles 2026-08-19"
+ ]
+}

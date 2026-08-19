@@ -1,0 +1,189 @@
+{
+ "title": "El pronóstico, lunes 17 de agosto",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-weather",
+   "wpm": 195,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-17",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El pronóstico para hoy.",
+   "en": "The forecast for today.",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cómo viene el tiempo: un día frío y húmedo en buena parte del país.",
+   "en": "How the weather is coming: a cold, damp day across a good part of the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Buenos Aires se esperan catorce grados de máxima y once de mínima.",
+   "en": "In «Buenos Aires» fourteen degrees are expected at the top and eleven at the bottom.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación es del treinta y uno por ciento,",
+   "en": "The chance of precipitation is thirty one per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según el modelo del Centro Europeo.",
+   "en": "according to the European Centre model.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento llega hasta diecisiete kilómetros por hora.",
+   "en": "The wind reaches up to seventeen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Provincia por provincia, Córdoba repite la máxima de catorce grados, con diez de mínima.",
+   "en": "Province by province, «Córdoba» repeats the high of fourteen degrees, with ten at the bottom.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí la probabilidad de precipitación sube al cincuenta y tres por ciento.",
+   "en": "There the chance of precipitation rises to fifty three per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento alcanza los veinte kilómetros por hora, según el mismo modelo.",
+   "en": "The wind reaches twenty kilometres an hour, according to the same model.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Atención, además, con lo más crudo de la jornada.",
+   "en": "Watch out, too, for the rawest part of the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Mendoza se esperan diez grados de máxima y apenas siete de mínima,",
+   "en": "In «Mendoza» ten degrees are expected at the top and barely seven at the bottom,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según el mismo modelo.",
+   "en": "according to the same model.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación es del cien por ciento,",
+   "en": "The chance of precipitation is one hundred per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con viento de veintinueve kilómetros por hora.",
+   "en": "with wind of twenty nine kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Si tiene planes al aire libre por el feriado, conviene abrigarse bien.",
+   "en": "If you have outdoor plans for the holiday, it is worth wrapping up well.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Así está el cielo. Ahora, el deporte.",
+   "en": "That is the sky. Now, the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "script",
+ "title_en": "Today's weather, Monday 17 August",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Buenos Aires: 14 degrees",
+ "summary_en": [
+  "Buenos Aires: 14 degrees",
+  "Córdoba: 14 degrees"
+ ]
+}

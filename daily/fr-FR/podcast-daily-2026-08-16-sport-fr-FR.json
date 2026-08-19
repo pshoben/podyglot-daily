@@ -1,0 +1,177 @@
+{
+ "title": "Le sport, dimanche 16 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-16",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Au programme aujourd'hui, la dernière soirée des championnats d'Europe de natation.",
+   "en": "On the programme today, the final evening of the European swimming championships.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le centre aquatique de Saint-Denis accueille ce dimanche les dernières finales.",
+   "en": "The aquatic centre at «Saint-Denis» hosts the last finals this Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Léon Marchand nage la finale du quatre cents mètres nage libre,",
+   "en": "«Léon Marchand» swims the four hundred metres freestyle final,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "une première pour lui dans une compétition internationale.",
+   "en": "a first for him in international competition.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La soirée se termine par la finale du relais quatre fois cent mètres quatre nages,",
+   "en": "The evening ends with the four by one hundred metres medley relay final,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à vingt heures onze.",
+   "en": "at eleven minutes past eight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Léon Marchand, Maxime Grousset et Yohann Ndoye Brouard composent le relais français.",
+   "en": "«Léon Marchand», «Maxime Grousset» and «Yohann Ndoye Brouard» make up the French relay.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ils seront accompagnés de Carl Aitkaci.",
+   "en": "They will be joined by «Carl Aitkaci».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Du côté du football, le PSG retrouve Lens à Bollaert pour le Trophée des champions.",
+   "en": "Over in football, «PSG» meet «Lens» at «Bollaert» for the «Trophée des champions».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le champion de France et le vainqueur de la Coupe de France",
+   "en": "The French champions and the «Coupe de France» winners",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "s'affrontent à vingt heures quarante-cinq.",
+   "en": "face each other at a quarter to nine.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est un premier rendez-vous avant le début de la saison de Ligue un,",
+   "en": "It is a first meeting before the «Ligue 1» season starts,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans moins d'une semaine.",
+   "en": "in less than a week.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et voilà pour le résumé sportif.",
+   "en": "And that concludes the sports summary.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et maintenant, les résultats.",
+   "en": "And now, the results.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "title_en": "Sport, Sunday 16 August",
+ "edition": "legacy",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "PSG meet Lens at Bollaert for the Trophee des champions, penalties if level",
+ "summary_en": [
+  "PSG meet Lens at Bollaert for the Trophee des champions, penalties if level",
+  "The medley relay closes the European championships on Sunday evening"
+ ]
+}

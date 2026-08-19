@@ -1,0 +1,213 @@
+{
+ "title": "El tiempo, miércoles 19 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather",
+   "wpm": 208,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-19",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "La AEMET tiene avisos activos para hoy en el Pirineo y en Baleares.",
+   "en": "«AEMET» has warnings in force today in the «Pirineo» and in the «Baleares».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El aviso naranja es para el Pirineo de Girona,",
+   "en": "The orange warning is for the «Pirineo de Girona»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por lluvias y por tormentas.",
+   "en": "for rain and for storms.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Está en vigor desde la una de la tarde hasta casi las diez",
+   "en": "It runs from one in the afternoon until almost ten",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de la noche.",
+   "en": "at night.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hay avisos amarillos por lluvias y por tormentas en el Pirineo oscense.",
+   "en": "There are yellow warnings for rain and for storms in the «Pirineo oscense».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También en el Valle de Arán y en el Pirineo de Lleida,",
+   "en": "Also in the «Valle de Arán» and in the «Pirineo de Lleida»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "desde las seis de la tarde.",
+   "en": "from six in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Baleares los avisos amarillos son por temperaturas máximas.",
+   "en": "In the «Baleares» the yellow warnings are for maximum temperatures.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Afectan, entre otras zonas, al interior de Mallorca y a Ibiza y Formentera.",
+   "en": "They cover, among other zones, the interior of «Mallorca» and «Ibiza» and «Formentera».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Van desde el mediodía hasta las siete de la tarde.",
+   "en": "They run from midday until seven in the evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El boletín de avisos de la AEMET llega hasta la noche del viernes.",
+   "en": "The «AEMET» warning bulletin runs until Friday night.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Vamos ahora con la capital.",
+   "en": "Now to the capital.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Madrid se esperan treinta y cinco grados de máxima y veinticuatro de mínima.",
+   "en": "In «Madrid» thirty five degrees are expected at the highest and twenty four at the lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo queda despejado las veinticuatro horas, sin probabilidad de lluvia.",
+   "en": "The sky stays clear for the twenty four hours, with no chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es una jornada sin agua en el centro,",
+   "en": "It is a day without water in the centre,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "mientras el nordeste espera tormenta.",
+   "en": "while the north east expects storms.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Estos son los datos de la AEMET para la jornada.",
+   "en": "These are the «AEMET» figures for the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Wednesday 19 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "España",
+ "accent": "Castilla",
+ "accent_label": "acento de Castilla",
+ "segment_order": 0,
+ "headline_en": "Predicción AEMET para Madrid (Madrid), 2026-08-19",
+ "summary_en": [
+  "Predicción AEMET para Madrid (Madrid), 2026-08-19",
+  "AEMET has issued an orange warning for rain and an orange warning for storms in the Pirine"
+ ]
+}

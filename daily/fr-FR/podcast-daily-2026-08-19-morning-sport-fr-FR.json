@@ -1,0 +1,239 @@
+{
+ "title": "Le sport, mercredi 19 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-19",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Les Championnats du monde de saut d'obstacles se poursuivent en Allemagne.",
+   "en": "The world show jumping championships continue in Germany.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'équipe de France entre en piste ce mercredi matin, sur l'herbe d'Aix-la-Chapelle.",
+   "en": "The French team goes into the ring this Wednesday morning, on the grass at «Aix-la-Chapelle».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La France présente la même équipe qu'à La Baule.",
+   "en": "«France» is fielding the same team as at «La Baule».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est là qu'elle avait gagné la Coupe des nations, au mois de juin.",
+   "en": "That is where it had won the Nations Cup, in the month of June.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La pluie pourrait s'inviter sur la piste.",
+   "en": "Rain could arrive on the course.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le stade d'Aix-la-Chapelle accueille quarante mille spectateurs.",
+   "en": "The arena at «Aix-la-Chapelle» holds forty thousand spectators.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sa piste en herbe représente un défi pour les chevaux.",
+   "en": "Its grass course is a challenge for the horses.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour le cavalier français Julien Epaillard,",
+   "en": "For the French rider «Julien Epaillard»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ces Mondiaux sont aussi importants que les Jeux olympiques.",
+   "en": "these world championships are as important as the Olympic Games.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il l'a dit sur ICI Cotentin.",
+   "en": "He said so on «ICI Cotentin».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La France tente d'obtenir son billet pour les Jeux de Los Angeles,",
+   "en": "«France» is trying to earn its ticket for the «Los Angeles» Games,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en deux mille vingt-huit.",
+   "en": "in twenty twenty eight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Équipe et France Télévisions suivent la compétition.",
+   "en": "«L'Équipe» and «France Télévisions» are following the competition.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En football, le championnat de Ligue 1 reprend ce week-end.",
+   "en": "In football, the «Ligue 1» championship starts again this weekend.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La première journée se joue à partir de samedi.",
+   "en": "The first matchday is played from Saturday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Mans y fait son retour après seize ans d'absence.",
+   "en": "«Le Mans» makes its return there after sixteen years away.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Son entraîneur, Patrick Videira, a reconnu mercredi que le club avait du retard.",
+   "en": "Its coach, «Patrick Videira», acknowledged on Wednesday that the club had ground to make up.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a ajouté qu'il fallait continuer à travailler.",
+   "en": "He added that it was necessary to keep working.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il s'exprimait sur ICI Maine.",
+   "en": "He was speaking on «ICI Maine».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "France Télévisions et L'Équipe annoncent ce retour.",
+   "en": "«France Télévisions» and «L'Équipe» report this return.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour les rendez-vous du jour.",
+   "en": "That is the diary for today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Wednesday 19 August",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "The world show jumping championships are being held in Germany, at Aachen. The France team",
+ "summary_en": [
+  "The world show jumping championships are being held in Germany, at Aachen. The France team",
+  "The first matchday of the 2026-2027 Ligue 1 season is being played this weekend. Le Mans F"
+ ]
+}

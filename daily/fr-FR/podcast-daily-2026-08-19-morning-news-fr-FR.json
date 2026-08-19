@@ -1,0 +1,590 @@
+{
+ "title": "Le journal du matin, mercredi 19 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-19",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Mercredi dix-neuf août, neuf heures et demie du matin à Paris. Le journal du matin.",
+   "en": "Wednesday the nineteenth of August, half past nine in the morning in «Paris». The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La France va expulser deux diplomates iraniens,",
+   "en": "«France» is going to expel two Iranian diplomats,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en représailles à une décision de Téhéran.",
+   "en": "in retaliation for a decision by «Téhéran».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et la loi sur l'aide à mourir est promulguée :",
+   "en": "And the law on assisted dying has been promulgated:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "elle paraît aujourd'hui au Journal officiel.",
+   "en": "it appears today in the «Journal officiel».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par la diplomatie, et par une mesure de rétorsion.",
+   "en": "We begin with diplomacy, and with a retaliatory measure.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ministre des Affaires étrangères a annoncé mardi soir l'expulsion de deux diplomates iraniens.",
+   "en": "The foreign minister announced on Tuesday evening the expulsion of two Iranian diplomats.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ces deux diplomates sont en poste en France.",
+   "en": "These two diplomats are posted in «France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mesure doit intervenir dans les tout prochains jours.",
+   "en": "The measure is to take effect in the very next few days.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle répond à une décision prise par l'Iran.",
+   "en": "It answers a decision taken by Iran.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Téhéran a déclaré persona non grata deux diplomates de l'ambassade de France.",
+   "en": "«Téhéran» declared two diplomats of the French embassy «persona non grata».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'annonce a été relayée par France 24, France Télévisions et Libération.",
+   "en": "The announcement was carried by «France 24», «France Télévisions» and «Libération».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Changement de sujet, avec un texte qui vient d'entrer dans le droit.",
+   "en": "A change of subject, with a text that has just entered the law.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La loi créant un droit à l'aide à mourir a été promulguée par Emmanuel Macron.",
+   "en": "The law creating a right to assisted dying has been promulgated by «Emmanuel Macron».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle est publiée ce mercredi au Journal officiel.",
+   "en": "It is published this Wednesday in the «Journal officiel».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le texte avait été validé par le Conseil constitutionnel, avec quelques réserves.",
+   "en": "The text had been validated by the «Conseil constitutionnel», with some reservations.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il ouvre un droit à l'aide à mourir, sous plusieurs conditions, pour certains patients.",
+   "en": "It opens a right to assisted dying, under several conditions, for certain patients.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Parlement l'avait adopté définitivement à la mi-juillet.",
+   "en": "Parliament had adopted it definitively in mid July.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est ce que rapportent Le Monde,",
+   "en": "That is what «Le Monde»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Figaro et France Télévisions.",
+   "en": "«Le Figaro» and «France Télévisions» report.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La loi ne s'appliquera pas tout de suite.",
+   "en": "The law will not apply straight away.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le gouvernement doit encore publier les décrets d'application nécessaires.",
+   "en": "The government must still publish the necessary implementing decrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les premières procédures ne devraient pas être engagées avant plusieurs mois.",
+   "en": "The first procedures are not expected to be started for several months.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ouest-France et Libération le précisent.",
+   "en": "«Ouest-France» and «Libération» make that clear.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à autre chose, le piratage du fisc,",
+   "en": "We move on to something else,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et les excuses du gouvernement.",
+   "en": "the hacking of the tax service, and the government's apologies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ministre des Comptes publics, David Amiel,",
+   "en": "The public accounts minister, «David Amiel»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a présenté ses excuses mardi.",
+   "en": "offered his apologies on Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'attaque a touché au moins six cent soixante-dix-huit mille particuliers et professionnels.",
+   "en": "The attack affected at least six hundred and seventy eight thousand individuals and professionals.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle concerne aussi quatre cent trente mille particuliers pour les fichiers cadastraux.",
+   "en": "It also concerns four hundred and thirty thousand individuals for the land registry files.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'administration fiscale a par ailleurs reconnu une troisième fuite de données.",
+   "en": "The tax administration has also acknowledged a third data leak.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cette fuite portait sur les successions, et elle a été rapidement coupée.",
+   "en": "That leak concerned inheritances, and it was cut off quickly.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le détail est donné par France 24,",
+   "en": "The detail is given by «France 24»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Monde et Le Télégramme.",
+   "en": "«Le Monde» and «Le Télégramme».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre parution au Journal officiel ce mercredi, la loi d'urgence agricole.",
+   "en": "Another publication in the «Journal officiel» this Wednesday, the agricultural emergency law.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle a elle aussi été promulguée mercredi,",
+   "en": "It too was promulgated on Wednesday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "après son passage devant le Conseil constitutionnel.",
+   "en": "after going before the «Conseil constitutionnel».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Conseil l'avait validée dans sa quasi-totalité en fin de semaine dernière.",
+   "en": "The Council had validated it almost in its entirety at the end of last week.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le texte répond à la colère des agriculteurs et à la sécheresse historique.",
+   "en": "The text answers the anger of farmers and the historic drought.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Télégramme et Ouest-France en rendent compte.",
+   "en": "«Le Télégramme» and «Ouest-France» report on it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Bretagne, un accident a fait seize blessés mardi soir.",
+   "en": "In Brittany, an accident injured sixteen people on Tuesday evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un gradin s'est effondré au château de Bienassis, à Erquy, dans les Côtes-d'Armor.",
+   "en": "A stand collapsed at the «château de Bienassis», at «Erquy», in the «Côtes-d'Armor».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'effondrement s'est produit juste avant un spectacle son et lumière.",
+   "en": "The collapse happened just before a sound and light show.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Une centaine de spectateurs s'installaient à ce moment-là.",
+   "en": "About a hundred spectators were taking their seats at that moment.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seize personnes ont été blessées, dont cinq ont été hospitalisées.",
+   "en": "Sixteen people were injured, five of whom were taken to hospital.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Télégramme et France Télévisions ont suivi les secours sur place.",
+   "en": "«Le Télégramme» and «France Télévisions» followed the rescue services on the spot.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On termine par l'espace.",
+   "en": "We finish with space.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sophie Adenot est devenue mardi la première Française à sortir dans l'espace.",
+   "en": "«Sophie Adenot» became on Tuesday the first Frenchwoman to go out into space.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle a réalisé cette sortie depuis la Station spatiale internationale.",
+   "en": "She carried out this excursion from the International Space Station.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle était accompagnée de l'Américain Anil Menon.",
+   "en": "She was accompanied by the American «Anil Menon».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle est rentrée dans la Station après six heures à l'extérieur.",
+   "en": "She came back into the station after six hours outside.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mission n'a pas pu être achevée :",
+   "en": "The mission could not be completed:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "il fallait remplacer une antenne de communication.",
+   "en": "a communications antenna had to be replaced.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sophie Adenot est à bord de la Station depuis le mois de février.",
+   "en": "«Sophie Adenot» has been aboard the station since February.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "France Télévisions, Le Figaro et Le Télégramme racontent cette journée.",
+   "en": "«France Télévisions», «Le Figaro» and «Le Télégramme» tell the story of that day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel de ce mercredi matin.",
+   "en": "That is the most notable of this Wednesday morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Wednesday 19 August",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "France will expel two Iranian diplomats posted in France. The French foreign minister anno",
+ "summary_en": [
+  "France will expel two Iranian diplomats posted in France. The French foreign minister anno",
+  "The law creating a right to assisted dying was promulgated by Emmanuel Macron and publishe",
+  "The law will not apply immediately. The government must still publish the necessary implem"
+ ]
+}

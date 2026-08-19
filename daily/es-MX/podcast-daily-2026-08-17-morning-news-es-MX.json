@@ -1,0 +1,500 @@
+{
+ "title": "El noticiario matutino, lunes 17 de agosto",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-news",
+   "wpm": 186,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-17",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lunes diecisiete de agosto. El noticiario matutino.",
+   "en": "Monday the seventeenth of August. «El noticiario matutino».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Señalan que Estados Unidos convirtió las visas en una herramienta de presión política,",
+   "en": "It is reported that the United States has turned visas into a tool of political pressure,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según El Economista y El Financiero.",
+   "en": "according to «El Economista» and «El Financiero».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en México, Ricardo Monreal pidió a Morena unidad",
+   "en": "Here in «México», «Ricardo Monreal» has asked «Morena» for unity",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y autocrítica ante las disputas por las candidaturas.",
+   "en": "and self criticism amid the disputes over candidacies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Arrancamos con la relación bilateral.",
+   "en": "We start with the bilateral relationship.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El gobierno estadounidense convirtió la cancelación de visas en una herramienta de presión política.",
+   "en": "The American government turned the cancelling of visas into a tool of political pressure.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esa presión recae sobre integrantes de la clase política mexicana,",
+   "en": "That pressure falls on members of the Mexican political class,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en medio del endurecimiento de la estrategia de Washington.",
+   "en": "amid the hardening of Washington's strategy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Así lo publicó El Economista este lunes.",
+   "en": "That is what «El Economista» published this Monday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El diario The New York Times sostuvo que la medida busca reafirmar el control sobre",
+   "en": "The newspaper «The New York Times» held that the measure seeks to reassert control over",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el hemisferio occidental.",
+   "en": "the western hemisphere.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esa versión la recogió El Financiero.",
+   "en": "That account was picked up by «El Financiero».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La presidenta Claudia Sheinbaum reiteró que una visa no define a una persona.",
+   "en": "President «Claudia Sheinbaum» repeated that a visa does not define a person.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo dijo tras la polémica por el retiro de la visa a Andy López Beltrán.",
+   "en": "She said so after the controversy over the withdrawal of «Andy López Beltrán»'s visa.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en México, el coordinador de Morena en la Cámara de Diputados llamó a su",
+   "en": "Here in «México», «Morena»'s coordinator in the Chamber of Deputies called on his party",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "partido a hacer una autocrítica.",
+   "en": "to be self critical.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ricardo Monreal pidió mostrar madurez política ante las disputas por las candidaturas.",
+   "en": "«Ricardo Monreal» asked for political maturity amid the disputes over candidacies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También hizo un llamado a la militancia a cerrar filas con la presidenta.",
+   "en": "He also called on the membership to close ranks with the president.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pidió mantener la unidad por encima de los intereses particulares.",
+   "en": "He asked that unity be kept above particular interests.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En otros temas, Jalisco fortaleció la vigilancia y el control del gusano barrenador.",
+   "en": "In other matters, «Jalisco» has strengthened surveillance and control of the screwworm.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Al catorce de agosto la entidad acumulaba mil cuarenta y cinco casos,",
+   "en": "As of the fourteenth of August the state had accumulated one thousand and forty five cases,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de los cuales ochenta y dos seguían activos.",
+   "en": "of which eighty two were still active.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En todo el país, la Secretaría de Agricultura",
+   "en": "Across the country, the agriculture ministry",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y Sembrando Vida capturaron dieciséis millones de moscas.",
+   "en": "and «Sembrando Vida» captured sixteen million flies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo lograron con seiscientas mil trampas artesanales,",
+   "en": "They did it with six hundred thousand handmade traps,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según El Economista y La Jornada.",
+   "en": "according to «El Economista» and «La Jornada».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esas moscas pueden hospedar las larvas del gusano, que afecta al ganado.",
+   "en": "Those flies can host the larvae of the worm, which affects livestock.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el Estado de México,",
+   "en": "In the State of «México»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la Línea tres del Mexicable registra un avance de setenta",
+   "en": "Line three of the «Mexicable» is seventy one",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y uno punto cuatro por ciento.",
+   "en": "point four per cent complete.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se prevé que la obra concluya a finales de este año, según El Economista.",
+   "en": "The work is expected to finish at the end of this year, according to «El Economista».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El nuevo sistema reducirá hasta treinta minutos los tiempos de traslado.",
+   "en": "The new system will cut journey times by up to thirty minutes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Tendrá capacidad para atender a más de cuarenta mil usuarios al día.",
+   "en": "It will have the capacity to serve more than forty thousand users a day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la capital, el Gobierno de la Ciudad de México destinará dos mil millones de",
+   "en": "In the capital, the Mexico City government will put two thousand million",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pesos al transporte.",
+   "en": "pesos towards transport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El dinero servirá para adquirir cerca de quinientos autobuses de la Red de Transportes de",
+   "en": "The money will go to buying close to five hundred buses for the passenger transport network,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasajeros, según La Jornada.",
+   "en": "according to «La Jornada».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Estarán disponibles a más tardar en marzo próximo.",
+   "en": "They will be available by next March at the latest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ampliar las rutas hacia la zona periférica es la prioridad anunciada.",
+   "en": "Extending the routes towards the outlying areas is the stated priority.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para terminar, una buena noticia deportiva.",
+   "en": "To finish, some good news from sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La selección mexicana femenil de flag football consiguió el boleto a los Juegos Olímpicos de",
+   "en": "The Mexican women's flag football team won their place at the Los Angeles two thousand",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los Ángeles dos mil veintiocho.",
+   "en": "and twenty eight Olympic Games.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ganó veinte a diecinueve a Gran Bretaña en el partido por el tercer lugar del",
+   "en": "They beat Great Britain twenty to nineteen in the third place match of the World Championship,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Campeonato Mundial, disputado en Alemania.",
+   "en": "played in Germany.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Con ese triunfo conquistó además la medalla de bronce del torneo.",
+   "en": "With that win they also took the bronze medal of the tournament.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más destacado. Enseguida, el clima.",
+   "en": "That is what stands out most. Coming up next, the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "script",
+ "title_en": "The morning news, Monday 17 August",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "US visa revocations used as political pressure, Sheinbaum responds",
+ "summary_en": [
+  "US visa revocations used as political pressure, Sheinbaum responds",
+  "Monreal asks Morena for unity over candidacies",
+  "Screwworm: Jalisco tightens surveillance, 16 million flies trapped nationally"
+ ]
+}

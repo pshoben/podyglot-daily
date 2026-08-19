@@ -1,0 +1,229 @@
+{
+ "title": "El estado del tiempo, miércoles 19 de agosto",
+ "dialect": "es-CL",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CL-daily-weather",
+   "wpm": 205,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-19",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Así está el cielo hoy en Santiago,",
+   "en": "Here is the sky today in «Santiago»,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en Valparaíso y en Concepción.",
+   "en": "in «Valparaiso» and in «Concepcion».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Santiago, cielo nuboso.",
+   "en": "In «Santiago», cloudy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Máxima de dieciocho grados y mínima de cinco.",
+   "en": "A high of eighteen degrees and a low of five.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "No se espera lluvia, y el viento no pasa de doce kilómetros por hora.",
+   "en": "No rain is expected, and the wind does not go above twelve kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Valparaíso, también nuboso.",
+   "en": "In «Valparaiso», cloudy as well.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Máxima de quince grados y mínima de ocho.",
+   "en": "A high of fifteen degrees and a low of eight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Tampoco se espera lluvia ahí,",
+   "en": "No rain expected there either,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con viento de hasta once kilómetros por hora.",
+   "en": "with wind of up to eleven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Concepción, cielo nuboso igualmente.",
+   "en": "In «Concepcion», cloudy likewise.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Máxima de quince grados y mínima de cuatro.",
+   "en": "A high of fifteen degrees and a low of four.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cero por ciento de probabilidad de precipitación y viento de hasta diez kilómetros por hora.",
+   "en": "A zero per cent chance of precipitation and wind of up to ten kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es decir, día seco en las tres,",
+   "en": "So, a dry day in all three,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a diferencia de las comunas donde el sistema frontal dejó aluviones.",
+   "en": "unlike the towns where the front left mudslides.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Santiago se lleva la máxima más alta, dieciocho grados,",
+   "en": "«Santiago» takes the highest maximum, eighteen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y también el mayor contraste:",
+   "en": "and also the widest swing:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "trece grados entre la mínima y la máxima.",
+   "en": "thirteen degrees between the low and the high.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La noche más suave es la de Valparaíso, con ocho grados.",
+   "en": "The mildest night is «Valparaiso»'s, at eight degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El modelo del Centro Europeo, el ECMWF, firma estas previsiones.",
+   "en": "The European Centre model, the «ECMWF», stands behind these forecasts.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese es el pronóstico para este miércoles.",
+   "en": "That is the forecast for this Wednesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Wednesday 19 August",
+ "edition": "morning",
+ "region": "es-CL",
+ "region_label": "Chile",
+ "headline_en": "Previsión para Santiago, miércoles 2026-08-19",
+ "summary_en": [
+  "Previsión para Santiago, miércoles 2026-08-19",
+  "Previsión para Valparaíso, miércoles 2026-08-19"
+ ]
+}

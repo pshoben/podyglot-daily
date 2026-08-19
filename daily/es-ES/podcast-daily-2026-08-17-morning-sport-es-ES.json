@@ -1,0 +1,219 @@
+{
+ "title": "Los deportes, lunes 17 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-sport",
+   "wpm": 208,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-17",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Arranca la jornada uno de LaLiga EA Sports,",
+   "en": "Matchday one of «LaLiga EA Sports» is under way,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y hoy hay partido en A Coruña.",
+   "en": "and today there is a game in «A Coruña».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Deportivo recibe al Elche en Riazor, esta noche, a las nueve.",
+   "en": "«El Deportivo» host «el Elche» at «Riazor», tonight, at nine.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El encuentro se podrá seguir por Dazn.",
+   "en": "The match can be followed on «Dazn».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para el club coruñés es el regreso a Primera División, ocho años después.",
+   "en": "For the club from «A Coruña» it is the return to «Primera División», eight years on.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los dos equipos llegan señalados como candidatos a la permanencia.",
+   "en": "Both teams arrive marked out as candidates to be fighting relegation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los dos quieren, por tanto,",
+   "en": "Both of them want, therefore,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "arrancar la temporada con buen pie.",
+   "en": "to start the season on the right foot.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El técnico local, Antonio Hidalgo,",
+   "en": "The home coach, «Antonio Hidalgo»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "llega al encuentro con varias bajas.",
+   "en": "comes to the game with several players missing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Habló de un reto: demostrar que el equipo está preparado para Primera.",
+   "en": "He talked about a challenge: showing that the team is ready for «Primera».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el banquillo visitante, el argentino Martín Anselmi afronta también su debut liguero.",
+   "en": "In the visitors' dugout, the Argentinian «Martín Anselmi» is also facing his league debut.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dijo que su equipo llega con ilusión,",
+   "en": "He said his team arrives with excitement,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "deseo y ganas de competir, tras una pretemporada larga.",
+   "en": "desire and an appetite to compete, after a long pre-season.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Más allá de hoy, la jornada sigue el resto de la semana.",
+   "en": "Beyond today, the matchday continues through the rest of the week.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Atlético de Madrid estrena Liga el miércoles, a las nueve,",
+   "en": "«El Atlético de Madrid» open their league season on Wednesday, at nine,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "contra el Málaga en el Metropolitano.",
+   "en": "against «el Málaga» at the «Metropolitano».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El resultado de esta noche, en la edición de la tarde.",
+   "en": "Tonight's result, in the afternoon edition.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí los deportes de esta mañana. Buen día.",
+   "en": "That is sport for this morning. Have a good day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "script",
+ "title_en": "Today's sport, Monday 17 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Deportivo against Elche at Riazor tonight, matchday one",
+ "summary_en": [
+  "Deportivo against Elche at Riazor tonight, matchday one",
+  "Deportivo's return to the first division after eight years"
+ ]
+}

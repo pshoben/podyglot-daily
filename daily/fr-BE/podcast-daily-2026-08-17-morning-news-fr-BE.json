@@ -1,0 +1,490 @@
+{
+ "title": "Le sept heures, lundi 17 août",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-news",
+   "wpm": 222,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-17",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lundi dix-sept août. Le sept heures.",
+   "en": "Monday the seventeenth of August. «Le sept heures».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, l'incendie des Landes est fixé,",
+   "en": "In «France», the fire in «les Landes» is contained,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et la moitié des habitants évacués rentrent chez eux.",
+   "en": "and half of the evacuated residents are going home.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Chez nous, la pluie est enfin arrivée sur les Hautes Fagnes,",
+   "en": "Here at home, the rain has finally reached «les Hautes Fagnes»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où le feu brûle depuis quatre jours.",
+   "en": "where the fire has been burning for four days.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On ouvre avec la France.",
+   "en": "We open with «France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le feu qui a ravagé mille sept cents hectares dans les Landes est désormais fixé.",
+   "en": "The fire that burned through one thousand seven hundred hectares in «les Landes» is now contained.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il n'a pas fait de victimes, selon la secrétaire générale de la préfecture.",
+   "en": "It caused no casualties, according to the general secretary of the prefecture.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Quelque deux cent cinquante habitants de la commune de Luglon",
+   "en": "Some two hundred and fifty residents of the municipality of «Luglon»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "peuvent rentrer chez eux ce matin.",
+   "en": "can go home this morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Belgique maintenant, la pluie et le vent",
+   "en": "In Belgium now, rain and wind",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "aident les secours à contenir la progression de l'incendie des Hautes Fagnes.",
+   "en": "are helping the emergency services hold back the fire in «les Hautes Fagnes».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les pompiers luttent depuis vendredi contre l'un des plus importants incendies qu'ait connus le pays.",
+   "en": "Firefighters have been battling since Friday against one of the largest fires the country has known.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le bilan donné dimanche soir,",
+   "en": "In the assessment given on Sunday evening,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "près de trois mille hectares étaient déjà partis en fumée.",
+   "en": "close to three thousand hectares had already gone up in smoke.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les chiffres varient selon les sources,",
+   "en": "The figures vary between sources,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et la surface exacte reste difficile à établir tant que le feu n'est pas éteint.",
+   "en": "and the exact area stays hard to establish while the fire is still alight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Environ six cents habitants de Sourbrodt et de Bütgenbach ont dû quitter leur domicile.",
+   "en": "Around six hundred residents of «Sourbrodt» and «Bütgenbach» have had to leave their homes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'autres bilans parlent de six cents à huit cents personnes évacuées.",
+   "en": "Other assessments speak of six hundred to eight hundred people evacuated.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La pluie était très attendue par les services de secours,",
+   "en": "The rain was very much awaited by the emergency services,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qui se relaient sans interruption.",
+   "en": "who are working in relays without a break.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Roi se rend ce lundi matin auprès des pompiers mobilisés sur le plateau.",
+   "en": "The King is visiting the firefighters deployed on the plateau this Monday morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les renforts sont venus de toute la Belgique,",
+   "en": "Reinforcements have come from all over Belgium,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "mais aussi d'Allemagne, du Luxembourg et des Pays-Bas.",
+   "en": "and also from Germany, «Luxembourg» and the Netherlands.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Allemagne met deux hélicoptères à disposition des équipes belges.",
+   "en": "Germany is putting two helicopters at the disposal of the Belgian teams.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le feu avance sur de la tourbe,",
+   "en": "The fire is moving through peat,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un sol qui brûle en profondeur et se rallume facilement.",
+   "en": "a ground that burns deep down and catches again easily.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le cœur de la réserve naturelle des Hautes Fagnes est dévasté.",
+   "en": "The heart of the «Hautes Fagnes» nature reserve has been devastated.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité,",
+   "en": "In the rest of the news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le Hamas dit avoir saisi le Conseil de Paix au sujet de Gaza.",
+   "en": "«le Hamas» says it has gone to the Council of Peace about «Gaza».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le mouvement demande que ce conseil contraigne Israël à accepter le plan de paix.",
+   "en": "The movement is asking that council to compel Israel to accept the peace plan.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est ce qu'indique un communiqué du mouvement,",
+   "en": "That is what a statement from the movement says,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "après une rencontre en Égypte.",
+   "en": "after a meeting in Egypt.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le cinéma américain est par ailleurs en deuil.",
+   "en": "American cinema, meanwhile, is in mourning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'actrice Hayden Panettiere est décédée à l'âge de trente-six ans.",
+   "en": "The actress «Hayden Panettiere» has died at the age of thirty six.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Son agent a confirmé le décès à ABC News,",
+   "en": "Her agent confirmed the death to «ABC News»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et la cause n'a pas été communiquée.",
+   "en": "and no cause has been given.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle était surtout connue pour ses rôles dans les séries Heroes et Nashville.",
+   "en": "She was best known for her roles in the series «Heroes» and «Nashville».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La RTBF annonce par ailleurs un changement à l'antenne.",
+   "en": "«La RTBF» is also announcing a change on air.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Laurent Mathieu quitte la présentation du journal télévisé de dix-neuf heures trente.",
+   "en": "«Laurent Mathieu» is leaving the presentation of the seven thirty evening television news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il prendra dès le vingt-quatre août les commandes de l'interview politique de Matin Première.",
+   "en": "From the twenty fourth of August he will take charge of the political interview on «Matin Première».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le nom de son remplaçant sera communiqué prochainement par le service public.",
+   "en": "The name of his replacement will be announced shortly by the public broadcaster.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour terminer, une note plus douce dans une journée difficile.",
+   "en": "To finish, a gentler note in a difficult day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Trois pays voisins ont envoyé des hommes et du matériel sans qu'on ait dû insister.",
+   "en": "Three neighbouring countries sent people and equipment without having to be asked twice.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et sur le plateau, après des semaines de sécheresse, il pleut enfin.",
+   "en": "And on the plateau, after weeks of drought, it is finally raining.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà où nous en sommes. Place à la météo.",
+   "en": "That is where we stand. Over to the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "script",
+ "title_en": "The morning news, Monday 17 August",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "The fire in the Landes in France is contained, half the evacuated residents go home",
+ "summary_en": [
+  "The fire in the Landes in France is contained, half the evacuated residents go home",
+  "Rain reaches the Hautes Fagnes fire, and the King visits the firefighters",
+  "Close to three thousand hectares burned since Friday"
+ ]
+}

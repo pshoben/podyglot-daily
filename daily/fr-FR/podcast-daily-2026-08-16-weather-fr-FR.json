@@ -1,0 +1,237 @@
+{
+ "title": "La météo, dimanche 16 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-16",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "La météo, avec les bulletins de Météo-France.",
+   "en": "The weather, with the bulletins from «Météo-France».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La canicule reflue vers le sud-est et les températures continuent de baisser sur l'ensemble du pays.",
+   "en": "The heatwave is retreating towards the south-east and temperatures continue to fall across the whole country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dès six heures ce lundi dix-sept août,",
+   "en": "From six o'clock this Monday the seventeenth of August,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "seuls six départements du Sud-Est resteront en vigilance orange.",
+   "en": "only six departments in the south-east will stay on orange vigilance.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il s'agit de l'Ardèche, des Bouches-du-Rhône, de la Drôme, du Gard,",
+   "en": "They are the «Ardèche», the «Bouches-du-Rhône», the «Drôme», the «Gard»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "du Var et du Vaucluse.",
+   "en": "the «Var» and the «Vaucluse».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Vingt départements seront en alerte jaune.",
+   "en": "Twenty departments will be on yellow alert.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est le bulletin de seize heures.",
+   "en": "That is the four o'clock bulletin.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Attention dans l'Est, où l'air reste chargé.",
+   "en": "Take care in the east, where the air remains heavy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La procédure d'alerte à la pollution atmosphérique a été déclenchée en Moselle.",
+   "en": "The air-pollution alert procedure has been triggered in the «Moselle».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En cause, les fumées de l'incendie qui ravage l'est de la Belgique depuis plusieurs jours.",
+   "en": "The cause is smoke from the fire that has been devastating eastern «Belgique» for several days.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elles ont atteint la frontière française samedi soir.",
+   "en": "It reached the French border on Saturday evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La préfecture a pris plusieurs mesures de précaution.",
+   "en": "The prefecture has taken several precautionary measures.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Côté ciel, les orages ont fortement touché l'ouest de l'Aveyron.",
+   "en": "As for the sky, storms hit the west of the «Aveyron» hard.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Saint-Salvadou, le clocher de l'église Sainte-Marie-Madeleine a été frappé par la foudre.",
+   "en": "At «Saint-Salvadou», the steeple of the church of «Sainte-Marie-Madeleine» was struck by lightning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La flèche s'est effondrée et l'ampleur exacte des dégâts reste à déterminer.",
+   "en": "The spire collapsed and the exact extent of the damage is still to be determined.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des dizaines d'interventions de pompiers ont été nécessaires dans le Gard.",
+   "en": "Dozens of firefighter callouts were needed in the «Gard».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Une soixantaine de départements étaient alors en vigilance jaune.",
+   "en": "Around sixty departments were on yellow vigilance at that point.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le risque orageux diminue nettement pour demain, sauf dans l'Est.",
+   "en": "The storm risk drops sharply for tomorrow, except in the east.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Place au sport.",
+   "en": "Over to sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "title_en": "The weather, Sunday 16 August",
+ "edition": "legacy",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "The heatwave retreats: six south-eastern departments stay on orange from 6am Monday",
+ "summary_en": [
+  "The heatwave retreats: six south-eastern departments stay on orange from 6am Monday",
+  "Air-pollution alert in the Moselle from the Belgian wildfire smoke"
+ ]
+}

@@ -1,0 +1,239 @@
+{
+ "title": "El estado del tiempo, lunes 17 de agosto",
+ "dialect": "es-CL",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CL-daily-weather",
+   "wpm": 205,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-17",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El estado del tiempo para mañana y para los próximos días.",
+   "en": "How the weather stands for tomorrow and the days after.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mañana martes, en Santiago, diecisiete grados de máxima y tres de mínima.",
+   "en": "Tomorrow, Tuesday, in «Santiago», seventeen degrees at the highest and three at the lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo queda nuboso, sin probabilidad de precipitación.",
+   "en": "The sky stays cloudy, with no chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El miércoles se repiten los diecisiete grados,",
+   "en": "On Wednesday the seventeen degrees repeat,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con la mínima en cinco.",
+   "en": "with the low at five.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El jueves sube a dieciocho grados y la mínima llega a ocho.",
+   "en": "On Thursday it rises to eighteen degrees and the low reaches eight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viernes, veinte grados de máxima,",
+   "en": "On Friday, twenty degrees at the highest,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el mejor día de la semana en la capital.",
+   "en": "the best day of the week in the capital.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Valparaíso el mar suaviza las mínimas y mañana se llega a veintiún grados.",
+   "en": "In «Valparaíso» the sea softens the lows, and tomorrow reaches twenty one degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima se queda en ocho grados, con intervalos nubosos.",
+   "en": "The low stays at eight degrees, under broken cloud.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El miércoles baja de golpe a quince grados y aparece la llovizna.",
+   "en": "On Wednesday it falls sharply to fifteen degrees and the drizzle appears.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El jueves vuelven los veinte grados,",
+   "en": "On Thursday the twenty degrees return,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el viernes se llega a veintidós.",
+   "en": "and on Friday it reaches twenty two.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Concepción las cifras son más bajas los cuatro días.",
+   "en": "In «Concepción» the figures are lower across all four days.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mañana, dieciséis grados de máxima y tres de mínima, con cielo nuboso.",
+   "en": "Tomorrow, sixteen degrees at the highest and three at the lowest, under a cloudy sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El miércoles, otra vez dieciséis grados,",
+   "en": "On Wednesday, sixteen degrees again,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "esta vez con cielo poco nuboso.",
+   "en": "this time under a lightly clouded sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El jueves es el día más fresco de la semana: quince grados de máxima.",
+   "en": "Thursday is the coolest day of the week: fifteen degrees at the highest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viernes sube a diecisiete grados,",
+   "en": "On Friday it rises to seventeen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según el modelo del Centro Europeo, el ECMWF.",
+   "en": "according to the European Centre model, the «ECMWF».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí el estado del tiempo de los próximos días.",
+   "en": "And that is how the coming days look.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "The forecast, Monday 17 August",
+ "edition": "evening",
+ "region": "es-CL",
+ "region_label": "Chile",
+ "headline_en": "Previsión para Santiago, mañana, martes 2026-08-18",
+ "summary_en": [
+  "Previsión para Santiago, mañana, martes 2026-08-18",
+  "Previsión para Santiago, miércoles 2026-08-19"
+ ]
+}

@@ -1,0 +1,600 @@
+{
+ "title": "Las noticias de la mañana, miércoles 19 de agosto",
+ "dialect": "es-CL",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CL-daily-news",
+   "wpm": 205,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-19",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Miércoles diecinueve de agosto, en Santiago.",
+   "en": "Wednesday the nineteenth of August, in Santiago.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las noticias de la mañana.",
+   "en": "The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El norte del país amanece con aluviones,",
+   "en": "The north of the country wakes up to mudslides,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y Tocopilla está bajo estado de catástrofe.",
+   "en": "and «Tocopilla» is under a state of catastrophe.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y la reforma constitucional de seguridad recibe críticas transversales en el Congreso.",
+   "en": "And the constitutional security reform is drawing criticism from every side in Congress.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Partimos por la emergencia.",
+   "en": "We start with the emergency.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lluvias intensas provocadas por una baja segregada activaron quebradas y aluviones en Iquique,",
+   "en": "Intense rains caused by a cut-off low sent ravines into flood and brought mudslides in «Iquique»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Antofagasta y Tocopilla.",
+   "en": "«Antofagasta» and «Tocopilla».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En esta última se decretó el estado de catástrofe.",
+   "en": "In that last one a state of catastrophe was decreed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El subsecretario del Interior, Máximo Pavez,",
+   "en": "The interior undersecretary, «Maximo Pavez»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "se trasladó a la zona la noche anterior y permanece en el lugar.",
+   "en": "travelled to the area the night before and is still there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según el Presidente José Antonio Kast,",
+   "en": "According to president «Jose Antonio Kast»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pronto asumirá un jefe de la Defensa Nacional para coordinar las fuerzas desplegadas.",
+   "en": "a head of national defence will shortly take over to coordinate the forces deployed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Mandatario viajó a Antofagasta para monitorear los daños,",
+   "en": "The president travelled to «Antofagasta» to monitor the damage,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y desde ahí sigue a Tocopilla.",
+   "en": "and goes on from there to «Tocopilla».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Advirtió que quienes viven en zonas de riesgo deberán abandonarlas.",
+   "en": "He warned that those living in risk zones will have to leave them.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Radio Universidad de Chile, La Tercera y CIPER cubren la emergencia hora a hora.",
+   "en": "«Radio Universidad de Chile», «La Tercera» and «CIPER» are covering the emergency hour by hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Vamos a la reforma de seguridad.",
+   "en": "We turn to the security reform.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La iniciativa contempla un nuevo estado de excepción,",
+   "en": "The bill provides for a new state of exception,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "cambios en las atribuciones del Ejecutivo y un mecanismo para declarar organizaciones terroristas.",
+   "en": "changes to the powers of the executive and a mechanism for declaring organisations terrorist.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Deberá reunir apoyos fuera del oficialismo para avanzar en el Congreso.",
+   "en": "It will have to gather support outside the governing bloc to advance in Congress.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El senador Karim Bianchi, presidente de la Comisión de Seguridad,",
+   "en": "Senator «Karim Bianchi», chair of the Security Commission,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dijo que el proyecto no tiene nada que ver con mejorar la calidad de vida",
+   "en": "said the bill has nothing to do with improving people's quality",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de la gente.",
+   "en": "of life.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sostuvo que la intención del Ejecutivo es dividir a las fuerzas políticas,",
+   "en": "He argued that the executive's intention is to divide the political forces,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y que sería una locura aprobar algo que calificó de absolutamente ideológico.",
+   "en": "and that it would be madness to approve something he called absolutely ideological.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El senador Matías Walker, de Demócratas,",
+   "en": "Senator «Matias Walker», of «Democratas»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "anunció que rechazará la idea de legislar.",
+   "en": "has announced he will reject the idea of legislating.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Walker había apoyado la megarreforma económica del Gobierno.",
+   "en": "Walker had backed the government's economic megareform.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pablo Urquízar, del observatorio de crimen organizado y terrorismo de la UNAB,",
+   "en": "«Pablo Urquizar», of the «UNAB» observatory of organised crime and terrorism,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "planteó que bajo ningún aspecto es necesario un nuevo estado de excepción.",
+   "en": "argued that a new state of exception is in no respect necessary.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "A su juicio, el estado de emergencia vigente ya permite desplegar esas herramientas.",
+   "en": "In his view, the state of emergency already in force allows those tools to be deployed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El presidente de la UDI, en cambio,",
+   "en": "The president of the UDI, by contrast,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "se retractó y anunció su apoyo.",
+   "en": "has retracted and announced his support.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo siguen Radio Universidad de Chile, CIPER y Ex-Ante.",
+   "en": "«Radio Universidad de Chile», «CIPER» and «Ex-Ante» are following it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasamos a las cárceles.",
+   "en": "We move to the prisons.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En una nueva fase de la Operación Cancerbero,",
+   "en": "In a new phase of Operation «Cancerbero»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "cerca de doscientos reos fueron trasladados desde Valparaíso a la nueva cárcel de alta",
+   "en": "around two hundred prisoners were moved from «Valparaiso» to the new high-security",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "seguridad de Talca.",
+   "en": "prison in «Talca».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Tercera cuenta ciento noventa y ocho;",
+   "en": "«La Tercera» counts a hundred",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Radio Universidad de Chile habla de doscientos.",
+   "en": "and ninety-eight; «Radio Universidad de Chile» says two hundred.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El operativo lo encabezó el director nacional de Gendarmería, Rubén Pérez,",
+   "en": "The operation was led by the national director of «Gendarmeria», «Ruben Perez»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con apoyo de Carabineros y de la Policía de Investigaciones.",
+   "en": "with support from «Carabineros» and from the investigations police.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por el carácter reservado del operativo,",
+   "en": "Given the confidential nature of the operation,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "las autoridades no han entregado detalles sobre el perfil de los trasladados.",
+   "en": "the authorities have not released details of the profile of those moved.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hemos tomado todas las medidas de seguridad,",
+   "en": "We have taken every security measure,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dijo la coronel de Carabineros Marycarmen Mediavilla.",
+   "en": "said «Carabineros» colonel «Marycarmen Mediavilla».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esa cárcel, La Laguna, ya alcanza casi el setenta",
+   "en": "That prison, «La Laguna», is now at almost",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y cinco por ciento de su capacidad.",
+   "en": "seventy-five per cent of its capacity.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Terminamos con la diplomacia.",
+   "en": "We finish with diplomacy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El canciller Pérez Mackenna desplegó esta mañana una intensa ronda de reuniones en Beijing con",
+   "en": "Foreign minister «Perez Mackenna» went through an intense round of meetings in «Beijing» this",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "autoridades de alto nivel.",
+   "en": "morning with high-level officials.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Entre ellas, He Lifeng, hombre de confianza de Xi Jinping.",
+   "en": "Among them, «He Lifeng», a trusted man of «Xi Jinping».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se ha cumplido con éxito el objetivo de afianzar los intercambios sectoriales, destacó el ministro.",
+   "en": "The objective of strengthening sectoral exchanges has been successfully met, the minister said.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y agregó que las nuevas tecnologías debieran ser el foco de nuevas inversiones.",
+   "en": "And he added that new technologies ought to be the focus of new investment.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El detalle está en Radio Universidad de Chile y en Ex-Ante.",
+   "en": "The detail is in «Radio Universidad de Chile» and in «Ex-Ante».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es todo por ahora en las noticias.",
+   "en": "That is all for now in the news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Wednesday 19 August",
+ "edition": "morning",
+ "region": "es-CL",
+ "region_label": "Chile",
+ "headline_en": "Intense rains caused by a cut-off low brought ravines into flood and mudslides in Iquique,",
+ "summary_en": [
+  "Intense rains caused by a cut-off low brought ravines into flood and mudslides in Iquique,",
+  "The government's constitutional security reform provides for a new state of exception, cha",
+  "In a new phase of Operation Cancerbero, prisoners were moved from Valparaiso to the new hi"
+ ]
+}

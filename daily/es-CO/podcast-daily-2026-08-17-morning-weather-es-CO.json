@@ -1,0 +1,179 @@
+{
+ "title": "El clima de hoy, lunes 17 de agosto",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-weather",
+   "wpm": 195,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-17",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El clima de hoy.",
+   "en": "Today's weather.",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Así amanece el cielo: la lluvia sigue presente en casi todo el país.",
+   "en": "This is how the sky wakes up: the rain is still present across almost all the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Bogotá se esperan dieciocho grados de máxima y trece de mínima.",
+   "en": "In «Bogotá» eighteen degrees are expected at the top and thirteen at the bottom.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación llega al noventa y ocho por ciento,",
+   "en": "The chance of precipitation reaches ninety eight per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según el modelo del Centro Europeo.",
+   "en": "according to the European Centre model.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento se mantiene flojo, en siete kilómetros por hora.",
+   "en": "The wind stays light, at seven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Región por región, Medellín queda en veintiséis grados de máxima y dieciocho de mínima.",
+   "en": "Region by region, «Medellín» sits at twenty six degrees at the top and eighteen at the bottom.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí la probabilidad de precipitación alcanza el cien por ciento, con chubascos.",
+   "en": "There the chance of precipitation reaches one hundred per cent, with showers.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento es casi nulo, de apenas tres kilómetros por hora, según el mismo modelo.",
+   "en": "The wind is almost nothing, barely three kilometres an hour, according to the same model.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Cali se esperan veinticinco grados de máxima y veinte de mínima.",
+   "en": "In «Cali» twenty five degrees are expected at the top and twenty at the bottom.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación es del noventa y siete por ciento, también con chubascos.",
+   "en": "The chance of precipitation is ninety seven per cent, with showers as well.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pendientes en las zonas afectadas por el sismo,",
+   "en": "Keep an eye on the areas hit by the quake,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "donde la lluvia golpea refugios y viviendas.",
+   "en": "where the rain is striking shelters and homes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las autoridades continúan atendiendo a los damnificados, según El Tiempo.",
+   "en": "The authorities are still caring for those made homeless, according to «El Tiempo».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese es el clima. Seguimos con la jornada deportiva.",
+   "en": "That is the weather. We go on with the sports day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "script",
+ "title_en": "Today's weather, Monday 17 August",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "Bogotá: 18 degrees",
+ "summary_en": [
+  "Bogotá: 18 degrees",
+  "Medellín: 26 degrees"
+ ]
+}

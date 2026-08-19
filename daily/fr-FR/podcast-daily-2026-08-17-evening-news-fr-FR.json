@@ -1,0 +1,490 @@
+{
+ "title": "Le journal du soir, lundi 17 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-17",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lundi dix-sept août. Le journal du soir.",
+   "en": "Monday the seventeenth of August. «Le journal du soir».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Huit pays musulmans condamnent le refus israélien de poursuivre le plan américain pour Gaza.",
+   "en": "Eight Muslim countries condemn the Israeli refusal to pursue the American plan for «Gaza».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, Sébastien Lecornu a passé la journée en Gironde pour lancer la reconstruction",
+   "en": "In «France», «Sébastien Lecornu» spent the day in «la Gironde» to launch the reconstruction",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et répondre aux critiques.",
+   "en": "and answer criticism.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par la diplomatie, où la journée s'est refermée sans déblocage.",
+   "en": "We start with diplomacy, where the day closed without a breakthrough.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Huit pays musulmans ont condamné le refus israélien de poursuivre le plan de Donald",
+   "en": "Eight Muslim countries condemned the Israeli refusal to pursue «Donald Trump»'s plan",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Trump pour Gaza.",
+   "en": "for «Gaza».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il s'agit de l'Arabie saoudite, de l'Égypte, de la Jordanie et du Pakistan,",
+   "en": "They are Saudi Arabia, Egypt, Jordan and «Pakistan»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "quatre poids lourds de la région.",
+   "en": "four heavyweights of the region.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "S'y ajoutent l'Indonésie, la Turquie,",
+   "en": "To those are added Indonesia, Turkey,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le Qatar et les Émirats arabes unis.",
+   "en": "«Qatar» and the United Arab Emirates.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon leurs ministres des Affaires étrangères,",
+   "en": "According to their foreign ministers,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "cela compromet profondément les efforts collectifs.",
+   "en": "this deeply compromises the collective efforts.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ces efforts visent à parvenir à une paix juste et durable, selon France Télévisions.",
+   "en": "Those efforts aim at reaching a just and lasting peace, according to «France Télévisions».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le même temps, le Premier ministre israélien maintient ses réserves sur le désarmement",
+   "en": "At the same time, the Israeli prime minister maintains his reservations on the disarming of",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "du mouvement palestinien.",
+   "en": "the Palestinian movement.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est ce que rapportait Sud Ouest ce lundi.",
+   "en": "That is what «Sud Ouest» was reporting this Monday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France maintenant. Le Premier ministre a passé la journée en Gironde.",
+   "en": "In «France» now. The prime minister spent the day in «la Gironde».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il y a lancé sa mission reconstruction,",
+   "en": "There he launched his reconstruction mission,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et il devait aussi répondre aux critiques.",
+   "en": "and he also had to answer criticism.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Certains habitants lui reprochent de ne pas avoir bien géré la crise, selon France Télévisions.",
+   "en": "Some residents blame him for not having handled the crisis well, according to «France Télévisions».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le mégafeu de juillet avait contraint deux cent vingt mille personnes à évacuer.",
+   "en": "July's megafire had forced two hundred and twenty thousand people to evacuate.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lors d'une conférence de presse à Mérignac, il a assumé de sortir,",
+   "en": "At a press conference in «Mérignac» he owned up to bringing out,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon ses mots, l'artillerie lourde.",
+   "en": "in his words, the heavy artillery.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'objectif est d'aider la Gironde et les Landes à se relever, selon Le Figaro.",
+   "en": "The aim is to help «la Gironde» and «les Landes» get back on their feet, according to «Le Figaro».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité,",
+   "en": "In the rest of the news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la journée a été marquée par un accident aérien.",
+   "en": "the day was marked by an air accident.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un avion de l'armée de l'air s'est posé en urgence",
+   "en": "An air force plane made an emergency landing",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sur une route nationale à Salon-de-Provence, dans les Bouches-du-Rhône.",
+   "en": "on a main road at «Salon-de-Provence», in the «Bouches-du-Rhône».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'appareil venait de la base aérienne voisine, lors d'un vol d'instruction.",
+   "en": "The aircraft had come from the nearby air base, on an instruction flight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'instructeur et son apprenti pilote ont été légèrement blessés.",
+   "en": "The instructor and his trainee pilot were lightly injured.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le monomoteur a fini sa course sur la chaussée en évitant les commerces alentour.",
+   "en": "The single engine aircraft came to a stop on the roadway, avoiding the shops nearby.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aucun dommage à un tiers n'est à déplorer,",
+   "en": "No third party was harmed,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon le ministère des Armées.",
+   "en": "according to the ministry of the armed forces.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'administration fiscale a par ailleurs commencé à contacter les victimes du piratage de ses données.",
+   "en": "The tax administration has also begun contacting the victims of the breach of its data.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Six cent soixante-dix-huit mille contribuables sont concernés par cette fuite.",
+   "en": "Six hundred and seventy eight thousand taxpayers are affected by that leak.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est ce qu'indiquaient ce lundi les services du Premier ministre.",
+   "en": "That is what the prime minister's office was saying this Monday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Chacun recevra le détail des données susceptibles d'avoir été exposées.",
+   "en": "Each one will receive the detail of the data that may have been exposed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un pirate se faisant appeler ZeroBytes revendique cette attaque.",
+   "en": "A hacker calling himself «ZeroBytes» claims that attack.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour terminer, une nouvelle du monde du livre.",
+   "en": "To finish, a piece of news from the world of books.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Olivier Nora, évincé de la présidence de Grasset il y a quatre mois,",
+   "en": "«Olivier Nora», ousted from the presidency of «Grasset» four months ago,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "lance sa propre maison d'édition.",
+   "en": "is launching his own publishing house.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le groupe Editis y prend une participation minoritaire.",
+   "en": "The «Editis» group is taking a minority stake.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les premiers titres sortiront en octobre,",
+   "en": "The first titles come out in October,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "signés Bernard-Henri Lévy et Delphine Horvilleur.",
+   "en": "by «Bernard-Henri Lévy» and «Delphine Horvilleur».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel. Et maintenant, la météo.",
+   "en": "That is the heart of it. And now, the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "script",
+ "title_en": "The evening news, Monday 17 August",
+ "edition": "evening",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Eight Muslim countries condemn the Israeli refusal to pursue the Gaza plan",
+ "summary_en": [
+  "Eight Muslim countries condemn the Israeli refusal to pursue the Gaza plan",
+  "Lecornu answers criticism in Gironde as the reconstruction mission starts",
+  "July megafire forced 220,000 to evacuate; worst since 1949"
+ ]
+}

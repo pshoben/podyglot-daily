@@ -1,0 +1,468 @@
+{
+ "title": "El noticiero de la tarde, domingo 16 de agosto",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-16",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Domingo dieciséis de agosto. El noticiero de la tarde.",
+   "en": "Sunday the sixteenth of August. «El noticiero de la tarde», the evening news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Acá en el país,",
+   "en": "Here in the country,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el economista Carlos Melconian alertó por el dólar y advirtió al Gobierno.",
+   "en": "the economist «Carlos Melconian» has warned about the dollar and cautioned the government.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También hoy, el Día del Niño dejó una caída en las ventas.",
+   "en": "Also today, Children's Day brought a fall in sales.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Comenzamos con Ucrania, que lanzó uno de sus mayores ataques aéreos sobre Rusia desde el",
+   "en": "We begin with «Ucrania», which launched one of its largest air attacks on Russia",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "inicio de la guerra.",
+   "en": "since the war began.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La ofensiva de largo alcance alcanzó la región de Moscú y otros puntos del país.",
+   "en": "The long-range offensive reached the «Moscú» region and other points in the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El ministerio ruso de Defensa informó que destruyó ochocientos veintidós drones durante la noche.",
+   "en": "Russia's defence ministry said it destroyed eight hundred and twenty-two drones overnight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Murió un hombre de ochenta y tres años en Moscú y otras cinco personas en Rostov.",
+   "en": "An eighty-three-year-old man died in «Moscú» and five other people in «Rostov».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los balances hablan de al menos trece muertos.",
+   "en": "The tolls speak of at least thirteen dead.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También en Europa, el fuego no se detiene.",
+   "en": "Also in Europe, the fire is not stopping.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Bélgica combate un gran incendio forestal que avanza hacia la frontera con Alemania.",
+   "en": "«Bélgica» is fighting a large forest fire that is advancing towards the German border.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En los municipios de Waimes y Bütgenbach",
+   "en": "In the municipalities of «Waimes» and «Bütgenbach»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "evacúan a los vecinos y piden a los turistas que se retiren.",
+   "en": "residents are being evacuated and tourists asked to leave.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Grecia, dos personas murieron por incendios.",
+   "en": "In Greece, two people died in fires.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Acá en el país, las definiciones de Carlos Melconian.",
+   "en": "Here in the country, «Carlos Melconian»'s comments.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El extitular del Banco Central cuestionó el atraso cambiario.",
+   "en": "The former head of the central bank questioned the exchange-rate lag.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Alertó por los costos en dólares.",
+   "en": "He warned about costs in dollars.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sostuvo que el Gobierno deberá elegir entre comprar reservas, reactivar o bajar la inflación.",
+   "en": "He held that the government will have to choose between buying reserves, reactivating, or bringing inflation down.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Vinculó además el alivio financiero con las exportaciones de hidrocarburos y minerales.",
+   "en": "He also linked the financial relief to hydrocarbon and mineral exports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pero advirtió sobre la distancia entre esa realidad y la de los sectores más afectados.",
+   "en": "But he warned about the distance between that reality and that of the worst-affected sectors.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el resto de la actualidad, las tarifas y el Norte Grande.",
+   "en": "In other news, tariffs and the «Norte Grande».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El jefe de Gabinete, Diego Santilli,",
+   "en": "The cabinet chief, «Diego Santilli»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "recibirá el martes a los gobernadores norteños.",
+   "en": "will receive the northern governors on Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo hará junto a la secretaria de Energía de la Nación.",
+   "en": "He will do so alongside the national energy secretary.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El objetivo es delinear el sistema de subsidios a las tarifas.",
+   "en": "The aim is to set out the system of tariff subsidies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Santilli y Luis Caputo viajan además al norte para inaugurar obras del sector energético.",
+   "en": "«Santilli» and «Luis Caputo» are also travelling north to inaugurate energy sector works.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Acá en el país, el Día del Niño.",
+   "en": "Here in the country, Children's Day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las ventas cayeron dos coma cinco por ciento respecto de dos mil veinticinco.",
+   "en": "Sales fell two point five per cent against two thousand and twenty-five.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El gasto promedio alcanzó los cuarenta y cinco mil ochocientos noventa y dos pesos.",
+   "en": "Average spending reached forty-five thousand eight hundred and ninety-two pesos.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Creció apenas cero coma ocho por ciento en términos reales.",
+   "en": "It grew by only nought point eight per cent in real terms.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pese a que ocho de cada diez comercios ofrecieron promociones,",
+   "en": "Even though eight in ten shops offered promotions,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "los consumidores priorizaron productos de menor valor.",
+   "en": "consumers went for lower-value products.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ni las cuotas ni los descuentos lograron reactivar la demanda.",
+   "en": "Neither instalments nor discounts managed to revive demand.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y en la relación con Estados Unidos,",
+   "en": "And in the relationship with the United States,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "habló el embajador Peter Lamelas.",
+   "en": "the ambassador «Peter Lamelas» spoke.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Fijó la postura de Washington sobre Malvinas.",
+   "en": "He set out Washington's position on the «Malvinas».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voy a trabajar lo más posible, dijo,",
+   "en": "I am going to work as much as possible, he said,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para devolver la exención de visado al país.",
+   "en": "to restore the country's visa waiver.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El médico y diplomático remarcó que hay que respetar las leyes de Argentina.",
+   "en": "The doctor and diplomat stressed that Argentina's laws must be respected.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cerró así una semana marcada por sus cuestionamientos a la participación de una firma china",
+   "en": "He thereby closed a week marked by his questioning of a Chinese firm's participation",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en Vaca Muerta.",
+   "en": "in «Vaca Muerta».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo central.",
+   "en": "That is the heart of it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y ahora, los resultados.",
+   "en": "And now, the results.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "title_en": "The evening news, Sunday 16 August",
+ "edition": "legacy",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Melconian warns on the dollar and the exchange-rate lag",
+ "summary_en": [
+  "Melconian warns on the dollar and the exchange-rate lag",
+  "Santilli receives the northern governors on tariff subsidies",
+  "Children's Day sales fall 2.5 per cent"
+ ]
+}

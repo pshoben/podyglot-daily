@@ -1,0 +1,233 @@
+{
+ "title": "El tiempo, lunes 17 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather",
+   "wpm": 208,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-17",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El tiempo para mañana y para los próximos días.",
+   "en": "The weather for tomorrow and for the days ahead.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos por el centro peninsular,",
+   "en": "We start with the centre of the peninsula,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "donde mañana aprieta el calor.",
+   "en": "where tomorrow the heat bites.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Madrid se esperan treinta y ocho grados de máxima y veintitrés de mínima,",
+   "en": "In «Madrid», thirty eight degrees are expected at the highest and twenty three at the lowest,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según la AEMET.",
+   "en": "according to «AEMET».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo queda despejado todo el día y no hay probabilidad de lluvia.",
+   "en": "The sky stays clear all day and there is no chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento sopla flojo, del sureste a cinco kilómetros por hora.",
+   "en": "The wind is light, from the south east at five kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El miércoles la máxima baja a treinta y cinco grados, con veinticuatro de mínima.",
+   "en": "On Wednesday the high drops to thirty five degrees, with twenty four at the lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo queda poco nuboso y el viento gira al suroeste,",
+   "en": "The sky turns lightly cloudy and the wind swings to the south west,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a quince kilómetros por hora.",
+   "en": "at fifteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El jueves llega el cambio de verdad:",
+   "en": "On Thursday the real change arrives:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "veintinueve grados de máxima y veintiuno de mínima.",
+   "en": "twenty nine degrees at the highest and twenty one at the lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aparecen los intervalos nubosos y la probabilidad de lluvia sube al treinta",
+   "en": "Broken cloud appears and the chance of rain rises to",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y cinco por ciento.",
+   "en": "thirty five per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viernes la máxima se queda en veintiocho grados y la mínima baja a diecinueve,",
+   "en": "On Friday the high stays at twenty eight degrees and the low falls to nineteen,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según la AEMET.",
+   "en": "according to «AEMET».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es decir, diez grados menos el viernes que mañana en la capital.",
+   "en": "That is ten degrees cooler on Friday than tomorrow in the capital.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El índice ultravioleta máximo se mantiene en ocho los cuatro días.",
+   "en": "The maximum ultraviolet index holds at eight across all four days.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Conviene tenerlo en cuenta aunque el termómetro afloje al final de la semana.",
+   "en": "That is worth keeping in mind even as the thermometer eases off at the end of the week.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí el tiempo en el conjunto del país.",
+   "en": "That is the weather across the country as a whole.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "The forecast, Monday 17 August",
+ "edition": "evening",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "España",
+ "accent": "Castilla",
+ "accent_label": "acento de Castilla",
+ "segment_order": 0,
+ "headline_en": "Predicción AEMET para Madrid (Madrid), 2026-08-18",
+ "summary_en": [
+  "Predicción AEMET para Madrid (Madrid), 2026-08-18",
+  "Predicción AEMET para Madrid (Madrid), 2026-08-19"
+ ]
+}

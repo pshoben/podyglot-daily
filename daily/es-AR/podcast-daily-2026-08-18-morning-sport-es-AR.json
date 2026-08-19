@@ -1,0 +1,188 @@
+{
+ "title": "El deporte, martes 18 de agosto",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-sport",
+   "wpm": 195,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-18",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos con el hockey.",
+   "en": "We start with hockey.",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los Leones, el seleccionado argentino, enfrentan a Países Bajos.",
+   "en": "«Los Leones», the Argentine national side, face the Netherlands.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es por el Mundial de Hockey.",
+   "en": "It is at the Hockey World Cup.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El partido se juega este martes a las trece, hora argentina.",
+   "en": "The match is played this Tuesday at thirteen hundred, Argentine time.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se disputa en Amstelveen, en Países Bajos.",
+   "en": "It is played in «Amstelveen», in the Netherlands.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los neerlandeses juegan de local.",
+   "en": "The Dutch are at home.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para los argentinos es el segundo partido del torneo.",
+   "en": "For the Argentines it is their second match of the tournament.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Llegan tras un debut sólido.",
+   "en": "They arrive after a solid opening game.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Fue un festejo holgado ante Japón.",
+   "en": "It was a comfortable win over Japan.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Japón fue el primer rival de Los Leones.",
+   "en": "Japan were «Los Leones»' first opponents.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Enfrente está una de las grandes potencias mundiales de este deporte.",
+   "en": "Facing them is one of the great world powers of this sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es un martes de hockey para la Argentina.",
+   "en": "It is a Tuesday of hockey for Argentina.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Clarín publicó la hora y adelantó las formaciones de los dos equipos.",
+   "en": "«Clarín» published the time and gave the line ups of both sides.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El partido se transmite en vivo por televisión.",
+   "en": "The match is shown live on television.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Nación indicó qué canal lo transmite en vivo.",
+   "en": "«La Nación» said which channel is showing it live.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es el deporte.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Tuesday 18 August",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Los Leones, the Argentine hockey side, face the Netherlands on Tuesday at 13:00 Argentine",
+ "summary_en": [
+  "Los Leones, the Argentine hockey side, face the Netherlands on Tuesday at 13:00 Argentine"
+ ]
+}

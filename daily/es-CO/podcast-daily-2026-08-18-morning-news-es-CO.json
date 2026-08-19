@@ -1,0 +1,560 @@
+{
+ "title": "La actualidad de la mañana, martes 18 de agosto",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-18",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Martes dieciocho de agosto, nueve y media de la mañana en Bogotá.",
+   "en": "Tuesday the eighteenth of August, half past nine in the morning in «Bogotá».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La actualidad de la mañana.",
+   "en": "The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un nuevo terremoto sacudió a Granada,",
+   "en": "A new earthquake has struck «Granada»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el sur de España.",
+   "en": "in the south of Spain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y aquí en Colombia, hay un nuevo balance del terremoto del Chocó.",
+   "en": "And here in «Colombia», there is a new toll from the «Chocó» earthquake.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Iniciamos con España.",
+   "en": "We start with Spain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un terremoto de magnitud cuatro coma siete sacudió a Granada",
+   "en": "An earthquake of magnitude four point seven struck «Granada» and",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y su área metropolitana este martes.",
+   "en": "its metropolitan area on Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El temblor duró unos diez segundos.",
+   "en": "The tremor lasted about ten seconds.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Provocó desprendimientos de escombros, tres heridos leves y el cierre preventivo de monumentos.",
+   "en": "It caused falling debris, three minor injuries and the preventive closure of monuments.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ocurrió a las diez y treinta y siete, hora local de España.",
+   "en": "It happened at ten thirty seven, Spanish local time.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El epicentro se situó al noroeste de la localidad de Gójar,",
+   "en": "The epicentre was north west of the town of «Gójar», five",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a cinco kilómetros de profundidad.",
+   "en": "kilometres deep.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cuatro réplicas obligaron a desalojar edificios de manera preventiva.",
+   "en": "Four aftershocks forced buildings to be evacuated as a precaution.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Entre ellos, los Palacios Nazaríes y la Alcazaba de la Alhambra.",
+   "en": "Among them, the «Palacios Nazaríes» and the «Alcazaba» of the «Alhambra».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La red de metro de Granada redujo la velocidad de sus trenes a treinta",
+   "en": "The «Granada» metro network cut its train speed to thirty kilometres",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "kilómetros por hora.",
+   "en": "an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Así lo reportan El Colombiano,",
+   "en": "That is what «El Colombiano»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Tiempo y La República.",
+   "en": "«El Tiempo» and «La República» report.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos en Colombia, con el terremoto del Chocó.",
+   "en": "Still in «Colombia», with the «Chocó» earthquake.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Unidad Nacional para la Gestión del Riesgo reportó trescientos cuatro muertos",
+   "en": "The National Risk Management Unit reported three hundred and four dead",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y cuatro mil quinientos cuarenta y ocho heridos.",
+   "en": "and four thousand five hundred and forty eight injured.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es el balance con corte a las seis y media de la mañana.",
+   "en": "That is the toll as of half past six this morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las afectaciones se extienden a quince departamentos y cuatrocientos setenta y dos municipios.",
+   "en": "The damage extends to fifteen departments and four hundred and seventy two municipalities.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Más de ciento treinta personas continúan desaparecidas en Pereira.",
+   "en": "More than a hundred and thirty people are still missing in «Pereira».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mayoría de los sismos se localizaron en San José del Palmar, en el Chocó.",
+   "en": "Most of the tremors were located in «San José del Palmar», in «Chocó».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí se registraron ciento once eventos.",
+   "en": "A hundred and eleven events were recorded there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le siguen El Litoral del San Juan, con setenta y cinco, y Sipí,",
+   "en": "Then come «El Litoral del San Juan», with seventy five, and «Sipí»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con sesenta y dos.",
+   "en": "with sixty two.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La información viene de La República y El Tiempo.",
+   "en": "The information comes from «La República» and «El Tiempo».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de asunto, ahora con el gobierno.",
+   "en": "We change subject, now to the government.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El presidente Abelardo De La Espriella anunció el plan Vivienda Milagro.",
+   "en": "President «Abelardo De La Espriella» has announced the «Vivienda Milagro» plan.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Incluye subsidios de arriendo y alivios en servicios públicos.",
+   "en": "It includes rent subsidies and relief on utility bills.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El presidente aseguró que hará un censo de la población afectada.",
+   "en": "The President said he would carry out a census of the affected population.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La idea es caracterizar cada caso y entregar las soluciones pertinentes.",
+   "en": "The idea is to describe each case and deliver the appropriate solutions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo reportan El Tiempo y Semana.",
+   "en": "«El Tiempo» and «Semana» report it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otro tema del día, la economía.",
+   "en": "Another subject of the day, the economy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El dólar abrió la jornada al alza en tres mil ciento treinta y ocho pesos.",
+   "en": "The dollar opened the session higher at three thousand one hundred and thirty eight pesos.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Fue después de intervenciones del Banco de la República.",
+   "en": "That was after interventions by the «Banco de la República».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El alza del petróleo mantiene la presión sobre la inflación y las tasas de interés.",
+   "en": "The rise in oil keeps the pressure on inflation and on interest rates.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el rendimiento de los bonos del Tesoro a treinta años alcanza máximos no vistos",
+   "en": "And the yield on thirty year Treasury bonds is reaching highs not seen since two thousand",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "desde dos mil siete.",
+   "en": "and seven.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Así lo publican La República y Semana.",
+   "en": "That is what «La República» and «Semana» publish.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para finalizar, una noticia que deja algo de aliento.",
+   "en": "To finish, a story that offers some comfort.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Shakira visitó Quibdó, la capital del Chocó, este lunes.",
+   "en": "«Shakira» visited «Quibdó», the capital of «Chocó», on Monday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La acompañaron el filántropo Howard Buffett y representantes de la CAF",
+   "en": "She was accompanied by the philanthropist «Howard Buffett» and by representatives of «CAF» and",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y de la Fundación Pies Descalzos.",
+   "en": "of the «Fundación Pies Descalzos».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cerca de doscientas escuelas han reportado daños por el sismo.",
+   "en": "Close to two hundred schools have reported damage from the earthquake.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La cantante anunció un compromiso de un millón doscientos cincuenta mil dólares.",
+   "en": "The singer announced a commitment of one million two hundred and fifty thousand dollars.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El dinero es para construir y reconstruir las instituciones educativas afectadas.",
+   "en": "The money is to build and rebuild the affected schools.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La idea es que los niños puedan regresar a clases lo antes posible.",
+   "en": "The idea is that the children can go back to class as soon as possible.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo confirman El Colombiano y Semana.",
+   "en": "«El Colombiano» and «Semana» confirm it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más importante.",
+   "en": "That is what matters most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 18 August",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "A magnitude 4.7 earthquake struck Granada, Spain, and its metropolitan area on Tuesday, la",
+ "summary_en": [
+  "A magnitude 4.7 earthquake struck Granada, Spain, and its metropolitan area on Tuesday, la",
+  "A week after the Choco earthquake the UNGRD balance stands at 304 dead and 4,548 injured,",
+  "President Abelardo De La Espriella announced the Vivienda Milagro plan after the earthquak"
+ ]
+}

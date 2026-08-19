@@ -1,0 +1,488 @@
+{
+ "title": "Le bulletin du soir, dimanche 16 août",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-news",
+   "wpm": 185,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-16",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Dimanche seize août. Le bulletin du soir.",
+   "en": "Sunday the sixteenth of August. «Le bulletin du soir», the evening news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au Proche-Orient, l'émissaire américain Jared Kushner a rencontré une délégation du Hamas en Égypte.",
+   "en": "In the Middle East, the American envoy «Jared Kushner» has met a «Hamas» delegation in Egypt.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ici, le Québec et Terre-Neuve-et-Labrador signent lundi leur entente sur l'énergie de Churchill Falls.",
+   "en": "Here, Quebec and Newfoundland and Labrador sign their «Churchill Falls» energy agreement on Monday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence avec l'Égypte, et cette rencontre entre Jared Kushner et des dirigeants du Hamas.",
+   "en": "We begin with Egypt, and this meeting between «Jared Kushner» and «Hamas» leaders.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'émissaire américain doit ensuite se rendre en Israël.",
+   "en": "The American envoy is then due to travel to Israel.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ces rencontres surviennent au moment",
+   "en": "These meetings come as the United States",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où les États-Unis cherchent à faire avancer le plan de paix à Gaza.",
+   "en": "seeks to move its «Gaza» peace plan forward.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Ukraine et en Russie,",
+   "en": "In «Ukraine» and Russia,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les frappes de drones et de missiles se sont multipliées dimanche.",
+   "en": "drone and missile strikes multiplied on Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les bilans vont de seize à dix-neuf morts selon les sources.",
+   "en": "The tolls range from sixteen to nineteen dead depending on the source.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un marché du livre a notamment été détruit à Kyiv.",
+   "en": "A book market in «Kyiv» was among the places destroyed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Moscou a fait face à l'une des attaques les plus massives",
+   "en": "«Moscou» faced one of the most massive attacks",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "depuis le début de la guerre.",
+   "en": "since the war began.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Indonésie, près de cinq mille personnes attendent toujours de l'aide.",
+   "en": "In Indonesia, nearly five thousand people are still waiting for aid.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elles ont été poussées hors de chez elles",
+   "en": "They were driven from their homes",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "par la secousse de magnitude sept virgule sept survenue samedi.",
+   "en": "by the magnitude seven point seven quake on Saturday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Toujours à l'international, l'ouragan Lala s'éloigne d'Hawaï.",
+   "en": "Still internationally, Hurricane «Lala» is moving away from Hawaii.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des pluies torrentielles et des vents violents continuent toutefois de s'abattre sur l'État.",
+   "en": "Torrential rain and violent winds are nonetheless continuing to fall on the state.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Centre national des ouragans a averti que le littoral serait frappé par des vagues puissantes et dangereuses.",
+   "en": "The National Hurricane Center has warned that the coast will be hit by powerful and dangerous waves.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le risque d'inondations dangereuses demeure.",
+   "en": "The risk of dangerous flooding remains.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans l'actualité d'ici, l'entente de Churchill Falls sera signée lundi.",
+   "en": "In news from here, the «Churchill Falls» agreement will be signed on Monday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La ministre Christine Fréchette se rendra à Terre-Neuve-et-Labrador.",
+   "en": "The minister «Christine Fréchette» will travel to Newfoundland and Labrador.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle sera accompagnée du ministre Bernard Drainville et de la PDG d'Hydro-Québec, Claudine Bouchard.",
+   "en": "She will be accompanied by the minister «Bernard Drainville» and by «Hydro-Québec»'s chief executive, «Claudine Bouchard».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le premier ministre de Terre-Neuve-et-Labrador a affirmé",
+   "en": "The premier of Newfoundland and Labrador has said",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qu'il fera une annonce aux côtés de la première ministre du Québec.",
+   "en": "he will make an announcement alongside the premier of Quebec.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les deux gouvernements négocient depuis un moment un accord",
+   "en": "The two governments have been negotiating for some time on an agreement",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "visant à partager l'énergie produite sur le fleuve Churchill.",
+   "en": "to share the energy produced on the «Churchill» river.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des médias avaient rapporté la semaine dernière que les deux provinces auraient conclu un accord",
+   "en": "Media reported last week that the two provinces had reached an agreement",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans le domaine de l'énergie.",
+   "en": "in the energy field.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Toujours au Québec,",
+   "en": "Still in Quebec,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le Service de police de la Ville de Montréal enquête sur un possible féminicide.",
+   "en": "the Montreal city police service is investigating a possible femicide.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Une femme de quarante-quatre ans a été retrouvée sans vie samedi",
+   "en": "A forty-four-year-old woman was found dead on Saturday",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans un appartement à Villeray.",
+   "en": "in an apartment in «Villeray».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le meurtre a eu lieu samedi après-midi dans le quartier Saint-Michel.",
+   "en": "The murder took place on Saturday afternoon in the «Saint-Michel» district.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le corps portait des marques de violences,",
+   "en": "The body bore marks of violence,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le conjoint de la victime est maintenant considéré comme un suspect.",
+   "en": "and the victim's partner is now considered a suspect.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'enquête avance rapidement.",
+   "en": "The investigation is moving quickly.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Québec déplore un douzième féminicide présumé cette année.",
+   "en": "Quebec has now recorded a twelfth presumed femicide this year.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ailleurs au pays, une note plus lumineuse pour terminer.",
+   "en": "Elsewhere in the country, a brighter note to finish.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les Canadiennes sont championnes du monde de football drapeau.",
+   "en": "The Canadian women are world champions in flag football.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elles se sont qualifiées samedi pour les Jeux olympiques de deux mille vingt-huit,",
+   "en": "They qualified on Saturday for the two thousand and twenty-eight Olympic Games,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à Los Angeles.",
+   "en": "in «Los Angeles».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'équipe masculine les a imitées dimanche.",
+   "en": "The men's team did the same on Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle a décroché son billet olympique en remportant la petite finale.",
+   "en": "They took their Olympic place by winning the third-place match.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà l'essentiel.",
+   "en": "That is the picture for today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et maintenant, les résultats.",
+   "en": "And now, the results.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "title_en": "The evening news, Sunday 16 August",
+ "edition": "legacy",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "Kushner meets a Hamas delegation in Egypt as the US pushes its Gaza plan",
+ "summary_en": [
+  "Kushner meets a Hamas delegation in Egypt as the US pushes its Gaza plan",
+  "Strikes across Russia and Ukraine, with tolls still moving",
+  "Thousands still waiting for aid after Indonesia's earthquake"
+ ]
+}

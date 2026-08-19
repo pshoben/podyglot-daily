@@ -1,0 +1,253 @@
+{
+ "title": "El tiempo en Andalucía, lunes 17 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-andalucia",
+   "wpm": 208,
+   "rate_multiplier": 0.73,
+   "pitch_multiplier": 0.79
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-andalucia",
+ "date": "2026-08-17",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El tiempo en Andalucía, para mañana y para los próximos días.",
+   "en": "The weather in «Andalucía», for tomorrow and for the days ahead.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Tierra adentro, mañana es el día más duro de los cuatro.",
+   "en": "Inland, tomorrow is the hardest of the four days.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Córdoba se esperan treinta y nueve grados de máxima y veinte de mínima,",
+   "en": "In «Córdoba», thirty nine degrees are expected at the highest and twenty at the lowest,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según la AEMET.",
+   "en": "according to «AEMET».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El miércoles la máxima baja a treinta y seis grados,",
+   "en": "On Wednesday the high drops to thirty six degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con el cielo poco nuboso.",
+   "en": "with a lightly cloudy sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El jueves se queda en treinta y tres,",
+   "en": "On Thursday it stays at thirty three,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y aparece lluvia escasa por la mañana.",
+   "en": "and light rain appears in the morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por el valle, en Sevilla,",
+   "en": "Along the valley, in «Sevilla»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "mañana se llega a treinta y ocho grados con el cielo despejado.",
+   "en": "tomorrow reaches thirty eight degrees under a clear sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El miércoles la máxima cae de golpe a treinta y dos grados",
+   "en": "On Wednesday the high falls sharply to thirty two degrees",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la mínima a diecinueve.",
+   "en": "and the low to nineteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El jueves, treinta grados, con un setenta",
+   "en": "On Thursday, thirty degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y cinco por ciento de probabilidad de lluvia por la mañana.",
+   "en": "with a seventy five per cent chance of rain in the morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viernes la máxima se queda en treinta y uno, según la AEMET.",
+   "en": "On Friday the high stays at thirty one, according to «AEMET».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la costa el cambio se nota menos.",
+   "en": "On the coast the change is felt less.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Málaga se esperan mañana treinta y cuatro grados de máxima y veinticuatro de mínima.",
+   "en": "In «Málaga», thirty four degrees are expected tomorrow at the highest and twenty four at the lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El miércoles sube un grado, hasta treinta y cinco,",
+   "en": "On Wednesday it climbs a degree, to thirty five,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con el cielo nuboso por la tarde.",
+   "en": "with cloud in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El jueves baja a treinta y dos,",
+   "en": "On Thursday it drops to thirty two,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el viernes a treinta y uno, según la AEMET.",
+   "en": "and on Friday to thirty one, according to «AEMET».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es Andalucía para lo que queda de semana.",
+   "en": "That is «Andalucía» for the rest of the week.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "The forecast, Andalusia, Monday 17 August",
+ "edition": "evening",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Andalucía",
+ "accent": "Andalucía",
+ "accent_label": "acento de Andalucía",
+ "segment_order": 1,
+ "headline_en": "Predicción AEMET para Córdoba (Córdoba), 2026-08-18",
+ "summary_en": [
+  "Predicción AEMET para Córdoba (Córdoba), 2026-08-18",
+  "Predicción AEMET para Córdoba (Córdoba), 2026-08-19"
+ ]
+}

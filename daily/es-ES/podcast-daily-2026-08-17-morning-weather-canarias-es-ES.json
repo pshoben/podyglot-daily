@@ -1,0 +1,163 @@
+{
+ "title": "El tiempo en Canarias, lunes 17 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-canarias",
+   "wpm": 208,
+   "rate_multiplier": 0.86,
+   "pitch_multiplier": 0.59
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-canarias",
+ "date": "2026-08-17",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El tiempo en Canarias.",
+   "en": "The weather in «Canarias».",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Con el alisio del norte,",
+   "en": "With the northerly trade wind,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "las islas siguen en cifras suaves.",
+   "en": "the islands stay on mild figures.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Las Palmas de Gran Canaria se esperan veintisiete grados de máxima",
+   "en": "In «Las Palmas de Gran Canaria» twenty seven degrees are expected at the top",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y veintitrés de mínima, según la AEMET.",
+   "en": "and twenty three at the bottom, according to «AEMET».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo queda poco nuboso y no hay probabilidad de lluvia por la tarde.",
+   "en": "The sky stays lightly clouded and there is no chance of rain in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento del norte sopla a veinticinco kilómetros por hora.",
+   "en": "The northerly wind blows at twenty five kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Santa Cruz de Tenerife la máxima sube a treinta grados, con veinticuatro de mínima.",
+   "en": "In «Santa Cruz de Tenerife» the high climbs to thirty degrees, with twenty four at the bottom.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí el cielo queda despejado,",
+   "en": "There the sky stays clear,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el norte afloja a veinte kilómetros por hora.",
+   "en": "and the northerly eases to twenty kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En las dos capitales el índice ultravioleta máximo llega a nueve, según la AEMET.",
+   "en": "In both capitals the maximum ultraviolet index reaches nine, according to «AEMET».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Conviene tenerlo en cuenta aunque el termómetro no apriete.",
+   "en": "It is worth bearing in mind even though the thermometer is not fierce.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es Canarias. Vamos con los deportes.",
+   "en": "That is «Canarias». We go on to the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "script",
+ "title_en": "Today's weather, Canary Islands, Monday 17 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Canarias",
+ "accent": "Canarias",
+ "accent_label": "acento de Canarias",
+ "segment_order": 2,
+ "headline_en": "Las Palmas 27 degrees, northerly 25",
+ "summary_en": [
+  "Las Palmas 27 degrees, northerly 25",
+  "Santa Cruz de Tenerife 30 degrees, clear"
+ ]
+}

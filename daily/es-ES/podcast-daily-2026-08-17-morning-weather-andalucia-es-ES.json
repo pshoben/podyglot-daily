@@ -1,0 +1,193 @@
+{
+ "title": "El tiempo en Andalucía, lunes 17 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-andalucia",
+   "wpm": 208,
+   "rate_multiplier": 0.73,
+   "pitch_multiplier": 0.79
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-andalucia",
+ "date": "2026-08-17",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El tiempo en Andalucía.",
+   "en": "The weather in «Andalucía».",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Tierra adentro manda el calor,",
+   "en": "Inland the heat is in charge,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y hoy vuelve a ser lo primero.",
+   "en": "and today it comes first again.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Córdoba se esperan treinta y nueve grados de máxima y veintidós de mínima,",
+   "en": "In «Córdoba» thirty nine degrees are expected at the top and twenty two at the bottom,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según la AEMET.",
+   "en": "according to «AEMET».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo queda nuboso por la tarde,",
+   "en": "The sky turns cloudy in the afternoon,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pero sin probabilidad de lluvia.",
+   "en": "but with no chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por el valle, en Sevilla,",
+   "en": "Along the valley, in «Sevilla»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la máxima se queda en treinta y siete grados y la mínima en veintitrés.",
+   "en": "the high stays at thirty seven degrees and the low at twenty three.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ahí sí hay tormenta posible:",
+   "en": "There a storm is possible:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un cuarenta y cinco por ciento de probabilidad desde el mediodía.",
+   "en": "a forty five per cent chance from midday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sopla además viento del suroeste a veinticinco kilómetros por hora.",
+   "en": "A south westerly also blows at twenty five kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la costa el ambiente es más llevadero.",
+   "en": "On the coast the air is easier to bear.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Málaga se esperan treinta y tres grados de máxima y veinticuatro de mínima.",
+   "en": "In «Málaga» thirty three degrees are expected at the top and twenty four at the bottom.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hay nubes altas y viento del sur a treinta kilómetros por hora, según la AEMET.",
+   "en": "There is high cloud and a southerly wind at thirty kilometres an hour, according to «AEMET».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es Andalucía. Y ahora, Canarias.",
+   "en": "That is «Andalucía». And now, «Canarias».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "script",
+ "title_en": "Today's weather, Andalusia, Monday 17 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Andalucía",
+ "accent": "Andalucía",
+ "accent_label": "acento de Andalucía",
+ "segment_order": 1,
+ "headline_en": "Cordoba 39 degrees",
+ "summary_en": [
+  "Cordoba 39 degrees",
+  "Seville 37 degrees, 45 per cent chance of storms"
+ ]
+}

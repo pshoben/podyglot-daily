@@ -1,0 +1,530 @@
+{
+ "title": "El noticiero de la mañana, martes 18 de agosto",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-18",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Martes dieciocho de agosto, once y media de la mañana en Buenos Aires.",
+   "en": "Tuesday the eighteenth of August, half past eleven in the morning in «Buenos Aires».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El noticiero de la mañana.",
+   "en": "The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos por Bolivia, con una detención que toca a la política argentina.",
+   "en": "We start in Bolivia, with an arrest that touches Argentine politics.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Fernando Cerimedo fue detenido en Bolivia.",
+   "en": "«Fernando Cerimedo» has been detained in Bolivia.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es consultor político y fue asesor del presidente Javier Milei.",
+   "en": "He is a political consultant and was an adviser to President «Javier Milei».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo detuvieron de madrugada en el aeropuerto de Viru Viru,",
+   "en": "He was arrested in the early hours at the «Viru Viru» airport,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en Santa Cruz de la Sierra.",
+   "en": "in «Santa Cruz de la Sierra».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Estaba por embarcar hacia la Argentina.",
+   "en": "He was about to board for Argentina.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo investigan por el ataque a balazos contra la activista Nadia Beller.",
+   "en": "He is under investigation over the shooting of the activist «Nadia Beller».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Beller fue su pareja.",
+   "en": "«Beller» was his partner.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dos hombres disfrazados la atacaron en la puerta de un hotel.",
+   "en": "Two disguised men attacked her at the door of a hotel.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mujer permanece internada.",
+   "en": "The woman is still in hospital.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cerimedo aparece señalado como el principal sospechoso.",
+   "en": "«Cerimedo» is named as the main suspect.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El ataque ocurrió en Santa Cruz de la Sierra.",
+   "en": "The attack happened in «Santa Cruz de la Sierra».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Nadia Beller es abogada y activista política.",
+   "en": "«Nadia Beller» is a lawyer and a political activist.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo reportan Ámbito, Clarín y La Nación.",
+   "en": "«Ámbito», «Clarín» and «La Nación» report it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de tema ahora, con la Fuerza Aérea.",
+   "en": "We change subject now, to the Air Force.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Javier Milei declaró el secreto militar sobre el sistema de armas de la Fuerza Aérea.",
+   "en": "«Javier Milei» has declared military secrecy over the Air Force weapons system.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La medida se estableció mediante el decreto setecientos treinta y cinco de dos mil veintiséis.",
+   "en": "The measure was set by decree seven hundred and thirty five of two thousand and twenty six.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Alcanza la exportación de aeronaves, motores, repuestos y armamento.",
+   "en": "It covers the export of aircraft, engines, spare parts and armament.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Son los vinculados al sistema que adquirió la Fuerza Aérea Argentina.",
+   "en": "These are the ones tied to the system the Argentine Air Force acquired.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La clasificación se suma a las restricciones dispuestas desde dos mil veinticuatro.",
+   "en": "The classification adds to restrictions in place since two thousand and twenty four.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquellas venían por la compra de los F dieciséis a Dinamarca.",
+   "en": "Those came from the purchase of the F sixteens from Denmark.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los cazas requieren un esquema de mantenimiento y actualización.",
+   "en": "The fighters need a maintenance and upgrade scheme.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese esquema involucra a proveedores y centros especializados fuera del país.",
+   "en": "That scheme involves suppliers and specialist centres outside the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La información viene de Ámbito y La Nación.",
+   "en": "The information comes from «Ámbito» and «La Nación».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otro tema, y este empezó con una bandera.",
+   "en": "Another subject, and this one started with a banner.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un grupo de manifestantes vestidos como Gandalf protestó contra Peter Thiel.",
+   "en": "A group of protesters dressed as «Gandalf» demonstrated against «Peter Thiel».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Fue en su casa de Palermo.",
+   "en": "It was outside his house in «Palermo».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Llevaban una bandera que decía you shall not pass, no pasarás.",
+   "en": "They carried a banner that said you shall not pass.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La frase estaba escrita en inglés.",
+   "en": "The phrase was written in English.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El fundador de Palantir es fanático de El señor de los anillos.",
+   "en": "The founder of «Palantir» is a fan of The Lord of the Rings.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El nombre de la empresa está inspirado en la saga.",
+   "en": "The company's name is taken from the saga.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La protesta llegó días después de una compra.",
+   "en": "The protest came days after a purchase.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cofundador de PayPal y Palantir compró el uno por ciento de la",
+   "en": "The co founder of «PayPal» and «Palantir» bought one per cent of the oil",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "petrolera Vista Energy.",
+   "en": "company «Vista Energy».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su presencia en el país viene avanzando.",
+   "en": "His presence in the country has been growing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Así lo cuentan Ámbito y Clarín.",
+   "en": "That is how «Ámbito» and «Clarín» tell it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para el final, un terremoto en el sur de España.",
+   "en": "To finish, an earthquake in the south of Spain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un nuevo terremoto sacudió Granada,",
+   "en": "A new earthquake shook «Granada»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el segundo en tres días.",
+   "en": "the second in three days.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dejó tres heridos, uno de ellos un nene.",
+   "en": "It left three people injured, one of them a child.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la ciudad hay grietas y desprendimientos.",
+   "en": "In the city there are cracks and rockfalls.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Alhambra desalojó zonas de forma preventiva.",
+   "en": "The «Alhambra» evacuated areas as a precaution.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasadas las diez y media de la mañana,",
+   "en": "After half past ten in the morning,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Granada tembló seis veces en una hora.",
+   "en": "«Granada» shook six times in one hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Fueron réplicas de diversa intensidad.",
+   "en": "They were aftershocks of varying strength.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El anterior había sido apenas tres días antes.",
+   "en": "The previous one had been just three days earlier.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Así lo publican Clarín y La Nación.",
+   "en": "That is what «Clarín» and «La Nación» publish.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo central.",
+   "en": "That is what matters most today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 18 August",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Fernando Cerimedo, a political consultant and former adviser to Milei, was detained in Bol",
+ "summary_en": [
+  "Fernando Cerimedo, a political consultant and former adviser to Milei, was detained in Bol",
+  "Javier Milei declared military secrecy over the Air Force weapons system, by Decree 735 of",
+  "A group of protesters dressed as Gandalf demonstrated against Peter Thiel outside his hous"
+ ]
+}

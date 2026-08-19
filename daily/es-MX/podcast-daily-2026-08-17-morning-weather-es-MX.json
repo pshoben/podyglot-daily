@@ -1,0 +1,189 @@
+{
+ "title": "El clima, lunes 17 de agosto",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-weather",
+   "wpm": 186,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-17",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El clima para hoy.",
+   "en": "The weather for today.",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Así viene el cielo: la llovizna acompaña la jornada en buena parte del país.",
+   "en": "Here is how the sky comes in: drizzle goes with the day across a good part of the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la Ciudad de México se esperan veintitrés grados de máxima y doce de mínima.",
+   "en": "In «Ciudad de México» twenty three degrees are expected at the top and twelve at the bottom.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación llega al setenta y tres por ciento,",
+   "en": "The chance of precipitation reaches seventy three per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según el modelo del Centro Europeo.",
+   "en": "according to the European Centre model.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento se mantiene flojo, en diez kilómetros por hora.",
+   "en": "The wind stays light, at ten kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por estados, Guadalajara queda en veintinueve grados de máxima y diecisiete de mínima.",
+   "en": "By state, «Guadalajara» sits at twenty nine degrees at the top and seventeen at the bottom.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí la probabilidad de precipitación baja al cuarenta y uno por ciento.",
+   "en": "There the chance of precipitation drops to forty one per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento sopla también a diez kilómetros por hora, según el mismo modelo.",
+   "en": "The wind blows at ten kilometres an hour there too, according to the same model.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el norte se concentra el calor del día.",
+   "en": "In the north the heat of the day is concentrated.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Monterrey se esperan treinta y seis grados de máxima y veinticuatro de mínima,",
+   "en": "In «Monterrey» thirty six degrees are expected at the top and twenty four at the bottom,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según el mismo modelo.",
+   "en": "according to the same model.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de lluvia se queda en el veintiocho por ciento,",
+   "en": "The chance of rain stays at twenty eight per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con viento de veintitrés kilómetros por hora.",
+   "en": "with wind of twenty three kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cuidado en la carretera si sale temprano, la llovizna reduce la visibilidad.",
+   "en": "Take care on the road if you go out early, drizzle cuts visibility.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ahí está el panorama. Enseguida, la agenda deportiva.",
+   "en": "That is the picture. Coming up next, the sports agenda.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "script",
+ "title_en": "Today's weather, Monday 17 August",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "Ciudad de México: 23 degrees",
+ "summary_en": [
+  "Ciudad de México: 23 degrees",
+  "Guadalajara: 29 degrees"
+ ]
+}

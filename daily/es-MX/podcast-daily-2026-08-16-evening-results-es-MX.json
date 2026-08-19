@@ -1,0 +1,136 @@
+{
+ "title": "Los marcadores, domingo 16 de agosto",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-results",
+   "wpm": 186,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "results",
+ "date": "2026-08-16",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Llega ahora el resultado del Monterrey contra los Bravos de Ciudad Juárez,",
+   "en": "Now comes the result of «Monterrey» against «Bravos de Ciudad Juárez», in «Liga",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la Liga MX.",
+   "en": "MX».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Si no quiere enterarse de estos marcadores, adelántese ahora.",
+   "en": "If you would rather not find out these scores, skip ahead now.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Monterrey goleó seis a uno a los Bravos de Ciudad Juárez y asume el liderato de la Liga MX.",
+   "en": "«Monterrey» beat «Bravos de Ciudad Juárez» six one and go top of «Liga MX».",
+   "prosody": {
+    "pause_ms": 4000,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Orbelín Pineda marcó su primer tanto con Rayados,",
+   "en": "«Orbelín Pineda» scored his first goal for «Rayados»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "después de retornar a México tras una estancia de cuatro años en Europa.",
+   "en": "after returning to «México» following four years in Europe.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Fue un duelo perfecto para el mediocampista y para los regiomontanos.",
+   "en": "It was a perfect afternoon for the midfielder and for the «Monterrey» side.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El gol de la honra lo marcó Óscar Estupiñán, al minuto treinta y dos.",
+   "en": "The consolation goal was scored by «Óscar Estupiñán», in the thirty-second minute.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Definió de zurda, barriéndose en el área,",
+   "en": "He finished with his left foot, sliding in the area,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tras un pase filtrado del panameño José Luis Rodríguez.",
+   "en": "after a through ball from the Panamanian «José Luis Rodríguez».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esos son los marcadores.",
+   "en": "Those are the scores.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "title_en": "Results, Sunday 16 August",
+ "edition": "evening",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "Monterrey against Ciudad Juarez in Liga MX",
+ "summary_en": [
+  "Monterrey against Ciudad Juarez in Liga MX"
+ ]
+}

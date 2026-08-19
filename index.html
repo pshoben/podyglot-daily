@@ -1,0 +1,32 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Podyglot Today feed</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+ body { font: 16px/1.5 system-ui, sans-serif; max-width: 44rem;
+        margin: 3rem auto; padding: 0 1rem; color: #222; }
+ code { background: #f4f4f5; padding: .1em .35em; border-radius: 3px; }
+ li { margin: .3rem 0; }
+</style>
+<h1>Podyglot Today feed</h1>
+<p>Daily news, weather and sport bulletins for language learners, one static
+JSON file per programme. This is a machine feed the Podyglot app reads; it is
+published so an edition can reach a listener without waiting on an app
+release.</p>
+<h2>Channels</h2>
+<ul>
+<li><a href="daily/es-AR/index.json">es-AR</a> &mdash; 11 episodes, latest 2026-08-19</li>
+<li><a href="daily/es-CL/index.json">es-CL</a> &mdash; 8 episodes, latest 2026-08-19</li>
+<li><a href="daily/es-CO/index.json">es-CO</a> &mdash; 9 episodes, latest 2026-08-19</li>
+<li><a href="daily/es-ES/index.json">es-ES</a> &mdash; 24 episodes, latest 2026-08-19</li>
+<li><a href="daily/es-MX/index.json">es-MX</a> &mdash; 12 episodes, latest 2026-08-19</li>
+<li><a href="daily/fr-BE/index.json">fr-BE</a> &mdash; 10 episodes, latest 2026-08-19</li>
+<li><a href="daily/fr-CA/index.json">fr-CA</a> &mdash; 11 episodes, latest 2026-08-19</li>
+<li><a href="daily/fr-FR/index.json">fr-FR</a> &mdash; 14 episodes, latest 2026-08-19</li>
+</ul>
+<h2>Convention</h2>
+<p><code>channels.json</code> lists every channel.
+<code>daily/&lt;dialect&gt;/index.json</code> is one channel's episode list,
+newest first. Each entry carries the <code>file</code> to fetch alongside it,
+its <code>bytes</code> and its <code>sha256</code>.</p>
+<p>The episode files are byte-identical to the ones inside the app.</p>

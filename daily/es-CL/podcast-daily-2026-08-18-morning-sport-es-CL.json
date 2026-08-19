@@ -1,0 +1,178 @@
+{
+ "title": "El deporte de hoy, martes 18 de agosto",
+ "dialect": "es-CL",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CL-daily-sport",
+   "wpm": 205,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-18",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Partimos con la Copa Libertadores.",
+   "en": "We start with the «Copa Libertadores».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Universidad Católica recibe a Estudiantes de La Plata.",
+   "en": "«Universidad Católica» hosts «Estudiantes de La Plata».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se juega a las ocho y media de la noche de este martes,",
+   "en": "It is played at half past eight this Tuesday evening,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el Claro Arena.",
+   "en": "at the «Claro Arena».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es la vuelta de los octavos de final del torneo continental.",
+   "en": "It is the second leg of the last sixteen of the continental tournament.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es su principal noche continental del año.",
+   "en": "It is their biggest continental night of the year.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cuadro cruzado llega sin Zampedri, su principal referente.",
+   "en": "The «Cruzados» arrive without «Zampedri», their main forward.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y apura el regreso de Clemente Montes.",
+   "en": "And they are hurrying back «Clemente Montes».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En juego hay un millón setecientos mil dólares.",
+   "en": "One million seven hundred thousand dollars are at stake.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Claro Arena cumple casi un año desde su apertura.",
+   "en": "The «Claro Arena» is almost a year old.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Desde la final de mil novecientos noventa y tres,",
+   "en": "Since the final of nineteen ninety three,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la UC solo dos veces llegó a cuartos.",
+   "en": "«UC» has only twice reached the quarter finals.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Fue en mil novecientos noventa y siete y en dos mil once.",
+   "en": "That was in nineteen ninety seven and in two thousand and eleven.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo reportan Radio Universidad de Chile y La Tercera.",
+   "en": "«Radio Universidad de Chile» and «La Tercera» report it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es el deporte de hoy.",
+   "en": "That is the sport for today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Tuesday 18 August",
+ "edition": "morning",
+ "region": "es-CL",
+ "region_label": "Chile",
+ "headline_en": "Universidad Catolica hosts Estudiantes de La Plata at 20:30 on Tuesday in the second leg o",
+ "summary_en": [
+  "Universidad Catolica hosts Estudiantes de La Plata at 20:30 on Tuesday in the second leg o"
+ ]
+}

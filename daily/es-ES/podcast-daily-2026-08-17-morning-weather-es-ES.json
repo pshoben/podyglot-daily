@@ -1,0 +1,243 @@
+{
+ "title": "El tiempo, lunes 17 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather",
+   "wpm": 208,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-17",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El tiempo para hoy.",
+   "en": "The weather for today.",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos por el centro peninsular,",
+   "en": "We start in the centre of the peninsula,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "donde el día viene despejado.",
+   "en": "where the day comes in clear.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Madrid se esperan treinta y seis grados de máxima y veinte de mínima,",
+   "en": "In «Madrid» thirty six degrees are expected at the top and twenty at the bottom,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según la AEMET.",
+   "en": "according to «AEMET».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "No hay probabilidad de lluvia,",
+   "en": "There is no chance of rain,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el índice ultravioleta máximo llega a ocho.",
+   "en": "and the maximum ultraviolet index reaches eight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento sopla flojo del este,",
+   "en": "The wind blows lightly from the east,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a cinco kilómetros por hora.",
+   "en": "at five kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De norte a sur, los avisos se concentran en la mitad sur.",
+   "en": "From north to south, the warnings are concentrated in the southern half.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La agencia mantiene avisos amarillos por tormentas para esta tarde en el sur peninsular.",
+   "en": "The agency has yellow warnings in force for storms this afternoon in the south of the peninsula.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Extremadura hay avisos por el mismo motivo esta tarde.",
+   "en": "In «Extremadura» there are warnings for the same reason this afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Están afectadas las Vegas del Guadiana, la Siberia extremeña, Barros y Serena,",
+   "en": "Affected are «las Vegas del Guadiana», «la Siberia extremeña», «Barros y Serena»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el sur de Badajoz.",
+   "en": "and the south of «Badajoz».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se suman la meseta cacereña y la zona de Villuercas y Montánchez.",
+   "en": "Added to those are the «meseta cacereña» and the area of «Villuercas y Montánchez».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por temperaturas máximas, hay avisos amarillos en las dos Alcarrias.",
+   "en": "For maximum temperatures, there are yellow warnings in the two «Alcarrias».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la Alcarria conquense y en la de Guadalajara,",
+   "en": "In the «Alcarria» of «Cuenca» and that of «Guadalajara»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "desde las trece hasta las veintiuna horas.",
+   "en": "from one until nine in the evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El estado completo de avisos cubre la península, Baleares, Ceuta y Melilla.",
+   "en": "The complete set of warnings covers the peninsula, the «Baleares», «Ceuta» and «Melilla».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Está en vigor desde esta mañana y llega hasta el final del miércoles.",
+   "en": "It has been in force since this morning and runs until the end of Wednesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí el tiempo. Seguimos por Andalucía.",
+   "en": "That is the weather. We move on to «Andalucía».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "script",
+ "title_en": "Today's weather, Monday 17 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "España",
+ "accent": "Castilla",
+ "accent_label": "acento de Castilla",
+ "segment_order": 0,
+ "headline_en": "Madrid 36 degrees, clear, UV 8",
+ "summary_en": [
+  "Madrid 36 degrees, clear, UV 8",
+  "AEMET has yellow warnings in force for storms today from 14:00 to 23:59 in Jaen and Cordob"
+ ]
+}

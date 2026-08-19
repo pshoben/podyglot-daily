@@ -1,0 +1,530 @@
+{
+ "title": "Las noticias de la mañana, lunes 17 de agosto",
+ "dialect": "es-CL",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CL-daily-news",
+   "wpm": 205,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-17",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lunes diecisiete de agosto. Las noticias de la mañana.",
+   "en": "Monday the seventeenth of August. «Las noticias de la mañana».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Colombia pidió a Donald Trump suspender temporalmente los aranceles tras el terremoto,",
+   "en": "«Colombia» has asked «Donald Trump» to suspend tariffs temporarily after the earthquake,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según Radio Universidad de Chile.",
+   "en": "according to «Radio Universidad de Chile».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Acá en Chile, la reforma constitucional de seguridad ingresa hoy al Senado en medio",
+   "en": "Here in Chile, the constitutional security reform goes to the Senate today amid reservations",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de reparos opositores.",
+   "en": "from the opposition.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Partimos con Colombia.",
+   "en": "We start with «Colombia».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El presidente De la Espriella pidió en una llamada telefónica la suspensión temporal del arancel.",
+   "en": "President «De la Espriella» asked in a telephone call for the tariff to be suspended temporarily.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se trata del gravamen del doce coma cinco por ciento que afecta a",
+   "en": "This is the twelve point five per cent duty affecting",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "los productos colombianos.",
+   "en": "Colombian products.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El objetivo es aliviar a los empresarios tras el terremoto que dejó casi trescientos muertos",
+   "en": "The aim is to relieve businesses after the earthquake that left almost three hundred dead",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el Chocó.",
+   "en": "in «el Chocó».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Tercera informó por su parte que su esposa, Ana Lucía Pineda,",
+   "en": "«La Tercera» reported for its part that his wife, «Ana Lucía Pineda»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "encabeza la recolección de ayuda privada.",
+   "en": "is leading the collection of private aid.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Exfuncionarios cuestionaron esa práctica, según ese mismo diario.",
+   "en": "Former officials questioned that practice, according to that same paper.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Acá en Chile, la reforma constitucional de seguridad será ingresada esta jornada al Senado.",
+   "en": "Here in Chile, the constitutional security reform will be submitted to the Senate today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Presidente Kast defendió que el líder de la UDI opinó sobre un borrador",
+   "en": "President «Kast» argued that the «UDI» leader had commented on a draft",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y no sobre la reforma en sí.",
+   "en": "and not on the reform itself.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dijo además que es una cuestión muy apresurada decir que la reforma no cuenta",
+   "en": "He also said it was very hasty to say the reform does not",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con los votos.",
+   "en": "have the votes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Guillermo Ramírez había adelantado el rechazo de la UDI a la propuesta.",
+   "en": "«Guillermo Ramírez» had signalled the «UDI» would reject the proposal.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Advirtió que el texto incorpora excepciones a principios generales que debilitarían la Constitución,",
+   "en": "He warned that the text adds exceptions to general principles that would weaken the Constitution,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según Radio Universidad de Chile.",
+   "en": "according to «Radio Universidad de Chile».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La presidenta de Renovación Nacional, Andrea Balladares, se sumó a esos reparos.",
+   "en": "The president of «Renovación Nacional», «Andrea Balladares», joined those reservations.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aseguró que su partido respalda el objetivo de fortalecer las herramientas contra el crimen organizado.",
+   "en": "She said her party backs the aim of strengthening the tools against organised crime.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pero planteó reparos al uso de la Carta Magna para incorporar medidas específicas de política",
+   "en": "But she raised objections to using the Constitution to add specific public policy measures,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pública, según La Tercera.",
+   "en": "according to «La Tercera».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En lo demás, el timonel de los republicanos, Squella, se desmarcó de esos reparos.",
+   "en": "In other matters, the Republican leader «Squella» distanced himself from those reservations.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Señaló que las observaciones de la UDI son normales dentro del proceso legislativo,",
+   "en": "He said the «UDI» observations are normal within the legislative process,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según La Tercera.",
+   "en": "according to «La Tercera».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El parlamentario Soto, del PPD,",
+   "en": "The parliamentarian «Soto», of the «PPD»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "advirtió en cambio que la reforma busca cambiar las reglas a la medida del",
+   "en": "warned instead that the reform seeks to change the rules to suit the government",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "gobierno de turno.",
+   "en": "of the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiando de tema, el sistema frontal dejó más de sesenta milímetros de lluvia en Santiago.",
+   "en": "Turning to something else, the frontal system left more than sixty millimetres of rain in «Santiago».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hubo daños menores en O'Higgins y en el Maule,",
+   "en": "There was minor damage in «O'Higgins» and «el Maule»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con anegamientos puntuales y el cierre de pasos cordilleranos.",
+   "en": "with local flooding and the closure of mountain passes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se suspendieron las clases",
+   "en": "Classes were suspended",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en las regiones de Arica y Parinacota y de Antofagasta por las lluvias.",
+   "en": "in the regions of «Arica y Parinacota» and «Antofagasta» because of the rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Dirección Meteorológica emitió una alerta por precipitaciones para sectores del norte del país.",
+   "en": "The meteorological directorate issued an alert for rainfall across parts of the north of the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los montos acumulados podrían alcanzar hasta treinta milímetros en determinadas zonas.",
+   "en": "Accumulated amounts could reach up to thirty millimetres in certain areas.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se mantiene la alerta amarilla en Arica y Parinacota, Tarapacá, Antofagasta y Atacama,",
+   "en": "The yellow alert remains in «Arica y Parinacota», «Tarapacá», «Antofagasta» and «Atacama», according",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según la misma dirección.",
+   "en": "to that same directorate.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para terminar, un relevo en la política chilena.",
+   "en": "To finish, a changing of the guard in Chilean politics.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La diputada Gael Yeomans fue electa como la nueva presidenta del Frente Amplio.",
+   "en": "The deputy «Gael Yeomans» has been elected the new president of the «Frente Amplio».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su lista obtuvo el cincuenta y cuatro coma siete por ciento de las preferencias.",
+   "en": "Her list took fifty four point seven per cent of the vote.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Participaron más de diez mil militantes en los comicios internos,",
+   "en": "More than ten thousand members took part in the internal elections,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según Radio Universidad de Chile.",
+   "en": "according to «Radio Universidad de Chile».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Constanza Martínez reconoció la derrota y dijo que seguirán construyendo.",
+   "en": "«Constanza Martínez» conceded defeat and said they would keep building.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El expresidente Boric valoró la renovación de la directiva",
+   "en": "The former president «Boric» welcomed the renewal of the leadership",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y comprometió su respaldo a la nueva presidenta, según La Tercera.",
+   "en": "and pledged his backing to the new president, according to «La Tercera».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo principal. Y ahora, el estado del tiempo.",
+   "en": "That is the main of it. And now, the state of the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "script",
+ "title_en": "The morning news, Monday 17 August",
+ "edition": "morning",
+ "region": "es-CL",
+ "region_label": "Chile",
+ "headline_en": "Colombia asks Trump to suspend tariffs after the earthquake",
+ "summary_en": [
+  "Colombia asks Trump to suspend tariffs after the earthquake",
+  "Security reform goes to the Senate as Kast answers UDI reservations",
+  "RN president Balladares joins the reservations about the reform"
+ ]
+}

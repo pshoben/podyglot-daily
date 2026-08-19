@@ -1,0 +1,153 @@
+{
+ "title": "El tiempo en Andalucía, miércoles 19 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-andalucia",
+   "wpm": 208,
+   "rate_multiplier": 0.73,
+   "pitch_multiplier": 0.79
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-andalucia",
+ "date": "2026-08-19",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Hoy manda la costa, y no el valle, capital por capital.",
+   "en": "Today it is the coast that leads, and not the valley, capital by capital.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Málaga se esperan treinta y siete grados de máxima y veinticuatro de mínima.",
+   "en": "In «Málaga» thirty seven degrees are expected at the highest and twenty four at the lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo queda con intervalos nubosos,",
+   "en": "The sky stays with cloudy intervals,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con un veinticinco por ciento de probabilidad de lluvia.",
+   "en": "with a twenty five per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Córdoba la máxima se queda en treinta y seis grados",
+   "en": "In «Córdoba» the maximum stays at thirty six degrees",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la mínima en veinte.",
+   "en": "and the minimum at twenty.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ahí el cielo queda poco nuboso y no hay probabilidad de precipitación.",
+   "en": "There the sky stays lightly clouded and there is no chance of precipitation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Sevilla la máxima baja hasta los treinta y dos grados, con veinte de mínima.",
+   "en": "In «Sevilla» the maximum drops to thirty two degrees, with twenty at the lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo queda despejado toda la jornada.",
+   "en": "The sky stays clear all day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Málaga es hoy la más calurosa de las tres,",
+   "en": "«Málaga» is the hottest of the three today,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y también la de peor noche.",
+   "en": "and also the one with the worst night.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Con eso queda dibujado el mapa andaluz.",
+   "en": "With that the Andalusian map is drawn.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 3,
+ "handover": "junction",
+ "title_en": "Today's weather, Andalusia, Wednesday 19 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Andalucía",
+ "accent": "Andalucía",
+ "accent_label": "acento de Andalucía",
+ "segment_order": 1,
+ "headline_en": "Predicción AEMET para Málaga (Málaga), 2026-08-19",
+ "summary_en": [
+  "Predicción AEMET para Málaga (Málaga), 2026-08-19",
+  "Predicción AEMET para Córdoba (Córdoba), 2026-08-19"
+ ]
+}

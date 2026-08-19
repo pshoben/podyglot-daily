@@ -1,0 +1,480 @@
+{
+ "title": "El informativo de la tarde, lunes 17 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-news",
+   "wpm": 208,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-17",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lunes diecisiete de agosto. El informativo de la tarde.",
+   "en": "Monday the seventeenth of August. «El informativo de la tarde».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Marruecos avanza en su alianza militar y tecnológica con Estados Unidos,",
+   "en": "«Marruecos» is advancing its military and technological alliance with the United States,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en plena crisis por Ceuta.",
+   "en": "in the middle of the «Ceuta» crisis.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en España, la investigación del tiroteo de Isla Cristina",
+   "en": "Here in «España», the investigation into the «Isla Cristina» shooting",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "apunta a un ajuste de cuentas del narcotráfico.",
+   "en": "points to a settling of scores in drug trafficking.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Abrimos con Marruecos. El país avanza en su alianza militar y tecnológica con Estados Unidos.",
+   "en": "We open with «Marruecos». The country is advancing its military and technological alliance with the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se ha creado un nuevo centro de pruebas de sistemas y tecnologías, según El Mundo.",
+   "en": "A new systems and technology testing centre has been created, according to «El Mundo».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese centro consolida los lazos fomentados por Donald Trump.",
+   "en": "That centre consolidates the ties fostered by «Donald Trump».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ocurre en plena crisis por Ceuta,",
+   "en": "It comes in the middle of the «Ceuta» crisis,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y España mantendrá intacta su estrategia con Marruecos.",
+   "en": "and «España» will keep its strategy with «Marruecos» intact.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo hará pese a las críticas, según El País.",
+   "en": "It will do so despite the criticism, according to «El País».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mayoría de los diplomáticos, exministros y expertos consultados pide un cambio de tono.",
+   "en": "Most of the diplomats, former ministers and experts consulted are asking for a change of tone.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Reclaman más firmeza ante Rabat, según ese mismo diario.",
+   "en": "They want more firmness towards «Rabat», according to that same paper.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en España, ya hay más detalles del tiroteo de Isla Cristina, en Huelva.",
+   "en": "Here in «España», there are now more details on the «Isla Cristina» shooting, in «Huelva».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Entre los tres muertos hay una mujer embarazada y un menor.",
+   "en": "Among the three dead are a pregnant woman and a minor.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Guardia Civil ha iniciado una investigación,",
+   "en": "The «Guardia Civil» has opened an investigation,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y todo apunta a un ajuste de cuentas, según El Mundo.",
+   "en": "and everything points to a settling of scores, according to «El Mundo».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Estaría relacionado con rencillas familiares del narcotráfico.",
+   "en": "It would be linked to family feuds in drug trafficking.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dos encapuchados en una motocicleta abrieron fuego contra las víctimas.",
+   "en": "Two hooded men on a motorcycle opened fire on the victims.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Así lo recogió La Vanguardia.",
+   "en": "That is what «La Vanguardia» reported.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el resto de la actualidad,",
+   "en": "In the rest of the news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el mundo del cine despide a una actriz.",
+   "en": "the world of cinema says goodbye to an actress.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hayden Panettiere murió en la madrugada de este lunes,",
+   "en": "«Hayden Panettiere» died in the early hours of this Monday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a los treinta y seis años.",
+   "en": "at the age of thirty six.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su padre confirmó el fallecimiento,",
+   "en": "Her father confirmed the death,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y las autoridades estadounidenses investigan las causas.",
+   "en": "and the American authorities are investigating the causes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La intérprete deja una hija de doce años, según El País.",
+   "en": "The actress leaves a twelve year old daughter, according to «El País».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Fue conocida por las series Héroes y Nashville.",
+   "en": "She was known for the series «Héroes» and «Nashville».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se desconoce la causa de su fallecimiento, según ABC.",
+   "en": "The cause of her death is not known, according to «ABC».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese diario recoge, citando al medio estadounidense TMZ,",
+   "en": "That paper reports, citing the American outlet «TMZ»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que la Policía acudió a su casa el domingo por la noche.",
+   "en": "that police went to her home on Sunday night.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Fue por un incidente que afectaba a la intérprete,",
+   "en": "It was over an incident involving the actress,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y hay una investigación abierta.",
+   "en": "and an investigation is open.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Volvemos ahora a la política exterior,",
+   "en": "We come back now to foreign policy,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "porque hay un trasfondo que conviene conocer.",
+   "en": "because there is a background worth knowing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La crisis migratoria de Ceuta ha dejado a la vista",
+   "en": "The «Ceuta» migration crisis has laid bare",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un memorial de agravios de Marruecos hacia España.",
+   "en": "a list of grievances from «Marruecos» towards «España».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Gobierno de Rabat traslada por distintos medios un rosario de quejas, según El País.",
+   "en": "The government in «Rabat» is passing on a string of complaints by various means, according to «El País».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se queja de no haber sido consultado sobre la regularización.",
+   "en": "It complains about not having been consulted on the regularisation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También sobre la nacionalidad para los saharauis, y sobre la devolución en caliente.",
+   "en": "Also on nationality for the «saharauis», and on hot returns.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese memorial de agravios ayuda a situar la crisis de estos días.",
+   "en": "That list of grievances helps to place the crisis of these days.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para terminar, una nota sobre la relación entre los dos países.",
+   "en": "To finish, a note on the relationship between the two countries.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pese a todo, España mantendrá intacta su estrategia con Marruecos, según El País.",
+   "en": "In spite of everything, «España» will keep its strategy with «Marruecos» intact, according to «El País».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El debate, por ahora, es sobre el tono y no sobre el rumbo.",
+   "en": "The debate, for now, is about the tone and not about the direction.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí lo esencial. Vamos con el tiempo.",
+   "en": "That is the essential of it. We go on to the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "script",
+ "title_en": "The evening news, Monday 17 August",
+ "edition": "evening",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Morocco deepens military and tech alliance with the US amid the Ceuta crisis",
+ "summary_en": [
+  "Morocco deepens military and tech alliance with the US amid the Ceuta crisis",
+  "Ceuta crisis reveals Morocco's list of grievances towards Spain",
+  "Isla Cristina shooting: a pregnant woman and a minor among the three dead"
+ ]
+}

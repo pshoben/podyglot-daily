@@ -1,0 +1,229 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-AR",
+ "base": "https://pshoben.github.io/podyglot-daily/",
+ "episodes": [
+  {
+   "id": "es-AR-El noticiero de la mañana, miércoles 19 de agosto",
+   "file": "podcast-daily-2026-08-19-morning-news-es-AR.json",
+   "bytes": 13858,
+   "sha256": "d25543918baf710c08345218209e5ca0b7ab81fe61f1b4105f6b04fcc76f5823",
+   "date": "2026-08-19",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El noticiero de la mañana, miércoles 19 de agosto",
+   "title_en": "The morning news, Wednesday 19 August",
+   "headline_en": "Fernando Cerimedo, former adviser to president Javier Milei, is detained in Bolivia as the",
+   "summary_en": [
+    "Fernando Cerimedo, former adviser to president Javier Milei, is detained in Bolivia as the",
+    "Before the federal judge of San Isidro, Lino Mirabelli, former deputy Jose Luis Espert ask",
+    "The Appeals Chamber confirmed the detention of Albertina Mangini, a judicial official who"
+   ]
+  },
+  {
+   "id": "es-AR-El pronóstico, miércoles 19 de agosto",
+   "file": "podcast-daily-2026-08-19-morning-weather-es-AR.json",
+   "bytes": 6846,
+   "sha256": "9e89d29674ee76eba09fced7f0c0ffb1134d6767bc10a40744cd3d5eb135ada7",
+   "date": "2026-08-19",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El pronóstico, miércoles 19 de agosto",
+   "title_en": "Today's weather, Wednesday 19 August",
+   "headline_en": "Previsión para Buenos Aires, miércoles 2026-08-19",
+   "summary_en": [
+    "Previsión para Buenos Aires, miércoles 2026-08-19",
+    "Previsión para Córdoba, miércoles 2026-08-19"
+   ]
+  },
+  {
+   "id": "es-AR-El noticiero de la mañana, martes 18 de agosto",
+   "file": "podcast-daily-2026-08-18-morning-news-es-AR.json",
+   "bytes": 12885,
+   "sha256": "d874f6812060ef686257aa02f86ea6ae9e8af931e5c415e7ea80debfd6019764",
+   "date": "2026-08-18",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El noticiero de la mañana, martes 18 de agosto",
+   "title_en": "The morning news, Tuesday 18 August",
+   "headline_en": "Fernando Cerimedo, a political consultant and former adviser to Milei, was detained in Bol",
+   "summary_en": [
+    "Fernando Cerimedo, a political consultant and former adviser to Milei, was detained in Bol",
+    "Javier Milei declared military secrecy over the Air Force weapons system, by Decree 735 of",
+    "A group of protesters dressed as Gandalf demonstrated against Peter Thiel outside his hous"
+   ]
+  },
+  {
+   "id": "es-AR-El deporte, martes 18 de agosto",
+   "file": "podcast-daily-2026-08-18-morning-sport-es-AR.json",
+   "bytes": 4338,
+   "sha256": "a0383ac63409aa098308f937cb6bfabe701dc9ed7c87814ac9af0c6d8cca6987",
+   "date": "2026-08-18",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El deporte, martes 18 de agosto",
+   "title_en": "Today's sport, Tuesday 18 August",
+   "headline_en": "Los Leones, the Argentine hockey side, face the Netherlands on Tuesday at 13:00 Argentine",
+   "summary_en": [
+    "Los Leones, the Argentine hockey side, face the Netherlands on Tuesday at 13:00 Argentine"
+   ]
+  },
+  {
+   "id": "es-AR-El pronóstico, martes 18 de agosto",
+   "file": "podcast-daily-2026-08-18-morning-weather-es-AR.json",
+   "bytes": 4962,
+   "sha256": "b415db640479b72ce445876bb95d3c115356db11a09f12fede50076ae574ebce",
+   "date": "2026-08-18",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El pronóstico, martes 18 de agosto",
+   "title_en": "Today's weather, Tuesday 18 August",
+   "headline_en": "Forecast for Buenos Aires, Tuesday 2026-08-18: high 12 degrees, low 8; cloudy sky; 4 per c",
+   "summary_en": [
+    "Forecast for Buenos Aires, Tuesday 2026-08-18: high 12 degrees, low 8; cloudy sky; 4 per c",
+    "Forecast for Cordoba, Tuesday 2026-08-18: high 16 degrees, low 8; cloudy sky; 0 per cent c"
+   ]
+  },
+  {
+   "id": "es-AR-El noticiero de la mañana, lunes 17 de agosto",
+   "file": "podcast-daily-2026-08-17-morning-news-es-AR.json",
+   "bytes": 12819,
+   "sha256": "ff2a2d32a816bfd794feb94851fe22cddbefcd4f3601725168ee974932035caa",
+   "date": "2026-08-17",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El noticiero de la mañana, lunes 17 de agosto",
+   "title_en": "The morning news, Monday 17 August",
+   "headline_en": "Actress Hayden Panettiere dies at 36",
+   "summary_en": [
+    "Actress Hayden Panettiere dies at 36",
+    "Industry leads formal job losses, report warns of extreme fragility",
+    "Public holiday: how transport and services run today"
+   ]
+  },
+  {
+   "id": "es-AR-El pronóstico, lunes 17 de agosto",
+   "file": "podcast-daily-2026-08-17-morning-weather-es-AR.json",
+   "bytes": 4661,
+   "sha256": "18443627bf7c393aebcc7fe214b62e47c7875ae7e17048010a44e36619f6e77e",
+   "date": "2026-08-17",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El pronóstico, lunes 17 de agosto",
+   "title_en": "Today's weather, Monday 17 August",
+   "headline_en": "Buenos Aires: 14 degrees",
+   "summary_en": [
+    "Buenos Aires: 14 degrees",
+    "Córdoba: 14 degrees"
+   ]
+  },
+  {
+   "id": "es-AR-El pronóstico, lunes 17 de agosto",
+   "file": "podcast-daily-2026-08-17-evening-weather-es-AR.json",
+   "bytes": 6269,
+   "sha256": "f86f4f474f0f1bf5625852612e2c5e914f5de9a83e4db77221686a33fac1816d",
+   "date": "2026-08-17",
+   "edition": "evening",
+   "programme": "weather",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El pronóstico, lunes 17 de agosto",
+   "title_en": "The forecast, Monday 17 August",
+   "headline_en": "Previsión para Buenos Aires, mañana, martes 2026-08-18",
+   "summary_en": [
+    "Previsión para Buenos Aires, mañana, martes 2026-08-18",
+    "Previsión para Buenos Aires, miércoles 2026-08-19"
+   ]
+  },
+  {
+   "id": "es-AR-Los resultados del día, domingo 16 de agosto",
+   "file": "podcast-daily-2026-08-16-evening-results-es-AR.json",
+   "bytes": 2658,
+   "sha256": "6f915a63f97fcd054c916617e29c6d2630f40a6890a77fa294b1e4f1e61019e9",
+   "date": "2026-08-16",
+   "edition": "evening",
+   "programme": "results",
+   "programme_order": null,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "Los resultados del día, domingo 16 de agosto",
+   "title_en": "Results, Sunday 16 August",
+   "headline_en": "Argentine matches at the Cincinnati Masters",
+   "summary_en": [
+    "Argentine matches at the Cincinnati Masters"
+   ]
+  },
+  {
+   "id": "es-AR-El noticiero de la tarde, domingo 16 de agosto",
+   "file": "podcast-daily-2026-08-16-news-es-AR.json",
+   "bytes": 11849,
+   "sha256": "4397a75893e6c6a88980cf181a76662b6216db26584d6518d09d5885b56261ef",
+   "date": "2026-08-16",
+   "edition": "legacy",
+   "programme": "news",
+   "programme_order": null,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El noticiero de la tarde, domingo 16 de agosto",
+   "title_en": "The evening news, Sunday 16 August",
+   "headline_en": "Melconian warns on the dollar and the exchange-rate lag",
+   "summary_en": [
+    "Melconian warns on the dollar and the exchange-rate lag",
+    "Santilli receives the northern governors on tariff subsidies",
+    "Children's Day sales fall 2.5 per cent"
+   ]
+  },
+  {
+   "id": "es-AR-Los resultados, domingo 16 de agosto",
+   "file": "podcast-daily-2026-08-16-results-es-AR.json",
+   "bytes": 2648,
+   "sha256": "7cd5cbd268fbe8ac777c4f1a2e2d425e617d30d6327dc55e2c2920deabe614b6",
+   "date": "2026-08-16",
+   "edition": "legacy",
+   "programme": "results",
+   "programme_order": null,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "Los resultados, domingo 16 de agosto",
+   "title_en": "Results, Sunday 16 August",
+   "headline_en": "Argentine matches at the Cincinnati Masters",
+   "summary_en": [
+    "Argentine matches at the Cincinnati Masters"
+   ]
+  }
+ ]
+}

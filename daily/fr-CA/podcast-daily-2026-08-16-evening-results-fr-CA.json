@@ -1,0 +1,177 @@
+{
+ "title": "Les résultats du jour, dimanche 16 août",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-results",
+   "wpm": 185,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "results",
+ "date": "2026-08-16",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Voici maintenant les résultats de l'Omnium de Cincinnati,",
+   "en": "Here now are the results from the Cincinnati Open,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "des Championnats panpacifiques et du match du CF Montréal.",
+   "en": "the Pan Pacific championships and «CF Montréal»'s match.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Si vous ne voulez pas savoir comment ça s'est terminé,",
+   "en": "If you do not want to know how it ended,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sautez à la fin maintenant.",
+   "en": "jump to the end now.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au tennis, Félix Auger-Aliassime a obtenu sa première victoire depuis le cinq juillet dernier.",
+   "en": "In tennis, «Félix Auger-Aliassime» has won his first match since the fifth of July.",
+   "prosody": {
+    "pause_ms": 4000,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Québécois s'est imposé dimanche au deuxième tour de l'Omnium de Cincinnati.",
+   "en": "The Quebecer came through on Sunday in the second round of the Cincinnati Open.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'était sa rentrée, après son récent retrait de l'Omnium Banque Nationale.",
+   "en": "It was his return, after his recent withdrawal from the «Omnium Banque Nationale».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À la natation, la Canadienne Alexanne Lepage a causé une grande surprise samedi soir.",
+   "en": "In swimming, the Canadian «Alexanne Lepage» caused a big surprise on Saturday evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle a été couronnée au deux cents mètres brasse des Championnats panpacifiques,",
+   "en": "She took the title in the two hundred metres breaststroke at the Pan Pacific championships,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "disputés à Irvine, en Californie.",
+   "en": "held in «Irvine», California.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sa compatriote Summer McIntosh a remporté la médaille d'argent au deux cents mètres quatre nages.",
+   "en": "Her compatriot «Summer McIntosh» won the silver medal in the two hundred metres individual medley.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au soccer, le CF Montréal a été limité à un match nul,",
+   "en": "In football, «CF Montréal» were held to a one",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un à un, contre le D. C. United.",
+   "en": "all draw against «D. C. United».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'attaquant Prince Owusu a marqué l'unique filet de la formation montréalaise, tôt en deuxième demie.",
+   "en": "The forward «Prince Owusu» scored the Montreal side's only goal, early in the second half.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà les résultats.",
+   "en": "Those are the results.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "title_en": "Results, Sunday 16 August",
+ "edition": "evening",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "Second round at the Cincinnati Masters",
+ "summary_en": [
+  "Second round at the Cincinnati Masters",
+  "The 200m breaststroke at the Pan Pacific championships"
+ ]
+}

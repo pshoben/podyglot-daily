@@ -1,0 +1,233 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-CA",
+ "base": "https://pshoben.github.io/podyglot-daily/",
+ "episodes": [
+  {
+   "id": "fr-CA-Le bulletin du matin, mercredi 19 août",
+   "file": "podcast-daily-2026-08-19-morning-news-fr-CA.json",
+   "bytes": 11171,
+   "sha256": "44cd1a839f7a4ecbaf781496b7fd7f3177fe5c3560b8de2117369fb698874aa0",
+   "date": "2026-08-19",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin du matin, mercredi 19 août",
+   "title_en": "The morning news, Wednesday 19 August",
+   "headline_en": "Donald Trump postponed on Tuesday, by three days, the application of 50 per cent customs d",
+   "summary_en": [
+    "Donald Trump postponed on Tuesday, by three days, the application of 50 per cent customs d",
+    "The Ukrainian authorities responsible for fighting corruption announced on Wednesday that",
+    "Paul St-Pierre-Plamondon could put back the referendum timetable in an attempt to obtain a"
+   ]
+  },
+  {
+   "id": "fr-CA-Le bulletin météo, mercredi 19 août",
+   "file": "podcast-daily-2026-08-19-morning-weather-fr-CA.json",
+   "bytes": 5031,
+   "sha256": "faa572aa195f52ce933871f04f0f053d511c9bdcc58419700adbbcc5e8de8deb",
+   "date": "2026-08-19",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin météo, mercredi 19 août",
+   "title_en": "Today's weather, Wednesday 19 August",
+   "headline_en": "Prévision pour Montréal, mercredi 2026-08-19",
+   "summary_en": [
+    "Prévision pour Montréal, mercredi 2026-08-19",
+    "Prévision pour Québec, mercredi 2026-08-19"
+   ]
+  },
+  {
+   "id": "fr-CA-Le bulletin du matin, mardi 18 août",
+   "file": "podcast-daily-2026-08-18-morning-news-fr-CA.json",
+   "bytes": 13537,
+   "sha256": "ab8a38c5b04925027eb3476d3e9af3a72f3062a301387c5ae56a06462e03c4ad",
+   "date": "2026-08-18",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin du matin, mardi 18 août",
+   "title_en": "The morning news, Tuesday 18 August",
+   "headline_en": "Lise Klaveness, president of the Norwegian football federation, said on Tuesday that FIFA'",
+   "summary_en": [
+    "Lise Klaveness, president of the Norwegian football federation, said on Tuesday that FIFA'",
+    "Paul St-Pierre Plamondon has given a formal commitment that a Parti quebecois government w",
+    "For weeks this summer a lead instructor at a Kawartha Lakes hockey camp was a man who had"
+   ]
+  },
+  {
+   "id": "fr-CA-Le bulletin météo, mardi 18 août",
+   "file": "podcast-daily-2026-08-18-morning-weather-fr-CA.json",
+   "bytes": 5209,
+   "sha256": "9a7f05bebe4f4559afac9cdf9b91a1506556ddc79bf1a714513ecfbf96f6996b",
+   "date": "2026-08-18",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin météo, mardi 18 août",
+   "title_en": "Today's weather, Tuesday 18 August",
+   "headline_en": "Forecast for Montreal, Tuesday 2026-08-18: high 27 degrees, low 18; overcast; 15 per cent",
+   "summary_en": [
+    "Forecast for Montreal, Tuesday 2026-08-18: high 27 degrees, low 18; overcast; 15 per cent",
+    "Forecast for Quebec City, Tuesday 2026-08-18: high 24 degrees, low 17; with drizzle; 6 per"
+   ]
+  },
+  {
+   "id": "fr-CA-Le bulletin du matin, lundi 17 août",
+   "file": "podcast-daily-2026-08-17-morning-news-fr-CA.json",
+   "bytes": 12633,
+   "sha256": "162a7e6517596cec3ea0131b3c1d687ddf7c149c363c85c5ffda2637903817c1",
+   "date": "2026-08-17",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin du matin, lundi 17 août",
+   "title_en": "The morning news, Monday 17 August",
+   "headline_en": "Kushner meets Netanyahu to push the second phase of the Gaza plan",
+   "summary_en": [
+    "Kushner meets Netanyahu to push the second phase of the Gaza plan",
+    "Ebola epidemic becomes the deadliest in DR Congo's history",
+    "Rain brings some respite to Belgium's historic fire"
+   ]
+  },
+  {
+   "id": "fr-CA-Le bulletin météo, lundi 17 août",
+   "file": "podcast-daily-2026-08-17-morning-weather-fr-CA.json",
+   "bytes": 4393,
+   "sha256": "d47e6d28a118320919c6a25959aac3c185a3fa4c8eb967739e319d0fb86657b6",
+   "date": "2026-08-17",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin météo, lundi 17 août",
+   "title_en": "Today's weather, Monday 17 August",
+   "headline_en": "Montréal: 26 degrees",
+   "summary_en": [
+    "Montréal: 26 degrees",
+    "Québec: 24 degrees"
+   ]
+  },
+  {
+   "id": "fr-CA-Le bulletin du soir, lundi 17 août",
+   "file": "podcast-daily-2026-08-17-evening-news-fr-CA.json",
+   "bytes": 12168,
+   "sha256": "b238b8da606796ab495979155fe0d9d82864073c125c4dd90eb0769bede39df9",
+   "date": "2026-08-17",
+   "edition": "evening",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin du soir, lundi 17 août",
+   "title_en": "The evening news, Monday 17 August",
+   "headline_en": "Prime Minister Mark Carney met Newfoundland Premier Tony Wakeham and Quebec Premier Christ",
+   "summary_en": [
+    "Prime Minister Mark Carney met Newfoundland Premier Tony Wakeham and Quebec Premier Christ",
+    "Inflation stood at 3.0 per cent in July in Canada, a slight acceleration, with the recover",
+    "Montreal's blue-collar workers are threatening to strike during the UCI Road World Champio"
+   ]
+  },
+  {
+   "id": "fr-CA-Le bulletin météo, lundi 17 août",
+   "file": "podcast-daily-2026-08-17-evening-weather-fr-CA.json",
+   "bytes": 6511,
+   "sha256": "418a29d02b155d138cdb3987afa810e0c5556abe1a5ec53b5f3a8252eebefd68",
+   "date": "2026-08-17",
+   "edition": "evening",
+   "programme": "weather",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin météo, lundi 17 août",
+   "title_en": "The forecast, Monday 17 August",
+   "headline_en": "Prévision pour Montréal, demain, mardi 2026-08-18",
+   "summary_en": [
+    "Prévision pour Montréal, demain, mardi 2026-08-18",
+    "Prévision pour Montréal, mercredi 2026-08-19"
+   ]
+  },
+  {
+   "id": "fr-CA-Les résultats du jour, dimanche 16 août",
+   "file": "podcast-daily-2026-08-16-evening-results-fr-CA.json",
+   "bytes": 4600,
+   "sha256": "f2335d9f122bbfa9fb7bf01310977f48128ce81dfeee52a2857550c000e6ac69",
+   "date": "2026-08-16",
+   "edition": "evening",
+   "programme": "results",
+   "programme_order": null,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Les résultats du jour, dimanche 16 août",
+   "title_en": "Results, Sunday 16 August",
+   "headline_en": "Second round at the Cincinnati Masters",
+   "summary_en": [
+    "Second round at the Cincinnati Masters",
+    "The 200m breaststroke at the Pan Pacific championships"
+   ]
+  },
+  {
+   "id": "fr-CA-Le bulletin du soir, dimanche 16 août",
+   "file": "podcast-daily-2026-08-16-news-fr-CA.json",
+   "bytes": 12477,
+   "sha256": "48f963c3c1207b8587a6b1ba212345c27d4aa34a1a3fb513d8966c088bb81a3b",
+   "date": "2026-08-16",
+   "edition": "legacy",
+   "programme": "news",
+   "programme_order": null,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin du soir, dimanche 16 août",
+   "title_en": "The evening news, Sunday 16 August",
+   "headline_en": "Kushner meets a Hamas delegation in Egypt as the US pushes its Gaza plan",
+   "summary_en": [
+    "Kushner meets a Hamas delegation in Egypt as the US pushes its Gaza plan",
+    "Strikes across Russia and Ukraine, with tolls still moving",
+    "Thousands still waiting for aid after Indonesia's earthquake"
+   ]
+  },
+  {
+   "id": "fr-CA-Les résultats, dimanche 16 août",
+   "file": "podcast-daily-2026-08-16-results-fr-CA.json",
+   "bytes": 4591,
+   "sha256": "c36898b2734d003ec93815241aac01e4671df5c6384f83d8778030159902dd0d",
+   "date": "2026-08-16",
+   "edition": "legacy",
+   "programme": "results",
+   "programme_order": null,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Les résultats, dimanche 16 août",
+   "title_en": "Results, Sunday 16 August",
+   "headline_en": "Second round at the Cincinnati Masters",
+   "summary_en": [
+    "Second round at the Cincinnati Masters",
+    "The 200m breaststroke at the Pan Pacific championships"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,480 @@
+{
+ "title": "Le journal du matin, mardi 18 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-18",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Mardi dix-huit août. Le journal du matin.",
+   "en": "Tuesday the eighteenth of August. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sophie Adenot devient aujourd'hui la première Française à sortir dans l'espace.",
+   "en": "Today «Sophie Adenot» becomes the first Frenchwoman to walk in space.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La canicule est terminée :",
+   "en": "The heatwave is over:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "plus aucun département n'est en vigilance orange.",
+   "en": "no department is on orange alert any longer.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par l'espace, et par une première pour la France.",
+   "en": "We begin with space, and with a first for «la France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'astronaute Sophie Adenot va sortir de la Station spatiale internationale ce mardi.",
+   "en": "The astronaut «Sophie Adenot» will leave the International Space Station this Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle devient la première Française à réaliser une sortie extravéhiculaire.",
+   "en": "She becomes the first Frenchwoman to carry out a spacewalk.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle sort aux côtés de l'Américain Anil Menon.",
+   "en": "She goes out alongside the American «Anil Menon».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ensemble, ils vont démonter une antenne de la Station.",
+   "en": "Together they will remove an antenna from the station.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ils récupéreront ensuite l'antenne de rechange pour l'installer sur la structure.",
+   "en": "They will then collect the spare antenna and install it on the structure.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mission doit durer plus de six heures.",
+   "en": "The mission is to last more than six hours.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Claudie Haigneré, elle, avait volé dans l'espace en mil neuf cent quatre-vingt-seize",
+   "en": "«Claudie Haigneré» had flown in space in nineteen ninety six",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et en deux mille un.",
+   "en": "and in two thousand and one.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sophie Adenot est à bord de la Station depuis le mois de février.",
+   "en": "«Sophie Adenot» has been aboard the station since February.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est ce que rapportent Le Monde, Libération et Le Télégramme.",
+   "en": "That is what «Le Monde», «Libération» and «Le Télégramme» report.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Une sortie extravéhiculaire reste l'exercice le plus exigeant du métier d'astronaute.",
+   "en": "A spacewalk is still the hardest thing an astronaut does.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il faut travailler avec des gants épais, dans le vide,",
+   "en": "You work in thick gloves, in a vacuum,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et sans droit à l'erreur.",
+   "en": "with no margin for error.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est pour cela que les astronautes en parlent comme d'un aboutissement.",
+   "en": "That is why astronauts talk about it as the high point of a career.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité, la météo,",
+   "en": "In other news, the weather,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où cinq semaines de chaleur viennent de s'achever.",
+   "en": "where five weeks of heat have just ended.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Plus aucun département n'est en vigilance orange canicule ce mardi.",
+   "en": "No department is on orange heatwave alert this Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Météo-France a levé la vigilance dans les six derniers départements concernés.",
+   "en": "«Météo-France» lifted the alert in the last six departments concerned.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il s'agissait de la région Provence-Alpes-Côte d'Azur,",
+   "en": "They were the «Provence-Alpes-Côte d'Azur» region,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de la Corse et des départements rhodaniens.",
+   "en": "«Corse» and the «Rhône» departments.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le prévisionniste a annoncé la fin de l'épisode caniculaire en France.",
+   "en": "The forecaster announced the end of the heatwave episode in «la France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le quart sud-est du pays,",
+   "en": "In the south eastern quarter of the country,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les conditions caniculaires auront duré environ trois semaines.",
+   "en": "the heatwave conditions will have lasted about three weeks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'était le cinquième épisode de fortes chaleurs de l'été.",
+   "en": "It was the fifth spell of intense heat of the summer.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cinq vagues de chaleur en un seul été, c'est beaucoup pour la France.",
+   "en": "Five heatwaves in a single summer is a great deal for «la France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les températures sont désormais en nette baisse, selon Météo-France.",
+   "en": "Temperatures are now falling sharply, according to «Météo-France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cette vague de chaleur avait commencé à la fin du mois de juillet.",
+   "en": "This heatwave had begun at the end of July.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle a touché à un moment ou à un autre la quasi-totalité du territoire.",
+   "en": "At one moment or another it touched almost the whole country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à autre chose, les familles,",
+   "en": "Moving on, families,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un versement attendu par près de trois millions de foyers.",
+   "en": "with a payment nearly three million households have been waiting for.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'allocation de rentrée scolaire est versée ce mardi.",
+   "en": "The school return allowance is paid this Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle concerne les foyers aux revenus les plus modestes.",
+   "en": "It goes to the households on the lowest incomes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le versement est automatique pour les enfants âgés de six à quinze ans.",
+   "en": "The payment is automatic for children aged six to fifteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour les autres, des démarches supplémentaires sont nécessaires.",
+   "en": "For the others, further steps are needed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Son montant varie entre quatre cent vingt et quatre cent soixante euros.",
+   "en": "The amount ranges between four hundred and twenty and four hundred and sixty euros.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est une aide bienvenue, mais pas forcément suffisante pour tous.",
+   "en": "It is a welcome help, but not necessarily enough for everyone.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'aide arrive juste avant les achats de fournitures et de vêtements.",
+   "en": "The help arrives just before the spending on supplies and clothes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour beaucoup de familles, c'est le budget d'une semaine entière.",
+   "en": "For many families it is a whole week's budget.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Libération et Le Télégramme donnent le détail des montants.",
+   "en": "«Libération» and «Le Télégramme» set out the amounts in detail.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel de ce mardi matin.",
+   "en": "That is the main news this Tuesday morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 18 August",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Sophie Adenot becomes on Tuesday the first Frenchwoman to make a spacewalk, leaving the IS",
+ "summary_en": [
+  "Sophie Adenot becomes on Tuesday the first Frenchwoman to make a spacewalk, leaving the IS",
+  "Meteo-France lifted the orange heatwave warning in the last six departments on Tuesday, de",
+  "The school return allowance is paid on Tuesday to nearly three million low-income househol"
+ ]
+}

@@ -1,0 +1,189 @@
+{
+ "title": "Le sport chez nous, lundi 17 août",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-sport",
+   "wpm": 222,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-17",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Ce qui nous attend aujourd'hui, la Coupe du monde de hockey, à Wavre.",
+   "en": "What is waiting for us today, the hockey World Cup, in «Wavre».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Belfius Hockey Arena accueille le Mondial du quinze au trente août.",
+   "en": "The «Belfius Hockey Arena» is hosting the World Cup from the fifteenth to the thirtieth of August.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce lundi soir, à vingt heures trente,",
+   "en": "This Monday evening, at half past eight,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les Red Lions retrouvent l'Allemagne.",
+   "en": "the «Red Lions» meet Germany.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est leur deuxième match du tournoi, rapporte La Libre.",
+   "en": "It is their second match of the tournament, reports «La Libre».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les Belges sont premiers au classement mondial, les Allemands cinquièmes.",
+   "en": "The Belgians are first in the world rankings, the Germans fifth.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Allemagne se présente comme tenante du titre:",
+   "en": "Germany arrive as holders of the title:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "c'est elle qu'il faudra détrôner.",
+   "en": "they are the ones to dethrone.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Chez les dames, les Red Panthers ont ouvert leur tournoi dimanche à dix-sept heures trente.",
+   "en": "On the women's side, the «Red Panthers» opened their tournament on Sunday at half past five.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elles ont affronté la Nouvelle-Zélande, elles aussi à Wavre.",
+   "en": "They faced New Zealand, also in «Wavre».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les deux sélections belges étaient donc en piste ce week-end, samedi puis dimanche.",
+   "en": "Both Belgian squads were therefore out this weekend, on Saturday and then Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Mondial masculin et le Mondial féminin se jouent au même endroit,",
+   "en": "The men's World Cup and the women's World Cup are played in the same place,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans la même quinzaine.",
+   "en": "in the same fortnight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le stade, lui, est né d'un terrain de football devenu trop grand pour son club.",
+   "en": "The stadium itself came out of a football ground that had grown too big for its club.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Vous entendrez comment tout cela s'est terminé dans l'édition du soir.",
+   "en": "You will hear how all of that ended in the evening edition.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport belge de ce matin. Bonne journée.",
+   "en": "That is Belgian sport for this morning. Have a good day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's sport, Monday 17 August",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "The Red Lions play Germany tonight at half past eight in Wavre",
+ "summary_en": [
+  "The Red Lions play Germany tonight at half past eight in Wavre",
+  "The hockey World Cup runs at the Belfius Hockey Arena until the thirtieth"
+ ]
+}

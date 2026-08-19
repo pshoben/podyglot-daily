@@ -1,0 +1,479 @@
+{
+ "title": "El informativo de la mañana, martes 18 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-news",
+   "wpm": 208,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-18",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Martes dieciocho de agosto. El informativo de la mañana.",
+   "en": "Tuesday the eighteenth of August. The morning bulletin.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Moncloa y Ceuta pactan espacios para encarrilar la crisis humanitaria.",
+   "en": "«La Moncloa» and «Ceuta» agree on spaces to steer the humanitarian crisis.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Arranca en California el mayor juicio de la historia de Meta.",
+   "en": "The biggest trial in «Meta»'s history begins in California.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos por Ceuta, donde la presión migratoria marca la agenda política.",
+   "en": "We begin in «Ceuta», where migration pressure is setting the political agenda.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Moncloa y la ciudad de Ceuta han pactado espacios para encarrilar la crisis humanitaria.",
+   "en": "«La Moncloa» and the city of «Ceuta» have agreed on spaces to steer the humanitarian crisis.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El presidente ceutí, Juan Jesús Vivas, siempre moderado, carga contra el Gobierno.",
+   "en": "«Ceuta»'s president, «Juan Jesús Vivas», always moderate, attacks the government.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Gobierno, por su parte,",
+   "en": "The government, for its part,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ve al presidente ceutí desbordado por la presión ultraderechista.",
+   "en": "sees the «Ceuta» president as overwhelmed by far-right pressure.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Partido Popular aseguró que acude a Ceuta a reclamar la normalidad en la ciudad.",
+   "en": "The «Partido Popular» said it is going to «Ceuta» to demand normality in the city.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dijo que no va a calentar nada.",
+   "en": "It said it is not going to inflame anything.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mientras tanto, en la playa de El Trampolín, el poblado sigue creciendo.",
+   "en": "Meanwhile, on «El Trampolín» beach, the camp keeps growing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Decenas de migrantes, la mayoría subsaharianos,",
+   "en": "Dozens of migrants, most of them sub-Saharan,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "malviven al raso en ese campamento.",
+   "en": "are living rough in that camp.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hay incluso una mezquita levantada con cartones y una organización propia.",
+   "en": "There is even a mosque built from cardboard, and an order of their own.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Todos ellos esperan una salida que no termina de llegar.",
+   "en": "All of them are waiting for a way out that never quite arrives.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los cuatro centros nuevos son la respuesta inmediata a ese campamento.",
+   "en": "The four new centres are the immediate answer to that camp.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mil quinientas plazas no resuelven el fondo, pero sí la intemperie.",
+   "en": "Fifteen hundred places do not settle the substance, but they do settle the sleeping rough.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El desacuerdo político, en cambio, sigue exactamente donde estaba.",
+   "en": "The political disagreement, on the other hand, is exactly where it was.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El asunto lleva semanas en la agenda",
+   "en": "The matter has been on the agenda for weeks",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y no se resuelve con un acuerdo de espacios.",
+   "en": "and is not settled by an agreement about spaces.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Detrás hay personas que llevan meses esperando.",
+   "en": "Behind it there are people who have been waiting for months.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y hay una ciudad pequeña que no da abasto con la llegada.",
+   "en": "And there is a small city that cannot cope with the arrivals.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El acuerdo de espacios busca sobre todo ganar tiempo.",
+   "en": "The agreement about spaces is above all a way of buying time.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Con la frontera ya asegurada,",
+   "en": "With the border now secured,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el Gobierno reorienta su gestión.",
+   "en": "the government is reorienting its handling.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Migraciones despliega cuatro nuevos centros para dar techo a mil quinientos migrantes.",
+   "en": "«Migraciones» is deploying four new centres to shelter one thousand five hundred migrants.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Así lo cuenta El País este martes.",
+   "en": "That is how «El País» tells it this Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de tema, California, con un juicio que puede cambiar las redes sociales.",
+   "en": "Moving on, California, with a trial that could change social networks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ha arrancado el mayor juicio de la historia de Meta.",
+   "en": "The biggest trial in «Meta»'s history has begun.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El motivo es la adicción a las redes sociales.",
+   "en": "The reason is addiction to social networks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Una coalición de veintinueve estados pide una indemnización de un coma cuatro billones de dólares.",
+   "en": "A coalition of twenty nine states is seeking one point four trillion dollars in compensation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esa cantidad pondría al gigante de Facebook e Instagram al borde de la bancarrota.",
+   "en": "That sum would push the owner of «Facebook» and «Instagram» to the edge of bankruptcy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "No es una multa cualquiera:",
+   "en": "It is not just any fine:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "es una cifra que amenaza la existencia de la empresa.",
+   "en": "it is a figure that threatens the company's existence.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El juicio se celebra en California y durará meses.",
+   "en": "The trial is being held in California and will last months.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo que se discute es si una red social puede diseñarse para enganchar.",
+   "en": "What is being argued is whether a social network can be designed to hook people.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La respuesta afectaría a toda la industria,",
+   "en": "The answer would affect the whole industry,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y no solo a una empresa.",
+   "en": "and not just one company.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Veintinueve estados actuando juntos es una coalición poco habitual.",
+   "en": "Twenty nine states acting together is an unusual coalition.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El caso se sigue con atención fuera de los Estados Unidos.",
+   "en": "The case is being followed closely outside the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Europa la regulación de las plataformas va por otro camino, el de las normas.",
+   "en": "In Europe the regulation of the platforms goes another way, the way of rules.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí se discute en los tribunales lo que aquí se discute en el Parlamento.",
+   "en": "There they argue in the courts what here is argued in parliament.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los demandantes reclaman además cambios en Facebook y en Instagram.",
+   "en": "The plaintiffs are also demanding changes to «Facebook» and «Instagram».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Así lo informan El Mundo y El País.",
+   "en": "That is what «El Mundo» and «El País» report.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí lo esencial de esta mañana de martes.",
+   "en": "And that is where the morning stands.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 18 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "La Moncloa and Ceuta have agreed on spaces to steer the humanitarian crisis, while the PP",
+ "summary_en": [
+  "La Moncloa and Ceuta have agreed on spaces to steer the humanitarian crisis, while the PP",
+  "The biggest trial in the history of Meta has begun in California over addiction to social"
+ ]
+}

@@ -1,0 +1,106 @@
+{
+ "title": "Los resultados, domingo 16 de agosto",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-results",
+   "wpm": 195,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "results",
+ "date": "2026-08-16",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Llega ahora el resultado de los partidos argentinos en el Masters mil de Cincinnati.",
+   "en": "Now come the results of the Argentine matches at the Cincinnati Masters.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Si no querés enterarte de estos resultados, pasá a lo que sigue ahora.",
+   "en": "If you would rather not find out these results, move on now.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Juan Manuel Cerúndolo ganó una maratón ante Rinderknech.",
+   "en": "«Juan Manuel Cerúndolo» won a marathon against «Rinderknech».",
+   "prosody": {
+    "pause_ms": 4000,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El porteño, cincuenta y uno del ranking mundial,",
+   "en": "The «Buenos Aires» man, fifty-first in the world rankings,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "se impuso después de tres horas y treinta y cinco minutos.",
+   "en": "came through after three hours and thirty-five minutes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Perdieron en cambio su hermano Francisco y Trungelliti.",
+   "en": "His brother «Francisco» and «Trungelliti» lost, by contrast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Francisco Cerúndolo cayó ante Nuno Borges y se despidió en el debut.",
+   "en": "«Francisco Cerúndolo» went down to «Nuno Borges» and was out on his debut.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta acá los resultados.",
+   "en": "And that is the results from here.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "title_en": "Results, Sunday 16 August",
+ "edition": "legacy",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Argentine matches at the Cincinnati Masters",
+ "summary_en": [
+  "Argentine matches at the Cincinnati Masters"
+ ]
+}

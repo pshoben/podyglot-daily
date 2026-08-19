@@ -1,0 +1,630 @@
+{
+ "title": "Le journal du matin, lundi 17 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-17",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lundi dix-sept août. Le journal du matin.",
+   "en": "Monday the seventeenth of August. «Le journal du matin».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'émissaire américain Jared Kushner est en Israël,",
+   "en": "The American envoy «Jared Kushner» is in Israel,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où il a rencontré Benyamin Nétanyahou après avoir parlé au Hamas.",
+   "en": "where he has met «Benyamin Nétanyahou» after speaking to «le Hamas».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, Sébastien Lecornu a chiffré en Gironde une aide qui pourrait dépasser",
+   "en": "In «France», «Sébastien Lecornu» has put a figure on the aid in «la Gironde», which could go beyond",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "cent millions d'euros.",
+   "en": "one hundred million euros.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par le Proche-Orient.",
+   "en": "We start with the Middle East.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Jared Kushner, gendre de Donald Trump,",
+   "en": "«Jared Kushner», «Donald Trump»'s son in law,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "s'est rendu lundi en Israël.",
+   "en": "travelled to Israel on Monday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il y a entamé une rencontre avec le Premier ministre israélien.",
+   "en": "There he began a meeting with the Israeli prime minister.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'objectif affiché est de faire avancer la deuxième phase du plan de paix américain dans",
+   "en": "The stated aim is to move forward the second phase of the American peace plan",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la bande de Gaza.",
+   "en": "for the «Gaza» Strip.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce plan prévoit un retrait des troupes israéliennes et le désarmement du mouvement palestinien.",
+   "en": "That plan provides for a withdrawal of Israeli troops and the disarming of the Palestinian movement.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cette deuxième phase est pour l'heure rejetée par le chef du gouvernement israélien.",
+   "en": "For the moment that second phase is rejected by the head of the Israeli government.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La rencontre intervient après des discussions de l'émissaire avec le Hamas.",
+   "en": "The meeting comes after talks between the envoy and «le Hamas».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France maintenant. Le Premier ministre s'est déplacé lundi en Gironde, accompagné de plusieurs ministres.",
+   "en": "In «France» now. The prime minister travelled to «la Gironde» on Monday, with several ministers.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il est venu rencontrer les élus et les représentants du département, et faire des annonces.",
+   "en": "He came to meet local officials and representatives of the department, and to make announcements.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le coût des mesures d'aide pourrait dépasser cent millions d'euros, selon le Premier ministre.",
+   "en": "The cost of the aid measures could go beyond one hundred million euros, according to the prime minister.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Douze millions d'euros sont débloqués dans l'immédiat,",
+   "en": "Twelve million euros are being released immediately,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et les permis de construire seront délivrés en moins d'un mois.",
+   "en": "and building permits will be issued in under a month.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lors d'une conférence de presse à Mérignac, il a assumé de sortir,",
+   "en": "At a press conference in «Mérignac» he owned up to bringing out,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon ses mots, l'artillerie lourde.",
+   "en": "in his words, the heavy artillery.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les annonces concernent la Gironde et les Landes,",
+   "en": "The announcements cover «la Gironde» and «les Landes»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les deux départements qu'il s'agit de relever.",
+   "en": "the two departments to be put back on their feet.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La veille, au Porge, le chef du gouvernement avait été hué par des habitants.",
+   "en": "The day before, at «Le Porge», the head of the government had been booed by residents.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le maire de la commune, lui, réclame un plan Marshall.",
+   "en": "The mayor of the village, for his part, is calling for a Marshall plan.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'après France Télévisions, le mégafeu de juillet avait contraint deux cent vingt mille",
+   "en": "According to «France Télévisions», July's megafire had forced two hundred",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "personnes à évacuer.",
+   "en": "and twenty thousand people to evacuate.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est, selon France 24, l'incendie le plus destructeur qu'ait connu la France depuis mille",
+   "en": "It is, according to «France 24», the most destructive fire «France» has known since",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "neuf cent quarante-neuf.",
+   "en": "nineteen forty nine.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité,",
+   "en": "In the rest of the news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "l'administration fiscale commence ce lundi à contacter les victimes du piratage de ses données.",
+   "en": "the tax administration begins contacting the victims of the breach of its data this Monday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Six cent soixante-dix-huit mille contribuables sont concernés.",
+   "en": "Six hundred and seventy eight thousand taxpayers are affected.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Chacun recevra le détail des données susceptibles d'avoir été exposées,",
+   "en": "Each one will receive the detail of the data that may have been exposed,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et les mesures de vigilance à adopter.",
+   "en": "and the precautions to take.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est ce qu'indiquent les services du Premier ministre.",
+   "en": "That is what the prime minister's office says.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un pirate se faisant appeler ZeroBytes revendique l'attaque.",
+   "en": "A hacker calling himself «ZeroBytes» claims the attack.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un avion de l'armée de l'air s'est posé en urgence sur une route",
+   "en": "An air force plane made an emergency landing on a main",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "nationale à Salon-de-Provence.",
+   "en": "road at «Salon-de-Provence».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À bord se trouvaient un instructeur et son apprenti pilote, tous deux légèrement blessés.",
+   "en": "On board were an instructor and his trainee pilot, both lightly injured.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le monomoteur a fini sa course sur la chaussée en évitant les commerces alentour.",
+   "en": "The single engine aircraft came to a stop on the roadway, avoiding the shops nearby.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aucun dommage à un tiers n'est à déplorer,",
+   "en": "No third party was harmed,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon le ministère des Armées.",
+   "en": "according to the ministry of the armed forces.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En République démocratique du Congo,",
+   "en": "In the Democratic Republic of Congo,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "l'épidémie d'Ebola est devenue la plus meurtrière de l'histoire du pays.",
+   "en": "the Ebola epidemic has become the deadliest in the country's history.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Deux mille trois cent vingt-cinq personnes sont mortes,",
+   "en": "Two thousand three hundred and twenty five people have died,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sur près de cinq mille cas confirmés.",
+   "en": "out of close to five thousand confirmed cases.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est le dernier bilan des autorités congolaises.",
+   "en": "That is the latest count from the Congolese authorities.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'épidémie tue une personne toutes les trente minutes, selon les Nations unies.",
+   "en": "The epidemic kills one person every thirty minutes, according to the United Nations.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans la baie de Cannes, les recherches ont pris fin, selon France Télévisions,",
+   "en": "In the bay of Cannes, the search has ended, according to «France Télévisions»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour le jeune homme disparu après une collision entre deux bateaux de plaisance.",
+   "en": "for the young man missing after a collision between two pleasure boats.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Son âge varie selon les sources,",
+   "en": "His age varies between sources,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qui parlent de vingt-deux ou de vingt-quatre ans.",
+   "en": "which give it as twenty two or twenty four.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le choc a fait dix blessés, dont plusieurs adolescents, selon Le Monde.",
+   "en": "The crash injured ten people, several of them teenagers, according to «Le Monde».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour finir, une nouvelle du monde du livre.",
+   "en": "To finish, a piece of news from the world of books.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Olivier Nora, évincé de la présidence de Grasset il y a quatre mois,",
+   "en": "«Olivier Nora», ousted from the presidency of «Grasset» four months ago,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "lance sa propre maison d'édition.",
+   "en": "is launching his own publishing house.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le groupe Editis y prend une participation minoritaire.",
+   "en": "The «Editis» group is taking a minority stake in it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les premiers titres sortiront en octobre,",
+   "en": "The first titles come out in October,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "signés Bernard-Henri Lévy et Delphine Horvilleur.",
+   "en": "by «Bernard-Henri Lévy» and «Delphine Horvilleur».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel. Et maintenant, la météo.",
+   "en": "That is the heart of it. And now, the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "script",
+ "title_en": "The morning news, Monday 17 August",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Kushner meets Netanyahu in Israel after talks with Hamas",
+ "summary_en": [
+  "Kushner meets Netanyahu in Israel after talks with Hamas",
+  "Ebola epidemic in DR Congo becomes the country's deadliest",
+  "Lecornu in Gironde: fire aid could exceed 100 million euros"
+ ]
+}

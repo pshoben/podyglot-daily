@@ -1,0 +1,500 @@
+{
+ "title": "El noticiario matutino, martes 18 de agosto",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-news",
+   "wpm": 186,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-18",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Martes dieciocho de agosto, nueve y cuarto de la mañana en la Ciudad de México.",
+   "en": "Tuesday the eighteenth of August, a quarter past nine in the morning in «Ciudad de México».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El noticiario matutino.",
+   "en": "The morning bulletin.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mónica Soto renunció a la Sala Superior del Tribunal Electoral.",
+   "en": "«Mónica Soto» has resigned from the Superior Chamber of the Electoral Tribunal.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La petroquímica Braskem Idesa pidió protección por bancarrota en Estados Unidos.",
+   "en": "The petrochemical company «Braskem Idesa» has filed for bankruptcy protection in the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y Ediciones Era, fundada en mil novecientos sesenta, anunció su cierre.",
+   "en": "And «Ediciones Era», founded in nineteen sixty, has announced that it is closing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Arrancamos con el Tribunal Electoral.",
+   "en": "We start with the Electoral Tribunal.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mónica Soto renunció al cargo de magistrada de la sala superior del Tribunal Electoral del",
+   "en": "«Mónica Soto» resigned as a magistrate of the superior chamber of the Electoral Tribunal",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Poder Judicial de la Federación.",
+   "en": "of the Federal Judiciary.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La renuncia será efectiva a partir del día treinta y uno.",
+   "en": "The resignation takes effect from the thirty first.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La magistrada no termina el periodo para el que fue electa.",
+   "en": "The magistrate is not finishing the term for which she was elected.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ella dijo que concluye un ciclo profesional.",
+   "en": "She said that a professional cycle is coming to an end.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Así lo informan La Jornada y El Financiero.",
+   "en": "That is what «La Jornada» and «El Financiero» report.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasamos a otro asunto, esta vez en Campeche.",
+   "en": "We move to another matter, this time in «Campeche».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Casa de Justicia de Campeche es la sede del Poder Judicial.",
+   "en": "The «Casa de Justicia» in «Campeche» is the seat of the judiciary.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su auditorio fue usado como salón de fiestas el viernes anterior.",
+   "en": "Its auditorium was used as a party hall last Friday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La celebración fue el cumpleaños de Yamile Vásquez.",
+   "en": "The celebration was the birthday of «Yamile Vásquez».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ella es madre del magistrado Juan Pedro Alcudia.",
+   "en": "She is the mother of magistrate «Juan Pedro Alcudia».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El presidente del Tribunal Superior de Justicia de Campeche fue señalado por ese uso.",
+   "en": "The president of the Superior Court of Justice of «Campeche» was named over that use.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se trata de Juan Pedro Alcudia Vázquez.",
+   "en": "He is «Juan Pedro Alcudia Vázquez».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La acusación es haber utilizado presuntamente una sala de la Casa de Justicia",
+   "en": "The accusation is that he allegedly used a room of the «Casa de Justicia» for",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para el festejo.",
+   "en": "the party.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo reportan La Jornada y El Financiero.",
+   "en": "«La Jornada» and «El Financiero» report it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otra noticia, ahora en la economía.",
+   "en": "Another story, now in the economy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La petroquímica mexicana Braskem Idesa solicitó el martes acogerse al Capítulo once de la Ley",
+   "en": "The Mexican petrochemical company «Braskem Idesa» filed on Tuesday for Chapter eleven of the",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de Quiebras de Estados Unidos.",
+   "en": "United States bankruptcy law.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es una empresa conjunta de la brasileña Braskem y la mexicana Grupo Idesa.",
+   "en": "It is a joint venture of Brazil's «Braskem» and Mexico's «Grupo Idesa».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La solicitud llega ante crecientes presiones financieras.",
+   "en": "The filing comes amid growing financial pressures.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También se agravó su crisis de liquidez.",
+   "en": "Its liquidity crisis has also worsened.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La información viene de El Economista y Reforma.",
+   "en": "The information comes from «El Economista» and «Reforma».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos en México, ahora con la cultura.",
+   "en": "Still in Mexico, now with culture.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ediciones Era anunció su cierre.",
+   "en": "«Ediciones Era» has announced that it is closing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Fue fundada en mil novecientos sesenta.",
+   "en": "It was founded in nineteen sixty.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es uno de los sellos mexicanos independientes más importantes.",
+   "en": "It is one of the most important independent Mexican imprints.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La editorial explicó que las ventas bajaron.",
+   "en": "The publisher explained that sales had fallen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dijo además que la red de librerías que existía antes de la pandemia desapareció.",
+   "en": "It also said that the network of bookshops that existed before the pandemic has disappeared.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Fuentes de la editorial confirmaron el cierre a La Jornada.",
+   "en": "Sources at the publisher confirmed the closure to «La Jornada».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Así lo confirman La Jornada y El Financiero.",
+   "en": "That is what «La Jornada» and «El Financiero» confirm.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cerramos con otro tema, la educación.",
+   "en": "We close with another subject, education.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El examen de ingreso de la UNAM fue calificado como difícil y distinto.",
+   "en": "The «UNAM» entrance examination was rated as difficult and different.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La propia UNAM dio a conocer un dato incómodo.",
+   "en": "«UNAM» itself disclosed an uncomfortable detail.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta el momento ha detectado dos intentos de trampa durante la aplicación de este examen.",
+   "en": "So far it has detected two cheating attempts during the sitting of this examination.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ocurrieron en Tijuana, Baja California, y en León, Guanajuato.",
+   "en": "They happened in «Tijuana», «Baja California», and in «León», «Guanajuato».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y ya se publican los resultados del examen Ecoems.",
+   "en": "And the results of the «Ecoems» examination are now being published.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es el examen de ingreso a bachilleratos de la UNAM y del Instituto Politécnico Nacional.",
+   "en": "It is the entrance examination for upper secondary schools of «UNAM» and the «Instituto Politécnico Nacional».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Financiero explicó cómo consultarlos por internet.",
+   "en": "«El Financiero» explained how to look them up online.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo publican El Economista y El Financiero.",
+   "en": "«El Economista» and «El Financiero» publish it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más destacado.",
+   "en": "That is the most notable.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 18 August",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "Monica Soto resigned as magistrate of the superior chamber of the Electoral Tribunal of th",
+ "summary_en": [
+  "Monica Soto resigned as magistrate of the superior chamber of the Electoral Tribunal of th",
+  "The Mexican petrochemical company Braskem Idesa, a joint venture of Brazil's Braskem and M",
+  "Ediciones Era, founded in 1960 and one of the most important independent Mexican imprints,"
+ ]
+}

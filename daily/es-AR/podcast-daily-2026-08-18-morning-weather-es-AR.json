@@ -1,0 +1,209 @@
+{
+ "title": "El pronóstico, martes 18 de agosto",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-weather",
+   "wpm": 195,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-18",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Cómo viene hoy el tiempo en tres ciudades argentinas.",
+   "en": "How the weather looks today in three Argentine cities.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Buenos Aires, máxima de doce grados y mínima de ocho.",
+   "en": "In «Buenos Aires», a high of twelve degrees and a low of eight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Arranca el día con cielo nuboso.",
+   "en": "The day starts with a cloudy sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación es de cuatro por ciento.",
+   "en": "The chance of rain is four per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el viento máximo, veintiún kilómetros por hora.",
+   "en": "And the maximum wind, twenty one kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Córdoba, máxima de dieciséis grados y mínima de ocho.",
+   "en": "In «Córdoba», a high of sixteen degrees and a low of eight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí el cielo también viene nuboso.",
+   "en": "There the sky is cloudy as well.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sin probabilidad de precipitación.",
+   "en": "With no chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento máximo llega a diecinueve kilómetros por hora.",
+   "en": "The maximum wind reaches nineteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Mendoza, máxima de catorce grados y mínima de cinco.",
+   "en": "In «Mendoza», a high of fourteen degrees and a low of five.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo, otra vez con nubes.",
+   "en": "The sky, cloudy once more.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ahí tampoco se espera lluvia.",
+   "en": "No rain expected there either.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento máximo llega a nueve kilómetros por hora.",
+   "en": "The maximum wind reaches nine kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Córdoba es la ciudad más cálida de las tres.",
+   "en": "«Córdoba» is the warmest of the three cities.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y cinco grados en Mendoza es la mínima más baja.",
+   "en": "And five degrees in «Mendoza» is the lowest minimum.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Buenos Aires es la única con algo de probabilidad de lluvia.",
+   "en": "«Buenos Aires» is the only one with any chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las cifras son del modelo del Centro Europeo, el ECMWF.",
+   "en": "The figures are from the European Centre model, the «ECMWF».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Así está el cielo.",
+   "en": "That is the sky today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Tuesday 18 August",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Forecast for Buenos Aires, Tuesday 2026-08-18: high 12 degrees, low 8; cloudy sky; 4 per c",
+ "summary_en": [
+  "Forecast for Buenos Aires, Tuesday 2026-08-18: high 12 degrees, low 8; cloudy sky; 4 per c",
+  "Forecast for Cordoba, Tuesday 2026-08-18: high 16 degrees, low 8; cloudy sky; 0 per cent c"
+ ]
+}

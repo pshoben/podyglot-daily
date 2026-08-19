@@ -1,0 +1,169 @@
+{
+ "title": "Los deportes, miércoles 19 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-sport",
+   "wpm": 208,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-19",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Arranca una nueva temporada de LaLiga.",
+   "en": "A new «LaLiga» season is starting.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El regreso del portugués José Mourinho al Real Madrid marca el inicio del curso.",
+   "en": "The return of the Portuguese «José Mourinho» to «Real Madrid» marks the start of the campaign.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mourinho es el entrenador del Real Madrid.",
+   "en": "«Mourinho» is the coach of «Real Madrid».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También marcan el arranque el fichaje de Rodri por el Barcelona.",
+   "en": "Also marking the start is the signing of «Rodri» by «Barcelona».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y la reaparición de tres clubes históricos.",
+   "en": "And the reappearance of three historic clubs.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El País y AS repasan las claves de la temporada.",
+   "en": "«El País» and «AS» run through the keys to the season.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Atlético de Madrid empieza el curso en el Metropolitano.",
+   "en": "«Atlético de Madrid» begin the campaign at the «Metropolitano».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su rival es el Málaga, que regresa a Primera.",
+   "en": "Their opponents are «Málaga», who are back in «Primera».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el equipo rojiblanco hay un nombre nuevo para el once.",
+   "en": "In the red and white side there is a new name for the starting eleven.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El canterano Domínguez apunta al debut más precoz en la historia del club.",
+   "en": "The academy player «Domínguez» is in line for the earliest debut in the club's history.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Saldría de titular con dieciséis años y doscientos cuarenta y un días.",
+   "en": "He would start at sixteen years and two hundred and forty one days.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cuando él nació, Koke ya jugaba en el primer equipo.",
+   "en": "When he was born, «Koke» was already playing in the first team.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Marca y AS adelantan esa posibilidad.",
+   "en": "«Marca» and «AS» report that possibility.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es todo en la agenda deportiva.",
+   "en": "That is all from the sports diary.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Wednesday 19 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "The new LaLiga season is starting. The return of the Portuguese Jose Mourinho to Real Madr",
+ "summary_en": [
+  "The new LaLiga season is starting. The return of the Portuguese Jose Mourinho to Real Madr",
+  "Atletico de Madrid begin their season at the Metropolitano against Malaga, and the Andalus"
+ ]
+}

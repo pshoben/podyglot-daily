@@ -1,0 +1,229 @@
+{
+ "title": "Le temps chez nous, lundi 17 août",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-weather",
+   "wpm": 222,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-17",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Au-dessus de nos têtes, ce lundi, nuages,",
+   "en": "Above our heads, this Monday, cloud,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "averses et éclaircies vont se partager la journée sur tout le pays.",
+   "en": "showers and sunny spells will share the day across the country.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les prévisions sont celles de l'Institut royal météorologique, données ce matin.",
+   "en": "The forecast is the one from the «Institut royal météorologique», issued this morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les nuages verseront quelques gouttes ci et là,",
+   "en": "The clouds will drop a few spots of rain here and there,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sans que la pluie s'installe partout.",
+   "en": "without the rain settling in everywhere.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le thermomètre indiquera aujourd'hui de dix-neuf à vingt-six degrés de maxima selon les régions.",
+   "en": "The thermometer today will show highs of nineteen to twenty six degrees depending on the region.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans les Fagnes, où l'incendie est toujours en cours,",
+   "en": "In «les Fagnes», where the fire is still burning,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le mercure avoisinera les vingt degrés.",
+   "en": "the temperature will be around twenty degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est une journée nettement plus respirable que celles des dernières semaines.",
+   "en": "It is a distinctly more breathable day than those of the last few weeks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Après des semaines de chaleur et de sécheresse,",
+   "en": "After weeks of heat and drought,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la météo change donc de visage en Belgique.",
+   "en": "the weather is changing its face in Belgium.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les températures retrouvent des valeurs de saison et la pluie fait son retour.",
+   "en": "Temperatures are back to seasonal values and the rain is returning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cette évolution était très attendue sur le plateau des Hautes Fagnes.",
+   "en": "This change was very much awaited on the «Hautes Fagnes» plateau.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les spécialistes restent prudents: pour l'incendie comme pour la sécheresse, ce sera probablement insuffisant.",
+   "en": "The specialists stay cautious: for the fire as for the drought, it will probably not be enough.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Attention encore à la qualité de l'air cet après-midi, selon les relevés wallons,",
+   "en": "Watch the air quality again this afternoon, according to the Walloon readings,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans une grande partie de la région.",
+   "en": "across a large part of the region.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le panache de fumée s'est étendu très loin du foyer ce week-end,",
+   "en": "The plume of smoke spread a long way from the fire this weekend,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "jusqu'en province de Namur.",
+   "en": "as far as the province of «Namur».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les mesures peuvent être suivies sur le site Wallonair, région par région.",
+   "en": "The readings can be followed on the «Wallonair» site, region by region.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le temps chez nous. Place au sport.",
+   "en": "That is the weather here. Over to sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "script",
+ "title_en": "Today's weather, Monday 17 August",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Cloud, showers and sunny spells today, nineteen to twenty six degrees",
+ "summary_en": [
+  "Cloud, showers and sunny spells today, nineteen to twenty six degrees",
+  "The heat and drought break: seasonal temperatures and rain return"
+ ]
+}

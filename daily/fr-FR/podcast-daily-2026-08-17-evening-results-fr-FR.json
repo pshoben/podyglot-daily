@@ -1,0 +1,199 @@
+{
+ "title": "Les résultats, lundi 17 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-results",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "results",
+ "date": "2026-08-17",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Les résultats du jour :",
+   "en": "Today's results: swimming,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la natation, l'athlétisme et le tennis de table.",
+   "en": "athletics and table tennis.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Si vous ne voulez pas connaître ces résultats,",
+   "en": "If you do not want to know these results,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "passez à la suite maintenant.",
+   "en": "move on to the next programme now.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Nous commençons par les championnats d'Europe de natation, achevés dimanche à Saint-Denis.",
+   "en": "We begin with the European swimming championships, which finished on Sunday at «Saint-Denis».",
+   "prosody": {
+    "pause_ms": 4000,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Léon Marchand y a décroché deux titres individuels,",
+   "en": "«Léon Marchand» took two individual titles there,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dont celui du quatre cents mètres nage libre.",
+   "en": "one of them the four hundred metres freestyle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'était dimanche soir, dans une épreuve qu'il n'avait jamais disputée en grand championnat.",
+   "en": "That was on Sunday evening, in an event he had never swum at a major championship.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il nageait pourtant avec une blessure à l'adducteur droit.",
+   "en": "And he was swimming with an injury to his right adductor.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Du côté de l'athlétisme, les championnats d'Europe de Birmingham se sont achevés dimanche aussi.",
+   "en": "In athletics, the European championships in «Birmingham» also finished on Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'équipe de France en repart avec onze médailles, mais aucune en or.",
+   "en": "The French team leaves with eleven medals, but none of them gold.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il y a deux ans, à Rome, elle en avait glané seize.",
+   "en": "Two years ago, in «Rome», it had gathered sixteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour finir, le tennis de table, avec une première pour un Français.",
+   "en": "To finish, table tennis, with a first for a Frenchman.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Félix Lebrun a remporté le simple du Grand Smash européen de Malmö, en Suède, dimanche.",
+   "en": "«Félix Lebrun» won the singles at the European Grand Smash in «Malmö», in Sweden, on Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il est le premier Français à inscrire son nom au palmarès d'un Grand Smash.",
+   "en": "He is the first Frenchman to put his name on the roll of a Grand Smash.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le classement publié ce lundi le place deuxième mondial, à dix-neuf ans.",
+   "en": "The ranking published this Monday places him second in the world, at nineteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est tout pour les résultats.",
+   "en": "That is all for the results.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 3,
+ "handover": "junction",
+ "title_en": "Results, Monday 17 August",
+ "edition": "evening",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Leon Marchand took two individual titles including the 400 metres freestyle on Sunday even",
+ "summary_en": [
+  "Leon Marchand took two individual titles including the 400 metres freestyle on Sunday even",
+  "At the European athletics championships in Birmingham, which ended on Sunday, France leave"
+ ]
+}

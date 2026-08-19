@@ -1,0 +1,269 @@
+{
+ "title": "Le temps chez nous, lundi 17 août",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-weather",
+   "wpm": 222,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-17",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le temps chez nous, pour demain et pour les jours qui viennent.",
+   "en": "Our weather now, for tomorrow and for the days ahead.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La bruine s'installe sur tout le pays et elle y reste jusqu'à vendredi.",
+   "en": "The drizzle settles in across the whole country and stays until Friday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Demain mardi, à Bruxelles, vingt-trois degrés au plus haut et seize au plus bas.",
+   "en": "Tomorrow, Tuesday, in «Bruxelles», twenty three degrees at the highest and sixteen at the lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de précipitation y atteint quatre-vingt-huit pour cent,",
+   "en": "The chance of rain there reaches eighty eight per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon le modèle du Centre européen, l'ECMWF.",
+   "en": "according to the European Centre model, the «ECMWF».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent souffle jusqu'à vingt-deux kilomètres par heure dans la capitale.",
+   "en": "The wind blows up to twenty two kilometres an hour in the capital.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mercredi, vingt et un degrés seulement à Bruxelles, avec toujours de la bruine.",
+   "en": "On Wednesday, only twenty one degrees in «Bruxelles», with drizzle again.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Jeudi, vingt-deux degrés, avec un vent qui retombe.",
+   "en": "On Thursday, twenty two degrees, with the wind falling away.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En province de Liège, les valeurs sont plus basses d'un degré.",
+   "en": "In the province of «Liège», the figures are a degree lower.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Demain, vingt-deux degrés au plus haut et quinze au plus bas à Liège.",
+   "en": "Tomorrow, twenty two degrees at the highest and fifteen at the lowest in «Liège».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de précipitation y monte à quatre-vingt-quatorze pour cent,",
+   "en": "The chance of rain there climbs to ninety four per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la plus forte du pays.",
+   "en": "the highest in the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mercredi, vingt et un degrés,",
+   "en": "On Wednesday, twenty one degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un ciel qui ne se dégage pas.",
+   "en": "with a sky that does not clear.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Jeudi, vingt-deux degrés à Liège, sous la même grisaille.",
+   "en": "On Thursday, twenty two degrees in «Liège», under the same grey.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Namur, le tableau est le même : vingt-deux degrés demain,",
+   "en": "In «Namur» the picture is the same: twenty two degrees tomorrow,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour quinze au plus bas.",
+   "en": "against fifteen at the lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mercredi, vingt et un degrés à Namur.",
+   "en": "On Wednesday, twenty one degrees in «Namur».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Jeudi, vingt-deux degrés, et la pluie se fait moins probable.",
+   "en": "On Thursday, twenty two degrees, and rain becomes less likely.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Vendredi, la maximale y remonte à vingt-trois degrés,",
+   "en": "On Friday the high there climbs back to twenty three degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon le modèle du Centre européen, l'ECMWF.",
+   "en": "according to the European Centre model, the «ECMWF».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans les Fagnes, où l'incendie est toujours en cours,",
+   "en": "In «les Fagnes», where the fire is still burning,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la bruine de mardi sera bienvenue.",
+   "en": "Tuesday's drizzle will be welcome.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le temps des prochains jours.",
+   "en": "That is our weather for the days ahead.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "The forecast, Monday 17 August",
+ "edition": "evening",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Prévision pour Bruxelles, demain, mardi 2026-08-18",
+ "summary_en": [
+  "Prévision pour Bruxelles, demain, mardi 2026-08-18",
+  "Prévision pour Bruxelles, mercredi 2026-08-19"
+ ]
+}

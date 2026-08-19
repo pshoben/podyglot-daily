@@ -1,0 +1,470 @@
+{
+ "title": "Le sept heures, mardi 18 août",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-news",
+   "wpm": 222,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-18",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Mardi dix-huit août. Le sept heures.",
+   "en": "Tuesday the eighteenth of August. The seven o'clock.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'incendie des Hautes Fagnes n'est pas fixé,",
+   "en": "The «Hautes Fagnes» fire is not under control,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et les moyens aériens sont cloués au sol.",
+   "en": "and the aircraft are grounded.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De nouvelles révélations sur la mort de l'actrice Hayden Panettiere.",
+   "en": "New revelations about the death of the actress «Hayden Panettiere».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par l'incendie qui occupe le pays depuis plusieurs jours.",
+   "en": "We begin with the fire that has occupied the country for several days.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est le plus important que la Belgique ait connu depuis longtemps.",
+   "en": "It is the largest Belgium has seen in a long time.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et il se déroule dans une réserve naturelle, ce qui complique tout.",
+   "en": "And it is happening in a nature reserve, which complicates everything.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le feu des Hautes Fagnes n'est toujours pas fixé ce mardi.",
+   "en": "The «Hautes Fagnes» fire is still not under control this Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a déjà ravagé quelque trois mille hectares.",
+   "en": "It has already destroyed some three thousand hectares.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La bonne nouvelle, c'est qu'il n'a pas progressé depuis hier.",
+   "en": "The good news is that it has not advanced since yesterday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mauvaise, c'est que les moyens aériens sont à l'arrêt à cause de la météo.",
+   "en": "The bad news is that the aircraft are grounded because of the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Ville de Spa a interdit l'accès aux zones concernées.",
+   "en": "The city of «Spa» has banned access to the areas concerned.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La question de l'aide flamande a par ailleurs fait réagir.",
+   "en": "The question of Flemish help has also drawn reaction.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sur le terrain, des pompiers venus de Flandre participent bien aux opérations.",
+   "en": "On the ground, firefighters from Flanders are indeed taking part in the operations.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les pompiers venus de Flandre étaient déjà sur place avant la polémique.",
+   "en": "The firefighters from Flanders were already on site before the row began.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Trois mille hectares, c'est une surface considérable pour la Belgique.",
+   "en": "Three thousand hectares is a considerable area for Belgium.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est aussi une tourbière, un sol qui brûle en profondeur et longtemps.",
+   "en": "It is also peat bog, a soil that burns deep and burns long.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est ce que rapportent la DH, 7sur7,",
+   "en": "That is what «la DH», «7sur7»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Libre et Le Vif.",
+   "en": "«La Libre» and «Le Vif» report.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre dossier maintenant, la mort de l'actrice Hayden Panettiere.",
+   "en": "Turning to something else, the death of the actress «Hayden Panettiere».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De nouvelles révélations sont parues ce mardi.",
+   "en": "New revelations appeared this Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'actrice américaine a été réanimée par les services d'urgence juste avant son décès.",
+   "en": "The American actress was revived by the emergency services just before her death.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est ce qu'a confirmé la police au magazine Variety.",
+   "en": "That is what the police confirmed to «Variety» magazine.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Du Narcan a par ailleurs été retrouvé à son domicile.",
+   "en": "«Narcan» was also found at her home.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Narcan est un médicament qui peut inverser une overdose d'opiacés.",
+   "en": "«Narcan» is a drug that can reverse an opioid overdose.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sa présence au domicile a relancé les questions sur les circonstances du décès.",
+   "en": "Its presence at the home has revived questions about the circumstances of the death.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est un produit que l'on administre en urgence, souvent par le nez.",
+   "en": "It is given in an emergency, often through the nose.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'actrice était connue pour ses rôles dans les séries Heroes et Nashville.",
+   "en": "The actress was known for her roles in the series «Heroes» and «Nashville».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle avait trente-six ans.",
+   "en": "She was thirty six.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un ami de l'actrice a affirmé qu'elle souffrait de graves problèmes de santé.",
+   "en": "A friend of the actress says she had been suffering from serious health problems.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ces difficultés duraient depuis plusieurs mois, selon ce proche.",
+   "en": "Those difficulties had lasted several months, according to that friend.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est ce que rapportent 7sur7 et la DH.",
+   "en": "That is what «7sur7» and «la DH» report.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre dossier maintenant, la Grèce,",
+   "en": "Turning to something else, Greece,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où un accident a fait trois morts.",
+   "en": "where an accident has killed three people.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un hélicoptère privé s'est écrasé lundi soir sur l'île de Sifnos.",
+   "en": "A private helicopter crashed on Monday evening on the island of «Sifnos».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'accident a fait trois morts, ont annoncé les pompiers grecs.",
+   "en": "The crash killed three people, Greek firefighters announced.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les secours sont intervenus dans la soirée sur un terrain difficile d'accès.",
+   "en": "Rescuers went in during the evening, on ground that is hard to reach.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'enquête devra établir les causes de la chute de l'appareil.",
+   "en": "The inquiry will have to establish what caused the aircraft to come down.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il s'agissait d'un appareil privé, et non d'un vol commercial.",
+   "en": "It was a private aircraft, not a commercial flight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les images de la carcasse ont circulé dans la journée de mardi.",
+   "en": "Pictures of the wreckage circulated through Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'île de Sifnos se trouve dans les Cyclades, au sud d'Athènes.",
+   "en": "The island of «Sifnos» lies in the «Cyclades», south of Athens.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est une destination touristique très fréquentée au mois d'août.",
+   "en": "It is a tourist destination that is very busy in August.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est ce que rapportent la DH et La Libre.",
+   "en": "That is what «la DH» and «La Libre» report.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà où nous en sommes ce mardi matin.",
+   "en": "That is where we stand this Tuesday morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 18 August",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "The Hautes Fagnes fire is still burning",
+ "summary_en": [
+  "The Hautes Fagnes fire is still burning",
+  "Hayden Panettiere was revived by emergency services just before her death, police confirme",
+  "A private helicopter crashed on Monday evening on the Greek island of Sifnos, killing thre"
+ ]
+}

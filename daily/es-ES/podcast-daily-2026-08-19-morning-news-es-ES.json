@@ -1,0 +1,420 @@
+{
+ "title": "El informativo de la mañana, miércoles 19 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-news",
+   "wpm": 208,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-19",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Miércoles diecinueve de agosto, diez y cuarto de la mañana en Madrid.",
+   "en": "Wednesday the nineteenth of August, a quarter past ten in the morning in «Madrid».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El informativo de la mañana.",
+   "en": "The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Meta niega en el juicio haber buscado enganchar a los niños a sus redes.",
+   "en": "«Meta» denies at its trial having sought to hook children on its networks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y seis terremotos durante la noche en Granada.",
+   "en": "And six earthquakes during the night in «Granada».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos por el juicio a Meta, que acaba de arrancar.",
+   "en": "We begin with the trial of «Meta», which has just started.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sus abogados rechazaron las acusaciones de veintinueve estados.",
+   "en": "Its lawyers rejected the accusations of twenty nine states.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los estados sostienen que buscó crear adicción a menores en Facebook e Instagram.",
+   "en": "The states argue that it sought to create addiction in minors on «Facebook» and «Instagram».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El País y El Mundo siguen el juicio desde el primer día.",
+   "en": "«El País» and «El Mundo» are following the trial from the first day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Volvemos a España, y a una noche movida en el sur.",
+   "en": "We come back to «España», and to a restless night in the south.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cinco de los seis los han sentido los vecinos.",
+   "en": "Five of the six were felt by residents.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se trata de un enjambre sísmico que amenaza con meses de pequeños terremotos.",
+   "en": "It is an earthquake swarm that threatens months of small tremors.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la ciudad hay miedo a más seísmos sobre edificios que ya están dañados.",
+   "en": "In the city there is fear of more tremors on buildings that are already damaged.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ABC recoge una advertencia: no se puede predecir el próximo.",
+   "en": "«ABC» carries a warning: the next one cannot be predicted.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo cuentan El País, El Mundo y ABC.",
+   "en": "«El País», «El Mundo» and «ABC» report it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos en el oeste del país,",
+   "en": "We stay in the west of the country,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "donde un incendio obliga a evacuar.",
+   "en": "where a fire is forcing evacuations.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El fuego se ha declarado en Las Hurdes,",
+   "en": "The fire broke out in «Las Hurdes»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la provincia de Cáceres.",
+   "en": "in the province of «Cáceres».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se originó en una cuneta de Pinofranqueado.",
+   "en": "It started in a ditch at «Pinofranqueado».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ha obligado a movilizar a la Unidad Militar de Emergencias.",
+   "en": "It has forced the mobilisation of the «Unidad Militar de Emergencias».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Setecientos vecinos han sido evacuados.",
+   "en": "Seven hundred residents have been evacuated.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Unidad Militar de Emergencias y más de doscientos efectivos combaten las llamas.",
+   "en": "The «Unidad Militar de Emergencias» and more than two hundred personnel are fighting the flames.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Junta de Extremadura ha activado la situación operativa dos.",
+   "en": "The «Junta de Extremadura» has activated operational situation two.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El País y elDiario. es informan del despliegue.",
+   "en": "«El País» and «elDiario. es» report the deployment.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de asunto, con una multa en consumo.",
+   "en": "We change subject, with a consumer fine. «Consumo»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Consumo ha multado a la empresa de alquiler Avis con un millón de euros.",
+   "en": "has fined the car hire company «Avis» one million euros in all.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El motivo es cobrar una tasa por gestionar el pago de las multas de tráfico.",
+   "en": "The reason is charging a fee to process the payment of traffic fines.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El ministerio considera que se trata de una práctica abusiva.",
+   "en": "The ministry considers that this is an abusive practice.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las empresas de alquiler no pueden cobrar por gestionar las multas de sus clientes.",
+   "en": "Hire companies may not charge for processing their customers' fines.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El País, ABC, elDiario. es y La Vanguardia recogen la sanción.",
+   "en": "«El País», «ABC», «elDiario. es» and «La Vanguardia» carry the penalty.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Terminamos con la magia, y con una despedida.",
+   "en": "We end with magic, and with a farewell.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ha muerto el mago Juan Tamariz a los ochenta y tres años.",
+   "en": "The magician «Juan Tamariz» has died at the age of eighty three.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Era una de las grandes figuras de la magia española.",
+   "en": "He was one of the great figures of Spanish magic.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El madrileño fue además un comunicador extraordinario.",
+   "en": "The man from «Madrid» was also an extraordinary communicator.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su grito de guerra, chantatachán, llegaba cuando un juego le salía bien.",
+   "en": "His catchphrase, «chantatachán», came when a trick had come off.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su hija, Ana Tamariz, lo ha confirmado en un comunicado.",
+   "en": "His daughter, «Ana Tamariz», confirmed it in a statement.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En ese comunicado señaló que su recuerdo y su inconmensurable obra estarán siempre con ellos.",
+   "en": "In that statement she said that his memory and his immeasurable work will always be with them.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ABC, elDiario. es y La Vanguardia le dedican sus páginas.",
+   "en": "«ABC», «elDiario. es» and «La Vanguardia» give him their pages.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí lo esencial de esta mañana de miércoles.",
+   "en": "That is the essential news of this Wednesday morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Wednesday 19 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "At the start of its trial, Meta has denied having sought to hook children on Facebook and",
+ "summary_en": [
+  "At the start of its trial, Meta has denied having sought to hook children on Facebook and",
+  "Six earthquakes were recorded during the night in Granada, five of them felt by residents",
+  "A fire in Las Hurdes, in Caceres, has forced the mobilisation of the UME and the evacuatio"
+ ]
+}

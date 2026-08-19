@@ -1,0 +1,500 @@
+{
+ "title": "El noticiero de la mañana, lunes 17 de agosto",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-17",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lunes diecisiete de agosto. El noticiero de la mañana.",
+   "en": "Monday the seventeenth of August. «El noticiero de la mañana».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Murió la actriz Hayden Panettiere a los treinta y seis años,",
+   "en": "The actress «Hayden Panettiere» has died at the age of thirty six,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según Ámbito y La Nación.",
+   "en": "according to «Ámbito» and «La Nación».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Acá en la Argentina, la industria lidera la pérdida de empleo formal,",
+   "en": "Here in «la Argentina», industry leads the loss of formal employment,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según datos del SIPA.",
+   "en": "according to «SIPA» figures.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos por el mundo del espectáculo.",
+   "en": "We start with the world of entertainment.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Murió la actriz estadounidense Hayden Panettiere.",
+   "en": "The American actress «Hayden Panettiere» has died.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Fue estrella de las series Héroes y Nashville,",
+   "en": "She starred in the series «Héroes» and «Nashville»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y tenía treinta y seis años.",
+   "en": "and she was thirty six.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su padre confirmó la noticia",
+   "en": "Her father confirmed the news",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y destacó el impacto que tuvo la intérprete en quienes la conocieron.",
+   "en": "and underlined the impact the performer had on those who knew her.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se desconoce la causa del deceso,",
+   "en": "The cause of death is not known,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el comunicado de su representante no la aclaró.",
+   "en": "and her representative's statement did not clarify it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Tenía una hija de doce años, según La Nación.",
+   "en": "She had a twelve year old daughter, according to «La Nación».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Acá en la Argentina, un informe volvió a poner el foco sobre la industria manufacturera.",
+   "en": "Here in «la Argentina», a report has put the focus back on manufacturing industry.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese sector explicó más de uno de cada tres empleos asalariados privados perdidos desde noviembre",
+   "en": "That sector accounted for more than one in three private salaried jobs lost since November of two thousand",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de dos mil veintitrés.",
+   "en": "and twenty three.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Así lo muestran los datos del SIPA,",
+   "en": "That is what the «SIPA» figures show,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "citados por Ámbito y La Nación.",
+   "en": "cited by «Ámbito» and «La Nación».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Desde su último máximo, la industria perdió casi noventa mil trabajadores registrados.",
+   "en": "Since its last peak, industry has lost almost ninety thousand registered workers.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un informe publicado por Techint alertó por la extrema fragilidad del entramado productivo.",
+   "en": "A report published by «Techint» warned about the extreme fragility of the productive fabric.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La informalidad fabril, además, aumentó casi diez puntos porcentuales en una década.",
+   "en": "Factory informality, moreover, rose almost ten percentage points in a decade.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El deterioro se suma a la alerta por el cierre de empresas, según Ámbito.",
+   "en": "The decline adds to the warning about companies closing, according to «Ámbito».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También en la agenda, hoy es feriado en todo el país, según Ámbito.",
+   "en": "Also on the agenda, today is a public holiday across the country, according to «Ámbito».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Este lunes se conmemora el fallecimiento del General José de San Martín, según La Nación.",
+   "en": "This Monday marks the death of General «José de San Martín», according to «La Nación».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según ese diario, habrá cambios en colectivos, trenes, subtes, bancos, escuelas, hospitales y oficinas públicas.",
+   "en": "According to that paper, there will be changes to buses, trains, the underground, banks, schools, hospitals and public offices.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En La Plata, el incendio de una estación transformadora provocó un gran apagón",
+   "en": "In «La Plata», a fire at a transformer station caused a large blackout during",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "durante la madrugada.",
+   "en": "the early hours.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El siniestro se inició alrededor de las tres de la mañana en Tolosa.",
+   "en": "The incident began around three in the morning in «Tolosa».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El corte afectó a distintos barrios de La Plata, Ensenada, City Bell, Gorina y Gonnet.",
+   "en": "The cut affected various neighbourhoods of «La Plata», «Ensenada», «City Bell», «Gorina» and «Gonnet».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Al menos cuatro dotaciones de bomberos trabajaron en el lugar.",
+   "en": "At least four fire crews worked at the scene.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La empresa Edelap informó que ya controlaron las llamas, según La Nación.",
+   "en": "The company «Edelap» reported that the flames are now under control, according to «La Nación».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En lo económico, la semana trae varios datos clave.",
+   "en": "On the economy, the week brings several key figures.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El EMAE, el resultado fiscal",
+   "en": "The «EMAE» activity index, the fiscal result",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el comercio exterior serán algunas de las principales referencias locales.",
+   "en": "and foreign trade will be some of the main local references.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las actas de la Reserva Federal concentrarán la atención internacional, según Ámbito.",
+   "en": "The minutes of the Federal Reserve will hold international attention, according to «Ámbito».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la última jornada hábil,",
+   "en": "On the last working day the",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el dólar oficial cerró a mil quinientos diez pesos para la venta.",
+   "en": "official dollar closed at one thousand five hundred and ten pesos for sale.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El dólar blue se ubicó en mil quinientos cuarenta y cinco pesos para esa operación,",
+   "en": "The blue dollar stood at one thousand five hundred and forty five pesos for that operation,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según La Nación.",
+   "en": "according to «La Nación».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para terminar, la jornada tiene su acto central.",
+   "en": "To finish, the day has its central ceremony.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El presidente Javier Milei retomará la agenda pública",
+   "en": "President «Javier Milei» will return to the public agenda",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el homenaje a José de San Martín.",
+   "en": "at the homage to «José de San Martín».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Estará acompañado por todo el Gabinete,",
+   "en": "He will be accompanied by the whole cabinet,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y dará un discurso por cadena nacional.",
+   "en": "and will give a speech on national broadcast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo hará junto al jefe de Gobierno porteño, Jorge Macri, según Ámbito.",
+   "en": "He will do so alongside the head of the «Buenos Aires» city government, «Jorge Macri», according to «Ámbito».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo central. Ahora, el pronóstico.",
+   "en": "That is the heart of it. Now, the forecast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "script",
+ "title_en": "The morning news, Monday 17 August",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Actress Hayden Panettiere dies at 36",
+ "summary_en": [
+  "Actress Hayden Panettiere dies at 36",
+  "Industry leads formal job losses, report warns of extreme fragility",
+  "Public holiday: how transport and services run today"
+ ]
+}

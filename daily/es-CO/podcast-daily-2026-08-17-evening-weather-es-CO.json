@@ -1,0 +1,279 @@
+{
+ "title": "El clima de hoy, lunes 17 de agosto",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-weather",
+   "wpm": 195,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-17",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El clima de hoy cierra con el pronóstico para mañana y los próximos días.",
+   "en": "Today's weather closes with the forecast for tomorrow and the days ahead.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mañana martes, en Bogotá, diecinueve grados de máxima y trece de mínima.",
+   "en": "Tomorrow, Tuesday, in «Bogotá», nineteen degrees at the highest and thirteen at the lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación llega al noventa y cinco por ciento: llueve casi seguro.",
+   "en": "The chance of rain reaches ninety five per cent: it will almost certainly rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El miércoles, veinte grados, con un ochenta y cinco por ciento de probabilidad.",
+   "en": "On Wednesday, twenty degrees, with an eighty five per cent chance.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El jueves afloja al sesenta y siete por ciento,",
+   "en": "On Thursday it eases to sixty seven per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la única tregua de la semana.",
+   "en": "the only respite of the week.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viernes vuelve al noventa y cuatro por ciento,",
+   "en": "On Friday it returns to ninety four per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con la mínima en diez grados.",
+   "en": "with the low at ten degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Medellín la temperatura sube y la lluvia baja a lo largo de la semana.",
+   "en": "In «Medellín» the temperature rises and the rain falls away across the week.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mañana, veintiséis grados de máxima y dieciocho de mínima,",
+   "en": "Tomorrow, twenty six degrees at the highest and eighteen at the lowest,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con un ochenta por ciento de probabilidad.",
+   "en": "with an eighty per cent chance.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El miércoles llega a veintinueve grados y la probabilidad cae al cuarenta",
+   "en": "On Wednesday it reaches twenty nine degrees and the chance drops to",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y cinco por ciento.",
+   "en": "forty five per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El jueves se mantiene en veintinueve grados,",
+   "en": "On Thursday it holds at twenty nine degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con solo un treinta y cinco por ciento.",
+   "en": "with only thirty five per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viernes repite los veintinueve,",
+   "en": "On Friday it repeats the twenty nine,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "aunque la lluvia vuelve al cincuenta y ocho por ciento.",
+   "en": "though the rain returns to fifty eight per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Cali el calor es constante los cuatro días.",
+   "en": "In «Cali» the heat is steady across all four days.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mañana, veintisiete grados de máxima y veinte de mínima, con llovizna.",
+   "en": "Tomorrow, twenty seven degrees at the highest and twenty at the lowest, with drizzle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El miércoles y el jueves suben a veintinueve grados,",
+   "en": "On Wednesday and Thursday it climbs to twenty nine degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con un ochenta y nueve por ciento de probabilidad.",
+   "en": "with an eighty nine per cent chance.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viernes, veintinueve otra vez,",
+   "en": "On Friday, twenty nine again,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la mínima sube a veintiún grados.",
+   "en": "and the low rises to twenty one degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Todo esto según el modelo del Centro Europeo, el ECMWF.",
+   "en": "All of this according to the European Centre model, the «ECMWF».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y eso es lo que traen los días que vienen.",
+   "en": "And that is what the coming days bring.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "The forecast, Monday 17 August",
+ "edition": "evening",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "Previsión para Bogotá, mañana, martes 2026-08-18",
+ "summary_en": [
+  "Previsión para Bogotá, mañana, martes 2026-08-18",
+  "Previsión para Bogotá, miércoles 2026-08-19"
+ ]
+}

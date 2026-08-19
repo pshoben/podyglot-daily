@@ -1,0 +1,480 @@
+{
+ "title": "El noticiario vespertino, lunes 17 de agosto",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-news",
+   "wpm": 186,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-17",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lunes diecisiete de agosto. El noticiario vespertino.",
+   "en": "Monday the seventeenth of August. The evening news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ricardo Monreal pide unidad en Morena ante las disputas por las candidaturas.",
+   "en": "«Ricardo Monreal» calls for unity in «Morena» amid the disputes over candidacies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Jalisco refuerza la vigilancia contra el gusano barrenador.",
+   "en": "«Jalisco» steps up its watch against the screwworm.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos por la política, y por un llamado desde la Cámara de Diputados.",
+   "en": "We begin with politics, and with a call from the Chamber of Deputies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El coordinador de Morena en la Cámara, Ricardo Monreal,",
+   "en": "«Morena»'s coordinator in the Chamber, «Ricardo Monreal»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "llamó a su partido a la autocrítica.",
+   "en": "called on his party for self-criticism.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les pidió mostrar madurez política ante las disputas por las candidaturas.",
+   "en": "He asked them to show political maturity in the face of the disputes over candidacies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También hizo un llamado a la militancia a cerrar filas con la presidenta Claudia Sheinbaum.",
+   "en": "He also called on the membership to close ranks with President «Claudia Sheinbaum».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Primero México, y luego las candidaturas:",
+   "en": "Mexico first, and candidacies after:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ese fue el orden que planteó.",
+   "en": "that was the order he set out.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El llamado llega en plena discusión interna del partido en el gobierno.",
+   "en": "The call comes in the middle of an internal argument in the governing party.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Monreal pidió entender que el proyecto está por encima de las personas.",
+   "en": "«Monreal» asked them to understand that the project stands above the individuals.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Así lo recogieron El Economista y La Jornada este lunes.",
+   "en": "That is how «El Economista» and «La Jornada» reported it this Monday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En otros temas, la sanidad animal,",
+   "en": "In other news, animal health,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "donde una plaga sigue avanzando en el campo mexicano.",
+   "en": "where a pest keeps advancing across the Mexican countryside.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Jalisco fortaleció su vigilancia y su control del gusano barrenador.",
+   "en": "«Jalisco» strengthened its watch and its control of the screwworm.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Al catorce de agosto la entidad acumulaba mil cuarenta y cinco casos.",
+   "en": "As of the fourteenth of August the state had accumulated one thousand and forty five cases.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De esos casos, ochenta y dos permanecían activos.",
+   "en": "Of those cases, eighty two remained active.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el conjunto del país la respuesta es de otra escala.",
+   "en": "Across the country as a whole the response is on another scale.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Con seiscientas mil trampas artesanales se han capturado dieciséis millones de moscas.",
+   "en": "With six hundred thousand handmade traps, sixteen million flies have been caught.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Son las moscas que pueden hospedar las larvas del gusano.",
+   "en": "They are the flies that can host the worm's larvae.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El trabajo corre a cargo de la Secretaría de Agricultura y de Sembrando Vida.",
+   "en": "The work is carried out by the Agriculture Ministry and by «Sembrando Vida».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es lo que informaron El Economista y La Jornada.",
+   "en": "That is what «El Economista» and «La Jornada» reported.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasamos a otro asunto, la Ciudad de México,",
+   "en": "Moving on, «Ciudad de México»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "donde el transporte público suma rutas.",
+   "en": "where public transport is adding routes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El gobierno capitalino fortaleció el transporte en Milpa Alta con nuevas rutas de la Red",
+   "en": "The city government strengthened transport in «Milpa Alta» with new routes on the",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de Transporte de Pasajeros.",
+   "en": "passenger transport network.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Son diez unidades nuevas que conectan San Bartolomé Xicomulco con Xochimilco",
+   "en": "They are ten new vehicles connecting «San Bartolomé Xicomulco» with «Xochimilco» and",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y con el Tren Ligero.",
+   "en": "the light rail.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los recorridos van de doce a veinticinco kilómetros.",
+   "en": "The runs are between twelve and twenty five kilometres.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En algunos traslados el ahorro llega a treinta minutos.",
+   "en": "On some journeys the saving reaches thirty minutes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El servicio atenderá a setecientas personas al día, según El Financiero.",
+   "en": "The service will carry seven hundred people a day, according to «El Financiero».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Red de Transporte de Pasajeros cuenta con unas novecientas unidades en circulación.",
+   "en": "The passenger transport network has around nine hundred vehicles in service.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el Estado de México avanza otra obra de transporte.",
+   "en": "In the «Estado de México» another transport project is advancing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Línea Tres del Mexicable, que se construye en Naucalpan, registra un avance del setenta",
+   "en": "Line Three of the «Mexicable», under construction in «Naucalpan», is seventy one",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y uno por ciento.",
+   "en": "per cent complete.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se prevé que la obra concluya a finales de este año.",
+   "en": "The work is expected to finish at the end of this year.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También ahí el ahorro previsto llega a treinta minutos de traslado.",
+   "en": "There too the expected saving reaches thirty minutes of travel.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Son dos frentes distintos y los dos se miden en cifras concretas.",
+   "en": "They are two separate fronts and both are measured in concrete figures.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el campo se cuentan casos y trampas,",
+   "en": "In the countryside they count cases and traps,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y en la ciudad kilómetros y minutos.",
+   "en": "and in the city kilometres and minutes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Casos activos por un lado,",
+   "en": "Active cases on one side,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "minutos de traslado por el otro.",
+   "en": "minutes of travel on the other.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y en los dos el trabajo se cuenta por semanas, no por días.",
+   "en": "And in both the work is counted in weeks, not days.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí lo esencial de este lunes por la tarde.",
+   "en": "That is the essential of this Monday afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The evening news, Monday 17 August",
+ "edition": "evening",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "Ricardo Monreal, Morena's coordinator in the Chamber of Deputies, called on his party for",
+ "summary_en": [
+  "Ricardo Monreal, Morena's coordinator in the Chamber of Deputies, called on his party for",
+  "Jalisco strengthened surveillance and control of the screwworm, accumulating 1,045 cases o",
+  "The Mexico City government strengthened transport in Milpa Alta with ten new RTP vehicles"
+ ]
+}

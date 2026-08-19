@@ -1,0 +1,209 @@
+{
+ "title": "Los resultados, lunes 17 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-results",
+   "wpm": 208,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "results",
+ "date": "2026-08-17",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Los resultados de la primera jornada:",
+   "en": "The results from the first",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el Espanyol contra el Levante.",
+   "en": "matchday: «Espanyol» against «Levante».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Si no quiere oír estos resultados,",
+   "en": "If you do not want to hear these results,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pase a lo siguiente ahora.",
+   "en": "move on to the next programme now.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos por Cornellá, donde el Espanyol se impuso al Levante en la jornada",
+   "en": "We start in «Cornellá», where «Espanyol» beat «Levante» in matchday one",
+   "prosody": {
+    "pause_ms": 4000,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "uno de LaLiga.",
+   "en": "of «LaLiga».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El delantero blanquiazul Roberto marcó los dos goles del partido.",
+   "en": "The home forward «Roberto» scored both goals of the match.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Levante se quedó sin fútbol y sin argumentos desde muy pronto.",
+   "en": "«Levante» were left with no football and no arguments very early on.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El técnico perico, Manolo González,",
+   "en": "The «Espanyol» coach, «Manolo González»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dijo que era importante empezar ganando.",
+   "en": "said it was important to start with a win.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se mostró además muy contento por la imagen del equipo.",
+   "en": "He also said he was very happy with the way the team looked.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En ese mismo partido hubo un debut que entra en la historia del Levante.",
+   "en": "In that same match there was a debut that enters «Levante»'s history.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Marc Santos se estrenó en el campeonato con quince años y doscientos ochenta",
+   "en": "«Marc Santos» made his first league appearance at fifteen years and two hundred",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y ocho días.",
+   "en": "and eighty eight days.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es el jugador más joven en debutar en la historia del club granota.",
+   "en": "He is the youngest player ever to debut in the history of the club.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lamine Yamal lo hizo con el Barcelona con quince años y doscientos noventa días.",
+   "en": "«Lamine Yamal» did it with «Barcelona» at fifteen years and two hundred and ninety days.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es decir, dos días más que el valenciano.",
+   "en": "That is, two days older than the boy from Valencia.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Fin de los resultados.",
+   "en": "End of the results.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 3,
+ "handover": "junction",
+ "title_en": "Results, Monday 17 August",
+ "edition": "evening",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Espanyol beat Levante in the first matchday of LaLiga EA Sports, with a brace from the for",
+ "summary_en": [
+  "Espanyol beat Levante in the first matchday of LaLiga EA Sports, with a brace from the for",
+  "The Espanyol coach Manolo Gonzalez said it was important to start with a win and that he w"
+ ]
+}

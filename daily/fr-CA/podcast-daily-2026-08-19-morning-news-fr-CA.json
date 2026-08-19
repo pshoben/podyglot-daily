@@ -1,0 +1,430 @@
+{
+ "title": "Le bulletin du matin, mercredi 19 août",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-news",
+   "wpm": 185,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-19",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Mercredi dix-neuf août, à Montréal. Le bulletin du matin.",
+   "en": "Wednesday the nineteenth of August, in Montreal. The morning bulletin.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Washington repousse de trois jours les droits de douane de cinquante pour cent sur",
+   "en": "Washington is pushing back by three days the fifty per cent customs duties",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les produits canadiens.",
+   "en": "on Canadian products.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et à Kiev, les enquêteurs anticorruption se penchent sur le bureau du président ukrainien.",
+   "en": "And in Kyiv, anti-corruption investigators are looking into the Ukrainian president's office.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par les droits de douane.",
+   "en": "We begin with the customs duties.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Donald Trump a reporté mardi l'application de ces droits sur des centaines de",
+   "en": "Donald Trump on Tuesday postponed the application of those duties on hundreds of",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "produits d'exportation canadiens.",
+   "en": "Canadian export products.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il les avait annoncés le vingt juillet.",
+   "en": "He had announced them on the twentieth of July.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le président américain a parlé d'une entente qu'il juge très équitable,",
+   "en": "The American president spoke of an agreement he judges very fair,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et qui reste à finaliser.",
+   "en": "and which has still to be finalised.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les firmes canadiennes sont soulagées par le sursis.",
+   "en": "Canadian firms are relieved by the reprieve.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La première ministre Christine Fréchette, elle, est loin d'être rassurée.",
+   "en": "Premier Christine Frechette, for her part, is far from reassured.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle se demande si Ottawa a franchi des lignes rouges dans les négociations,",
+   "en": "She wonders whether Ottawa crossed red lines in the negotiations,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "notamment en cédant sur la gestion de l'offre en agriculture.",
+   "en": "in particular by giving ground on supply management in agriculture.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Radio-Canada, La Presse et Le Devoir rapportent tous les trois le report.",
+   "en": "Radio-Canada, «La Presse» and Le Devoir all three report the postponement.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Changement de sujet, l'Ukraine.",
+   "en": "Changing subject, Ukraine.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les autorités ukrainiennes responsables de la lutte contre la corruption ont annoncé mercredi qu'elles enquêtaient",
+   "en": "The Ukrainian authorities responsible for the fight against corruption announced on Wednesday that they were",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sur de hauts responsables du cabinet du président Volodymyr Zelensky.",
+   "en": "investigating senior officials in the office of president «Volodymyr Zelensky».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La veille, l'ancien ministre de la Défense Mykhaïlo Fedorov, limogé récemment,",
+   "en": "The day before, the former defence minister «Mykhailo Fedorov», recently dismissed,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avait réclamé la tenue d'élections nationales.",
+   "en": "had called for national elections to be held.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et cela, malgré la poursuite de la lutte contre l'invasion russe.",
+   "en": "And that, despite the continuing fight against the Russian invasion.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'information vient de Radio-Canada, de La Presse et du Devoir.",
+   "en": "The information comes from Radio-Canada, from «La Presse» and from Le Devoir.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe au Québec.",
+   "en": "We move to Quebec.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Paul St-Pierre-Plamondon pourrait reporter le calendrier référendaire pour tenter d'obtenir une majorité.",
+   "en": "«Paul St-Pierre-Plamondon» could put back the referendum timetable in an attempt to win a majority.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le chef du Parti québécois dit qu'il ne tiendra pas de référendum tant que Donald",
+   "en": "The leader of the «Parti Quebecois» says he will not hold a referendum until Donald",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Trump n'aura pas quitté la Maison-Blanche,",
+   "en": "Trump has left the White House,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "donc pas avant deux mille vingt-neuf.",
+   "en": "so not before twenty twenty-nine.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un sondeur y voit une tentative d'apaiser l'inquiétude des électeurs avant la campagne.",
+   "en": "One pollster sees in it an attempt to ease voters' anxiety before the campaign.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les chefs des autres partis, eux,",
+   "en": "The other party leaders, for their part,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dénoncent un virage irresponsable et contradictoire.",
+   "en": "denounce an irresponsible and contradictory pivot.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Radio-Canada, CBC et Le Journal de Montréal suivent le dossier.",
+   "en": "Radio-Canada, «CBC» and Le Journal de Montreal are following the story.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On termine par l'énergie.",
+   "en": "We finish with energy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Christine Fréchette a dit lundi que l'avenir de la nouvelle entente sur Churchill Falls dépendra",
+   "en": "Christine Frechette said on Monday that the future of the new «Churchill Falls» agreement will depend",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "du résultat des élections.",
+   "en": "on the election result.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "CBC a interrogé un expert politique.",
+   "en": "«CBC» put the question to a political expert.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon lui, l'influence d'Ottawa rendra l'entente beaucoup plus difficile à rompre,",
+   "en": "According to him, Ottawa's influence will make the agreement much harder to break,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et un scrutin québécois ne devrait pas la mettre en péril.",
+   "en": "and a Quebec election should not put it in jeopardy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans un éditorial, Le Devoir soutient de son côté que la sécurité énergétique du Québec",
+   "en": "In an editorial, Le Devoir argues for its part that Quebec's energy security",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ne peut pas être remise en question au gré des élections.",
+   "en": "cannot be called into question at the whim of elections.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est le portrait du jour.",
+   "en": "That is the picture of the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Wednesday 19 August",
+ "edition": "morning",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "Donald Trump postponed on Tuesday, by three days, the application of 50 per cent customs d",
+ "summary_en": [
+  "Donald Trump postponed on Tuesday, by three days, the application of 50 per cent customs d",
+  "The Ukrainian authorities responsible for fighting corruption announced on Wednesday that",
+  "Paul St-Pierre-Plamondon could put back the referendum timetable in an attempt to obtain a"
+ ]
+}

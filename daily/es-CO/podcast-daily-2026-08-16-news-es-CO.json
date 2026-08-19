@@ -1,0 +1,458 @@
+{
+ "title": "La actualidad del día, domingo 16 de agosto",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-16",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Domingo dieciséis de agosto. La actualidad del día.",
+   "en": "Sunday the sixteenth of August. «La actualidad del día», the day's news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en Colombia, aumenta a cuatrocientos veintitrés el número de personas desaparecidas tras el terremoto.",
+   "en": "Here in «Colombia», the number of people missing after the earthquake rises to four hundred and twenty-three.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Ecuador,",
+   "en": "In «Ecuador»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el presidente Daniel Noboa y la primera dama afrontan la pérdida del hijo que esperaban.",
+   "en": "President «Daniel Noboa» and the first lady face the loss of the child they were expecting.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Comenzamos con el balance del terremoto.",
+   "en": "We begin with the earthquake toll.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El número de personas desaparecidas asciende ahora a cuatrocientas veintitrés,",
+   "en": "The number of people missing now stands at four hundred and twenty-three,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según el último balance oficial.",
+   "en": "according to the latest official count.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mayoría de los casos se concentran en Pereira y en Cali.",
+   "en": "Most of the cases are concentrated in «Pereira» and in «Cali».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También hay reportes en otros municipios de Risaralda, del Valle, del Quindío y del Chocó.",
+   "en": "There are also reports in other municipalities of «Risaralda», «Valle», «Quindío» and «Chocó».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las organizaciones mantienen habilitados sus canales de recaudo para las ayudas.",
+   "en": "Organisations are keeping their collection channels open for aid.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se puede donar a través de cuentas de ahorros y de plataformas de pago.",
+   "en": "Donations can be made through savings accounts and payment platforms.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en Colombia, también, la muerte de un soldado en Norte de Santander.",
+   "en": "Here in «Colombia» too, the death of a soldier in «Norte de Santander».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Ejército Nacional confirmó el deceso tras un ataque con drones en Ábrego.",
+   "en": "The national army confirmed the death after a drone attack in «Ábrego».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los uniformados desarrollaban tareas de seguridad en un eje vial del municipio.",
+   "en": "The troops were carrying out security duties on a road corridor in the municipality.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ocurrió durante la noche del sábado quince de agosto.",
+   "en": "It happened during the night of Saturday the fifteenth of August.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El presidente De La Espriella rechazó el asesinato del soldado.",
+   "en": "President «De La Espriella» condemned the soldier's killing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Envió además un mensaje al ELN: le saldrá caro, dijo.",
+   "en": "He also sent a message to the «ELN»: it will cost them dearly, he said.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el resto de la actualidad, la respuesta a la emergencia.",
+   "en": "In other news, the response to the emergency.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Agencia Nacional de Infraestructura habilitó el paso sin peaje",
+   "en": "The national infrastructure agency has waived tolls",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para maquinaria y vehículos de ayuda humanitaria.",
+   "en": "for machinery and humanitarian aid vehicles.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Estableció la gratuidad en cinco corredores viales estratégicos.",
+   "en": "It set up free passage on five strategic road corridors.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La agencia mantiene además la atención permanente de los corredores afectados por deslizamientos.",
+   "en": "The agency is also keeping permanent watch on the corridors hit by landslides.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y desde el sector privado,",
+   "en": "And from the private sector,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la Fundación Bancolombia recaudó más de seis mil seiscientos millones de pesos.",
+   "en": "the «Fundación Bancolombia» has raised more than six thousand six hundred million pesos.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La solidaridad de miles de colombianos",
+   "en": "The solidarity of thousands of Colombians",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ya se está convirtiendo en ayudas concretas para las comunidades afectadas.",
+   "en": "is already turning into concrete help for the affected communities.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También en el resto de la actualidad, el duelo en Ecuador.",
+   "en": "Also in other news, mourning in «Ecuador».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El presidente Daniel Noboa y la primera dama Lavinia Valbonesi perdieron al tercer",
+   "en": "President «Daniel Noboa» and the first lady «Lavinia Valbonesi» have lost the third child",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "hijo que esperaban.",
+   "en": "they were expecting.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La ministra de Gobierno, Nataly Morillo, confirmó el deceso.",
+   "en": "The government minister, «Nataly Morillo», confirmed the death.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Posteriormente, varias instituciones expresaron su solidaridad con la familia.",
+   "en": "Afterwards, various institutions expressed their solidarity with the family.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La bandera del Palacio de Carondelet permanecerá a media asta durante tres días",
+   "en": "The flag at the «Palacio de Carondelet» will fly at half mast for three days",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "como señal de duelo.",
+   "en": "as a sign of mourning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y para terminar, un gesto desde el sector privado.",
+   "en": "And to finish, a gesture from the private sector.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La familia Gilinski donará ciento cincuenta mil millones de pesos.",
+   "en": "The «Gilinski» family will donate one hundred and fifty thousand million pesos.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El dinero servirá para reconstruir hospitales y escuelas en Cali.",
+   "en": "The money will go to rebuilding hospitals and schools in «Cali».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El anuncio ocurre mientras compañías de diferentes sectores aumentan su participación",
+   "en": "The announcement comes as companies across different sectors increase their involvement",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la atención de las zonas golpeadas por el terremoto.",
+   "en": "in caring for the areas hit by the earthquake.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El alcalde Alejandro Eder agradeció la donación de Jaime Gilinski y su esposa Raquel.",
+   "en": "The mayor «Alejandro Eder» thanked «Jaime Gilinski» and his wife «Raquel» for the donation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La llamó un inmenso gesto de amor,",
+   "en": "He called it an immense gesture of love,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de solidaridad y de compromiso con Cali.",
+   "en": "of solidarity and of commitment to «Cali».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El anuncio lo hizo el presidente Abelardo De La Espriella.",
+   "en": "The announcement was made by President «Abelardo De La Espriella».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más importante. Hasta mañana.",
+   "en": "That is the most important of it. Until tomorrow.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "title_en": "The evening news, Sunday 16 August",
+ "edition": "legacy",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "Ecuador's president and first lady lose the child they were expecting",
+ "summary_en": [
+  "Ecuador's president and first lady lose the child they were expecting",
+  "Missing after the earthquake rises to 423",
+  "A soldier killed in a drone attack in Norte de Santander"
+ ]
+}

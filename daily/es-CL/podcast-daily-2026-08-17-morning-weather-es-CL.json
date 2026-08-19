@@ -1,0 +1,199 @@
+{
+ "title": "El estado del tiempo, lunes 17 de agosto",
+ "dialect": "es-CL",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CL-daily-weather",
+   "wpm": 205,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-17",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El estado del tiempo para hoy.",
+   "en": "The state of the weather for today.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Así estará el cielo: la lluvia sigue mandando en la zona central.",
+   "en": "This is how the sky will be: the rain is still in charge in the central zone.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Santiago se esperan catorce grados de máxima y siete de mínima.",
+   "en": "In «Santiago» fourteen degrees are expected at the top and seven at the bottom.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación es del cien por ciento,",
+   "en": "The chance of precipitation is one hundred per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según el modelo del Centro Europeo.",
+   "en": "according to the European Centre model.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento se mantiene muy flojo,",
+   "en": "The wind stays very light,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en seis kilómetros por hora.",
+   "en": "at six kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De región en región, Valparaíso queda en quince grados de máxima y ocho de mínima.",
+   "en": "From region to region, «Valparaíso» sits at fifteen degrees at the top and eight at the bottom.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí la probabilidad de precipitación es del noventa y cinco por ciento, con llovizna.",
+   "en": "There the chance of precipitation is ninety five per cent, with drizzle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento sopla a siete kilómetros por hora, según el mismo modelo.",
+   "en": "The wind blows at seven kilometres an hour, according to the same model.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Más al sur el panorama cambia:",
+   "en": "Further south the picture changes:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Concepción amanece con cielo despejado.",
+   "en": "«Concepción» wakes up with a clear sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se esperan diecisiete grados de máxima y solo tres de mínima.",
+   "en": "Seventeen degrees are expected at the top and only three at the bottom.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "No hay probabilidad de precipitación,",
+   "en": "There is no chance of precipitation,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el viento llega a catorce kilómetros por hora.",
+   "en": "and the wind reaches fourteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Precaución en la mañana por las heladas del sur, con esas mínimas tan bajas.",
+   "en": "Take care in the morning for frost in the south, with lows that low.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese es el panorama. Y ahora, el deporte de hoy.",
+   "en": "That is the picture. And now, today's sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "script",
+ "title_en": "Today's weather, Monday 17 August",
+ "edition": "morning",
+ "region": "es-CL",
+ "region_label": "Chile",
+ "headline_en": "Santiago: 14 degrees",
+ "summary_en": [
+  "Santiago: 14 degrees",
+  "Valparaíso: 15 degrees"
+ ]
+}

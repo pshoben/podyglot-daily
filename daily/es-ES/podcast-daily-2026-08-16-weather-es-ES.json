@@ -1,0 +1,311 @@
+{
+ "title": "El tiempo, domingo 16 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather",
+   "wpm": 208,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-16",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El tiempo, con los avisos de la Agencia Estatal de Meteorología.",
+   "en": "The weather, with the warnings from the «Agencia Estatal de Meteorología».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Tarde de tormentas en el este peninsular.",
+   "en": "An afternoon of storms in the east of the peninsula.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se mantienen esta tarde avisos de nivel naranja en Cataluña.",
+   "en": "Orange-level warnings stay in place this afternoon in «Cataluña».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Atención en el Pirineo de Girona,",
+   "en": "Take care in the «Pirineo de Girona»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el Prepirineo de Barcelona y en la Depresión central de Barcelona.",
+   "en": "in the «Prepirineo de Barcelona» and in the «Depresión central de Barcelona».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También en el Prelitoral de Girona.",
+   "en": "Also in the «Prelitoral de Girona».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El aviso naranja por tormentas va de las cinco de la tarde",
+   "en": "The orange storm warning runs from five in the afternoon",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a las nueve y cincuenta y nueve de la noche.",
+   "en": "to nine fifty-nine at night.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hay además aviso naranja por lluvias,",
+   "en": "There is also an orange warning for rain,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por precipitación acumulada en una hora,",
+   "en": "for accumulated rainfall in one hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en las mismas zonas y en el mismo tramo horario.",
+   "en": "in the same areas and over the same time window.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el interior norte de Castellón el aviso naranja por tormentas empezó antes,",
+   "en": "In the northern interior of «Castellón» the orange storm warning started earlier,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a las dos de la tarde.",
+   "en": "at two in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Gúdar y Maestrazgo, en Teruel,",
+   "en": "In «Gúdar y Maestrazgo», in «Teruel»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "se alarga hasta las once y cincuenta y nueve de la noche.",
+   "en": "it runs until eleven fifty-nine at night.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hay muchos avisos de nivel amarillo en todo el país,",
+   "en": "There are many yellow-level warnings across the country,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por lluvias, tormentas y temperaturas máximas.",
+   "en": "for rain, storms and maximum temperatures.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aviso amarillo por temperaturas máximas en el interior de Mallorca,",
+   "en": "A yellow warning for maximum temperatures in the interior of «Mallorca»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el Ampurdán y en la campiña cordobesa.",
+   "en": "in the «Ampurdán» and in the «campiña cordobesa».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y aviso amarillo por lluvias y tormentas en el Pirineo navarro y en el Pirineo oscense.",
+   "en": "And a yellow warning for rain and storms in the «Pirineo navarro» and the «Pirineo oscense».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el cielo del oeste, en cambio, manda el calor.",
+   "en": "In the sky over the west, by contrast, the heat is in charge.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para mañana lunes hay avisos de nivel naranja por temperaturas máximas.",
+   "en": "For tomorrow, Monday, there are orange-level warnings for maximum temperatures.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Afectan al Miño de Ourense y al Miño de Pontevedra, en Galicia.",
+   "en": "They cover the «Miño de Ourense» and the «Miño de Pontevedra», in «Galicia».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y también al norte de Cáceres y a la comarca del Tajo y Alagón, en Extremadura.",
+   "en": "And also the north of «Cáceres» and the «Tajo y Alagón» district, in «Extremadura».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese aviso va de la una de la tarde",
+   "en": "That warning runs from one in the afternoon",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a las ocho y cincuenta y nueve.",
+   "en": "to eight fifty-nine.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí el tiempo.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Vamos con los deportes.",
+   "en": "Over to sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "title_en": "The weather, Sunday 16 August",
+ "edition": "legacy",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "España",
+ "accent": "Castilla",
+ "accent_label": "acento de Castilla",
+ "segment_order": 0,
+ "headline_en": "AEMET orange warnings for storms and rain in Catalonia this evening",
+ "summary_en": [
+  "AEMET orange warnings for storms and rain in Catalonia this evening",
+  "Orange warnings for rain and storms in Castellon and Teruel"
+ ]
+}

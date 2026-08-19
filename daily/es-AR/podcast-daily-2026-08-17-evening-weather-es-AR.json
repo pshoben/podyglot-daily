@@ -1,0 +1,259 @@
+{
+ "title": "El pronóstico, lunes 17 de agosto",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-weather",
+   "wpm": 195,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-17",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El pronóstico para mañana y para los próximos días.",
+   "en": "The forecast for tomorrow and for the days ahead.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mañana martes, en Buenos Aires,",
+   "en": "Tomorrow, Tuesday, in «Buenos Aires»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "trece grados de máxima y ocho de mínima.",
+   "en": "thirteen degrees at the highest and eight at the lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Habrá llovizna, con un cincuenta y siete por ciento de probabilidad de precipitación.",
+   "en": "There will be drizzle, with a fifty seven per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El miércoles se despeja: trece grados otra vez,",
+   "en": "On Wednesday it clears: thirteen degrees again,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pero sin probabilidad de lluvia.",
+   "en": "but with no chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El jueves sube a quince grados,",
+   "en": "On Thursday it rises to fifteen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la máxima más alta de la semana en la capital.",
+   "en": "the highest of the week in the capital.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viernes vuelve a bajar a once grados, con llovizna,",
+   "en": "On Friday it falls back to eleven degrees, with drizzle,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según el modelo del Centro Europeo, el ECMWF.",
+   "en": "according to the European Centre model, the «ECMWF».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Córdoba las mínimas son más duras y las máximas más generosas.",
+   "en": "In «Córdoba» the lows are harder and the highs more generous.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mañana, dieciséis grados de máxima y ocho de mínima, con cielo nuboso.",
+   "en": "Tomorrow, sixteen degrees at the highest and eight at the lowest, under a cloudy sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El miércoles la mínima cae a cinco grados,",
+   "en": "On Wednesday the low drops to five degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "aunque la máxima llega a diecinueve.",
+   "en": "though the high reaches nineteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El jueves es el mejor día:",
+   "en": "Thursday is the best day:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "veintidós grados de máxima y cielo poco nuboso.",
+   "en": "twenty two degrees at the highest under a lightly clouded sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viernes baja otra vez a diecisiete grados, con cielo nuboso.",
+   "en": "On Friday it drops again to seventeen degrees, with cloud.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Mendoza el frío de la madrugada es lo que marca la semana.",
+   "en": "In «Mendoza» it is the cold before dawn that marks the week.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mañana, catorce grados de máxima y solo tres de mínima, sin probabilidad de lluvia.",
+   "en": "Tomorrow, fourteen degrees at the highest and only three at the lowest, with no chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El miércoles, dieciocho grados, y el jueves veintitrés,",
+   "en": "On Wednesday, eighteen degrees, and on Thursday twenty three,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el día más templado de los cuatro.",
+   "en": "the mildest of the four days.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viernes cambia todo: doce grados de máxima y llovizna.",
+   "en": "On Friday everything changes: twelve degrees at the highest, and drizzle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí el pronóstico de los próximos días.",
+   "en": "And that is the forecast for the days to come.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "The forecast, Monday 17 August",
+ "edition": "evening",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Previsión para Buenos Aires, mañana, martes 2026-08-18",
+ "summary_en": [
+  "Previsión para Buenos Aires, mañana, martes 2026-08-18",
+  "Previsión para Buenos Aires, miércoles 2026-08-19"
+ ]
+}

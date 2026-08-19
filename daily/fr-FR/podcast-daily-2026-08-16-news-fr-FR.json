@@ -1,0 +1,488 @@
+{
+ "title": "Le journal du soir, dimanche 16 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-16",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Dimanche seize août. Le journal du soir.",
+   "en": "Sunday the sixteenth of August. «Le journal du soir», the evening news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Russie, la région de Moscou dit avoir été visée",
+   "en": "In Russia, the Moscow region says it was targeted",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "par près de six cents drones dans la nuit.",
+   "en": "by nearly six hundred drones overnight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, le piratage des données du fisc",
+   "en": "In «France», the hacking of tax-office data",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "conduit le Premier ministre à réunir une cellule de crise.",
+   "en": "has led the Prime Minister to convene a crisis unit.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par cette nuit de samedi à dimanche,",
+   "en": "We begin with the night from Saturday to Sunday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "marquée par des attaques russes et ukrainiennes.",
+   "en": "marked by Russian and Ukrainian attacks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Près de six cents drones ont visé la région de Moscou.",
+   "en": "Nearly six hundred drones targeted the Moscow region.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le gouverneur de la région, Andreï Vorobiov,",
+   "en": "The region's governor, «Andreï Vorobiov»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a qualifié l'attaque d'une des plus massives de mémoire récente.",
+   "en": "called the attack one of the most massive in recent memory.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De son côté, Kyiv dit avoir été visée par des missiles balistiques.",
+   "en": "For its part, «Kyiv» says it was targeted by ballistic missiles.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Trois personnes ont été blessées de part et d'autre de la frontière.",
+   "en": "Three people were injured on both sides of the border.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les premiers bilans restent provisoires.",
+   "en": "The first tolls are still provisional.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, maintenant, le piratage des données de l'administration fiscale.",
+   "en": "In «France» now, the hacking of the tax administration's data.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Direction générale des finances publiques a reconnu vendredi une intrusion dans ses systèmes.",
+   "en": "The «Direction générale des finances publiques» acknowledged an intrusion into its systems on Friday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'intrusion remonte à la fin du mois de juin.",
+   "en": "The intrusion dates back to the end of June.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un premier bilan fait état d'environ six cent soixante-dix-huit mille usagers concernés.",
+   "en": "A first count puts the number of users affected at around six hundred and seventy-eight thousand.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le nombre de victimes pourrait atteindre quelque sept cent mille particuliers et professionnels.",
+   "en": "The number of victims could reach some seven hundred thousand private individuals and businesses.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des données sensibles ont été piratées, puis mises en vente en ligne.",
+   "en": "Sensitive data was hacked and then put up for sale online.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'administration appelle les personnes touchées à la prudence.",
+   "en": "The administration is calling on those affected to be careful.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des menaces pèsent désormais sur les particuliers comme sur les entreprises.",
+   "en": "Threats now hang over private individuals and businesses alike.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Premier ministre, Sébastien Lecornu,",
+   "en": "The Prime Minister, «Sébastien Lecornu»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "présidera lundi une cellule interministérielle de crise.",
+   "en": "will chair an interministerial crisis unit on Monday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il va aussi demander un audit sur la sécurisation des systèmes informatiques de la direction.",
+   "en": "He will also request an audit of the security of the department's computer systems.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le Conseil constitutionnel a censuré vendredi quatorze août",
+   "en": "the «Conseil constitutionnel» on Friday the fourteenth of August struck down",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "l'interdiction des réseaux sociaux aux moins de quinze ans.",
+   "en": "the ban on social media for under-fifteens.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les Sages ont estimé que le texte portait une atteinte disproportionnée",
+   "en": "The judges found that the text was a disproportionate infringement",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à la liberté d'expression et de communication.",
+   "en": "on freedom of expression and communication.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mesure était défendue par le président Emmanuel Macron.",
+   "en": "The measure was backed by President «Emmanuel Macron».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a demandé au Premier ministre d'en rédiger une nouvelle version",
+   "en": "He has asked the Prime Minister to draft a new version of it",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'ici au printemps deux mille vingt-sept.",
+   "en": "by the spring of two thousand and twenty-seven.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Toujours en France, le feu dans les Landes n'a pas connu de reprise majeure",
+   "en": "Still in «France», the fire in the «Landes» has had no major",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans la nuit.",
+   "en": "flare-up overnight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le feu s'est déclaré jeudi et s'est à nouveau propagé samedi à l'aube.",
+   "en": "The fire started on Thursday and spread again at dawn on Saturday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a parcouru entre mille cinq cent quatre-vingts et mille sept cents hectares.",
+   "en": "It has burned between one thousand five hundred and eighty and one thousand seven hundred hectares.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les conditions météorologiques s'améliorent,",
+   "en": "Weather conditions are improving,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "mais le préfet exclut pour l'instant un retour des six cent cinquante personnes évacuées.",
+   "en": "but for now the prefect is ruling out a return of the six hundred and fifty people evacuated.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et pour finir, la gymnastique.",
+   "en": "And finally, gymnastics.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elena Colas, seize ans, a remporté trois médailles aux championnats d'Europe de Zagreb.",
+   "en": "«Elena Colas», sixteen, has won three medals at the European championships in «Zagreb».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'or, l'argent, le bronze: l'adolescente a tout raflé.",
+   "en": "Gold, silver and bronze: the teenager took the lot.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sa performance à la poutre, samedi quinze août, a été magistrale.",
+   "en": "Her performance on the beam, on Saturday the fifteenth of August, was masterful.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle dépasse ainsi les lourdes attentes qui pesaient sur ses épaules.",
+   "en": "She has gone beyond the heavy expectations that were resting on her shoulders.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle est à nouveau engagée ce dimanche pour les concours par équipe.",
+   "en": "She is competing again this Sunday in the team events.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is the essential news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et maintenant, la météo.",
+   "en": "And now, the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "title_en": "The evening news, Sunday 16 August",
+ "edition": "legacy",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Moscow region says it was hit by around 600 drones overnight",
+ "summary_en": [
+  "Moscow region says it was hit by around 600 drones overnight",
+  "Tax-office data breach: the Prime Minister convenes a crisis unit on Monday",
+  "Around 678,000 tax-office users affected by the breach"
+ ]
+}

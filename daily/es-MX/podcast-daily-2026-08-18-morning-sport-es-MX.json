@@ -1,0 +1,148 @@
+{
+ "title": "La agenda deportiva, martes 18 de agosto",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-sport",
+   "wpm": 186,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-18",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Este martes el deporte empieza con un caso que salió de la cancha.",
+   "en": "This Tuesday the sport starts with a case that came off the pitch.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Cruz Azul anunció que alista acciones legales, civiles y penales.",
+   "en": "«Cruz Azul» has announced that it is preparing legal, civil and criminal action.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Van dirigidas contra youtubers que insultaron a sus jugadoras.",
+   "en": "They are aimed at «youtubers» who insulted its women players.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los insultos llegaron tras la derrota de diez goles a cero ante el América.",
+   "en": "The insults came after a ten nil defeat by «América».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El club no está solo en la condena.",
+   "en": "The club is not alone in condemning it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Cruz Azul, la Liga MX Femenil",
+   "en": "«Cruz Azul», the «Liga MX Femenil» and",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la Secretaría de las Mujeres condenaron las expresiones de violencia.",
+   "en": "the «Secretaría de las Mujeres» condemned the violent expressions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esas expresiones las recibieron las jugadoras celestes en el pódcast Pláticas del Mal.",
+   "en": "The «Cruz Azul» players received those expressions on the podcast «Pláticas del Mal».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En ese programa, el locutor Santiago Domínguez hizo los comentarios.",
+   "en": "On that programme, the broadcaster «Santiago Domínguez» made the comments.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los comentarios del locutor fueron misóginos y sexistas hacia las futbolistas del Cruz Azul.",
+   "en": "The broadcaster's comments were misogynistic and sexist towards the «Cruz Azul» players.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo reportan La Jornada y Reforma.",
+   "en": "«La Jornada» and «Reforma» report it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es todo por el deporte.",
+   "en": "That is all for the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Tuesday 18 August",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "Cruz Azul is preparing legal, civil and criminal action against youtubers who insulted its",
+ "summary_en": [
+  "Cruz Azul is preparing legal, civil and criminal action against youtubers who insulted its"
+ ]
+}

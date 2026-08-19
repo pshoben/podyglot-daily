@@ -1,0 +1,213 @@
+{
+ "title": "El tiempo, martes 18 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather",
+   "wpm": 208,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-18",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El tiempo para hoy.",
+   "en": "The weather for today.",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos por el centro peninsular,",
+   "en": "We start with the centre of the peninsula,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "donde el día viene despejado y muy caluroso.",
+   "en": "where the day comes in clear and very hot.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Madrid se esperan treinta y ocho grados de máxima y veintitrés de mínima,",
+   "en": "In «Madrid», thirty eight degrees are expected at the highest and twenty three at the lowest,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según la AEMET.",
+   "en": "according to «AEMET».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo queda despejado las veinticuatro horas y no hay probabilidad de lluvia.",
+   "en": "The sky stays clear around the clock and there is no chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento sopla flojo y no dará ningún alivio.",
+   "en": "The wind is light and will bring no relief.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De norte a sur, el patrón se repite en casi toda la península.",
+   "en": "From north to south, the pattern repeats across almost the whole peninsula.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cielos despejados, mínimas altas y ninguna probabilidad de precipitación.",
+   "en": "Clear skies, high minimums and no chance of rain at all.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el valle del Guadalquivir, en Sevilla,",
+   "en": "In the «Guadalquivir» valley, in «Sevilla»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la máxima llega también a treinta y ocho grados.",
+   "en": "the high also reaches thirty eight degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima se queda ahí en veintidós grados, según la AEMET.",
+   "en": "The low there stays at twenty two degrees, according to «AEMET».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El punto más caluroso del país está hoy en Córdoba,",
+   "en": "The hottest point in the country today is «Córdoba»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con cuarenta grados de máxima.",
+   "en": "with a high of forty degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es la única capital que alcanza esa cifra en la jornada de hoy.",
+   "en": "It is the only capital reaching that figure today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Con estos valores, el índice ultravioleta se mantiene alto durante todo el día.",
+   "en": "With these values, the ultraviolet index stays high all day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Conviene beber agua y evitar el sol en las horas centrales.",
+   "en": "It is worth drinking water and staying out of the sun in the middle hours.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí el tiempo en el conjunto del país.",
+   "en": "That is the weather across the country as a whole.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Tuesday 18 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "España",
+ "accent": "Castilla",
+ "accent_label": "acento de Castilla",
+ "segment_order": 0,
+ "headline_en": "Predicción AEMET para Madrid (Madrid), 2026-08-18",
+ "summary_en": [
+  "Predicción AEMET para Madrid (Madrid), 2026-08-18",
+  "Predicción AEMET para Sevilla (Sevilla), 2026-08-18"
+ ]
+}

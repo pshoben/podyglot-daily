@@ -1,0 +1,209 @@
+{
+ "title": "El clima, martes 18 de agosto",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-weather",
+   "wpm": 186,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-18",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El clima para hoy, ciudad por ciudad.",
+   "en": "The weather for today, city by city.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la Ciudad de México, máxima de veinticuatro grados y mínima de doce.",
+   "en": "In «Ciudad de México», a high of twenty four degrees and a low of twelve.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Habrá llovizna durante el día.",
+   "en": "There will be drizzle during the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación es de treinta y seis por ciento.",
+   "en": "The chance of rain is thirty six per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento máximo llega a ocho kilómetros por hora.",
+   "en": "The maximum wind reaches eight kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Guadalajara, máxima de treinta grados y mínima de dieciséis.",
+   "en": "In «Guadalajara», a high of thirty degrees and a low of sixteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También ahí habrá llovizna.",
+   "en": "There too there will be drizzle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación baja a dieciocho por ciento.",
+   "en": "The chance of rain falls to eighteen per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento máximo llega a diez kilómetros por hora.",
+   "en": "The maximum wind reaches ten kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Monterrey, máxima de treinta y seis grados y mínima de veintitrés.",
+   "en": "In «Monterrey», a high of thirty six degrees and a low of twenty three.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo está nuboso.",
+   "en": "The sky is cloudy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación es de apenas cuatro por ciento.",
+   "en": "The chance of rain is only four per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento máximo llega a veintiún kilómetros por hora.",
+   "en": "The maximum wind reaches twenty one kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Treinta y seis grados es la máxima más alta de las tres ciudades.",
+   "en": "Thirty six degrees is the highest maximum of the three cities.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y veintitrés grados es también la mínima más alta.",
+   "en": "And twenty three degrees is also the highest minimum.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Ciudad de México es la que tiene más probabilidad de lluvia.",
+   "en": "«Ciudad de México» is the one with the highest chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los datos son del modelo del Centro Europeo, el ECMWF.",
+   "en": "The data is from the European Centre model, the «ECMWF».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ahí está el panorama.",
+   "en": "There is the picture.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Tuesday 18 August",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "Forecast for Mexico City, Tuesday 2026-08-18: high 24 degrees, low 12; sky with drizzle; 3",
+ "summary_en": [
+  "Forecast for Mexico City, Tuesday 2026-08-18: high 24 degrees, low 12; sky with drizzle; 3",
+  "Forecast for Guadalajara, Tuesday 2026-08-18: high 30 degrees, low 16; sky with drizzle; 1"
+ ]
+}

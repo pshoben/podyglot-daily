@@ -1,0 +1,209 @@
+{
+ "title": "El clima de hoy, martes 18 de agosto",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-weather",
+   "wpm": 195,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-18",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Así viene el día de hoy en las tres principales ciudades del país.",
+   "en": "This is how today looks in the country's three main cities.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Bogotá, máxima de dieciocho grados y mínima de once.",
+   "en": "In «Bogotá», a high of eighteen degrees and a low of eleven.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo viene con llovizna.",
+   "en": "The sky comes with drizzle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación llega a noventa por ciento.",
+   "en": "The chance of rain reaches ninety per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el viento máximo, ocho kilómetros por hora.",
+   "en": "And the maximum wind, eight kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Medellín, máxima de veintiséis grados y mínima de dieciocho.",
+   "en": "In «Medellín», a high of twenty six degrees and a low of eighteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí también se espera llovizna.",
+   "en": "Drizzle is expected there too.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación es de ochenta y un por ciento.",
+   "en": "The chance of rain is eighty one per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento máximo llega a siete kilómetros por hora.",
+   "en": "The maximum wind reaches seven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Cali, máxima de veintiocho grados y mínima de veinte.",
+   "en": "In «Cali», a high of twenty eight degrees and a low of twenty.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Igualmente con llovizna.",
+   "en": "With drizzle as well.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación baja a veintinueve por ciento.",
+   "en": "The chance of rain falls to twenty nine per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento máximo llega a tres kilómetros por hora.",
+   "en": "The maximum wind reaches three kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Bogotá es la ciudad con más probabilidad de lluvia de las tres.",
+   "en": "«Bogotá» is the city with the highest chance of rain of the three.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Veintiocho grados en Cali es la máxima más alta.",
+   "en": "Twenty eight degrees in «Cali» is the highest maximum.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y once grados en Bogotá es la mínima más baja.",
+   "en": "And eleven degrees in «Bogotá» is the lowest minimum.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Estas cifras vienen del modelo del Centro Europeo, el ECMWF.",
+   "en": "Those numbers come from the European Centre's model, the «ECMWF».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese es el clima.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Tuesday 18 August",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "Forecast for Bogota, Tuesday 2026-08-18: high 18 degrees, low 11; sky with drizzle; 90 per",
+ "summary_en": [
+  "Forecast for Bogota, Tuesday 2026-08-18: high 18 degrees, low 11; sky with drizzle; 90 per",
+  "Forecast for Medellin, Tuesday 2026-08-18: high 26 degrees, low 18; sky with drizzle; 81 p"
+ ]
+}

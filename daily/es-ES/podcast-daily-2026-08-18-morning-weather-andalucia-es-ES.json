@@ -1,0 +1,203 @@
+{
+ "title": "El tiempo en Andalucía, martes 18 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-andalucia",
+   "wpm": 208,
+   "rate_multiplier": 0.73,
+   "pitch_multiplier": 0.79
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-andalucia",
+ "date": "2026-08-18",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El tiempo en Andalucía, provincia por provincia.",
+   "en": "The weather in «Andalucía», province by province.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Tierra adentro manda el calor,",
+   "en": "Inland the heat is in charge,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y hoy manda más que ayer.",
+   "en": "and today more than yesterday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Córdoba se esperan cuarenta grados de máxima y veintidós de mínima, según la AEMET.",
+   "en": "In «Córdoba», forty degrees are expected at the highest and twenty two at the lowest, according to «AEMET».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo queda despejado las veinticuatro horas,",
+   "en": "The sky stays clear around the clock,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sin ninguna probabilidad de lluvia.",
+   "en": "with no chance of rain at all.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por el valle, en Sevilla,",
+   "en": "Along the valley, in «Sevilla»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la máxima se queda en treinta y ocho grados.",
+   "en": "the high stays at thirty eight degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima baja ahí hasta los veintidós grados, igual que en Córdoba.",
+   "en": "The low there drops to twenty two degrees, the same as in «Córdoba».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También ahí el cielo queda despejado de madrugada y por la tarde.",
+   "en": "There too the sky stays clear overnight and through the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la costa el ambiente es más llevadero,",
+   "en": "On the coast it is easier to bear,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "aunque las noches son peores.",
+   "en": "though the nights are worse.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Málaga se esperan treinta y cuatro grados de máxima y veinticuatro de mínima.",
+   "en": "In «Málaga», thirty four degrees are expected at the highest and twenty four at the lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esa mínima de veinticuatro grados es la más alta de las tres capitales.",
+   "en": "That low of twenty four degrees is the highest of the three cities.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es lo que tiene el mar:",
+   "en": "That is what the sea does:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "quita grados de día y los devuelve de noche.",
+   "en": "it takes degrees away by day and gives them back at night.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es Andalucía para la jornada de hoy.",
+   "en": "That is «Andalucía» for today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 3,
+ "handover": "junction",
+ "title_en": "Today's weather, Andalusia, Tuesday 18 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Andalucía",
+ "accent": "Andalucía",
+ "accent_label": "acento de Andalucía",
+ "segment_order": 1,
+ "headline_en": "Predicción AEMET para Córdoba (Córdoba), 2026-08-18",
+ "summary_en": [
+  "Predicción AEMET para Córdoba (Córdoba), 2026-08-18",
+  "Predicción AEMET para Sevilla (Sevilla), 2026-08-18"
+ ]
+}

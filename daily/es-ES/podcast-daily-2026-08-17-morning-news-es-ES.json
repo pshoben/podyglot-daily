@@ -1,0 +1,500 @@
+{
+ "title": "El informativo de la mañana, lunes 17 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-news",
+   "wpm": 208,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-17",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lunes diecisiete de agosto. El informativo de la mañana.",
+   "en": "Monday the seventeenth of August. «El informativo de la mañana».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Estados Unidos reduce sus ejercicios militares con Corea del Sur.",
+   "en": "The United States is reducing its military exercises with South Korea.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y en España, tres muertos en un tiroteo en Isla Cristina, en Huelva.",
+   "en": "And in Spain, three dead in a shooting in «Isla Cristina», in «Huelva».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Abrimos con el exterior.",
+   "en": "We open abroad.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El presidente estadounidense ha anunciado que reducirá los ejercicios militares con Corea del Sur.",
+   "en": "The American president has announced that he will reduce the military exercises with South Korea.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Apeló a su muy buena relación con Corea del Norte y con su líder,",
+   "en": "He pointed to his very good relationship with North Korea and with its leader,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Kim Jong Un.",
+   "en": "«Kim Jong Un».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Reprochó además a Seúl su falta de apoyo durante la guerra con Irán.",
+   "en": "He also reproached «Seúl» for its lack of support during the war with Iran.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los ejercicios arrancan de todos modos según lo previsto.",
+   "en": "The exercises are starting as planned in any case.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Washington ha dado la instrucción de reducir sustancialmente la participación estadounidense.",
+   "en": "Washington has given the instruction to substantially reduce the American participation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Alegó el coste de las maniobras y sus lazos con Pionyang.",
+   "en": "It cited the cost of the manoeuvres and its ties with «Pionyang».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El presidente hizo hincapié en su aprecio por el líder norcoreano.",
+   "en": "The president stressed his regard for the North Korean leader.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en España, tres personas han muerto en un tiroteo en Isla Cristina,",
+   "en": "Here in Spain, three people have died in a shooting in «Isla Cristina»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la provincia de Huelva.",
+   "en": "in the province of «Huelva».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Entre las víctimas hay un menor.",
+   "en": "Among the victims there is a minor.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Una cuarta persona ha resultado herida muy grave.",
+   "en": "A fourth person has been very seriously injured.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según los primeros indicios,",
+   "en": "According to the first indications,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dos encapuchados en una motocicleta abrieron fuego y se dieron a la fuga.",
+   "en": "two hooded men on a motorcycle opened fire and fled.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ocurrió en una barriada de la localidad,",
+   "en": "It happened in a neighbourhood of the town,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y las cifras podrían moverse a lo largo del día.",
+   "en": "and the figures could move during the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Guardia Civil se ha hecho cargo de la investigación.",
+   "en": "The «Guardia Civil» has taken charge of the investigation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Trata de identificar a los presuntos culpables y de esclarecer las circunstancias.",
+   "en": "It is trying to identify the alleged culprits and to establish the circumstances.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Una de las hipótesis que se barajan, por ahora,",
+   "en": "One of the hypotheses being considered, for now,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "es un ajuste de cuentas.",
+   "en": "is a settling of scores.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Estaría relacionado con otro suceso ocurrido en el barrio de El Torrejón, en Huelva.",
+   "en": "It would be linked to another incident in the «El Torrejón» neighbourhood, in «Huelva».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La investigación sigue abierta y los detalles pueden cambiar.",
+   "en": "The investigation is still open and the details may change.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos en España, con la crisis de Ceuta.",
+   "en": "We stay in Spain, with the «Ceuta» crisis.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El País informa de que España mantendrá intacta su estrategia con Marruecos pese",
+   "en": "«El País» reports that Spain will keep its strategy with Morocco unchanged",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a las críticas.",
+   "en": "despite the criticism.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mayoría de los diplomáticos y expertos consultados pide más firmeza ante Rabat.",
+   "en": "Most of the diplomats and experts consulted are asking for more firmness towards «Rabat».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Mundo cuenta, en plena crisis,",
+   "en": "«El Mundo» reports, in the middle of the crisis,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que Marruecos avanza en su alianza militar y tecnológica con Estados Unidos.",
+   "en": "that Morocco is advancing its military and technological alliance with the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los dos países han creado un nuevo centro de pruebas de sistemas y tecnologías.",
+   "en": "The two countries have created a new testing centre for systems and technologies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Son lazos que se han ido tejiendo en los últimos años,",
+   "en": "They are ties that have been built up over recent years,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y que ahora se consolidan.",
+   "en": "and that are consolidating now.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el resto de la actualidad,",
+   "en": "In the rest of the news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el cine y la televisión están de luto.",
+   "en": "cinema and television are in mourning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ha muerto la actriz estadounidense Hayden Panettiere, a los treinta y seis años.",
+   "en": "The American actress «Hayden Panettiere» has died, at thirty six.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se desconocen las causas del fallecimiento,",
+   "en": "The causes of the death are unknown,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que investigan las autoridades estadounidenses.",
+   "en": "and the American authorities are investigating them.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Era conocida sobre todo por sus papeles en las series Héroes y Nashville.",
+   "en": "She was known above all for her roles in the series «Héroes» and «Nashville».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para terminar, volvemos un momento a la actriz,",
+   "en": "To finish, we go back for a moment to the actress,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con un detalle de su vida.",
+   "en": "with a detail of her life.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Deja una hija de doce años,",
+   "en": "She leaves a twelve year old daughter,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y su hermano menor murió en dos mil veintitrés.",
+   "en": "and her younger brother died in two thousand and twenty three.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las series por las que se le recuerda siguen viéndose en todo el mundo.",
+   "en": "The series she is remembered for are still watched all over the world.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí lo esencial. Vamos con el tiempo.",
+   "en": "That is the essential. Over to the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "script",
+ "title_en": "The morning news, Monday 17 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Trump reduces military exercises with South Korea",
+ "summary_en": [
+  "Trump reduces military exercises with South Korea",
+  "The exercises with Seoul start as planned, with reduced US participation",
+  "Three dead in a shooting in Isla Cristina, Huelva"
+ ]
+}

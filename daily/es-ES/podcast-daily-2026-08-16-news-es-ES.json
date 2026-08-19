@@ -1,0 +1,508 @@
+{
+ "title": "Las noticias de la tarde, domingo 16 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-news",
+   "wpm": 208,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-16",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Domingo dieciséis de agosto. Las noticias de la tarde.",
+   "en": "Sunday the sixteenth of August. «Las noticias de la tarde», the evening news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Ucrania, una de las mayores ofensivas aéreas",
+   "en": "In «Ucrania», one of the largest air offensives",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "contra territorio ruso desde el inicio de la guerra.",
+   "en": "against Russian territory since the beginning of the war.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en España, la ministra de Sanidad niega que haya un colapso sanitario en Ceuta.",
+   "en": "Here in «España», the health minister denies that there is a health-service collapse in «Ceuta».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Comenzamos con la noche del sábado al domingo,",
+   "en": "We begin with the night from Saturday to Sunday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según los recuentos rusos y ucranianos.",
+   "en": "according to the Russian and Ukrainian counts.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ucrania lanzó una de sus mayores ofensivas aéreas",
+   "en": "«Ucrania» launched one of its largest air offensives",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "contra territorio ruso desde el inicio de la guerra.",
+   "en": "against Russian territory since the beginning of the war.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se enviaron cerca de seiscientos drones sobre la región de Moscú.",
+   "en": "Around six hundred drones were sent over the «Moscú» region.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es uno de los mayores ataques con drones contra Moscú en dos años.",
+   "en": "It is one of the biggest drone attacks on «Moscú» in two years.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las defensas antiaéreas rusas afirman haber derribado",
+   "en": "Russian air defences say they shot down",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "más de ochocientos drones sobre los cielos de dieciséis regiones",
+   "en": "more than eight hundred drones over the skies of sixteen regions",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "desde la tarde del sábado.",
+   "en": "from Saturday afternoon onwards.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Entre los objetivos alcanzados figura el mayor almacén del gigante ruso del comercio electrónico.",
+   "en": "Among the targets hit is the largest warehouse of the Russian e-commerce giant.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en España, la crisis migratoria en Ceuta.",
+   "en": "Here in «España», the migration crisis in «Ceuta».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La ministra de Sanidad, Mónica García,",
+   "en": "The health minister, «Mónica García»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "visitó este domingo la ciudad y fue abucheada a su llegada.",
+   "en": "visited the city this Sunday and was booed on her arrival.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Niega que exista un colapso sanitario,",
+   "en": "She denies that there is a health-service collapse,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y habla de tensión y sobreesfuerzo.",
+   "en": "and speaks of strain and extra effort.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según sus datos, en estos quince días",
+   "en": "By her figures, over these fifteen days",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "se ha atendido a unos cinco mil ochocientos inmigrantes.",
+   "en": "some five thousand eight hundred migrants have been attended to.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Destaca el refuerzo de sesenta sanitarios hasta el treinta y uno de agosto.",
+   "en": "She points to the reinforcement of sixty health workers until the thirty-first of August.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y la ampliación de camas de ciento setenta y cinco a doscientas doce.",
+   "en": "And the increase in beds from one hundred and seventy-five to two hundred and twelve.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Asociar inmigración con enfermedad es injusto y xenófobo, ha dicho la ministra.",
+   "en": "Associating immigration with disease is unjust and xenophobic, the minister said.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los migrantes no traen enfermedades, ha añadido.",
+   "en": "Migrants do not bring diseases, she added.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los médicos y el Partido Popular sí denuncian un colapso sanitario.",
+   "en": "Doctors and the «Partido Popular» do say there is a health-service collapse.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cerca de ochenta mil personas cruzaron el espigón del Tarajal y desbordaron",
+   "en": "Around eighty thousand people crossed the «Tarajal» breakwater and overwhelmed",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "una ciudad de poco más de ochenta y tres mil habitantes.",
+   "en": "a city of little more than eighty-three thousand inhabitants.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La frontera ha vivido este domingo una jornada sin incidencias",
+   "en": "The border has had a day without incidents this Sunday",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "bajo un fuerte despliegue de seguridad.",
+   "en": "under a heavy security deployment.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La situación se mantiene estable",
+   "en": "The situation remains stable",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tras las cargas de las fuerzas de seguridad de Marruecos",
+   "en": "after the charges by «Marruecos» security forces",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "contra los migrantes que intentaron pasar.",
+   "en": "against the migrants who tried to cross.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el resto de la actualidad,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un caza español de la OTAN derribó un dron en el espacio aéreo de Rumanía.",
+   "en": "a Spanish «OTAN» fighter shot down a drone in «Rumanía»'s airspace.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El aparato fue interceptado y destruido sobre una zona despoblada,",
+   "en": "The aircraft was intercepted and destroyed over an unpopulated area,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "entre las localidades de Baleni y Cudalbi.",
+   "en": "between the towns of «Baleni» and «Cudalbi».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La zona está cerca de la frontera con Moldavia.",
+   "en": "The area is close to the border with «Moldavia».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Alianza Atlántica sospecha que se trató de un avión no tripulado ruso.",
+   "en": "The Atlantic Alliance suspects it was a Russian unmanned aircraft.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es el cuarto aparato sobre territorio rumano desde finales de julio.",
+   "en": "It is the fourth such aircraft over Romanian territory since the end of July.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y para terminar, una buena noticia desde Andalucía.",
+   "en": "And to finish, some good news from «Andalucía».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El incendio de Niebla, el mayor de la historia de Andalucía,",
+   "en": "The «Niebla» fire, the largest in «Andalucía»'s history,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ha quedado estabilizado tras más de una semana fuera de control.",
+   "en": "has been stabilised after more than a week out of control.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La estabilización permite el regreso a casa de las cuatrocientas diecisiete personas que permanecían evacuadas.",
+   "en": "Stabilising it allows the four hundred and seventeen people who were still evacuated to return home.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También se reabren todas las carreteras que se habían visto afectadas.",
+   "en": "All the roads that had been affected are reopening too.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los efectivos de la Unidad Militar de Emergencias comenzarán su repliegue este domingo.",
+   "en": "Units of the «Unidad Militar de Emergencias» will begin withdrawing this Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo esencial.",
+   "en": "That is the essentials.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y ahora, el tiempo.",
+   "en": "And now, the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "title_en": "The evening news, Sunday 16 August",
+ "edition": "legacy",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Ukraine launches one of its largest drone attacks on Moscow in two years",
+ "summary_en": [
+  "Ukraine launches one of its largest drone attacks on Moscow in two years",
+  "The health minister denies a health-service collapse in Ceuta",
+  "A day without incidents at the Ceuta border under heavy security"
+ ]
+}

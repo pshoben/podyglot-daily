@@ -1,0 +1,211 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-BE",
+ "base": "https://pshoben.github.io/podyglot-daily/",
+ "episodes": [
+  {
+   "id": "fr-BE-Le sept heures, mercredi 19 août",
+   "file": "podcast-daily-2026-08-19-morning-news-fr-BE.json",
+   "bytes": 10961,
+   "sha256": "b614c7b2dcc4ed33f12493724efe4f7f3fb85ceb332a1b455f0ab9358fcecfb6",
+   "date": "2026-08-19",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, mercredi 19 août",
+   "title_en": "The morning news, Wednesday 19 August",
+   "headline_en": "The fire in the Hautes Fagnes has been encircled but is not yet under control, and the sit",
+   "summary_en": [
+    "The fire in the Hautes Fagnes has been encircled but is not yet under control, and the sit",
+    "Belgium's civil cooperation with Ukraine is intensifying. It covers the reintegration of v",
+    "Prince Laurent's paternity of Clement Vandenkerckhove has been established before a regist"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, mercredi 19 août",
+   "file": "podcast-daily-2026-08-19-morning-weather-fr-BE.json",
+   "bytes": 4881,
+   "sha256": "fa0ea87d3eef8e93915df037ce37d0d5ef981a882104db9f1c4371af90f9c867",
+   "date": "2026-08-19",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, mercredi 19 août",
+   "title_en": "Today's weather, Wednesday 19 August",
+   "headline_en": "Prévision pour Bruxelles, mercredi 2026-08-19",
+   "summary_en": [
+    "Prévision pour Bruxelles, mercredi 2026-08-19",
+    "Prévision pour Liège, mercredi 2026-08-19"
+   ]
+  },
+  {
+   "id": "fr-BE-Le sept heures, mardi 18 août",
+   "file": "podcast-daily-2026-08-18-morning-news-fr-BE.json",
+   "bytes": 12025,
+   "sha256": "e6c72a837341602ac110f766468c262cab5ff6ffa7b0586211cacf4f21cd213e",
+   "date": "2026-08-18",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, mardi 18 août",
+   "title_en": "The morning news, Tuesday 18 August",
+   "headline_en": "The Hautes Fagnes fire is still burning",
+   "summary_en": [
+    "The Hautes Fagnes fire is still burning",
+    "Hayden Panettiere was revived by emergency services just before her death, police confirme",
+    "A private helicopter crashed on Monday evening on the Greek island of Sifnos, killing thre"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, mardi 18 août",
+   "file": "podcast-daily-2026-08-18-morning-weather-fr-BE.json",
+   "bytes": 4750,
+   "sha256": "1f3e0fe5c314826907ad2b2ce29e9e8101f9d95db7f46216b2fa5fd58803fb64",
+   "date": "2026-08-18",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, mardi 18 août",
+   "title_en": "Today's weather, Tuesday 18 August",
+   "headline_en": "Prévision pour Bruxelles, mardi 2026-08-18",
+   "summary_en": [
+    "Prévision pour Bruxelles, mardi 2026-08-18",
+    "Prévision pour Liège, mardi 2026-08-18"
+   ]
+  },
+  {
+   "id": "fr-BE-Le sept heures, lundi 17 août",
+   "file": "podcast-daily-2026-08-17-morning-news-fr-BE.json",
+   "bytes": 12629,
+   "sha256": "e96b4372e43ddd1e41637fba368584f03ab99c3e5d9fdef950473df5119cc128",
+   "date": "2026-08-17",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, lundi 17 août",
+   "title_en": "The morning news, Monday 17 August",
+   "headline_en": "The fire in the Landes in France is contained, half the evacuated residents go home",
+   "summary_en": [
+    "The fire in the Landes in France is contained, half the evacuated residents go home",
+    "Rain reaches the Hautes Fagnes fire, and the King visits the firefighters",
+    "Close to three thousand hectares burned since Friday"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, lundi 17 août",
+   "file": "podcast-daily-2026-08-17-morning-weather-fr-BE.json",
+   "bytes": 5939,
+   "sha256": "5cabdf7ad141c10913984a1f94d8dd0e7304f1b9c441fddacdeca4c0989fa2d7",
+   "date": "2026-08-17",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, lundi 17 août",
+   "title_en": "Today's weather, Monday 17 August",
+   "headline_en": "Cloud, showers and sunny spells today, nineteen to twenty six degrees",
+   "summary_en": [
+    "Cloud, showers and sunny spells today, nineteen to twenty six degrees",
+    "The heat and drought break: seasonal temperatures and rain return"
+   ]
+  },
+  {
+   "id": "fr-BE-Le sport chez nous, lundi 17 août",
+   "file": "podcast-daily-2026-08-17-morning-sport-fr-BE.json",
+   "bytes": 4869,
+   "sha256": "1fccc155797f6f4df331376677e99a858656f89ea3e1a3dc0989c9562de48afe",
+   "date": "2026-08-17",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sport chez nous, lundi 17 août",
+   "title_en": "Today's sport, Monday 17 August",
+   "headline_en": "The Red Lions play Germany tonight at half past eight in Wavre",
+   "summary_en": [
+    "The Red Lions play Germany tonight at half past eight in Wavre",
+    "The hockey World Cup runs at the Belfius Hockey Arena until the thirtieth"
+   ]
+  },
+  {
+   "id": "fr-BE-Le dix-huit heures, lundi 17 août",
+   "file": "podcast-daily-2026-08-17-evening-news-fr-BE.json",
+   "bytes": 11520,
+   "sha256": "7b5d4e32d3c62a294434ccefaab3b267daca001eb6ea4dd2f7e93c4f1847e712",
+   "date": "2026-08-17",
+   "edition": "evening",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le dix-huit heures, lundi 17 août",
+   "title_en": "The evening news, Monday 17 August",
+   "headline_en": "EU foreign policy chief wants a third more Russian entities sanctioned",
+   "summary_en": [
+    "EU foreign policy chief wants a third more Russian entities sanctioned",
+    "Rain in the Fagnes; fire not advancing towards the German border; King visits",
+    "Cafe destroyed by fire on the square at Montigny-le-Tilleul"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, lundi 17 août",
+   "file": "podcast-daily-2026-08-17-evening-weather-fr-BE.json",
+   "bytes": 6658,
+   "sha256": "e5d24a6089b274f59010a2ffc5be986d3079cac1a88976fe5bd2c0b29c37bc54",
+   "date": "2026-08-17",
+   "edition": "evening",
+   "programme": "weather",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, lundi 17 août",
+   "title_en": "The forecast, Monday 17 August",
+   "headline_en": "Prévision pour Bruxelles, demain, mardi 2026-08-18",
+   "summary_en": [
+    "Prévision pour Bruxelles, demain, mardi 2026-08-18",
+    "Prévision pour Bruxelles, mercredi 2026-08-19"
+   ]
+  },
+  {
+   "id": "fr-BE-Les scores, lundi 17 août",
+   "file": "podcast-daily-2026-08-17-evening-results-fr-BE.json",
+   "bytes": 3614,
+   "sha256": "c00f0c7db6f0bef8e064229df4d1fa74178033dcbff2a541781369074d38a1cc",
+   "date": "2026-08-17",
+   "edition": "evening",
+   "programme": "results",
+   "programme_order": 3,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Les scores, lundi 17 août",
+   "title_en": "Results, Monday 17 August",
+   "headline_en": "Red Panthers open their World Cup in Wavre with a 5-2 win",
+   "summary_en": [
+    "Red Panthers open their World Cup in Wavre with a 5-2 win"
+   ]
+  }
+ ]
+}

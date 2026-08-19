@@ -1,0 +1,440 @@
+{
+ "title": "Le sept heures, mercredi 19 août",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-news",
+   "wpm": 222,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-19",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Mercredi dix-neuf août, à Bruxelles. Le sept heures.",
+   "en": "Wednesday the nineteenth of August, in «Bruxelles». The seven o'clock news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'incendie des Hautes Fagnes est encerclé,",
+   "en": "The fire in the «Hautes Fagnes» has been encircled,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "mais il n'est pas encore sous contrôle.",
+   "en": "but it is not yet under control.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et la coopération civile de la Belgique avec l'Ukraine s'intensifie.",
+   "en": "And Belgium's civil cooperation with «Ukraine» is intensifying.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par le feu qui occupe le pays depuis plusieurs jours.",
+   "en": "We begin with the fire that has occupied the country for several days.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les pompiers sont parvenus à encercler l'incendie des Hautes Fagnes.",
+   "en": "Firefighters have managed to encircle the fire in the «Hautes Fagnes».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le feu n'est pas pour autant sous contrôle,",
+   "en": "The fire is not under control for all that,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et la situation reste compliquée.",
+   "en": "and the situation remains complicated.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Plusieurs reprises de feu ont eu lieu au cours de la nuit.",
+   "en": "There were several flare-ups during the night.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'incendie a ravagé quelque trois mille hectares.",
+   "en": "The fire has burned through some three thousand hectares.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La lutte contre les flammes se poursuit ce mercredi.",
+   "en": "The fight against the flames continues this Wednesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La DH, 7sur7 et Le Vif suivent les opérations heure par heure.",
+   "en": "«La DH», «7sur7» and «Le Vif» are following the operations hour by hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à la famille royale.",
+   "en": "Now to the royal family.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La paternité du prince Laurent sur Clement Vandenkerckhove a été établie.",
+   "en": "Prince «Laurent»'s paternity of «Clement Vandenkerckhove» has been established.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle a été actée devant un officier de l'état civil.",
+   "en": "It has been recorded before a registrar.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le prince avait reconnu officiellement cette paternité le neuf septembre deux mille vingt-cinq.",
+   "en": "The prince had officially recognised this paternity on the ninth of September twenty twenty five.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Clement Vandenkerckhove est né de sa relation avec Iris Vandenkerckhove.",
+   "en": "«Clement Vandenkerckhove» was born of his relationship with «Iris Vandenkerckhove».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour qu'il porte officiellement le titre de prince, une étape reste à franchir.",
+   "en": "For him to bear the title of prince officially, one step remains.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon La Libre et la DH,",
+   "en": "According to «La Libre» and «la DH»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le roi Philippe doit encore signer un arrêté royal.",
+   "en": "King «Philippe» must still sign a royal decree.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Libre, la DH et 7sur7 rapportent cette reconnaissance.",
+   "en": "«La Libre», «la DH» and «7sur7» report this recognition.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Bruxelles maintenant, avec un fait divers.",
+   "en": "Now to «Bruxelles», with a news item in brief.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Deux voitures ont été incendiées mardi après-midi à Saint-Gilles.",
+   "en": "Two cars were set on fire on Tuesday afternoon in «Saint-Gilles».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un troisième véhicule a également été endommagé.",
+   "en": "A third vehicle was also damaged.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aucun blessé n'est à déplorer.",
+   "en": "There were no injuries.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est le porte-parole des pompiers de Bruxelles, Walter Derieuw,",
+   "en": "It was the spokesman for the «Bruxelles» fire service, «Walter Derieuw»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qui l'a indiqué ce mercredi.",
+   "en": "who said so this Wednesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "7sur7, La Libre et la DH donnent le même bilan.",
+   "en": "«7sur7», «La Libre» and «la DH» give the same account.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On termine par l'aide belge.",
+   "en": "We finish with Belgian aid.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La coopération civile de la Belgique avec l'Ukraine prend forme.",
+   "en": "Belgium's civil cooperation with «Ukraine» is taking shape.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle porte sur la réintégration des vétérans et sur la chirurgie maxillo-faciale.",
+   "en": "It covers the reintegration of veterans and maxillofacial surgery.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle porte aussi sur le soutien aux entreprises",
+   "en": "It also covers support for businesses",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et sur des abris souterrains pour les écoles.",
+   "en": "and underground shelters for schools.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De l'équipement énergétique est prévu à la veille de l'hiver.",
+   "en": "Energy equipment is planned ahead of winter.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Quelque cent cinquante millions d'euros y sont consacrés depuis deux mille vingt-cinq.",
+   "en": "Some one hundred and fifty million euros have gone to it since twenty twenty five.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ministre des Affaires étrangères, Maxime Prévot,",
+   "en": "The foreign minister, «Maxime Prévot»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "est arrivé mardi matin en Ukraine.",
+   "en": "arrived in «Ukraine» on Tuesday morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il y effectue une visite de travail de deux jours.",
+   "en": "He is making a two-day working visit there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a rencontré Volodymyr Zelensky à Kiev.",
+   "en": "He met «Volodymyr Zelensky» in «Kiev».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "7sur7, la DH et La Libre détaillent cette aide.",
+   "en": "«7sur7», «la DH» and «La Libre» set out this aid.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà où nous en sommes ce mercredi matin.",
+   "en": "That is where we stand this Wednesday morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Wednesday 19 August",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "The fire in the Hautes Fagnes has been encircled but is not yet under control, and the sit",
+ "summary_en": [
+  "The fire in the Hautes Fagnes has been encircled but is not yet under control, and the sit",
+  "Belgium's civil cooperation with Ukraine is intensifying. It covers the reintegration of v",
+  "Prince Laurent's paternity of Clement Vandenkerckhove has been established before a regist"
+ ]
+}

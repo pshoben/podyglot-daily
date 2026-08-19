@@ -1,0 +1,470 @@
+{
+ "title": "La actualidad de la mañana, lunes 17 de agosto",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-17",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lunes diecisiete de agosto. La actualidad de la mañana.",
+   "en": "Monday the seventeenth of August. «La actualidad de la mañana».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Perú anunció un subsidio temporal a los combustibles para contener las protestas, según La República.",
+   "en": "«Perú» announced a temporary fuel subsidy to contain the protests, according to «La República».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en Colombia, a una semana del terremoto terminaron las labores de rescate",
+   "en": "Here in «Colombia», a week after the earthquake, the rescue work has ended",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y arranca la fase de recuperación.",
+   "en": "and the recovery phase is beginning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Iniciamos con Perú. El Ejecutivo peruano estableció un subsidio temporal en los combustibles.",
+   "en": "We start with «Perú». The Peruvian executive set a temporary subsidy on fuels.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La medida busca mitigar el impacto de las alzas de precios.",
+   "en": "The measure aims to soften the impact of the price rises.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También busca contener las protestas en contra del Gobierno designado.",
+   "en": "It also aims to contain the protests against the designated government.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Así lo informó el diario La República.",
+   "en": "That is what the newspaper «La República» reported.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en Colombia, hoy se cumple una semana del terremoto que sacudió el",
+   "en": "Here in «Colombia», today marks a week since the earthquake that shook the west",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "occidente del país.",
+   "en": "of the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las labores de rescate terminaron y empieza la fase de recuperación,",
+   "en": "The rescue work has ended and the recovery phase begins,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según El Colombiano y El Tiempo.",
+   "en": "according to «El Colombiano» and «El Tiempo».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Chocó, el Eje Cafetero y el Valle del Cauca avanzan entre rescates,",
+   "en": "«El Chocó», the «Eje Cafetero» and the «Valle del Cauca» are moving between rescues,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "atención y reconstrucción.",
+   "en": "care and reconstruction.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Cali, la cifra de fallecidos ascendió a ciento treinta, con noventa",
+   "en": "In «Cali» the number of dead rose to one hundred and thirty,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y cuatro desaparecidos, según El Tiempo.",
+   "en": "with ninety four missing, according to «El Tiempo».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Más de cuatro mil cien estructuras quedaron con daños en esa ciudad.",
+   "en": "More than four thousand one hundred structures were left damaged in that city.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Alcaldía pidió crear un fondo para la reconstrucción.",
+   "en": "The city government asked for a fund to be created for the reconstruction.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "A esa emergencia se suma ahora la lluvia.",
+   "en": "To that emergency the rain is now added.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las inundaciones golpearon a Buenaventura, al Chocó y a otras zonas afectadas por el sismo.",
+   "en": "The flooding struck «Buenaventura», «El Chocó» and other areas affected by the quake.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las precipitaciones afectan refugios, viviendas e infraestructura, según El Tiempo.",
+   "en": "The rainfall is hitting shelters, homes and infrastructure, according to «El Tiempo».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las autoridades continúan atendiendo a los damnificados.",
+   "en": "The authorities are still caring for those made homeless.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En otras noticias, el Ministerio de Ambiente hizo un llamado urgente para prevenir incendios forestales.",
+   "en": "In other news, the ministry of the environment made an urgent call to prevent forest fires.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La medida busca evitar una mayor presión sobre los organismos de socorro, según El Tiempo.",
+   "en": "The measure aims to avoid greater pressure on the relief services, according to «El Tiempo».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El país sigue enfrentando la situación de emergencia.",
+   "en": "The country is still facing the emergency.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En lo económico, los empresarios",
+   "en": "On the economy, businesspeople",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y las grandes compañías movilizaron más de quinientos mil millones de pesos.",
+   "en": "and large companies mobilised more than five hundred thousand million pesos.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Son donaciones y ayudas para los damnificados y para la reconstrucción de las zonas afectadas,",
+   "en": "These are donations and aid for those affected and for the rebuilding of the damaged areas,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según El Colombiano.",
+   "en": "according to «El Colombiano».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esa estimación incluye el recaudo de doscientos un mil seiscientos treinta",
+   "en": "That estimate includes the two hundred and one thousand six hundred",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y siete millones de la campaña de la Andi.",
+   "en": "and thirty seven million collected by the «Andi» campaign.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El empresario David Vélez, fundador de Nu,",
+   "en": "The businessman «David Vélez», founder of «Nu»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "confirmó un aporte de cien mil millones de pesos.",
+   "en": "confirmed a contribution of one hundred thousand million pesos.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se suma así a las donaciones de las familias Gilinski y Santo Domingo,",
+   "en": "He joins the donations of the «Gilinski» and «Santo Domingo» families,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según El Colombiano y Semana.",
+   "en": "according to «El Colombiano» and «Semana».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La familia Gilinski destinará ciento cincuenta mil millones de pesos a hospitales",
+   "en": "The «Gilinski» family will put one hundred and fifty thousand million pesos towards hospitals",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y escuelas de Cali.",
+   "en": "and schools in «Cali».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Gobierno Nacional anunció por su parte recursos para fortalecer el sector salud en el",
+   "en": "The national government for its part announced funds to strengthen the health sector in the «Valle del",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Valle del Cauca.",
+   "en": "Cauca».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para terminar, una cifra que habla de la respuesta del país.",
+   "en": "To finish, a figure that says something about the country's response.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se han recogido más de mil ochocientas toneladas de donaciones, según Semana.",
+   "en": "More than one thousand eight hundred tonnes of donations have been collected, according to «Semana».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La revista describió esa movilización como una respuesta sin precedentes tras el terremoto.",
+   "en": "The magazine described that mobilisation as a response without precedent after the earthquake.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más importante.",
+   "en": "That is what matters most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos con el clima de hoy.",
+   "en": "We go on with today's weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "script",
+ "title_en": "The morning news, Monday 17 August",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "Peru announces a fuel subsidy to contain protests",
+ "summary_en": [
+  "Peru announces a fuel subsidy to contain protests",
+  "Rescue work ends a week after the earthquake, recovery begins",
+  "Cali: 130 dead, 94 missing, more than 4,100 damaged buildings"
+ ]
+}

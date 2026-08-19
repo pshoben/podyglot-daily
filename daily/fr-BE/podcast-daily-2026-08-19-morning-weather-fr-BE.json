@@ -1,0 +1,189 @@
+{
+ "title": "Le temps chez nous, mercredi 19 août",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-weather",
+   "wpm": 222,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-19",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Pluie, averses, éclaircies et températures de saison vont rythmer les prochains jours.",
+   "en": "Rain, showers, sunny spells and seasonal temperatures are set to shape the coming days.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est une excellente nouvelle pour les Hautes Fagnes.",
+   "en": "That is excellent news for the «Hautes Fagnes».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Libre et la DH annoncent ce changement de temps.",
+   "en": "«La Libre» and «la DH» report this change in the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voici les prévisions d'aujourd'hui, ville par ville.",
+   "en": "Here are today's forecasts, city by city.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Bruxelles, vingt degrés au plus haut et seize au plus bas.",
+   "en": "In «Bruxelles», twenty degrees at the highest and sixteen at the lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de précipitation y atteint quatre-vingt-dix-huit pour cent.",
+   "en": "The probability of precipitation there reaches ninety eight per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y souffle jusqu'à vingt kilomètres par heure.",
+   "en": "The wind there blows up to twenty kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Liège, la maximale monte à vingt-deux degrés et la minimale reste à seize.",
+   "en": "In «Liège», the maximum climbs to twenty two degrees and the minimum stays at sixteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On y attend de la pluie faible,",
+   "en": "Light rain is expected there,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un vent jusqu'à dix-neuf kilomètres par heure.",
+   "en": "with wind up to nineteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Namur, vingt et un degrés au plus haut et seize au plus bas.",
+   "en": "In «Namur», twenty one degrees at the highest and sixteen at the lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de précipitation y atteint cent pour cent,",
+   "en": "The probability of precipitation there reaches one hundred per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un vent de dix-huit kilomètres par heure.",
+   "en": "with wind of eighteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est donc à Namur que la pluie est la plus sûre des trois villes.",
+   "en": "So it is at «Namur» that the rain is the most certain of the three cities.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les trois villes gardent la même minimale, seize degrés.",
+   "en": "The three cities keep the same minimum, sixteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce sont les prévisions du modèle du Centre européen, l'ECMWF, pour cette journée.",
+   "en": "These are the forecasts of the model of the European Centre, the «ECMWF», for this day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Wednesday 19 August",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Prévision pour Bruxelles, mercredi 2026-08-19",
+ "summary_en": [
+  "Prévision pour Bruxelles, mercredi 2026-08-19",
+  "Prévision pour Liège, mercredi 2026-08-19"
+ ]
+}

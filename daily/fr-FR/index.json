@@ -1,0 +1,293 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-FR",
+ "base": "https://pshoben.github.io/podyglot-daily/",
+ "episodes": [
+  {
+   "id": "fr-FR-Le journal du matin, mercredi 19 août",
+   "file": "podcast-daily-2026-08-19-morning-news-fr-FR.json",
+   "bytes": 15405,
+   "sha256": "a88018b89672963ba6f41736fc7c2a1c1b250d516fe8d42a0c8d1be03775c0a9",
+   "date": "2026-08-19",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, mercredi 19 août",
+   "title_en": "The morning news, Wednesday 19 August",
+   "headline_en": "France will expel two Iranian diplomats posted in France. The French foreign minister anno",
+   "summary_en": [
+    "France will expel two Iranian diplomats posted in France. The French foreign minister anno",
+    "The law creating a right to assisted dying was promulgated by Emmanuel Macron and publishe",
+    "The law will not apply immediately. The government must still publish the necessary implem"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, mercredi 19 août",
+   "file": "podcast-daily-2026-08-19-morning-sport-fr-FR.json",
+   "bytes": 5977,
+   "sha256": "dc8756074adaa16d3b91a29f8d33bcacbfe559ac31f034706df2a3fa3ed80f4a",
+   "date": "2026-08-19",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, mercredi 19 août",
+   "title_en": "Today's sport, Wednesday 19 August",
+   "headline_en": "The world show jumping championships are being held in Germany, at Aachen. The France team",
+   "summary_en": [
+    "The world show jumping championships are being held in Germany, at Aachen. The France team",
+    "The first matchday of the 2026-2027 Ligue 1 season is being played this weekend. Le Mans F"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, mercredi 19 août",
+   "file": "podcast-daily-2026-08-19-morning-weather-fr-FR.json",
+   "bytes": 7616,
+   "sha256": "7760ae0a578b407f0683527c26413215a1bbcbf9ccb2ff2024e2eaf5f2e14bd1",
+   "date": "2026-08-19",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, mercredi 19 août",
+   "title_en": "Today's weather, Wednesday 19 August",
+   "headline_en": "Prévision pour Paris, mercredi 2026-08-19",
+   "summary_en": [
+    "Prévision pour Paris, mercredi 2026-08-19",
+    "Prévision pour Bordeaux, mercredi 2026-08-19"
+   ]
+  },
+  {
+   "id": "fr-FR-Le journal du matin, mardi 18 août",
+   "file": "podcast-daily-2026-08-18-morning-news-fr-FR.json",
+   "bytes": 12247,
+   "sha256": "c0db49c216a0495afcf7bd8403a14e896c3a65da507c9da1e29f1bb9ead99963",
+   "date": "2026-08-18",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, mardi 18 août",
+   "title_en": "The morning news, Tuesday 18 August",
+   "headline_en": "Sophie Adenot becomes on Tuesday the first Frenchwoman to make a spacewalk, leaving the IS",
+   "summary_en": [
+    "Sophie Adenot becomes on Tuesday the first Frenchwoman to make a spacewalk, leaving the IS",
+    "Meteo-France lifted the orange heatwave warning in the last six departments on Tuesday, de",
+    "The school return allowance is paid on Tuesday to nearly three million low-income househol"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, mardi 18 août",
+   "file": "podcast-daily-2026-08-18-morning-weather-fr-FR.json",
+   "bytes": 5462,
+   "sha256": "9082fbff08c505112e3d3757f6b27bde3d4afab2586dccaaa3003b689443b07e",
+   "date": "2026-08-18",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, mardi 18 août",
+   "title_en": "Today's weather, Tuesday 18 August",
+   "headline_en": "Prévision pour Paris, mardi 2026-08-18",
+   "summary_en": [
+    "Prévision pour Paris, mardi 2026-08-18",
+    "Prévision pour Bordeaux, mardi 2026-08-18"
+   ]
+  },
+  {
+   "id": "fr-FR-Le journal du matin, lundi 17 août",
+   "file": "podcast-daily-2026-08-17-morning-news-fr-FR.json",
+   "bytes": 16095,
+   "sha256": "21cf704a68c7ee7f25df84ede6e1e839116a91cee2eed4af97c9a8af561faf12",
+   "date": "2026-08-17",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, lundi 17 août",
+   "title_en": "The morning news, Monday 17 August",
+   "headline_en": "Kushner meets Netanyahu in Israel after talks with Hamas",
+   "summary_en": [
+    "Kushner meets Netanyahu in Israel after talks with Hamas",
+    "Ebola epidemic in DR Congo becomes the country's deadliest",
+    "Lecornu in Gironde: fire aid could exceed 100 million euros"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, lundi 17 août",
+   "file": "podcast-daily-2026-08-17-morning-weather-fr-FR.json",
+   "bytes": 5246,
+   "sha256": "3631497346c0e30ad9888c3ad2f98c726f3aa3b98d8b2b451bbdf4a76fc5fe12",
+   "date": "2026-08-17",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, lundi 17 août",
+   "title_en": "Today's weather, Monday 17 August",
+   "headline_en": "Paris: 29 degrees",
+   "summary_en": [
+    "Paris: 29 degrees",
+    "Marseille: 33 degrees"
+   ]
+  },
+  {
+   "id": "fr-FR-Le journal du soir, lundi 17 août",
+   "file": "podcast-daily-2026-08-17-evening-news-fr-FR.json",
+   "bytes": 12529,
+   "sha256": "0facd5c585c808fd75fbb1277b0c10ea3a7b4f85fb68fa141f34e38912db1a3c",
+   "date": "2026-08-17",
+   "edition": "evening",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du soir, lundi 17 août",
+   "title_en": "The evening news, Monday 17 August",
+   "headline_en": "Eight Muslim countries condemn the Israeli refusal to pursue the Gaza plan",
+   "summary_en": [
+    "Eight Muslim countries condemn the Israeli refusal to pursue the Gaza plan",
+    "Lecornu answers criticism in Gironde as the reconstruction mission starts",
+    "July megafire forced 220,000 to evacuate; worst since 1949"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, lundi 17 août",
+   "file": "podcast-daily-2026-08-17-evening-weather-fr-FR.json",
+   "bytes": 7102,
+   "sha256": "ef078a2c772d09acd0c1f2ace28463deacb092e0b647f6acf77c758602d3361f",
+   "date": "2026-08-17",
+   "edition": "evening",
+   "programme": "weather",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, lundi 17 août",
+   "title_en": "The forecast, Monday 17 August",
+   "headline_en": "Prévision pour Paris, demain, mardi 2026-08-18",
+   "summary_en": [
+    "Prévision pour Paris, demain, mardi 2026-08-18",
+    "Prévision pour Paris, mercredi 2026-08-19"
+   ]
+  },
+  {
+   "id": "fr-FR-Les résultats, lundi 17 août",
+   "file": "podcast-daily-2026-08-17-evening-results-fr-FR.json",
+   "bytes": 5200,
+   "sha256": "439cdd130f6c60a9b1fabf1883b8cd5ef3b1def69c44cae4d688a7b33e655dda",
+   "date": "2026-08-17",
+   "edition": "evening",
+   "programme": "results",
+   "programme_order": 3,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Les résultats, lundi 17 août",
+   "title_en": "Results, Monday 17 August",
+   "headline_en": "Leon Marchand took two individual titles including the 400 metres freestyle on Sunday even",
+   "summary_en": [
+    "Leon Marchand took two individual titles including the 400 metres freestyle on Sunday even",
+    "At the European athletics championships in Birmingham, which ended on Sunday, France leave"
+   ]
+  },
+  {
+   "id": "fr-FR-Le journal du soir, dimanche 16 août",
+   "file": "podcast-daily-2026-08-16-news-fr-FR.json",
+   "bytes": 12462,
+   "sha256": "7e9f43737ae5a1f9d2c1ec9fc46ace97f8aec07177d5a05a3924991766521eba",
+   "date": "2026-08-16",
+   "edition": "legacy",
+   "programme": "news",
+   "programme_order": null,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du soir, dimanche 16 août",
+   "title_en": "The evening news, Sunday 16 August",
+   "headline_en": "Moscow region says it was hit by around 600 drones overnight",
+   "summary_en": [
+    "Moscow region says it was hit by around 600 drones overnight",
+    "Tax-office data breach: the Prime Minister convenes a crisis unit on Monday",
+    "Around 678,000 tax-office users affected by the breach"
+   ]
+  },
+  {
+   "id": "fr-FR-Les résultats, dimanche 16 août",
+   "file": "podcast-daily-2026-08-16-results-fr-FR.json",
+   "bytes": 4634,
+   "sha256": "d7d387f41097e6e043efb5044e3a6659d0a05122fc3fc4c150435265ad0f6ce8",
+   "date": "2026-08-16",
+   "edition": "legacy",
+   "programme": "results",
+   "programme_order": null,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Les résultats, dimanche 16 août",
+   "title_en": "Results, Sunday 16 August",
+   "headline_en": "Heats of the 400m freestyle at the European championships",
+   "summary_en": [
+    "Heats of the 400m freestyle at the European championships",
+    "The 200m butterfly at the European championships"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, dimanche 16 août",
+   "file": "podcast-daily-2026-08-16-sport-fr-FR.json",
+   "bytes": 4449,
+   "sha256": "e653f5110262f5f47576d75bab39b166acf652cc29f867226795d055a0ea62cf",
+   "date": "2026-08-16",
+   "edition": "legacy",
+   "programme": "sport",
+   "programme_order": null,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, dimanche 16 août",
+   "title_en": "Sport, Sunday 16 August",
+   "headline_en": "PSG meet Lens at Bollaert for the Trophee des champions, penalties if level",
+   "summary_en": [
+    "PSG meet Lens at Bollaert for the Trophee des champions, penalties if level",
+    "The medley relay closes the European championships on Sunday evening"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, dimanche 16 août",
+   "file": "podcast-daily-2026-08-16-weather-fr-FR.json",
+   "bytes": 6127,
+   "sha256": "7b166c9250aa2f7e656ecc1efa59e422860626763c8084b6e213a62dc5170b35",
+   "date": "2026-08-16",
+   "edition": "legacy",
+   "programme": "weather",
+   "programme_order": null,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, dimanche 16 août",
+   "title_en": "The weather, Sunday 16 August",
+   "headline_en": "The heatwave retreats: six south-eastern departments stay on orange from 6am Monday",
+   "summary_en": [
+    "The heatwave retreats: six south-eastern departments stay on orange from 6am Monday",
+    "Air-pollution alert in the Moselle from the Belgian wildfire smoke"
+   ]
+  }
+ ]
+}

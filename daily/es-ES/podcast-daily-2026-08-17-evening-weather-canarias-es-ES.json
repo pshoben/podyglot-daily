@@ -1,0 +1,233 @@
+{
+ "title": "El tiempo en Canarias, lunes 17 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-canarias",
+   "wpm": 208,
+   "rate_multiplier": 0.86,
+   "pitch_multiplier": 0.59
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-canarias",
+ "date": "2026-08-17",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El tiempo en Canarias, para mañana y para los próximos días.",
+   "en": "The weather in the «Canarias», for tomorrow and for the days ahead.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Con el alisio del norte,",
+   "en": "With the trade wind from the north,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "las islas se mueven muy poco en los cuatro días.",
+   "en": "the islands barely move across the four days.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Las Palmas de Gran Canaria se esperan mañana veintisiete grados de máxima",
+   "en": "In «Las Palmas de Gran Canaria», twenty seven degrees are expected tomorrow at the highest",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y veintitrés de mínima, según la AEMET.",
+   "en": "and twenty three at the lowest, according to «AEMET».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo queda con intervalos nubosos",
+   "en": "The sky keeps broken cloud",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la probabilidad de lluvia se queda en el diez por ciento.",
+   "en": "and the chance of rain stays at ten per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El miércoles la máxima sube un grado, hasta veintiocho, con el cielo nuboso.",
+   "en": "On Wednesday the high climbs a degree, to twenty eight, with a cloudy sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El jueves se repite la cifra, veintiocho grados,",
+   "en": "On Thursday the figure repeats, twenty eight degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la probabilidad de lluvia sube al veinticinco por ciento.",
+   "en": "and the chance of rain rises to twenty five per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viernes, otra vez veintiocho de máxima y veinticuatro de mínima.",
+   "en": "On Friday, twenty eight again at the highest and twenty four at the lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Santa Cruz de Tenerife la máxima se queda en treinta y uno mañana,",
+   "en": "In «Santa Cruz de Tenerife» the high stays at thirty one tomorrow,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con veintitrés de mínima.",
+   "en": "with twenty three at the lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí el cielo trae nubes altas y no hay probabilidad de lluvia.",
+   "en": "There the sky brings high cloud and there is no chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El miércoles, treinta y uno de nuevo, con intervalos nubosos.",
+   "en": "On Wednesday, thirty one again, with broken cloud.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El jueves llega lluvia escasa por la mañana,",
+   "en": "On Thursday light rain arrives in the morning,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "aunque la máxima no se mueve de treinta y uno.",
+   "en": "though the high does not move from thirty one.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viernes, treinta y uno de máxima y veinticuatro de mínima, según la AEMET.",
+   "en": "On Friday, thirty one at the highest and twenty four at the lowest, according to «AEMET».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El índice ultravioleta máximo llega a diez el viernes en Las Palmas.",
+   "en": "The maximum ultraviolet index reaches ten on Friday in «Las Palmas».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es Canarias para lo que queda de semana.",
+   "en": "That is the «Canarias» for the rest of the week.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "The forecast, Canary Islands, Monday 17 August",
+ "edition": "evening",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Canarias",
+ "accent": "Canarias",
+ "accent_label": "acento de Canarias",
+ "segment_order": 2,
+ "headline_en": "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-18",
+ "summary_en": [
+  "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-18",
+  "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-19"
+ ]
+}

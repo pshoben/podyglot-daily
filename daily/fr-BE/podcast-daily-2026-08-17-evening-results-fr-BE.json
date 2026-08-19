@@ -1,0 +1,148 @@
+{
+ "title": "Les scores, lundi 17 août",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-results",
+   "wpm": 222,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "results",
+ "date": "2026-08-17",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Voici les scores du jour, et il n'y en a qu'un :",
+   "en": "Here are today's scores, and there is only one:",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le hockey, à la Coupe du monde de Wavre.",
+   "en": "hockey, at the World Cup in «Wavre».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Si vous préférez ne pas entendre ces scores, avancez maintenant.",
+   "en": "If you would rather not hear these scores, move ahead now.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les Red Panthers ont lancé leur Coupe du monde à domicile, à Wavre.",
+   "en": "The «Red Panthers» opened their home World Cup at «Wavre».",
+   "prosody": {
+    "pause_ms": 4000,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elles ont nettement dominé la Nouvelle-Zélande, cinq buts à deux.",
+   "en": "They clearly beat New Zealand, five goals to two.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Justine Rasir a signé un doublé dans cette rencontre.",
+   "en": "«Justine Rasir» scored twice in the match.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Stéphanie Vanden Borre, Emma Puvrez et Charlotte Englebert ont ajouté les trois autres buts.",
+   "en": "«Stéphanie Vanden Borre», «Emma Puvrez» and «Charlotte Englebert» added the other three goals.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Leur entraîneur, Adam Commens, s'est dit ravi de l'impact des plus jeunes joueuses.",
+   "en": "Their coach, «Adam Commens», said he was delighted with the impact of the youngest players.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Chez les hommes, les Red Lions affrontent les champions du monde allemands pour",
+   "en": "On the men's side, the «Red Lions» face the German world champions in",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "leur deuxième match.",
+   "en": "their second match.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce match n'avait pas encore commencé.",
+   "en": "That match had not yet started.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Fin des scores.",
+   "en": "End of the scores.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 3,
+ "handover": "junction",
+ "title_en": "Results, Monday 17 August",
+ "edition": "evening",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Red Panthers open their World Cup in Wavre with a 5-2 win",
+ "summary_en": [
+  "Red Panthers open their World Cup in Wavre with a 5-2 win"
+ ]
+}

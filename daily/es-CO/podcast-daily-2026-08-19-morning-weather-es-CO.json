@@ -1,0 +1,239 @@
+{
+ "title": "El clima de hoy, miércoles 19 de agosto",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-weather",
+   "wpm": 195,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-19",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Así está el cielo en Bogotá,",
+   "en": "Here is the sky in «Bogota»,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en Medellín y en Cali.",
+   "en": "in «Medellin» and in «Cali».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Bogotá, cielo con llovizna.",
+   "en": "In «Bogota», drizzle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Máxima de veintiún grados y mínima de once.",
+   "en": "A high of twenty-one degrees and a low of eleven.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación es del cincuenta y siete por ciento,",
+   "en": "The chance of precipitation is fifty-seven per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con viento de hasta doce kilómetros por hora.",
+   "en": "with wind of up to twelve kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Medellín, cielo nuboso.",
+   "en": "In «Medellin», cloudy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Máxima de treinta grados y mínima de dieciséis.",
+   "en": "A high of thirty degrees and a low of sixteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ahí la probabilidad de precipitación baja al quince por ciento,",
+   "en": "There the chance of precipitation drops to fifteen per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el viento llega a quince kilómetros por hora.",
+   "en": "and the wind reaches fifteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Cali, cielo con llovizna.",
+   "en": "In «Cali», drizzle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Máxima de veintinueve grados y mínima de veintidós.",
+   "en": "A high of twenty-nine degrees and a low of twenty-two.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Probabilidad de precipitación del cincuenta y cinco por ciento",
+   "en": "Chance of precipitation fifty-five per cent",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y viento de hasta ocho kilómetros por hora.",
+   "en": "and wind of up to eight kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De las tres, Bogotá se queda con la noche más fría, once grados,",
+   "en": "Of the three, «Bogota» takes the coldest night,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "justo la mitad de la mínima de Cali.",
+   "en": "eleven degrees, exactly half «Cali»'s low.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el día más seco es el de Medellín:",
+   "en": "And the driest day is «Medellin»'s: a",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "quince por ciento de probabilidad de lluvia,",
+   "en": "fifteen per cent chance of rain,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "frente al cincuenta y cinco de Cali y el cincuenta y siete de Bogotá.",
+   "en": "against fifty-five in «Cali» and fifty-seven in «Bogota».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Estas cifras vienen del modelo del Centro Europeo, el ECMWF.",
+   "en": "These figures come from the European Centre model, the «ECMWF».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y eso es todo por hoy en el tiempo.",
+   "en": "And that is all for today on the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Wednesday 19 August",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "Previsión para Bogotá, miércoles 2026-08-19",
+ "summary_en": [
+  "Previsión para Bogotá, miércoles 2026-08-19",
+  "Previsión para Medellín, miércoles 2026-08-19"
+ ]
+}

@@ -1,0 +1,209 @@
+{
+ "title": "Le bulletin météo, mardi 18 août",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-weather",
+   "wpm": 185,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-18",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le temps pour aujourd'hui, d'une région québécoise à l'autre.",
+   "en": "The weather for today, from one Quebec region to another.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Montréal, maximum vingt-sept degrés et minimum dix-huit.",
+   "en": "In «Montréal», a high of twenty seven degrees and a low of eighteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ciel restera couvert.",
+   "en": "The sky will stay overcast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de précipitation s'établit à quinze pour cent.",
+   "en": "The chance of rain stands at fifteen per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent maximal atteindra dix kilomètres à l'heure.",
+   "en": "The maximum wind will reach ten kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Vingt-sept degrés, c'est la valeur la plus élevée des trois régions.",
+   "en": "Twenty seven degrees is the highest figure of the three regions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Québec, maximum vingt-quatre degrés et minimum dix-sept.",
+   "en": "In «Québec», a high of twenty four degrees and a low of seventeen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De la bruine est attendue.",
+   "en": "Drizzle is expected.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de précipitation n'est pourtant que de six pour cent.",
+   "en": "The chance of rain is nevertheless only six per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent maximal atteindra quatorze kilomètres à l'heure.",
+   "en": "The maximum wind will reach fourteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est le vent le plus fort des trois régions.",
+   "en": "That is the strongest wind of the three regions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au Saguenay, maximum vingt-quatre degrés et minimum treize.",
+   "en": "In «Saguenay», a high of twenty four degrees and a low of thirteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ciel y sera couvert, comme à Montréal.",
+   "en": "The sky there will be overcast, as in «Montréal».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de précipitation descend à cinq pour cent.",
+   "en": "The chance of rain falls to five per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent maximal atteindra sept kilomètres à l'heure.",
+   "en": "The maximum wind will reach seven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Treize degrés au plus bas, c'est le minimum le plus frais des trois.",
+   "en": "Thirteen degrees at the lowest is the coolest low of the three.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ces chiffres viennent du modèle GEM d'Environnement Canada.",
+   "en": "These figures come from Environment Canada's «GEM» model.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo de ce mardi.",
+   "en": "That is the weather for this Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Tuesday 18 August",
+ "edition": "morning",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "Forecast for Montreal, Tuesday 2026-08-18: high 27 degrees, low 18; overcast; 15 per cent",
+ "summary_en": [
+  "Forecast for Montreal, Tuesday 2026-08-18: high 27 degrees, low 18; overcast; 15 per cent",
+  "Forecast for Quebec City, Tuesday 2026-08-18: high 24 degrees, low 17; with drizzle; 6 per"
+ ]
+}

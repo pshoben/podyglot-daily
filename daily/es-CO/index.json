@@ -1,0 +1,192 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-CO",
+ "base": "https://pshoben.github.io/podyglot-daily/",
+ "episodes": [
+  {
+   "id": "es-CO-La actualidad de la mañana, miércoles 19 de agosto",
+   "file": "podcast-daily-2026-08-19-morning-news-es-CO.json",
+   "bytes": 17335,
+   "sha256": "27cec1f8ddbea8fd1a8311ed815f568aff11466a14521ed6f66d4cff5e4d7634",
+   "date": "2026-08-19",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "La actualidad de la mañana, miércoles 19 de agosto",
+   "title_en": "The morning news, Wednesday 19 August",
+   "headline_en": "President Abelardo de la Espriella and vice-president Jose Manuel Restrepo handed on Tuesd",
+   "summary_en": [
+    "President Abelardo de la Espriella and vice-president Jose Manuel Restrepo handed on Tuesd",
+    "The attorney general's office will hold on Monday 24 August a charging hearing for the off",
+    "The parliament of Ukraine ratified the appointment of Yevgueni Khmara as the new defence m"
+   ]
+  },
+  {
+   "id": "es-CO-El clima de hoy, miércoles 19 de agosto",
+   "file": "podcast-daily-2026-08-19-morning-weather-es-CO.json",
+   "bytes": 5463,
+   "sha256": "04060a6473da4ce23407a26892150da717fc73e9f351590e1bbd5be64f38409e",
+   "date": "2026-08-19",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "El clima de hoy, miércoles 19 de agosto",
+   "title_en": "Today's weather, Wednesday 19 August",
+   "headline_en": "Previsión para Bogotá, miércoles 2026-08-19",
+   "summary_en": [
+    "Previsión para Bogotá, miércoles 2026-08-19",
+    "Previsión para Medellín, miércoles 2026-08-19"
+   ]
+  },
+  {
+   "id": "es-CO-La actualidad de la mañana, martes 18 de agosto",
+   "file": "podcast-daily-2026-08-18-morning-news-es-CO.json",
+   "bytes": 14022,
+   "sha256": "f9bd99031a50cb8ebf68504e98c6e828317c6f4bf4895543f575861b823386a3",
+   "date": "2026-08-18",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "La actualidad de la mañana, martes 18 de agosto",
+   "title_en": "The morning news, Tuesday 18 August",
+   "headline_en": "A magnitude 4.7 earthquake struck Granada, Spain, and its metropolitan area on Tuesday, la",
+   "summary_en": [
+    "A magnitude 4.7 earthquake struck Granada, Spain, and its metropolitan area on Tuesday, la",
+    "A week after the Choco earthquake the UNGRD balance stands at 304 dead and 4,548 injured,",
+    "President Abelardo De La Espriella announced the Vivienda Milagro plan after the earthquak"
+   ]
+  },
+  {
+   "id": "es-CO-La jornada deportiva, martes 18 de agosto",
+   "file": "podcast-daily-2026-08-18-morning-sport-es-CO.json",
+   "bytes": 4426,
+   "sha256": "c179af3b1b13b3cedf3ab82a484a3de8248e23d77dbafeb1af99b70b2d3a413a",
+   "date": "2026-08-18",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "La jornada deportiva, martes 18 de agosto",
+   "title_en": "Today's sport, Tuesday 18 August",
+   "headline_en": "Movistar confirmed that Nairo Quintana will not take part in the Vuelta a Espana 2026, des",
+   "summary_en": [
+    "Movistar confirmed that Nairo Quintana will not take part in the Vuelta a Espana 2026, des",
+    "Argentine Jose Maria Bazan, aged 54, joins Nestor Lorenzo's staff with the Colombia nation"
+   ]
+  },
+  {
+   "id": "es-CO-El clima de hoy, martes 18 de agosto",
+   "file": "podcast-daily-2026-08-18-morning-weather-es-CO.json",
+   "bytes": 5099,
+   "sha256": "c0f0020d3c59f353ea1cfe3b93a2ffa4e4ef626ff3a737d87a0e20d5d6cf4cd3",
+   "date": "2026-08-18",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "El clima de hoy, martes 18 de agosto",
+   "title_en": "Today's weather, Tuesday 18 August",
+   "headline_en": "Forecast for Bogota, Tuesday 2026-08-18: high 18 degrees, low 11; sky with drizzle; 90 per",
+   "summary_en": [
+    "Forecast for Bogota, Tuesday 2026-08-18: high 18 degrees, low 11; sky with drizzle; 90 per",
+    "Forecast for Medellin, Tuesday 2026-08-18: high 26 degrees, low 18; sky with drizzle; 81 p"
+   ]
+  },
+  {
+   "id": "es-CO-La actualidad de la mañana, lunes 17 de agosto",
+   "file": "podcast-daily-2026-08-17-morning-news-es-CO.json",
+   "bytes": 12218,
+   "sha256": "20a2eb2a81854bcf7d81b26e7f41b0ef3dbc479febb4137f9b3d74c7f113fd8a",
+   "date": "2026-08-17",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "La actualidad de la mañana, lunes 17 de agosto",
+   "title_en": "The morning news, Monday 17 August",
+   "headline_en": "Peru announces a fuel subsidy to contain protests",
+   "summary_en": [
+    "Peru announces a fuel subsidy to contain protests",
+    "Rescue work ends a week after the earthquake, recovery begins",
+    "Cali: 130 dead, 94 missing, more than 4,100 damaged buildings"
+   ]
+  },
+  {
+   "id": "es-CO-El clima de hoy, lunes 17 de agosto",
+   "file": "podcast-daily-2026-08-17-morning-weather-es-CO.json",
+   "bytes": 4600,
+   "sha256": "67a0ccd34461508fac9ace55c1e826a33d8748dadf79160949aef9e1f6838e95",
+   "date": "2026-08-17",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "El clima de hoy, lunes 17 de agosto",
+   "title_en": "Today's weather, Monday 17 August",
+   "headline_en": "Bogotá: 18 degrees",
+   "summary_en": [
+    "Bogotá: 18 degrees",
+    "Medellín: 26 degrees"
+   ]
+  },
+  {
+   "id": "es-CO-El clima de hoy, lunes 17 de agosto",
+   "file": "podcast-daily-2026-08-17-evening-weather-es-CO.json",
+   "bytes": 6738,
+   "sha256": "87f1c3cde472f7ef800326b72852ac160171c8c815452ecd5644529c94c89c24",
+   "date": "2026-08-17",
+   "edition": "evening",
+   "programme": "weather",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "El clima de hoy, lunes 17 de agosto",
+   "title_en": "The forecast, Monday 17 August",
+   "headline_en": "Previsión para Bogotá, mañana, martes 2026-08-18",
+   "summary_en": [
+    "Previsión para Bogotá, mañana, martes 2026-08-18",
+    "Previsión para Bogotá, miércoles 2026-08-19"
+   ]
+  },
+  {
+   "id": "es-CO-La actualidad del día, domingo 16 de agosto",
+   "file": "podcast-daily-2026-08-16-news-es-CO.json",
+   "bytes": 12027,
+   "sha256": "ef6aadc30ffe804a9fd8b88ad8cf86f665b55c7180f7315770155346c90dded5",
+   "date": "2026-08-16",
+   "edition": "legacy",
+   "programme": "news",
+   "programme_order": null,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "La actualidad del día, domingo 16 de agosto",
+   "title_en": "The evening news, Sunday 16 August",
+   "headline_en": "Ecuador's president and first lady lose the child they were expecting",
+   "summary_en": [
+    "Ecuador's president and first lady lose the child they were expecting",
+    "Missing after the earthquake rises to 423",
+    "A soldier killed in a drone attack in Norte de Santander"
+   ]
+  }
+ ]
+}

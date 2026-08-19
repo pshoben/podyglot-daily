@@ -1,0 +1,660 @@
+{
+ "title": "La actualidad de la mañana, miércoles 19 de agosto",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-19",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Miércoles diecinueve de agosto, doce y veinte del día en Bogotá.",
+   "en": "Wednesday the nineteenth of August, twenty past twelve in Bogota.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La actualidad de la mañana.",
+   "en": "The morning's news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El nuevo gobierno entregó a la Fiscalía un informe con más de ochenta casos de",
+   "en": "The new government handed the attorney general's office a report with more than eighty cases of",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "presuntas irregularidades del gobierno anterior.",
+   "en": "alleged irregularities by the previous government.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y cuatro funcionarios de la Nueva EPS responderán por la muerte del menor Kevin Acosta.",
+   "en": "And four «Nueva EPS» officials will answer for the death of the child «Kevin Acosta».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos por el informe.",
+   "en": "We start with the report.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El presidente Abelardo de la Espriella",
+   "en": "President «Abelardo de la Espriella» and",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el vicepresidente José Manuel Restrepo lo entregaron el martes.",
+   "en": "vice-president «Jose Manuel Restrepo» handed it over on Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo recibieron la fiscal general, Luz Adriana Camargo, el procurador Gregorio Eljach",
+   "en": "It was received by the attorney general, «Luz Adriana Camargo», the inspector general, «Gregorio Eljach», and",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el contralor saliente, Carlos Rodríguez.",
+   "en": "the outgoing comptroller, «Carlos Rodriguez».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El documento se llama el Libro de la Verdad y tiene ciento treinta",
+   "en": "The document is called the Book of Truth and runs to a hundred",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y cinco páginas repartidas en cinco capítulos.",
+   "en": "and thirty-five pages across five chapters.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De la Espriella denunció una nómina paralela de unas novecientas mil órdenes de",
+   "en": "De la Espriella alleged a parallel payroll of some nine hundred",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "prestación de servicios.",
+   "en": "thousand service contracts.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sobre la unidad de gestión del riesgo, la UNGRD,",
+   "en": "On the disaster risk unit, the «UNGRD»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dijo que se giraron ochocientos cincuenta",
+   "en": "he said eight hundred",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y seis mil millones de pesos sin declaratoria de urgencia manifiesta.",
+   "en": "and fifty-six thousand million pesos were paid out with no declaration of manifest urgency.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y que se perdió el rastro de un coma treinta y ocho billones de pesos.",
+   "en": "And that the trail was lost on one point three eight billion pesos.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En reforma agraria, el gobierno saliente habría pagado casi un billón de pesos por quinientos",
+   "en": "On land reform, the outgoing government is said to have paid almost a billion pesos for five hundred",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "treinta y siete predios, y solo tres quedaron titulados a nombre de la Nación.",
+   "en": "and thirty-seven properties, and only three ended up titled in the Nation's name.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esto es un golpe silencioso al bolsillo de los colombianos, dijo Restrepo.",
+   "en": "This is a silent blow to Colombians' pockets, said «Restrepo».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El procurador Eljach respondió que ya hay varias investigaciones andando,",
+   "en": "Inspector general «Eljach» answered that several investigations are already running,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y que se abrirán los procesos que se tengan que abrir.",
+   "en": "and that the proceedings that have to be opened will be opened.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La fiscal Camargo dijo que el contenido será objeto de valoración técnica y jurídica.",
+   "en": "Attorney general «Camargo» said the content will be subject to technical and legal assessment.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El expresidente Álvaro Uribe reaccionó y enumeró diez preocupaciones.",
+   "en": "Former president «Alvaro Uribe» reacted and listed ten concerns.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Gustavo Petro, por su parte, también se pronunció.",
+   "en": "«Gustavo Petro», for his part, also had his say.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Colombiano, El Tiempo y Semana desglosan el documento capítulo por capítulo.",
+   "en": "«El Colombiano», «El Tiempo» and «Semana» break the document down chapter by chapter.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasamos a la salud.",
+   "en": "We move to health.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Fiscalía llevará a cabo el lunes veinticuatro de agosto una audiencia de imputación por",
+   "en": "The attorney general's office will hold, on Monday the twenty-fourth of August,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "homicidio culposo contra cuatro personas.",
+   "en": "a charging hearing for negligent homicide against four people.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Kevin Acosta era un menor que padecía hemofilia,",
+   "en": "«Kevin Acosta» was a child with haemophilia,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y su caso desató cuestionamientos por una posible negligencia en la Nueva EPS.",
+   "en": "and his case raised questions about possible negligence at «Nueva EPS».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Entre los citados están el entonces interventor de la Nueva EPS, Luis Óscar Galves,",
+   "en": "Among those summoned are the then comptroller of «Nueva EPS», «Luis Oscar Galves»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el auditor Nelson Ramírez.",
+   "en": "and the auditor «Nelson Ramirez».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También las funcionarias Jessika Paola Triana y Diana Marcela Caballero.",
+   "en": "Also the officials «Jessika Paola Triana» and «Diana Marcela Caballero».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La investigación se relaciona además con la presunta filtración de la historia clínica del menor.",
+   "en": "The investigation is also connected to the alleged leaking of the child's clinical records.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por eso se remitieron copias a la Comisión de Investigación y Acusación de la Cámara,",
+   "en": "For that reason copies were sent to the Chamber's investigation and accusation commission,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para determinar si hay responsabilidad del expresidente Petro.",
+   "en": "to determine whether former president «Petro» bears responsibility.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Procuraduría concluyó que la falta del medicamento emicizumab puso al niño en una",
+   "en": "The inspector general's office concluded that the lack of the medicine «emicizumab» put the child in",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "situación clínica crítica.",
+   "en": "a critical clinical situation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Colombiano, El Tiempo y Semana coinciden en la lista de citados.",
+   "en": "«El Colombiano», «El Tiempo» and «Semana» agree on the list of those summoned.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Miramos ahora al exterior.",
+   "en": "We look now beyond our borders.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Parlamento de Ucrania ratificó a Yevgueni Khmara como nuevo ministro de Defensa.",
+   "en": "The parliament of Ukraine has ratified «Yevgueni Khmara» as the new defence minister.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Reemplaza a Mijailo Fedorov, cuya destitución en julio sacó a miles de manifestantes a la",
+   "en": "He replaces «Mijailo Fedorov», whose dismissal in July brought thousands of demonstrators onto the street,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "calle, en unas protestas poco habituales.",
+   "en": "in unusual protests.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Fedorov pide ahora elecciones en plena guerra.",
+   "en": "«Fedorov» is now calling for elections in the middle of the war.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Desde julio Ucrania también tiene nuevo jefe del Ejército, Mijailo Drapati.",
+   "en": "Since July Ukraine also has a new army chief, «Mijailo Drapati».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo cuentan El Tiempo y La República.",
+   "en": "«El Tiempo» and «La Republica» carry it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cerramos con una buena noticia.",
+   "en": "We close with a piece of good news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las autoridades rescataron a Leidy Vergara Molina, de diecinueve años.",
+   "en": "The authorities have rescued «Leidy Vergara Molina», nineteen years old.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es la hija del comerciante y creador de contenido Hilder Vergara,",
+   "en": "She is the daughter of the trader and content creator «Hilder Vergara»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "conocido en redes como Paisa Ayuda.",
+   "en": "known online as «Paisa Ayuda».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La joven fue secuestrada el martes en el barrio San José de Maicao,",
+   "en": "The young woman was kidnapped on Tuesday in the San Jose neighbourhood of «Maicao», in «La",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en La Guajira, cuando iba en moto hacia su casa.",
+   "en": "Guajira», as she rode home on a motorcycle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Varios hombres encapuchados la interceptaron y la subieron a la fuerza a un vehículo.",
+   "en": "Several hooded men intercepted her and forced her into a vehicle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su padre estaba fuera de Maicao,",
+   "en": "Her father was away from «Maicao»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "entregando ayudas humanitarias en el Chocó a los damnificados por el terremoto.",
+   "en": "delivering humanitarian aid in Choco to those hit by the earthquake.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es el segundo secuestro reportado en la ciudad en lo que va de agosto.",
+   "en": "It is the second kidnapping reported in the town so far in August.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se ofrecía una recompensa de hasta ciento veinte millones de pesos por información",
+   "en": "A reward of up to a hundred and twenty million pesos had been offered for",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sobre su paradero.",
+   "en": "information on her whereabouts.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El rescate está contado en El Colombiano y en El Tiempo.",
+   "en": "The rescue is told in «El Colombiano» and in «El Tiempo».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esta mañana la familia confirmó que ya está con ellos.",
+   "en": "This morning the family confirmed that she is back with them.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Con eso cerramos el repaso del día.",
+   "en": "With that we close the day's round-up.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Wednesday 19 August",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "President Abelardo de la Espriella and vice-president Jose Manuel Restrepo handed on Tuesd",
+ "summary_en": [
+  "President Abelardo de la Espriella and vice-president Jose Manuel Restrepo handed on Tuesd",
+  "The attorney general's office will hold on Monday 24 August a charging hearing for the off",
+  "The parliament of Ukraine ratified the appointment of Yevgueni Khmara as the new defence m"
+ ]
+}

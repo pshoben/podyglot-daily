@@ -1,0 +1,169 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-CL",
+ "base": "https://pshoben.github.io/podyglot-daily/",
+ "episodes": [
+  {
+   "id": "es-CL-Las noticias de la mañana, miércoles 19 de agosto",
+   "file": "podcast-daily-2026-08-19-morning-news-es-CL.json",
+   "bytes": 15173,
+   "sha256": "51ff7ab1f05f06887aaa1f718ee8534c6ff1c788378fdf8ae6fa5cd9e0eaeecf",
+   "date": "2026-08-19",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "Las noticias de la mañana, miércoles 19 de agosto",
+   "title_en": "The morning news, Wednesday 19 August",
+   "headline_en": "Intense rains caused by a cut-off low brought ravines into flood and mudslides in Iquique,",
+   "summary_en": [
+    "Intense rains caused by a cut-off low brought ravines into flood and mudslides in Iquique,",
+    "The government's constitutional security reform provides for a new state of exception, cha",
+    "In a new phase of Operation Cancerbero, prisoners were moved from Valparaiso to the new hi"
+   ]
+  },
+  {
+   "id": "es-CL-El estado del tiempo, miércoles 19 de agosto",
+   "file": "podcast-daily-2026-08-19-morning-weather-es-CL.json",
+   "bytes": 5299,
+   "sha256": "e36e8af656808a62187ed9d594e892e59271d9a7f81d73107e73e592978f917a",
+   "date": "2026-08-19",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "El estado del tiempo, miércoles 19 de agosto",
+   "title_en": "Today's weather, Wednesday 19 August",
+   "headline_en": "Previsión para Santiago, miércoles 2026-08-19",
+   "summary_en": [
+    "Previsión para Santiago, miércoles 2026-08-19",
+    "Previsión para Valparaíso, miércoles 2026-08-19"
+   ]
+  },
+  {
+   "id": "es-CL-Las noticias de la mañana, martes 18 de agosto",
+   "file": "podcast-daily-2026-08-18-morning-news-es-CL.json",
+   "bytes": 7751,
+   "sha256": "9f364cba4c9c6dfd66ada616a4c0adc6f9677bb919a35082d23e096786003fcf",
+   "date": "2026-08-18",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "Las noticias de la mañana, martes 18 de agosto",
+   "title_en": "The morning news, Tuesday 18 August",
+   "headline_en": "The government submitted to the Senate the constitutional reform on security in the Agenda",
+   "summary_en": [
+    "The government submitted to the Senate the constitutional reform on security in the Agenda",
+    "Trump published an image declaring the Strait of Hormuz new United States territory, and I"
+   ]
+  },
+  {
+   "id": "es-CL-El deporte de hoy, martes 18 de agosto",
+   "file": "podcast-daily-2026-08-18-morning-sport-es-CL.json",
+   "bytes": 4219,
+   "sha256": "ab5f54d4b109bd2d706a3b98935a03f8fa334be04de8964c556dbd6abfb924ce",
+   "date": "2026-08-18",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "El deporte de hoy, martes 18 de agosto",
+   "title_en": "Today's sport, Tuesday 18 August",
+   "headline_en": "Universidad Catolica hosts Estudiantes de La Plata at 20:30 on Tuesday in the second leg o",
+   "summary_en": [
+    "Universidad Catolica hosts Estudiantes de La Plata at 20:30 on Tuesday in the second leg o"
+   ]
+  },
+  {
+   "id": "es-CL-El estado del tiempo, martes 18 de agosto",
+   "file": "podcast-daily-2026-08-18-morning-weather-es-CL.json",
+   "bytes": 4948,
+   "sha256": "3d675461e42e1d192e52ab77b1f70d60a19fb1ddd581fc54ae0d6943b7329b71",
+   "date": "2026-08-18",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "El estado del tiempo, martes 18 de agosto",
+   "title_en": "Today's weather, Tuesday 18 August",
+   "headline_en": "Forecast for Santiago, Tuesday 2026-08-18: high 18 degrees, low 5; cloudy sky; 0 per cent",
+   "summary_en": [
+    "Forecast for Santiago, Tuesday 2026-08-18: high 18 degrees, low 5; cloudy sky; 0 per cent",
+    "Forecast for Valparaiso, Tuesday 2026-08-18: high 21 degrees, low 9; clear sky; 0 per cent"
+   ]
+  },
+  {
+   "id": "es-CL-Las noticias de la mañana, lunes 17 de agosto",
+   "file": "podcast-daily-2026-08-17-morning-news-es-CL.json",
+   "bytes": 13853,
+   "sha256": "f39576079726cfa091a402b91e8363c048aa6747b4d7ff690d4f1ec286789f2e",
+   "date": "2026-08-17",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "Las noticias de la mañana, lunes 17 de agosto",
+   "title_en": "The morning news, Monday 17 August",
+   "headline_en": "Colombia asks Trump to suspend tariffs after the earthquake",
+   "summary_en": [
+    "Colombia asks Trump to suspend tariffs after the earthquake",
+    "Security reform goes to the Senate as Kast answers UDI reservations",
+    "RN president Balladares joins the reservations about the reform"
+   ]
+  },
+  {
+   "id": "es-CL-El estado del tiempo, lunes 17 de agosto",
+   "file": "podcast-daily-2026-08-17-morning-weather-es-CL.json",
+   "bytes": 4781,
+   "sha256": "366e213a7ba9f5b24115841b16b9440edf4c2d83ed55e4e1b19ce833193e944f",
+   "date": "2026-08-17",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "El estado del tiempo, lunes 17 de agosto",
+   "title_en": "Today's weather, Monday 17 August",
+   "headline_en": "Santiago: 14 degrees",
+   "summary_en": [
+    "Santiago: 14 degrees",
+    "Valparaíso: 15 degrees"
+   ]
+  },
+  {
+   "id": "es-CL-El estado del tiempo, lunes 17 de agosto",
+   "file": "podcast-daily-2026-08-17-evening-weather-es-CL.json",
+   "bytes": 5792,
+   "sha256": "95269556290b97d83dbb097b8113b62a16d7110521042d2968ee6c6e00b60314",
+   "date": "2026-08-17",
+   "edition": "evening",
+   "programme": "weather",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "El estado del tiempo, lunes 17 de agosto",
+   "title_en": "The forecast, Monday 17 August",
+   "headline_en": "Previsión para Santiago, mañana, martes 2026-08-18",
+   "summary_en": [
+    "Previsión para Santiago, mañana, martes 2026-08-18",
+    "Previsión para Santiago, miércoles 2026-08-19"
+   ]
+  }
+ ]
+}

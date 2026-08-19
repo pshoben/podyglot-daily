@@ -1,0 +1,540 @@
+{
+ "title": "El noticiero de la mañana, miércoles 19 de agosto",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-19",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Miércoles diecinueve de agosto, en Buenos Aires.",
+   "en": "Wednesday the nineteenth of August, in «Buenos Aires».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El noticiero de la mañana.",
+   "en": "The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La fiscalía boliviana presenta hoy la acusación formal contra Fernando Cerimedo.",
+   "en": "The Bolivian prosecution presents its formal accusation against «Fernando Cerimedo» today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y José Luis Espert pidió su sobreseimiento.",
+   "en": "And «Jose Luis Espert» has asked for his case to be dismissed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Vamos con el primer caso.",
+   "en": "We start with the first of those.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El exasesor del presidente Javier Milei está detenido en Bolivia",
+   "en": "The former adviser to president «Javier Milei» is being held in Bolivia",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "como presunto autor intelectual del ataque a balazos contra su expareja, Nadia Beller.",
+   "en": "as the alleged intellectual author of the shooting attack on his former partner, «Nadia Beller».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ella recibió tres disparos en plena vía pública y está en terapia intensiva.",
+   "en": "She took three shots in a public street and is in intensive care.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Justicia boliviana abre hoy el celular de Cerimedo para buscar pruebas del",
+   "en": "The Bolivian courts are opening «Cerimedo's» mobile phone today to look for evidence",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "intento de femicidio.",
+   "en": "of attempted femicide.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo tenía, junto con una laptop,",
+   "en": "He had it with him, along with a computer,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "cuando lo detuvieron en el aeropuerto de Santa Cruz,",
+   "en": "when he was detained at the «Santa Cruz» airport,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la fiscalía ordenó rastrear la información.",
+   "en": "and the prosecutor's office ordered the information to be traced.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La fiscal Aguilera presenta este miércoles la acusación por femicidio",
+   "en": "Prosecutor «Aguilera» presents the femicide accusation this Wednesday",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y pedirá el máximo plazo de preventiva, ciento ochenta días.",
+   "en": "and will ask for the maximum period of preventive detention, a hundred and eighty days.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Después de esa presentación, la Justicia decidirá si le impone prisión preventiva.",
+   "en": "After that presentation, the court will decide whether to impose preventive prison.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Desde el hospital, Beller denunció un episodio confuso:",
+   "en": "From hospital, «Beller» reported a confusing episode:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "anoche entró un presunto policía de civil,",
+   "en": "last night a man presumed to be a plain-clothes policeman came in,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y contó que recién ahora le reforzaron la custodia.",
+   "en": "and she said her guard has only now been reinforced.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También aseguró que la esposa de Cerimedo fue quien filtró los audios de",
+   "en": "She also said that «Cerimedo's» wife was the one who leaked the audios in",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la causa ANDIS.",
+   "en": "the «ANDIS» case.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Son grabaciones del extitular de ANDIS, Diego Spagnuolo,",
+   "en": "They are recordings of the former head of «ANDIS», «Diego Spagnuolo»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y según su relato buscaban que cayera la corrupción de Milei y de la hermana.",
+   "en": "and by her account they were meant to bring down the corruption of «Milei» and of his sister.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La vicepresidenta Victoria Villarruel apuntó a Karina Milei.",
+   "en": "Vice-president «Victoria Villarruel» pointed at «Karina Milei».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Desde México, la presidenta Claudia Sheinbaum llamó femicida a Cerimedo.",
+   "en": "From Mexico, president «Claudia Sheinbaum» called «Cerimedo» a femicide.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el expresidente boliviano Evo Morales dijo que Cerimedo va a ser liberado",
+   "en": "And the former Bolivian president «Evo Morales» said «Cerimedo» will be freed",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en cualquier momento.",
+   "en": "at any moment.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Clarín, Ámbito y La Nación siguen el caso hora a hora.",
+   "en": "Clarin, «Ambito» and «La Nacion» are following the case hour by hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Vamos a los tribunales.",
+   "en": "We turn to the courts.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ante el juez federal de San Isidro, Lino Mirabelli,",
+   "en": "Before the federal judge of «San Isidro», «Lino Mirabelli»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el exdiputado José Luis Espert pidió su sobreseimiento.",
+   "en": "the former deputy «Jose Luis Espert» asked for his case to be dismissed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sin origen ilícito probado no hay nada que lavar, sostuvo.",
+   "en": "Without a proven illicit origin there is nothing to launder, he argued.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dijo que la transferencia correspondió a un contrato de consultoría,",
+   "en": "He said the transfer corresponded to a consultancy contract,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y rechazó que las operaciones posteriores buscaran ocultar el origen del dinero.",
+   "en": "and rejected the idea that the later operations were meant to hide where the money came from.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Explicó también por qué no le devolvió los doscientos mil dólares a Fred Machado.",
+   "en": "He also explained why he did not return the two hundred thousand dollars to «Fred Machado».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Afirmó que desconocía las actividades del empresario, condenado en Estados Unidos,",
+   "en": "He stated that he did not know the activities of the businessman,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y defendió el contrato con una de sus mineras.",
+   "en": "who has been convicted in the United States, and defended the contract with one of his mining companies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Espert tuvo que renunciar a su banca de diputado",
+   "en": "«Espert» had to give up his seat as a deputy",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y declinar su candidatura en la Provincia,",
+   "en": "and drop his candidacy in the Province,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y volvió a apuntar contra los medios.",
+   "en": "and he pointed at the media again.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El juez debe resolver ahora si lo procesa.",
+   "en": "The judge must now rule on whether to indict him.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo publican Ámbito, Clarín y La Nación.",
+   "en": "«Ambito», Clarin and «La Nacion» carry it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cerramos con una causa por lavado.",
+   "en": "We close with a money laundering case.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Cámara de Apelación confirmó la detención de Albertina Mangini,",
+   "en": "The Appeals Chamber has confirmed the detention of «Albertina Mangini»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "funcionaria del Ministerio Público Fiscal bonaerense.",
+   "en": "an official of the «Buenos Aires» provincial public prosecutor's ministry.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Está acusada de integrar una organización que lavó veintisiete mil millones de pesos usando datos",
+   "en": "She is accused of belonging to an organisation that laundered twenty-seven thousand million pesos using the biometric data",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "biométricos de expresos.",
+   "en": "of former prisoners.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El tribunal rechazó un hábeas corpus de su defensa",
+   "en": "The tribunal rejected a habeas corpus from her defence",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y dijo que hay peligro de fuga o de destrucción de pruebas.",
+   "en": "and said there is a risk of flight or of destruction of evidence.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El caso está en Clarín y en La Nación.",
+   "en": "The case is in Clarin and in «La Nacion».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese es el panorama de hoy.",
+   "en": "That is the picture today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Wednesday 19 August",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Fernando Cerimedo, former adviser to president Javier Milei, is detained in Bolivia as the",
+ "summary_en": [
+  "Fernando Cerimedo, former adviser to president Javier Milei, is detained in Bolivia as the",
+  "Before the federal judge of San Isidro, Lino Mirabelli, former deputy Jose Luis Espert ask",
+  "The Appeals Chamber confirmed the detention of Albertina Mangini, a judicial official who"
+ ]
+}

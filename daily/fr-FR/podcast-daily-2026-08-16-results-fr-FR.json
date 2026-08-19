@@ -1,0 +1,177 @@
+{
+ "title": "Les résultats, dimanche 16 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-results",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "results",
+ "date": "2026-08-16",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Voici maintenant les résultats des séries du quatre cents mètres nage libre,",
+   "en": "Here now are the results of the heats of the four hundred metres freestyle,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "du deux cents mètres papillon et du cent mètres dos.",
+   "en": "the two hundred metres butterfly and the one hundred metres backstroke.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Si vous ne voulez pas entendre ces résultats, passez à la suite maintenant.",
+   "en": "If you do not want to hear these results, skip ahead now.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Léon Marchand s'est qualifié dimanche matin pour la finale du quatre cents mètres nage libre.",
+   "en": "«Léon Marchand» qualified on Sunday morning for the four hundred metres freestyle final.",
+   "prosody": {
+    "pause_ms": 4000,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a signé le quatrième temps des séries,",
+   "en": "He set the fourth-fastest heat time,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en trois minutes quarante-cinq secondes et quatre-vingt-cinq centièmes.",
+   "en": "three minutes forty-five point eight five.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est l'un des huit meilleurs temps sur une distance qu'il maîtrise mal,",
+   "en": "It is one of the eight best times over a distance he does not master well,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et il a dû s'employer.",
+   "en": "and he had to work for it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Samedi quinze août, à Saint-Denis,",
+   "en": "On Saturday the fifteenth of August, at «Saint-Denis»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Léon Marchand a décroché son premier titre européen sur le deux cents mètres papillon.",
+   "en": "«Léon Marchand» took his first European title in the two hundred metres butterfly.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'était le seul titre qui manquait à son palmarès.",
+   "en": "It was the only title missing from his record.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mary-Ambre Moluh l'a imité sur le cent mètres dos.",
+   "en": "«Mary-Ambre Moluh» did the same in the one hundred metres backstroke.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La nageuse de vingt ans a décroché le titre européen avec un nouveau record d'Europe.",
+   "en": "The twenty-year-old swimmer took the European title with a new European record.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle a devancé la Néerlandaise Marrit Steenbergen et la Française Pauline Mahieu, en bronze.",
+   "en": "She finished ahead of the Dutch swimmer «Marrit Steenbergen» and the French swimmer «Pauline Mahieu», who took bronze.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et voilà pour les résultats.",
+   "en": "And that is the results.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "title_en": "Results, Sunday 16 August",
+ "edition": "legacy",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Heats of the 400m freestyle at the European championships",
+ "summary_en": [
+  "Heats of the 400m freestyle at the European championships",
+  "The 200m butterfly at the European championships"
+ ]
+}

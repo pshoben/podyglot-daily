@@ -1,0 +1,299 @@
+{
+ "title": "Las noticias de la mañana, martes 18 de agosto",
+ "dialect": "es-CL",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CL-daily-news",
+   "wpm": 205,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-18",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Martes dieciocho de agosto, diez y media de la mañana en Santiago.",
+   "en": "Tuesday the eighteenth of August, half past ten in the morning in «Santiago».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las noticias de la mañana.",
+   "en": "The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Partimos con la reforma de seguridad.",
+   "en": "We start with the security reform.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Gobierno ingresó al Senado el proyecto de reforma constitucional en materia de seguridad.",
+   "en": "The government has submitted to the Senate the bill for a constitutional reform on security.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Forma parte de la Agenda Contra el Crimen Organizado y el Terrorismo.",
+   "en": "It is part of the Agenda Against Organised Crime and Terrorism.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esa agenda fue anunciada por el Presidente José Antonio Kast.",
+   "en": "That agenda was announced by President «José Antonio Kast».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Gobierno acotó algunos artículos del borrador.",
+   "en": "The government trimmed some articles of the draft.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pero mantuvo materias controvertidas, cuestionadas por parlamentarios del oficialismo.",
+   "en": "But it kept contested matters, questioned by members of parliament on the government's own side.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Entre ellas, restricciones a prestaciones asociadas a derechos.",
+   "en": "Among them, restrictions on benefits tied to rights.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se aplican a condenados por delitos de crimen organizado y terrorismo.",
+   "en": "They apply to people convicted of organised crime and terrorism offences.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Gobierno añadió que serán reguladas por una ley de quórum calificado.",
+   "en": "The government added that these will be regulated by a qualified quorum law.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El proyecto contempla además un nuevo estado de excepción.",
+   "en": "The bill also provides for a new state of exception.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Así lo informan La Tercera y Radio Universidad de Chile.",
+   "en": "That is what «La Tercera» and «Radio Universidad de Chile» report.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasamos a otra cosa, ahora en el mundo.",
+   "en": "We move to something else, now in the world.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Trump publicó una imagen que declaraba el estrecho de Ormuz nuevo territorio de Estados Unidos.",
+   "en": "«Trump» published an image that declared the Strait of «Ormuz» new United States territory.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las autoridades iraníes respondieron pocos minutos después.",
+   "en": "The Iranian authorities replied a few minutes later.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo hizo el viceministro de Asuntos Exteriores, Kazem Qaribabadi.",
+   "en": "It was the deputy foreign minister, «Kazem Qaribabadi».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Calificó de ilusiones las aspiraciones de Trump sobre el paso.",
+   "en": "He called «Trump»'s aspirations over the passage illusions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Irán recalcó que el paso de Ormuz seguirá cerrado.",
+   "en": "Iran repeated that the «Ormuz» passage will stay closed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguirá así hasta que Estados Unidos cumpla con sus compromisos.",
+   "en": "It will stay so until the United States meets its commitments.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Terminó el plazo de sesenta días que se dieron ambos países.",
+   "en": "The sixty day deadline the two countries set themselves has expired.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese plazo era para alcanzar un acuerdo global sobre el fin de la guerra",
+   "en": "That deadline was for reaching a global agreement on ending the war in",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en Medio Oriente.",
+   "en": "the Middle East.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el ministro de Exteriores iraní, Abbas Araqchi, acusó a Israel.",
+   "en": "And the Iranian foreign minister, «Abbas Araqchi», accused Israel.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dijo que es el principal obstáculo para la paz.",
+   "en": "He said it is the main obstacle to peace.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La información viene de Radio Universidad de Chile y La Tercera.",
+   "en": "The information comes from «Radio Universidad de Chile» and «La Tercera».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo principal.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 18 August",
+ "edition": "morning",
+ "region": "es-CL",
+ "region_label": "Chile",
+ "headline_en": "The government submitted to the Senate the constitutional reform on security in the Agenda",
+ "summary_en": [
+  "The government submitted to the Senate the constitutional reform on security in the Agenda",
+  "Trump published an image declaring the Strait of Hormuz new United States territory, and I"
+ ]
+}
