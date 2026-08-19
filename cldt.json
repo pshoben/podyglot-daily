@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated": "2026-08-19T21:16:13Z",
+ "generated": "2026-08-19T21:18:13Z",
  "channels": [
   {
    "dialect": "es-AR",
@@ -8,12 +8,7 @@
    "days": 4,
    "episodes": 11,
    "latest_date": "2026-08-19",
-   "last_written": [
-    "2026-08-16",
-    "2026-08-17",
-    "2026-08-18",
-    "2026-08-19"
-   ],
+   "last_written": [],
    "last_removed": [],
    "bitmap": "daily/es-AR/bitmap.json"
   },
@@ -23,11 +18,7 @@
    "days": 3,
    "episodes": 8,
    "latest_date": "2026-08-19",
-   "last_written": [
-    "2026-08-17",
-    "2026-08-18",
-    "2026-08-19"
-   ],
+   "last_written": [],
    "last_removed": [],
    "bitmap": "daily/es-CL/bitmap.json"
   },
@@ -37,12 +28,7 @@
    "days": 4,
    "episodes": 9,
    "latest_date": "2026-08-19",
-   "last_written": [
-    "2026-08-16",
-    "2026-08-17",
-    "2026-08-18",
-    "2026-08-19"
-   ],
+   "last_written": [],
    "last_removed": [],
    "bitmap": "daily/es-CO/bitmap.json"
   },
@@ -52,12 +38,7 @@
    "days": 4,
    "episodes": 24,
    "latest_date": "2026-08-19",
-   "last_written": [
-    "2026-08-16",
-    "2026-08-17",
-    "2026-08-18",
-    "2026-08-19"
-   ],
+   "last_written": [],
    "last_removed": [],
    "bitmap": "daily/es-ES/bitmap.json"
   },
@@ -67,12 +48,7 @@
    "days": 4,
    "episodes": 12,
    "latest_date": "2026-08-19",
-   "last_written": [
-    "2026-08-16",
-    "2026-08-17",
-    "2026-08-18",
-    "2026-08-19"
-   ],
+   "last_written": [],
    "last_removed": [],
    "bitmap": "daily/es-MX/bitmap.json"
   },
@@ -82,11 +58,7 @@
    "days": 3,
    "episodes": 10,
    "latest_date": "2026-08-19",
-   "last_written": [
-    "2026-08-17",
-    "2026-08-18",
-    "2026-08-19"
-   ],
+   "last_written": [],
    "last_removed": [],
    "bitmap": "daily/fr-BE/bitmap.json"
   },
@@ -94,14 +66,9 @@
    "dialect": "fr-CA",
    "updated": "2026-08-19T21:16:13Z",
    "days": 4,
-   "episodes": 11,
+   "episodes": 9,
    "latest_date": "2026-08-19",
-   "last_written": [
-    "2026-08-16",
-    "2026-08-17",
-    "2026-08-18",
-    "2026-08-19"
-   ],
+   "last_written": [],
    "last_removed": [],
    "bitmap": "daily/fr-CA/bitmap.json"
   },
@@ -111,12 +78,7 @@
    "days": 4,
    "episodes": 14,
    "latest_date": "2026-08-19",
-   "last_written": [
-    "2026-08-16",
-    "2026-08-17",
-    "2026-08-18",
-    "2026-08-19"
-   ],
+   "last_written": [],
    "last_removed": [],
    "bitmap": "daily/fr-FR/bitmap.json"
   }

@@ -5,47 +5,6 @@
  "date": "2026-08-17",
  "episodes": [
   {
-   "id": "fr-CA-Le bulletin du matin, lundi 17 août",
-   "file": "podcast-daily-2026-08-17-morning-news-fr-CA.json",
-   "bytes": 12633,
-   "sha256": "162a7e6517596cec3ea0131b3c1d687ddf7c149c363c85c5ffda2637903817c1",
-   "date": "2026-08-17",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-CA",
-   "region_label": "Québec",
-   "title": "Le bulletin du matin, lundi 17 août",
-   "title_en": "The morning news, Monday 17 August",
-   "headline_en": "Kushner meets Netanyahu to push the second phase of the Gaza plan",
-   "summary_en": [
-    "Kushner meets Netanyahu to push the second phase of the Gaza plan",
-    "Ebola epidemic becomes the deadliest in DR Congo's history",
-    "Rain brings some respite to Belgium's historic fire"
-   ]
-  },
-  {
-   "id": "fr-CA-Le bulletin météo, lundi 17 août",
-   "file": "podcast-daily-2026-08-17-morning-weather-fr-CA.json",
-   "bytes": 4393,
-   "sha256": "d47e6d28a118320919c6a25959aac3c185a3fa4c8eb967739e319d0fb86657b6",
-   "date": "2026-08-17",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "fr-CA",
-   "region_label": "Québec",
-   "title": "Le bulletin météo, lundi 17 août",
-   "title_en": "Today's weather, Monday 17 August",
-   "headline_en": "Montréal: 26 degrees",
-   "summary_en": [
-    "Montréal: 26 degrees",
-    "Québec: 24 degrees"
-   ]
-  },
-  {
    "id": "fr-CA-Le bulletin du soir, lundi 17 août",
    "file": "podcast-daily-2026-08-17-evening-news-fr-CA.json",
    "bytes": 12168,
