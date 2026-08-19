@@ -1,0 +1,470 @@
+{
+ "title": "Las noticias de la tarde, miércoles 19 de agosto",
+ "dialect": "es-CL",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CL-daily-news",
+   "wpm": 205,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-19",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Miércoles diecinueve de agosto, siete y media de la tarde en Santiago.",
+   "en": "Wednesday the nineteenth of August, half past seven in the evening in «Santiago».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las noticias de la tarde.",
+   "en": "The evening's news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Prisión preventiva para Michael Clark y otros tres imputados en el caso Sartor.",
+   "en": "Preventive detention for «Michael Clark» and three other accused in the «Sartor» case.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La alcaldesa de Tocopilla hace el balance del aluvión.",
+   "en": "The mayor of «Tocopilla» gives her assessment of the mudslide.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y las críticas a la reforma de seguridad se amplían.",
+   "en": "And criticism of the security reform widens.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Partimos por los tribunales.",
+   "en": "We set off with the courts.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Cuarto Juzgado de Garantía de Santiago decretó prisión preventiva para cuatro de los once",
+   "en": "The Fourth Guarantee Court of «Santiago» ordered preventive detention for four of the eleven",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "imputados en el caso Sartor.",
+   "en": "accused in the «Sartor» case.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Entre ellos están Michael Clark, expresidente de Azul Azul, los hermanos Larraín y Sergio Yáñez.",
+   "en": "Among them are «Michael Clark», former president of «Azul Azul», the «Larrain» brothers and «Sergio Yanez».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El tribunal ordenó la cautelar más gravosa por la gravedad de los delitos investigados.",
+   "en": "The court ordered the most severe precautionary measure because of the gravity of the crimes under investigation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y también por el riesgo de destrucción de pruebas.",
+   "en": "And also because of the risk of destruction of evidence.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Fueron catorce días de audiencia,",
+   "en": "There were fourteen days of hearings,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la investigación tiene ahora un plazo de ciento veinte días.",
+   "en": "and the investigation now has a deadline of a hundred and twenty days.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La fiscalía formalizó a once imputados por administración desleal,",
+   "en": "The prosecution charged eleven accused with disloyal administration,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "negociación incompatible y entrega de información falsa al mercado.",
+   "en": "incompatible negotiation and delivery of false information to the market.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También por estafa, lavado de activos y fraude por omisión de OPA.",
+   "en": "Also with fraud, money laundering and fraud by omission of a public offer.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Radio Universidad de Chile, La Tercera y Ex-Ante siguen la causa.",
+   "en": "«Radio Universidad de Chile», «La Tercera» and «Ex-Ante» are following the case.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Vamos al norte.",
+   "en": "We go north.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La alcaldesa de Tocopilla hizo el balance tras el paso del aluvión.",
+   "en": "The mayor of «Tocopilla» gave her assessment after the passage of the mudslide.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ha superado todas las expectativas de lo que estaba previsto, dijo.",
+   "en": "It has exceeded all the expectations of what was foreseen, she said.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Contó que las obras de mitigación construidas tras el aluvión del dos mil quince sirvieron",
+   "en": "She reported that the mitigation works built after the mudslide of two thousand and fifteen served quite",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "bastante para contener la fuerza del agua y del barro.",
+   "en": "well to hold back the force of the water and the mud.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pero el resto de las quebradas,",
+   "en": "But the rest of the ravines,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "donde no se alcanzó a construir, quedó gravemente afectado.",
+   "en": "where they were not finished, were left badly affected.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Desde Antofagasta, el presidente José Antonio Kast dijo que hay que sacar lecciones de cómo",
+   "en": "From «Antofagasta», president «Jose Antonio Kast» said lessons have to be drawn on how",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "enfrentar la planificación urbana.",
+   "en": "to face urban planning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y recalcó la necesidad de avanzar hacia soluciones habitacionales definitivas para los campamentos",
+   "en": "And he stressed the need to advance towards definitive housing solutions for the settlements",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y las zonas de alto riesgo.",
+   "en": "and the high-risk zones.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La emergencia afecta a las regiones de Arica, Tarapacá, Antofagasta y Atacama.",
+   "en": "The emergency affects the regions of «Arica», «Tarapaca», «Antofagasta» and «Atacama».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Tercera y Radio Universidad de Chile recogen las dos declaraciones.",
+   "en": "«La Tercera» and «Radio Universidad de Chile» carry the two statements.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cerramos con la política.",
+   "en": "We close with politics.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las críticas a la reforma de seguridad del Gobierno se ampliaron durante el día.",
+   "en": "Criticism of the government's security reform widened during the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La senadora Kaiser, del Partido Nacional Libertario, mostró su rechazo.",
+   "en": "Senator «Kaiser», of the «Partido Nacional Libertario», showed her rejection of it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Argumentó que muchas normas del proyecto deberían estar a nivel legislativo",
+   "en": "She argued that many rules in the bill should be at legislative level",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y no elevarse a nivel constitucional.",
+   "en": "and not raised to constitutional level.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El exministro Elizalde la calificó como la primera reforma explícitamente iliberal del Gobierno de Kast.",
+   "en": "Former minister «Elizalde» called it the first explicitly illiberal reform of the «Kast» government.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esto finalmente es una prueba para nuestra democracia, sostuvo.",
+   "en": "This is finally a test for our democracy, he maintained.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El senador Becker, de Renovación Nacional,",
+   "en": "Senator «Becker», of «Renovacion Nacional»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dijo que los reparos de la UDI pudieron haberse evitado.",
+   "en": "said the «UDI»'s objections could have been avoided.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Reconoció que la iniciativa careció de trabajo prelegislativo.",
+   "en": "He recognised that the initiative lacked pre-legislative work.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y la presidenta del Colegio Médico calificó de aberrante la norma que restringe prestaciones sociales",
+   "en": "And the president of the «Colegio Medico» called aberrant the rule restricting social benefits",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a los condenados por crimen organizado o terrorismo.",
+   "en": "for those convicted of organised crime or terrorism.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Tercera y Radio Universidad de Chile reúnen las reacciones.",
+   "en": "«La Tercera» and «Radio Universidad de Chile» gather the reactions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y con eso cerramos por hoy.",
+   "en": "And with that we close for today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The evening news, Wednesday 19 August",
+ "edition": "evening",
+ "region": "es-CL",
+ "region_label": "Chile",
+ "headline_en": "The Fourth Guarantee Court of Santiago ordered preventive detention for four of the eleven",
+ "summary_en": [
+  "The Fourth Guarantee Court of Santiago ordered preventive detention for four of the eleven",
+  "The mayor of Tocopilla gave her assessment after the mudslide and said it has exceeded all",
+  "Criticism of the government's security reform widened during the day. Senator Kaiser, of t"
+ ]
+}

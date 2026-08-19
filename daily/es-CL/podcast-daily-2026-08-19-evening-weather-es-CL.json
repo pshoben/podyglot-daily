@@ -1,0 +1,199 @@
+{
+ "title": "El estado del tiempo, miércoles 19 de agosto",
+ "dialect": "es-CL",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CL-daily-weather",
+   "wpm": 205,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-19",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El pronóstico para mañana, jueves, de norte a sur.",
+   "en": "The forecast for tomorrow, Thursday, from north to south.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Después de días de lluvia en el norte,",
+   "en": "After days of rain in the north,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "mañana no llueve en ninguna de las tres ciudades.",
+   "en": "tomorrow it does not rain in any of the three cities.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Valparaíso, cielo nuboso, veintidós grados de máxima y diez de mínima.",
+   "en": "In «Valparaiso», cloudy sky, twenty-two degrees for the high and ten for the low.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento sopla fuerte ahí: diecinueve kilómetros por hora,",
+   "en": "The wind blows hard there: nineteen kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el más fuerte de las tres.",
+   "en": "the strongest of the three.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Santiago, también nuboso, diecinueve grados de máxima y ocho de mínima.",
+   "en": "In «Santiago», cloudy as well, nineteen degrees for the high and eight for the low.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el viento apenas llega a seis kilómetros por hora.",
+   "en": "And the wind barely reaches six kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Concepción, nuboso igual, dieciséis grados de máxima y tres de mínima.",
+   "en": "In «Concepcion», cloudy likewise, sixteen degrees for the high and three for the low.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esos tres grados son la mínima más baja del jueves.",
+   "en": "Those three degrees are Thursday's lowest low.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viernes sube la temperatura en las tres,",
+   "en": "On Friday the temperature rises in all three,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "hasta veintisiete grados en Valparaíso.",
+   "en": "up to twenty-seven degrees in «Valparaiso».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y en Santiago llega a veintitrés.",
+   "en": "And in «Santiago» it gets to twenty-three.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y en Concepción el viernes se llega a dieciocho grados, con seis de mínima.",
+   "en": "And in «Concepcion» on Friday it gets to eighteen degrees, with six for the low.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y sigue sin llover en ninguna de las tres.",
+   "en": "And it still does not rain in any of the three.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Todo esto según el modelo europeo ECMWF.",
+   "en": "All of this according to the European «ECMWF» model.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y así se ve el jueves a lo largo del país.",
+   "en": "And that is how Thursday looks the length of the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "The forecast, Wednesday 19 August",
+ "edition": "evening",
+ "region": "es-CL",
+ "region_label": "Chile",
+ "headline_en": "Previsión para Santiago, mañana, jueves 2026-08-20",
+ "summary_en": [
+  "Previsión para Santiago, mañana, jueves 2026-08-20",
+  "Previsión para Valparaíso, mañana, jueves 2026-08-20"
+ ]
+}
