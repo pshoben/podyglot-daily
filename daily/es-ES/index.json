@@ -106,6 +106,46 @@
    ]
   },
   {
+   "id": "es-ES-El informativo de la tarde, miércoles 19 de agosto",
+   "file": "podcast-daily-2026-08-19-evening-news-es-ES.json",
+   "bytes": 9924,
+   "sha256": "acdf456944d44d79e00432b33b564645042cbb05ab84de9e0d301150b7d385d6",
+   "date": "2026-08-19",
+   "edition": "evening",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la tarde, miércoles 19 de agosto",
+   "title_en": "The evening news, Wednesday 19 August",
+   "headline_en": "The government is working on the urgent transfer of the first 500 migrant girls out of Ceu",
+   "summary_en": [
+    "The government is working on the urgent transfer of the first 500 migrant girls out of Ceu",
+    "The new forest fire at Aldea del Fresno, in the Sierra Oeste of Madrid, is stabilised afte",
+    "The Guardia Civil confirmed the location of the weapons used by the hooded men in the shoo"
+   ]
+  },
+  {
+   "id": "es-ES-Los resultados, miércoles 19 de agosto",
+   "file": "podcast-daily-2026-08-19-evening-results-es-ES.json",
+   "bytes": 3251,
+   "sha256": "3daf4064719f6dea761fe064b503f7e5484675370154d53855686fa18a9f6779",
+   "date": "2026-08-19",
+   "edition": "evening",
+   "programme": "results",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los resultados, miércoles 19 de agosto",
+   "title_en": "Results, Wednesday 19 August",
+   "headline_en": "Atletico de Madrid took their first win of the Liga season against a good Malaga. Kang-in",
+   "summary_en": [
+    "Atletico de Madrid took their first win of the Liga season against a good Malaga. Kang-in"
+   ]
+  },
+  {
    "id": "es-ES-El informativo de la mañana, martes 18 de agosto",
    "file": "podcast-daily-2026-08-18-morning-news-es-ES.json",
    "bytes": 12346,

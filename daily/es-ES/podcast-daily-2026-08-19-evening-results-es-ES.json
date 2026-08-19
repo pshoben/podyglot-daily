@@ -1,0 +1,138 @@
+{
+ "title": "Los resultados, miércoles 19 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-results",
+   "wpm": 208,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "results",
+ "date": "2026-08-19",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Si no quiere conocer los resultados todavía,",
+   "en": "If you do not want to know the results yet,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "este es el momento de parar.",
+   "en": "this is the moment to stop.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y ahora, el fútbol.",
+   "en": "And now, the football.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Atlético de Madrid se llevó su primer triunfo de la Liga ante",
+   "en": "«Atletico» de Madrid took their first win of the «Liga» against",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un buen Málaga.",
+   "en": "a good Malaga.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Kang-in Lee se estrenó en el Metropolitano",
+   "en": "«Kang-in Lee» opened his account at the «Metropolitano» and unblocked,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y desatascó con un gol sensacional un partido que el Málaga manejaba con solvencia.",
+   "en": "with a sensational goal, a match Malaga were handling with assurance.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Baena lo sentenció poniendo una falta en la escuadra.",
+   "en": "«Baena» settled it by putting a free kick in the top corner.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Con esos dos goles, el equipo de Simeone arranca la Liga con victoria.",
+   "en": "With those two goals, «Simeone's» team start the «Liga» with a win.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El País y Marca cuentan el partido igual.",
+   "en": "El Pais and «Marca» tell the match the same way.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y con eso terminamos.",
+   "en": "And with that we finish.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Results, Wednesday 19 August",
+ "edition": "evening",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Atletico de Madrid took their first win of the Liga season against a good Malaga. Kang-in",
+ "summary_en": [
+  "Atletico de Madrid took their first win of the Liga season against a good Malaga. Kang-in"
+ ]
+}

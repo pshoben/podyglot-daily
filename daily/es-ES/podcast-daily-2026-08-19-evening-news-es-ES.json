@@ -1,0 +1,390 @@
+{
+ "title": "El informativo de la tarde, miércoles 19 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-news",
+   "wpm": 208,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-19",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Miércoles diecinueve de agosto, en Madrid.",
+   "en": "Wednesday the nineteenth of August, in Madrid.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El informativo de la tarde.",
+   "en": "The evening news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Gobierno prepara el traslado urgente de quinientas niñas migrantes de Ceuta a la Península.",
+   "en": "The government is preparing the urgent transfer of five hundred migrant girls from «Ceuta» to the Peninsula.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el incendio de Aldea del Fresno queda estabilizado tras quemar trescientas treinta hectáreas.",
+   "en": "And the «Aldea» del Fresno fire is stabilised after burning three hundred and thirty hectares.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos por la crisis migratoria.",
+   "en": "We begin with the migration crisis.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Gobierno trabaja en el traslado urgente de las primeras quinientas niñas migrantes.",
+   "en": "The government is working on the urgent transfer of the first five hundred migrant girls.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hay más de dos mil ciento sesenta y ocho menores identificados en la ciudad.",
+   "en": "There are more than two thousand one hundred and sixty-eight minors identified in the city.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La ciudad autónoma acepta el plan como medida extraordinaria.",
+   "en": "The autonomous city accepts the plan as an extraordinary measure.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y reclama el retorno de todos los extranjeros que accedieron de forma irregular.",
+   "en": "And it calls for the return of all foreigners who entered irregularly.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Partido Popular tampoco da su aprobación a esta fórmula,",
+   "en": "The Popular Party does not approve this formula either,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "e insiste en el retorno de todos a Marruecos.",
+   "en": "and insists on the return of everyone to Morocco.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Alberto Núñez Feijóo volvió el miércoles a Ceuta.",
+   "en": "«Alberto Nunez Feijoo» went back to «Ceuta» on Wednesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dijo que no admitirá chantajes de Marruecos y asumió siete compromisos con la ciudad.",
+   "en": "He said he will not accept blackmail from Morocco, and took on seven commitments to the city.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pidió la expulsión de todos los inmigrantes ilegales:",
+   "en": "He demanded the expulsion of all illegal immigrants:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "todos son todos, también los menores.",
+   "en": "all means all, minors included.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Mundo, El País y eldiario punto es siguen la crisis hora a hora.",
+   "en": "«El Mundo», El Pais and «eldiario» dot es are following the crisis hour by hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasamos a los incendios.",
+   "en": "We move to the fires.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El nuevo incendio de Aldea del Fresno,",
+   "en": "The new fire at «Aldea» del Fresno,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la Sierra Oeste de Madrid,",
+   "en": "in the «Sierra Oeste» of Madrid,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "está estabilizado tras afectar a trescientas treinta hectáreas.",
+   "en": "is stabilised after affecting three hundred and thirty hectares.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El fuego había obligado al confinamiento de la localidad y al desalojo de cuatro urbanizaciones.",
+   "en": "The fire had forced the confinement of the town and the evacuation of four housing estates.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También se desplegó la Unidad Militar de Emergencias.",
+   "en": "The military emergencies unit was also deployed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se ha levantado el confinamiento en Villamantilla",
+   "en": "The confinement of «Villamantilla» has been lifted",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y los vecinos desalojados pueden volver a sus casas.",
+   "en": "and the evacuated residents can return to their homes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El trabajo ha sido muy efectivo, confirman las autoridades.",
+   "en": "The work has been very effective, the authorities confirm.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo cuentan El Mundo y El País.",
+   "en": "«El Mundo» and El Pais report it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cerramos con un suceso.",
+   "en": "We close with a crime.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Guardia Civil ha confirmado la localización de las armas que usaron los encapuchados en",
+   "en": "«The Guardia Civil» has confirmed the location of the weapons used by the hooded men in",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el tiroteo de Isla Cristina.",
+   "en": "the shooting at «Isla Cristina».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En ese tiroteo murieron tres personas el domingo,",
+   "en": "Three people died in that shooting on Sunday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y los dos encapuchados se dieron a la fuga.",
+   "en": "and the two hooded men fled.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los agentes del Servicio de Balística las analizarán para el informe pericial que se incorporará",
+   "en": "Agents of the ballistics service will analyse them for the expert report that will go into the case,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a la causa, declarada secreta.",
+   "en": "which has been declared secret.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La localidad onubense vuelve poco a poco a la normalidad.",
+   "en": "«The Huelva» town is slowly returning to normality.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El avance está recogido en El Mundo y en El País.",
+   "en": "The development is carried in «El Mundo» and in El Pais.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí lo esencial de esta tarde.",
+   "en": "That is the essential of this evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The evening news, Wednesday 19 August",
+ "edition": "evening",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "The government is working on the urgent transfer of the first 500 migrant girls out of Ceu",
+ "summary_en": [
+  "The government is working on the urgent transfer of the first 500 migrant girls out of Ceu",
+  "The new forest fire at Aldea del Fresno, in the Sierra Oeste of Madrid, is stabilised afte",
+  "The Guardia Civil confirmed the location of the weapons used by the hooded men in the shoo"
+ ]
+}
