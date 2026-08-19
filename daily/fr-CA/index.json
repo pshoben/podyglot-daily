@@ -46,6 +46,47 @@
    ]
   },
   {
+   "id": "fr-CA-Le bulletin du soir, mercredi 19 août",
+   "file": "podcast-daily-2026-08-19-evening-news-fr-CA.json",
+   "bytes": 7843,
+   "sha256": "16d4b3105ac33a1a9e3cd4d514a88408ea718f03e056f1af08f675ffcad4f670",
+   "date": "2026-08-19",
+   "edition": "evening",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin du soir, mercredi 19 août",
+   "title_en": "The evening news, Wednesday 19 August",
+   "headline_en": "Mark Carney confirmed that an agreement with Washington is on the table, after the suspens",
+   "summary_en": [
+    "Mark Carney confirmed that an agreement with Washington is on the table, after the suspens",
+    "The director of criminal and penal prosecutions has temporarily suspended the judicial pro",
+    "About a week before the election is called, the transport minister Benoit Charette announc"
+   ]
+  },
+  {
+   "id": "fr-CA-Le bulletin météo, mercredi 19 août",
+   "file": "podcast-daily-2026-08-19-evening-weather-fr-CA.json",
+   "bytes": 4663,
+   "sha256": "84f557e6037b3d60d522eccd27fdf3eaf350944a710639d55e0f376208fe59c4",
+   "date": "2026-08-19",
+   "edition": "evening",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin météo, mercredi 19 août",
+   "title_en": "The forecast, Wednesday 19 August",
+   "headline_en": "Prévision pour Montréal, demain, jeudi 2026-08-20",
+   "summary_en": [
+    "Prévision pour Montréal, demain, jeudi 2026-08-20",
+    "Prévision pour Québec, demain, jeudi 2026-08-20"
+   ]
+  },
+  {
    "id": "fr-CA-Le bulletin du matin, mardi 18 août",
    "file": "podcast-daily-2026-08-18-morning-news-fr-CA.json",
    "bytes": 13537,

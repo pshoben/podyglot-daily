@@ -1,0 +1,290 @@
+{
+ "title": "Le bulletin du soir, mercredi 19 août",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-news",
+   "wpm": 185,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-19",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Mercredi dix-neuf août, dix-neuf heures à Montréal. Le bulletin du soir.",
+   "en": "Wednesday the nineteenth of August, seven in the evening in Montreal. The evening bulletin.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mark Carney confirme qu'une entente avec Washington est sur la table.",
+   "en": "Mark Carney confirms that an agreement with Washington is on the table.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le DPCP suspend les procédures contre onze jeunes dans l'affaire Nooran Rezayi.",
+   "en": "The «DPCP» suspends the proceedings against eleven young people in the «Nooran Rezayi» case.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et le ministre des Transports quitte la vie politique à une semaine des élections.",
+   "en": "And the transport minister is leaving political life a week before the election.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par les droits de douane.",
+   "en": "We begin with the customs duties.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Après la suspension des tarifs,",
+   "en": "After the suspension of the tariffs,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mark Carney a confirmé qu'une entente avec Washington est sur la table.",
+   "en": "Mark Carney confirmed that an agreement with Washington is on the table.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le président Donald Trump, lui,",
+   "en": "President Donald Trump, for his part,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a parlé d'une entente très équitable avec le Canada.",
+   "en": "spoke of a very fair agreement with Canada.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dominic LeBlanc a annoncé que le système actuel de gestion de l'offre demeurera entièrement intact",
+   "en": "«Dominic LeBlanc» announced that the current supply management system will remain entirely intact",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans cette entente potentielle.",
+   "en": "in that potential agreement.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mardi soir, quelques heures avant l'entrée en vigueur des tarifs de cinquante pour cent,",
+   "en": "On Tuesday evening, a few hours before the fifty per cent tariffs were due to come into force,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la Maison-Blanche et Ottawa avaient publié des déclarations très différentes.",
+   "en": "the White House and Ottawa had issued very different statements.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Trump criait victoire, Ottawa restait prudent.",
+   "en": "Trump was claiming victory, Ottawa was staying cautious.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les entreprises, elles, sont toujours confrontées à des incertitudes.",
+   "en": "Businesses, for their part, are still facing uncertainty.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Radio-Canada et Le Journal de Montréal suivent la négociation heure par heure.",
+   "en": "Radio-Canada and Le Journal de Montreal are following the negotiation hour by hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à la justice.",
+   "en": "We move to justice.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Directeur des poursuites criminelles et pénales a suspendu temporairement les procédures judiciaires.",
+   "en": "The director of criminal and penal prosecutions has temporarily suspended the judicial proceedings.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elles visent les onze jeunes accusés dans l'affaire Nooran Rezayi.",
+   "en": "They concern the eleven young people charged in the «Nooran Rezayi» case.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le DPCP veut prendre le temps d'examiner une question juridique complexe soulevée récemment.",
+   "en": "The «DPCP» wants to take the time to examine a complex legal question raised recently.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Radio-Canada, Le Journal de Montréal et La Presse rapportent tous la suspension.",
+   "en": "Radio-Canada, Le Journal de Montreal and «La Presse» all report the suspension.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On termine par la politique québécoise.",
+   "en": "We finish with Quebec politics.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À environ une semaine du déclenchement des élections, le ministre des Transports, Benoit Charette,",
+   "en": "About a week before the election is called, the transport minister, «Benoit Charette»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a annoncé son départ de la vie politique.",
+   "en": "announced his departure from political life.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le départ est rapporté par La Presse et par Le Devoir.",
+   "en": "The departure is reported by «La Presse» and by Le Devoir.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est le portrait de ce mercredi soir.",
+   "en": "That is the picture of this Wednesday evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The evening news, Wednesday 19 August",
+ "edition": "evening",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "Mark Carney confirmed that an agreement with Washington is on the table, after the suspens",
+ "summary_en": [
+  "Mark Carney confirmed that an agreement with Washington is on the table, after the suspens",
+  "The director of criminal and penal prosecutions has temporarily suspended the judicial pro",
+  "About a week before the election is called, the transport minister Benoit Charette announc"
+ ]
+}

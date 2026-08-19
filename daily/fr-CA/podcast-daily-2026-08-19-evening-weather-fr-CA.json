@@ -1,0 +1,189 @@
+{
+ "title": "Le bulletin météo, mercredi 19 août",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-weather",
+   "wpm": 185,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-19",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "La météo pour demain, jeudi,",
+   "en": "The weather for tomorrow, Thursday,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'une région québécoise à l'autre.",
+   "en": "from one Quebec region to another.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Montréal, ciel couvert, avec une maximale de vingt-quatre degrés et une minimale de seize.",
+   "en": "In Montreal, overcast sky, with a high of twenty-four degrees and a low of sixteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de précipitation est de dix-neuf pour cent,",
+   "en": "The chance of precipitation is nineteen per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent ne dépasse pas dix kilomètres à l'heure.",
+   "en": "and the wind does not go above ten kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Québec, couvert aussi, vingt-quatre degrés au plus haut et seize au plus bas.",
+   "en": "In Quebec City, overcast as well, twenty-four degrees at the highest and sixteen at the lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité tombe à quatorze pour cent,",
+   "en": "The chance drops to fourteen per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "mais le vent monte à dix-huit kilomètres à l'heure.",
+   "en": "but the wind rises to eighteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au Saguenay, couvert également, vingt-deux degrés et treize au plus bas.",
+   "en": "In «Saguenay», overcast likewise, twenty-two degrees and thirteen at the lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est là que la pluie est la plus probable demain: cinquante-deux pour cent.",
+   "en": "That is where rain is most likely tomorrow: fifty-two per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y atteint seize kilomètres à l'heure,",
+   "en": "The wind there reaches sixteen kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un peu moins qu'à Québec.",
+   "en": "a little less than in Quebec City.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Vendredi, le ciel se dégage à Montréal et à Québec,",
+   "en": "On Friday, the sky clears in Montreal and Quebec City,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et la probabilité de pluie tombe à zéro au Saguenay.",
+   "en": "and the chance of rain drops to zero in «Saguenay».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ces prévisions viennent du modèle GEM d'Environnement Canada.",
+   "en": "These forecasts come from Environment Canada's GEM model.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo de ce soir.",
+   "en": "That is the weather for this evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "The forecast, Wednesday 19 August",
+ "edition": "evening",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "Prévision pour Montréal, demain, jeudi 2026-08-20",
+ "summary_en": [
+  "Prévision pour Montréal, demain, jeudi 2026-08-20",
+  "Prévision pour Québec, demain, jeudi 2026-08-20"
+ ]
+}
