@@ -1,0 +1,118 @@
+{
+ "title": "Les résultats, mercredi 19 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-results",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "results",
+ "date": "2026-08-19",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Les résultats de la soirée.",
+   "en": "The evening's results.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En barrage aller de Ligue des champions,",
+   "en": "In the first leg of the Champions League playoffs,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lyon a ramené le nul d'Istanbul, un partout, contre Fenerbahçe.",
+   "en": "Lyon brought back a draw from Istanbul, one all, against «Fenerbahce».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Tout se jouera au match retour, à domicile, le vingt-six août.",
+   "en": "Everything will be decided in the return leg, at home, on the twenty-sixth of August.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Olympique lyonnais tente de retrouver une Ligue des champions qu'il n'a plus disputée depuis la",
+   "en": "«Olympique Lyonnais» are trying to return to a Champions League they have not played in since the twenty nineteen,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "saison deux mille dix-neuf, deux mille vingt.",
+   "en": "twenty twenty season.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le milieu américain Tanner Tessmann a livré une prestation solide.",
+   "en": "The American midfielder «Tanner Tessmann» put in a solid performance.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "France Télévisions et L'Équipe font le même compte rendu.",
+   "en": "«France Televisions» and «L'Equipe» give the same account.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour les résultats.",
+   "en": "That is the results.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Results, Wednesday 19 August",
+ "edition": "evening",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Lyon brought back a draw from Fenerbahce, one all, in the first leg of the Champions Leagu",
+ "summary_en": [
+  "Lyon brought back a draw from Fenerbahce, one all, in the first leg of the Champions Leagu"
+ ]
+}

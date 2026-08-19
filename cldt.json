@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated": "2026-08-19T21:38:48.049Z",
+ "generated": "2026-08-19T22:24:27.280Z",
  "channels": [
   {
    "dialect": "es-AR",
@@ -76,7 +76,7 @@
    "dialect": "fr-FR",
    "updated": "2026-08-19T21:16:13Z",
    "days": 4,
-   "episodes": 14,
+   "episodes": 16,
    "latest_date": "2026-08-19",
    "last_written": [],
    "last_removed": [],

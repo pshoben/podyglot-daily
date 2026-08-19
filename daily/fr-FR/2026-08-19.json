@@ -64,6 +64,46 @@
     "Prévision pour Paris, mercredi 2026-08-19",
     "Prévision pour Bordeaux, mercredi 2026-08-19"
    ]
+  },
+  {
+   "id": "fr-FR-Le journal du soir, mercredi 19 août",
+   "file": "podcast-daily-2026-08-19-evening-news-fr-FR.json",
+   "bytes": 12985,
+   "sha256": "0d6a99218f0d96030d18ecd88fa9182f6658f889a2461051d6d12a4a7ce3af6c",
+   "date": "2026-08-19",
+   "edition": "evening",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du soir, mercredi 19 août",
+   "title_en": "The evening news, Wednesday 19 August",
+   "headline_en": "Prime minister Sebastien Lecornu asked on Wednesday the national information systems secur",
+   "summary_en": [
+    "Prime minister Sebastien Lecornu asked on Wednesday the national information systems secur",
+    "Public Health France announced on Wednesday that 1,243 excess deaths were recorded from 3",
+    "The law creating a right to assisted dying, validated by the Constitutional Council with s"
+   ]
+  },
+  {
+   "id": "fr-FR-Les résultats, mercredi 19 août",
+   "file": "podcast-daily-2026-08-19-evening-results-fr-FR.json",
+   "bytes": 2973,
+   "sha256": "63844ec75750a82ae74acc45574dba59f9044b31d40d7ce80dba634ee9cb70e4",
+   "date": "2026-08-19",
+   "edition": "evening",
+   "programme": "results",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Les résultats, mercredi 19 août",
+   "title_en": "Results, Wednesday 19 August",
+   "headline_en": "Lyon brought back a draw from Fenerbahce, one all, in the first leg of the Champions Leagu",
+   "summary_en": [
+    "Lyon brought back a draw from Fenerbahce, one all, in the first leg of the Champions Leagu"
+   ]
   }
  ]
 }

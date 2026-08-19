@@ -1,0 +1,500 @@
+{
+ "title": "Le journal du soir, mercredi 19 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-19",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Mercredi dix-neuf août, à Paris. Le journal du soir.",
+   "en": "Wednesday the nineteenth of August, in Paris. The evening news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sébastien Lecornu demande une nouvelle unité cyber après le piratage du fisc.",
+   "en": "«Sebastien Lecornu» is asking for a new cyber-security unit after the tax office hack.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et Santé publique France porte à sept mille trois cents le bilan provisoire des morts",
+   "en": "And «Public Health France» puts the provisional toll of heat deaths this year at",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de la chaleur cette année.",
+   "en": "seven thousand three hundred.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par la cybersécurité.",
+   "en": "We begin with cybersecurity.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Premier ministre a demandé mercredi à l'agence nationale de la sécurité des systèmes d'information",
+   "en": "The prime minister asked the national information systems security agency on Wednesday to",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de constituer une nouvelle unité cyber.",
+   "en": "form a new cyber-security unit.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cette équipe de contact sera chargée d'intervenir en première ligne en cas de suspicion d'atteinte",
+   "en": "This contact team will be charged with intervening in the front line when a serious attack on",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "grave à l'intégrité du système d'information de l'État.",
+   "en": "the integrity of the state's information system is suspected.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La demande est adressée au secrétaire général de la défense et de la sécurité nationale.",
+   "en": "The request goes to the secretary general for defence and national security.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sébastien Lecornu a reconnu que peu de ministères sont au niveau requis face aux cyberattaques.",
+   "en": "«Sebastien Lecornu» acknowledged that few ministries are at the level required to face cyberattacks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La veille, le ministre des Comptes publics, David Amiel,",
+   "en": "The day before, the public accounts minister, «David Amiel»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avait présenté ses excuses après le piratage massif du fisc.",
+   "en": "had apologised over the massive tax office hack.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce vol a touché au moins six cent soixante-dix-huit mille particuliers",
+   "en": "The theft touched at least six hundred and seventy-eight thousand individuals",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et professionnels pour les données fiscales.",
+   "en": "and businesses for tax data.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et quatre cent trente mille particuliers pour les fichiers cadastraux.",
+   "en": "And four hundred and thirty thousand individuals for land registry files.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'administration fiscale a aussi reconnu une troisième fuite de données, sur les successions, rapidement coupée.",
+   "en": "The tax administration also acknowledged a third data leak, on inheritances, which was quickly cut off.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "France 24 et France Télévisions suivent le dossier heure par heure.",
+   "en": "«France 24» and «France Televisions» are following the story hour by hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à la santé publique.",
+   "en": "We move to public health.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Santé publique France a annoncé mercredi mille deux cent quarante-trois décès en excès entre le",
+   "en": "«Public Health France» announced on Wednesday one thousand two hundred and forty-three excess deaths between 3",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "trois et le vingt-deux juillet.",
+   "en": "and 22 July.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est la deuxième vague de chaleur de l'été,",
+   "en": "That is the summer's second heatwave,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "moins meurtrière que celle de fin juin.",
+   "en": "less deadly than the one at the end of June.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle porte à sept mille trois cents le bilan encore provisoire des morts de la",
+   "en": "It brings to seven thousand three hundred the still provisional toll of heat deaths this year,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "chaleur cette année, comptés depuis fin mai.",
+   "en": "counted since the end of May.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le pays a connu cinquante-deux jours de vagues de chaleur depuis la mi-juin, un record,",
+   "en": "The country has had fifty-two days of heatwave since mid-June, a record,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et l'été n'est pas terminé.",
+   "en": "and the summer is not over.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'été deux mille vingt-six enregistre déjà la plus forte mortalité depuis deux mille trois.",
+   "en": "The summer of twenty twenty-six already records the highest mortality since two thousand and three.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le chiffre vient de France 24,",
+   "en": "The figure comes from «France 24»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "du Monde et du Télégramme.",
+   "en": "from «Le Monde» and from «Le Telegramme».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Changement de sujet, la loi.",
+   "en": "Changing subject, the law.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La loi créant un droit à l'aide à mourir a été promulguée par Emmanuel Macron",
+   "en": "The law creating a right to assisted dying was promulgated by Emmanuel Macron",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et publiée mercredi au Journal officiel.",
+   "en": "and published in the «Journal officiel» on Wednesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Conseil constitutionnel l'avait validée avec quelques réserves.",
+   "en": "The Constitutional Council had validated it with some reservations.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Avant que les soignants ne puissent la mettre en pratique,",
+   "en": "Before carers can put it into practice,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le gouvernement doit encore publier les décrets d'application.",
+   "en": "the government must still publish the implementing decrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Après plusieurs années de débats,",
+   "en": "After several years of debate,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le texte ouvre ce droit sous plusieurs conditions,",
+   "en": "the text opens that right under several conditions,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et pour certains patients seulement.",
+   "en": "and for certain patients only.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il leur permet de s'administrer un produit létal en présence d'un soignant.",
+   "en": "It allows them to administer a lethal product to themselves in the presence of a carer.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "France 24 et Le Figaro donnent le détail.",
+   "en": "«France 24» and «Le Figaro» give the detail.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On termine à l'étranger.",
+   "en": "We finish abroad.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Donald Trump a affirmé que la Corée du Nord possède cinquante-sept armes nucléaires.",
+   "en": "Donald Trump said that North Korea possesses fifty-seven nuclear weapons.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a assuré aussi qu'il rencontrera Kim Jong-un cette année.",
+   "en": "He also said he will meet «Kim Jong-un» this year.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ces propos arrivent trois jours après ses critiques envers la Corée du Sud.",
+   "en": "The remarks come three days after his criticism of South Korea.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "France Télévisions, Le Monde et Le Télégramme rapportent la même déclaration.",
+   "en": "«France Televisions», «Le Monde» and «Le Telegramme» report the same statement.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà l'essentiel de ce mercredi soir.",
+   "en": "That is the essential of this Wednesday evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The evening news, Wednesday 19 August",
+ "edition": "evening",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Prime minister Sebastien Lecornu asked on Wednesday the national information systems secur",
+ "summary_en": [
+  "Prime minister Sebastien Lecornu asked on Wednesday the national information systems secur",
+  "Public Health France announced on Wednesday that 1,243 excess deaths were recorded from 3",
+  "The law creating a right to assisted dying, validated by the Constitutional Council with s"
+ ]
+}
