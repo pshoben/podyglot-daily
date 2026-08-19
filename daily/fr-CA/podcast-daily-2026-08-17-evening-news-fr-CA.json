@@ -1,0 +1,460 @@
+{
+ "title": "Le bulletin du soir, lundi 17 août",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-news",
+   "wpm": 185,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-17",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lundi dix-sept août. Le bulletin du soir.",
+   "en": "Monday the seventeenth of August. The evening bulletin.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Québec et Terre-Neuve-et-Labrador signent l'entente sur Churchill Falls à Saint-Jean.",
+   "en": "«Québec» and «Terre-Neuve-et-Labrador» sign the «Churchill Falls» agreement in «Saint-Jean».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'inflation s'est établie à trois pour cent en juillet au Canada.",
+   "en": "Inflation stood at three per cent in July in Canada.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par l'énergie, et par une signature attendue depuis des années.",
+   "en": "We begin with energy, and with a signature years in the waiting.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le premier ministre du Canada, Mark Carney,",
+   "en": "Canada's prime minister, «Mark Carney»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "était à Terre-Neuve ce lundi.",
+   "en": "was in Newfoundland this Monday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il y a retrouvé le premier ministre terre-neuvien, Tony Wakeham,",
+   "en": "There he met the Newfoundland premier, «Tony Wakeham»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et la première ministre du Québec, Christine Fréchette.",
+   "en": "and the premier of «Québec», «Christine Fréchette».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les trois se sont réunis à Saint-Jean pour une annonce sur la sécurité énergétique",
+   "en": "The three met in «Saint-Jean» for an announcement on energy security",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le développement économique.",
+   "en": "and economic development.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est la première ministre du Québec qui signe l'entente sur Churchill Falls avec Terre-Neuve-et-Labrador.",
+   "en": "It is the premier of «Québec» who signs the «Churchill Falls» agreement with «Terre-Neuve-et-Labrador».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'annonce portait sur la sécurité énergétique et le développement économique, selon Radio-Canada et CBC.",
+   "en": "The announcement was on energy security and economic development, according to «Radio-Canada» and «CBC».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans l'actualité d'ici, l'économie, et un chiffre qui touche tout le monde.",
+   "en": "In other news, the economy, and a figure that touches everybody.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'inflation s'est établie à trois pour cent en juillet au Canada.",
+   "en": "Inflation stood at three per cent in July in Canada.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est une légère accélération par rapport au mois précédent.",
+   "en": "That is a slight acceleration on the month before.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce sont les consommateurs à la pompe qui ont porté cette hausse.",
+   "en": "It was consumers at the pump who carried the rise.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La remontée du prix de l'essence en juillet a contribué à la hausse de l'indice",
+   "en": "The recovery in petrol prices in July contributed to the rise in",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "des prix à la consommation.",
+   "en": "the consumer price index.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est ce que rapportent Radio-Canada et Le Devoir ce lundi.",
+   "en": "That is what «Radio-Canada» and «Le Devoir» report this Monday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On poursuit, Montréal, où un conflit de travail pourrait toucher un grand rendez-vous sportif.",
+   "en": "Moving on, «Montréal», where a labour dispute could reach a major sporting event.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les cols bleus de la Ville menacent de tomber en grève en septembre.",
+   "en": "The city's blue-collar workers are threatening to strike in September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce serait pendant les Championnats du monde de cyclisme sur route.",
+   "en": "It would be during the road cycling World Championships.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Leur syndicat réclame plus de concessions à la Ville, notamment salariales.",
+   "en": "Their union is demanding more concessions from the city, on pay in particular.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ils sont sans convention collective depuis deux mille vingt-cinq.",
+   "en": "They have been without a collective agreement since twenty twenty five.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les négociations stagnent, et les moyens de pression pourraient s'intensifier.",
+   "en": "Negotiations are stalling, and the pressure tactics could intensify.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est ce qu'ont appris La Presse et Le Devoir.",
+   "en": "That is what «La Presse» and «Le Devoir» have learned.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre nouvelle maintenant, le Proche-Orient,",
+   "en": "Turning to something else, the Middle East,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où l'émissaire américain a passé la journée en Israël.",
+   "en": "where the American envoy spent the day in Israel.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Jared Kushner a amorcé lundi une rencontre avec Benyamin Nétanyahou.",
+   "en": "«Jared Kushner» began a meeting with «Benyamin Nétanyahou» on Monday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il cherche à faire avancer la deuxième phase du plan de paix américain dans la",
+   "en": "He is seeking to advance the second phase of the American peace plan in",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "bande de Gaza.",
+   "en": "the «Gaza» Strip.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cette deuxième phase est rejetée par le premier ministre israélien.",
+   "en": "That second phase is rejected by the Israeli prime minister.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La veille, l'émissaire américain avait rencontré une délégation du Hamas en Égypte.",
+   "en": "The day before, the American envoy had met a «Hamas» delegation in Egypt.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est ce que rapportent Radio-Canada et La Presse.",
+   "en": "That is what «Radio-Canada» and «La Presse» report.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En terminant, la République démocratique du Congo,",
+   "en": "And finally, the Democratic Republic of Congo,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et une épidémie qui s'aggrave.",
+   "en": "and an epidemic that is worsening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'épidémie d'Ebola y est devenue lundi la plus meurtrière de l'histoire du pays.",
+   "en": "The Ebola epidemic there became on Monday the deadliest in the country's history.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle a dépassé en trois mois les deux mille trois cents morts de la flambée",
+   "en": "In three months it has passed the two thousand three hundred deaths of",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de deux mille dix-huit à deux mille vingt.",
+   "en": "the twenty eighteen to twenty twenty outbreak.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'épidémie se propage à une vitesse inédite, selon La Presse.",
+   "en": "The epidemic is spreading at an unprecedented speed, according to «La Presse».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle tue une personne toutes les trente minutes, a affirmé l'Organisation des Nations unies.",
+   "en": "It kills one person every thirty minutes, the United Nations said.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est ce que rapportait Le Devoir ce lundi matin.",
+   "en": "That is what «Le Devoir» reported this Monday morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel de ce lundi soir.",
+   "en": "That is the essential of this Monday evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The evening news, Monday 17 August",
+ "edition": "evening",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "Prime Minister Mark Carney met Newfoundland Premier Tony Wakeham and Quebec Premier Christ",
+ "summary_en": [
+  "Prime Minister Mark Carney met Newfoundland Premier Tony Wakeham and Quebec Premier Christ",
+  "Inflation stood at 3.0 per cent in July in Canada, a slight acceleration, with the recover",
+  "Montreal's blue-collar workers are threatening to strike during the UCI Road World Champio"
+ ]
+}
