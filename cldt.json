@@ -1,10 +1,11 @@
 {
  "schema": 1,
- "generated": "2026-08-19T22:24:27.280Z",
+ "generated": "2026-08-19T22:28:41.042Z",
  "channels": [
   {
    "dialect": "es-AR",
-   "updated": "2026-08-19T21:16:13Z",
+   "updated": "2026-08-19T22:28:24.527Z",
+   "content": "9675abc60c8981d7c0c0141140cfebd7e02f0dcb7c647db2096f25fae23a2825",
    "days": 4,
    "episodes": 11,
    "latest_date": "2026-08-19",
@@ -14,7 +15,8 @@
   },
   {
    "dialect": "es-CL",
-   "updated": "2026-08-19T21:16:13Z",
+   "updated": "2026-08-19T22:28:24.527Z",
+   "content": "50242cf8331d3242f07de86d529381000f3bdbfd8119e04aa4a411de51d1fd74",
    "days": 3,
    "episodes": 8,
    "latest_date": "2026-08-19",
@@ -24,7 +26,8 @@
   },
   {
    "dialect": "es-CO",
-   "updated": "2026-08-19T21:16:13Z",
+   "updated": "2026-08-19T22:28:24.527Z",
+   "content": "7ea3d6c2b28f6f4226be68d11b2ee9d050417cf9474252e0d48ec915cec4c670",
    "days": 4,
    "episodes": 9,
    "latest_date": "2026-08-19",
@@ -34,7 +37,8 @@
   },
   {
    "dialect": "es-ES",
-   "updated": "2026-08-19T21:16:13Z",
+   "updated": "2026-08-19T22:28:24.527Z",
+   "content": "12519fb8a387b3059f06fd410ffd6db234e43df69f71071c28b4343c941ac7e2",
    "days": 4,
    "episodes": 24,
    "latest_date": "2026-08-19",
@@ -44,7 +48,8 @@
   },
   {
    "dialect": "es-MX",
-   "updated": "2026-08-19T21:16:13Z",
+   "updated": "2026-08-19T22:28:24.527Z",
+   "content": "314e72bd589a38ddaf746ba200fdf5a8d1b89dea866025d1244e6f0c8b69ed2e",
    "days": 4,
    "episodes": 12,
    "latest_date": "2026-08-19",
@@ -54,7 +59,8 @@
   },
   {
    "dialect": "fr-BE",
-   "updated": "2026-08-19T21:16:13Z",
+   "updated": "2026-08-19T22:28:24.527Z",
+   "content": "eca58c6b169ebc3c0a06fb17fb23ed66effc41b450ab75ca7ef4f923d8c58c5c",
    "days": 3,
    "episodes": 10,
    "latest_date": "2026-08-19",
@@ -64,7 +70,8 @@
   },
   {
    "dialect": "fr-CA",
-   "updated": "2026-08-19T21:21:17Z",
+   "updated": "2026-08-19T22:28:24.527Z",
+   "content": "57894eb72363a2b0fcebf3044090896fea1e0e27f99b37b3836574556f5137f8",
    "days": 4,
    "episodes": 11,
    "latest_date": "2026-08-19",
@@ -74,7 +81,8 @@
   },
   {
    "dialect": "fr-FR",
-   "updated": "2026-08-19T21:16:13Z",
+   "updated": "2026-08-19T22:28:24.527Z",
+   "content": "836d3d9ef60b705bea692d14f73b1b57156d4074293179c131a00d93e2fbc10b",
    "days": 4,
    "episodes": 16,
    "latest_date": "2026-08-19",
