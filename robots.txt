@@ -1,0 +1,4 @@
+# The Podyglot Today feed is a machine feed for one app, not a
+# website anyone is meant to find. Please do not crawl or index it.
+User-agent: *
+Disallow: /
