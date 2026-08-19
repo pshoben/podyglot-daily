@@ -1,0 +1,49 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-AR",
+ "date": "2026-08-19",
+ "episodes": [
+  {
+   "id": "es-AR-El noticiero de la mañana, miércoles 19 de agosto",
+   "file": "podcast-daily-2026-08-19-morning-news-es-AR.json",
+   "bytes": 13858,
+   "sha256": "d25543918baf710c08345218209e5ca0b7ab81fe61f1b4105f6b04fcc76f5823",
+   "date": "2026-08-19",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El noticiero de la mañana, miércoles 19 de agosto",
+   "title_en": "The morning news, Wednesday 19 August",
+   "headline_en": "Fernando Cerimedo, former adviser to president Javier Milei, is detained in Bolivia as the",
+   "summary_en": [
+    "Fernando Cerimedo, former adviser to president Javier Milei, is detained in Bolivia as the",
+    "Before the federal judge of San Isidro, Lino Mirabelli, former deputy Jose Luis Espert ask",
+    "The Appeals Chamber confirmed the detention of Albertina Mangini, a judicial official who"
+   ]
+  },
+  {
+   "id": "es-AR-El pronóstico, miércoles 19 de agosto",
+   "file": "podcast-daily-2026-08-19-morning-weather-es-AR.json",
+   "bytes": 6846,
+   "sha256": "9e89d29674ee76eba09fced7f0c0ffb1134d6767bc10a40744cd3d5eb135ada7",
+   "date": "2026-08-19",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El pronóstico, miércoles 19 de agosto",
+   "title_en": "Today's weather, Wednesday 19 August",
+   "headline_en": "Previsión para Buenos Aires, miércoles 2026-08-19",
+   "summary_en": [
+    "Previsión para Buenos Aires, miércoles 2026-08-19",
+    "Previsión para Córdoba, miércoles 2026-08-19"
+   ]
+  }
+ ]
+}

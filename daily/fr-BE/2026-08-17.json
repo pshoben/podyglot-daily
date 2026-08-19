@@ -1,0 +1,129 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-BE",
+ "date": "2026-08-17",
+ "episodes": [
+  {
+   "id": "fr-BE-Le sept heures, lundi 17 août",
+   "file": "podcast-daily-2026-08-17-morning-news-fr-BE.json",
+   "bytes": 12629,
+   "sha256": "e96b4372e43ddd1e41637fba368584f03ab99c3e5d9fdef950473df5119cc128",
+   "date": "2026-08-17",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, lundi 17 août",
+   "title_en": "The morning news, Monday 17 August",
+   "headline_en": "The fire in the Landes in France is contained, half the evacuated residents go home",
+   "summary_en": [
+    "The fire in the Landes in France is contained, half the evacuated residents go home",
+    "Rain reaches the Hautes Fagnes fire, and the King visits the firefighters",
+    "Close to three thousand hectares burned since Friday"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, lundi 17 août",
+   "file": "podcast-daily-2026-08-17-morning-weather-fr-BE.json",
+   "bytes": 5939,
+   "sha256": "5cabdf7ad141c10913984a1f94d8dd0e7304f1b9c441fddacdeca4c0989fa2d7",
+   "date": "2026-08-17",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, lundi 17 août",
+   "title_en": "Today's weather, Monday 17 August",
+   "headline_en": "Cloud, showers and sunny spells today, nineteen to twenty six degrees",
+   "summary_en": [
+    "Cloud, showers and sunny spells today, nineteen to twenty six degrees",
+    "The heat and drought break: seasonal temperatures and rain return"
+   ]
+  },
+  {
+   "id": "fr-BE-Le sport chez nous, lundi 17 août",
+   "file": "podcast-daily-2026-08-17-morning-sport-fr-BE.json",
+   "bytes": 4869,
+   "sha256": "1fccc155797f6f4df331376677e99a858656f89ea3e1a3dc0989c9562de48afe",
+   "date": "2026-08-17",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sport chez nous, lundi 17 août",
+   "title_en": "Today's sport, Monday 17 August",
+   "headline_en": "The Red Lions play Germany tonight at half past eight in Wavre",
+   "summary_en": [
+    "The Red Lions play Germany tonight at half past eight in Wavre",
+    "The hockey World Cup runs at the Belfius Hockey Arena until the thirtieth"
+   ]
+  },
+  {
+   "id": "fr-BE-Le dix-huit heures, lundi 17 août",
+   "file": "podcast-daily-2026-08-17-evening-news-fr-BE.json",
+   "bytes": 11520,
+   "sha256": "7b5d4e32d3c62a294434ccefaab3b267daca001eb6ea4dd2f7e93c4f1847e712",
+   "date": "2026-08-17",
+   "edition": "evening",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le dix-huit heures, lundi 17 août",
+   "title_en": "The evening news, Monday 17 August",
+   "headline_en": "EU foreign policy chief wants a third more Russian entities sanctioned",
+   "summary_en": [
+    "EU foreign policy chief wants a third more Russian entities sanctioned",
+    "Rain in the Fagnes; fire not advancing towards the German border; King visits",
+    "Cafe destroyed by fire on the square at Montigny-le-Tilleul"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, lundi 17 août",
+   "file": "podcast-daily-2026-08-17-evening-weather-fr-BE.json",
+   "bytes": 6658,
+   "sha256": "e5d24a6089b274f59010a2ffc5be986d3079cac1a88976fe5bd2c0b29c37bc54",
+   "date": "2026-08-17",
+   "edition": "evening",
+   "programme": "weather",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, lundi 17 août",
+   "title_en": "The forecast, Monday 17 August",
+   "headline_en": "Prévision pour Bruxelles, demain, mardi 2026-08-18",
+   "summary_en": [
+    "Prévision pour Bruxelles, demain, mardi 2026-08-18",
+    "Prévision pour Bruxelles, mercredi 2026-08-19"
+   ]
+  },
+  {
+   "id": "fr-BE-Les scores, lundi 17 août",
+   "file": "podcast-daily-2026-08-17-evening-results-fr-BE.json",
+   "bytes": 3614,
+   "sha256": "c00f0c7db6f0bef8e064229df4d1fa74178033dcbff2a541781369074d38a1cc",
+   "date": "2026-08-17",
+   "edition": "evening",
+   "programme": "results",
+   "programme_order": 3,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Les scores, lundi 17 août",
+   "title_en": "Results, Monday 17 August",
+   "headline_en": "Red Panthers open their World Cup in Wavre with a 5-2 win",
+   "summary_en": [
+    "Red Panthers open their World Cup in Wavre with a 5-2 win"
+   ]
+  }
+ ]
+}

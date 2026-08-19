@@ -1,0 +1,49 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-MX",
+ "date": "2026-08-19",
+ "episodes": [
+  {
+   "id": "es-MX-El noticiario matutino, miércoles 19 de agosto",
+   "file": "podcast-daily-2026-08-19-morning-news-es-MX.json",
+   "bytes": 10192,
+   "sha256": "9cbcd9e2185da885004e1ff85f8c316d4fe9f2fda35eb06003bcdc86ef5f5e9c",
+   "date": "2026-08-19",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El noticiario matutino, miércoles 19 de agosto",
+   "title_en": "The morning news, Wednesday 19 August",
+   "headline_en": "Roadblocks, shootings and the burning of vehicles are being recorded at various points in",
+   "summary_en": [
+    "Roadblocks, shootings and the burning of vehicles are being recorded at various points in",
+    "The United States Department of Commerce preliminarily set antidumping margins of up to 5",
+    "The director of the United States anti-drug agency, the DEA, Terry Cole, said that Omar Ga"
+   ]
+  },
+  {
+   "id": "es-MX-El clima, miércoles 19 de agosto",
+   "file": "podcast-daily-2026-08-19-morning-weather-es-MX.json",
+   "bytes": 5555,
+   "sha256": "a6de511ea5d2ff8c7e63d5db3b8ef19739c663b5e82689f4e05eb7fb84776c6e",
+   "date": "2026-08-19",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El clima, miércoles 19 de agosto",
+   "title_en": "Today's weather, Wednesday 19 August",
+   "headline_en": "Previsión para Ciudad de México, miércoles 2026-08-19",
+   "summary_en": [
+    "Previsión para Ciudad de México, miércoles 2026-08-19",
+    "Previsión para Guadalajara, miércoles 2026-08-19"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-FR",
+ "date": "2026-08-17",
+ "episodes": [
+  {
+   "id": "fr-FR-Le journal du matin, lundi 17 août",
+   "file": "podcast-daily-2026-08-17-morning-news-fr-FR.json",
+   "bytes": 16095,
+   "sha256": "21cf704a68c7ee7f25df84ede6e1e839116a91cee2eed4af97c9a8af561faf12",
+   "date": "2026-08-17",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, lundi 17 août",
+   "title_en": "The morning news, Monday 17 August",
+   "headline_en": "Kushner meets Netanyahu in Israel after talks with Hamas",
+   "summary_en": [
+    "Kushner meets Netanyahu in Israel after talks with Hamas",
+    "Ebola epidemic in DR Congo becomes the country's deadliest",
+    "Lecornu in Gironde: fire aid could exceed 100 million euros"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, lundi 17 août",
+   "file": "podcast-daily-2026-08-17-morning-weather-fr-FR.json",
+   "bytes": 5246,
+   "sha256": "3631497346c0e30ad9888c3ad2f98c726f3aa3b98d8b2b451bbdf4a76fc5fe12",
+   "date": "2026-08-17",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, lundi 17 août",
+   "title_en": "Today's weather, Monday 17 August",
+   "headline_en": "Paris: 29 degrees",
+   "summary_en": [
+    "Paris: 29 degrees",
+    "Marseille: 33 degrees"
+   ]
+  },
+  {
+   "id": "fr-FR-Le journal du soir, lundi 17 août",
+   "file": "podcast-daily-2026-08-17-evening-news-fr-FR.json",
+   "bytes": 12529,
+   "sha256": "0facd5c585c808fd75fbb1277b0c10ea3a7b4f85fb68fa141f34e38912db1a3c",
+   "date": "2026-08-17",
+   "edition": "evening",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du soir, lundi 17 août",
+   "title_en": "The evening news, Monday 17 August",
+   "headline_en": "Eight Muslim countries condemn the Israeli refusal to pursue the Gaza plan",
+   "summary_en": [
+    "Eight Muslim countries condemn the Israeli refusal to pursue the Gaza plan",
+    "Lecornu answers criticism in Gironde as the reconstruction mission starts",
+    "July megafire forced 220,000 to evacuate; worst since 1949"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, lundi 17 août",
+   "file": "podcast-daily-2026-08-17-evening-weather-fr-FR.json",
+   "bytes": 7102,
+   "sha256": "ef078a2c772d09acd0c1f2ace28463deacb092e0b647f6acf77c758602d3361f",
+   "date": "2026-08-17",
+   "edition": "evening",
+   "programme": "weather",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, lundi 17 août",
+   "title_en": "The forecast, Monday 17 August",
+   "headline_en": "Prévision pour Paris, demain, mardi 2026-08-18",
+   "summary_en": [
+    "Prévision pour Paris, demain, mardi 2026-08-18",
+    "Prévision pour Paris, mercredi 2026-08-19"
+   ]
+  },
+  {
+   "id": "fr-FR-Les résultats, lundi 17 août",
+   "file": "podcast-daily-2026-08-17-evening-results-fr-FR.json",
+   "bytes": 5200,
+   "sha256": "439cdd130f6c60a9b1fabf1883b8cd5ef3b1def69c44cae4d688a7b33e655dda",
+   "date": "2026-08-17",
+   "edition": "evening",
+   "programme": "results",
+   "programme_order": 3,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Les résultats, lundi 17 août",
+   "title_en": "Results, Monday 17 August",
+   "headline_en": "Leon Marchand took two individual titles including the 400 metres freestyle on Sunday even",
+   "summary_en": [
+    "Leon Marchand took two individual titles including the 400 metres freestyle on Sunday even",
+    "At the European athletics championships in Birmingham, which ended on Sunday, France leave"
+   ]
+  }
+ ]
+}

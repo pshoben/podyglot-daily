@@ -1,0 +1,49 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-CO",
+ "date": "2026-08-19",
+ "episodes": [
+  {
+   "id": "es-CO-La actualidad de la mañana, miércoles 19 de agosto",
+   "file": "podcast-daily-2026-08-19-morning-news-es-CO.json",
+   "bytes": 17335,
+   "sha256": "27cec1f8ddbea8fd1a8311ed815f568aff11466a14521ed6f66d4cff5e4d7634",
+   "date": "2026-08-19",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "La actualidad de la mañana, miércoles 19 de agosto",
+   "title_en": "The morning news, Wednesday 19 August",
+   "headline_en": "President Abelardo de la Espriella and vice-president Jose Manuel Restrepo handed on Tuesd",
+   "summary_en": [
+    "President Abelardo de la Espriella and vice-president Jose Manuel Restrepo handed on Tuesd",
+    "The attorney general's office will hold on Monday 24 August a charging hearing for the off",
+    "The parliament of Ukraine ratified the appointment of Yevgueni Khmara as the new defence m"
+   ]
+  },
+  {
+   "id": "es-CO-El clima de hoy, miércoles 19 de agosto",
+   "file": "podcast-daily-2026-08-19-morning-weather-es-CO.json",
+   "bytes": 5463,
+   "sha256": "04060a6473da4ce23407a26892150da717fc73e9f351590e1bbd5be64f38409e",
+   "date": "2026-08-19",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "El clima de hoy, miércoles 19 de agosto",
+   "title_en": "Today's weather, Wednesday 19 August",
+   "headline_en": "Previsión para Bogotá, miércoles 2026-08-19",
+   "summary_en": [
+    "Previsión para Bogotá, miércoles 2026-08-19",
+    "Previsión para Medellín, miércoles 2026-08-19"
+   ]
+  }
+ ]
+}

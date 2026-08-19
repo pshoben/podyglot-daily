@@ -1,0 +1,68 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-MX",
+ "date": "2026-08-18",
+ "episodes": [
+  {
+   "id": "es-MX-El noticiario matutino, martes 18 de agosto",
+   "file": "podcast-daily-2026-08-18-morning-news-es-MX.json",
+   "bytes": 12736,
+   "sha256": "1200514ca935fb6261c3cd09f5ad64dbd83674d13a3abe91a0e15bfc00dee5db",
+   "date": "2026-08-18",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El noticiario matutino, martes 18 de agosto",
+   "title_en": "The morning news, Tuesday 18 August",
+   "headline_en": "Monica Soto resigned as magistrate of the superior chamber of the Electoral Tribunal of th",
+   "summary_en": [
+    "Monica Soto resigned as magistrate of the superior chamber of the Electoral Tribunal of th",
+    "The Mexican petrochemical company Braskem Idesa, a joint venture of Brazil's Braskem and M",
+    "Ediciones Era, founded in 1960 and one of the most important independent Mexican imprints,"
+   ]
+  },
+  {
+   "id": "es-MX-La agenda deportiva, martes 18 de agosto",
+   "file": "podcast-daily-2026-08-18-morning-sport-es-MX.json",
+   "bytes": 3843,
+   "sha256": "b20b0944ed99d46a67f5465dcf0f464477a1bc573f0061ced4e6c4d162045673",
+   "date": "2026-08-18",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "La agenda deportiva, martes 18 de agosto",
+   "title_en": "Today's sport, Tuesday 18 August",
+   "headline_en": "Cruz Azul is preparing legal, civil and criminal action against youtubers who insulted its",
+   "summary_en": [
+    "Cruz Azul is preparing legal, civil and criminal action against youtubers who insulted its"
+   ]
+  },
+  {
+   "id": "es-MX-El clima, martes 18 de agosto",
+   "file": "podcast-daily-2026-08-18-morning-weather-es-MX.json",
+   "bytes": 5119,
+   "sha256": "e2c99bcf60fca8dd5f853b718606f296c1a15c8f2e0b21ba54ebc458e8f9e360",
+   "date": "2026-08-18",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El clima, martes 18 de agosto",
+   "title_en": "Today's weather, Tuesday 18 August",
+   "headline_en": "Forecast for Mexico City, Tuesday 2026-08-18: high 24 degrees, low 12; sky with drizzle; 3",
+   "summary_en": [
+    "Forecast for Mexico City, Tuesday 2026-08-18: high 24 degrees, low 12; sky with drizzle; 3",
+    "Forecast for Guadalajara, Tuesday 2026-08-18: high 30 degrees, low 16; sky with drizzle; 1"
+   ]
+  }
+ ]
+}

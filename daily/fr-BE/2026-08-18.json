@@ -1,0 +1,49 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-BE",
+ "date": "2026-08-18",
+ "episodes": [
+  {
+   "id": "fr-BE-Le sept heures, mardi 18 août",
+   "file": "podcast-daily-2026-08-18-morning-news-fr-BE.json",
+   "bytes": 12025,
+   "sha256": "e6c72a837341602ac110f766468c262cab5ff6ffa7b0586211cacf4f21cd213e",
+   "date": "2026-08-18",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, mardi 18 août",
+   "title_en": "The morning news, Tuesday 18 August",
+   "headline_en": "The Hautes Fagnes fire is still burning",
+   "summary_en": [
+    "The Hautes Fagnes fire is still burning",
+    "Hayden Panettiere was revived by emergency services just before her death, police confirme",
+    "A private helicopter crashed on Monday evening on the Greek island of Sifnos, killing thre"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, mardi 18 août",
+   "file": "podcast-daily-2026-08-18-morning-weather-fr-BE.json",
+   "bytes": 4750,
+   "sha256": "1f3e0fe5c314826907ad2b2ce29e9e8101f9d95db7f46216b2fa5fd58803fb64",
+   "date": "2026-08-18",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, mardi 18 août",
+   "title_en": "Today's weather, Tuesday 18 August",
+   "headline_en": "Prévision pour Bruxelles, mardi 2026-08-18",
+   "summary_en": [
+    "Prévision pour Bruxelles, mardi 2026-08-18",
+    "Prévision pour Liège, mardi 2026-08-18"
+   ]
+  }
+ ]
+}

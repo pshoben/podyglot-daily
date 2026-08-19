@@ -1,0 +1,69 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-FR",
+ "date": "2026-08-19",
+ "episodes": [
+  {
+   "id": "fr-FR-Le journal du matin, mercredi 19 août",
+   "file": "podcast-daily-2026-08-19-morning-news-fr-FR.json",
+   "bytes": 15405,
+   "sha256": "a88018b89672963ba6f41736fc7c2a1c1b250d516fe8d42a0c8d1be03775c0a9",
+   "date": "2026-08-19",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, mercredi 19 août",
+   "title_en": "The morning news, Wednesday 19 August",
+   "headline_en": "France will expel two Iranian diplomats posted in France. The French foreign minister anno",
+   "summary_en": [
+    "France will expel two Iranian diplomats posted in France. The French foreign minister anno",
+    "The law creating a right to assisted dying was promulgated by Emmanuel Macron and publishe",
+    "The law will not apply immediately. The government must still publish the necessary implem"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, mercredi 19 août",
+   "file": "podcast-daily-2026-08-19-morning-sport-fr-FR.json",
+   "bytes": 5977,
+   "sha256": "dc8756074adaa16d3b91a29f8d33bcacbfe559ac31f034706df2a3fa3ed80f4a",
+   "date": "2026-08-19",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, mercredi 19 août",
+   "title_en": "Today's sport, Wednesday 19 August",
+   "headline_en": "The world show jumping championships are being held in Germany, at Aachen. The France team",
+   "summary_en": [
+    "The world show jumping championships are being held in Germany, at Aachen. The France team",
+    "The first matchday of the 2026-2027 Ligue 1 season is being played this weekend. Le Mans F"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, mercredi 19 août",
+   "file": "podcast-daily-2026-08-19-morning-weather-fr-FR.json",
+   "bytes": 7616,
+   "sha256": "7760ae0a578b407f0683527c26413215a1bbcbf9ccb2ff2024e2eaf5f2e14bd1",
+   "date": "2026-08-19",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, mercredi 19 août",
+   "title_en": "Today's weather, Wednesday 19 August",
+   "headline_en": "Prévision pour Paris, mercredi 2026-08-19",
+   "summary_en": [
+    "Prévision pour Paris, mercredi 2026-08-19",
+    "Prévision pour Bordeaux, mercredi 2026-08-19"
+   ]
+  }
+ ]
+}

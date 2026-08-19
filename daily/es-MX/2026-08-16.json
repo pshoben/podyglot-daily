@@ -1,0 +1,67 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-MX",
+ "date": "2026-08-16",
+ "episodes": [
+  {
+   "id": "es-MX-Los marcadores, domingo 16 de agosto",
+   "file": "podcast-daily-2026-08-16-evening-results-es-MX.json",
+   "bytes": 3387,
+   "sha256": "6daea582e49339768e6d7f336dd8609cdb06677b666341a89891e68814805c70",
+   "date": "2026-08-16",
+   "edition": "evening",
+   "programme": "results",
+   "programme_order": null,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "Los marcadores, domingo 16 de agosto",
+   "title_en": "Results, Sunday 16 August",
+   "headline_en": "Monterrey against Ciudad Juarez in Liga MX",
+   "summary_en": [
+    "Monterrey against Ciudad Juarez in Liga MX"
+   ]
+  },
+  {
+   "id": "es-MX-El noticiario vespertino, domingo 16 de agosto",
+   "file": "podcast-daily-2026-08-16-news-es-MX.json",
+   "bytes": 12305,
+   "sha256": "4e9c156997470c4f7ee532a60e92d95a148eb2f75d91d1d049053257263902a9",
+   "date": "2026-08-16",
+   "edition": "legacy",
+   "programme": "news",
+   "programme_order": null,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El noticiario vespertino, domingo 16 de agosto",
+   "title_en": "The evening news, Sunday 16 August",
+   "headline_en": "Indonesia's earthquake is the country's deadliest since 2022",
+   "summary_en": [
+    "Indonesia's earthquake is the country's deadliest since 2022",
+    "Migrants protest in Ceuta and demand asylum from Spain",
+    "US embassy: a visa is a privilege, not a right"
+   ]
+  },
+  {
+   "id": "es-MX-Los resultados, domingo 16 de agosto",
+   "file": "podcast-daily-2026-08-16-results-es-MX.json",
+   "bytes": 3386,
+   "sha256": "38e6e2c26b8eb319f5d5164190ac78aeb22cbd0665b341d17233839c367ed1e0",
+   "date": "2026-08-16",
+   "edition": "legacy",
+   "programme": "results",
+   "programme_order": null,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "Los resultados, domingo 16 de agosto",
+   "title_en": "Results, Sunday 16 August",
+   "headline_en": "Monterrey against Ciudad Juarez in Liga MX",
+   "summary_en": [
+    "Monterrey against Ciudad Juarez in Liga MX"
+   ]
+  }
+ ]
+}

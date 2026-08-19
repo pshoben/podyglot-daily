@@ -1,0 +1,49 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-BE",
+ "date": "2026-08-19",
+ "episodes": [
+  {
+   "id": "fr-BE-Le sept heures, mercredi 19 août",
+   "file": "podcast-daily-2026-08-19-morning-news-fr-BE.json",
+   "bytes": 10961,
+   "sha256": "b614c7b2dcc4ed33f12493724efe4f7f3fb85ceb332a1b455f0ab9358fcecfb6",
+   "date": "2026-08-19",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, mercredi 19 août",
+   "title_en": "The morning news, Wednesday 19 August",
+   "headline_en": "The fire in the Hautes Fagnes has been encircled but is not yet under control, and the sit",
+   "summary_en": [
+    "The fire in the Hautes Fagnes has been encircled but is not yet under control, and the sit",
+    "Belgium's civil cooperation with Ukraine is intensifying. It covers the reintegration of v",
+    "Prince Laurent's paternity of Clement Vandenkerckhove has been established before a regist"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, mercredi 19 août",
+   "file": "podcast-daily-2026-08-19-morning-weather-fr-BE.json",
+   "bytes": 4881,
+   "sha256": "fa0ea87d3eef8e93915df037ce37d0d5ef981a882104db9f1c4371af90f9c867",
+   "date": "2026-08-19",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, mercredi 19 août",
+   "title_en": "Today's weather, Wednesday 19 August",
+   "headline_en": "Prévision pour Bruxelles, mercredi 2026-08-19",
+   "summary_en": [
+    "Prévision pour Bruxelles, mercredi 2026-08-19",
+    "Prévision pour Liège, mercredi 2026-08-19"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-CO",
+ "date": "2026-08-17",
+ "episodes": [
+  {
+   "id": "es-CO-La actualidad de la mañana, lunes 17 de agosto",
+   "file": "podcast-daily-2026-08-17-morning-news-es-CO.json",
+   "bytes": 12218,
+   "sha256": "20a2eb2a81854bcf7d81b26e7f41b0ef3dbc479febb4137f9b3d74c7f113fd8a",
+   "date": "2026-08-17",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "La actualidad de la mañana, lunes 17 de agosto",
+   "title_en": "The morning news, Monday 17 August",
+   "headline_en": "Peru announces a fuel subsidy to contain protests",
+   "summary_en": [
+    "Peru announces a fuel subsidy to contain protests",
+    "Rescue work ends a week after the earthquake, recovery begins",
+    "Cali: 130 dead, 94 missing, more than 4,100 damaged buildings"
+   ]
+  },
+  {
+   "id": "es-CO-El clima de hoy, lunes 17 de agosto",
+   "file": "podcast-daily-2026-08-17-morning-weather-es-CO.json",
+   "bytes": 4600,
+   "sha256": "67a0ccd34461508fac9ace55c1e826a33d8748dadf79160949aef9e1f6838e95",
+   "date": "2026-08-17",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "El clima de hoy, lunes 17 de agosto",
+   "title_en": "Today's weather, Monday 17 August",
+   "headline_en": "Bogotá: 18 degrees",
+   "summary_en": [
+    "Bogotá: 18 degrees",
+    "Medellín: 26 degrees"
+   ]
+  },
+  {
+   "id": "es-CO-El clima de hoy, lunes 17 de agosto",
+   "file": "podcast-daily-2026-08-17-evening-weather-es-CO.json",
+   "bytes": 6738,
+   "sha256": "87f1c3cde472f7ef800326b72852ac160171c8c815452ecd5644529c94c89c24",
+   "date": "2026-08-17",
+   "edition": "evening",
+   "programme": "weather",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "El clima de hoy, lunes 17 de agosto",
+   "title_en": "The forecast, Monday 17 August",
+   "headline_en": "Previsión para Bogotá, mañana, martes 2026-08-18",
+   "summary_en": [
+    "Previsión para Bogotá, mañana, martes 2026-08-18",
+    "Previsión para Bogotá, miércoles 2026-08-19"
+   ]
+  }
+ ]
+}
