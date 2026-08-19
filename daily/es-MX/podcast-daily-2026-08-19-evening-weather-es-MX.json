@@ -1,0 +1,199 @@
+{
+ "title": "El clima, miércoles 19 de agosto",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-weather",
+   "wpm": 186,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-19",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El tiempo para mañana, jueves,",
+   "en": "The weather for tomorrow, Thursday,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de una ciudad a otra.",
+   "en": "from one city to another.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la Ciudad de México, cielo con chubascos,",
+   "en": "In «Mexico City», sky with showers,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "máxima de veinticuatro grados y mínima de doce.",
+   "en": "a high of twenty-four degrees and a low of twelve.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación es del cien por ciento, así que mañana llueve.",
+   "en": "The chance of precipitation is one hundred per cent, so tomorrow it rains.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento no pasa de seis kilómetros por hora.",
+   "en": "The wind does not go above six kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Guadalajara, también chubascos, pero la probabilidad baja al veinticinco por ciento.",
+   "en": "In «Guadalajara», showers as well, but the chance drops to twenty-five per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Veintiocho grados de máxima y dieciséis de mínima,",
+   "en": "Twenty-eight degrees for the high and sixteen for the low,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con viento de siete kilómetros por hora.",
+   "en": "with wind of seven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Monterrey, llovizna, y ahí sí aprieta el calor:",
+   "en": "In «Monterrey», drizzle, and there the heat really bites:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "treinta y seis grados de máxima y veinticuatro de mínima.",
+   "en": "thirty-six degrees for the high and twenty-four for the low.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de lluvia también es del veinticinco por ciento,",
+   "en": "The chance of rain is twenty-five per cent as well,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el viento llega a veinte kilómetros por hora.",
+   "en": "and the wind gets to twenty kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viernes la capital sigue con llovizna.",
+   "en": "On Friday the capital still has drizzle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Monterrey, en cambio, la probabilidad de lluvia baja al ocho por ciento.",
+   "en": "In «Monterrey», by contrast, the chance of rain drops to eight per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Estas previsiones vienen del modelo del Centro Europeo, el ECMWF.",
+   "en": "These forecasts come from the European Centre's model, the «ECMWF».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y así se presenta el jueves.",
+   "en": "And that is how Thursday looks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "The forecast, Wednesday 19 August",
+ "edition": "evening",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "Previsión para Ciudad de México, mañana, jueves 2026-08-20",
+ "summary_en": [
+  "Previsión para Ciudad de México, mañana, jueves 2026-08-20",
+  "Previsión para Guadalajara, mañana, jueves 2026-08-20"
+ ]
+}

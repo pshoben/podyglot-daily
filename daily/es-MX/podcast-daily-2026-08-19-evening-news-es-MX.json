@@ -1,0 +1,370 @@
+{
+ "title": "El noticiario vespertino, miércoles 19 de agosto",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-news",
+   "wpm": 186,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-19",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Miércoles diecinueve de agosto, cinco y media de la tarde en la Ciudad de México.",
+   "en": "Wednesday the nineteenth of August, half past five in the evening in «Mexico City».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El noticiario vespertino.",
+   "en": "The evening news bulletin.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Nueve presuntos integrantes del CJNG detenidos en Michoacán.",
+   "en": "Nine alleged members of the «CJNG» detained in «Michoacan».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "García Harfuch presenta los resultados de la estrategia antidrogas en Buenos Aires.",
+   "en": "«Garcia Harfuch» presents the results of the anti-drug strategy in «Buenos Aires».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y Estados Unidos deporta a mexicanos a Centroamérica.",
+   "en": "And the United States deports Mexicans to Central America.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos por las detenciones.",
+   "en": "We start with the detentions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las autoridades federales confirmaron la detención de nueve presuntos integrantes del CJNG.",
+   "en": "The federal authorities confirmed the detention of nine alleged members of the «CJNG».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Entre los detenidos están la pareja y una hija del Tío Lako,",
+   "en": "Among those detained are the partner and a daughter of the «Tio Lako», a",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "jefe regional del cártel.",
+   "en": "regional chief of the cartel.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese operativo es el que provocó los bloqueos",
+   "en": "That operation is the one that set off this morning's blockades",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la quema de vehículos de la mañana.",
+   "en": "and burning of vehicles.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El estado reforzó los operativos con la Defensa y la Guardia Nacional.",
+   "en": "The state reinforced its operations with «Defensa» and the «Guardia Nacional».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El objetivo era liberar las carreteras cerradas.",
+   "en": "The aim was to clear the closed roads.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Reforma, El Economista y El Financiero siguen las detenciones.",
+   "en": "«Reforma», «El Economista» and «El Financiero» are following the detentions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos con la seguridad.",
+   "en": "We stay with security.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Omar García Harfuch participa en la Conferencia Internacional para el Control de Drogas,",
+   "en": "«Omar Garcia Harfuch» is taking part in the International Drug Enforcement Conference,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en Buenos Aires.",
+   "en": "in «Buenos Aires».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El secretario de Seguridad y Protección Ciudadana afirmó allí que ninguna organización criminal puede ser",
+   "en": "The secretary of security and citizen protection said there that no criminal organisation can",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "más fuerte que los estados.",
+   "en": "be stronger than states.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso, dijo, cuando los estados actúan coordinados y con determinación.",
+   "en": "That, he said, when states act in a coordinated way and with determination.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Destacó el desmantelamiento de más de dos mil setecientos laboratorios clandestinos por parte del Ejército",
+   "en": "He highlighted the dismantling of more than two thousand seven hundred clandestine laboratories by the Army",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y de la Marina.",
+   "en": "and the Navy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En esos laboratorios se producían metanfetaminas y otras drogas sintéticas.",
+   "en": "Methamphetamine and other synthetic drugs were produced in those laboratories.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También se reunió con la ministra de Seguridad argentina, Alejandra Monteoliva.",
+   "en": "He also met Argentina's security minister, «Alejandra Monteoliva».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hablaron de la cooperación contra el narcotráfico.",
+   "en": "They talked about cooperation against drug trafficking.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Jornada y El Economista recogen la intervención.",
+   "en": "«La Jornada» and «El Economista» carry his remarks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Terminamos con la migración.",
+   "en": "We finish with migration.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El gobierno de Donald Trump está deportando a migrantes mexicanos a distintos países de Centroamérica.",
+   "en": "The government of Donald Trump is deporting Mexican migrants to different countries in Central America.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Son cientos de mexicanos deportados a Guatemala y a Honduras.",
+   "en": "Hundreds of Mexicans have been deported to «Guatemala» and to «Honduras».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y eso a pesar de que México se ha mostrado dispuesto a recibir de vuelta",
+   "en": "And that in spite of Mexico having shown itself willing to take all",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a todos sus ciudadanos.",
+   "en": "its citizens back.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo informaron dos funcionarios estadounidenses.",
+   "en": "Two United States officials reported it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Jornada, Reforma y El Financiero lo publican.",
+   "en": "«La Jornada», «Reforma» and «El Financiero» are publishing it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí el resumen de esta tarde.",
+   "en": "That is the round-up for this evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The evening news, Wednesday 19 August",
+ "edition": "evening",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "Nine alleged members of the CJNG were detained in an operation in Michoacan, among them th",
+ "summary_en": [
+  "Nine alleged members of the CJNG were detained in an operation in Michoacan, among them th",
+  "In Buenos Aires, where he is taking part in the International Drug Enforcement Conference,",
+  "The administration of Donald Trump has been deporting Mexican migrants at its discretion t"
+ ]
+}

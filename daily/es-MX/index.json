@@ -46,6 +46,47 @@
    ]
   },
   {
+   "id": "es-MX-El noticiario vespertino, miércoles 19 de agosto",
+   "file": "podcast-daily-2026-08-19-evening-news-es-MX.json",
+   "bytes": 9483,
+   "sha256": "ead9343358790cdb9f250580d04d1645837e393c278a1c1187c9081bda5c90c1",
+   "date": "2026-08-19",
+   "edition": "evening",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El noticiario vespertino, miércoles 19 de agosto",
+   "title_en": "The evening news, Wednesday 19 August",
+   "headline_en": "Nine alleged members of the CJNG were detained in an operation in Michoacan, among them th",
+   "summary_en": [
+    "Nine alleged members of the CJNG were detained in an operation in Michoacan, among them th",
+    "In Buenos Aires, where he is taking part in the International Drug Enforcement Conference,",
+    "The administration of Donald Trump has been deporting Mexican migrants at its discretion t"
+   ]
+  },
+  {
+   "id": "es-MX-El clima, miércoles 19 de agosto",
+   "file": "podcast-daily-2026-08-19-evening-weather-es-MX.json",
+   "bytes": 4835,
+   "sha256": "a0f4c0301f6ee6148a68883c8d1c0393e806c425349335337b6848ae03e954e8",
+   "date": "2026-08-19",
+   "edition": "evening",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El clima, miércoles 19 de agosto",
+   "title_en": "The forecast, Wednesday 19 August",
+   "headline_en": "Previsión para Ciudad de México, mañana, jueves 2026-08-20",
+   "summary_en": [
+    "Previsión para Ciudad de México, mañana, jueves 2026-08-20",
+    "Previsión para Guadalajara, mañana, jueves 2026-08-20"
+   ]
+  },
+  {
    "id": "es-MX-El noticiario matutino, martes 18 de agosto",
    "file": "podcast-daily-2026-08-18-morning-news-es-MX.json",
    "bytes": 12736,
