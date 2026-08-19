@@ -1,0 +1,360 @@
+{
+ "title": "La actualidad del día, miércoles 19 de agosto",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-19",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Miércoles diecinueve de agosto, seis y media de la tarde en Bogotá.",
+   "en": "Wednesday the nineteenth of August, half past six in the evening in «Bogota».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La actualidad del día.",
+   "en": "The day's news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El presidente confirma que la emergencia económica y social se firma hoy.",
+   "en": "The president confirms that the economic and social emergency is being signed today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Policía confirma el secuestro de seis uniformados.",
+   "en": "The police confirm the kidnapping of six officers.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el Gobierno radica la Ley de Competitividad ante el Congreso.",
+   "en": "And the government files the Competitiveness Bill before Congress.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos por la reconstrucción.",
+   "en": "We start with the reconstruction.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Abelardo De La Espriella confirmó que la emergencia económica y social se firma este miércoles.",
+   "en": "«Abelardo De La Espriella» confirmed that the economic and social emergency is being signed this Wednesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se firma durante el consejo de ministros.",
+   "en": "It is being signed during the council of ministers.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El anuncio lo hizo en su declaración tras la reunión con el gremio asegurador.",
+   "en": "He made the announcement in his statement after the meeting with the insurance trade body.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por otro lado, la banca destinará un billón cien mil millones de pesos en alivios",
+   "en": "Separately, the banks will put one point one billion pesos into relief for",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para los damnificados del terremoto del Chocó.",
+   "en": "those hit by the «Choco» earthquake.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las medidas contemplan hasta doce meses de periodo de gracia.",
+   "en": "The measures allow up to twelve months of grace.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También la condonación de intereses y la suspensión de cobros jurídicos,",
+   "en": "Also the forgiveness of interest and the suspension of legal collection,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para familias y para empresas.",
+   "en": "for families and for businesses.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Tiempo y La República detallan las dos medidas.",
+   "en": "«El Tiempo» and «La Republica» set out the two measures.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos con la seguridad.",
+   "en": "We stay with security.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Policía confirmó el secuestro de seis uniformados en Norte de Santander,",
+   "en": "The police confirmed the kidnapping of six officers in «Norte de Santander»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el Cauca y en Nariño.",
+   "en": "in «Cauca» and in «Narino».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Entre ellos están un mayor,",
+   "en": "Among them are a major,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "cuatro patrulleros y un auxiliar de policía.",
+   "en": "four patrol officers and a police auxiliary.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sus familias siguen en dolor constante y en alerta.",
+   "en": "Their families remain in constant pain and on alert.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el caso de los tres policías secuestrados en Norte de Santander,",
+   "en": "In the case of the three officers kidnapped in «Norte de Santander»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la principal sospechosa es una mujer.",
+   "en": "the main suspect is a woman.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Colombiano y Semana siguen los seis casos.",
+   "en": "«El Colombiano» and «Semana» are following the six cases.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Terminamos con la economía.",
+   "en": "We finish with the economy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Gobierno radicó ante el Congreso de la República el proyecto de Ley de Competitividad.",
+   "en": "The government filed the Competitiveness Bill before the Congress of the Republic.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Busca reducir trámites, costos y tiempos para quien quiera crear una empresa en Colombia.",
+   "en": "It seeks to reduce paperwork, costs and times for anyone who wants to create a business in «Colombia».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También para quien quiera formalizarla o hacerla crecer.",
+   "en": "Also for anyone who wants to formalise it or make it grow.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El proyecto lo presentó en el Senado el ministro de Comercio e Industria.",
+   "en": "The bill was presented in the Senate by the minister of commerce and industry.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Tiempo, El Colombiano y La República recogen el proyecto.",
+   "en": "«El Tiempo», «El Colombiano» and «La Republica» carry the bill.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La idea es bajar las barreras estatales,",
+   "en": "The idea is to lower state barriers,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sobre todo para las pequeñas y medianas empresas.",
+   "en": "above all for small and medium-sized firms.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y hasta aquí llega el resumen de esta tarde.",
+   "en": "And that is where this evening's round-up ends.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The evening news, Wednesday 19 August",
+ "edition": "evening",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "President Abelardo De La Espriella confirmed that the economic and social emergency will b",
+ "summary_en": [
+  "President Abelardo De La Espriella confirmed that the economic and social emergency will b",
+  "The police confirmed the kidnapping of six police officers in Norte de Santander, Cauca an",
+  "The government of Abelardo De la Espriella filed the Competitiveness Bill before the Congr"
+ ]
+}

@@ -44,6 +44,47 @@
     "Previsión para Bogotá, miércoles 2026-08-19",
     "Previsión para Medellín, miércoles 2026-08-19"
    ]
+  },
+  {
+   "id": "es-CO-La actualidad del día, miércoles 19 de agosto",
+   "file": "podcast-daily-2026-08-19-evening-news-es-CO.json",
+   "bytes": 9127,
+   "sha256": "f4d3004834c8a5d1d9d1a77e5970f16cd24c97e0ce0e78729ca7405ee39e2645",
+   "date": "2026-08-19",
+   "edition": "evening",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "La actualidad del día, miércoles 19 de agosto",
+   "title_en": "The evening news, Wednesday 19 August",
+   "headline_en": "President Abelardo De La Espriella confirmed that the economic and social emergency will b",
+   "summary_en": [
+    "President Abelardo De La Espriella confirmed that the economic and social emergency will b",
+    "The police confirmed the kidnapping of six police officers in Norte de Santander, Cauca an",
+    "The government of Abelardo De la Espriella filed the Competitiveness Bill before the Congr"
+   ]
+  },
+  {
+   "id": "es-CO-El clima de hoy, miércoles 19 de agosto",
+   "file": "podcast-daily-2026-08-19-evening-weather-es-CO.json",
+   "bytes": 4902,
+   "sha256": "5d08f687b0240a60acb927a98ba5ffec1b8801f06ff411ef60ce60453b259937",
+   "date": "2026-08-19",
+   "edition": "evening",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "El clima de hoy, miércoles 19 de agosto",
+   "title_en": "The forecast, Wednesday 19 August",
+   "headline_en": "Previsión para Bogotá, mañana, jueves 2026-08-20",
+   "summary_en": [
+    "Previsión para Bogotá, mañana, jueves 2026-08-20",
+    "Previsión para Medellín, mañana, jueves 2026-08-20"
+   ]
   }
  ]
 }
