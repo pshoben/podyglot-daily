@@ -1,0 +1,340 @@
+{
+ "title": "Le dix-huit heures, mercredi 19 août",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-news",
+   "wpm": 222,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-19",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Mercredi dix-neuf août, à Bruxelles. Le dix-huit heures.",
+   "en": "Wednesday the nineteenth of August, in Brussels. «Le dix-huit heures».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des mini-tornades ont fait des dégâts dans plusieurs communes belges.",
+   "en": "Mini-tornadoes have caused damage in several Belgian communes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et l'Onu condamne les propos d'un ministre israélien sur Gaza.",
+   "en": "And the UN condemns an Israeli minister's remarks about «Gaza».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par les intempéries.",
+   "en": "We begin with the storms.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De violents orages se sont abattus mercredi vers dix-huit heures trente sur plusieurs",
+   "en": "Violent storms broke on Wednesday at about half past six in the evening over several",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "communes de l'Eifel.",
+   "en": "communes of the «Eifel».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ils ont occasionné d'importants dégâts, a indiqué Rainer Stoffels, le bourgmestre de Bullange.",
+   "en": "They caused significant damage, said «Rainer Stoffels», the burgomaster of «Bullange».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il confirmait une information relayée par les médias germanophones.",
+   "en": "He was confirming information relayed by the German-language media.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La pluie, mêlée au vent, s'est invitée en soirée sur une partie du territoire belge.",
+   "en": "Rain, mixed with wind, arrived in the evening over part of Belgian territory.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des toitures ont été envolées, des arbres sont tombés sur la chaussée",
+   "en": "Roofs were carried away, trees came down on the roadway",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et des voitures ont été endommagées.",
+   "en": "and cars were damaged.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est arrivé dans plusieurs communes,",
+   "en": "It happened in several communes,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "non loin des Hautes Fagnes.",
+   "en": "not far from the «Hautes Fagnes».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "7sur7 et la DH ont recensé les dégâts.",
+   "en": "7sur7 and the «DH» have counted up the damage.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à la diplomatie.",
+   "en": "We move to diplomacy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le secrétaire général de l'Onu, António Guterres,",
+   "en": "The secretary general of the UN, «Antonio Guterres»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a condamné sans équivoque mercredi des propos qu'il a qualifiés de dangereux.",
+   "en": "unequivocally condemned on Wednesday remarks he called dangerous.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce sont ceux d'Itamar Ben Gvir, ministre israélien d'extrême droite.",
+   "en": "They are those of «Itamar Ben Gvir», an Israeli far-right minister.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a déclaré qu'Israël devrait tuer trente ou quarante personnes chaque nuit à Gaza.",
+   "en": "He said that Israel should kill thirty or forty people every night in «Gaza».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La France, l'Allemagne et la Belgique ont condamné des propos inacceptables et inhumains.",
+   "en": "«France», Germany and Belgium condemned remarks they called unacceptable and inhuman.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Belgique, c'est Maxime Prévot qui s'est exprimé:",
+   "en": "In Belgium it was «Maxime Prevot» who spoke:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ce n'est pas un dérapage isolé.",
+   "en": "this is not an isolated slip.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "7sur7 et La Libre rapportent les mêmes condamnations.",
+   "en": "7sur7 and «La Libre» report the same condemnations.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On termine par l'enseignement.",
+   "en": "We finish with education.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La ministre de l'Éducation Valérie Glatigny n'écarte pas l'abandon du projet du gouvernement de mettre",
+   "en": "The education minister «Valerie Glatigny» is not ruling out abandoning the government's plan to",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "fin à la nomination des enseignants.",
+   "en": "end the appointment of teachers.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle s'est exprimée mercredi dans une interview au Soir.",
+   "en": "She spoke on Wednesday in an interview with «Le Soir».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'était une des annonces phares du début de la législature.",
+   "en": "It was one of the flagship announcements of the start of the legislature.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La raison est financière: on ne veut pas plomber les finances de la Fédération.",
+   "en": "The reason is financial: they do not want to weigh down the finances of the Federation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le revirement est rapporté par 7sur7 et par la DH.",
+   "en": "The reversal is reported by 7sur7 and by the «DH».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà où nous en sommes ce mercredi soir.",
+   "en": "That is where we stand this Wednesday evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The evening news, Wednesday 19 August",
+ "edition": "evening",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Violent storms broke on Wednesday at about half past six in the evening over several commu",
+ "summary_en": [
+  "Violent storms broke on Wednesday at about half past six in the evening over several commu",
+  "The secretary general of the United Nations, Antonio Guterres, unequivocally condemned on",
+  "The education minister Valerie Glatigny did not rule out on Wednesday, in an interview wit"
+ ]
+}

@@ -46,6 +46,46 @@
    ]
   },
   {
+   "id": "fr-BE-Le dix-huit heures, mercredi 19 août",
+   "file": "podcast-daily-2026-08-19-evening-news-fr-BE.json",
+   "bytes": 8729,
+   "sha256": "3c4a5bfa27e217b42786dc211a87d4235d1dd5900318f2912d651f43bb4c4cbb",
+   "date": "2026-08-19",
+   "edition": "evening",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le dix-huit heures, mercredi 19 août",
+   "title_en": "The evening news, Wednesday 19 August",
+   "headline_en": "Violent storms broke on Wednesday at about half past six in the evening over several commu",
+   "summary_en": [
+    "Violent storms broke on Wednesday at about half past six in the evening over several commu",
+    "The secretary general of the United Nations, Antonio Guterres, unequivocally condemned on",
+    "The education minister Valerie Glatigny did not rule out on Wednesday, in an interview wit"
+   ]
+  },
+  {
+   "id": "fr-BE-Les scores, mercredi 19 août",
+   "file": "podcast-daily-2026-08-19-evening-results-fr-BE.json",
+   "bytes": 2969,
+   "sha256": "3a5aa4af81661d4a2da994366a5cbbc43f836b4f52db590ce0c50f34249d7305",
+   "date": "2026-08-19",
+   "edition": "evening",
+   "programme": "results",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Les scores, mercredi 19 août",
+   "title_en": "Results, Wednesday 19 August",
+   "headline_en": "Two days after losing one nil to Germany, the Red Lions reassured on Wednesday at Wavre by",
+   "summary_en": [
+    "Two days after losing one nil to Germany, the Red Lions reassured on Wednesday at Wavre by"
+   ]
+  },
+  {
    "id": "fr-BE-Le sept heures, mardi 18 août",
    "file": "podcast-daily-2026-08-18-morning-news-fr-BE.json",
    "bytes": 12025,

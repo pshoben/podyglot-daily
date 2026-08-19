@@ -1,0 +1,128 @@
+{
+ "title": "Les scores, mercredi 19 août",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-results",
+   "wpm": 222,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "results",
+ "date": "2026-08-19",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le sport, pour finir.",
+   "en": "The sport, to finish.",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Deux jours après s'être inclinés un à zéro contre l'Allemagne,",
+   "en": "Two days after losing one nil to Germany,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les Red Lions se sont rassurés mercredi à Wavre.",
+   "en": "the Red Lions reassured on Wednesday at «Wavre».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ils l'ont emporté cinq à trois sur la Malaisie,",
+   "en": "They won five three against Malaysia,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans leur dernier match de la phase de groupes,",
+   "en": "in their last match of the group stage,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à la Coupe du monde de hockey.",
+   "en": "at the hockey World Cup.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Tom Boon a inscrit quatre des cinq buts.",
+   "en": "Tom Boon scored four of the five goals.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Belgique passe au tour suivant en terminant deuxième du groupe B, avec six points.",
+   "en": "Belgium go through to the next round by finishing second in group B, with six points.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "7sur7 et la DH donnent le même compte rendu.",
+   "en": "7sur7 and the DH give the same account.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est tout pour les scores.",
+   "en": "That is all for the scores.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Results, Wednesday 19 August",
+ "edition": "evening",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Two days after losing one nil to Germany, the Red Lions reassured on Wednesday at Wavre by",
+ "summary_en": [
+  "Two days after losing one nil to Germany, the Red Lions reassured on Wednesday at Wavre by"
+ ]
+}
