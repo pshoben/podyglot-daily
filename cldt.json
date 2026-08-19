@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated": "2026-08-19T21:18:13Z",
+ "generated": "2026-08-19T21:18:55Z",
  "channels": [
   {
    "dialect": "es-AR",
@@ -64,12 +64,14 @@
   },
   {
    "dialect": "fr-CA",
-   "updated": "2026-08-19T21:16:13Z",
-   "days": 4,
-   "episodes": 9,
+   "updated": "2026-08-19T21:18:55Z",
+   "days": 3,
+   "episodes": 7,
    "latest_date": "2026-08-19",
    "last_written": [],
-   "last_removed": [],
+   "last_removed": [
+    "2026-08-17"
+   ],
    "bitmap": "daily/fr-CA/bitmap.json"
   },
   {
