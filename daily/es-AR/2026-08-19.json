@@ -44,6 +44,47 @@
     "Previsión para Buenos Aires, miércoles 2026-08-19",
     "Previsión para Córdoba, miércoles 2026-08-19"
    ]
+  },
+  {
+   "id": "es-AR-El noticiero de la tarde, miércoles 19 de agosto",
+   "file": "podcast-daily-2026-08-19-evening-news-es-AR.json",
+   "bytes": 11206,
+   "sha256": "6dbbdb6e20a34c407bb061d0b2c504a955ddc2a9619e1b085ffbfb1c267efef4",
+   "date": "2026-08-19",
+   "edition": "evening",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El noticiero de la tarde, miércoles 19 de agosto",
+   "title_en": "The evening news, Wednesday 19 August",
+   "headline_en": "The Bolivian prosecution charged Fernando Cerimedo with attempted femicide and a judge wil",
+   "summary_en": [
+    "The Bolivian prosecution charged Fernando Cerimedo with attempted femicide and a judge wil",
+    "The prosecution appealed the dismissal of Sofia Clerici and asked that she continue to be",
+    "The wholesale dollar extended its rises but stalled below the barrier the central bank set"
+   ]
+  },
+  {
+   "id": "es-AR-El pronóstico, miércoles 19 de agosto",
+   "file": "podcast-daily-2026-08-19-evening-weather-es-AR.json",
+   "bytes": 4979,
+   "sha256": "c1f4850d5f5ec1897426ee44cc67301847be04e3eca1068db5b9f31d0ce5ca97",
+   "date": "2026-08-19",
+   "edition": "evening",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El pronóstico, miércoles 19 de agosto",
+   "title_en": "The forecast, Wednesday 19 August",
+   "headline_en": "Previsión para Buenos Aires, mañana, jueves 2026-08-20",
+   "summary_en": [
+    "Previsión para Buenos Aires, mañana, jueves 2026-08-20",
+    "Previsión para Córdoba, mañana, jueves 2026-08-20"
+   ]
   }
  ]
 }

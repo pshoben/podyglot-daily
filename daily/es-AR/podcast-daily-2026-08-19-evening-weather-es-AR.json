@@ -1,0 +1,209 @@
+{
+ "title": "El pronóstico, miércoles 19 de agosto",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-weather",
+   "wpm": 195,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-19",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Vamos con el pronóstico de mañana, jueves, en tres provincias.",
+   "en": "Here is tomorrow's forecast, Thursday, in three provinces.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Buenos Aires, cielo nuboso,",
+   "en": "In «Buenos Aires», cloudy sky,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con máxima de diecisiete grados y mínima de ocho.",
+   "en": "with a high of seventeen degrees and a low of eight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de lluvia es de apenas ocho por ciento,",
+   "en": "The chance of rain is barely eight per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pero el viento sopla a diecisiete kilómetros por hora.",
+   "en": "but the wind blows at seventeen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Córdoba, intervalos nubosos y bastante más calor: veinticuatro grados de máxima.",
+   "en": "In «Cordoba», cloudy intervals and a good deal more heat: twenty-four degrees for the high.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima, en cambio, baja a seis grados,",
+   "en": "The low, by contrast, drops to six degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la más fría de las tres.",
+   "en": "the coldest of the three.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Mendoza, también veinticuatro grados de máxima y nueve de mínima, con intervalos nubosos.",
+   "en": "In «Mendoza», twenty-four degrees for the high as well and nine for the low, with cloudy intervals.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y ahí no llueve nada:",
+   "en": "And there it does not rain at all:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "cero por ciento de probabilidad.",
+   "en": "zero per cent chance.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viernes se da vuelta todo y refresca fuerte.",
+   "en": "On Friday everything turns around and it cools down sharply.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Córdoba la máxima cae de veinticuatro a dieciséis grados.",
+   "en": "In «Cordoba» the high falls from twenty-four to sixteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y en Mendoza baja hasta catorce.",
+   "en": "And in «Mendoza» it drops to fourteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Buenos Aires el viernes se queda en doce grados,",
+   "en": "In «Buenos Aires» on Friday it stays at twelve degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con viento de veinte kilómetros por hora.",
+   "en": "with wind of twenty kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Todo esto sale del modelo europeo ECMWF.",
+   "en": "All of this comes from the European «ECMWF» model.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y así arranca el jueves de este lado.",
+   "en": "And that is how Thursday starts on this side.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "The forecast, Wednesday 19 August",
+ "edition": "evening",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Previsión para Buenos Aires, mañana, jueves 2026-08-20",
+ "summary_en": [
+  "Previsión para Buenos Aires, mañana, jueves 2026-08-20",
+  "Previsión para Córdoba, mañana, jueves 2026-08-20"
+ ]
+}

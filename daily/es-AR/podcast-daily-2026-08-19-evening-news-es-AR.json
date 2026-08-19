@@ -1,0 +1,430 @@
+{
+ "title": "El noticiero de la tarde, miércoles 19 de agosto",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-19",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Miércoles diecinueve de agosto, ocho y media de la noche en Buenos Aires.",
+   "en": "Wednesday the nineteenth of August, half past eight at night in «Buenos Aires».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El noticiero de la tarde.",
+   "en": "The evening's news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Imputan en Bolivia a Fernando Cerimedo por intento de femicidio.",
+   "en": "«Fernando Cerimedo» is charged in Bolivia with attempted femicide.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Fiscalía apeló el sobreseimiento de Sofía Clerici.",
+   "en": "The prosecution appealed the dismissal of «Sofia Clerici».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el dólar mayorista se estancó debajo de los mil quinientos pesos.",
+   "en": "And the wholesale dollar stalled below one thousand five hundred pesos.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Arrancamos por el caso de esta mañana.",
+   "en": "We set off with this morning's case.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Fiscalía de Bolivia imputó a Fernando Cerimedo por intento de femicidio.",
+   "en": "The Bolivian prosecution charged «Fernando Cerimedo» with attempted femicide.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La fiscal Aguilera pidió además la prisión preventiva en una cárcel por ciento ochenta días.",
+   "en": "Prosecutor «Aguilera» also asked for preventive prison in a jail for a hundred and eighty days.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un juez resuelve el jueves si el consultor sigue preso o queda libre,",
+   "en": "A judge rules on Thursday whether the consultant stays in custody or goes free,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en una audiencia convocada para la tarde.",
+   "en": "at a hearing called for the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La abogada de Cerimedo, Margarita Arce, acusó a Nadia Beller de armar un autoatentado.",
+   "en": "«Cerimedo»'s lawyer, «Margarita Arce», accused «Nadia Beller» of staging a self-attack.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es un show político, dijo,",
+   "en": "It is a political show, she said,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y sostuvo que la intención fue desestabilizar al presidente de Bolivia.",
+   "en": "and she maintained that the intention was to destabilise the president of Bolivia.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según Arce, la excandidata a diputada del MAS tuvo intereses políticos para armar la secuencia",
+   "en": "According to «Arce», the former «MAS» candidate for deputy had political interests in setting up the sequence",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que terminó con ella herida e internada.",
+   "en": "that ended with her wounded and in hospital.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La abogada descartó que el Gobierno argentino tenga algo que ver con el hecho.",
+   "en": "The lawyer ruled out any involvement of the Argentine government in the events.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Clarín y La Nación siguen las dos presentaciones.",
+   "en": "Clarin and «La Nacion» are following the two filings.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Vamos a otra causa.",
+   "en": "We go to another case.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Fiscalía apeló el sobreseimiento de Sofía Clerici y pidió que siga siendo investigada.",
+   "en": "The prosecution appealed the dismissal of «Sofia Clerici» and asked that she continue to be investigated.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Objetó que la hayan desvinculado,",
+   "en": "It objected to her being cut loose,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "porque restan medidas de prueba para profundizar su vínculo con Insaurralde.",
+   "en": "because evidence-gathering measures remain that would deepen her link to «Insaurralde».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los fiscales Sergio Mola y Diego Velasco consideraron que la decisión es prematura y arbitraria.",
+   "en": "The prosecutors «Sergio Mola» and «Diego Velasco» considered the decision premature and arbitrary.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y criticaron a los jueces que intervinieron en la investigación por la falta de avances.",
+   "en": "And they criticised the judges who intervened in the investigation over the lack of progress.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Clarín y La Nación publican la apelación.",
+   "en": "Clarin and «La Nacion» are publishing the appeal.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cerramos con la economía.",
+   "en": "We close with the economy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El dólar mayorista extendió subas,",
+   "en": "The wholesale dollar extended its rises,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pero se estancó debajo de la barrera de mil quinientos pesos que puso",
+   "en": "but stalled below the barrier of one thousand five hundred pesos that the",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el Banco Central.",
+   "en": "central bank set.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cerró en mil cuatrocientos noventa y siete,",
+   "en": "It closed at one thousand four hundred and ninety-seven,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el mercado sigue de cerca las intervenciones del Central y del Tesoro.",
+   "en": "and the market is following the interventions of the central bank and the Treasury closely.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las tasas en pesos volvieron a recalentarse.",
+   "en": "Interest rates in pesos heated up again.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las reservas del Banco Central volvieron a superar los cincuenta mil millones de dólares,",
+   "en": "The central bank's reserves went back above fifty thousand million dollars,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "impulsadas por la suba del oro.",
+   "en": "driven by the rise in gold.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El stock bruto avanzó cuatrocientos diez millones y cerró en cincuenta mil dos millones.",
+   "en": "The gross stock advanced four hundred and ten million and closed at fifty thousand and two million.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pero el Central compró apenas quince millones,",
+   "en": "But the central bank bought only fifteen million,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el ritmo de acumulación de agosto sigue muy por debajo de los meses previos.",
+   "en": "and August's rate of accumulation remains well below the previous months.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los bonos en dólares aceleraron su caída,",
+   "en": "Dollar bonds accelerated their fall,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el riesgo país sumó doce ruedas seguidas al alza.",
+   "en": "and country risk added a twelfth consecutive session on the rise.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ámbito y Clarín detallan la jornada.",
+   "en": "«Ambito» and Clarin set out the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y con esto cerramos la noche.",
+   "en": "And with that we close the night.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The evening news, Wednesday 19 August",
+ "edition": "evening",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "The Bolivian prosecution charged Fernando Cerimedo with attempted femicide and a judge wil",
+ "summary_en": [
+  "The Bolivian prosecution charged Fernando Cerimedo with attempted femicide and a judge wil",
+  "The prosecution appealed the dismissal of Sofia Clerici and asked that she continue to be",
+  "The wholesale dollar extended its rises but stalled below the barrier the central bank set"
+ ]
+}
