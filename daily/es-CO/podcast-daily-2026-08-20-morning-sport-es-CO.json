@@ -1,0 +1,299 @@
+{
+ "title": "La jornada deportiva, jueves 20 de agosto",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-sport",
+   "wpm": 195,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-20",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "La jornada deportiva.",
+   "en": "The sports round-up.",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos por el fútbol internacional.",
+   "en": "We start with international football.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Una coalición global de hinchas exige la renuncia de Gianni Infantino",
+   "en": "A global coalition of supporters is calling for «Gianni Infantino» to",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "como presidente de la FIFA.",
+   "en": "resign as president of FIFA.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Llega tras el colapso del proyecto FFE,",
+   "en": "It comes after the collapse of the «FFE» project,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la continuidad del dirigente está en tela de juicio.",
+   "en": "and his future in the job is in doubt.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La UEFA, la AFC y la Concacaf sopesan un voto de censura en su contra.",
+   "en": "UEFA, the AFC and Concacaf are weighing a vote of censure against him.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Infantino ha dicho que pretende presentarse a la reelección en el Congreso de la FIFA",
+   "en": "«Infantino» has said he intends to stand again at the FIFA congress set for March two thousand",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "previsto para marzo de dos mil veintisiete.",
+   "en": "and twenty-seven.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Conserva un respaldo considerable entre las federaciones miembro.",
+   "en": "He still has considerable backing among the member federations.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El tercero al mando del organismo, el francés Kevin Lamour, dejó la institución el lunes.",
+   "en": "The third in command at FIFA, the Frenchman «Kevin Lamour», left on Monday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Fue días después de oponerse al proyecto, ya abortado,",
+   "en": "That was days after he opposed the plan, now dropped,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de abrir la entidad a inversores privados.",
+   "en": "to open the body to private investors.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Tiempo, La República y El Colombiano siguen la crisis.",
+   "en": "«El Tiempo», «La Republica» and «El Colombiano» are following the crisis.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos con el automovilismo.",
+   "en": "Now to motor racing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Max Verstappen renovó su contrato con la escudería austriaca Red Bull hasta dos mil treinta.",
+   "en": "«Max Verstappen» has renewed his contract with the Austrian team Red Bull until two thousand and thirty.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El neerlandés acabó con las dudas sobre su futuro,",
+   "en": "The Dutchman put an end to the doubts about his future,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "después de ser vinculado con McLaren, Mercedes y Aston Martin.",
+   "en": "having been linked with McLaren, Mercedes and Aston Martin.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Verstappen dijo que habría sido más probable abandonar la categoría que cambiar de equipo.",
+   "en": "«Verstappen» said he would have been more likely to leave the sport than change team.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Tiempo y La República recogen la renovación.",
+   "en": "«El Tiempo» and «La Republica» carry the new contract.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Terminamos con el ciclismo.",
+   "en": "We finish with cycling.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La edición ochenta y uno de la Vuelta a España comienza este sábado en Mónaco.",
+   "en": "The eighty-first «Vuelta a Espana» starts this Saturday in «Monaco».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Santiago Buitrago afronta su última Vuelta con el Bahrain Victorious.",
+   "en": "«Santiago Buitrago» rides his last «Vuelta» with «Bahrain Victorious».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es la escuadra que le dio la oportunidad de mostrar sus cualidades en el World",
+   "en": "It is the team that gave him his chance to show what he could do in the World",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Tour desde dos mil veinte.",
+   "en": "Tour, back in two thousand and twenty.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Colombiano y Semana repasan la nómina colombiana.",
+   "en": "«El Colombiano» and «Semana» run through the Colombian riders.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y esto ha sido la jornada deportiva.",
+   "en": "And that is the sports round-up.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Thursday 20 August",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "A global coalition of supporters is demanding the resignation of Gianni Infantino as presi",
+ "summary_en": [
+  "A global coalition of supporters is demanding the resignation of Gianni Infantino as presi",
+  "Max Verstappen has renewed his contract with the Austrian team Red Bull until 2030. The Du"
+ ]
+}

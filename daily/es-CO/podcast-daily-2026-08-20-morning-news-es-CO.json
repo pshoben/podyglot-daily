@@ -1,0 +1,520 @@
+{
+ "title": "La actualidad de la mañana, jueves 20 de agosto",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-20",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Jueves veinte de agosto, once y diez de la mañana en Bogotá.",
+   "en": "Thursday the 20th of August, ten past eleven in the morning in «Bogota».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La actualidad de la mañana.",
+   "en": "This is «La actualidad de la mañana».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Gobierno declaró la emergencia económica en quince departamentos tras el terremoto.",
+   "en": "The government has declared an economic emergency in fifteen departments after the earthquake.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La cifra de muertos por el sismo sube a trescientos diecinueve, según la UNGRD.",
+   "en": "The death toll from the quake rises to three hundred and nineteen, according to the «UNGRD».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y Colombia e Israel eliminan la visa desde el primero de septiembre.",
+   "en": "And Colombia and Israel are scrapping visas from the 1st of September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos con la emergencia.",
+   "en": "We start with the emergency.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Gobierno de Abelardo De La Espriella declaró oficialmente el Estado de Emergencia Económica,",
+   "en": "The government of «Abelardo De La Espriella» has officially declared a state of economic, social",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Social y Ecológica.",
+   "en": "and ecological emergency.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo hizo en la noche del miércoles,",
+   "en": "It did so on Wednesday night,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en parte del territorio nacional,",
+   "en": "over part of the country,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tras el terremoto del pasado diez de agosto.",
+   "en": "after the earthquake of the 10th of August.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El decreto cubre quince departamentos durante treinta días.",
+   "en": "The decree covers fifteen departments for thirty days.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El objetivo es habilitar herramientas extraordinarias para atender a la población damnificada.",
+   "en": "The point of it is to unlock extraordinary powers to help the people who have lost their homes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El documento fue firmado por todos los ministros del Gobierno el miércoles diecinueve de agosto.",
+   "en": "The document was signed by every minister in the government on Wednesday the 19th of August.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El mandatario insistió en que no será un cheque en blanco.",
+   "en": "The president insisted that it will not be a blank cheque.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La declaratoria permitirá al Ejecutivo expedir decretos con fuerza de ley para responder",
+   "en": "The declaration lets the executive issue decrees with the force of law to",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a los daños.",
+   "en": "answer the damage.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Entre las medidas hay un subsidio de arriendo.",
+   "en": "The measures include a rent subsidy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las acciones buscan canalizar recursos por decenas de billones de pesos,",
+   "en": "They are meant to channel tens of billions of pesos,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para liberar liquidez y financiar la reconstrucción.",
+   "en": "to free up cash and pay for the rebuilding.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Congreso tendrá la responsabilidad de revisar las razones de la declaratoria",
+   "en": "Congress will have the job of reviewing why the emergency was declared",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y las medidas adoptadas.",
+   "en": "and what the government has done under it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Tiempo, El Colombiano, La República y Semana publican el decreto.",
+   "en": "«El Tiempo», «El Colombiano», «La Republica» and «Semana» carry the decree.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos con el balance del sismo.",
+   "en": "Now to the toll from the quake.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El último reporte de la UNGRD tiene corte a las seis",
+   "en": "The latest «UNGRD» report is up to half",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y media de la mañana de este jueves.",
+   "en": "past six this Thursday morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Habla de trescientos diecinueve muertos,",
+   "en": "It gives three hundred and nineteen dead,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "cuatro mil quinientos seis heridos y treinta y un mil cuatrocientas dieciséis viviendas dañadas.",
+   "en": "four thousand five hundred and six injured and thirty-one thousand four hundred and sixteen homes damaged.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El reporte registra un aumento en el número de personas heridas.",
+   "en": "The report shows a rise in the number of people hurt.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El terremoto fue de magnitud siete coma cuatro.",
+   "en": "The earthquake measured seven point four.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La República y Semana citan a la Unidad Nacional para la Gestión del",
+   "en": "«La Republica» and «Semana» both cite the national",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Riesgo de Desastres.",
+   "en": "disaster agency.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasamos a la justicia.",
+   "en": "On to the courts.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Policía Nacional hizo efectiva el miércoles, en Bogotá, la extradición de siete personas.",
+   "en": "On Wednesday the national police carried out the extradition of seven people from «Bogota».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las solicitaban autoridades judiciales de Estados Unidos, Panamá, Italia,",
+   "en": "They were wanted by judicial authorities in the United States, «Panama», Italy,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "España y el Reino Unido.",
+   "en": "Spain and the United Kingdom.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los requerimientos están relacionados con investigaciones por narcotráfico,",
+   "en": "The requests relate to investigations into drug trafficking,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "crimen organizado y delitos sexuales.",
+   "en": "organised crime and sexual offences.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Colombiano y El Tiempo informan de la entrega.",
+   "en": "«El Colombiano» and «El Tiempo» report the handover.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Terminamos con la diplomacia.",
+   "en": "We finish with diplomacy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Gobierno de Israel anunció este jueves que Colombia e Israel eliminarán de manera recíproca",
+   "en": "The government of Israel announced on Thursday that Colombia",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el requisito de visa.",
+   "en": "and Israel will both drop the visa requirement.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La medida rige desde el primero de septiembre.",
+   "en": "It takes effect from the 1st of September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Llega tras conversaciones entre el ministro de Relaciones Exteriores israelí, Gideon Saar,",
+   "en": "It follows talks between the Israeli foreign minister «Gideon Saar» and",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el canciller colombiano, Omar Bula Escobar.",
+   "en": "the Colombian foreign minister «Omar Bula Escobar». «El Colombiano»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Colombiano, El Tiempo, La República y Semana detallan el acuerdo.",
+   "en": "«El Tiempo», «La Republica» and «Semana» set out the agreement.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El acuerdo permitirá viajar sin visa a los nacionales de ambos países.",
+   "en": "The agreement will let nationals of either country travel without a visa.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Busca impulsar el turismo, los negocios y el restablecimiento de las relaciones bilaterales.",
+   "en": "It is meant to help tourism, business and the rebuilding of relations between the two.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí la actualidad de esta mañana.",
+   "en": "And that is the news from «Bogota» this morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Thursday 20 August",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "The government of Abelardo De La Espriella officially declared the State of Economic, Soci",
+ "summary_en": [
+  "The government of Abelardo De La Espriella officially declared the State of Economic, Soci",
+  "The latest report from the UNGRD, cut off at 6:30 in the morning of 20 August, says the ea",
+  "The government of Israel announced on Thursday 20 August 2026 that Colombia and Israel wil"
+ ]
+}

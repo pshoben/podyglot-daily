@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated": "2026-08-20T15:30:23.337Z",
+ "generated": "2026-08-20T15:37:08.230Z",
  "channels": [
   {
    "dialect": "es-AR",
@@ -26,12 +26,14 @@
   },
   {
    "dialect": "es-CO",
-   "updated": "2026-08-19T23:34:13.338Z",
-   "content": "9795010530f8174640b860dc480517658c481a298ae2635cd023587040f65cff",
-   "days": 4,
-   "episodes": 11,
-   "latest_date": "2026-08-19",
-   "last_written": [],
+   "updated": "2026-08-20T15:37:08.230Z",
+   "content": "1472858c3d940268d2a340ab04844347efb7bea29e1928d0dd514a1c2e76045a",
+   "days": 5,
+   "episodes": 14,
+   "latest_date": "2026-08-20",
+   "last_written": [
+    "2026-08-20"
+   ],
    "last_removed": [],
    "bitmap": "daily/es-CO/bitmap.json"
   },
@@ -53,9 +55,7 @@
    "days": 5,
    "episodes": 16,
    "latest_date": "2026-08-20",
-   "last_written": [
-    "2026-08-20"
-   ],
+   "last_written": [],
    "last_removed": [],
    "bitmap": "daily/es-MX/bitmap.json"
   },
