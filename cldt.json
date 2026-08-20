@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated": "2026-08-20T15:47:40.053Z",
+ "generated": "2026-08-20T20:08:00.906Z",
  "channels": [
   {
    "dialect": "es-AR",
@@ -9,9 +9,7 @@
    "days": 5,
    "episodes": 16,
    "latest_date": "2026-08-20",
-   "last_written": [
-    "2026-08-20"
-   ],
+   "last_written": [],
    "last_removed": [],
    "bitmap": "daily/es-AR/bitmap.json"
   },
@@ -39,8 +37,8 @@
   },
   {
    "dialect": "es-ES",
-   "updated": "2026-08-20T09:44:56.517Z",
-   "content": "a48cc7332633822e26ea2e926625e1273eff9ddd475ca2e4764d06320c9ac1b0",
+   "updated": "2026-08-20T20:08:00.906Z",
+   "content": "9b9545521194aa70fe3c65004ea898c420f017b77852b725cc678d7e3196133a",
    "days": 5,
    "episodes": 31,
    "latest_date": "2026-08-20",

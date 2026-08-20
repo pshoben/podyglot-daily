@@ -67,8 +67,8 @@
   {
    "id": "es-ES-El tiempo en Andalucía, jueves 20 de agosto",
    "file": "podcast-daily-2026-08-20-morning-weather-andalucia-es-ES.json",
-   "bytes": 5326,
-   "sha256": "124041263d3fd95c51c2b23882e4889d10cbbf412c153ac7090a98acb9abbbb7",
+   "bytes": 5283,
+   "sha256": "b1902fd1ac9c3461b1dfa49a57cbf017590defb7d0607cfeb2cbeadf7672894b",
    "date": "2026-08-20",
    "edition": "morning",
    "programme": "weather-andalucia",
@@ -87,8 +87,8 @@
   {
    "id": "es-ES-El tiempo en Canarias, jueves 20 de agosto",
    "file": "podcast-daily-2026-08-20-morning-weather-canarias-es-ES.json",
-   "bytes": 4724,
-   "sha256": "b529cb9b5296e470376ba4e59633f127fe05c48bef4e9b1849fb0b7ab1ca78b5",
+   "bytes": 4690,
+   "sha256": "81e5a06134367f1593e579d75e85762ad9a1553d9fc166aaef16eeea514c8aab",
    "date": "2026-08-20",
    "edition": "morning",
    "programme": "weather-canarias",

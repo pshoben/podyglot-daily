@@ -16,11 +16,11 @@
  "turns": [
   {
    "speaker": "SPK1",
-   "text": "Y el tiempo en Canarias, con acento canario.",
-   "en": "And the weather in the «Canarias», in the «Canarian» accent.",
+   "text": "Y ahora, el tiempo en Canarias.",
+   "en": "And now, the weather in the Canary Islands.",
    "prosody": {
     "pause_ms": 240,
-    "rate": 0.99,
+    "rate": 1.01,
     "pitch": 1.02
    }
   },
