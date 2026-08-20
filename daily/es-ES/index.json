@@ -5,6 +5,106 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-ES-El informativo de la mañana, jueves 20 de agosto",
+   "file": "podcast-daily-2026-08-20-morning-news-es-ES.json",
+   "bytes": 12426,
+   "sha256": "e6e7623b95517f83f1535e6944de087ee71cd0fbc20206c575c55e95095405af",
+   "date": "2026-08-20",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, jueves 20 de agosto",
+   "title_en": "The morning news, Thursday 20 August",
+   "headline_en": "The National Police deployed a major operation on Thursday on the Trampolin beach in Ceuta",
+   "summary_en": [
+    "The National Police deployed a major operation on Thursday on the Trampolin beach in Ceuta",
+    "The fire in Las Hurdes has burned almost 4,000 hectares and is keeping 2,000 residents eva",
+    "China has sentenced Xu Jiayin, the founder of the property giant Evergrande, to life impri"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, jueves 20 de agosto",
+   "file": "podcast-daily-2026-08-20-morning-sport-es-ES.json",
+   "bytes": 3951,
+   "sha256": "4110e029fc48a54d3d2aabb23dc945a228909700cc29bdc0673605c766b264cc",
+   "date": "2026-08-20",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, jueves 20 de agosto",
+   "title_en": "Today's sport, Thursday 20 August",
+   "headline_en": "A big match at the Metropolitano: Atletico host Villarreal, while Real Madrid and Barcelon",
+   "summary_en": [
+    "A big match at the Metropolitano: Atletico host Villarreal, while Real Madrid and Barcelon"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, jueves 20 de agosto",
+   "file": "podcast-daily-2026-08-20-morning-weather-es-ES.json",
+   "bytes": 7814,
+   "sha256": "549ae91f0fac0a7981dfca69dccf55c9de5605ebcea253c7385238bf38303d9e",
+   "date": "2026-08-20",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, jueves 20 de agosto",
+   "title_en": "Today's weather, Thursday 20 August",
+   "headline_en": "Predicción AEMET para Madrid (Madrid), 2026-08-20",
+   "summary_en": [
+    "Predicción AEMET para Madrid (Madrid), 2026-08-20",
+    "Predicción AEMET para Málaga (Málaga), 2026-08-20"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, jueves 20 de agosto",
+   "file": "podcast-daily-2026-08-20-morning-weather-andalucia-es-ES.json",
+   "bytes": 5344,
+   "sha256": "4bf04ef7be88a2f836bb295b76f5184ea7788e7c0cad6a22c6891b9bba4a994c",
+   "date": "2026-08-20",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, jueves 20 de agosto",
+   "title_en": "Today's weather, Andalusia, Thursday 20 August",
+   "headline_en": "Predicción AEMET para Sevilla (Sevilla), 2026-08-20",
+   "summary_en": [
+    "Predicción AEMET para Sevilla (Sevilla), 2026-08-20",
+    "Predicción AEMET para Málaga (Málaga), 2026-08-20"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, jueves 20 de agosto",
+   "file": "podcast-daily-2026-08-20-morning-weather-canarias-es-ES.json",
+   "bytes": 4750,
+   "sha256": "9c86115d641a22c01f7f90f234089dbca570902f9d2884cc5feaaef88d1819a3",
+   "date": "2026-08-20",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, jueves 20 de agosto",
+   "title_en": "Today's weather, Canary Islands, Thursday 20 August",
+   "headline_en": "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-20",
+   "summary_en": [
+    "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-20",
+    "Predicción AEMET para Santa Cruz de Tenerife (Santa Cruz de Tenerife (Tenerife)), 2026-08-20"
+   ]
+  },
+  {
    "id": "es-ES-El informativo de la mañana, miércoles 19 de agosto",
    "file": "podcast-daily-2026-08-19-morning-news-es-ES.json",
    "bytes": 10877,

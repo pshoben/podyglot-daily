@@ -1,0 +1,158 @@
+{
+ "title": "Los deportes, jueves 20 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-sport",
+   "wpm": 208,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-20",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Vamos con el deporte, y arranca la jornada liguera.",
+   "en": "Here is the sport, and the league matchday is starting.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hay partidazo en el Metropolitano:",
+   "en": "There is a big match at the «Metropolitano»:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el Atlético recibe al Villarreal.",
+   "en": "«Atletico» host «Villarreal».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Real Madrid visita al Espanyol, y el Barcelona visita al Elche.",
+   "en": "«Real Madrid» visit «Espanyol», and «Barcelona» visit «Elche».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El vigente campeón se estrena también en esta jornada.",
+   "en": "The reigning champion also makes its debut in this matchday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La temporada llega marcada por el regreso de José Mourinho a la Liga.",
+   "en": "The season arrives marked by the return of «Jose Mourinho» to the «Liga».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y por el fichaje de Rodri por el Barcelona.",
+   "en": "And by the signing of «Rodri» for «Barcelona».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "A eso se suma la reaparición de tres clubes históricos en la competición.",
+   "en": "To that is added the reappearance of three historic clubs in the competition.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La jornada se reparte entre LaLiga EA Sports y LaLiga Hypermotion.",
+   "en": "The matchday runs across both «LaLiga EA Sports» and «LaLiga Hypermotion».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la segunda división, el Córdoba recibe al Girona,",
+   "en": "In the second division, «Cordoba» host «Girona»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la segunda jornada de LaLiga Hypermotion.",
+   "en": "in the second matchday of «LaLiga Hypermotion».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "AS, El País y Sport repasan los horarios y las claves del nuevo curso.",
+   "en": "«AS», «El Pais» and «Sport» go over the times and the keys to the new season.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y con eso les dejamos.",
+   "en": "And with that we leave you.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Thursday 20 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "A big match at the Metropolitano: Atletico host Villarreal, while Real Madrid and Barcelon",
+ "summary_en": [
+  "A big match at the Metropolitano: Atletico host Villarreal, while Real Madrid and Barcelon"
+ ]
+}

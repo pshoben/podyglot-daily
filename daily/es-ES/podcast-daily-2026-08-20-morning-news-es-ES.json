@@ -1,0 +1,480 @@
+{
+ "title": "El informativo de la mañana, jueves 20 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-news",
+   "wpm": 208,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-20",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Jueves veinte de agosto, diez y media de la mañana en Madrid.",
+   "en": "Thursday the twentieth of August, half past ten in the morning in «Madrid».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El informativo de la mañana.",
+   "en": "The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Policía desaloja a cuatro mil inmigrantes de la playa del Trampolín, en Ceuta.",
+   "en": "The police clear four thousand migrants from the «Trampolin» beach, in «Ceuta».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El incendio de Las Hurdes quema casi cuatro mil hectáreas.",
+   "en": "The fire in «Las Hurdes» burns almost four thousand hectares.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y China condena a cadena perpetua al fundador de Evergrande.",
+   "en": "And China sentences the founder of «Evergrande» to life imprisonment.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos por la frontera sur.",
+   "en": "We start with the southern border.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Policía Nacional ha desplegado este jueves un importante dispositivo en la playa del Trampolín.",
+   "en": "The «Policia Nacional» deployed a major operation this Thursday on the «Trampolin» beach.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El objetivo es desalojar a los cuatro mil inmigrantes que habían montado el campamento",
+   "en": "The aim is to clear the four thousand migrants who had set up the camp",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la costa.",
+   "en": "on the coast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Una treintena de furgones policiales se personaron en el lugar justo con el alba,",
+   "en": "About thirty police vans arrived at the spot right at dawn,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a las siete y veintiuno.",
+   "en": "at twenty-one minutes past seven.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cerraron a los migrantes en un perímetro de medio kilómetro de largo.",
+   "en": "They closed the migrants inside a perimeter half a kilometre long.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Agentes de la Unidad de Intervención Policial acordonan la zona.",
+   "en": "Officers of the «Unidad de Intervencion Policial» are cordoning off the area.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En lo político, el líder del Partido Popular, Alberto Núñez Feijóo,",
+   "en": "In politics, the leader of the «Partido Popular», «Alberto Nunez Feijoo»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "quiere expulsar a los que entraron en Ceuta.",
+   "en": "wants to expel those who entered «Ceuta».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Rechaza además lo que llama el chantaje de Rabat,",
+   "en": "He also rejects what he calls the blackmail of «Rabat»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y presenta un plan de siete puntos que incluye fortificar la frontera sur.",
+   "en": "and presents a seven-point plan that includes fortifying the southern border.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Feijóo rechaza también el traslado a la Península de quinientas niñas migrantes,",
+   "en": "«Feijoo» also rejects the transfer to the Peninsula of five hundred migrant girls,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y advierte de un problema de seguridad en la ciudad autónoma.",
+   "en": "and warns of a security problem in the autonomous city.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Partido Popular utilizará su mayoría en el Senado para reprobar a cinco ministros",
+   "en": "The «Partido Popular» will use its majority in the Senate to censure five ministers",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por la crisis.",
+   "en": "over the crisis.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Acusa al Gobierno de frialdad y de incapacidad ante el aumento de la presión migratoria.",
+   "en": "It accuses the government of coldness and of incapacity in the face of the rise in migratory pressure.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Mundo, ABC y La Vanguardia siguen el desalojo desde primera hora.",
+   "en": "«El Mundo», «ABC» and «La Vanguardia» are following the clearance from first light.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos con los incendios.",
+   "en": "We continue with the fires.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El fuego de Las Hurdes ha quemado casi cuatro mil hectáreas",
+   "en": "The fire in «Las Hurdes» has burned almost four thousand hectares",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y mantiene a dos mil vecinos evacuados o confinados.",
+   "en": "and is keeping two thousand residents evacuated or confined.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La noche ha permitido avances en los trabajos de extinción.",
+   "en": "The night has allowed advances in the extinguishing work.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aun así, la Junta de Extremadura mantiene el nivel dos de peligrosidad.",
+   "en": "Even so, the «Junta de Extremadura» is maintaining level two of danger.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El incendio de Pinofranqueado, en la misma comarca cacereña,",
+   "en": "The fire at «Pinofranqueado», in the same «Caceres» district,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "vuelve a coger fuerza y pone en alerta a Salamanca.",
+   "en": "is picking up strength again and is putting «Salamanca» on alert.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí las llamas han afectado a unas mil seiscientas hectáreas.",
+   "en": "There the flames have affected some one thousand six hundred hectares.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la Comunidad de Madrid,",
+   "en": "In the Community of «Madrid»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el fuego de Aldea del Fresno está estabilizado tras quemar trescientas treinta hectáreas.",
+   "en": "the fire at «Aldea del Fresno» is stabilised after burning three hundred and thirty hectares.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Había obligado a movilizar una treintena de dotaciones terrestres,",
+   "en": "It had forced the mobilisation of about thirty ground crews,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "nueve medios aéreos y la Unidad Militar de Emergencias.",
+   "en": "nine aerial assets and the «Unidad Militar de Emergencias».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "elDiario punto es, La Vanguardia y El País cubren los tres frentes.",
+   "en": "«elDiario punto es», «La Vanguardia» and «El Pais» are covering the three fronts.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Terminamos fuera de España.",
+   "en": "We finish outside Spain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La justicia china ha condenado a cadena perpetua a Xu Jiayin,",
+   "en": "The Chinese courts have sentenced «Xu Jiayin»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "fundador del gigante inmobiliario Evergrande.",
+   "en": "founder of the property giant «Evergrande», to life imprisonment.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El tribunal ordena confiscar todos sus bienes.",
+   "en": "The court orders the confiscation of all his assets.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Xu llegó a ser el hombre más rico de Asia,",
+   "en": "«Xu» came to be the richest man in «Asia»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "antes de que el desplome de la compañía desencadenara una enorme crisis inmobiliaria.",
+   "en": "before the collapse of the company set off an enormous property crisis.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ha sido condenado por múltiples delitos financieros.",
+   "en": "He has been convicted of multiple financial crimes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El País, El Mundo y ABC recogen la sentencia.",
+   "en": "«El Pais», «El Mundo» and «ABC» carry the sentence.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y hasta aquí el repaso de esta mañana.",
+   "en": "And that is the round-up for this morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Thursday 20 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "The National Police deployed a major operation on Thursday on the Trampolin beach in Ceuta",
+ "summary_en": [
+  "The National Police deployed a major operation on Thursday on the Trampolin beach in Ceuta",
+  "The fire in Las Hurdes has burned almost 4,000 hectares and is keeping 2,000 residents eva",
+  "China has sentenced Xu Jiayin, the founder of the property giant Evergrande, to life impri"
+ ]
+}

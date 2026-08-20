@@ -1,0 +1,333 @@
+{
+ "title": "El tiempo, jueves 20 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather",
+   "wpm": 208,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-20",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El tiempo, y hoy cambia de verdad.",
+   "en": "The weather, and today it really changes.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La AEMET mantiene hoy avisos de nivel naranja por lluvias",
+   "en": "«AEMET» has orange level warnings in force today for rain",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y por tormentas en buena parte del país.",
+   "en": "and for storms over a good part of the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Cataluña, la depresión central y el prepirineo de Barcelona,",
+   "en": "In «Cataluna», the central depression and the pre-Pyrenees of «Barcelona»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el pirineo y el prelitoral de Girona.",
+   "en": "the Pyrenees and the pre-coast of «Girona».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También el litoral sur y el prelitoral sur de Tarragona.",
+   "en": "Also the south coast and the south pre-coast of «Tarragona».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Aragón, el pirineo oscense,",
+   "en": "In «Aragon», the «Huesca» Pyrenees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el centro y el sur de Huesca.",
+   "en": "the centre and the south of «Huesca».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la Comunidad Valenciana, el interior de Alicante y el interior sur,",
+   "en": "In the «Comunidad Valenciana», the interior of «Alicante» and the south interior,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el litoral sur y el litoral norte de Valencia.",
+   "en": "the south coast and the north coast of «Valencia».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y en Murcia, el altiplano.",
+   "en": "And in «Murcia», the highland.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hay además avisos naranjas por lluvias en la ibérica riojana, en la ibérica de Burgos y de Soria,",
+   "en": "There are also orange rain warnings in the Riojan and the «Burgos» and «Soria» Iberian ranges,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y en la cordillera cantábrica y la meseta de León.",
+   "en": "and in the Cantabrian range and the plateau of «Leon».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Mallorca, el aviso naranja es por temperaturas máximas,",
+   "en": "In «Mallorca», the orange warning is for maximum temperatures,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el norte y el nordeste.",
+   "en": "in the north and the north-east.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Vamos con las ciudades.",
+   "en": "Here are the cities.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Madrid, intervalos nubosos con lluvia escasa,",
+   "en": "In «Madrid», cloudy intervals with slight rain,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "treinta grados de máxima y veintidós de mínima.",
+   "en": "thirty degrees for the high and twenty-two for the low.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación es del sesenta por ciento,",
+   "en": "The chance of precipitation is sixty per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con viento del suroeste de veinte kilómetros por hora.",
+   "en": "with a south-westerly wind of twenty kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Málaga, treinta y tres grados de máxima y veinticuatro de mínima,",
+   "en": "In «Malaga», thirty-three degrees for the high and twenty-four for the low,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con tormenta por la tarde.",
+   "en": "with a storm in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí la probabilidad sube al ochenta por ciento",
+   "en": "There the chance rises to eighty per cent",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el viento del sur alcanza treinta kilómetros por hora.",
+   "en": "and the southerly wind reaches thirty kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Córdoba, treinta y tres grados también,",
+   "en": "In «Cordoba», thirty-three degrees as well,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pero con la mínima más baja del país: diecinueve grados.",
+   "en": "but with the lowest minimum in the country: nineteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y la probabilidad más alta de las tres:",
+   "en": "And the highest chance of the three:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "noventa y cinco por ciento.",
+   "en": "ninety-five per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Todos estos datos son de la AEMET.",
+   "en": "All of these figures are from «AEMET».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y hasta aquí el tiempo.",
+   "en": "And that is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Thursday 20 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "España",
+ "accent": "Castilla",
+ "accent_label": "acento de Castilla",
+ "segment_order": 0,
+ "headline_en": "Predicción AEMET para Madrid (Madrid), 2026-08-20",
+ "summary_en": [
+  "Predicción AEMET para Madrid (Madrid), 2026-08-20",
+  "Predicción AEMET para Málaga (Málaga), 2026-08-20"
+ ]
+}
