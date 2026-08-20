@@ -5,6 +5,46 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-CL-Las noticias de la mañana, jueves 20 de agosto",
+   "file": "podcast-daily-2026-08-20-morning-news-es-CL.json",
+   "bytes": 10556,
+   "sha256": "747e68639c8900157e734c4d7ae28bb445ff32490139452811fce06da26b25af",
+   "date": "2026-08-20",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "Las noticias de la mañana, jueves 20 de agosto",
+   "title_en": "The morning news, Thursday 20 August",
+   "headline_en": "Intense rains caused by a cut-off low set off ravines and mudslides in Iquique, Antofagast",
+   "summary_en": [
+    "Intense rains caused by a cut-off low set off ravines and mudslides in Iquique, Antofagast",
+    "Donald Trump declared the largest economic war against Iran and threatened every country t"
+   ]
+  },
+  {
+   "id": "es-CL-El estado del tiempo, jueves 20 de agosto",
+   "file": "podcast-daily-2026-08-20-morning-weather-es-CL.json",
+   "bytes": 4796,
+   "sha256": "d14b8142aec1fed837c4f1e6951372300613eb3d6d841e2c192a4b2021356750",
+   "date": "2026-08-20",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "El estado del tiempo, jueves 20 de agosto",
+   "title_en": "Today's weather, Thursday 20 August",
+   "headline_en": "Previsión para Santiago, jueves 2026-08-20",
+   "summary_en": [
+    "Previsión para Santiago, jueves 2026-08-20",
+    "Previsión para Valparaíso, jueves 2026-08-20"
+   ]
+  },
+  {
    "id": "es-CL-Las noticias de la mañana, miércoles 19 de agosto",
    "file": "podcast-daily-2026-08-19-morning-news-es-CL.json",
    "bytes": 15173,

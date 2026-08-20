@@ -1,0 +1,419 @@
+{
+ "title": "Las noticias de la mañana, jueves 20 de agosto",
+ "dialect": "es-CL",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CL-daily-news",
+   "wpm": 205,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-20",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Jueves veinte de agosto, en Santiago.",
+   "en": "Thursday the 20th of August, in «Santiago».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las noticias de la mañana.",
+   "en": "This is «Las noticias de la mañana».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El norte sigue evaluando los daños de los aluviones,",
+   "en": "The north is still counting the damage from the mudslides,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con estado de catástrofe en Tocopilla.",
+   "en": "with a state of catastrophe in «Tocopilla».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el precio del petróleo sube tras el anuncio de una guerra económica contra Irán.",
+   "en": "And the oil price rises after the declaration of an economic war on Iran.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos por la emergencia en el norte.",
+   "en": "We start with the emergency in the north.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las intensas lluvias provocadas por una baja segregada activaron quebradas y aluviones.",
+   "en": "Heavy rain from a cut-off low sent ravines and mudslides down.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ocurrió en Iquique, en Antofagasta y en Tocopilla.",
+   "en": "It happened in «Iquique», in «Antofagasta» and in «Tocopilla».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En esta última comuna se declaró estado de catástrofe.",
+   "en": "In that last town a state of catastrophe was declared.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo decretó el Presidente José Antonio Kast para la provincia de Tocopilla,",
+   "en": "It was decreed by President «Jose Antonio Kast» for the province of «Tocopilla», in",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la Región de Antofagasta.",
+   "en": "the «Antofagasta» region.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El nuevo balance de Senapred habla de ochocientos diez damnificados.",
+   "en": "The new «Senapred» figures give eight hundred and ten people affected.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Habla también de mil ciento cincuenta y dos albergados",
+   "en": "They also give one thousand one hundred and fifty-two people in shelters,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y de más de mil trescientas viviendas dañadas.",
+   "en": "and more than one thousand three hundred homes damaged.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Desde Senapred de Iquique, el mandatario anunció el inicio de las evaluaciones de daños.",
+   "en": "From «Senapred» in «Iquique», the president announced that damage assessments are starting.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se harán mediante las Fichas Básicas de Emergencia,",
+   "en": "They will be done through the emergency assessment forms,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para ir en ayuda de las familias afectadas.",
+   "en": "to get help to the families affected.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sin embargo, llamó a cuidar las expectativas.",
+   "en": "He did, though, ask people to keep their expectations in check.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La delegada presidencial de Antofagasta, Katherine López,",
+   "en": "The presidential delegate for «Antofagasta», «Katherine Lopez»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "relató las complejas primeras horas vividas por las personas.",
+   "en": "described the difficult first hours people lived through.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dio cuenta de los estragos que dejó el paso del sistema frontal en el norte.",
+   "en": "She set out the damage the weather front left behind in the north.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Tercera y Radio Universidad de Chile siguen la emergencia.",
+   "en": "«La Tercera» and «Radio Universidad de Chile» are following the emergency.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasamos al plano internacional.",
+   "en": "Now to the wider world.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Donald Trump declaró la mayor guerra económica contra Irán",
+   "en": "«Donald Trump» declared the largest economic war on Iran",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y amenazó a todo país que ayude a Teherán.",
+   "en": "and threatened any country that helps «Tehran».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El mandatario estadounidense afirmó que nadie le ha brindado a la República Islámica una mejor",
+   "en": "The American president said nobody has given the Islamic Republic a better",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "oportunidad para llegar a un acuerdo que él.",
+   "en": "chance of a deal than he has.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sostuvo que no la han aprovechado,",
+   "en": "He said they had not taken it,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y llamó a sus aliados a unirse para aislar y derrotar la amenaza iraní.",
+   "en": "and called on his allies to join him in isolating and defeating the Iranian threat.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Irán aseguró que la declaración responde a una crisis sin precedentes en Estados Unidos.",
+   "en": "Iran said the declaration is a response to an unprecedented crisis in the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su ministro de Exteriores sostuvo que doblar la apuesta en políticas fallidas solo traerá más",
+   "en": "Its foreign minister said doubling down on failed policies will only bring more defeats",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "derrotas y la enemistad de los iraníes.",
+   "en": "and the hostility of Iranians.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El petróleo se cotizó al alza tras el anuncio.",
+   "en": "Oil traded higher after the announcement.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Brent superó los noventa y tres dólares",
+   "en": "Brent went above ninety-three dollars",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y alcanzó su mayor precio desde fines de julio.",
+   "en": "and reached its highest price since the end of July.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Desde que venció el plazo entre Washington y Teherán,",
+   "en": "Since the deadline between Washington and «Tehran» ran out,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el crudo acumula un alza de seis por ciento.",
+   "en": "crude is up six per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Tercera y Radio Universidad de Chile cubren la escalada.",
+   "en": "«La Tercera» and «Radio Universidad de Chile» cover the escalation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí las noticias de la mañana.",
+   "en": "And that is the news this morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Thursday 20 August",
+ "edition": "morning",
+ "region": "es-CL",
+ "region_label": "Chile",
+ "headline_en": "Intense rains caused by a cut-off low set off ravines and mudslides in Iquique, Antofagast",
+ "summary_en": [
+  "Intense rains caused by a cut-off low set off ravines and mudslides in Iquique, Antofagast",
+  "Donald Trump declared the largest economic war against Iran and threatened every country t"
+ ]
+}

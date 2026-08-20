@@ -13,8 +13,8 @@
    "channel": "daily",
    "dialect": "es-CL",
    "index": "daily/es-CL/index.json",
-   "episodes": 10,
-   "latest_date": "2026-08-19"
+   "episodes": 12,
+   "latest_date": "2026-08-20"
   },
   {
    "channel": "daily",
