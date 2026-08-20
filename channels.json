@@ -34,8 +34,8 @@
    "channel": "daily",
    "dialect": "es-MX",
    "index": "daily/es-MX/index.json",
-   "episodes": 14,
-   "latest_date": "2026-08-19"
+   "episodes": 16,
+   "latest_date": "2026-08-20"
   },
   {
    "channel": "daily",

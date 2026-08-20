@@ -1,0 +1,500 @@
+{
+ "title": "El noticiario matutino, jueves 20 de agosto",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-news",
+   "wpm": 186,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-20",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Jueves veinte de agosto, nueve y media de la mañana en la Ciudad de México.",
+   "en": "Thursday the 20th of August, half past nine in the morning in «Ciudad de Mexico».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El noticiario matutino.",
+   "en": "This is «El noticiario matutino».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Fiscalía captura a un testigo clave del secuestro de El Mayo Zambada.",
+   "en": "The prosecutor's office arrests a key witness to the kidnapping of «El Mayo Zambada».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El peso rompe el piso de las diecisiete unidades por dólar.",
+   "en": "The peso breaks through the floor of seventeen to the dollar.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y la Comisión Permanente aprueba la renuncia de la magistrada Mónica Soto al Tribunal Electoral.",
+   "en": "And the standing committee approves the resignation of the judge «Monica Soto» from the electoral court.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos con la seguridad.",
+   "en": "We start with security.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Fiscalía General de la República aprehendió a Fausto Corrales Rodríguez.",
+   "en": "The «Fiscalia General de la Republica» has arrested «Fausto Corrales Rodriguez».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se le considera testigo clave en el caso del secuestro de Ismael Zambada",
+   "en": "He is regarded as a key witness in the case of the kidnapping of «Ismael Zambada Garcia», «El",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "García, El Mayo.",
+   "en": "Mayo».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Él fue quien acompañó a Héctor Melesio Cuén Ojeda a la reunión del veinticinco de",
+   "en": "He was the one who went with «Hector Melesio Cuen Ojeda» to the meeting on the twenty-fifth of July two thousand",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "julio de dos mil veinticuatro.",
+   "en": "and twenty-four.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Era el chofer de Cuén Ojeda,",
+   "en": "He was «Cuen Ojeda»'s driver,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la Fiscalía lo señaló como posible implicado en el secuestro.",
+   "en": "and the prosecutor's office named him as a possible party to the kidnapping.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Claudia Sheinbaum afirmó que la detención es relevante",
+   "en": "«Claudia Sheinbaum» said the arrest matters",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "porque demuestra que el caso no está cerrado.",
+   "en": "because it shows the case is not closed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Añadió que ayudará a aclarar lo que pasó el día del secuestro.",
+   "en": "She added that it will help to clear up what happened on the day of the kidnapping.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Jornada, Reforma y El Financiero informan de la captura.",
+   "en": "«La Jornada», «Reforma» and «El Financiero» report the arrest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos con el crimen organizado.",
+   "en": "Now to organised crime.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En operativos de fuerzas federales fueron detenidos ayer doce integrantes del Cártel Jalisco Nueva Generación.",
+   "en": "In operations by federal forces, twelve members of the «Cartel Jalisco Nueva Generacion» were detained yesterday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Fue en Michoacán, y entre ellos están la hija",
+   "en": "It was in «Michoacan», and they include the daughter",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la pareja sentimental de Heraclio Guerrero Martínez, el Tío Lako.",
+   "en": "and the partner of «Heraclio Guerrero Martinez», «el Tio Lako».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es el capo de la organización en ese estado.",
+   "en": "He is the cartel's boss in that state.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Tras la captura se registraron bloqueos.",
+   "en": "Roadblocks went up after the arrests.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las autoridades confirmaron la detención de tres delincuentes,",
+   "en": "Authorities confirmed three more arrests,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que se suman a los nueve arrestados más temprano.",
+   "en": "on top of the nine made earlier.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Jornada, Reforma y El Financiero cubren el operativo.",
+   "en": "«La Jornada», «Reforma» and «El Financiero» cover the operation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasamos a la economía.",
+   "en": "On to the economy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El peso mexicano rompió el piso de las diecisiete unidades por dólar.",
+   "en": "The Mexican peso has broken through the floor of seventeen to the dollar.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El tipo de cambio está en mínimos desde dos mil veinticuatro.",
+   "en": "The exchange rate is at its lowest since two thousand and twenty-four.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El avance del peso sobre el dólar responde también al diferencial de tasas",
+   "en": "The peso's gain on the dollar also comes down to the gap between interest rates",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y a la estabilidad macroeconómica del país.",
+   "en": "and the country's macroeconomic stability.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Tesoro estadounidense movió los mercados",
+   "en": "The US Treasury moved the markets",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y llevó al dólar por debajo de los diecisiete pesos.",
+   "en": "and took the dollar below seventeen pesos.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Financiero y La Jornada siguen el tipo de cambio.",
+   "en": "«El Financiero» and «La Jornada» are following the exchange rate.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Terminamos con la justicia electoral.",
+   "en": "We finish with the electoral courts.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Comisión Permanente aprobó ayer, de forma acelerada,",
+   "en": "The standing committee yesterday gave fast approval to",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la renuncia de la magistrada Mónica Soto Fregoso a su cargo.",
+   "en": "the resignation of the judge «Monica Soto Fregoso» from her post.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Deja la sala superior del Tribunal Electoral del Poder Judicial de la Federación,",
+   "en": "She leaves the upper chamber of the «Tribunal Electoral del Poder Judicial de la Federacion»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con efectos a partir del treinta y uno de este mes.",
+   "en": "with effect from the thirty-first of this month.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La renuncia salió con el aval de Morena y sus aliados.",
+   "en": "The resignation went through with the backing of «Morena» and its allies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Senado no ha dado a conocer el procedimiento para ocupar la vacante.",
+   "en": "The Senate has not said how the vacancy will be filled.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Podría ser un proceso selectivo de la Cámara Alta,",
+   "en": "It could be a selection run by the upper house,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "o una elección judicial en dos mil veintiocho.",
+   "en": "or a judicial election in two thousand and twenty-eight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La oposición sostuvo que no existe una causa grave,",
+   "en": "The opposition argued that there is no serious cause,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y los legisladores aseguraron que el tribunal puede funcionar con cinco magistrados.",
+   "en": "and legislators said the court can work with five judges.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Jornada, El Economista y El Financiero detallan la votación.",
+   "en": "«La Jornada», «El Economista» and «El Financiero» set out the vote.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí el resumen de esta mañana.",
+   "en": "And that is your morning round-up from «Ciudad de Mexico».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Thursday 20 August",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "The Fiscalia General de la Republica arrested Fausto Corrales Rodriguez, considered a key",
+ "summary_en": [
+  "The Fiscalia General de la Republica arrested Fausto Corrales Rodriguez, considered a key",
+  "The Mexican peso broke through the floor of 17 units to the dollar, reaching lows not seen",
+  "With the approval of Morena and its allies, the Comision Permanente yesterday approved in"
+ ]
+}

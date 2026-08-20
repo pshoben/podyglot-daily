@@ -5,6 +5,47 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-MX-El noticiario matutino, jueves 20 de agosto",
+   "file": "podcast-daily-2026-08-20-morning-news-es-MX.json",
+   "bytes": 12759,
+   "sha256": "bfcefeff9677e0b617c4a93c462ca377aba2a89a238206a6749d2f0e1f2fc130",
+   "date": "2026-08-20",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El noticiario matutino, jueves 20 de agosto",
+   "title_en": "The morning news, Thursday 20 August",
+   "headline_en": "The Fiscalia General de la Republica arrested Fausto Corrales Rodriguez, considered a key",
+   "summary_en": [
+    "The Fiscalia General de la Republica arrested Fausto Corrales Rodriguez, considered a key",
+    "The Mexican peso broke through the floor of 17 units to the dollar, reaching lows not seen",
+    "With the approval of Morena and its allies, the Comision Permanente yesterday approved in"
+   ]
+  },
+  {
+   "id": "es-MX-El clima, jueves 20 de agosto",
+   "file": "podcast-daily-2026-08-20-morning-weather-es-MX.json",
+   "bytes": 4918,
+   "sha256": "74298359a1b54225feda8b331353a3124f125b5b22d7804820e612bb01529983",
+   "date": "2026-08-20",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El clima, jueves 20 de agosto",
+   "title_en": "Today's weather, Thursday 20 August",
+   "headline_en": "Previsión para Ciudad de México, jueves 2026-08-20",
+   "summary_en": [
+    "Previsión para Ciudad de México, jueves 2026-08-20",
+    "Previsión para Guadalajara, jueves 2026-08-20"
+   ]
+  },
+  {
    "id": "es-MX-El noticiario matutino, miércoles 19 de agosto",
    "file": "podcast-daily-2026-08-19-morning-news-es-MX.json",
    "bytes": 10192,
