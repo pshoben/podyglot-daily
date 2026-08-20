@@ -77,7 +77,7 @@
   {
    "speaker": "SPK1",
    "text": "La Policía Nacional ha desplegado este jueves un importante dispositivo en la playa del Trampolín.",
-   "en": "The «Policia Nacional» deployed a major operation this Thursday on the «Trampolin» beach.",
+   "en": "The «Policia Nacional» mounted a major operation this Thursday on the «Trampolin» beach.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.0,
@@ -107,7 +107,7 @@
   {
    "speaker": "SPK1",
    "text": "Una treintena de furgones policiales se personaron en el lugar justo con el alba,",
-   "en": "About thirty police vans arrived at the spot right at dawn,",
+   "en": "About thirty police vans arrived at the scene right at dawn,",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.99,
@@ -127,7 +127,7 @@
   {
    "speaker": "SPK1",
    "text": "Cerraron a los migrantes en un perímetro de medio kilómetro de largo.",
-   "en": "They closed the migrants inside a perimeter half a kilometre long.",
+   "en": "They sealed off an area half a kilometre long, with the migrants inside it.",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.98,
@@ -167,7 +167,7 @@
   {
    "speaker": "SPK1",
    "text": "Rechaza además lo que llama el chantaje de Rabat,",
-   "en": "He also rejects what he calls the blackmail of «Rabat»,",
+   "en": "He also rejects what he calls «Rabat»'s blackmail,",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.01,
@@ -177,7 +177,7 @@
   {
    "speaker": "SPK1",
    "text": "y presenta un plan de siete puntos que incluye fortificar la frontera sur.",
-   "en": "and presents a seven-point plan that includes fortifying the southern border.",
+   "en": "and is putting forward a seven-point plan that includes fortifying the southern border.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.07,
@@ -227,7 +227,7 @@
   {
    "speaker": "SPK1",
    "text": "Acusa al Gobierno de frialdad y de incapacidad ante el aumento de la presión migratoria.",
-   "en": "It accuses the government of coldness and of incapacity in the face of the rise in migratory pressure.",
+   "en": "It accuses the government of being cold and useless in the face of the rise in migratory pressure.",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.99,
@@ -417,7 +417,7 @@
   {
    "speaker": "SPK1",
    "text": "Xu llegó a ser el hombre más rico de Asia,",
-   "en": "«Xu» came to be the richest man in «Asia»,",
+   "en": "«Xu» was once the richest man in «Asia»,",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.02,

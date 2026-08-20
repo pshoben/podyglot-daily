@@ -7,8 +7,8 @@
   {
    "id": "es-ES-El informativo de la mañana, jueves 20 de agosto",
    "file": "podcast-daily-2026-08-20-morning-news-es-ES.json",
-   "bytes": 12426,
-   "sha256": "e6e7623b95517f83f1535e6944de087ee71cd0fbc20206c575c55e95095405af",
+   "bytes": 12434,
+   "sha256": "ae32cb4e738be906cc5355a37e059b4b1dad74536aa7689c7133a9c332da4d93",
    "date": "2026-08-20",
    "edition": "morning",
    "programme": "news",
@@ -47,8 +47,8 @@
   {
    "id": "es-ES-El tiempo, jueves 20 de agosto",
    "file": "podcast-daily-2026-08-20-morning-weather-es-ES.json",
-   "bytes": 7814,
-   "sha256": "549ae91f0fac0a7981dfca69dccf55c9de5605ebcea253c7385238bf38303d9e",
+   "bytes": 7805,
+   "sha256": "3c38973ff8154cb4b18af8fbeb2e9567a8e388034a89921462f3b8a0d4a259aa",
    "date": "2026-08-20",
    "edition": "morning",
    "programme": "weather",
@@ -67,8 +67,8 @@
   {
    "id": "es-ES-El tiempo en Andalucía, jueves 20 de agosto",
    "file": "podcast-daily-2026-08-20-morning-weather-andalucia-es-ES.json",
-   "bytes": 5344,
-   "sha256": "4bf04ef7be88a2f836bb295b76f5184ea7788e7c0cad6a22c6891b9bba4a994c",
+   "bytes": 5326,
+   "sha256": "124041263d3fd95c51c2b23882e4889d10cbbf412c153ac7090a98acb9abbbb7",
    "date": "2026-08-20",
    "edition": "morning",
    "programme": "weather-andalucia",
@@ -87,8 +87,8 @@
   {
    "id": "es-ES-El tiempo en Canarias, jueves 20 de agosto",
    "file": "podcast-daily-2026-08-20-morning-weather-canarias-es-ES.json",
-   "bytes": 4750,
-   "sha256": "9c86115d641a22c01f7f90f234089dbca570902f9d2884cc5feaaef88d1819a3",
+   "bytes": 4724,
+   "sha256": "b529cb9b5296e470376ba4e59633f127fe05c48bef4e9b1849fb0b7ab1ca78b5",
    "date": "2026-08-20",
    "edition": "morning",
    "programme": "weather-canarias",
@@ -105,7 +105,7 @@
    ]
   }
  ],
- "content": "6fd10a2b1ac0f6db72d70f93c9d3dc9a111a5c391fac95b7ffa1b0d23c7ba9af",
- "rev": 1,
- "updated": "2026-08-20T09:17:45.272Z"
+ "content": "28e3730e2e4ab7ebaad8f4a90dbde1066752db6bb9c5a9ef155b9c380b39ce67",
+ "rev": 2,
+ "updated": "2026-08-20T09:44:56.517Z"
 }

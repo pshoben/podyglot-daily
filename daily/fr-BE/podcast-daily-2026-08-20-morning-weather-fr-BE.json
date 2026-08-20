@@ -157,7 +157,7 @@
   {
    "speaker": "SPK1",
    "text": "La probabilité de précipitation y est de cent pour cent: il pleut, tout simplement.",
-   "en": "The chance of precipitation there is one hundred per cent: it rains, quite simply.",
+   "en": "The chance of rain there is one hundred per cent: it is simply going to rain.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.01,

@@ -47,7 +47,7 @@
   {
    "speaker": "SPK1",
    "text": "Pour Saint-Trond, c'est un rendez-vous historique en Europa League.",
-   "en": "For «Saint-Trond», it is a historic appointment in the «Europa League».",
+   "en": "For «Saint-Trond», it is a historic night in the «Europa League».",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.99,
@@ -97,7 +97,7 @@
   {
    "speaker": "SPK1",
    "text": "L'AC Milan a officialisé l'arrivée de Diego Moreira.",
-   "en": "«AC Milan» has made official the arrival of «Diego Moreira».",
+   "en": "«AC Milan» has confirmed the signing of «Diego Moreira».",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.98,

@@ -97,7 +97,7 @@
   {
    "speaker": "SPK1",
    "text": "Ces suspensions découlent de sa condamnation définitive, confirmée en février.",
-   "en": "Those suspensions follow from his definitive conviction, confirmed in February.",
+   "en": "Those suspensions follow his conviction becoming final, in February.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.0,
@@ -117,7 +117,7 @@
   {
    "speaker": "SPK1",
    "text": "Il avait écopé de quatre ans de prison avec sursis",
-   "en": "He had been given four years of suspended prison",
+   "en": "He had been given a four-year suspended sentence",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.98,
@@ -137,7 +137,7 @@
   {
    "speaker": "SPK1",
    "text": "S'y ajoutaient cinq ans d'inéligibilité.",
-   "en": "To that were added five years of ineligibility.",
+   "en": "He was also barred from standing for office for five years.",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.98,
@@ -177,7 +177,7 @@
   {
    "speaker": "SPK1",
    "text": "Cette équipe de contact interviendra en première ligne en cas d'atteinte grave au système",
-   "en": "This contact team will intervene in the front line in case of a serious attack on",
+   "en": "This contact team will be first on the scene if the state's computer systems come",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.01,
@@ -187,7 +187,7 @@
   {
    "speaker": "SPK1",
    "text": "d'information de l'État.",
-   "en": "the state's information system.",
+   "en": "under serious attack.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.05,
@@ -227,7 +227,7 @@
   {
    "speaker": "SPK1",
    "text": "Et quatre cent trente mille particuliers pour les fichiers cadastraux.",
-   "en": "And four hundred and thirty thousand individuals for the cadastral files.",
+   "en": "And four hundred and thirty thousand individuals for the land-registry files.",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.98,
@@ -457,7 +457,7 @@
   {
    "speaker": "SPK1",
    "text": "Avant que les soignants ne puissent l'appliquer,",
-   "en": "Before carers can apply it,",
+   "en": "Before medical staff can put it into practice,",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.0,
@@ -467,7 +467,7 @@
   {
    "speaker": "SPK1",
    "text": "le gouvernement doit encore publier les décrets d'application.",
-   "en": "the government still has to publish the implementing decrees.",
+   "en": "the government still has to publish the decrees that make it work.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.04,
@@ -477,7 +477,7 @@
   {
    "speaker": "SPK1",
    "text": "France 24 et RFI détaillent le texte.",
-   "en": "«France 24» and «RFI» set out the text.",
+   "en": "«France 24» and «RFI» go through what the law says.",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.98,

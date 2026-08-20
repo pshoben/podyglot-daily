@@ -57,7 +57,7 @@
   {
    "speaker": "SPK1",
    "text": "Météo-France prévient que l'épisode peut s'accompagner de phénomènes ponctuellement violents.",
-   "en": "«Meteo-France» warns that the episode can be accompanied by locally violent phenomena.",
+   "en": "«Meteo-France» warns that the storms could turn violent in places.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.0,
@@ -67,7 +67,7 @@
   {
    "speaker": "SPK1",
    "text": "Des rafales et de fortes précipitations, qui demandent une attention particulière.",
-   "en": "Gusts and heavy precipitation, which call for particular attention.",
+   "en": "Sudden gusts and heavy rain, which need watching.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.02,
@@ -77,7 +77,7 @@
   {
    "speaker": "SPK1",
    "text": "Le Monde et France Télévisions relaient la vigilance.",
-   "en": "«Le Monde» and «France Televisions» relay the alert.",
+   "en": "«Le Monde» and «France Televisions» are carrying the warning.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.02,

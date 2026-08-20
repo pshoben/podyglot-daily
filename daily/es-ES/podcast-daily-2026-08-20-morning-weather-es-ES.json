@@ -197,7 +197,7 @@
   {
    "speaker": "SPK1",
    "text": "La probabilidad de precipitación es del sesenta por ciento,",
-   "en": "The chance of precipitation is sixty per cent,",
+   "en": "The chance of rain is sixty per cent,",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.99,

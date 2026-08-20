@@ -57,7 +57,7 @@
   {
    "speaker": "SPK1",
    "text": "La probabilidad de precipitación es del cien por cien durante la madrugada.",
-   "en": "The chance of precipitation is one hundred per cent during the early morning.",
+   "en": "The chance of rain is one hundred per cent during the early morning.",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.99,
@@ -157,7 +157,7 @@
   {
    "speaker": "SPK1",
    "text": "La probabilidad de precipitación alcanza el noventa y cinco por ciento de madrugada.",
-   "en": "The chance of precipitation reaches ninety-five per cent in the early morning.",
+   "en": "The chance of rain reaches ninety-five per cent in the early morning.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.01,

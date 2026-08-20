@@ -47,7 +47,7 @@
   {
    "speaker": "SPK1",
    "text": "Pero no llueve: la probabilidad de precipitación es del cero por ciento.",
-   "en": "But it does not rain: the chance of precipitation is zero per cent.",
+   "en": "But it does not rain: the chance is zero per cent.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.02,
@@ -97,7 +97,7 @@
   {
    "speaker": "SPK1",
    "text": "De madrugada hay un cuarenta y cinco por ciento de probabilidad de precipitación.",
-   "en": "In the early morning there is a forty-five per cent chance of precipitation.",
+   "en": "In the early morning there is a forty-five per cent chance of rain.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.0,

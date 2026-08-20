@@ -57,7 +57,7 @@
   {
    "speaker": "SPK1",
    "text": "part une nouvelle fois en grandissime favori du championnat.",
-   "en": "starts once again as the very great favourite of the championship.",
+   "en": "start once again as the overwhelming favourites for the title.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.03,
@@ -66,18 +66,28 @@
   },
   {
    "speaker": "SPK1",
-   "text": "Mais la Ligue 1 a montré, malgré sa nette récession économique,",
-   "en": "But «Ligue 1» has shown, in spite of its clear economic recession,",
+   "text": "Mais la Ligue 1 a montré,",
+   "en": "But «Ligue 1» has shown,",
    "prosody": {
     "pause_ms": 300,
-    "rate": 0.98,
-    "pitch": 1.04
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "malgré sa nette récession économique,",
+   "en": "for all its sharp financial decline,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
    }
   },
   {
    "speaker": "SPK1",
    "text": "qu'elle avait de la ressource.",
-   "en": "that it has resources.",
+   "en": "that it still has plenty to offer.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.05,
@@ -97,7 +107,7 @@
   {
    "speaker": "SPK1",
    "text": "Un match de la première journée change de terrain.",
-   "en": "One match of the first matchday is changing ground.",
+   "en": "One match on the opening weekend is moving venue.",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.98,
@@ -117,7 +127,7 @@
   {
    "speaker": "SPK1",
    "text": "la rencontre entre le Paris Saint-Germain et le Stade Rennais est inversée.",
-   "en": "the meeting between «Paris Saint-Germain» and «Stade Rennais» is inverted.",
+   "en": "the match between «Paris Saint-Germain» and «Stade Rennais» is being reversed.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.04,
@@ -217,7 +227,7 @@
   {
    "speaker": "SPK1",
    "text": "Le sélectionneur Frédéric Fauthoux l'a annoncé devant tout le groupe, sur le parquet d'Orléans.",
-   "en": "The selector «Frederic Fauthoux» announced it in front of the whole group, on the floor at «Orleans».",
+   "en": "The head coach «Frederic Fauthoux» told the whole squad, on the court at «Orleans».",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.99,
@@ -257,7 +267,7 @@
   {
    "speaker": "SPK1",
    "text": "Télévisions annoncent la rencontre.",
-   "en": "«L'Equipe» and «France Televisions» announce the meeting.",
+   "en": "«L'Equipe» and «France Televisions» preview the game.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.0,
