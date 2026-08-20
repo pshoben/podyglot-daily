@@ -1,0 +1,229 @@
+{
+ "title": "Le sport chez nous, jeudi 20 août",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-sport",
+   "wpm": 222,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-20",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le sport, et une soirée européenne pour les clubs belges.",
+   "en": "Sport, and a European evening for the Belgian clubs.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Anderlecht se déplace à Kairat Almaty ce soir.",
+   "en": "«Anderlecht» travel to «Kairat Almaty» this evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Saint-Trond reçoit Omonia Nicosie, et la Belgique affronte l'Irlande.",
+   "en": "«Saint-Trond» host «Omonia Nicosia», and Belgium face Ireland.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour Saint-Trond, c'est un rendez-vous historique en Europa League.",
+   "en": "For «Saint-Trond», it is a historic appointment in the «Europa League».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Son entraîneur bruxellois, Frédéric De Meyer,",
+   "en": "Their «Brussels» coach, «Frederic De Meyer»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "va faire ses débuts en Coupe d'Europe.",
+   "en": "is going to make his debut in European competition.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La DH et 7sur7 donnent les affiches et les horaires.",
+   "en": "The «DH» and «7sur7» give the fixtures and the times.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe aux transferts.",
+   "en": "We move to transfers.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'AC Milan a officialisé l'arrivée de Diego Moreira.",
+   "en": "«AC Milan» has made official the arrival of «Diego Moreira».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Belge rejoint donc le club italien.",
+   "en": "The Belgian is therefore joining the Italian club.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "7sur7 et la DH donnent les détails du transfert.",
+   "en": "«7sur7» and the «DH» give the details of the transfer.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un ancien international change de métier.",
+   "en": "A former international is changing jobs.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Toby Alderweireld rejoint le célèbre Match of the Day, sur la BBC.",
+   "en": "«Toby Alderweireld» is joining the celebrated «Match of the Day», on the «BBC».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "7sur7 et la DH annoncent son arrivée.",
+   "en": "«7sur7» and the «DH» announce his arrival.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et pour finir, le sport automobile.",
+   "en": "And to finish, motor sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Red Bull a annoncé la prolongation du contrat de Max Verstappen jusqu'à la fin",
+   "en": "«Red Bull» announced the extension of «Max Verstappen»'s contract until the end of two thousand",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "deux mille trente.",
+   "en": "and thirty.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le pilote néerlandais a parlé d'une deuxième famille.",
+   "en": "The Dutch driver spoke of a second family.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La DH et 7sur7 confirment la prolongation.",
+   "en": "The «DH» and «7sur7» confirm the extension.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et voilà, vous êtes au courant.",
+   "en": "And there you are, you are up to date.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Thursday 20 August",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Belgian clubs are in Europe this evening: Kairat Almaty against Anderlecht, and Saint-Tron",
+ "summary_en": [
+  "Belgian clubs are in Europe this evening: Kairat Almaty against Anderlecht, and Saint-Tron",
+  "AC Milan has made official the arrival of Diego Moreira. The Belgian is joining the Italia"
+ ]
+}

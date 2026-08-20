@@ -1,0 +1,249 @@
+{
+ "title": "Le temps chez nous, jeudi 20 août",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-weather",
+   "wpm": 222,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-20",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "La météo, après une soirée d'orages.",
+   "en": "The weather, after an evening of storms.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De violents orages se sont abattus mercredi, vers dix-huit heures trente,",
+   "en": "Violent storms broke on Wednesday, at about half past six in the evening,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sur plusieurs communes de l'Eifel belge.",
+   "en": "over several communes of the Belgian «Eifel».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ils ont occasionné d'importants dégâts, a indiqué Rainer Stoffels, le bourgmestre de Bullange.",
+   "en": "They caused considerable damage, said «Rainer Stoffels», the mayor of «Bullange».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il confirmait une information relayée par les médias germanophones.",
+   "en": "He was confirming information relayed by the German-language media.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Une mini-tornade s'est abattue sur l'Eifel belge.",
+   "en": "A mini-tornado struck the Belgian «Eifel».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des toitures se sont envolées, des arbres sont tombés sur la chaussée",
+   "en": "Roofs were blown off, trees fell on the roadway",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et des voitures ont été endommagées, dans plusieurs communes.",
+   "en": "and cars were damaged, in several communes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Institut royal météorologique avait émis un avertissement jaune pour pluies abondantes.",
+   "en": "The «Institut royal meteorologique» had issued a yellow warning for abundant rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il valait jusqu'à minuit mercredi, pour toutes les provinces wallonnes, Bruxelles et le Brabant flamand.",
+   "en": "It was valid until midnight on Wednesday, for all the Walloon provinces, «Brussels» and Flemish «Brabant».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "7sur7, La Libre et la DH font le tour des dégâts.",
+   "en": "«7sur7», «La Libre» and the «DH» go round the damage.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aujourd'hui, le temps se ressemble d'une ville à l'autre.",
+   "en": "Today, the weather is much the same from one city to another.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Bruxelles, de la bruine, vingt et un degrés au plus haut",
+   "en": "In «Brussels», drizzle, twenty-one degrees at the highest",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et quinze au plus bas.",
+   "en": "and fifteen at the lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de précipitation y est de cent pour cent: il pleut, tout simplement.",
+   "en": "The chance of precipitation there is one hundred per cent: it rains, quite simply.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Namur, mêmes températures, et une probabilité de quatre-vingt-huit pour cent.",
+   "en": "In «Namur», the same temperatures, and a chance of eighty-eight per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y monte à vingt-quatre kilomètres à l'heure,",
+   "en": "The wind there gets up to twenty-four kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le plus fort des trois.",
+   "en": "the strongest of the three.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Liège, vingt et un degrés aussi,",
+   "en": "In «Liege», twenty-one degrees as well,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et quatre-vingt-cinq pour cent de probabilité.",
+   "en": "and eighty-five per cent chance.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ces prévisions viennent du modèle du Centre européen, l'ECMWF.",
+   "en": "These forecasts come from the European Centre's model, the «ECMWF».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà votre jeudi, en bref.",
+   "en": "That is your Thursday, in short.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Thursday 20 August",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Prévision pour Bruxelles, jeudi 2026-08-20",
+ "summary_en": [
+  "Prévision pour Bruxelles, jeudi 2026-08-20",
+  "Prévision pour Namur, jeudi 2026-08-20"
+ ]
+}

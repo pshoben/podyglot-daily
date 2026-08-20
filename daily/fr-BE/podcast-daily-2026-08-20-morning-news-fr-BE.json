@@ -1,0 +1,430 @@
+{
+ "title": "Le sept heures, jeudi 20 août",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-news",
+   "wpm": 222,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-20",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Jeudi vingt août, dix heures et demie à Bruxelles. Le sept heures.",
+   "en": "Thursday the twentieth of August, half past ten in «Brussels». The seven o'clock news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le feu des Hautes Fagnes est encerclé,",
+   "en": "The fire in the «Hautes Fagnes» is encircled,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "mais pas encore sous contrôle.",
+   "en": "but not yet under control.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les enseignants accrochent des banderoles à Liège et à Verviers.",
+   "en": "Teachers are hanging banners in «Liege» and in «Verviers».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et Kinepolis publie un premier semestre record.",
+   "en": "And «Kinepolis» is publishing a record first half.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par l'incendie.",
+   "en": "We start with the fire.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le feu qui sévit dans les Hautes Fagnes depuis plusieurs jours a détruit environ trois",
+   "en": "The fire that has been raging in the «Hautes Fagnes» for several days has destroyed about three",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "mille hectares de végétation.",
+   "en": "thousand hectares of vegetation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il est désormais encerclé et contenu,",
+   "en": "It is now encircled and contained,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "mais il n'est pas encore sous contrôle.",
+   "en": "but it is not yet under control.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les mauvaises conditions météo compliquent le travail des pompiers.",
+   "en": "The bad weather conditions are complicating the firefighters' work.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des reconnaissances par drone sont prévues pour cibler les zones d'intervention.",
+   "en": "Drone reconnaissance is planned to target the areas for intervention.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'incendie bouscule aussi l'agenda politique.",
+   "en": "The fire is also shaking up the political agenda.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La commission des Affaires intérieures de la Chambre interrompt ses vacances ce jeudi pour se",
+   "en": "The Chamber's interior affairs commission is interrupting its holidays this Thursday to",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "réunir en urgence.",
+   "en": "meet in emergency.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le parlement attend une réponse du ministre de l'Intérieur, Bernard Quintin, sur cinq questions.",
+   "en": "Parliament is waiting for an answer from the interior minister, «Bernard Quintin», on five questions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ministre du Climat, Jean-Luc Crucke,",
+   "en": "The climate minister, «Jean-Luc Crucke»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "appelle de son côté à une sortie des énergies fossiles.",
+   "en": "for his part is calling for an exit from fossil energies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il va réunir les sept ministres du climat.",
+   "en": "He is going to gather the seven climate ministers.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des mesures ont été prises pour soulager la trésorerie des indépendants touchés.",
+   "en": "Measures have been taken to ease the cash flow of the self-employed people affected.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ils doivent introduire une demande écrite à leur caisse d'assurances sociales avant le quinze septembre.",
+   "en": "They must put a written request to their social insurance fund before the fifteenth of September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Libre, la DH et 7sur7 suivent le feu heure par heure.",
+   "en": "«La Libre», the «DH» and «7sur7» are following the fire hour by hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à l'enseignement.",
+   "en": "We move to education.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des banderoles de plusieurs mètres de long ont été apposées mercredi matin à Liège",
+   "en": "Banners several metres long were put up on Wednesday morning in «Liege» and",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et à Verviers.",
+   "en": "in «Verviers».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elles ont été accrochées aux diverses entrées des deux villes.",
+   "en": "They were hung at the various entrances to the two towns.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce sont des représentants du personnel enseignant de la CSC,",
+   "en": "It was representatives of the teaching staff of the «CSC»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "du SETCa et de la CGSP.",
+   "en": "the «SETCa» and the «CGSP».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ces slogans rappellent que le combat du monde de l'enseignement sera toujours d'actualité",
+   "en": "Those slogans recall that the fight of the teaching world will",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le vingt-quatre août.",
+   "en": "still be current on the twenty-fourth of August.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Libre et la DH montrent les banderoles.",
+   "en": "«La Libre» and the «DH» show the banners.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On termine par le cinéma.",
+   "en": "We finish with the cinema.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le groupe Kinepolis a enregistré des résultats record au premier semestre.",
+   "en": "The «Kinepolis» group recorded record results in the first half.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ses résultats semestriels ont été publiés ce jeudi.",
+   "en": "Its half-year results were published this Thursday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dix-neuf virgule un millions de personnes sont venues dans les salles du groupe.",
+   "en": "Nineteen point one million people came into the group's screens.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La forte programmation y est pour beaucoup,",
+   "en": "The strong programme counts for a lot in that,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "portée notamment par Toy Story cinq et par Project Hail Mary.",
+   "en": "carried in particular by «Toy Story» five and by «Project Hail Mary».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le groupe était confronté à un problème d'offre depuis des années.",
+   "en": "The group had been facing a supply problem for years.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "7sur7 et La Libre publient les chiffres.",
+   "en": "«7sur7» and «La Libre» publish the figures.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour cette édition.",
+   "en": "That is all for this edition.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Thursday 20 August",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "The fire that has been raging in the Hautes Fagnes for several days and has destroyed abou",
+ "summary_en": [
+  "The fire that has been raging in the Hautes Fagnes for several days and has destroyed abou",
+  "Banners several metres long were put up on Wednesday morning at the various entrances to t",
+  "The Kinepolis group recorded record results in the first half, according to its half-year"
+ ]
+}
