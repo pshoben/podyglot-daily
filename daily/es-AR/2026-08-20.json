@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-AR",
+ "date": "2026-08-20",
+ "episodes": [
+  {
+   "id": "es-AR-El noticiero de la mañana, jueves 20 de agosto",
+   "file": "podcast-daily-2026-08-20-morning-news-es-AR.json",
+   "bytes": 12980,
+   "sha256": "484bca21f1b00b290098fd7a16707b4d967c4b3f473d0293c4c0027aa18285dd",
+   "date": "2026-08-20",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El noticiero de la mañana, jueves 20 de agosto",
+   "title_en": "The morning news, Thursday 20 August",
+   "headline_en": "Javier Milei closes the Council of the Americas in a day that will bring together business",
+   "summary_en": [
+    "Javier Milei closes the Council of the Americas in a day that will bring together business",
+    "Ambito reports that country risk is accelerating its rise and heading towards 530 points,",
+    "The government has set the privatisation of the Belgrano Cargas in motion: a concession fo"
+   ]
+  },
+  {
+   "id": "es-AR-El deporte, jueves 20 de agosto",
+   "file": "podcast-daily-2026-08-20-morning-sport-es-AR.json",
+   "bytes": 6825,
+   "sha256": "c6e3f62895cf9a32c0b73de85942dd6a8281b6b71063dec32d7032596d7c5935",
+   "date": "2026-08-20",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El deporte, jueves 20 de agosto",
+   "title_en": "Today's sport, Thursday 20 August",
+   "headline_en": "Max Verstappen has cleared up the doubts and will continue at Red Bull until 2030. The Dut",
+   "summary_en": [
+    "Max Verstappen has cleared up the doubts and will continue at Red Bull until 2030. The Dut",
+    "Franco Colapinto returns to Formula 1 at the Netherlands Grand Prix; the Argentine driver"
+   ]
+  },
+  {
+   "id": "es-AR-El pronóstico, jueves 20 de agosto",
+   "file": "podcast-daily-2026-08-20-morning-weather-es-AR.json",
+   "bytes": 5534,
+   "sha256": "00510b9366e9e88170057be53bdf5a686e8aff496755eec49db4b54bf8df4048",
+   "date": "2026-08-20",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El pronóstico, jueves 20 de agosto",
+   "title_en": "Today's weather, Thursday 20 August",
+   "headline_en": "Previsión para Buenos Aires, jueves 2026-08-20",
+   "summary_en": [
+    "Previsión para Buenos Aires, jueves 2026-08-20",
+    "Previsión para Córdoba, jueves 2026-08-20"
+   ]
+  }
+ ],
+ "content": "96f571699618eda8e37f5cfc705044924115df67a9a123b64ae8c353761a51b4",
+ "rev": 1,
+ "updated": "2026-08-20T15:47:40.053Z"
+}

@@ -1,0 +1,279 @@
+{
+ "title": "El deporte, jueves 20 de agosto",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-sport",
+   "wpm": 195,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-20",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El deporte.",
+   "en": "Sport.",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Arrancamos con el automovilismo.",
+   "en": "We open with the racing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Max Verstappen despejó las dudas y seguirá en Red Bull hasta dos mil treinta.",
+   "en": "«Max Verstappen» has cleared up the doubts and will stay at Red Bull until two thousand and thirty.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El neerlandés renovó su vínculo con la escudería austríaca",
+   "en": "The Dutchman renewed with the Austrian team",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y puso fin a meses de especulaciones sobre su futuro.",
+   "en": "and ended months of speculation about his future.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Apunta a volver a pelear por títulos.",
+   "en": "He is aiming to fight for titles again.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El anuncio llegó en plena preparación del Gran Premio de Zandvoort.",
+   "en": "The announcement came in the middle of preparations for the «Zandvoort» Grand Prix.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ámbito, Clarín y La Nación confirman la renovación.",
+   "en": "«Ambito», «Clarin» and «La Nacion» confirm the new contract.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos en la misma categoría, con el piloto argentino.",
+   "en": "Staying in the same sport, with the Argentine driver.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Franco Colapinto vuelve a la actividad en el Gran Premio de Países Bajos,",
+   "en": "«Franco Colapinto» is back in action at the Dutch Grand Prix,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "después de cuatro semanas de descanso.",
+   "en": "after four weeks off.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su renovación con Alpine está encaminada,",
+   "en": "His renewal with Alpine is on track,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "aunque habrá que esperar a septiembre para que se defina oficialmente.",
+   "en": "though September will have to come before it is settled officially.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La escudería francesa sólo llevará actualizaciones para el auto de Gasly en esa carrera.",
+   "en": "The French team will only bring upgrades for Gasly's car at that race.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las mejoras programadas no alcanzarán al monoplaza de Colapinto.",
+   "en": "The improvements they have planned will not reach «Colapinto»'s car.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El propio piloto dijo que eso puede ser un poco doloroso para él.",
+   "en": "The driver himself said that may be a little painful for him.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ámbito, La Nación y Clarín siguen la previa.",
+   "en": "«Ambito», «La Nacion» and «Clarin» are following the build-up.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y cerramos con el fútbol.",
+   "en": "And we close with football.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cuti Romero fue presentado en el Atlético de Madrid.",
+   "en": "«Cuti Romero» has been presented at «Atletico de Madrid».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El defensor de la selección argentina brindó una conferencia con su nuevo club.",
+   "en": "The Argentina defender gave a press conference with his new club.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Habló del momento que vive Julián Álvarez,",
+   "en": "He talked about how «Julian Alvarez» is doing,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y dijo que lo ve con ganas y muy metido.",
+   "en": "and said he looks keen and very focused.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empieza así una nueva etapa en su carrera.",
+   "en": "So begins a new stage in his career.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Clarín y La Nación cuentan la presentación.",
+   "en": "«Clarin» and «La Nacion» report the presentation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y hasta acá el deporte.",
+   "en": "And that is sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Thursday 20 August",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Max Verstappen has cleared up the doubts and will continue at Red Bull until 2030. The Dut",
+ "summary_en": [
+  "Max Verstappen has cleared up the doubts and will continue at Red Bull until 2030. The Dut",
+  "Franco Colapinto returns to Formula 1 at the Netherlands Grand Prix; the Argentine driver"
+ ]
+}

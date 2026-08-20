@@ -1,0 +1,520 @@
+{
+ "title": "El noticiero de la mañana, jueves 20 de agosto",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-20",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Jueves veinte de agosto, en Buenos Aires.",
+   "en": "Thursday the 20th of August, in «Buenos Aires».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El noticiero de la mañana.",
+   "en": "This is «El noticiero de la mañana».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Javier Milei cierra hoy el Council of the Americas,",
+   "en": "«Javier Milei» closes the Council of the Americas today,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el Gobierno insiste en que la inflación ya no es un tema.",
+   "en": "and the government insists inflation is no longer an issue.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El riesgo país sigue en alza, con dos mediciones distintas en la calle.",
+   "en": "Country risk keeps climbing, with two different readings doing the rounds.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y arranca la privatización del Belgrano Cargas.",
+   "en": "And the privatisation of the «Belgrano Cargas» railway gets under way.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos por la economía.",
+   "en": "We start with the economy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Javier Milei cierra hoy el Council of the Americas,",
+   "en": "«Javier Milei» closes the Council of the Americas today,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en una jornada que reunirá a empresarios, ministros y gobernadores.",
+   "en": "on a day that brings together business people, ministers and provincial governors.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es la vigesimotercera edición del evento y se realiza en el Hotel Alvear.",
+   "en": "It is the twenty-third edition of the event and it is being held at the «Hotel Alvear».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Participa Luis Caputo, de Economía.",
+   "en": "«Luis Caputo», the economy minister, is taking part.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viceministro José Luis Daza aseguró que continuará la desaceleración de precios.",
+   "en": "The deputy minister «Jose Luis Daza» said prices will go on slowing down.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dijo que la inflación ya no es un tema,",
+   "en": "He said inflation is no longer an issue,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y que va a seguir bajando.",
+   "en": "and that it will keep coming down.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El jefe de Gabinete, Diego Santilli,",
+   "en": "The cabinet chief, «Diego Santilli»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "defendió allí el rumbo del Gobierno y respaldó al Presidente.",
+   "en": "defended the government's course there and backed the president.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Agradeció el apoyo de gobernadores, diputados y senadores,",
+   "en": "He thanked governors, deputies and senators for their support,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y sostuvo que las inversiones llegan cuando existe orden.",
+   "en": "and said investment arrives where there is order.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ámbito, Clarín y La Nación cubren la jornada.",
+   "en": "«Ambito», «Clarin» and «La Nacion» cover the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos con los mercados.",
+   "en": "Now to the markets.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El riesgo país acelera la suba,",
+   "en": "Country risk is climbing faster,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y acá conviene dar las dos mediciones tal como aparecieron.",
+   "en": "and it is worth giving both readings exactly as they were published.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ámbito informa que se encamina hacia los quinientos treinta puntos.",
+   "en": "«Ambito» reports that it is heading towards five hundred and thirty points.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Clarín informa que trepa arriba de los quinientos veinte puntos",
+   "en": "«Clarin» reports that it has gone above five hundred",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y que ya escala veintiuno por ciento en tres semanas de agosto.",
+   "en": "and twenty points, and is up twenty-one per cent over three weeks of August.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los dos hablan del mismo índice, el de J. P.",
+   "en": "Both are talking about the same index, the J. P.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Morgan, que según Clarín lleva trece ruedas al alza.",
+   "en": "Morgan one, which «Clarin» says has now risen for thirteen sessions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los analistas advierten que los factores locales pesan sobre la medición.",
+   "en": "Analysts warn that local factors are weighing on the measure.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasamos a la política.",
+   "en": "On to politics.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Patricia Bullrich cuestionó el plan económico y se tuvo que rectificar.",
+   "en": "«Patricia Bullrich» criticised the economic plan and then had to walk it back.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ámbito lo describe como una grieta dentro de La Libertad Avanza,",
+   "en": "«Ambito» describes it as a crack inside «La Libertad Avanza»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en medio de las turbulencias internas por el programa.",
+   "en": "with the party in turmoil over the programme.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Nación informa que la senadora le reclamó al Gobierno una mayor velocidad en",
+   "en": "«La Nacion» reports that the senator called on the government to deliver",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "los resultados económicos.",
+   "en": "economic results faster.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Fue otro gesto de diferenciación,",
+   "en": "It was another move to set herself apart,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y publicó el mensaje tras un encuentro con empresarios pyme.",
+   "en": "and she posted the message after meeting small business owners.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí se habló de morosidad y de actividad.",
+   "en": "Late payment and trading conditions came up there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ámbito y La Nación siguen la interna.",
+   "en": "«Ambito» and «La Nacion» are following the party row.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Terminamos con las privatizaciones.",
+   "en": "We finish with privatisation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Gobierno puso en marcha la privatización del Belgrano Cargas.",
+   "en": "The government has set the sale of the «Belgrano Cargas» railway in motion.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se trata de una concesión por cincuenta años y mil millones de dólares de inversión.",
+   "en": "It is a fifty-year concession with a thousand million dollars of investment.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Luis Caputo firmó la resolución que habilita la licitación de las tres líneas.",
+   "en": "«Luis Caputo» signed the resolution opening the tender for the three lines.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Gobierno incluyó además una cláusula anti China,",
+   "en": "The government also put an anti-China clause in it,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con el foco puesto sobre el transporte.",
+   "en": "with the focus on transport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dos gigantes ya ratificaron su interés tras el llamado a licitación.",
+   "en": "Two giants have already confirmed their interest since the tender was called.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Son el Grupo México y un consorcio integrado por algunas de las principales cerealeras,",
+   "en": "They are «Grupo Mexico» and a consortium of some of the biggest grain traders,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que empezaron a analizar los pliegos.",
+   "en": "who have started going through the documents.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ámbito y La Nación detallan la licitación.",
+   "en": "«Ambito» and «La Nacion» set out the tender.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta acá el noticiero de la mañana.",
+   "en": "And that is the morning news from «Buenos Aires».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Thursday 20 August",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Javier Milei closes the Council of the Americas in a day that will bring together business",
+ "summary_en": [
+  "Javier Milei closes the Council of the Americas in a day that will bring together business",
+  "Ambito reports that country risk is accelerating its rise and heading towards 530 points,",
+  "The government has set the privatisation of the Belgrano Cargas in motion: a concession fo"
+ ]
+}
