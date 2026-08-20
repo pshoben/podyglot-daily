@@ -68,8 +68,8 @@
   {
    "id": "fr-FR-Le journal du soir, mercredi 19 août",
    "file": "podcast-daily-2026-08-19-evening-news-fr-FR.json",
-   "bytes": 12985,
-   "sha256": "0d6a99218f0d96030d18ecd88fa9182f6658f889a2461051d6d12a4a7ce3af6c",
+   "bytes": 12989,
+   "sha256": "8a58519cc7dc8bef21472a3211ace3b75c8b63702311d0e5e73ec3eb1bcbe966",
    "date": "2026-08-19",
    "edition": "evening",
    "programme": "news",
@@ -106,7 +106,7 @@
    ]
   }
  ],
- "content": "fa2cffb7b999ea16b60cafbb2aab43dbcbdfdd5f7942ef873a14d81433016dca",
- "rev": 1,
- "updated": "2026-08-20T07:49:48.488Z"
+ "content": "18ab65edbd801500c687656e4e6c4df356fc263c1da6f7b5e415433cad43309f",
+ "rev": 2,
+ "updated": "2026-08-20T09:26:13.102Z"
 }

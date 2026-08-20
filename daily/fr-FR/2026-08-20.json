@@ -7,8 +7,8 @@
   {
    "id": "fr-FR-Le journal du matin, jeudi 20 août",
    "file": "podcast-daily-2026-08-20-morning-news-fr-FR.json",
-   "bytes": 13345,
-   "sha256": "84b0ffa0e7efb374843c5183a9443caced918d5e8b43113c657832d8038cb24f",
+   "bytes": 13349,
+   "sha256": "e8ecc32096b620ed6c015f0ff564bebb14bb8c909205af094f8361680c0b8843",
    "date": "2026-08-20",
    "edition": "morning",
    "programme": "news",
@@ -66,7 +66,7 @@
    ]
   }
  ],
- "content": "2917604050fde26899c24cef0a51761f161926c7f11c7a134a6331596c143624",
- "rev": 1,
- "updated": "2026-08-20T09:03:19.495Z"
+ "content": "27f3ff4d29098f823653a0f977fcc07bb3f3ab509d510ca97c750ebd03c29e92",
+ "rev": 2,
+ "updated": "2026-08-20T09:26:13.102Z"
 }

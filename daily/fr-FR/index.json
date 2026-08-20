@@ -7,8 +7,8 @@
   {
    "id": "fr-FR-Le journal du matin, jeudi 20 août",
    "file": "podcast-daily-2026-08-20-morning-news-fr-FR.json",
-   "bytes": 13345,
-   "sha256": "84b0ffa0e7efb374843c5183a9443caced918d5e8b43113c657832d8038cb24f",
+   "bytes": 13349,
+   "sha256": "e8ecc32096b620ed6c015f0ff564bebb14bb8c909205af094f8361680c0b8843",
    "date": "2026-08-20",
    "edition": "morning",
    "programme": "news",
@@ -129,8 +129,8 @@
   {
    "id": "fr-FR-Le journal du soir, mercredi 19 août",
    "file": "podcast-daily-2026-08-19-evening-news-fr-FR.json",
-   "bytes": 12985,
-   "sha256": "0d6a99218f0d96030d18ecd88fa9182f6658f889a2461051d6d12a4a7ce3af6c",
+   "bytes": 12989,
+   "sha256": "8a58519cc7dc8bef21472a3211ace3b75c8b63702311d0e5e73ec3eb1bcbe966",
    "date": "2026-08-19",
    "edition": "evening",
    "programme": "news",

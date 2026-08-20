@@ -207,7 +207,7 @@
   {
    "speaker": "SPK1",
    "text": "Santé publique France a annoncé mercredi mille deux cent quarante-trois décès en excès entre le",
-   "en": "«Public Health France» announced on Wednesday one thousand two hundred and forty-three excess deaths between 3",
+   "en": "«Public Health France» announced on Wednesday one thousand two hundred and forty-three excess deaths between 3rd",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.01,
@@ -217,7 +217,7 @@
   {
    "speaker": "SPK1",
    "text": "trois et le vingt-deux juillet.",
-   "en": "and 22 July.",
+   "en": "and 22nd July.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.05,
