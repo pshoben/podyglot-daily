@@ -16,22 +16,42 @@
  "turns": [
   {
    "speaker": "SPK1",
-   "text": "Les résultats de la soirée.",
-   "en": "The evening's results.",
+   "text": "Les résultats de la soirée:",
+   "en": "The evening's results: football,",
    "prosody": {
     "pause_ms": 240,
-    "rate": 1.0,
-    "pitch": 1.02
+    "rate": 1.02,
+    "pitch": 1.04
    }
   },
   {
    "speaker": "SPK1",
-   "text": "En barrage aller de Ligue des champions,",
-   "en": "In the first leg of the Champions League playoffs,",
+   "text": "le football, en barrage aller de Ligue des champions.",
+   "en": "in the first leg of the Champions League playoffs.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Si vous ne voulez pas connaître ces résultats,",
+   "en": "If you do not want to know these results,",
    "prosody": {
     "pause_ms": 300,
-    "rate": 1.01,
+    "rate": 0.99,
     "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "passez à la suite maintenant.",
+   "en": "move on to the next programme now.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
    }
   },
   {
@@ -39,9 +59,9 @@
    "text": "Lyon a ramené le nul d'Istanbul, un partout, contre Fenerbahçe.",
    "en": "Lyon brought back a draw from Istanbul, one all, against «Fenerbahce».",
    "prosody": {
-    "pause_ms": 300,
-    "rate": 1.04,
-    "pitch": 0.96
+    "pause_ms": 4000,
+    "rate": 0.99,
+    "pitch": 1.02
    }
   },
   {
@@ -111,8 +131,8 @@
  "edition": "evening",
  "region": "fr-FR",
  "region_label": "France",
- "headline_en": "Lyon brought back a draw from Fenerbahce, one all, in the first leg of the Champions Leagu",
+ "headline_en": "Fenerbahce against Lyon, Champions League playoff first leg",
  "summary_en": [
-  "Lyon brought back a draw from Fenerbahce, one all, in the first leg of the Champions Leagu"
+  "Fenerbahce against Lyon, Champions League playoff first leg"
  ]
 }

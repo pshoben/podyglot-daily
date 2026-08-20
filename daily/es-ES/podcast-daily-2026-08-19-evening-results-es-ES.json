@@ -16,20 +16,40 @@
  "turns": [
   {
    "speaker": "SPK1",
+   "text": "Los resultados de la jornada:",
+   "en": "The results of the",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el Atlético de Madrid contra el Málaga, en la Liga.",
+   "en": "matchday: «Atletico» de Madrid against Malaga, in the «Liga».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
    "text": "Si no quiere conocer los resultados todavía,",
    "en": "If you do not want to know the results yet,",
    "prosody": {
-    "pause_ms": 240,
+    "pause_ms": 300,
     "rate": 0.98,
     "pitch": 1.04
    }
   },
   {
    "speaker": "SPK1",
-   "text": "este es el momento de parar.",
-   "en": "this is the moment to stop.",
+   "text": "pase a lo siguiente ahora.",
+   "en": "move on to the next programme now.",
    "prosody": {
-    "pause_ms": 240,
+    "pause_ms": 300,
     "rate": 1.04,
     "pitch": 0.96
    }
@@ -39,7 +59,7 @@
    "text": "Y ahora, el fútbol.",
    "en": "And now, the football.",
    "prosody": {
-    "pause_ms": 300,
+    "pause_ms": 4000,
     "rate": 1.05,
     "pitch": 0.97
    }
@@ -131,8 +151,8 @@
  "edition": "evening",
  "region": "es-ES",
  "region_label": "España",
- "headline_en": "Atletico de Madrid took their first win of the Liga season against a good Malaga. Kang-in",
+ "headline_en": "Atletico de Madrid against Malaga in the Liga",
  "summary_en": [
-  "Atletico de Madrid took their first win of the Liga season against a good Malaga. Kang-in"
+  "Atletico de Madrid against Malaga in the Liga"
  ]
 }

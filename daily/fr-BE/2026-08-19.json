@@ -69,8 +69,8 @@
   {
    "id": "fr-BE-Les scores, mercredi 19 août",
    "file": "podcast-daily-2026-08-19-evening-results-fr-BE.json",
-   "bytes": 2969,
-   "sha256": "3a5aa4af81661d4a2da994366a5cbbc43f836b4f52db590ce0c50f34249d7305",
+   "bytes": 3418,
+   "sha256": "a702ce022d7e461223ed2e8a94bdce4a65513195c8d6ecce41cf225a5496d77a",
    "date": "2026-08-19",
    "edition": "evening",
    "programme": "results",
@@ -80,9 +80,9 @@
    "region_label": "Belgique",
    "title": "Les scores, mercredi 19 août",
    "title_en": "Results, Wednesday 19 August",
-   "headline_en": "Two days after losing one nil to Germany, the Red Lions reassured on Wednesday at Wavre by",
+   "headline_en": "Belgium against Malaysia at the hockey World Cup in Wavre",
    "summary_en": [
-    "Two days after losing one nil to Germany, the Red Lions reassured on Wednesday at Wavre by"
+    "Belgium against Malaysia at the hockey World Cup in Wavre"
    ]
   }
  ]

@@ -109,8 +109,8 @@
   {
    "id": "fr-BE-Les scores, lundi 17 août",
    "file": "podcast-daily-2026-08-17-evening-results-fr-BE.json",
-   "bytes": 3614,
-   "sha256": "c00f0c7db6f0bef8e064229df4d1fa74178033dcbff2a541781369074d38a1cc",
+   "bytes": 3608,
+   "sha256": "a4f3714c35150a205157e4f5c2c4ee03185eae622590df8c224df74ffb5515c5",
    "date": "2026-08-17",
    "edition": "evening",
    "programme": "results",
@@ -120,9 +120,9 @@
    "region_label": "Belgique",
    "title": "Les scores, lundi 17 août",
    "title_en": "Results, Monday 17 August",
-   "headline_en": "Red Panthers open their World Cup in Wavre with a 5-2 win",
+   "headline_en": "The Red Panthers at the home hockey World Cup in Wavre",
    "summary_en": [
-    "Red Panthers open their World Cup in Wavre with a 5-2 win"
+    "The Red Panthers at the home hockey World Cup in Wavre"
    ]
   }
  ]

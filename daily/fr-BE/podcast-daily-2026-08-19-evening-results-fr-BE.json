@@ -16,12 +16,32 @@
  "turns": [
   {
    "speaker": "SPK1",
-   "text": "Le sport, pour finir.",
-   "en": "The sport, to finish.",
+   "text": "Les scores du jour, et il n'y en a qu'un: le hockey,",
+   "en": "Today's scores, and there is only one: hockey,",
    "prosody": {
-    "pause_ms": 200,
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à la Coupe du monde de Wavre.",
+   "en": "at the World Cup in «Wavre».",
+   "prosody": {
+    "pause_ms": 240,
     "rate": 1.04,
-    "pitch": 0.97
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Si vous préférez ne pas entendre ces scores, avancez maintenant.",
+   "en": "If you would rather not hear these scores, move ahead now.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
    }
   },
   {
@@ -29,7 +49,7 @@
    "text": "Deux jours après s'être inclinés un à zéro contre l'Allemagne,",
    "en": "Two days after losing one nil to Germany,",
    "prosody": {
-    "pause_ms": 300,
+    "pause_ms": 4000,
     "rate": 0.99,
     "pitch": 1.04
    }
@@ -121,8 +141,8 @@
  "edition": "evening",
  "region": "fr-BE",
  "region_label": "Belgique",
- "headline_en": "Two days after losing one nil to Germany, the Red Lions reassured on Wednesday at Wavre by",
+ "headline_en": "Belgium against Malaysia at the hockey World Cup in Wavre",
  "summary_en": [
-  "Two days after losing one nil to Germany, the Red Lions reassured on Wednesday at Wavre by"
+  "Belgium against Malaysia at the hockey World Cup in Wavre"
  ]
 }
