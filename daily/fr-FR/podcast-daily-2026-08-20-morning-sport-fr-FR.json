@@ -1,0 +1,289 @@
+{
+ "title": "Le sport, jeudi 20 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-20",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le sport, maintenant.",
+   "en": "Sport now.",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le championnat de France reprend ses droits vendredi.",
+   "en": "The French championship starts again on Friday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Olympique de Marseille et Strasbourg ouvrent la saison.",
+   "en": "«Olympique de Marseille» and «Strasbourg» open the season.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Paris Saint-Germain, meilleure équipe d'Europe,",
+   "en": "«Paris Saint-Germain», the best team in Europe,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "part une nouvelle fois en grandissime favori du championnat.",
+   "en": "starts once again as the very great favourite of the championship.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mais la Ligue 1 a montré, malgré sa nette récession économique,",
+   "en": "But «Ligue 1» has shown, in spite of its clear economic recession,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qu'elle avait de la ressource.",
+   "en": "that it has resources.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Équipe et France Télévisions présentent la reprise.",
+   "en": "«L'Equipe» and «France Televisions» introduce the restart.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un match de la première journée change de terrain.",
+   "en": "One match of the first matchday is changing ground.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En raison de l'état de la pelouse du Parc des Princes,",
+   "en": "Because of the state of the pitch at the «Parc des Princes»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la rencontre entre le Paris Saint-Germain et le Stade Rennais est inversée.",
+   "en": "the meeting between «Paris Saint-Germain» and «Stade Rennais» is inverted.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle se jouera donc à Rennes, dimanche.",
+   "en": "It will therefore be played in «Rennes», on Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La commission des compétitions de la Ligue de football professionnel a tranché quatre jours avant",
+   "en": "The competitions commission of the «Ligue de football professionnel» decided four days",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le coup d'envoi.",
+   "en": "before the kick-off.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le match retour est prévu le six mars deux mille vingt-sept,",
+   "en": "The return match is scheduled for the sixth of March two thousand and twenty-seven,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et son sort n'est pas encore réglé.",
+   "en": "and its fate is not yet settled.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "France Télévisions et L'Équipe expliquent la décision.",
+   "en": "«France Televisions» and «L'Equipe» explain the decision.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On finit par le basket.",
+   "en": "We finish with basketball.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Victor Wembanyama a été nommé mercredi capitaine de l'équipe de France pour les quatre",
+   "en": "«Victor Wembanyama» was named captain of the «France» team on Wednesday for the four",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "matches à venir.",
+   "en": "matches to come.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le sélectionneur Frédéric Fauthoux l'a annoncé devant tout le groupe, sur le parquet d'Orléans.",
+   "en": "The selector «Frederic Fauthoux» announced it in front of the whole group, on the floor at «Orleans».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La star des Spurs portera le maillot des Bleus pour la première fois depuis les",
+   "en": "The star of the Spurs will wear the «France» shirt for the first time since the",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Jeux olympiques de deux mille vingt-quatre.",
+   "en": "Olympic Games of two thousand and twenty-four.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les Bleus lancent leur préparation ce jeudi face à la Serbie de Nikola Jokic. L'Équipe et France",
+   "en": "«France» begin their preparation this Thursday against the Serbia of «Nikola Jokic».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Télévisions annoncent la rencontre.",
+   "en": "«L'Equipe» and «France Televisions» announce the meeting.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est tout pour le sport.",
+   "en": "That is all for sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Thursday 20 August",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "The French championship starts again on Friday, with a duel between Olympique de Marseille",
+ "summary_en": [
+  "The French championship starts again on Friday, with a duel between Olympique de Marseille",
+  "Because of the state of the pitch at the Parc des Princes, the match between Paris Saint-G"
+ ]
+}

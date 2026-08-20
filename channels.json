@@ -55,8 +55,8 @@
    "channel": "daily",
    "dialect": "fr-FR",
    "index": "daily/fr-FR/index.json",
-   "episodes": 16,
-   "latest_date": "2026-08-19"
+   "episodes": 19,
+   "latest_date": "2026-08-20"
   }
  ]
 }

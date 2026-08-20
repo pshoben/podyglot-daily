@@ -1,0 +1,209 @@
+{
+ "title": "La météo, jeudi 20 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-20",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "La météo, et le sud-est est en vigilance orange.",
+   "en": "The weather, and the south-east is on orange alert.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Ardèche, la Drôme et l'Isère passent en vigilance orange aux orages cet après-midi,",
+   "en": "The «Ardeche», the «Drome» and the «Isere» move to orange storm alert this afternoon,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à partir de quinze heures.",
+   "en": "from three o'clock.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Corse passera au même niveau d'alerte vendredi matin, à six heures.",
+   "en": "«Corsica» will move to the same level of alert on Friday morning, at six.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Météo-France prévient que l'épisode peut s'accompagner de phénomènes ponctuellement violents.",
+   "en": "«Meteo-France» warns that the episode can be accompanied by locally violent phenomena.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des rafales et de fortes précipitations, qui demandent une attention particulière.",
+   "en": "Gusts and heavy precipitation, which call for particular attention.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Monde et France Télévisions relaient la vigilance.",
+   "en": "«Le Monde» and «France Televisions» relay the alert.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ailleurs, le temps du jour, d'une ville à l'autre.",
+   "en": "Elsewhere, today's weather, from one city to another.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Marseille, de la bruine, avec une maximale de trente degrés",
+   "en": "In «Marseille», drizzle, with a high of thirty degrees",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et une minimale de vingt-six.",
+   "en": "and a low of twenty-six.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent ne dépasse pas treize kilomètres à l'heure.",
+   "en": "The wind does not go above thirteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Bordeaux, de la bruine aussi,",
+   "en": "In «Bordeaux», drizzle as well,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "vingt-six degrés au plus haut et vingt au plus bas.",
+   "en": "twenty-six degrees at the highest and twenty at the lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y monte à quinze kilomètres à l'heure.",
+   "en": "There the wind gets up to fifteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Paris, de la bruine également, vingt-cinq degrés et dix-sept au plus bas.",
+   "en": "In «Paris», drizzle likewise, twenty-five degrees and seventeen at the lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est là que le vent souffle le plus fort des trois: vingt kilomètres à l'heure.",
+   "en": "That is where the wind blows hardest of the three: twenty kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ces prévisions viennent des modèles de Météo-France.",
+   "en": "These forecasts come from the models of «Meteo-France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et c'est tout pour la météo.",
+   "en": "And that is all for the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Thursday 20 August",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Prévision pour Marseille, jeudi 2026-08-20",
+ "summary_en": [
+  "Prévision pour Marseille, jeudi 2026-08-20",
+  "Prévision pour Bordeaux, jeudi 2026-08-20"
+ ]
+}

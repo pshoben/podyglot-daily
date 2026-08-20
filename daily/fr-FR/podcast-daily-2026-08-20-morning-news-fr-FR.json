@@ -1,0 +1,510 @@
+{
+ "title": "Le journal du matin, jeudi 20 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-20",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Jeudi vingt août, dix heures et quart à Paris. Le journal du matin.",
+   "en": "Thursday the twentieth of August, quarter past ten in «Paris». The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "François Fillon est suspendu de la Légion d'honneur.",
+   "en": "«Francois Fillon» is suspended from the «Legion d'honneur».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le gouvernement crée une nouvelle unité cyber après le piratage du fisc.",
+   "en": "The government is creating a new cybersecurity unit after the hack of the tax office.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et la canicule a fait au moins sept mille trois cents morts cette année.",
+   "en": "And the heatwave has caused at least seven thousand three hundred deaths this year.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par la justice.",
+   "en": "We start with justice.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un décret publié ce jeudi au Journal officiel suspend François Fillon de la Légion d'honneur.",
+   "en": "A decree published this Thursday in the «Journal officiel» suspends «Francois Fillon» from the «Legion d'honneur».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'ancien Premier ministre est aussi suspendu pour dix ans de l'ordre national du Mérite,",
+   "en": "The former prime minister is also suspended for ten years from the «ordre national du Merite», of",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dont il est grand-croix.",
+   "en": "which he is a «grand-croix».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ces suspensions découlent de sa condamnation définitive, confirmée en février.",
+   "en": "Those suspensions follow from his definitive conviction, confirmed in February.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'était dans l'affaire des emplois fictifs de son épouse, Penelope Fillon.",
+   "en": "It was in the case of the fictitious jobs of his wife, «Penelope Fillon».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il avait écopé de quatre ans de prison avec sursis",
+   "en": "He had been given four years of suspended prison",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et de trois cent soixante-quinze mille euros d'amende.",
+   "en": "and a fine of three hundred and seventy-five thousand euros.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "S'y ajoutaient cinq ans d'inéligibilité.",
+   "en": "To that were added five years of ineligibility.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Monde, France Télévisions et Libération publient le décret.",
+   "en": "«Le Monde», «France Televisions» and «Liberation» are publishing the decree.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à la cybersécurité.",
+   "en": "We move to cybersecurity.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Premier ministre Sébastien Lecornu a demandé mercredi la création d'une nouvelle unité cyber.",
+   "en": "Prime minister «Sebastien Lecornu» asked on Wednesday for the creation of a new cybersecurity unit.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cette équipe de contact interviendra en première ligne en cas d'atteinte grave au système",
+   "en": "This contact team will intervene in the front line in case of a serious attack on",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'information de l'État.",
+   "en": "the state's information system.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'objectif est une réponse opérationnelle plus réactive aux cyberattaques qui visent la France.",
+   "en": "The aim is a more reactive operational response to the cyberattacks aimed at «France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est la suite du vol de données au fisc.",
+   "en": "This follows the theft of data at the tax office.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au moins six cent soixante-dix-huit mille particuliers et professionnels sont concernés pour les données fiscales.",
+   "en": "At least six hundred and seventy-eight thousand individuals and professionals are affected for tax data.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et quatre cent trente mille particuliers pour les fichiers cadastraux.",
+   "en": "And four hundred and thirty thousand individuals for the cadastral files.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ministre des Comptes publics, David Amiel,",
+   "en": "The public accounts minister, «David Amiel»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a présenté ses excuses mardi.",
+   "en": "presented his apologies on Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le parquet de Paris a ouvert une enquête,",
+   "en": "The «Paris» prosecutor's office has opened an investigation,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et les sénateurs socialistes réclament une commission d'enquête.",
+   "en": "and the socialist senators are calling for a commission of inquiry.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "France 24, France Télévisions et RFI suivent le dossier.",
+   "en": "«France 24», «France Televisions» and «RFI» are following the case.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Nous restons en France, avec la santé.",
+   "en": "We stay in «France», with health.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Santé publique France a annoncé mercredi un bilan encore provisoire de sept mille trois cents",
+   "en": "«Sante publique France» announced on Wednesday a still provisional toll of seven thousand three hundred deaths",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "morts liées aux fortes températures cette année.",
+   "en": "linked to the high temperatures this year.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mille deux cent quarante-trois décès en excès ont été enregistrés du trois au vingt-deux juillet.",
+   "en": "One thousand two hundred and forty-three excess deaths were recorded from 3 to 22 July.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est la vague de chaleur de juillet,",
+   "en": "That is the July heatwave,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "moins meurtrière que celle de la fin juin.",
+   "en": "less deadly than the one at the end of June.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Bretagne, cent cinquante-deux décès en excès ont été estimés sur cette même période.",
+   "en": "In «Brittany», one hundred and fifty-two excess deaths were estimated over that same period.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cela représente une surmortalité de dix-sept virgule six pour cent,",
+   "en": "That represents an excess mortality of seventeen point six per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "près du double de la moyenne nationale.",
+   "en": "close to double the national average.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Une troisième vague de chaleur touche le pays depuis la fin juillet,",
+   "en": "A third heatwave has been affecting the country since the end of July,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "l'une des plus longues jamais enregistrées.",
+   "en": "one of the longest ever recorded.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "France 24, RFI et Le Télégramme donnent les chiffres.",
+   "en": "«France 24», «RFI» and «Le Telegramme» give the figures.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On termine avec la fin de vie.",
+   "en": "We finish with the end of life.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La loi créant un droit à l'aide à mourir a été promulguée par Emmanuel Macron.",
+   "en": "The law creating a right to assisted dying has been promulgated by «Emmanuel Macron».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle a été publiée mercredi au Journal officiel,",
+   "en": "It was published on Wednesday in the «Journal officiel»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "après plusieurs années de débats.",
+   "en": "after several years of debate.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Conseil constitutionnel l'avait validée avec quelques réserves.",
+   "en": "The «Conseil constitutionnel» had validated it with some reservations.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Avant que les soignants ne puissent l'appliquer,",
+   "en": "Before carers can apply it,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le gouvernement doit encore publier les décrets d'application.",
+   "en": "the government still has to publish the implementing decrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "France 24 et RFI détaillent le texte.",
+   "en": "«France 24» and «RFI» set out the text.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour ce tour de l'actualité.",
+   "en": "That is the round-up of the news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Thursday 20 August",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "According to a decree published on Thursday in the Journal officiel, the former prime mini",
+ "summary_en": [
+  "According to a decree published on Thursday in the Journal officiel, the former prime mini",
+  "Prime minister Sebastien Lecornu asked the national agency for information systems securit",
+  "With 1,243 excess deaths recorded from 3 to 22 July, the second heatwave of the summer of"
+ ]
+}
