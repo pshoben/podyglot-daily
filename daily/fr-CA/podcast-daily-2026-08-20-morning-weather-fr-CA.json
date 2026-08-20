@@ -1,0 +1,199 @@
+{
+ "title": "Le bulletin météo, jeudi 20 août",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-weather",
+   "wpm": 185,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-20",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "La météo, maintenant.",
+   "en": "The weather now.",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le temps prévu pour aujourd'hui, d'une ville à l'autre.",
+   "en": "Today's forecast, city by city.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Montréal, le ciel reste couvert,",
+   "en": "In «Montreal», it stays overcast,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec une maximale de vingt-cinq degrés et une minimale de seize.",
+   "en": "with a high of twenty-five degrees and a low of sixteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de précipitation y atteint vingt-huit pour cent.",
+   "en": "There is a twenty-eight per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y plafonne à treize kilomètres à l'heure.",
+   "en": "The wind there tops out at thirteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Québec, des averses sont au programme, vingt-quatre degrés au plus haut",
+   "en": "In the city of «Quebec», showers are on the way, with a high of twenty-four",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et quinze au plus bas.",
+   "en": "and a low of fifteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de précipitation n'y est que de onze pour cent.",
+   "en": "The chance of rain there is only eleven per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est là que le vent souffle le plus fort des trois: vingt-deux kilomètres à l'heure.",
+   "en": "That is where the wind blows hardest of the three: twenty-two kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au Saguenay, des nuages épars, vingt-deux degrés et onze au plus bas.",
+   "en": "In «Saguenay», scattered cloud, with a high of twenty-two and a low of eleven.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de précipitation y monte à quarante-sept pour cent.",
+   "en": "The chance of rain there climbs to forty-seven per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est donc au Saguenay que le risque de pluie est le plus élevé des trois,",
+   "en": "So «Saguenay» has the highest chance of rain of the three,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et c'est là aussi que la nuit sera la plus fraîche.",
+   "en": "and it will have the coolest night as well.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y revient à treize kilomètres à l'heure.",
+   "en": "The wind is back down to thirteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ces prévisions viennent du modèle GEM d'Environnement Canada.",
+   "en": "These forecasts come from Environment Canada's GEM model.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo de ce jeudi.",
+   "en": "And that is your forecast for Thursday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Thursday 20 August",
+ "edition": "morning",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "Prévision pour Montréal, jeudi 2026-08-20",
+ "summary_en": [
+  "Prévision pour Montréal, jeudi 2026-08-20",
+  "Prévision pour Québec, jeudi 2026-08-20"
+ ]
+}

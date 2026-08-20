@@ -1,0 +1,500 @@
+{
+ "title": "Le bulletin du matin, jeudi 20 août",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-news",
+   "wpm": 185,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-20",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Jeudi vingt août, onze heures dix à Montréal. Le bulletin du matin.",
+   "en": "Thursday the 20th of August, ten past eleven in «Montreal». This is «Le bulletin du matin».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dominic LeBlanc repart pour Washington,",
+   "en": "«Dominic LeBlanc» sets off for Washington again,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "une entente commerciale à portée de main.",
+   "en": "with a trade deal within reach.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Parti libéral du Québec lancera sa campagne le vingt-sept août.",
+   "en": "The «Parti liberal du Quebec» will launch its campaign on the 27th of August.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et le temps médian d'attente aux urgences s'améliore de onze minutes en un an.",
+   "en": "And the median wait in emergency departments has improved by eleven minutes in a year.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par les négociations commerciales.",
+   "en": "We start with the trade talks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Une entente commerciale entre le Canada et les États-Unis semble être à portée de main.",
+   "en": "A trade deal between Canada and the United States looks to be within reach.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ministre responsable du dossier, Dominic LeBlanc,",
+   "en": "The minister in charge, «Dominic LeBlanc»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "reprend la route de Washington ce jeudi matin.",
+   "en": "is heading back to Washington this Thursday morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il doit y rencontrer son homologue Jamieson Greer.",
+   "en": "He is due to meet his counterpart «Jamieson Greer» there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les deux hommes doivent finaliser l'accord de principe commercial conclu plus tôt cette semaine.",
+   "en": "The two men are to finalise the agreement in principle reached earlier this week.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dominic LeBlanc a annoncé que le système actuel de gestion de l'offre demeurera entièrement intact",
+   "en": "«Dominic LeBlanc» said the current supply management system will stay entirely intact in the",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans le potentiel accord évoqué par Donald Trump.",
+   "en": "potential deal «Donald Trump» has been talking about.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le président américain avait annoncé mardi décaler de trois jours l'entrée en vigueur de nouveaux",
+   "en": "On Tuesday the American president announced he was pushing back by three days the",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "droits de douane de cinquante pour cent sur certains produits canadiens.",
+   "en": "new fifty per cent customs duties on certain Canadian products.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a évoqué de son côté une entente très équitable avec le Canada.",
+   "en": "He himself called it a very fair deal with Canada.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mark Carney demande pour sa part de ramener l'alcool américain,",
+   "en": "«Mark Carney» is asking for American alcohol to be put back on the shelves,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et Christine Fréchette exige des réponses.",
+   "en": "and «Christine Frechette» wants answers.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Presse, Radio-Canada et Le Journal de Montréal suivent la négociation.",
+   "en": "«La Presse», «Radio-Canada» and «Le Journal de Montreal» are following the negotiation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à la politique provinciale.",
+   "en": "Now to provincial politics.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Parti libéral du Québec lancera sa campagne électorale le vingt-sept août.",
+   "en": "The «Parti liberal du Quebec» will launch its election campaign on the 27th of August.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le déclenchement des élections demeure pourtant la prérogative du gouvernement caquiste.",
+   "en": "Calling the election, though, remains the «CAQ» government's prerogative.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Parti québécois a lancé de son côté son slogan de campagne,",
+   "en": "The «Parti quebecois» has launched its own campaign slogan,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le choix de la confiance.",
+   "en": "the choice of trust.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Son chef, Paul St-Pierre Plamondon,",
+   "en": "Its leader, «Paul St-Pierre Plamondon»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a estimé qu'une majorité d'électeurs voulait rompre avec les années au pouvoir de la",
+   "en": "took the view that a majority of voters wanted to break with the years of «Coalition avenir Quebec»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Coalition avenir Québec.",
+   "en": "rule.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'autrice et chroniqueuse Geneviève Pettersen sera pour sa part candidate de la CAQ dans L'Assomption.",
+   "en": "The author and columnist «Genevieve Pettersen» will stand for the «CAQ» in «L'Assomption».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle tentera d'y succéder à François Legault,",
+   "en": "She will try to succeed «Francois Legault»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qui représente la circonscription depuis deux mille douze.",
+   "en": "who has held the seat since two thousand and twelve.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Presse, Radio-Canada et Le Devoir couvrent la précampagne.",
+   "en": "«La Presse», «Radio-Canada» and «Le Devoir» are covering the run-up to the campaign.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Nous restons au Québec, avec la santé.",
+   "en": "We stay in «Quebec», with health.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le temps médian d'attente aux urgences s'est amélioré de onze minutes en un an.",
+   "en": "The median wait in emergency departments has improved by eleven minutes in a year.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a toutefois empiré de quarante et une minutes depuis deux mille dix-huit.",
+   "en": "It is, though, forty-one minutes worse than it was in two thousand and eighteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Laval, la moitié des séjours ont duré plus de huit heures.",
+   "en": "In «Laval», half of all stays lasted more than eight hours.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Par ailleurs, les paramédicaux membres de syndicats rattachés à la CSN ont rejeté à leur",
+   "en": "Separately, paramedics in unions affiliated to the «CSN» have",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tour leur entente de principe.",
+   "en": "also rejected their agreement in principle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'était l'entente intervenue pour renouveler les conventions collectives.",
+   "en": "That was the deal reached to renew their collective agreements.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Devoir et La Presse rapportent les deux dossiers.",
+   "en": "«Le Devoir» and «La Presse» report both stories.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On termine avec la justice.",
+   "en": "We finish with the courts.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Directeur des poursuites criminelles et pénales a suspendu temporairement les procédures contre onze jeunes.",
+   "en": "The director of criminal and penal prosecutions has temporarily halted the proceedings against eleven young people.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ils sont accusés dans l'affaire Nooran Rezayi,",
+   "en": "They are charged in the «Nooran Rezayi» case,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "du nom du jeune homme abattu par la police.",
+   "en": "named after the young man who was shot dead by police.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les onze adolescents répondaient de leurs actions précédant les tirs policiers.",
+   "en": "The eleven teenagers were answering for what they did before the police opened fire.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le DPCP veut prendre le temps d'examiner une question juridique complexe soulevée récemment.",
+   "en": "The «DPCP» wants time to look at a complex point of law raised recently.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Radio-Canada, Le Devoir et Le Journal de Montréal rapportent la suspension.",
+   "en": "«Radio-Canada», «Le Devoir» and «Le Journal de Montreal» report the halt.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà l'essentiel de ce jeudi matin.",
+   "en": "And that is the news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Thursday 20 August",
+ "edition": "morning",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "A trade deal between Canada and the United States appears to be within reach and the minis",
+ "summary_en": [
+  "A trade deal between Canada and the United States appears to be within reach and the minis",
+  "The Parti liberal du Quebec will launch its campaign on 27 August, even though calling the",
+  "The median waiting time in emergency departments improved by 11 minutes in one year. It ha"
+ ]
+}

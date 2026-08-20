@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-CA",
+ "date": "2026-08-20",
+ "episodes": [
+  {
+   "id": "fr-CA-Le bulletin du matin, jeudi 20 août",
+   "file": "podcast-daily-2026-08-20-morning-news-fr-CA.json",
+   "bytes": 13293,
+   "sha256": "921490874970c467ef306a836153520eacaeb9f4aac44f7a1682dfe61ad932b6",
+   "date": "2026-08-20",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin du matin, jeudi 20 août",
+   "title_en": "The morning news, Thursday 20 August",
+   "headline_en": "A trade deal between Canada and the United States appears to be within reach and the minis",
+   "summary_en": [
+    "A trade deal between Canada and the United States appears to be within reach and the minis",
+    "The Parti liberal du Quebec will launch its campaign on 27 August, even though calling the",
+    "The median waiting time in emergency departments improved by 11 minutes in one year. It ha"
+   ]
+  },
+  {
+   "id": "fr-CA-Le sport d'ici, jeudi 20 août",
+   "file": "podcast-daily-2026-08-20-morning-sport-fr-CA.json",
+   "bytes": 5285,
+   "sha256": "2fcdb82bd3cf1526b871b52202b6f5f5048be9d26e6f36a9f20e776041fea71a",
+   "date": "2026-08-20",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le sport d'ici, jeudi 20 août",
+   "title_en": "Today's sport, Thursday 20 August",
+   "headline_en": "The four-time F1 world champion Max Verstappen is going to stay four more years at Red Bul",
+   "summary_en": [
+    "The four-time F1 world champion Max Verstappen is going to stay four more years at Red Bul",
+    "Isack Hadjar has withdrawn from the Netherlands Grand Prix of Formula 1 because of a wrist"
+   ]
+  },
+  {
+   "id": "fr-CA-Le bulletin météo, jeudi 20 août",
+   "file": "podcast-daily-2026-08-20-morning-weather-fr-CA.json",
+   "bytes": 4842,
+   "sha256": "58c4529797a02ebe058eeeee5144270fbb8d2d9d5d5ca068aa84a0127ea7cc67",
+   "date": "2026-08-20",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin météo, jeudi 20 août",
+   "title_en": "Today's weather, Thursday 20 August",
+   "headline_en": "Prévision pour Montréal, jeudi 2026-08-20",
+   "summary_en": [
+    "Prévision pour Montréal, jeudi 2026-08-20",
+    "Prévision pour Québec, jeudi 2026-08-20"
+   ]
+  }
+ ],
+ "content": "234beecc82b30dfd97d11a2ac8e4eb15ddeb1eea224e7fbc1e299305b8c8cf41",
+ "rev": 1,
+ "updated": "2026-08-20T15:21:50.390Z"
+}
