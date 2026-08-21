@@ -56,12 +56,12 @@
   },
   {
    "speaker": "SPK1",
-   "text": "On commence par l'étranger.",
-   "en": "We start abroad.",
+   "text": "On commence par l'étranger, en Suisse.",
+   "en": "We start abroad, in «Switzerland».",
    "prosody": {
     "pause_ms": 300,
-    "rate": 1.06,
-    "pitch": 0.97
+    "rate": 1.01,
+    "pitch": 1.02
    }
   },
   {
@@ -86,8 +86,8 @@
   },
   {
    "speaker": "SPK1",
-   "text": "C'était à Thusis, dans l'est du pays.",
-   "en": "It was at «Thusis», in the east of the country.",
+   "text": "C'était à Thusis, dans le canton des Grisons.",
+   "en": "It was at «Thusis», in the canton of «Grisons».",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.0,
@@ -286,12 +286,22 @@
   },
   {
    "speaker": "SPK1",
-   "text": "C'était à Cape Newenham, à plus de sept cents kilomètres d'Anchorage.",
-   "en": "It was at «Cape Newenham», more than seven hundred kilometres from «Anchorage».",
+   "text": "C'était à Cape Newenham, en Alaska,",
+   "en": "It was at «Cape Newenham», in «Alaska»,",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.99,
-    "pitch": 1.02
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à plus de sept cents kilomètres d'Anchorage.",
+   "en": "more than seven hundred kilometres from «Anchorage».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
    }
   },
   {

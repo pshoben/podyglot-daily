@@ -7,8 +7,8 @@
   {
    "id": "fr-FR-Le journal du matin, vendredi 21 août",
    "file": "podcast-daily-2026-08-21-morning-news-fr-FR.json",
-   "bytes": 9532,
-   "sha256": "dec55fed0a292c64f6bef775ed4944cdac4bdceb4fada56afa302cd4dff71358",
+   "bytes": 9734,
+   "sha256": "6d3565f3aabb6f93fb4134e0a95036aa7079890ffce83470a92be8c49d24b30f",
    "date": "2026-08-21",
    "edition": "morning",
    "programme": "news",
@@ -66,7 +66,7 @@
    ]
   }
  ],
- "content": "fd60926ddc385d59f7962e396da7818ac46cc3f6809a087998be9b1f4c5936d7",
- "rev": 1,
- "updated": "2026-08-21T08:21:29.616Z"
+ "content": "cb36669d3e8824a2426795330f74ff6d76945a7991f385ef77b0ea263e8418c8",
+ "rev": 2,
+ "updated": "2026-08-21T10:04:51.905Z"
 }

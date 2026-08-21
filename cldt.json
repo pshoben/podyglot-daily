@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated": "2026-08-21T08:21:29.616Z",
+ "generated": "2026-08-21T10:04:51.905Z",
  "channels": [
   {
    "dialect": "es-AR",
@@ -42,9 +42,7 @@
    "days": 6,
    "episodes": 36,
    "latest_date": "2026-08-21",
-   "last_written": [
-    "2026-08-21"
-   ],
+   "last_written": [],
    "last_removed": [],
    "bitmap": "daily/es-ES/bitmap.json"
   },
@@ -66,9 +64,7 @@
    "days": 5,
    "episodes": 18,
    "latest_date": "2026-08-21",
-   "last_written": [
-    "2026-08-21"
-   ],
+   "last_written": [],
    "last_removed": [],
    "bitmap": "daily/fr-BE/bitmap.json"
   },
@@ -85,14 +81,12 @@
   },
   {
    "dialect": "fr-FR",
-   "updated": "2026-08-21T08:21:29.616Z",
-   "content": "e5eed220ca581498105520b0207ba7b10aebafc6ef35df70ca3c3857478cee92",
+   "updated": "2026-08-21T10:04:51.905Z",
+   "content": "918fd143beff0ca365a220664d59ded0eb201efe706beeea188f25aa6e9c62b9",
    "days": 6,
    "episodes": 22,
    "latest_date": "2026-08-21",
-   "last_written": [
-    "2026-08-21"
-   ],
+   "last_written": [],
    "last_removed": [],
    "bitmap": "daily/fr-FR/bitmap.json"
   }
