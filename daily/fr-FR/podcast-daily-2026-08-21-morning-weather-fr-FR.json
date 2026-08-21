@@ -1,0 +1,209 @@
+{
+ "title": "La météo, vendredi 21 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-21",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le point météo.",
+   "en": "The weather round-up.",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Var et les Alpes-Maritimes restent en vigilance orange ce vendredi matin.",
+   "en": "The «Var» and the «Alpes-Maritimes» remain on orange alert this Friday morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'alerte porte sur les orages et sur les pluies et inondations.",
+   "en": "The warning covers storms, and rain and flooding.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle est maintenue jusqu'à dix heures.",
+   "en": "It is being held until ten o'clock.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les deux départements de Corse étaient jusque-là concernés par une alerte orange aux orages violents.",
+   "en": "The two departments of «Corsica» had until then been covered by an orange warning for violent storms.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ils sont repassés en jaune dans la matinée.",
+   "en": "They were put back to yellow during the morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Corse, la préfecture avait mis à l'abri mille trois cent soixante personnes",
+   "en": "In «Corsica», the prefecture had sheltered one thousand three hundred",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à titre préventif.",
+   "en": "and sixty people as a precaution.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des vols ont été annulés.",
+   "en": "Flights were cancelled.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des vents jusqu'à cent vingt kilomètres par heure pourraient toucher ces départements.",
+   "en": "Winds of up to a hundred and twenty kilometres an hour could affect those departments.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voici maintenant les prévisions pour aujourd'hui.",
+   "en": "Here now is the forecast for today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Paris, maximale vingt-trois degrés et minimale dix-sept, avec de la bruine.",
+   "en": "In «Paris», a maximum of twenty-three degrees and a minimum of seventeen, with drizzle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y atteindra dix-sept kilomètres par heure.",
+   "en": "The wind there will reach seventeen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Bordeaux, maximale vingt-cinq degrés et minimale dix-neuf, avec de la pluie faible.",
+   "en": "In «Bordeaux», a maximum of twenty-five degrees and a minimum of nineteen, with light rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y atteindra seize kilomètres par heure.",
+   "en": "The wind there will reach sixteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Marseille, maximale vingt-sept degrés et minimale vingt et un, avec de fortes averses.",
+   "en": "In «Marseille», a maximum of twenty-seven degrees and a minimum of twenty-one, with heavy showers.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y atteindra vingt-quatre kilomètres par heure.",
+   "en": "The wind there will reach twenty-four kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ces chiffres viennent des modèles de Météo-France.",
+   "en": "Those figures come from the models of «Meteo-France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Friday 21 August",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Prévision pour Paris, vendredi 2026-08-21",
+ "summary_en": [
+  "Prévision pour Paris, vendredi 2026-08-21",
+  "Prévision pour Bordeaux, vendredi 2026-08-21"
+ ]
+}

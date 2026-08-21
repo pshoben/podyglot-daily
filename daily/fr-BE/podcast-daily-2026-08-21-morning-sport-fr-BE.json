@@ -1,0 +1,229 @@
+{
+ "title": "Le sport chez nous, vendredi 21 août",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-sport",
+   "wpm": 222,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-21",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le sport maintenant.",
+   "en": "Sport now.",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Tour d'Espagne démarre ce samedi.",
+   "en": "The «Tour d'Espagne» starts this Saturday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Wout van Aert y portera un casque en hommage à ses fils.",
+   "en": "«Wout van Aert» will ride it wearing a helmet in tribute to his sons.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon lui, ils sont si fiers.",
+   "en": "He says they are so proud.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le grimpeur de la formation Cofidis, Sylvain Moniquet, se dit prêt.",
+   "en": "The «Cofidis» climber «Sylvain Moniquet» says he is ready.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il veut viser les étapes qui n'intéressent pas Pogacar.",
+   "en": "He wants to go for the stages that do not interest «Pogacar».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Joshua Tarling sera lui aussi au départ,",
+   "en": "«Joshua Tarling» will be on the start line too,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "une semaine après le décès de son frère.",
+   "en": "a week after his brother died.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La DH et 7sur7 préparent la course.",
+   "en": "The «DH» and «7sur7» set up the race.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En hockey, les Red Lions affrontent l'Australie à la Coupe du monde.",
+   "en": "In hockey, the «Red Lions» face «Australia» at the World Cup.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ils ne sont pas encore rassurés.",
+   "en": "They are not reassured yet.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon eux, il va falloir considérablement élever le niveau.",
+   "en": "In their own words, the level will have to be raised considerably.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Tommy Willems, lui, avance cinq raisons de croire en un succès belge.",
+   "en": "«Tommy Willems» puts forward five reasons to believe in a Belgian win.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il n'apprécie pas ce qu'il appelle le pessimisme typiquement belge autour de l'équipe.",
+   "en": "He does not care for what he calls the typically Belgian pessimism around the team.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "7sur7 et la DH préparent la rencontre.",
+   "en": "«7sur7» and the «DH» set up the match.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et en football, Leandro Trossard est sorti sur blessure jeudi soir, en Europa League.",
+   "en": "And in football, «Leandro Trossard» went off injured on Thursday evening, in the «Europa League».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Diable Rouge a pris un coup en fin de match.",
+   "en": "The «Red Devil» took a knock late in the match.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Son coach s'est empressé de rassurer.",
+   "en": "His coach was quick to offer reassurance.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour son club, c'est un coup dur.",
+   "en": "For his club it is a blow.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et c'est tout pour le sport.",
+   "en": "And that is everything from sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Friday 21 August",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "The Tour of Spain starts on Saturday. Wout van Aert will be there wearing a helmet in trib",
+ "summary_en": [
+  "The Tour of Spain starts on Saturday. Wout van Aert will be there wearing a helmet in trib",
+  "The Red Lions face Australia at the hockey World Cup. They are not yet reassured and say t"
+ ]
+}

@@ -1,0 +1,380 @@
+{
+ "title": "Le journal du matin, vendredi 21 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-21",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Vendredi vingt et un août, sept heures à Paris. Le journal du matin.",
+   "en": "Friday the twenty-first of August, seven o'clock in «Paris». The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cinq personnes sont portées disparues après un incendie en Suisse.",
+   "en": "Five people are reported missing after a fire in «Switzerland».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'astronaute Sophie Adenot repart dans l'espace mardi.",
+   "en": "The astronaut «Sophie Adenot» goes back out into space on Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et huit personnes meurent dans un accident d'avion en Alaska.",
+   "en": "And eight people die in a plane crash in «Alaska».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par l'étranger.",
+   "en": "We start abroad.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un violent incendie a ravagé un immeuble d'habitation",
+   "en": "A violent fire destroyed a residential building",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et un restaurant dans la nuit de jeudi à vendredi.",
+   "en": "and a restaurant during the night from Thursday to Friday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'était à Thusis, dans l'est du pays.",
+   "en": "It was at «Thusis», in the east of the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cinq personnes sont portées disparues et huit ont été blessées.",
+   "en": "Five people are reported missing and eight were injured.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Deux d'entre elles sont gravement atteintes,",
+   "en": "Two of them are seriously hurt,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "deux modérément et quatre légèrement.",
+   "en": "two moderately and four slightly.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Quatorze personnes ont pu quitter le bâtiment en feu.",
+   "en": "Fourteen people were able to leave the burning building.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les secours ont été mobilisés durant la nuit,",
+   "en": "The emergency services were mobilised during the night,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et une enquête est ouverte.",
+   "en": "and an investigation has been opened.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Figaro, Le Télégramme, Ouest-France et Sud Ouest rapportent ce bilan.",
+   "en": "«Le Figaro», «Le Telegramme», «Ouest-France» and «Sud Ouest» report that toll.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à l'espace.",
+   "en": "We move to space.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'astronaute française Sophie Adenot effectuera une deuxième sortie extravéhiculaire mardi vingt-cinq août.",
+   "en": "The French astronaut «Sophie Adenot» will carry out a second spacewalk on Tuesday the twenty-fifth of August.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'agence spatiale américaine l'a annoncé.",
+   "en": "The American space agency has announced it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cette sortie aura lieu une semaine jour pour jour après la première, le dix-huit août.",
+   "en": "The outing will take place a week to the day after the first one, on the eighteenth of August.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce jour-là, elle et son collègue américain n'avaient pas eu le temps de finir",
+   "en": "That day, she and her American colleague had not had time to finish",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'installer le matériel.",
+   "en": "installing the equipment.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cette deuxième sortie doit terminer sa mission.",
+   "en": "This second walk is meant to complete her mission.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "France Télévisions et Ouest-France donnent la date.",
+   "en": "«France Televisions» and «Ouest-France» give the date.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe au transport aérien.",
+   "en": "We move to air transport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Huit personnes sont mortes dans le crash d'un avion affrété par un prestataire civil.",
+   "en": "Eight people died in the crash of a plane chartered by a civilian contractor.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'appareil s'est écrasé sur l'aérodrome d'un site radar à longue portée de l'armée",
+   "en": "The aircraft came down on the airfield of a long-range radar site belonging to the",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de l'air américaine.",
+   "en": "American air force.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'était à Cape Newenham, à plus de sept cents kilomètres d'Anchorage.",
+   "en": "It was at «Cape Newenham», more than seven hundred kilometres from «Anchorage».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Figaro et Sud Ouest rapportent cet accident.",
+   "en": "«Le Figaro» and «Sud Ouest» report that accident.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On termine par la diplomatie.",
+   "en": "We finish with diplomacy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Conseil de sécurité se réunit ce vendredi pour une deuxième séance de vote indicatif.",
+   "en": "The Security Council meets this Friday for a second session of indicative voting.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il s'agit de départager les huit candidats en lice pour succéder à António Guterres au",
+   "en": "The point is to separate the eight candidates in the running to succeed «Antonio Guterres» as",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "poste de secrétaire général.",
+   "en": "secretary general.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sud Ouest et Libération suivent ce vote.",
+   "en": "«Sud Ouest» and «Liberation» are following that vote.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour ce tour de l'actualité.",
+   "en": "That is the round-up of the news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Friday 21 August",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "A violent fire destroyed a residential building and a restaurant during the night from Thu",
+ "summary_en": [
+  "A violent fire destroyed a residential building and a restaurant during the night from Thu",
+  "The French astronaut Sophie Adenot will carry out a second spacewalk on Tuesday 25 August,",
+  "Eight people died in the crash of an aircraft chartered by a civilian contractor in Alaska"
+ ]
+}

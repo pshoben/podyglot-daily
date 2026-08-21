@@ -1,0 +1,189 @@
+{
+ "title": "Le temps chez nous, vendredi 21 août",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-weather",
+   "wpm": 222,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-21",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "La météo maintenant.",
+   "en": "The weather now.",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les averses rythmeront la journée de ce vendredi.",
+   "en": "Showers will set the rhythm of the day this Friday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elles dériveront depuis la Côte et emmèneront dans leurs bagages l'un ou l'autre orage.",
+   "en": "They will drift in from the coast and bring one storm or another along with them.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ces averses sont potentiellement orageuses.",
+   "en": "Those showers are potentially stormy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des rafales jusqu'à soixante kilomètres par heure sont attendues.",
+   "en": "Gusts of up to sixty kilometres an hour are expected.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voici les prévisions d'aujourd'hui, ville par ville.",
+   "en": "Here is the forecast for today, city by city.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Bruxelles, maximale dix-huit degrés et minimale quatorze, avec de la bruine.",
+   "en": "In «Brussels», a maximum of eighteen degrees and a minimum of fourteen, with drizzle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y atteindra quatorze kilomètres par heure,",
+   "en": "The wind there will reach fourteen kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour une probabilité de précipitation de cent pour cent.",
+   "en": "for a chance of rain of a hundred per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Liège, maximale vingt degrés et minimale quatorze, avec de la bruine également.",
+   "en": "In «Liege», a maximum of twenty degrees and a minimum of fourteen, with drizzle as well.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y montera à treize kilomètres par heure,",
+   "en": "The wind there will climb to thirteen kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et la probabilité de précipitation y est aussi de cent pour cent.",
+   "en": "and the chance of rain there is also a hundred per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Namur, maximale vingt et un degrés et minimale quatorze, avec de la pluie faible.",
+   "en": "In «Namur», a maximum of twenty-one degrees and a minimum of fourteen, with light rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y restera à douze kilomètres par heure,",
+   "en": "The wind there will stay at twelve kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour une probabilité de précipitation identique.",
+   "en": "for the same chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ces chiffres viennent du modèle du Centre européen, l'ECMWF.",
+   "en": "Those figures come from the model of the European Centre, the «ECMWF».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Friday 21 August",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Prévision pour Bruxelles, vendredi 2026-08-21",
+ "summary_en": [
+  "Prévision pour Bruxelles, vendredi 2026-08-21",
+  "Prévision pour Liège, vendredi 2026-08-21"
+ ]
+}

@@ -1,0 +1,229 @@
+{
+ "title": "Le sport, vendredi 21 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-21",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le sport maintenant.",
+   "en": "Sport now.",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Ligue 1 reprend ce vendredi soir.",
+   "en": "«Ligue 1» starts again this Friday evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Marseille reçoit Strasbourg à vingt heures quarante-cinq pour lancer la saison.",
+   "en": "«Marseille» receive «Strasbourg» at a quarter to nine to open the season.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les Marseillais n'ont enregistré aucune recrue,",
+   "en": "«Marseille» have not registered a single signing,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "après une opération de dégraissage au mercato.",
+   "en": "after an offloading operation in the transfer market.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Équipe et France Télévisions annoncent la rencontre.",
+   "en": "«L'Equipe» and «France Televisions» preview the match.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En cyclisme, Julian Alaphilippe met un terme à sa carrière.",
+   "en": "In cycling, «Julian Alaphilippe» is bringing his career to an end.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le coureur français s'arrête à trente-quatre ans.",
+   "en": "The French rider is stopping at thirty-four.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a été deux fois champion du monde,",
+   "en": "He was twice world champion,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en deux mille vingt et en deux mille vingt et un.",
+   "en": "in two thousand and twenty and in two thousand and twenty-one.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a pris cette décision au terme d'un Tour de France où il a souffert,",
+   "en": "He took the decision at the end of a «Tour de France» in which he suffered,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "après avoir brillé sur plusieurs éditions.",
+   "en": "after shining over several editions of the race.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Libération et L'Équipe reviennent sur sa carrière.",
+   "en": "«Liberation» and «L'Equipe» look back over his career.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Côté diffusion, un seul abonnement suffira désormais pour suivre tous les matchs du championnat.",
+   "en": "On the broadcasting side, a single subscription will from now on be enough to follow every match of the championship.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est celui de la plateforme Ligue 1 plus,",
+   "en": "It is the one for the platform «Ligue 1» plus,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et cela n'était jamais arrivé.",
+   "en": "and that had never happened before.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le directeur éditorial de la Ligue a affirmé que la plateforme voulait devenir la référence",
+   "en": "The editorial director of the league said the platform wanted to become the reference",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "du football français.",
+   "en": "for French football.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "France Télévisions et L'Équipe détaillent l'offre.",
+   "en": "«France Televisions» and «L'Equipe» set out what is on offer.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est la fin de ce point sport.",
+   "en": "That is the end of the sport round-up.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Friday 21 August",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Ligue 1 starts again on Friday evening. Marseille receives Strasbourg at a quarter to nine",
+ "summary_en": [
+  "Ligue 1 starts again on Friday evening. Marseille receives Strasbourg at a quarter to nine",
+  "The French rider Julian Alaphilippe, twice world champion in 2020 and 2021, is putting an"
+ ]
+}

@@ -1,0 +1,410 @@
+{
+ "title": "El informativo de la mañana, viernes 21 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-news",
+   "wpm": 208,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-21",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Viernes veintiuno de agosto, siete de la mañana en Madrid.",
+   "en": "Friday the twenty-first of August, seven in the morning in «Madrid».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El informativo de la mañana.",
+   "en": "The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Gobierno abre dos centros temporales en Ceuta.",
+   "en": "The government opens two temporary centres in «Ceuta».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La fiscal de menores rechaza devolver a los niños a Marruecos.",
+   "en": "The chief prosecutor for minors rejects sending the children back to «Morocco».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y un rayo provoca un incendio forestal en Castellón.",
+   "en": "And a lightning strike sets off a forest fire in «Castellon».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos por la inmigración.",
+   "en": "We start with immigration.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Administración central ha aplicado su primer plan para poner orden en Ceuta.",
+   "en": "Central government has applied its first plan to put order into «Ceuta».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ha abierto dos centros temporales que no garantizan a nadie quedarse, solo camas y cuidados.",
+   "en": "It has opened two temporary centres that guarantee nobody the right to stay, only beds and care.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la operación mayor, el Gobierno ha reubicado a unos mil cuatrocientos migrantes.",
+   "en": "In the largest operation, the government has relocated some one thousand four hundred migrants.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Vivían en el mayor asentamiento irregular de la ciudad autónoma,",
+   "en": "They were living in the biggest irregular settlement of the autonomous city,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la playa del Trampolín.",
+   "en": "on the beach of «El Trampolin».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otros quinientos se instalaron en la zona horas después.",
+   "en": "Another five hundred settled in the area hours later.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La cobertura médica es escasa.",
+   "en": "Medical cover is thin.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aparte de los equipos de Cruz Roja hay solo dos médicos voluntarios para",
+   "en": "Apart from the «Red Cross» teams there are only two volunteer doctors for",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "diez mil migrantes.",
+   "en": "ten thousand migrants.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Uno de ellos, el cardiólogo Fran García Lanzas,",
+   "en": "One of them, the cardiologist «Fran Garcia Lanzas»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dijo que están cerca de una verdadera crisis de salud pública.",
+   "en": "said they are close to a real public health crisis.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El País, La Vanguardia y El Mundo cuentan el despliegue.",
+   "en": "«El Pais», «La Vanguardia» and «El Mundo» describe the operation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos con los menores.",
+   "en": "We go on to the children.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La fiscal de Sala de Menores, Teresa Gisbert,",
+   "en": "The chief prosecutor for minors, «Teresa Gisbert»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ha rechazado la propuesta del Partido Popular de retornar a los menores de Ceuta.",
+   "en": "has rejected the «Partido Popular» proposal to send the minors of «Ceuta» back.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Afirmó que no tiene sentido.",
+   "en": "She said it makes no sense.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según ella, los menores entrevistados hasta la fecha no quieren volver a Marruecos,",
+   "en": "In her account, the minors interviewed so far do not want to return to «Morocco»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sino ir a la península.",
+   "en": "but to travel to the mainland.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La ley y la jurisprudencia amparan por igual a menores inmigrantes y españoles.",
+   "en": "The law and the case law protect migrant children and Spanish children equally.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los niños pueden ser devueltos siempre que se den las circunstancias y el consentimiento.",
+   "en": "Children can be sent back provided the circumstances and the consent are there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mientras están en España, deben gozar de la misma protección que los niños españoles.",
+   "en": "While they are in «Spain», they must enjoy the same protection as Spanish children.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "elDiario. es y El País siguen el caso.",
+   "en": "«elDiario. es» and «El Pais» are following the case.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Terminamos con el fuego.",
+   "en": "We finish with the fire.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un incendio forestal provocado por un rayo avanza hacia la Sierra Calderona.",
+   "en": "A forest fire set off by a lightning strike is advancing towards the «Sierra Calderona».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las llamas se iniciaron ayer por la tarde entre Gátova y Segorbe, en Castellón.",
+   "en": "The flames started yesterday afternoon between «Gatova» and «Segorbe», in «Castellon».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Centro de Coordinación de Emergencias de la Generalitat ha establecido la situación uno",
+   "en": "The emergency coordination centre of the «Generalitat» has declared situation one of",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "del plan especial.",
+   "en": "the special plan.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Una veintena de medios terrestres y aéreos trabaja en la extinción.",
+   "en": "Around twenty ground and air units are working to put it out.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las bajas temperaturas nocturnas y la alta humedad favorecen los trabajos.",
+   "en": "The low night temperatures and the high humidity are helping the work.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El dispositivo se dirige desde el Puesto de Mando Avanzado de Gátova.",
+   "en": "The operation is being run from the forward command post at «Gatova».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ABC, La Vanguardia y elDiario. es informan del incendio.",
+   "en": "«ABC», «La Vanguardia» and «elDiario. es» report the fire.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí el repaso de la actualidad.",
+   "en": "That is where we leave the news today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Friday 21 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "The central government has applied its first plan to put order into Ceuta, opening two tem",
+ "summary_en": [
+  "The central government has applied its first plan to put order into Ceuta, opening two tem",
+  "The chief prosecutor for minors, Teresa Gisbert, has rejected the proposal of the Partido",
+  "A forest fire started by a lightning strike is advancing towards the Sierra Calderona. The"
+ ]
+}

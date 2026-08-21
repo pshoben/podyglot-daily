@@ -5,6 +5,107 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-ES-El informativo de la mañana, viernes 21 de agosto",
+   "file": "podcast-daily-2026-08-21-morning-news-es-ES.json",
+   "bytes": 10551,
+   "sha256": "eb6f35021566fa1ca46302da54d61b6f4dcb095a0451558d85c1fd7fbc23b6c5",
+   "date": "2026-08-21",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, viernes 21 de agosto",
+   "title_en": "The morning news, Friday 21 August",
+   "headline_en": "The central government has applied its first plan to put order into Ceuta, opening two tem",
+   "summary_en": [
+    "The central government has applied its first plan to put order into Ceuta, opening two tem",
+    "The chief prosecutor for minors, Teresa Gisbert, has rejected the proposal of the Partido",
+    "A forest fire started by a lightning strike is advancing towards the Sierra Calderona. The"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, viernes 21 de agosto",
+   "file": "podcast-daily-2026-08-21-morning-sport-es-ES.json",
+   "bytes": 5998,
+   "sha256": "1478660063976d68c55c7c956896274c3d61a7d8b717baadb80a577b2d8ee925",
+   "date": "2026-08-21",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, viernes 21 de agosto",
+   "title_en": "Today's sport, Friday 21 August",
+   "headline_en": "Espanyol receive Real Madrid in LaLiga. Jose Mourinho, the Real Madrid coach, gives his pr",
+   "summary_en": [
+    "Espanyol receive Real Madrid in LaLiga. Jose Mourinho, the Real Madrid coach, gives his pr",
+    "The Vuelta a Espana begins, and Tadej Pogacar starts as the undisputed favourite on his re"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, viernes 21 de agosto",
+   "file": "podcast-daily-2026-08-21-morning-weather-es-ES.json",
+   "bytes": 5257,
+   "sha256": "c3226ee44302cfecea34bde97cea8f50b9b44ca44e9c2e1624781709fac88b9c",
+   "date": "2026-08-21",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, viernes 21 de agosto",
+   "title_en": "Today's weather, Friday 21 August",
+   "headline_en": "Predicción AEMET para Madrid (Madrid), 2026-08-21",
+   "summary_en": [
+    "Predicción AEMET para Madrid (Madrid), 2026-08-21",
+    "The stormy spell continues on Friday with very heavy rain and a further fall in temperatur"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, viernes 21 de agosto",
+   "file": "podcast-daily-2026-08-21-morning-weather-andalucia-es-ES.json",
+   "bytes": 5129,
+   "sha256": "e8156824e8933845ab4f58b82ec1e30436a4936cb0e304d4af74fa2c8da61c3a",
+   "date": "2026-08-21",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, viernes 21 de agosto",
+   "title_en": "Today's weather, Andalusia, Friday 21 August",
+   "headline_en": "Predicción AEMET para Sevilla (Sevilla), 2026-08-21",
+   "summary_en": [
+    "Predicción AEMET para Sevilla (Sevilla), 2026-08-21",
+    "Predicción AEMET para Málaga (Málaga), 2026-08-21"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, viernes 21 de agosto",
+   "file": "podcast-daily-2026-08-21-morning-weather-canarias-es-ES.json",
+   "bytes": 4629,
+   "sha256": "ba74e540c0090cca2532b42bc016006902d7eb46d0d14585df92152f2726c546",
+   "date": "2026-08-21",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, viernes 21 de agosto",
+   "title_en": "Today's weather, Canary Islands, Friday 21 August",
+   "headline_en": "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-21",
+   "summary_en": [
+    "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-21",
+    "Predicción AEMET para Santa Cruz de Tenerife (Santa Cruz de Tenerife (Tenerife)), 2026-08-21"
+   ]
+  },
+  {
    "id": "es-ES-El informativo de la mañana, jueves 20 de agosto",
    "file": "podcast-daily-2026-08-20-morning-news-es-ES.json",
    "bytes": 12434,

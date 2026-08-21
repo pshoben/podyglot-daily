@@ -1,0 +1,213 @@
+{
+ "title": "El tiempo en Andalucía, viernes 21 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-andalucia",
+   "wpm": 208,
+   "rate_multiplier": 0.73,
+   "pitch_multiplier": 0.79
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-andalucia",
+ "date": "2026-08-21",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos con el tiempo en Andalucía.",
+   "en": "We go on with the weather in «Andalusia».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Sevilla, máxima treinta y tres grados y mínima diecinueve.",
+   "en": "In «Seville», a maximum of thirty-three degrees and a minimum of nineteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo estará nuboso, y poco nuboso por la tarde.",
+   "en": "The sky will be cloudy, and a little cloudy in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación es del cero por ciento.",
+   "en": "The chance of rain is zero per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento sopla del suroeste a diez kilómetros por hora,",
+   "en": "The wind blows from the south-west at ten kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y sube a veinte por la tarde.",
+   "en": "and rises to twenty in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El índice ultravioleta máximo es de siete.",
+   "en": "The maximum ultraviolet index is seven.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Málaga, máxima treinta y tres grados y mínima veintidós, con cielo despejado.",
+   "en": "In «Malaga», a maximum of thirty-three degrees and a minimum of twenty-two, with a clear sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí no se espera precipitación.",
+   "en": "No rain is expected there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento sopla del sur a treinta kilómetros por hora.",
+   "en": "The wind blows from the south at thirty kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El índice ultravioleta máximo es de ocho.",
+   "en": "The maximum ultraviolet index is eight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Córdoba, máxima treinta y tres grados y mínima diecinueve, con cielo despejado.",
+   "en": "In «Cordoba», a maximum of thirty-three degrees and a minimum of nineteen, with a clear sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación es del cinco por ciento,",
+   "en": "The chance of rain is five per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y baja a cero por la tarde.",
+   "en": "and falls to zero in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento sopla del oeste a diez kilómetros por hora,",
+   "en": "The wind blows from the west at ten kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y sube a quince por la tarde,",
+   "en": "and rises to fifteen in the afternoon,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con un índice ultravioleta máximo de ocho.",
+   "en": "with a maximum ultraviolet index of eight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Estos datos son de la AEMET.",
+   "en": "These figures come from «AEMET».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 3,
+ "handover": "junction",
+ "title_en": "Today's weather, Andalusia, Friday 21 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Andalucía",
+ "accent": "Andalucía",
+ "accent_label": "acento de Andalucía",
+ "segment_order": 1,
+ "headline_en": "Predicción AEMET para Sevilla (Sevilla), 2026-08-21",
+ "summary_en": [
+  "Predicción AEMET para Sevilla (Sevilla), 2026-08-21",
+  "Predicción AEMET para Málaga (Málaga), 2026-08-21"
+ ]
+}

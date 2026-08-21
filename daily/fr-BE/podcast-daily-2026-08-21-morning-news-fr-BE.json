@@ -1,0 +1,380 @@
+{
+ "title": "Le sept heures, vendredi 21 août",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-news",
+   "wpm": 222,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-21",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Vendredi vingt et un août, sept heures à Bruxelles. Le sept heures.",
+   "en": "Friday the twenty-first of August, seven o'clock in «Brussels». The seven o'clock news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le feu des Hautes Fagnes continue d'évoluer favorablement.",
+   "en": "The fire in the «Hautes Fagnes» is still developing favourably.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La RTBF change le visage de son journal du soir.",
+   "en": "The «RTBF» changes the face of its evening news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et Tesla prévoit de vendre son semi-remorque électrique en Europe.",
+   "en": "And «Tesla» plans to sell its electric articulated lorry in Europe.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par l'incendie.",
+   "en": "We start with the fire.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La situation continue d'évoluer favorablement dans les Hautes Fagnes.",
+   "en": "The situation continues to develop favourably in the «Hautes Fagnes».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Une centaine de personnes ont été mobilisées durant la nuit.",
+   "en": "About a hundred people were called out during the night.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le feu s'est déclaré le vendredi quatorze août, en début d'après-midi.",
+   "en": "The fire broke out on Friday the fourteenth of August, in the early afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les pompiers se relaient depuis le premier jour.",
+   "en": "The firefighters have been working in shifts since the first day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Hainaut, la zone de secours Hainaut-Centre se dote d'un camion spécifique aux",
+   "en": "In «Hainaut», the «Hainaut-Centre» rescue service is getting itself a truck built specifically",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "incendies de forêts.",
+   "en": "for forest fires.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ses responsables ont expliqué qu'ils devaient anticiper,",
+   "en": "Its officers explained that they have to plan ahead,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "parce que les risques sont réels.",
+   "en": "because the risks are real.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "7sur7, La Libre et la DH suivent l'incendie.",
+   "en": "«7sur7», «La Libre» and the «DH» are following the fire.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe aux médias.",
+   "en": "We move to the media.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sébastien Pierret est le nouveau présentateur du journal de dix-neuf heures trente sur la RTBF.",
+   "en": "«Sebastien Pierret» is the new presenter of the half past seven evening news on the «RTBF».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il alternera avec Nathalie Maleux.",
+   "en": "He will alternate with «Nathalie Maleux».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il prend la place de Laurent Mathieu,",
+   "en": "He takes the place of «Laurent Mathieu»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "parti assurer l'interview de sept heures quarante-cinq dans Matin Première.",
+   "en": "who has left to do the quarter to eight interview on «Matin Premiere».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pierret a raconté que Thomas Gadisseux l'avait appelé dimanche soir,",
+   "en": "«Pierret» said that «Thomas Gadisseux» had telephoned him on Sunday evening,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "alors qu'il était en vacances en Bretagne.",
+   "en": "while he was on holiday in «Brittany».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a parlé d'une vraie surprise.",
+   "en": "He called it a real surprise.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La DH et La Libre ont recueilli ses réactions.",
+   "en": "The «DH» and «La Libre» gathered his reaction.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Nous passons à l'international.",
+   "en": "We move abroad.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un dirigeant provincial canadien, Wab Kinew, a qualifié Donald Trump de peu fiable,",
+   "en": "A Canadian provincial leader, «Wab Kinew», called «Donald Trump» unreliable, irresponsible",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "irresponsable et mauvais.",
+   "en": "and bad.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Canada et les États-Unis négociaient jeudi un accord commercial.",
+   "en": "«Canada» and the «United States» were negotiating a trade agreement on Thursday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ses termes ont été communiqués aux dirigeants des provinces canadiennes.",
+   "en": "Its terms were passed on to the leaders of the Canadian provinces.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Plusieurs d'entre eux restent méfiants face à cet accord.",
+   "en": "Several of them remain wary of that agreement.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "7sur7 et La Libre rapportent ces propos.",
+   "en": "«7sur7» and «La Libre» report those remarks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On termine par l'automobile.",
+   "en": "We finish with cars.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le constructeur américain Tesla prévoit de mettre prochainement en vente son semi-remorque électrique en Europe.",
+   "en": "The American maker «Tesla» plans to put its electric articulated lorry on sale in Europe in the near future.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le véhicule s'appelle le Semi.",
+   "en": "The vehicle is called the «Semi».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "7sur7 et La Libre annoncent cette arrivée.",
+   "en": "«7sur7» and «La Libre» announce its arrival.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour cette édition.",
+   "en": "That is all for this edition.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Friday 21 August",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "The situation of the fire in the Hautes Fagnes continues to develop favourably. Around a h",
+ "summary_en": [
+  "The situation of the fire in the Hautes Fagnes continues to develop favourably. Around a h",
+  "Sebastien Pierret is the new presenter of the half past seven evening news on the RTBF. He",
+  "The American car maker Tesla plans to put its electric articulated lorry, the Semi, on sal"
+ ]
+}

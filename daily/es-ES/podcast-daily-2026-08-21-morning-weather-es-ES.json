@@ -1,0 +1,213 @@
+{
+ "title": "El tiempo, viernes 21 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather",
+   "wpm": 208,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-21",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El tiempo.",
+   "en": "The weather.",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El temporal continúa este viernes con lluvias muy fuertes",
+   "en": "The stormy spell continues this Friday with very heavy rain",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y un nuevo descenso de las temperaturas.",
+   "en": "and a further fall in temperatures.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las lluvias ganarán fuerza por la tarde en la Ibérica aragonesa y en Cataluña.",
+   "en": "The rain will gain strength in the afternoon over the Aragonese «Iberica» range and over «Catalonia».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La AEMET mantiene un aviso de nivel amarillo por lluvias en la Sierra de Tramontana.",
+   "en": "«AEMET» is holding a yellow level warning for rain in the «Sierra de Tramontana».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hay otro aviso amarillo por lluvias en el sur de Mallorca.",
+   "en": "There is another yellow warning for rain in the south of «Mallorca».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los dos avisos están vigentes desde las ocho de la mañana.",
+   "en": "Both warnings have been in force since eight in the morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Madrid el tiempo cambia de cara.",
+   "en": "In «Madrid» the weather changes face.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo presentará intervalos nubosos durante buena parte del día.",
+   "en": "The sky will show cloudy intervals for a good part of the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La nubosidad será más abundante en las zonas de montaña conforme avance la tarde.",
+   "en": "The cloud will be thicker in the mountain areas as the afternoon goes on.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Sierra podría recibir lluvias dispersas.",
+   "en": "The «Sierra» could get scattered rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Vamos con las cifras de hoy en la capital.",
+   "en": "Here are the figures for today in the capital.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Madrid, máxima treinta grados y mínima diecinueve, con cielo poco nuboso.",
+   "en": "In «Madrid», a maximum of thirty degrees and a minimum of nineteen, with a little cloud.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación es del cero por ciento.",
+   "en": "The chance of rain is zero per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento sopla del oeste a diez kilómetros por hora,",
+   "en": "The wind blows from the west at ten kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y del suroeste por la tarde.",
+   "en": "and from the south-west in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El índice ultravioleta máximo es de ocho.",
+   "en": "The maximum ultraviolet index is eight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Estos datos son de la AEMET.",
+   "en": "These figures come from «AEMET».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Friday 21 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "España",
+ "accent": "Castilla",
+ "accent_label": "acento de Castilla",
+ "segment_order": 0,
+ "headline_en": "Predicción AEMET para Madrid (Madrid), 2026-08-21",
+ "summary_en": [
+  "Predicción AEMET para Madrid (Madrid), 2026-08-21",
+  "The stormy spell continues on Friday with very heavy rain and a further fall in temperatur"
+ ]
+}

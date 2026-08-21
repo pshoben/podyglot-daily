@@ -1,0 +1,249 @@
+{
+ "title": "Los deportes, viernes 21 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-sport",
+   "wpm": 208,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-21",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Vamos con el deporte.",
+   "en": "Here is the sport.",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Espanyol recibe al Real Madrid en LaLiga.",
+   "en": "«Espanyol» receive «Real Madrid» in «LaLiga».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "José Mourinho, entrenador del Real Madrid,",
+   "en": "«Jose Mourinho», the «Real Madrid» coach,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "comparece en rueda de prensa antes del partido.",
+   "en": "gives a press conference before the match.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Monchi, responsable del área deportiva del Espanyol,",
+   "en": "«Monchi», who runs the sporting side at «Espanyol»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dijo que el peor enemigo para un director",
+   "en": "said that the worst enemy for a sporting director is improvisation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "deportivo es la improvisación. AS, El País y Mundo Deportivo cubren la previa.",
+   "en": "«AS», «El Pais» and «Mundo Deportivo» cover the build-up.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Arranca la Vuelta a España.",
+   "en": "The «Vuelta a Espana» begins.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Tadej Pogacar parte como favorito indiscutible en su regreso a la carrera siete años después.",
+   "en": "«Tadej Pogacar» starts as the undisputed favourite on his return to the race seven years later.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El recorrido pasará por cuatro países.",
+   "en": "The course will pass through four countries.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El esloveno había renunciado dos veces a última hora por fatiga.",
+   "en": "The Slovenian had pulled out at the last moment twice because of fatigue.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Correrá la ronda española para tratar de entrar en el selecto club de los corredores",
+   "en": "He will ride the Spanish tour to try to join the select club of riders who",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que han ganado las tres grandes.",
+   "en": "have won all three grand tours.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "AS y El País firman las previas.",
+   "en": "«AS» and «El Pais» write the previews.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y en tenis, Carlos Alcaraz jugará el US Open.",
+   "en": "And in tennis, «Carlos Alcaraz» will play the «US Open».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El español, de veintitrés años y actual número dos del mundo,",
+   "en": "The Spaniard, twenty-three years old and currently number two in the world,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "vuelve a las pistas tras cuatro meses de inactividad.",
+   "en": "returns to the court after four months out.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Son ciento veintiocho días.",
+   "en": "That is a hundred and twenty-eight days.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Entrenará el lunes con Mérida en Flushing Meadows,",
+   "en": "He will train on Monday with «Merida» at «Flushing Meadows»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en una sesión intensiva de preparación.",
+   "en": "in an intensive preparation session.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ABC y AS anuncian su vuelta.",
+   "en": "«ABC» and «AS» announce his return.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí el deporte.",
+   "en": "That is all from the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Friday 21 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Espanyol receive Real Madrid in LaLiga. Jose Mourinho, the Real Madrid coach, gives his pr",
+ "summary_en": [
+  "Espanyol receive Real Madrid in LaLiga. Jose Mourinho, the Real Madrid coach, gives his pr",
+  "The Vuelta a Espana begins, and Tadej Pogacar starts as the undisputed favourite on his re"
+ ]
+}
