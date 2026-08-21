@@ -5,6 +5,26 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-AR-El pronóstico, viernes 21 de agosto",
+   "file": "podcast-daily-2026-08-21-morning-weather-es-AR.json",
+   "bytes": 5070,
+   "sha256": "f4a684d020b17139dc4e1073d6a17b7823df67536500a91fab5b6f8872a58219",
+   "date": "2026-08-21",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El pronóstico, viernes 21 de agosto",
+   "title_en": "Today's weather, Friday 21 August",
+   "headline_en": "The forecast for Buenos Aires for Friday 21 August 2026 is a maximum of 12 degrees and a m",
+   "summary_en": [
+    "The forecast for Buenos Aires for Friday 21 August 2026 is a maximum of 12 degrees and a m",
+    "The forecast for Córdoba for Friday 21 August 2026 is a maximum of 14 degrees and a minimu"
+   ]
+  },
+  {
    "id": "es-AR-El noticiero de la mañana, jueves 20 de agosto",
    "file": "podcast-daily-2026-08-20-morning-news-es-AR.json",
    "bytes": 12980,

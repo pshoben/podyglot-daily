@@ -1,0 +1,219 @@
+{
+ "title": "Le bulletin météo, vendredi 21 août",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-weather",
+   "wpm": 185,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-21",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "La météo pour aujourd'hui, vendredi vingt et un août.",
+   "en": "Today's forecast, Friday the twenty-first of August.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Trois villes au programme.",
+   "en": "Three cities on the list.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'abord.",
+   "en": "To begin.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aujourd'hui à Montréal, une maximale de vingt-cinq degrés et une minimale de treize.",
+   "en": "Today in «Montréal», we expect a high of twenty-five degrees and a low of thirteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ciel sera dégagé sur l'ensemble de la région.",
+   "en": "Clear sky across the whole region.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de pluie atteint zéro pour cent.",
+   "en": "Odds of rain reach zero per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent maximal atteindra sept kilomètres par heure.",
+   "en": "The top wind will reach seven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ensuite.",
+   "en": "Then.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aujourd'hui à Québec, une maximale de vingt-quatre degrés et une minimale de quatorze.",
+   "en": "Today in «Québec», we expect a high of twenty-four degrees and a low of fourteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On garde un ciel dégagé sur la région.",
+   "en": "Clear sky holds across the region.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aucune pluie n'est attendue.",
+   "en": "No rain is on the way.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent maximal atteindra treize kilomètres par heure.",
+   "en": "The top wind will reach thirteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et pour finir.",
+   "en": "And lastly.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aujourd'hui à Saguenay, une maximale de vingt-deux degrés et une minimale de neuf.",
+   "en": "Today in «Saguenay», we expect a high of twenty-two degrees and a low of nine.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ciel restera des nuages épars sur la région.",
+   "en": "Scattered cloud stays across the region.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Là non plus, aucune pluie n'est prévue.",
+   "en": "No rain there either.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent maximal atteindra neuf kilomètres par heure.",
+   "en": "The top wind will reach nine kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ces données viennent du modèle GEM d'Environnement Canada.",
+   "en": "This comes from the «GEM» model run by «Environment Canada».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et voilà pour la météo d'aujourd'hui.",
+   "en": "And that wraps up the forecast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Friday 21 August",
+ "edition": "morning",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "The forecast for Montréal for Friday 21 August 2026 is a maximum of 25 degrees and a minim",
+ "summary_en": [
+  "The forecast for Montréal for Friday 21 August 2026 is a maximum of 25 degrees and a minim",
+  "The forecast for Québec for Friday 21 August 2026 is a maximum of 24 degrees and a minimum"
+ ]
+}

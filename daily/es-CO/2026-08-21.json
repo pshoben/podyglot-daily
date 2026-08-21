@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-CO",
+ "date": "2026-08-21",
+ "episodes": [
+  {
+   "id": "es-CO-La actualidad de la mañana, viernes 21 de agosto",
+   "file": "podcast-daily-2026-08-21-morning-news-es-CO.json",
+   "bytes": 8560,
+   "sha256": "56cf90237823130c073910996165d357a11c291c3e0b047c5ece90d5afa9cd63",
+   "date": "2026-08-21",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "La actualidad de la mañana, viernes 21 de agosto",
+   "title_en": "The morning news, Friday 21 August",
+   "headline_en": "The most recent balance from Colombia's National Unit for Disaster Risk Management (UNGRD)",
+   "summary_en": [
+    "The most recent balance from Colombia's National Unit for Disaster Risk Management (UNGRD)",
+    "Outlets disagree on the area burned by the fires in Tolima. El Colombiano reports more tha",
+    "FIFA imposed sanctions on members of the Argentine national team and on the Argentine Foot"
+   ]
+  },
+  {
+   "id": "es-CO-El clima de hoy, viernes 21 de agosto",
+   "file": "podcast-daily-2026-08-21-morning-weather-es-CO.json",
+   "bytes": 5148,
+   "sha256": "e336542c459341db2cfa4d52e3d7a736267f15c15a3706c7ba3676a0cb6bc363",
+   "date": "2026-08-21",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "El clima de hoy, viernes 21 de agosto",
+   "title_en": "Today's weather, Friday 21 August",
+   "headline_en": "The forecast for Bogotá for Friday 21 August 2026 is a maximum of 19 degrees and a minimum",
+   "summary_en": [
+    "The forecast for Bogotá for Friday 21 August 2026 is a maximum of 19 degrees and a minimum",
+    "The forecast for Medellín for Friday 21 August 2026 is a maximum of 29 degrees and a minim"
+   ]
+  }
+ ],
+ "content": "3ad3e397edcc8edd1f7e988e4dcc46621bf8d37c389ed896613f2837201d17fa",
+ "rev": 1,
+ "updated": "2026-08-21T21:20:02.241Z"
+}

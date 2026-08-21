@@ -1,0 +1,219 @@
+{
+ "title": "El pronóstico, viernes 21 de agosto",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-weather",
+   "wpm": 195,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-21",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El tiempo de este viernes veintiuno de agosto.",
+   "en": "The weather for this Friday the twenty-first of August.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Vemos tres ciudades del país.",
+   "en": "Three cities around the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Comenzamos.",
+   "en": "First.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Buenos Aires, la máxima será de doce grados y la mínima de seis.",
+   "en": "In «Buenos Aires», the maximum will be twelve degrees and the minimum six.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se espera un cielo con intervalos nubosos durante la jornada.",
+   "en": "Broken cloud is expected during the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de lluvia es del cero por ciento.",
+   "en": "The likelihood of rain is zero per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento llegará hasta los veinte kilómetros por hora.",
+   "en": "Wind will get up to twenty kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos.",
+   "en": "Next.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Córdoba, la máxima será de catorce grados y la mínima de ocho.",
+   "en": "In «Córdoba», the maximum will be fourteen degrees and the minimum eight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Habrá cielo nuboso durante la jornada.",
+   "en": "There will be Cloud during the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "No se espera lluvia en la ciudad.",
+   "en": "No rain is expected in the city.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento llegará hasta los dieciséis kilómetros por hora.",
+   "en": "Wind will get up to sixteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y para terminar.",
+   "en": "And to finish.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Mendoza, la máxima será de trece grados y la mínima de ocho.",
+   "en": "In «Mendoza», the maximum will be thirteen degrees and the minimum eight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo se presentará nuboso durante la jornada.",
+   "en": "The sky turns to Cloud during the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí tampoco se espera lluvia.",
+   "en": "No rain is expected there either.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento llegará hasta los veintiuno kilómetros por hora.",
+   "en": "Wind will get up to twenty-one kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los datos provienen del modelo del Centro Europeo, el ECMWF.",
+   "en": "The data come from the European Centre model, the «ECMWF».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí el tiempo de hoy.",
+   "en": "That is the weather for today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Friday 21 August",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "The forecast for Buenos Aires for Friday 21 August 2026 is a maximum of 12 degrees and a m",
+ "summary_en": [
+  "The forecast for Buenos Aires for Friday 21 August 2026 is a maximum of 12 degrees and a m",
+  "The forecast for Córdoba for Friday 21 August 2026 is a maximum of 14 degrees and a minimu"
+ ]
+}

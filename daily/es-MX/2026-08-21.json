@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-MX",
+ "date": "2026-08-21",
+ "episodes": [
+  {
+   "id": "es-MX-El noticiario matutino, viernes 21 de agosto",
+   "file": "podcast-daily-2026-08-21-morning-news-es-MX.json",
+   "bytes": 8170,
+   "sha256": "a340e83ed26eea0acb95dd32d258c211506642e8670f14745c6a841dee00be9c",
+   "date": "2026-08-21",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El noticiario matutino, viernes 21 de agosto",
+   "title_en": "The morning news, Friday 21 August",
+   "headline_en": "Former rear admiral Fernando Farias Laguna was expelled from Argentina to Mexico after Mex",
+   "summary_en": [
+    "Former rear admiral Fernando Farias Laguna was expelled from Argentina to Mexico after Mex",
+    "Sinaloa governor Ruben Rocha Moya announced on Friday morning that he has resumed his post",
+    "FIFA's Disciplinary Commission fined the Argentine Football Association 321,000 dollars ov"
+   ]
+  },
+  {
+   "id": "es-MX-El clima, viernes 21 de agosto",
+   "file": "podcast-daily-2026-08-21-morning-weather-es-MX.json",
+   "bytes": 5163,
+   "sha256": "b3a1df945c5f050af6f3583e3537b7b4704225cde3ada4a6cf3c0f2d7e1e620e",
+   "date": "2026-08-21",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El clima, viernes 21 de agosto",
+   "title_en": "Today's weather, Friday 21 August",
+   "headline_en": "The forecast for Ciudad de México for Friday 21 August 2026 is a maximum of 22 degrees and",
+   "summary_en": [
+    "The forecast for Ciudad de México for Friday 21 August 2026 is a maximum of 22 degrees and",
+    "The forecast for Guadalajara for Friday 21 August 2026 is a maximum of 27 degrees and a mi"
+   ]
+  }
+ ],
+ "content": "e8ecbf8bb1fdedf7e43d68ad1dbf238e2d489da47dbff8b7170094d8d3006bb1",
+ "rev": 1,
+ "updated": "2026-08-21T21:20:02.241Z"
+}

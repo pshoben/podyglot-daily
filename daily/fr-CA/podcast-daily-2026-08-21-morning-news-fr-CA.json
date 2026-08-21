@@ -1,0 +1,320 @@
+{
+ "title": "Le bulletin du matin, vendredi 21 août",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-news",
+   "wpm": 185,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-21",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Vendredi vingt et un août, sept heures à Montréal. Le bulletin du matin.",
+   "en": "Friday the twenty-first of August, seven o'clock in «Montréal». The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Parti québécois chiffre l'abolition de Santé Québec.",
+   "en": "The «Parti Québécois» puts a figure on abolishing «Santé Québec».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un adolescent est arrêté à Montréal pour un projet d'attentat.",
+   "en": "A teenager is arrested in «Montréal» over a planned attack.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et deux personnes sont blessées dans un temple sikh d'Edmonton.",
+   "en": "And two people are injured at a Sikh temple in «Edmonton».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par la santé.",
+   "en": "We start with health.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le chef du Parti québécois, Paul St-Pierre Plamondon, veut abolir Santé Québec.",
+   "en": "The leader of the «Parti Québécois», «Paul St-Pierre Plamondon», wants to abolish «Santé Québec».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a estimé que la mesure ferait épargner au moins quarante millions de",
+   "en": "He said the move would save at least forty million dollars",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dollars par année.",
+   "en": "a year.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a même évoqué jusqu'à cent millions.",
+   "en": "He even mentioned up to one hundred million.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il souhaite réinvestir cette somme dans les soins directs à la population.",
+   "en": "He wants that money reinvested in direct care for the public.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a parlé du monstre qu'est, selon lui, Santé Québec.",
+   "en": "He spoke of what he calls the monster that is «Santé Québec».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Santé Québec est une société d'État créée il y a moins de deux ans.",
+   "en": "«Santé Québec» is a state corporation created less than two years ago.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La ministre de la Santé critique sévèrement cette volonté d'abolition.",
+   "en": "The health minister sharply criticises that plan to abolish it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Radio-Canada, La Presse et Le Journal de Montréal suivent ce dossier.",
+   "en": "«Radio-Canada», «La Presse» and «Le Journal de Montréal» are all following this.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à l'affaire de Montréal.",
+   "en": "We move on to the «Montréal» case.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un adolescent a été arrêté vendredi matin dans Rosemont-La Petite-Patrie.",
+   "en": "A teenager was arrested on Friday morning in «Rosemont-La Petite-Patrie».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les policiers le qualifient d'extrémiste.",
+   "en": "The police describe him as an extremist.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon la Gendarmerie royale du Canada, il préparait un attentat.",
+   "en": "According to the «Royal Canadian Mounted Police», he was preparing an attack.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Toujours selon la GRC, il tenait des propos menaçants en ligne.",
+   "en": "Again according to the «RCMP», he was making threatening remarks online.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il visait une école, avec l'aide de l'intelligence artificielle.",
+   "en": "He was targeting a school, with the help of artificial intelligence.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il doit comparaître à la Chambre de la jeunesse du palais de justice de Montréal.",
+   "en": "He is to appear at the youth division of the «Montréal» courthouse.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Presse, Le Devoir et Radio-Canada suivent cette arrestation.",
+   "en": "«La Presse», «Le Devoir» and «Radio-Canada» are all following this arrest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On termine par l'Alberta.",
+   "en": "We finish with «Alberta».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Une attaque a eu lieu au temple Gurdwara Nanaksar, dans le nord-est d'Edmonton.",
+   "en": "An attack took place at the «Nanaksar Gurdwara» temple, in northeast «Edmonton».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'était vendredi matin.",
+   "en": "It was on Friday morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La World Sikh Organization of Canada parle d'un incident violent.",
+   "en": "The «World Sikh Organization of Canada» calls it a violent incident.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'organisme a indiqué que deux personnes ont été blessées.",
+   "en": "The organisation said two people were injured.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Radio-Canada et CBC rapportent ce bilan.",
+   "en": "«Radio-Canada» and «CBC» both carry that figure.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et voilà pour le bulletin de ce matin.",
+   "en": "And that is your morning bulletin.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Friday 21 August",
+ "edition": "morning",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "Parti Quebecois leader Paul St-Pierre Plamondon says abolishing Sante Quebec would save th",
+ "summary_en": [
+  "Parti Quebecois leader Paul St-Pierre Plamondon says abolishing Sante Quebec would save th",
+  "A teenager described by police as an extremist, who was planning an attack on a school wit",
+  "An attack took place at the Nanaksar Gurdwara temple in northeast Edmonton on Friday morni"
+ ]
+}

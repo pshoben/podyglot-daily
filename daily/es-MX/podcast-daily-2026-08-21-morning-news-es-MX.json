@@ -1,0 +1,320 @@
+{
+ "title": "El noticiario matutino, viernes 21 de agosto",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-news",
+   "wpm": 186,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-21",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Viernes veintiuno de agosto, siete de la mañana en la Ciudad de México.",
+   "en": "Friday the twenty-first of August, seven in the morning in «Ciudad de México».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El noticiario matutino.",
+   "en": "The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un excontralmirante llega a México expulsado desde Argentina.",
+   "en": "A former rear admiral arrives in «Mexico» expelled from «Argentina».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el gobernador de Sinaloa retoma el cargo.",
+   "en": "And the governor of «Sinaloa» takes his post back.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y la FIFA multa a la asociación argentina por un lienzo sobre las Malvinas.",
+   "en": "And «FIFA» fines the Argentine association over a banner about the «Malvinas».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos con el caso del excontralmirante.",
+   "en": "We start with the case of the former rear admiral.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Fernando Farías Laguna fue expulsado de Argentina hacia México.",
+   "en": "«Fernando Farías Laguna» was expelled from «Argentina» to «Mexico».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La expulsión se produjo después de que México aportara pruebas.",
+   "en": "The expulsion came after «Mexico» supplied evidence.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esas pruebas se refieren a su presunta relación con una red de huachicol fiscal.",
+   "en": "That evidence concerns his alleged link to a fuel-theft network.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El excontralmirante será llevado al penal del Altiplano.",
+   "en": "The former rear admiral will be taken to the «Altiplano» prison.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Economista y La Jornada informan de esta expulsión.",
+   "en": "«El Economista» and «La Jornada» both report this expulsion.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasamos a la política estatal.",
+   "en": "We move on to state politics.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El gobernador Rubén Rocha Moya anunció que retomó su cargo.",
+   "en": "Governor «Rubén Rocha Moya» announced that he has taken his post back.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo anunció la mañana de este viernes.",
+   "en": "He announced it on Friday morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El gobernador había pedido licencia tras ser señalado por Estados Unidos.",
+   "en": "The governor had taken leave after being named by the «United States».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El señalamiento se refería a presuntos vínculos con el narcotráfico.",
+   "en": "The accusation concerned alleged links to drug trafficking.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La licencia se extendió por ciento doce días.",
+   "en": "The leave lasted one hundred and twelve days.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El gobernador se reunió con los integrantes de su gabinete.",
+   "en": "The governor met the members of his cabinet.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los integrantes del gabinete le dieron la bienvenida.",
+   "en": "The members of the cabinet welcomed him back.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Economista y El Financiero recogen este regreso.",
+   "en": "«El Economista» and «El Financiero» both carry this return.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Terminamos con el fútbol.",
+   "en": "We finish with football.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Comisión Disciplinaria de la FIFA sancionó a la Asociación de Fútbol de Argentina.",
+   "en": "«FIFA»'s Disciplinary Commission has sanctioned the Argentine Football Association.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La multa es de trescientos veintiún mil dólares.",
+   "en": "The fine is three hundred and twenty-one thousand dollars.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El motivo es el comportamiento de los jugadores de su selección.",
+   "en": "The reason is the behaviour of its national team players.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los jugadores enarbolaron un lienzo por la disputa de las islas Malvinas.",
+   "en": "The players raised a banner about the «Malvinas» dispute.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La asociación anunció que apelará la sanción.",
+   "en": "The association has announced it will appeal the sanction.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El lienzo se enarboló tras el triunfo de la selección.",
+   "en": "The banner was raised after the national side's win.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Economista y El Financiero informan de esta multa.",
+   "en": "«El Economista» and «El Financiero» both report this fine.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y hasta aquí el noticiario de esta mañana.",
+   "en": "And that is the news for this morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Friday 21 August",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "Former rear admiral Fernando Farias Laguna was expelled from Argentina to Mexico after Mex",
+ "summary_en": [
+  "Former rear admiral Fernando Farias Laguna was expelled from Argentina to Mexico after Mex",
+  "Sinaloa governor Ruben Rocha Moya announced on Friday morning that he has resumed his post",
+  "FIFA's Disciplinary Commission fined the Argentine Football Association 321,000 dollars ov"
+ ]
+}

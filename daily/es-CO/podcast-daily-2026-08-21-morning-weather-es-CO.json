@@ -1,0 +1,219 @@
+{
+ "title": "El clima de hoy, viernes 21 de agosto",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-weather",
+   "wpm": 195,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-21",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El estado del tiempo para hoy, viernes veintiuno de agosto.",
+   "en": "The state of the weather today, Friday the twenty-first of August.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Miramos tres ciudades del país.",
+   "en": "We look at three cities in the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Iniciamos.",
+   "en": "We begin.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para Bogotá, máxima de diecinueve grados y mínima de trece.",
+   "en": "For «Bogotá», a top of nineteen degrees and a bottom of thirteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se prevé un cielo con llovizna durante el día.",
+   "en": "Drizzle is forecast through the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de lluvia llega al cien por ciento.",
+   "en": "Rain chance reaches one hundred per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento máximo alcanzará once kilómetros por hora.",
+   "en": "Top wind will reach eleven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasamos a la siguiente.",
+   "en": "On to the next.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para Medellín, máxima de veintinueve grados y mínima de diecisiete.",
+   "en": "For «Medellín», a top of twenty-nine degrees and a bottom of seventeen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Habrá cielo con llovizna buena parte del día.",
+   "en": "There will be Drizzle much of the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La lluvia se sitúa en el ochenta y dos por ciento.",
+   "en": "Rain sits at eighty-two per cent here.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento máximo alcanzará doce kilómetros por hora.",
+   "en": "Top wind will reach twelve kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y cerramos con la última.",
+   "en": "And we close with the last.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para Cali, máxima de treinta grados y mínima de veintidós.",
+   "en": "For «Cali», a top of thirty degrees and a bottom of twenty-two.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo vendrá con chubascos durante el día.",
+   "en": "The sky comes Showers through the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de lluvia vuelve al cien por ciento.",
+   "en": "Rain chance is back at one hundred per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento máximo alcanzará nueve kilómetros por hora.",
+   "en": "Top wind will reach nine kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cifras del modelo del Centro Europeo, el ECMWF.",
+   "en": "Figures from the European Centre model, the «ECMWF».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y hasta aquí el estado del tiempo.",
+   "en": "And that is the state of the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Friday 21 August",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "The forecast for Bogotá for Friday 21 August 2026 is a maximum of 19 degrees and a minimum",
+ "summary_en": [
+  "The forecast for Bogotá for Friday 21 August 2026 is a maximum of 19 degrees and a minimum",
+  "The forecast for Medellín for Friday 21 August 2026 is a maximum of 29 degrees and a minim"
+ ]
+}

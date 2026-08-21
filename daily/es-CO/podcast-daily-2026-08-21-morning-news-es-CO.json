@@ -1,0 +1,330 @@
+{
+ "title": "La actualidad de la mañana, viernes 21 de agosto",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-21",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Viernes veintiuno de agosto, siete de la mañana en Bogotá.",
+   "en": "Friday the twenty-first of August, seven in the morning in «Bogotá».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La actualidad de la mañana.",
+   "en": "The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La UNGRD actualiza el balance del terremoto del diez de agosto.",
+   "en": "The «UNGRD» updates the toll from the earthquake of the tenth of August.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Colombiano y El Tiempo dan cifras distintas de los incendios del Tolima.",
+   "en": "«El Colombiano» and «El Tiempo» give different figures for the fires in «Tolima».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y la FIFA sanciona a la selección argentina.",
+   "en": "And «FIFA» sanctions the Argentine national side.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos por el terremoto.",
+   "en": "We start with the earthquake.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Unidad Nacional para la Gestión del Riesgo de Desastres publicó un nuevo balance.",
+   "en": "The National Unit for Disaster Risk Management has published a new toll.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El corte es de las seis y media de la mañana de este viernes.",
+   "en": "The figures are cut at half past six this Friday morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La entidad reporta trescientas veintiuna personas fallecidas.",
+   "en": "The body reports three hundred and twenty-one people dead.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Reporta también doscientas cincuenta y siete personas desaparecidas.",
+   "en": "It also reports two hundred and fifty-seven people missing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y cuatro mil quinientas noventa y cinco personas heridas.",
+   "en": "And four thousand five hundred and ninety-five people injured.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Trescientas sesenta y cuatro personas han sido rescatadas.",
+   "en": "Three hundred and sixty-four people have been rescued.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El sismo fue de magnitud siete coma cuatro y ocurrió el diez de agosto.",
+   "en": "The quake was magnitude seven point four and happened on the tenth of August.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La República añade treinta y un mil cuatrocientas cuarenta y cinco viviendas destruidas.",
+   "en": "«La República» adds thirty-one thousand four hundred and forty-five homes destroyed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Colombiano y La República recogen este balance de la UNGRD.",
+   "en": "«El Colombiano» and «La República» both carry this «UNGRD» toll.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasamos a los incendios.",
+   "en": "We move on to the fires.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los medios no coinciden en cuánta superficie ha ardido en el Tolima.",
+   "en": "The outlets do not agree on how much land has burned in «Tolima».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Colombiano habla de más de treinta mil hectáreas consumidas.",
+   "en": "«El Colombiano» speaks of more than thirty thousand hectares consumed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Tiempo habla de más de veinte mil hectáreas devastadas.",
+   "en": "«El Tiempo» speaks of more than twenty thousand hectares devastated.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Tiempo añade que las autoridades enfrentan hasta veinte conflagraciones diarias.",
+   "en": "«El Tiempo» adds that the authorities are facing up to twenty separate fires a day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Damos las dos cifras porque las fuentes no las han conciliado.",
+   "en": "We give both figures because the sources have not reconciled them.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Terminamos con el fútbol.",
+   "en": "We finish with football.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La FIFA impuso sanciones a integrantes de la selección argentina.",
+   "en": "«FIFA» has imposed sanctions on members of the Argentine national team.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También sancionó a la Asociación del Fútbol Argentino.",
+   "en": "It also sanctioned the Argentine Football Association.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El motivo son los incidentes de la final del Mundial.",
+   "en": "The reason is the incidents at the World Cup final.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Leandro Paredes recibió diez partidos de suspensión.",
+   "en": "«Leandro Paredes» received a ten-match suspension.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Recibió además una multa de noventa mil dólares.",
+   "en": "He also received a ninety thousand dollar fine.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La asociación fue multada con trescientos veintiún mil dólares.",
+   "en": "The association was fined three hundred and twenty-one thousand dollars.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Así lo informan El Colombiano y La República.",
+   "en": "That is what «El Colombiano» and «La República» report.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y hasta aquí la actualidad de esta mañana.",
+   "en": "And that is the morning news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Friday 21 August",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "The most recent balance from Colombia's National Unit for Disaster Risk Management (UNGRD)",
+ "summary_en": [
+  "The most recent balance from Colombia's National Unit for Disaster Risk Management (UNGRD)",
+  "Outlets disagree on the area burned by the fires in Tolima. El Colombiano reports more tha",
+  "FIFA imposed sanctions on members of the Argentine national team and on the Argentine Foot"
+ ]
+}

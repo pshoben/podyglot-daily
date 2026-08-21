@@ -1,0 +1,189 @@
+{
+ "title": "Le sport d'ici, vendredi 21 août",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-sport",
+   "wpm": 185,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-21",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le sport, vendredi vingt et un août.",
+   "en": "Sport, Friday the twenty-first of August.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Deux annonces aujourd'hui, et aucun résultat.",
+   "en": "Two announcements today, and no results.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par le tennis.",
+   "en": "We start with tennis.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le numéro un mondial Jannik Sinner a déclaré forfait.",
+   "en": "World number one «Jannik Sinner» withdrew.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il ne jouera pas les Internationaux des États-Unis.",
+   "en": "He will not play the «United States Open».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il est blessé à un genou.",
+   "en": "He has a knee injury.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'annonce a été faite ce vendredi.",
+   "en": "The announcement was made on Friday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Journal de Montréal et La Presse rapportent ce forfait.",
+   "en": "«Le Journal de Montréal» and «La Presse» both report the withdrawal.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe au soccer.",
+   "en": "We move on to football.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La FIFA a suspendu le milieu argentin Leandro Paredes.",
+   "en": "«FIFA» has suspended the Argentine midfielder «Leandro Paredes».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La suspension est de dix matchs.",
+   "en": "The suspension is ten matches.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle porte sur les incidents survenus durant la finale de la Coupe du monde.",
+   "en": "It covers the incidents during the World Cup final.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Trois joueurs argentins ont été suspendus pour leurs actions après la finale.",
+   "en": "Three Argentine players were suspended for their actions after the final.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Journal de Montréal et La Presse suivent ces sanctions.",
+   "en": "«Le Journal de Montréal» and «La Presse» are both following these sanctions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La fédération a fait cette annonce vendredi.",
+   "en": "The federation made the announcement on Friday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et voilà pour le sport.",
+   "en": "And that is sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Friday 21 August",
+ "edition": "morning",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "World number one Jannik Sinner withdrew on Friday from the United States Open because of a",
+ "summary_en": [
+  "World number one Jannik Sinner withdrew on Friday from the United States Open because of a",
+  "FIFA announced on Friday that the Argentine midfielder Leandro Paredes has been suspended"
+ ]
+}

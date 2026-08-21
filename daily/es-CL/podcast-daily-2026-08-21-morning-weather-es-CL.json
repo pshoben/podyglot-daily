@@ -1,0 +1,219 @@
+{
+ "title": "El estado del tiempo, viernes 21 de agosto",
+ "dialect": "es-CL",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CL-daily-weather",
+   "wpm": 205,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-21",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El tiempo para este viernes veintiuno de agosto.",
+   "en": "Weather for this Friday the twenty-first of August.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Revisamos tres ciudades.",
+   "en": "We check three cities.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Partimos.",
+   "en": "We open.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hoy en Santiago, la máxima llegará a veintidós grados y la mínima a cuatro.",
+   "en": "Today in «Santiago», the high will reach twenty-two degrees and the low four.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo se mantendrá con intervalos nubosos durante buena parte del día.",
+   "en": "Broken cloud for much of the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de lluvia es de cero por ciento.",
+   "en": "The probability of rain is zero per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento máximo será de cuatro kilómetros por hora.",
+   "en": "The maximum wind will be four kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Continuamos.",
+   "en": "We continue.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hoy en Valparaíso, la máxima llegará a veintiocho grados y la mínima a diez.",
+   "en": "Today in «Valparaíso», the high will reach twenty-eight degrees and the low ten.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguirá el cielo con intervalos nubosos buena parte del día.",
+   "en": "Broken cloud continues for much of the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sin lluvia prevista en la ciudad.",
+   "en": "No rain forecast in the city.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento máximo será de quince kilómetros por hora.",
+   "en": "The maximum wind will be fifteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y finalizamos.",
+   "en": "And we end.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hoy en Concepción, la máxima llegará a dieciocho grados y la mínima a seis.",
+   "en": "Today in «Concepción», the high will reach eighteen degrees and the low six.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo estará nuboso buena parte del día.",
+   "en": "The sky holds Cloud for much of the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Tampoco se prevé lluvia allí.",
+   "en": "No rain forecast there either.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento máximo será de catorce kilómetros por hora.",
+   "en": "The maximum wind will be fourteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Información del modelo del Centro Europeo, el ECMWF.",
+   "en": "Information from the European Centre model, the «ECMWF».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso fue el tiempo de esta jornada.",
+   "en": "That was the weather for the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Friday 21 August",
+ "edition": "morning",
+ "region": "es-CL",
+ "region_label": "Chile",
+ "headline_en": "The forecast for Santiago for Friday 21 August 2026 is a maximum of 22 degrees and a minim",
+ "summary_en": [
+  "The forecast for Santiago for Friday 21 August 2026 is a maximum of 22 degrees and a minim",
+  "The forecast for Valparaíso for Friday 21 August 2026 is a maximum of 28 degrees and a min"
+ ]
+}

@@ -1,0 +1,229 @@
+{
+ "title": "El clima, viernes 21 de agosto",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-weather",
+   "wpm": 186,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-21",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El clima de hoy, viernes veintiuno de agosto.",
+   "en": "Today's weather, Friday the twenty-first of August.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Repasamos tres ciudades del país.",
+   "en": "A look at three cities across the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Arrancamos.",
+   "en": "We start.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hoy en Ciudad de México,",
+   "en": "Today in «Ciudad de México»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "máxima veintidós grados y mínima catorce.",
+   "en": "a high of twenty-two degrees and a low of fourteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo estará con llovizna.",
+   "en": "Skies will bring Drizzle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de lluvia es del noventa y cuatro por ciento.",
+   "en": "Rain probability is ninety-four per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento máximo será de seis kilómetros por hora.",
+   "en": "Peak wind six kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Vamos a la segunda.",
+   "en": "On to the second.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hoy en Guadalajara, máxima veintisiete grados y mínima diecisiete.",
+   "en": "Today in «Guadalajara», a high of twenty-seven degrees and a low of seventeen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Habrá cielo con tormenta.",
+   "en": "There will be Thunderstorms.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La lluvia tiene un ochenta y ocho por ciento de probabilidad.",
+   "en": "Rain sits at eighty-eight per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento máximo será de siete kilómetros por hora.",
+   "en": "Peak wind seven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y cerramos.",
+   "en": "And we close.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hoy en Monterrey, máxima treinta y seis grados y mínima veinticuatro.",
+   "en": "Today in «Monterrey», a high of thirty-six degrees and a low of twenty-four.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se asoma un cielo nuboso.",
+   "en": "Cloud is on the way.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se calcula un veintisiete por ciento de probabilidad de lluvia.",
+   "en": "Rain is put at twenty-seven per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento máximo será de nueve kilómetros por hora.",
+   "en": "Peak wind nine kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Estos datos son del modelo del Centro Europeo, el ECMWF.",
+   "en": "These figures come from the European Centre model, the «ECMWF».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y eso es todo por el clima de hoy.",
+   "en": "And that is today's weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Friday 21 August",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "The forecast for Ciudad de México for Friday 21 August 2026 is a maximum of 22 degrees and",
+ "summary_en": [
+  "The forecast for Ciudad de México for Friday 21 August 2026 is a maximum of 22 degrees and",
+  "The forecast for Guadalajara for Friday 21 August 2026 is a maximum of 27 degrees and a mi"
+ ]
+}
