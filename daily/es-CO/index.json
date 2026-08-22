@@ -5,6 +5,46 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-CO-La actualidad de la mañana, sábado 22 de agosto",
+   "file": "podcast-daily-2026-08-22-morning-news-es-CO.json",
+   "bytes": 13341,
+   "sha256": "dfe171163a9004ad6711876a5c834fa570b65bafe0d458975cfa92c02641c498",
+   "date": "2026-08-22",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "La actualidad de la mañana, sábado 22 de agosto",
+   "title_en": "The morning news, Saturday 22 August",
+   "headline_en": "TikTok and its parent ByteDance agreed to pay four hundred million dollars to settle a Uni",
+   "summary_en": [
+    "TikTok and its parent ByteDance agreed to pay four hundred million dollars to settle a Uni",
+    "The UNGRD's assessment as of the twenty-second of August puts the toll from the seven poin",
+    "Forest fires keep Tolima on alert with blazes still active; separate outbreaks have destro"
+   ]
+  },
+  {
+   "id": "es-CO-El clima de hoy, sábado 22 de agosto",
+   "file": "podcast-daily-2026-08-22-morning-weather-es-CO.json",
+   "bytes": 6136,
+   "sha256": "5a89efcbe0d3ff6c637296ec019c17cc5bc60e0f8659b9d3b87ad85aa9c08a7a",
+   "date": "2026-08-22",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "El clima de hoy, sábado 22 de agosto",
+   "title_en": "Today's weather, Saturday 22 August",
+   "headline_en": "Today's ECMWF forecast for Cali, Bogota and Medellin: highs of twenty-eight, nineteen and",
+   "summary_en": [
+    "Today's ECMWF forecast for Cali, Bogota and Medellin: highs of twenty-eight, nineteen and"
+   ]
+  },
+  {
    "id": "es-CO-La actualidad de la mañana, viernes 21 de agosto",
    "file": "podcast-daily-2026-08-21-morning-news-es-CO.json",
    "bytes": 8560,

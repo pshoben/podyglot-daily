@@ -1,0 +1,258 @@
+{
+ "title": "El pronóstico, sábado 22 de agosto",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-weather",
+   "wpm": 195,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-22",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El pronóstico.",
+   "en": "The forecast.",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cómo viene el tiempo hoy sábado:",
+   "en": "How the weather looks today,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "frío en todo el país y sin lluvia a la vista,",
+   "en": "Saturday: cold across the country and no rain in sight,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según el modelo del Centro Europeo.",
+   "en": "according to the «European Centre» model.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De acuerdo con esa misma fuente,",
+   "en": "By that same source,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en ninguna de las tres ciudades la probabilidad de lluvia supera el cero por ciento.",
+   "en": "in none of the three cities does the chance of rain rise above zero per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Atención en Buenos Aires, que según el Centro Europeo amanece con la mínima más",
+   "en": "Watch out in «Buenos Aires», which according to the «European Centre» wakes to the lowest temperature",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "baja del día.",
+   "en": "of the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La ciudad arranca en dos grados y no pasa de trece,",
+   "en": "The city starts at two degrees and gets no higher than thirteen,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de acuerdo con ese modelo.",
+   "en": "by that model.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento sopla hasta catorce kilómetros por hora, según la misma fuente,",
+   "en": "The wind blows up to fourteen kilometres an hour, by the same source,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "así que la sensación será más cruda que el número.",
+   "en": "so it will feel rawer than the number suggests.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Provincia por provincia, según el Centro Europeo,",
+   "en": "Province by province, according to the «European Centre»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "las temperaturas son casi idénticas en Córdoba y Mendoza.",
+   "en": "temperatures are almost identical in «Córdoba» and «Mendoza».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según ese modelo, las dos van de cuatro grados a quince,",
+   "en": "On that model, both run from four degrees to fifteen,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con cielo nuboso durante toda la jornada.",
+   "en": "with cloud all day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La diferencia está en el viento.",
+   "en": "The difference is in the wind.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Córdoba llega a quince kilómetros por hora y en Mendoza se queda en nueve,",
+   "en": "In «Córdoba» it reaches fifteen kilometres an hour and in «Mendoza» it stays at nine,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de acuerdo con el Centro Europeo.",
+   "en": "according to the «European Centre».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es, según esos datos, un sábado de invierno clásico:",
+   "en": "It is, on those figures, a classic winter Saturday:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "nublado, seco y con poca amplitud entre una provincia y otra.",
+   "en": "cloudy, dry and with little spread from one province to the next.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dos grados separan las máximas de las tres ciudades, según la misma fuente.",
+   "en": "Two degrees separate the highs of the three cities, by the same source.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Así está el cielo.",
+   "en": "That is how the sky looks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Saturday 22 August",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Today's ECMWF forecast for Cordoba, Mendoza and Buenos Aires: highs of fifteen, fifteen an",
+ "summary_en": [
+  "Today's ECMWF forecast for Cordoba, Mendoza and Buenos Aires: highs of fifteen, fifteen an"
+ ]
+}

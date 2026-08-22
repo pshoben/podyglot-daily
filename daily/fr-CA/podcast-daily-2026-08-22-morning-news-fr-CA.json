@@ -1,0 +1,510 @@
+{
+ "title": "Le bulletin du matin, samedi 22 août",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-news",
+   "wpm": 185,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-22",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Samedi vingt-deux août, sept heures à Montréal. Le bulletin du matin.",
+   "en": "Saturday the twenty-second of August, seven o'clock in «Montréal». The morning bulletin.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Une juge américaine invalide le gel des visas imposé à soixante-quinze pays.",
+   "en": "An American judge strikes down the visa freeze imposed on seventy-five countries.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les négociations commerciales échouent, et de nouveaux droits de douane américains frappent les produits",
+   "en": "Trade talks collapse, and new American tariffs have been hitting Canadian goods",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "canadiens depuis minuit.",
+   "en": "since midnight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et le monument national dédié aux personnes LGBTQ+ est inauguré à Ottawa.",
+   "en": "And the national monument to «LGBTQ+» people is unveiled in «Ottawa».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On débute avec l'étranger.",
+   "en": "We start abroad.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Une juge fédérale américaine a déclaré illégal, vendredi,",
+   "en": "A federal judge in the «United States» ruled on",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le gel des procédures de visas de résidence permanente.",
+   "en": "Friday that the freeze on permanent residence visa processing was unlawful.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cette mesure avait été décrétée en janvier et visait soixante-quinze pays.",
+   "en": "The measure was ordered in January and covered seventy-five countries.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon Le Devoir, la juge Jeannette Vargas, du tribunal de New York,",
+   "en": "According to «Le Devoir», Judge «Jeannette Vargas» of the «New York» court",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a statué que la mesure était contraire à la loi.",
+   "en": "found that it was contrary to law.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est un nouveau revers pour la politique d'immigration du gouvernement américain.",
+   "en": "It is another setback for the American government's immigration policy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Radio-Canada, La Presse et Le Devoir rapportent cette décision.",
+   "en": "«Radio-Canada», «La Presse» and «Le Devoir» report the ruling.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Toujours à l'étranger, selon Radio-Canada et La Presse,",
+   "en": "Still abroad, according to «Radio-Canada» and «La Presse»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la Russie et l'Ukraine ont échangé de nouvelles frappes de longue portée.",
+   "en": "«Russia» and «Ukraine» have traded fresh long-range strikes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les bilans diffèrent selon les sources.",
+   "en": "The tolls differ from one source to another.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Radio-Canada fait état de quatre morts en Ukraine et de trois morts en Russie.",
+   "en": "«Radio-Canada» reports four dead in «Ukraine» and three in «Russia».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Presse compte pour sa part treize morts au total,",
+   "en": "«La Presse» counts thirteen dead in total,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dont sept en Ukraine entre vendredi soir et samedi.",
+   "en": "seven of them in «Ukraine» between Friday evening and Saturday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Presse précise que son bilan couvre la période de vendredi soir à samedi.",
+   "en": "«La Presse» notes that its count covers the period from Friday evening to Saturday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans l'actualité d'ici, place aux droits de douane.",
+   "en": "Here at home, we turn to tariffs.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les négociations entre Ottawa et Washington ont échoué.",
+   "en": "Talks between «Ottawa» and «Washington» have failed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Une nouvelle série de droits de douane américains de cinquante pour cent sur des produits",
+   "en": "A new round of American tariffs of fifty per cent on Canadian goods has",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "canadiens est en vigueur depuis minuit.",
+   "en": "been in force since midnight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le premier ministre Mark Carney a parlé d'une mauvaise entente dont son gouvernement s'est retiré,",
+   "en": "Prime Minister «Mark Carney» spoke of a bad deal his government walked away from,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les États-Unis ayant trop demandé.",
+   "en": "the «United States» having asked for too much.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a annoncé des contre-tarifs à compter du huit septembre.",
+   "en": "He announced counter-tariffs from the eighth of September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La riposte visera notamment l'acier, les produits laitiers et l'électronique.",
+   "en": "They will cover steel, dairy products and electronics in particular.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Radio-Canada, CBC, Le Devoir et Le Journal de Montréal rapportent cet échec et cette riposte.",
+   "en": "«Radio-Canada», «CBC», «Le Devoir» and «Le Journal de Montréal» report the collapse and the response.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au Québec, la première ministre Christine Fréchette convoque son conseil des ministres samedi matin.",
+   "en": "In «Québec», Premier «Christine Fréchette» is calling her cabinet together on Saturday morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle veut annoncer un plan d'aide aux entreprises",
+   "en": "She wants to announce a support plan for businesses",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et aux travailleurs touchés par ces nouveaux droits de douane.",
+   "en": "and workers hit by the new tariffs.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Presse et Le Devoir rapportent cette convocation.",
+   "en": "«La Presse» and «Le Devoir» report the meeting.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le reste de l'actualité, maintenant.",
+   "en": "Now the rest of the news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Trois personnes ont été blessées par balle à Fort Smith, dans les Territoires du Nord-Ouest.",
+   "en": "Three people were shot and wounded in «Fort Smith», in the «Northwest Territories».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'attaque est survenue au festival Fireweed,",
+   "en": "The attack happened at the «Fireweed Festival»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et un ordre de confinement visait Fort Smith,",
+   "en": "and a lockdown order covered «Fort Smith»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Bell Rock et Sawmill Island.",
+   "en": "«Bell Rock» and «Sawmill Island».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon CBC, le suspect était toujours en fuite au moment de ce reportage.",
+   "en": "According to «CBC», the suspect was still at large at the time of that report.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Radio-Canada et CBC rapportent cette attaque.",
+   "en": "«Radio-Canada» and «CBC» report the attack.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On termine sur une note plus douce.",
+   "en": "We finish on a gentler note.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le monument national dédié aux personnes LGBTQ+ a été inauguré.",
+   "en": "The national monument to «LGBTQ+» people has been unveiled.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il commémore les milliers de personnes écartées de l'armée,",
+   "en": "It commemorates the thousands of people forced out of the military,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de la Gendarmerie royale et de la fonction publique en raison de leur orientation sexuelle.",
+   "en": "the Mounted Police and the civil service because of their sexuality.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les personnes visées par cette discrimination espèrent que le lieu servira à l'apprentissage,",
+   "en": "Those who lived through that discrimination hope the site will be a place to learn,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "au recueillement et à la célébration.",
+   "en": "to reflect and to celebrate.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Presse et CBC rapportent cette inauguration.",
+   "en": "«La Presse» and «CBC» report the unveiling.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'actualité de ce matin.",
+   "en": "That is the news this morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Saturday 22 August",
+ "edition": "morning",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "A United States federal judge ruled unlawful the visa freeze imposed in January on seventy",
+ "summary_en": [
+  "A United States federal judge ruled unlawful the visa freeze imposed in January on seventy",
+  "Trade talks between Ottawa and Washington failed, a new round of fifty per cent United Sta",
+  "The national monument to LGBTQ+ people was inaugurated in Ottawa, commemorating the thousa"
+ ]
+}

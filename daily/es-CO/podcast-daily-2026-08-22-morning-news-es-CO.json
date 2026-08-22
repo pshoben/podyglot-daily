@@ -1,0 +1,520 @@
+{
+ "title": "La actualidad de la mañana, sábado 22 de agosto",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-22",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Sábado veintidós de agosto, siete de la mañana en Bogotá.",
+   "en": "Saturday the twenty-second of August, seven in the morning in «Bogotá».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La actualidad de la mañana.",
+   "en": "The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "TikTok acepta pagar cuatrocientos millones de dólares para cerrar un caso de privacidad infantil",
+   "en": "«TikTok» agrees to pay four hundred million dollars to close a child privacy case in",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en Estados Unidos.",
+   "en": "the «United States».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según la Unidad Nacional de Gestión del Riesgo,",
+   "en": "According to the «National Disaster Risk Management Unit»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sube a trescientos veintinueve el número de muertos por el terremoto.",
+   "en": "the earthquake death toll rises to three hundred and twenty-nine.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y según cuatro medios del país,",
+   "en": "And according to four of the country's outlets,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "los incendios forestales mantienen en alerta al Tolima.",
+   "en": "forest fires are keeping «Tolima» on alert.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Iniciamos con lo internacional.",
+   "en": "We get going with the world.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "TikTok y su empresa matriz, ByteDance,",
+   "en": "«TikTok» and its parent company, «ByteDance»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "aceptaron pagar cuatrocientos millones de dólares para resolver una demanda del Departamento de Justicia",
+   "en": "agreed to pay four hundred million dollars to settle a claim from the «United States» «Justice",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de Estados Unidos.",
+   "en": "Department».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La demanda acusaba a la aplicación de recopilar datos de menores de edad en violación",
+   "en": "The claim accused the app of collecting children's data in breach",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de una ley de privacidad.",
+   "en": "of a privacy law.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Colombiano, La República y Semana informan del acuerdo.",
+   "en": "«El Colombiano», «La República» and «Semana» report the settlement.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en Colombia, según la Unidad Nacional para la Gestión del Riesgo de Desastres,",
+   "en": "Here in «Colombia», according to the «National Disaster Risk Management Unit»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "hay un nuevo balance del terremoto del diez de agosto.",
+   "en": "there is a new assessment of the earthquake of the tenth of August.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según esa entidad, al veintidós de agosto hay trescientos veintinueve muertos,",
+   "en": "According to that body, as of the twenty-second of August there are three hundred and twenty-nine dead,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "cuatro mil seiscientos heridos y doscientos cuarenta y siete desaparecidos.",
+   "en": "four thousand six hundred injured and two hundred and forty-seven missing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según esa misma entidad, el sismo fue de magnitud siete coma cuatro",
+   "en": "By that same body, the quake measured seven point four",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y su epicentro estuvo en San José del Palmar, en el Chocó.",
+   "en": "and its epicentre was at «San José del Palmar», in «Chocó».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según la entidad, hay ciento setenta y seis mil ochocientas noventa viviendas averiadas",
+   "en": "According to the unit, a hundred and seventy-six thousand eight hundred and ninety homes are damaged",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y treinta y tres mil trescientas setenta y cuatro destruidas.",
+   "en": "and thirty-three thousand three hundred and seventy-four destroyed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según El Colombiano, en el edificio Vanessa de Cali se confirmó esta semana la recuperación",
+   "en": "According to «El Colombiano», in the «Vanessa» building in «Cali» the recovery of the last body was",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "del último cuerpo.",
+   "en": "confirmed this week.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Todas estas cifras son, según la propia entidad,",
+   "en": "All these figures are, by the body's own account,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de su balance de este sábado.",
+   "en": "from its assessment this Saturday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Colombiano y Semana recogen el nuevo reporte.",
+   "en": "«El Colombiano» and «Semana» carry the new report.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En otras noticias.",
+   "en": "In other news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según La República, los incendios forestales mantienen en alerta al Tolima,",
+   "en": "According to «La República», forest fires are keeping «Tolima» on alert,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "donde siguen activas varias conflagraciones.",
+   "en": "where several blazes are still burning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Distintos focos han devastado unas veinte mil hectáreas de bosques",
+   "en": "Separate outbreaks have destroyed some twenty thousand hectares of forest",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y cultivos en el occidente del país.",
+   "en": "and crops in the west of the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según El Tiempo, la gobernadora del Tolima denunció que podría haber manos criminales detrás",
+   "en": "According to «El Tiempo», the governor of «Tolima» said there could be criminal hands",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de los incendios, y las autoridades investigan si fueron provocados.",
+   "en": "behind the fires, and the authorities are investigating whether they were started deliberately.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según Semana, el Ministerio de Salud activó medidas por el humo",
+   "en": "According to «Semana», the «Health Ministry» has brought in measures over the smoke",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la calidad del aire.",
+   "en": "and air quality.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Son cuatro los medios que, según sus propias coberturas, siguen la emergencia.",
+   "en": "Four outlets are following the emergency, by their own coverage.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Gobierno anunció una reestructuración de ProColombia que fusiona sus oficinas con embajadas",
+   "en": "The government announced a restructuring of «ProColombia» that merges its offices with embassies",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y consulados para reducir costos.",
+   "en": "and consulates to cut costs.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El empresario Samuel Bluman fue designado nuevo director de la entidad.",
+   "en": "The businessman «Samuel Bluman» has been named the body's new director.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Colombiano, El Tiempo y La República informan del cambio.",
+   "en": "«El Colombiano», «El Tiempo» and «La República» report the change.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Terminamos con una buena noticia.",
+   "en": "We finish with a piece of good news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Cámara Colombiana de Productores de Acero de la ANDI",
+   "en": "The «ANDI» Colombian steel producers' chamber",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y cinco empresas siderúrgicas donarán mil toneladas de acero para reconstruir el Chocó.",
+   "en": "and five steel companies will donate a thousand tonnes of steel to rebuild «Chocó».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El aporte se hace a través del Banco de Materiales,",
+   "en": "The contribution is being made through the «Banco de Materiales»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "una iniciativa de la Asociación Nacional de Empresarios de Colombia.",
+   "en": "an initiative of the «National Business Association of Colombia».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Colombiano y La República informan de la donación.",
+   "en": "«El Colombiano» and «La República» report the donation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más importante.",
+   "en": "That is the most important of it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Saturday 22 August",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "TikTok and its parent ByteDance agreed to pay four hundred million dollars to settle a Uni",
+ "summary_en": [
+  "TikTok and its parent ByteDance agreed to pay four hundred million dollars to settle a Uni",
+  "The UNGRD's assessment as of the twenty-second of August puts the toll from the seven poin",
+  "Forest fires keep Tolima on alert with blazes still active; separate outbreaks have destro"
+ ]
+}

@@ -1,0 +1,370 @@
+{
+ "title": "El noticiario matutino, sábado 22 de agosto",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-news",
+   "wpm": 186,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-22",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Sábado veintidós de agosto, siete de la mañana en la Ciudad de México.",
+   "en": "Saturday the twenty-second of August, seven in the morning in «Mexico City».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El noticiario matutino.",
+   "en": "The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según El Economista y El Financiero,",
+   "en": "According to «El Economista» and «El Financiero»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "fracasan las negociaciones comerciales entre Estados Unidos y Canadá",
+   "en": "trade talks between the «United States» and «Canada» collapse",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y entran en vigor aranceles del cincuenta por ciento.",
+   "en": "and fifty per cent tariffs come into force.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Rubén Rocha Moya retoma la gubernatura de Sinaloa y los gobernadores de Morena marcan distancia.",
+   "en": "«Rubén Rocha Moya» takes back the governorship of «Sinaloa» and «Morena»'s governors distance themselves.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Arrancamos con lo internacional.",
+   "en": "We open abroad.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las conversaciones comerciales entre Washington y Ottawa se rompieron sin acuerdo.",
+   "en": "Trade talks between «Washington» and «Ottawa» broke down without a deal.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según esas mismas fuentes, desde este sábado están en vigor aranceles estadounidenses del cincuenta por",
+   "en": "By those same sources, American tariffs of fifty per cent on Canadian goods are in force",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ciento a productos canadienses.",
+   "en": "as of this Saturday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De acuerdo con El Financiero,",
+   "en": "According to «El Financiero», the «United States» trade representative, «Jamieson",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el representante comercial de Estados Unidos, Jamieson Greer,",
+   "en": "Greer», blamed «Canada» for the failure,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "responsabilizó a Canadá del fracaso y dijo que Ottawa pidió más de lo acordado.",
+   "en": "saying «Ottawa» asked for more than had been agreed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según El Economista, el primer ministro canadiense, Mark Carney,",
+   "en": "According to «El Economista», the Canadian prime minister, «Mark Carney»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "suspendió las negociaciones y advirtió que habrá represalias dólar por dólar.",
+   "en": "suspended the talks and warned there would be dollar-for-dollar retaliation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en México, Rubén Rocha Moya volvió a asumir la gubernatura de Sinaloa.",
+   "en": "Here in «México», «Rubén Rocha Moya» has taken up the governorship of «Sinaloa» again.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Había pedido licencia al cargo tras los señalamientos del Departamento de Justicia de Estados Unidos",
+   "en": "He had stood down from the post after the «United States» «Justice Department» alleged",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sobre presuntos nexos con el narcotráfico.",
+   "en": "links to drug trafficking.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Secretaría de Gobernación aclaró que el regreso fue una decisión personal del gobernador.",
+   "en": "The «Interior Ministry» clarified that the return was the governor's own personal decision.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Gobernadores de Morena se desmarcaron de la decisión y le pidieron madurez y responsabilidad.",
+   "en": "«Morena» governors distanced themselves from the decision and called on him to show maturity and responsibility.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Economista y El Financiero dan cuenta del regreso",
+   "en": "«El Economista» and «El Financiero» cover the return",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y de las reacciones dentro del partido.",
+   "en": "and the reaction inside the party.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En otros temas.",
+   "en": "On other subjects.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La presidenta Claudia Sheinbaum amaneció el viernes con un cuadro gripal fuerte,",
+   "en": "President «Claudia Sheinbaum» woke on Friday with a heavy bout of flu, with a cough",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con tos y fiebre.",
+   "en": "and a fever.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según La Jornada, es la primera vez que se ausenta de la conferencia matutina por",
+   "en": "According to «La Jornada», it is the first time she has missed the morning press conference for health reasons,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "motivos de salud, y la secretaria de Gobernación, Rosa Icela Rodríguez,",
+   "en": "and the interior minister, «Rosa Icela Rodríguez», led",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la encabezó en su lugar.",
+   "en": "it in her place.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Economista, El Financiero y La Jornada informan de la ausencia.",
+   "en": "«El Economista», «El Financiero» and «La Jornada» report the absence.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Donald Trump afirmó que su gobierno ya comenzó a trabajar en un nuevo acuerdo",
+   "en": "«Donald Trump» said his government had already begun work on a new trade",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "comercial con México.",
+   "en": "deal with «México».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El mandatario estadounidense subrayó la importancia de proteger a los agricultores de su país.",
+   "en": "The American president stressed the importance of protecting his country's farmers.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Economista y El Financiero recogen la declaración.",
+   "en": "«El Economista» and «El Financiero» carry the remark.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más destacado.",
+   "en": "That is the pick of the news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Saturday 22 August",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "Trade talks between the United States and Canada collapsed and fifty per cent American tar",
+ "summary_en": [
+  "Trade talks between the United States and Canada collapsed and fifty per cent American tar",
+  "Ruben Rocha Moya resumed the governorship of Sinaloa after standing down over United State",
+  "President Claudia Sheinbaum woke on Friday with a heavy bout of flu, cough and fever, miss"
+ ]
+}

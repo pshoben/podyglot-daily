@@ -1,0 +1,440 @@
+{
+ "title": "El noticiero de la mañana, sábado 22 de agosto",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-22",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Sábado veintidós de agosto, siete de la mañana en Buenos Aires.",
+   "en": "Saturday the twenty-second of August, seven in the morning in «Buenos Aires».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El noticiero de la mañana.",
+   "en": "The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Estados Unidos impone aranceles del cincuenta por ciento a Canadá y Ottawa",
+   "en": "The «United States» imposes fifty per cent tariffs on «Canada» and «Ottawa» answers",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "responde con la misma cifra.",
+   "en": "with the same figure.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La justicia boliviana dicta ciento ochenta días de prisión preventiva para Fernando Cerimedo.",
+   "en": "The Bolivian courts order a hundred and eighty days of pre-trial detention for «Fernando Cerimedo».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y los gobernadores del norte piden que el acuerdo con la Nación sea permanente.",
+   "en": "And the northern governors ask for the agreement with the national government to be made permanent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos por lo internacional.",
+   "en": "We begin overseas.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Estados Unidos volvió a imponer aranceles del cincuenta por ciento a los productos canadienses.",
+   "en": "The «United States» has again imposed fifty per cent tariffs on Canadian goods.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El primer ministro de Canadá, Mark Carney,",
+   "en": "«Canada»'s prime minister, «Mark Carney»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "prometió responder dólar por dólar, con la misma cifra.",
+   "en": "promised to answer dollar for dollar, with the same figure.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según Ámbito, la medida afecta a unos veinte mil millones de dólares en exportaciones canadienses.",
+   "en": "According to «Ámbito», the measure affects some twenty billion dollars in Canadian exports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso representa poco más del cinco por ciento de las ventas externas de ese país.",
+   "en": "That is a little over five per cent of the country's foreign sales.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ámbito y La Nación informan de la medida y de la respuesta.",
+   "en": "«Ámbito» and «La Nación» report the measure and the response.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Acá en la Argentina, la justicia de Bolivia dictó ciento ochenta días de prisión preventiva",
+   "en": "Here in «Argentina», the Bolivian courts have ordered a hundred and eighty days of pre-trial detention",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para Fernando Cerimedo.",
+   "en": "for «Fernando Cerimedo».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El exasesor está acusado por el ataque a balazos contra su novia, Nadia Beller.",
+   "en": "The former adviser is accused over the shooting attack on his girlfriend, «Nadia Beller».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La decisión es del juez Wilson Espada,",
+   "en": "The decision came from Judge «Wilson Espada»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y Cerimedo permanecerá en la cárcel de Palmasola mientras avanza la investigación.",
+   "en": "and «Cerimedo» will stay in «Palmasola» prison while the investigation goes on.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Beller difundió esta semana imágenes de sus heridas en sus redes sociales.",
+   "en": "«Beller» posted images of her injuries on social media this week.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según Ámbito y La Nación,",
+   "en": "According to «Ámbito» and «La Nación»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la causa sigue abierta en Bolivia.",
+   "en": "the case remains open in «Bolivia».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También en la agenda.",
+   "en": "Also on the agenda.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El presidente Javier Milei negó que la morosidad sea alta",
+   "en": "President «Javier Milei» denied that loan arrears are high",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y dijo que no se puede culpar al Gobierno.",
+   "en": "and said the government cannot be blamed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Habló durante más de una hora",
+   "en": "He spoke for more than an hour",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y media en la Bolsa de Comercio de Rosario, ante empresarios.",
+   "en": "and a half at the «Rosario» stock exchange, in front of business leaders.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los datos que cita Ámbito muestran que la mora de las familias llegó al doce",
+   "en": "The figures «Ámbito» cites show household arrears reaching twelve point",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "coma ocho por ciento, frente al tres coma cinco de las empresas.",
+   "en": "eight per cent, against three point five for companies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ámbito y La Nación recogen sus declaraciones.",
+   "en": "«Ámbito» and «La Nación» carry his remarks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Una jueza federal de Estados Unidos anuló la suspensión de visas que el Gobierno de",
+   "en": "A federal judge in the «United States» struck down the visa suspension that",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ese país impuso a setenta y cinco países.",
+   "en": "the American government imposed on seventy-five countries.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Entre ellos están Brasil, Uruguay y Colombia.",
+   "en": "«Brazil», «Uruguay» and «Colombia» are among them.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Clarín y La Nación informan del fallo.",
+   "en": "«Clarín» and «La Nación» report the ruling.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Terminamos con las provincias.",
+   "en": "We finish with the provinces.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los gobernadores del norte reclaman que sea permanente el acuerdo con la Nación por los",
+   "en": "The northern governors are asking that the agreement with the national government on support for disadvantaged",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "beneficios a zonas desfavorecidas.",
+   "en": "areas be made permanent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Celebran la base de consenso ya alcanzada,",
+   "en": "They welcome the consensus already reached,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pero piden garantías para que se sostenga en el tiempo.",
+   "en": "but want guarantees that it will hold over time.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En paralelo, la Casa Rosada avanza con el traspaso de obras a las provincias.",
+   "en": "At the same time, the government is pressing ahead with handing public works over to the provinces.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ámbito y La Nación describen ese reencauzamiento del diálogo.",
+   "en": "«Ámbito» and «La Nación» describe that return to dialogue.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo central.",
+   "en": "That is the heart of it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Saturday 22 August",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "The United States imposed fifty per cent tariffs on Canadian goods and Mark Carney promise",
+ "summary_en": [
+  "The United States imposed fifty per cent tariffs on Canadian goods and Mark Carney promise",
+  "A Bolivian court ordered a hundred and eighty days of pre-trial detention for Fernando Cer",
+  "Northern governors are asking that the agreement with the national government on benefits"
+ ]
+}

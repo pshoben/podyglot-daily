@@ -1,0 +1,248 @@
+{
+ "title": "El clima de hoy, sábado 22 de agosto",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-weather",
+   "wpm": 195,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-22",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El clima de hoy.",
+   "en": "Today's weather.",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Así amanece el cielo hoy sábado:",
+   "en": "Here is how the sky looks today,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "agua en las tres ciudades, según el modelo del Centro Europeo.",
+   "en": "Saturday: wet in all three cities, according to the «European Centre» model.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pendientes en Cali, donde según esa fuente la probabilidad de chubascos llega al noventa",
+   "en": "Keep an eye on «Cali», where by that source the chance of showers",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y ocho por ciento.",
+   "en": "reaches ninety-eight per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es prácticamente una certeza, y es el dato más alto del país hoy de acuerdo",
+   "en": "That is as good as certain, and it is the highest figure in the country today",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con ese modelo.",
+   "en": "on that model.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según el Centro Europeo, la capital vallecaucana se mueve entre veintidós y veintiocho grados,",
+   "en": "According to the «European Centre», the «Valle del Cauca» capital moves between twenty-two and twenty-eight degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con viento muy flojo, cuatro kilómetros por hora.",
+   "en": "with a very light wind, four kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Región por región, según ese mismo modelo, Bogotá amanece con llovizna.",
+   "en": "Region by region, according to that same model, «Bogotá» wakes to drizzle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad es del ochenta y ocho por ciento",
+   "en": "The chance is eighty-eight per cent",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la ciudad va de doce a diecinueve grados, según esa fuente.",
+   "en": "and the city runs from twelve to nineteen degrees, by that source.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento bogotano es el más fuerte de las tres, quince kilómetros por hora,",
+   "en": "«Bogotá»'s wind is the strongest of the three, at fifteen kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de acuerdo con el Centro Europeo.",
+   "en": "according to the «European Centre».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Medellín es, según esos datos,",
+   "en": "«Medellín» is, on those figures,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la que mejor sale librada.",
+   "en": "the one that comes off best.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí la llovizna es probable a medias, cincuenta y cinco por ciento,",
+   "en": "There the drizzle is a coin toss, fifty-five per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la temperatura va de dieciocho a veintiocho grados, según el mismo modelo.",
+   "en": "and the temperature runs from eighteen to twenty-eight degrees, on the same model.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cali y Medellín comparten la misma máxima, veintiocho grados, de acuerdo con esa fuente.",
+   "en": "«Cali» and «Medellín» share the same high, twenty-eight degrees, by that source.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Bogotá se queda nueve grados por debajo de las dos, según el Centro Europeo.",
+   "en": "«Bogotá» stays nine degrees below both, according to the «European Centre».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Saque el paraguas en cualquiera de las tres.",
+   "en": "Take an umbrella in any of the three.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese es el clima.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Saturday 22 August",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "Today's ECMWF forecast for Cali, Bogota and Medellin: highs of twenty-eight, nineteen and",
+ "summary_en": [
+  "Today's ECMWF forecast for Cali, Bogota and Medellin: highs of twenty-eight, nineteen and"
+ ]
+}

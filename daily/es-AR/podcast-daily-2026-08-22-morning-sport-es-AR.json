@@ -1,0 +1,199 @@
+{
+ "title": "El deporte, sábado 22 de agosto",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-sport",
+   "wpm": 195,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-22",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El deporte.",
+   "en": "Sport.",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hoy se juega la sexta fecha del Torneo Clausura, con días,",
+   "en": "Today brings the sixth round of the «Clausura» tournament, with dates,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "horarios y árbitros ya designados.",
+   "en": "kick-off times and referees already appointed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La jornada se abrió el viernes con Aldosivi ante Unión.",
+   "en": "The round opened on Friday with «Aldosivi» against «Unión».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Entre los cruces de este fin de semana aparecen Huracán con Deportivo Riestra,",
+   "en": "Among this weekend's fixtures are «Huracán» against «Deportivo Riestra»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Newell's con Banfield y Atlético Tucumán con Instituto de Córdoba.",
+   "en": "«Newell's» against «Banfield» and «Atlético Tucumán» against «Instituto de Córdoba».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ámbito y Clarín publican la programación completa,",
+   "en": "«Ámbito» and «Clarín» publish the full schedule,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con los horarios de cada partido.",
+   "en": "with the kick-off time for each match.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo que viene esta tarde tiene también mercado de pases.",
+   "en": "What is coming this afternoon also involves the transfer market.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El arquero de la Selección argentina, Emiliano Martínez,",
+   "en": "The «Argentina» goalkeeper «Emiliano Martínez» has",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le comunicó a su entrenador que quiere dejar el Aston Villa.",
+   "en": "told his manager he wants to leave «Aston Villa».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Así lo confirmó el propio director técnico, Unai Emery,",
+   "en": "The manager himself, «Unai Emery», confirmed it,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que explicó que por eso el club decidió fichar a otro arquero.",
+   "en": "explaining that this is why the club decided to sign another keeper.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Dibu busca un nuevo reto en su carrera,",
+   "en": "«El Dibu» is looking for a new challenge in his career,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según dejó trascender el entrenador.",
+   "en": "according to what the manager let be known.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ámbito y Clarín informan de la confirmación.",
+   "en": "«Ámbito» and «Clarín» report the confirmation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es el deporte.",
+   "en": "That is sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Saturday 22 August",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "The sixth round of the Clausura tournament is being played with dates, times and referees",
+ "summary_en": [
+  "The sixth round of the Clausura tournament is being played with dates, times and referees",
+  "Aston Villa manager Unai Emery confirmed that Argentina goalkeeper Emiliano Martinez asked"
+ ]
+}

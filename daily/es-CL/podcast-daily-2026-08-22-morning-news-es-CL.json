@@ -1,0 +1,320 @@
+{
+ "title": "Las noticias de la mañana, sábado 22 de agosto",
+ "dialect": "es-CL",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CL-daily-news",
+   "wpm": 205,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-22",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Sábado veintidós de agosto, siete de la mañana en Santiago.",
+   "en": "Saturday the twenty-second of August, seven in the morning in «Santiago».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las noticias de la mañana.",
+   "en": "The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La candidatura de Michelle Bachelet a la Secretaría General de la ONU sufre",
+   "en": "«Michelle Bachelet»'s candidacy for «United Nations» Secretary-General suffers",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un nuevo revés.",
+   "en": "another setback.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La reforma constitucional de seguridad del Gobierno abre un debate sobre sus límites.",
+   "en": "The government's constitutional security reform opens a debate about its limits.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el canciller cierra en Shanghái una visita centrada en las exportaciones chilenas.",
+   "en": "And the foreign minister closes a visit to «Shanghai» focused on Chilean exports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Partimos con lo internacional.",
+   "en": "We start with the world.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La candidatura de la expresidenta Michelle Bachelet recibió seis votos en contra en el segundo",
+   "en": "Former president «Michelle Bachelet»'s candidacy drew six votes against in the «Security Council»'s second",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sondeo informal del Consejo de Seguridad.",
+   "en": "informal straw poll.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasó de seis apoyos en la primera consulta a solo dos en esta ronda,",
+   "en": "She went from six votes of support in the first round to only two in this one,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "mientras la mayoría de sus competidores mejoraba.",
+   "en": "while most of her rivals improved.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según Ex-Ante, la postulación arrastraba desde el comienzo los reparos de la administración estadounidense.",
+   "en": "According to «Ex-Ante», the bid carried the «United States» administration's objections from the outset.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La expresidenta definirá con Brasil y México hasta dónde llega con su candidatura.",
+   "en": "The former president will decide with «Brazil» and «México» how far to take her candidacy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Radio Universidad de Chile y Ex-Ante siguen el proceso.",
+   "en": "«Radio Universidad de Chile» and «Ex-Ante» are following the process.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Acá en Chile, la reforma constitucional de seguridad del Gobierno de José Antonio Kast domina",
+   "en": "Here in «Chile», the security reform to the constitution from «José Antonio Kast»'s government is",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el debate político.",
+   "en": "dominating political debate.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Académicos consultados por Radio Universidad de Chile hablan de ciertos tintes autoritarios en el proyecto.",
+   "en": "Academics interviewed by «Radio Universidad de Chile» speak of a certain authoritarian streak in the bill.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Radio Universidad de Chile, CIPER y Ex-Ante cubren la discusión desde distintos ángulos.",
+   "en": "«Radio Universidad de Chile», «CIPER» and «Ex-Ante» all cover the argument from different angles.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Terminamos en China.",
+   "en": "We finish in «China».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El ministro de Relaciones Exteriores, Francisco Pérez Mackenna,",
+   "en": "The foreign minister, «Francisco Pérez Mackenna»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "cerró una visita al puerto de Shanghái.",
+   "en": "has closed a visit to the port of «Shanghai».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según Radio Universidad de Chile,",
+   "en": "According to «Radio Universidad de Chile»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "recorrió el terminal de contenedores más grande del mundo,",
+   "en": "he toured the largest container terminal in the world,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que concentra cerca de la mitad de los envíos chilenos a China.",
+   "en": "which handles close to half of «Chile»'s shipments to «China».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El canciller destacó la relación comercial con China,",
+   "en": "The minister highlighted the trading relationship with «China»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y recordó que el intercambio de bienes ha crecido de forma sostenida desde el tratado",
+   "en": "recalling that trade in goods has grown steadily since the free",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de libre comercio.",
+   "en": "trade agreement.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Radio Universidad de Chile y La Tercera informan de la visita.",
+   "en": "«Radio Universidad de Chile» and «La Tercera» report the visit.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo principal.",
+   "en": "That is the main of it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Saturday 22 August",
+ "edition": "morning",
+ "region": "es-CL",
+ "region_label": "Chile",
+ "headline_en": "Michelle Bachelet's UN Secretary-General candidacy took six votes against in the Security",
+ "summary_en": [
+  "Michelle Bachelet's UN Secretary-General candidacy took six votes against in the Security",
+  "The Kast government's constitutional security reform is dominating debate, with academics",
+  "Foreign minister Francisco Perez Mackenna closed a visit to the port of Shanghai, touring"
+ ]
+}

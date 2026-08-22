@@ -1,0 +1,51 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-CA",
+ "date": "2026-08-22",
+ "episodes": [
+  {
+   "id": "fr-CA-Le bulletin du matin, samedi 22 août",
+   "file": "podcast-daily-2026-08-22-morning-news-fr-CA.json",
+   "bytes": 13318,
+   "sha256": "bfb4e893c56a94c567689da55f21deb068336213bb8645f6ba12e69b2c784025",
+   "date": "2026-08-22",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin du matin, samedi 22 août",
+   "title_en": "The morning news, Saturday 22 August",
+   "headline_en": "A United States federal judge ruled unlawful the visa freeze imposed in January on seventy",
+   "summary_en": [
+    "A United States federal judge ruled unlawful the visa freeze imposed in January on seventy",
+    "Trade talks between Ottawa and Washington failed, a new round of fifty per cent United Sta",
+    "The national monument to LGBTQ+ people was inaugurated in Ottawa, commemorating the thousa"
+   ]
+  },
+  {
+   "id": "fr-CA-Le bulletin météo, samedi 22 août",
+   "file": "podcast-daily-2026-08-22-morning-weather-fr-CA.json",
+   "bytes": 6453,
+   "sha256": "3c509a6e66b9032b3435c527e370d2c550070fc70bc14939b008b831f95f9f8d",
+   "date": "2026-08-22",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin météo, samedi 22 août",
+   "title_en": "Today's weather, Saturday 22 August",
+   "headline_en": "According to Environnement Canada: Today's GEM forecast for Montreal, Quebec City and Sagu",
+   "summary_en": [
+    "According to Environnement Canada: Today's GEM forecast for Montreal, Quebec City and Sagu"
+   ]
+  }
+ ],
+ "content": "88b542bd50c1a8484d590678db20cfb575a0cf7c09a5c4aeff758c75007a4929",
+ "rev": 1,
+ "updated": "2026-08-22T17:43:52.360Z"
+}

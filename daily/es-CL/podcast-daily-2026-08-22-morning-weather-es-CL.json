@@ -1,0 +1,268 @@
+{
+ "title": "El estado del tiempo, sábado 22 de agosto",
+ "dialect": "es-CL",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CL-daily-weather",
+   "wpm": 205,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-22",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El estado del tiempo.",
+   "en": "The state of the weather.",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Así estará el cielo hoy sábado:",
+   "en": "Here is how the sky will look today,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "nuboso de norte a sur, y seco en las tres ciudades,",
+   "en": "Saturday: cloudy from north to south, and dry in all three cities,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según el modelo del Centro Europeo.",
+   "en": "according to the «European Centre» model.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De acuerdo con esa fuente,",
+   "en": "By that source,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la probabilidad de lluvia es de cero por ciento en Valparaíso, Santiago y Concepción.",
+   "en": "the chance of rain is zero per cent in «Valparaíso», «Santiago» and «Concepción».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El dato del día está en la costa.",
+   "en": "The figure of the day is on the coast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Valparaíso llega a veintiocho grados,",
+   "en": "«Valparaíso» reaches twenty-eight degrees, the highest of the day,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la máxima más alta de la jornada,",
+   "en": "with a low of twelve,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con una mínima de doce, según el Centro Europeo.",
+   "en": "according to the «European Centre».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es una cifra alta para un sábado de agosto en el puerto.",
+   "en": "That is a high number for a Saturday in August in the port.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De región en región, según ese mismo modelo,",
+   "en": "Region by region, according to that same model,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Santiago queda cuatro grados por debajo.",
+   "en": "«Santiago» is four degrees below.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según el Centro Europeo, la capital va de siete a veinticuatro grados,",
+   "en": "According to the «European Centre», the capital runs from seven to twenty-four degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el viento allí es casi nulo, tres kilómetros por hora.",
+   "en": "and the wind there is next to nothing, three kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es el aire más quieto de las tres ciudades, de acuerdo con esos datos,",
+   "en": "It is the stillest air of the three cities, on those figures,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y con cielo cubierto eso suele dejar la mañana pesada.",
+   "en": "and with cloud cover that tends to leave the morning heavy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Concepción tiene la máxima más baja, veintidós grados,",
+   "en": "«Concepción» has the lowest high, twenty-two degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y comparte con Santiago la mínima de siete, según la misma fuente.",
+   "en": "and shares «Santiago»'s low of seven, by the same source.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la zona sur el viento se mueve algo más, doce kilómetros por hora,",
+   "en": "In the south the wind moves a little more,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de acuerdo con ese modelo.",
+   "en": "at twelve kilometres an hour, according to that model.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Precaución en la costa por la amplitud térmica: según el Centro Europeo,",
+   "en": "Take care on the coast for the swing in temperature: according to the «European Centre»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dieciséis grados separan la mínima de la máxima en Valparaíso.",
+   "en": "sixteen degrees separate the low from the high in «Valparaíso».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese es el panorama.",
+   "en": "That is the picture.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Saturday 22 August",
+ "edition": "morning",
+ "region": "es-CL",
+ "region_label": "Chile",
+ "headline_en": "Today's ECMWF forecast for Valparaiso, Santiago and Concepcion: highs of twenty-eight, twe",
+ "summary_en": [
+  "Today's ECMWF forecast for Valparaiso, Santiago and Concepcion: highs of twenty-eight, twe"
+ ]
+}

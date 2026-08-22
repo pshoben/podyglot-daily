@@ -1,0 +1,299 @@
+{
+ "title": "El clima, sábado 22 de agosto",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-weather",
+   "wpm": 186,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-22",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El clima.",
+   "en": "The weather.",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cuidado en el noroeste y el occidente:",
+   "en": "Take care in the north-west and the west:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según el Servicio Meteorológico Nacional,",
+   "en": "according to the «National Weather Service»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "hoy se esperan lluvias intensas en Sinaloa, Nayarit, Jalisco y Michoacán.",
+   "en": "heavy rain is expected today in «Sinaloa», «Nayarit», «Jalisco» and «Michoacán».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De acuerdo con esa misma dependencia,",
+   "en": "By the same agency,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "los acumulados pueden llegar a ciento cincuenta milímetros en esas cuatro entidades.",
+   "en": "totals could reach a hundred and fifty millimetres across those four states.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según El Economista, este pronóstico es del Servicio Meteorológico Nacional.",
+   "en": "According to «El Economista», this forecast comes from the «Servicio Meteorológico Nacional».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Así viene el cielo hoy en el resto del país,",
+   "en": "Here is how the sky looks today across the rest of the country,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según el modelo del Centro Europeo.",
+   "en": "according to the «European Centre» model.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la Ciudad de México, de acuerdo con ese modelo,",
+   "en": "In «Mexico City», by that model, the day clouds over",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el día se cubre y llueve.",
+   "en": "and turns wet.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de lluvia es del noventa y seis por ciento,",
+   "en": "The chance of rain is ninety-six per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con máxima de veintidós grados y mínima de trece, según la misma fuente.",
+   "en": "with a high of twenty-two degrees and a low of thirteen, by the same source.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento se queda bajo, nueve kilómetros por hora,",
+   "en": "The wind stays light, nine kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de acuerdo con el mismo modelo.",
+   "en": "according to the same model.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por estados, en Guadalajara la lluvia es prácticamente segura,",
+   "en": "State by state, in «Guadalajara» rain is all but certain,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con una probabilidad del cien por ciento según el Centro Europeo.",
+   "en": "at a hundred per cent according to the «European Centre».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La capital jalisciense va de dieciocho a veintisiete grados,",
+   "en": "The «Jalisco» capital runs from eighteen to twenty-seven degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con viento de siete kilómetros por hora, de acuerdo con esa fuente.",
+   "en": "with wind at seven kilometres an hour, by that source.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Monterrey es la excepción del día, según el mismo modelo.",
+   "en": "«Monterrey» is the exception today, on the same model.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí no se espera lluvia y el termómetro sube hasta treinta y ocho grados,",
+   "en": "No rain is expected there and the temperature climbs to thirty-eight degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con mínima de veinticuatro, de acuerdo con el Centro Europeo.",
+   "en": "with a low of twenty-four, according to the «European Centre».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento regiomontano es el más fuerte de las tres ciudades,",
+   "en": "«Monterrey»'s wind is the strongest of the three cities,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "diecinueve kilómetros por hora, según esa misma fuente.",
+   "en": "at nineteen kilometres an hour, by that same source.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Entre Monterrey y la capital hay dieciséis grados de diferencia en la máxima,",
+   "en": "Between «Monterrey» and the capital there is a sixteen-degree gap in the high,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de acuerdo con los datos del modelo.",
+   "en": "according to the model's figures.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ahí está el panorama.",
+   "en": "There is the picture.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Saturday 22 August",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "The Servicio Meteorológico Nacional forecasts heavy rain on Saturday in Sinaloa, Nayarit,",
+ "summary_en": [
+  "The Servicio Meteorológico Nacional forecasts heavy rain on Saturday in Sinaloa, Nayarit,",
+  "Today's ECMWF forecast for Mexico City, Guadalajara and Monterrey: highs of twenty-two, tw"
+ ]
+}

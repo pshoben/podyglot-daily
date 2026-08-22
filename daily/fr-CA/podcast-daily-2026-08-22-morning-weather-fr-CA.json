@@ -1,0 +1,258 @@
+{
+ "title": "Le bulletin météo, samedi 22 août",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-weather",
+   "wpm": 185,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-22",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le bulletin météo.",
+   "en": "The weather bulletin.",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Du côté du ciel, la journée d'aujourd'hui s'annonce tranquille sur le Québec,",
+   "en": "Looking at the sky, today looks quiet across «Québec»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après le modèle GEM d'Environnement Canada.",
+   "en": "according to «Environment Canada»'s «GEM» model.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon cette même source, aucune pluie n'est attendue à Montréal ni au Saguenay.",
+   "en": "By that same source, no rain is expected in «Montréal» or in the «Saguenay».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Montréal, selon le modèle GEM,",
+   "en": "In «Montréal», according to the «GEM» model,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le ciel reste dégagé toute la journée.",
+   "en": "the sky stays clear all day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Toujours selon Environnement Canada, la métropole évolue entre onze degrés au plus frais",
+   "en": "Still according to «Environment Canada», the city runs between eleven degrees at its coolest",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et vingt-six degrés au plus chaud.",
+   "en": "and twenty-six at its warmest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y souffle au maximum à seize kilomètres par heure, d'après la même source.",
+   "en": "The wind there tops out at sixteen kilometres an hour, by the same source.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'une région québécoise à l'autre,",
+   "en": "From one part of «Québec» to another,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la capitale est un peu plus grise, selon la même source.",
+   "en": "the provincial capital is a little greyer, by the same source.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Québec, selon le modèle GEM, le ciel est couvert,",
+   "en": "In «Québec City», according to the «GEM» model, the sky is overcast,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec une probabilité de pluie de dix pour cent.",
+   "en": "with a one in ten chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon Environnement Canada, la ville se joue entre onze et vingt-quatre degrés,",
+   "en": "According to «Environment Canada», the city plays out between eleven and twenty-four degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un vent pouvant atteindre dix-huit kilomètres par heure.",
+   "en": "with wind reaching eighteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au Saguenay, selon la même source,",
+   "en": "In the «Saguenay», according to the same source,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le ciel est peu nuageux et la journée reste sèche.",
+   "en": "the sky is partly cloudy and the day stays dry.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La région passerait de dix degrés au petit matin à vingt-cinq degrés en après-midi,",
+   "en": "The region would go from ten degrees in the early morning to twenty-five in the afternoon,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon ce modèle.",
+   "en": "on that model.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est, d'après Environnement Canada, la nuit la plus fraîche des trois villes.",
+   "en": "It is, according to «Environment Canada», the coolest night of the three cities.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon Environnement Canada, l'écart entre les régions reste faible, deux degrés seulement séparent les maximales.",
+   "en": "According to «Environment Canada», the gap between regions stays small: just two degrees separate the highs.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Habillez-vous en conséquence.",
+   "en": "Dress accordingly.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Saturday 22 August",
+ "edition": "morning",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "According to Environnement Canada: Today's GEM forecast for Montreal, Quebec City and Sagu",
+ "summary_en": [
+  "According to Environnement Canada: Today's GEM forecast for Montreal, Quebec City and Sagu"
+ ]
+}
