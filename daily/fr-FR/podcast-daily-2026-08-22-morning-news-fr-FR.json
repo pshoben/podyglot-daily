@@ -1,0 +1,530 @@
+{
+ "title": "Le journal du matin, samedi 22 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-22",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Samedi vingt-deux août, sept heures à Paris. Le journal du matin.",
+   "en": "Saturday the twenty-second of August, seven o'clock in «Paris». The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au moins seize personnes meurent dans une frappe russe sur un centre commercial en Ukraine.",
+   "en": "At least sixteen people die in a Russian strike on a shopping centre in «Ukraine».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les écologistes et La France insoumise font leur rentrée politique.",
+   "en": "The Greens and «La France insoumise» begin their political new season.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et la forêt de Fontainebleau rouvre au public après les incendies de juillet.",
+   "en": "And the forest of «Fontainebleau» reopens to the public after July's fires.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par l'étranger, en Ukraine.",
+   "en": "We start abroad, in «Ukraine».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un centre commercial de Kryvyï Rih,",
+   "en": "A shopping centre in «Kryvyï Rih»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans le centre du pays,",
+   "en": "in the centre of the country,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a été frappé vendredi par des drones russes.",
+   "en": "was hit on Friday by Russian drones.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au moins seize personnes sont mortes.",
+   "en": "At least sixteen people have died.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon les secours, environ cent trente personnes ont été blessées, dont vingt-trois enfants.",
+   "en": "According to the emergency services, around a hundred and thirty people were injured, twenty-three of them children.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce bilan est provisoire et peut encore évoluer.",
+   "en": "That toll is provisional and may still change.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Kryvyï Rih est la ville natale du président ukrainien, Volodymyr Zelensky,",
+   "en": "«Kryvyï Rih» is the home town of the Ukrainian president, «Volodymyr Zelensky»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qui a dénoncé une attaque cynique et ignoble.",
+   "en": "who condemned a cynical and vile attack.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Union européenne a parlé d'une terreur planifiée.",
+   "en": "The European Union spoke of planned terror.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans la nuit de vendredi à samedi,",
+   "en": "During the night from Friday to Saturday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de nouvelles frappes ont fait au moins deux morts à Kiev et à Zaporijjia,",
+   "en": "further strikes killed at least two people in «Kyiv» and «Zaporizhzhia», according",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon les autorités locales.",
+   "en": "to local authorities.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "France Télévisions, Le Figaro, Libération,",
+   "en": "«France Télévisions», «Le Figaro», «Libération»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Monde et Le Télégramme rapportent ce bilan.",
+   "en": "«Le Monde» and «Le Télégramme» report this toll.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, place à la rentrée politique.",
+   "en": "In «France», on to the political new season.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les Écologistes tiennent leurs journées d'été à Grenoble.",
+   "en": "The Greens are holding their summer conference in «Grenoble».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Leur secrétaire nationale, Marine Tondelier,",
+   "en": "Their national secretary, «Marine Tondelier»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y a plaidé vendredi pour l'union de la gauche.",
+   "en": "argued there on Friday for unity on the left.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aucune famille politique du camp progressiste n'est capable de gagner seule, a-t-elle déclaré.",
+   "en": "No political family in the progressive camp is capable of winning alone, she said.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Samedi, les écologistes reçoivent l'intersyndicale des pompiers et veulent porter l'enjeu climatique dans la campagne.",
+   "en": "On Saturday the Greens are receiving the firefighters' union group and want to carry the climate question into the campaign.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De son côté, La France insoumise tient ses universités d'été ce week-end.",
+   "en": "«La France insoumise» is holding its summer school this weekend.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Jean-Luc Mélenchon doit y prononcer un discours dimanche.",
+   "en": "«Jean-Luc Mélenchon» is due to give a speech there on Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Monde, France Télévisions et Sud Ouest suivent ces deux rendez-vous.",
+   "en": "«Le Monde», «France Télévisions» and «Sud Ouest» are following both gatherings.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité.",
+   "en": "In the rest of the news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les nouveaux droits de douane américains sur une série de produits canadiens sont entrés en",
+   "en": "The new American tariffs on a range of Canadian products came into",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "vigueur ce samedi.",
+   "en": "force this Saturday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ils atteignent cinquante pour cent,",
+   "en": "They reach fifty per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "faute d'accord de dernière minute entre Ottawa et Washington.",
+   "en": "after no last-minute deal between «Ottawa» and «Washington».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le premier ministre canadien, Mark Carney,",
+   "en": "The Canadian prime minister, «Mark Carney»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "promet une riposte au dollar près.",
+   "en": "promises a response to the dollar.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Monde, Le Figaro, Le Télégramme et Sud Ouest rapportent cette entrée en vigueur.",
+   "en": "«Le Monde», «Le Figaro», «Le Télégramme» and «Sud Ouest» report that they have taken effect.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'entreprise d'intelligence artificielle Anthropic envisage une entrée en Bourse.",
+   "en": "The artificial intelligence company «Anthropic» is considering a stock market flotation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon Le Figaro, elle pourrait dépasser le record établi en juin par SpaceX,",
+   "en": "According to «Le Figaro», it could beat the record set in June by «SpaceX»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec quatre-vingt-cinq virgule sept milliards de dollars levés.",
+   "en": "with eighty-five point seven billion dollars raised.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Figaro et Sud Ouest rapportent ce projet.",
+   "en": "«Le Figaro» and «Sud Ouest» report the plan.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On termine en Seine-et-Marne.",
+   "en": "We finish in «Seine-et-Marne».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La forêt de Fontainebleau rouvre partiellement au public ce samedi.",
+   "en": "The forest of «Fontainebleau» partially reopens to the public this Saturday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le feu y avait brûlé deux mille des vingt mille hectares du massif",
+   "en": "Fire had burned two thousand of the massif's twenty thousand hectares",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à la mi-juillet.",
+   "en": "in mid-July.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La préfecture a indiqué que quatre-vingts pour cent du massif était de nouveau accessible,",
+   "en": "The prefecture said that eighty per cent of the massif was accessible again,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "une zone restant interdite.",
+   "en": "with one zone still closed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon RFI, c'est la forêt la plus visitée d'Île-de-France,",
+   "en": "According to «RFI», it is the most visited forest in «Île-de-France»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec quinze millions de promeneurs par an.",
+   "en": "with fifteen million walkers a year.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Monde, France Télévisions, RFI et Ouest-France annoncent cette réouverture.",
+   "en": "«Le Monde», «France Télévisions», «RFI» and «Ouest-France» report the reopening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour ce tour de l'actualité.",
+   "en": "That is the round-up of the news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Saturday 22 August",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "A Russian drone strike on a shopping centre in Kryvyi Rih killed at least sixteen people and injured around a hundred and thirty",
+ "summary_en": [
+  "A Russian drone strike on a shopping centre in Kryvyi Rih killed at least sixteen people and injured around a hundred and thirty",
+  "New American tariffs of fifty per cent on a range of Canadian products came into force on Saturday after no deal was reached",
+  "The Greens hold their summer conference in Grenoble and La France insoumise its summer school, opening the political new season"
+ ]
+}

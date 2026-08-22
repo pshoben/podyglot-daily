@@ -1,0 +1,380 @@
+{
+ "title": "El informativo de la mañana, sábado 22 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-news",
+   "wpm": 208,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-22",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Sábado veintidós de agosto, siete de la mañana en Madrid.",
+   "en": "Saturday the twenty-second of August, seven in the morning in «Madrid».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El informativo de la mañana.",
+   "en": "The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Entran en vigor los aranceles del cincuenta por ciento de Estados Unidos contra Canadá.",
+   "en": "American tariffs of fifty per cent on «Canada» come into force.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "España rechaza de forma tajante las reivindicaciones de Marruecos sobre Ceuta y Melilla.",
+   "en": "«Spain» flatly rejects «Morocco»'s claims over «Ceuta» and «Melilla».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y arranca en Galicia, según elDiario punto es,",
+   "en": "And «Galicia» begins, according to «elDiario.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la vendimia más madrugadora de su historia.",
+   "en": "es», the earliest grape harvest in its history.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Abrimos con el comercio internacional.",
+   "en": "We open with international trade.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las negociaciones entre Estados Unidos y Canadá fracasaron en el último minuto.",
+   "en": "Negotiations between the «United States» and «Canada» failed at the last minute.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Desde la medianoche del viernes al sábado,",
+   "en": "From midnight on Friday into Saturday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Estados Unidos aplica aranceles del cincuenta por ciento.",
+   "en": "the «United States» is applying tariffs of fifty per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Afectan a importaciones canadienses por unos veinte mil millones de dólares.",
+   "en": "They affect Canadian imports worth around twenty billion dollars.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Entre los productos figuran los palos de hockey, algunos materiales de construcción,",
+   "en": "The products include hockey sticks, some building materials,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "bebidas alcohólicas y determinados tipos de ropa.",
+   "en": "alcoholic drinks and certain types of clothing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El representante comercial estadounidense, Jamieson Greer,",
+   "en": "The American trade representative, «Jamieson Greer»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "responsabilizó a Canadá del fracaso.",
+   "en": "blamed «Canada» for the failure.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ottawa ha advertido de que responderá.",
+   "en": "«Ottawa» has warned that it will respond.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El País, El Mundo, ABC",
+   "en": "«El País», «El Mundo», «ABC» and «elDiario.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y elDiario punto es informan de esta entrada en vigor.",
+   "en": "es» report that they have taken effect.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en España, la respuesta a Marruecos.",
+   "en": "Here in «Spain», the reply to «Morocco».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El ministro marroquí de Justicia reafirmó el viernes que las dos ciudades autónomas son un",
+   "en": "«Morocco»'s justice minister restated on Friday that the two autonomous cities are a historic",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "derecho histórico y geográfico de su país.",
+   "en": "and geographic right of his country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pidió abrir un diálogo sobre la soberanía de las dos ciudades.",
+   "en": "He asked for talks to be opened on the sovereignty of the two cities.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Exteriores respondió que forman parte de la integridad territorial y de la soberanía de España.",
+   "en": "The foreign ministry replied that they form part of the territorial integrity and sovereignty of «Spain».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Gobierno califica su rechazo de tajante.",
+   "en": "The government calls its rejection flat.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La respuesta llega mientras Ceuta afronta una crisis migratoria.",
+   "en": "The reply comes as «Ceuta» faces a migration crisis.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Consejo de Ministros tiene previsto aprobar el martes veinticinco millones de euros para atender",
+   "en": "The cabinet is due to approve twenty-five million euros on Tuesday to care",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a los menores.",
+   "en": "for the minors.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ABC, elDiario punto es y El País han recogido esta respuesta.",
+   "en": "«ABC», «elDiario. es» and «El País» have carried the reply.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Terminamos en Galicia.",
+   "en": "We finish in «Galicia».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según elDiario punto es,",
+   "en": "According to «elDiario.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ha arrancado la vendimia más madrugadora de la historia de la comunidad.",
+   "en": "es», the earliest grape harvest in the region's history has begun.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según la misma fuente, la recogida ya no espera a septiembre",
+   "en": "According to the same source, picking no longer waits for September",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y empieza con buenas perspectivas en las cinco denominaciones de origen gallegas.",
+   "en": "and starts with good prospects in the five Galician denominations of origin.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los sindicatos agrarios reclaman un observatorio que fije cuánto cuesta producir cada kilo de uva.",
+   "en": "Farming unions are calling for a body to establish what it costs to produce each kilo of grapes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí lo esencial.",
+   "en": "That is the essential news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Saturday 22 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "US tariffs of 50 per cent on about 20 billion dollars of Canadian imports took effect after talks failed",
+ "summary_en": [
+  "US tariffs of 50 per cent on about 20 billion dollars of Canadian imports took effect after talks failed",
+  "Spain's foreign ministry flatly rejected Morocco's claim to sovereignty over Ceuta and Melilla",
+  "Torrential rain of up to 200 litres per square metre flooded streets in Torredembarra and El Vendrell, forcing evacuations"
+ ]
+}

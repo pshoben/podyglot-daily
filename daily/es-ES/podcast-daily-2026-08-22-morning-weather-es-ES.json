@@ -1,0 +1,213 @@
+{
+ "title": "El tiempo, sábado 22 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather",
+   "wpm": 208,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-22",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Vamos con el tiempo.",
+   "en": "Now the weather.",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el cielo de hoy, calor en el centro",
+   "en": "In today's sky, heat in the centre",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y avisos por tormentas en otras zonas.",
+   "en": "and storm warnings elsewhere.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Madrid, según la AEMET,",
+   "en": "In «Madrid», according to «AEMET»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la jornada se mueve entre diecinueve y treinta y tres grados.",
+   "en": "the day moves between nineteen and thirty-three degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo estará poco nuboso durante todo el día, de acuerdo con la agencia.",
+   "en": "The sky will have light cloud throughout the day, according to the agency.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación es del cero por ciento",
+   "en": "The chance of rain is zero per cent",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el viento sopla del sur a quince kilómetros por hora, según la misma fuente.",
+   "en": "and the wind blows from the south at fifteen kilometres an hour, according to the same source.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ojo con el índice ultravioleta,",
+   "en": "Watch the ultraviolet index,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que llega hoy a ocho en la capital según la AEMET.",
+   "en": "which reaches eight in the capital today according to «AEMET».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De norte a sur, el contraste es fuerte esta jornada.",
+   "en": "From north to south, the contrast is strong today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La AEMET mantiene activo su estado de avisos para la Península, Baleares, Ceuta y Melilla.",
+   "en": "«AEMET» is keeping its warning status active for the mainland, the «Balearics», «Ceuta» and «Melilla».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "elDiario punto es recoge que la agencia advierte de tormentas muy fuertes",
+   "en": "«elDiario. es» reports that the agency is warning of very strong storms",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y posible granizo en amplias zonas del norte y del este.",
+   "en": "and possible hail across wide areas of the north and the east.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el sur, en cambio,",
+   "en": "In the south, by contrast,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el cielo se mantiene despejado y el calor aprieta.",
+   "en": "the sky stays clear and the heat is fierce.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Todos estos datos son de la Agencia Estatal de Meteorología.",
+   "en": "All these figures come from the «Agencia Estatal de Meteorología».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí el tiempo.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Saturday 22 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "España",
+ "accent": "Castilla",
+ "accent_label": "acento de Castilla",
+ "segment_order": 0,
+ "headline_en": "According to AEMET, AEMET municipal forecasts for Madrid on 22 August 2026",
+ "summary_en": [
+  "According to AEMET, AEMET municipal forecasts for Madrid on 22 August 2026",
+  "AEMET keeps its warning status active for the mainland, Balearics, Ceuta and Melilla; elDiario.es reports warnings of very strong storms and hail in the north and east"
+ ]
+}

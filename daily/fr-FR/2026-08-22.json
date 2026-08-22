@@ -1,0 +1,71 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-FR",
+ "date": "2026-08-22",
+ "episodes": [
+  {
+   "id": "fr-FR-Le journal du matin, samedi 22 août",
+   "file": "podcast-daily-2026-08-22-morning-news-fr-FR.json",
+   "bytes": 13644,
+   "sha256": "b2e2f856a4a7ffda89ede398c2270a66c0b2a2c915c14816db0d93d60886c9df",
+   "date": "2026-08-22",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, samedi 22 août",
+   "title_en": "The morning news, Saturday 22 August",
+   "headline_en": "A Russian drone strike on a shopping centre in Kryvyi Rih killed at least sixteen people and injured around a hundred and thirty",
+   "summary_en": [
+    "A Russian drone strike on a shopping centre in Kryvyi Rih killed at least sixteen people and injured around a hundred and thirty",
+    "New American tariffs of fifty per cent on a range of Canadian products came into force on Saturday after no deal was reached",
+    "The Greens hold their summer conference in Grenoble and La France insoumise its summer school, opening the political new season"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, samedi 22 août",
+   "file": "podcast-daily-2026-08-22-morning-sport-fr-FR.json",
+   "bytes": 6273,
+   "sha256": "b0b857a5c05a68c4b22bf5007e4f41b6742d9c81f5b2d77950fd0e6573bd9c21",
+   "date": "2026-08-22",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, samedi 22 août",
+   "title_en": "Today's sport, Saturday 22 August",
+   "headline_en": "The Vuelta starts on Saturday in Monaco with a nine kilometre individual time trial, and runs to 13 September",
+   "summary_en": [
+    "The Vuelta starts on Saturday in Monaco with a nine kilometre individual time trial, and runs to 13 September",
+    "Lens host Auxerre at Bollaert in the opening round of Ligue 1"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, samedi 22 août",
+   "file": "podcast-daily-2026-08-22-morning-weather-fr-FR.json",
+   "bytes": 5746,
+   "sha256": "847c9b7342f8692a319ae956c791b74127d5b818e5a06649068ca4df2febd9d8",
+   "date": "2026-08-22",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, samedi 22 août",
+   "title_en": "Today's weather, Saturday 22 August",
+   "headline_en": "According to Meteo-France models, overcast skies for Saturday with highs of 23 in Paris and 28 in Marseille and Bordeaux",
+   "summary_en": [
+    "According to Meteo-France models, overcast skies for Saturday with highs of 23 in Paris and 28 in Marseille and Bordeaux"
+   ]
+  }
+ ],
+ "content": "6bf1f6be1b581fbc0c92c737f170b28854c2b4db2b3307e2a6b946e940d2144f",
+ "rev": 1,
+ "updated": "2026-08-22T08:28:55.292Z"
+}

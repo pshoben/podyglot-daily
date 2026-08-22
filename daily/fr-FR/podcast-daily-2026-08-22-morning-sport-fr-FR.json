@@ -1,0 +1,249 @@
+{
+ "title": "Le sport, samedi 22 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-22",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le sport maintenant.",
+   "en": "The sport now.",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Vuelta s'élance ce samedi de Monaco.",
+   "en": "The «Vuelta» sets off this Saturday from «Monaco».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon L'Équipe, la première étape est un contre-la-montre individuel de neuf kilomètres dans les rues",
+   "en": "According to «L'Équipe», the first stage is a nine kilometre individual time trial through the streets",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de la principauté.",
+   "en": "of the principality.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Monaco devient la première commune à avoir accueilli le départ des trois grands tours.",
+   "en": "«Monaco» becomes the first town to have hosted the start of all three grand tours.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'épreuve se poursuit jusqu'au treize septembre.",
+   "en": "The race continues until the thirteenth of September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Slovène Tadej Pogacar est au départ.",
+   "en": "The Slovenian «Tadej Pogacar» is on the start line.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il n'a décidé de participer qu'à l'issue du Tour de France.",
+   "en": "He only decided to take part at the end of the «Tour de France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Côté français, le grimpeur Léo Bisiaux, vingt et un ans,",
+   "en": "On the French side, the climber «Léo Bisiaux», twenty-one,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "roule en lieutenant de Felix Gall.",
+   "en": "is riding as lieutenant to «Felix Gall».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Équipe et France Télévisions suivent ce grand départ.",
+   "en": "«L'Équipe» and «France Télévisions» are following the grand start.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Ligue 1, la première journée se poursuit.",
+   "en": "In «Ligue 1», the first round of matches continues.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Racing Club de Lens reçoit l'AJ Auxerre à Bollaert.",
+   "en": "«Racing Club de Lens» host «AJ Auxerre» at «Bollaert».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les Lensois sont vice-champions de France et vainqueurs de la Coupe de France.",
+   "en": "«Lens» are runners-up in the league and winners of the «Coupe de France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Équipe rapporte cette rencontre.",
+   "en": "«L'Équipe» reports the fixture.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Du côté du tennis, l'US Open se prépare avec plusieurs absents.",
+   "en": "In tennis, the «US Open» is shaping up with several players missing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le numéro un mondial Jannik Sinner a déclaré forfait, touché au genou droit.",
+   "en": "The world number one «Jannik Sinner» has withdrawn with an injury to his right knee.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Danois Holger Rune renonce lui aussi,",
+   "en": "The Dane «Holger Rune» is also pulling out,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "insuffisamment remis d'une blessure au tendon d'Achille.",
+   "en": "not sufficiently recovered from an Achilles tendon injury.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Carlos Alcaraz, lui, fait son retour après plus de quatre mois d'absence.",
+   "en": "«Carlos Alcaraz» returns after more than four months out.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "France Télévisions et L'Équipe rapportent ces forfaits.",
+   "en": "«France Télévisions» and «L'Équipe» report the withdrawals.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Saturday 22 August",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "The Vuelta starts on Saturday in Monaco with a nine kilometre individual time trial, and runs to 13 September",
+ "summary_en": [
+  "The Vuelta starts on Saturday in Monaco with a nine kilometre individual time trial, and runs to 13 September",
+  "Lens host Auxerre at Bollaert in the opening round of Ligue 1"
+ ]
+}

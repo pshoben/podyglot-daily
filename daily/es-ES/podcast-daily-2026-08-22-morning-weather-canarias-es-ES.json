@@ -1,0 +1,192 @@
+{
+ "title": "El tiempo en Canarias, sábado 22 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-canarias",
+   "wpm": 208,
+   "rate_multiplier": 0.86,
+   "pitch_multiplier": 0.59
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-canarias",
+ "date": "2026-08-22",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El tiempo en Canarias.",
+   "en": "The weather in the «Canaries».",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En las islas, hoy hay más nubes que en la Península",
+   "en": "On the islands, there is more cloud today than on the mainland",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y las temperaturas son más suaves.",
+   "en": "and the temperatures are milder.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Las Palmas de Gran Canaria, según la AEMET,",
+   "en": "In «Las Palmas de Gran Canaria», according to «AEMET»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la jornada se mueve entre veintitrés y veintisiete grados.",
+   "en": "the day moves between twenty-three and twenty-seven degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo amanece nuboso antes de abrirse por la tarde, de acuerdo con la agencia.",
+   "en": "The sky starts cloudy before opening up in the afternoon, according to the agency.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Con el alisio, el viento del norte sopla a veinticinco kilómetros por hora según",
+   "en": "With the trade wind, the northerly blows at twenty-five kilometres an hour according to",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la misma fuente.",
+   "en": "the same source.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación es del quince por ciento.",
+   "en": "The chance of rain is fifteen per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Santa Cruz de Tenerife la máxima sube a treinta grados según la AEMET.",
+   "en": "In «Santa Cruz de Tenerife» the high rises to thirty degrees according to «AEMET».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí el termómetro va de veinticuatro a treinta,",
+   "en": "There the thermometer runs from twenty-four to thirty,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con intervalos nubosos y un veinte por ciento de probabilidad de precipitación.",
+   "en": "with cloudy spells and a twenty per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ojo con el sol, porque el índice ultravioleta llega a diez en Las Palmas",
+   "en": "Watch the sun, because the ultraviolet index reaches ten in «Las Palmas» and",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y a nueve en Santa Cruz, según la AEMET.",
+   "en": "nine in «Santa Cruz», according to «AEMET».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los datos son de la Agencia Estatal de Meteorología.",
+   "en": "The figures come from the «Agencia Estatal de Meteorología».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es Canarias.",
+   "en": "That is the «Canaries».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 4,
+ "handover": "junction",
+ "title_en": "Today's weather, Canary Islands, Saturday 22 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Canarias",
+ "accent": "Canarias",
+ "accent_label": "acento de Canarias",
+ "segment_order": 2,
+ "headline_en": "According to AEMET, AEMET municipal forecasts for Las Palmas, Santa Cruz de Tenerife on 22 August 2026",
+ "summary_en": [
+  "According to AEMET, AEMET municipal forecasts for Las Palmas, Santa Cruz de Tenerife on 22 August 2026"
+ ]
+}

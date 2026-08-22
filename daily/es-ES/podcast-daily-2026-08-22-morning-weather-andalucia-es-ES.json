@@ -1,0 +1,202 @@
+{
+ "title": "El tiempo en Andalucía, sábado 22 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-andalucia",
+   "wpm": 208,
+   "rate_multiplier": 0.73,
+   "pitch_multiplier": 0.79
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-andalucia",
+ "date": "2026-08-22",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El tiempo en Andalucía.",
+   "en": "The weather in «Andalusia».",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Jornada despejada y calurosa en buena parte del territorio.",
+   "en": "A clear and hot day across much of the region.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por el valle, según la AEMET,",
+   "en": "Down the valley, according to «AEMET»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sevilla se mueve hoy entre dieciocho y treinta y dos grados.",
+   "en": "«Seville» moves today between eighteen and thirty-two degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Tierra adentro el calor aprieta más,",
+   "en": "Inland the heat is stronger,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y en Córdoba se llega a treinta y cuatro grados según la agencia.",
+   "en": "and in «Córdoba» it gets to thirty-four degrees according to the agency.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí el termómetro va de diecisiete a treinta y cuatro,",
+   "en": "There the thermometer runs from seventeen to thirty-four,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "así que el contraste del día es amplio.",
+   "en": "so the day's swing is wide.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la costa, Málaga se queda en treinta y uno, de acuerdo con la AEMET.",
+   "en": "On the coast, «Málaga» stays at thirty-one, according to «AEMET».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La noche es más templada junto al mar,",
+   "en": "The night is milder by the sea,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la ciudad oscila entre veintidós y treinta y un grados.",
+   "en": "and the city ranges between twenty-two and thirty-one degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En las tres ciudades la probabilidad de precipitación es del cero por ciento,",
+   "en": "In all three cities the chance of rain is zero per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según la misma fuente.",
+   "en": "according to the same source.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según la AEMET, el índice ultravioleta llega a siete en Córdoba y en Sevilla,",
+   "en": "According to «AEMET», the ultraviolet index reaches seven in «Córdoba» and «Seville»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y a ocho en la costa de Málaga.",
+   "en": "and eight on the «Málaga» coast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los datos son de la Agencia Estatal de Meteorología.",
+   "en": "The figures come from the «Agencia Estatal de Meteorología».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es Andalucía.",
+   "en": "That is «Andalusia».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 3,
+ "handover": "junction",
+ "title_en": "Today's weather, Andalusia, Saturday 22 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Andalucía",
+ "accent": "Andalucía",
+ "accent_label": "acento de Andalucía",
+ "segment_order": 1,
+ "headline_en": "According to AEMET, AEMET municipal forecasts for Sevilla, Cordoba, Malaga on 22 August 2026",
+ "summary_en": [
+  "According to AEMET, AEMET municipal forecasts for Sevilla, Cordoba, Malaga on 22 August 2026"
+ ]
+}

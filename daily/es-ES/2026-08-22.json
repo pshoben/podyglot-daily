@@ -1,0 +1,110 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-ES",
+ "date": "2026-08-22",
+ "episodes": [
+  {
+   "id": "es-ES-El informativo de la mañana, sábado 22 de agosto",
+   "file": "podcast-daily-2026-08-22-morning-news-es-ES.json",
+   "bytes": 9720,
+   "sha256": "8cec3dbcec1aac21bbdb4f82d21db822010ae94c7882568a7832cc90f05871f9",
+   "date": "2026-08-22",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, sábado 22 de agosto",
+   "title_en": "The morning news, Saturday 22 August",
+   "headline_en": "US tariffs of 50 per cent on about 20 billion dollars of Canadian imports took effect after talks failed",
+   "summary_en": [
+    "US tariffs of 50 per cent on about 20 billion dollars of Canadian imports took effect after talks failed",
+    "Spain's foreign ministry flatly rejected Morocco's claim to sovereignty over Ceuta and Melilla",
+    "Torrential rain of up to 200 litres per square metre flooded streets in Torredembarra and El Vendrell, forcing evacuations"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, sábado 22 de agosto",
+   "file": "podcast-daily-2026-08-22-morning-sport-es-ES.json",
+   "bytes": 4522,
+   "sha256": "c64e8f41b17e6c5e8e81dc694f44664a183017a41349fc26c78f29efa02defd5",
+   "date": "2026-08-22",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, sábado 22 de agosto",
+   "title_en": "Today's sport, Saturday 22 August",
+   "headline_en": "The Vuelta a Espana starts on Saturday with a time trial in Monaco; Pogacar rides alongside Almeida and Enric Mas returns for Movistar",
+   "summary_en": [
+    "The Vuelta a Espana starts on Saturday with a time trial in Monaco; Pogacar rides alongside Almeida and Enric Mas returns for Movistar",
+    "The summer transfer window is still open and being tracked live by Marca and AS"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, sábado 22 de agosto",
+   "file": "podcast-daily-2026-08-22-morning-weather-es-ES.json",
+   "bytes": 5278,
+   "sha256": "102bd15e64466028a04126e1fdb4dbe9ba1a7f4d4fbb5230e7f1376d88b99114",
+   "date": "2026-08-22",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, sábado 22 de agosto",
+   "title_en": "Today's weather, Saturday 22 August",
+   "headline_en": "According to AEMET, AEMET municipal forecasts for Madrid on 22 August 2026",
+   "summary_en": [
+    "According to AEMET, AEMET municipal forecasts for Madrid on 22 August 2026",
+    "AEMET keeps its warning status active for the mainland, Balearics, Ceuta and Melilla; elDiario.es reports warnings of very strong storms and hail in the north and east"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, sábado 22 de agosto",
+   "file": "podcast-daily-2026-08-22-morning-weather-andalucia-es-ES.json",
+   "bytes": 4883,
+   "sha256": "a5b0f17992e80abfe43ca3d3d740a2bb4e38db2daa60e4688d40d3dff092dad5",
+   "date": "2026-08-22",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, sábado 22 de agosto",
+   "title_en": "Today's weather, Andalusia, Saturday 22 August",
+   "headline_en": "According to AEMET, AEMET municipal forecasts for Sevilla, Cordoba, Malaga on 22 August 2026",
+   "summary_en": [
+    "According to AEMET, AEMET municipal forecasts for Sevilla, Cordoba, Malaga on 22 August 2026"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, sábado 22 de agosto",
+   "file": "podcast-daily-2026-08-22-morning-weather-canarias-es-ES.json",
+   "bytes": 4828,
+   "sha256": "6d51deccf194612ecf433893b7a275a196b23eeb3db6eb415cb5f2ce19605d95",
+   "date": "2026-08-22",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, sábado 22 de agosto",
+   "title_en": "Today's weather, Canary Islands, Saturday 22 August",
+   "headline_en": "According to AEMET, AEMET municipal forecasts for Las Palmas, Santa Cruz de Tenerife on 22 August 2026",
+   "summary_en": [
+    "According to AEMET, AEMET municipal forecasts for Las Palmas, Santa Cruz de Tenerife on 22 August 2026"
+   ]
+  }
+ ],
+ "content": "1db4806e2da3bf6f96aa9ed640f82c724908e4da723b7b2ce1d45572fb3b648c",
+ "rev": 1,
+ "updated": "2026-08-22T08:28:55.292Z"
+}

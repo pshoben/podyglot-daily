@@ -1,0 +1,188 @@
+{
+ "title": "Le temps chez nous, samedi 22 août",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-weather",
+   "wpm": 222,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-22",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le temps maintenant.",
+   "en": "The weather now.",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au-dessus de nos têtes aujourd'hui, de la bruine et un ciel chargé.",
+   "en": "Above our heads today, drizzle and a heavy sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon la presse belge, la matinée sera pluvieuse avant le retour des éclaircies cet après-midi.",
+   "en": "According to the Belgian press, the morning will be wet before brighter spells return this afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'une région à l'autre, les valeurs bougent peu ce samedi.",
+   "en": "From one region to another, the values move very little this Saturday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il fera doux, sans excès, partout dans le pays.",
+   "en": "It will be mild, without extremes, right across the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Bruxelles, d'après le modèle du Centre européen,",
+   "en": "In «Brussels», according to the European Centre model,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la journée se joue entre douze et dix-neuf degrés.",
+   "en": "the day plays out between twelve and nineteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de précipitation y atteint quatre-vingt-deux pour cent, selon la même source.",
+   "en": "The chance of rain there reaches eighty-two per cent, according to the same source.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent reste modeste, douze kilomètres par heure au plus.",
+   "en": "The wind stays modest, twelve kilometres an hour at most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Namur, mêmes valeurs, entre douze et dix-neuf degrés.",
+   "en": "In «Namur», the same values, between twelve and nineteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Gare aux averses à Liège,",
+   "en": "Watch for showers in «Liège»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où la probabilité monte à quatre-vingt-quinze pour cent d'après l'ECMWF.",
+   "en": "where the chance climbs to ninety-five per cent according to the «ECMWF».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La ville y évolue entre treize et dix-huit degrés.",
+   "en": "The city there moves between thirteen and eighteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y souffle à dix kilomètres par heure au maximum.",
+   "en": "The wind there blows at ten kilometres an hour at most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Toutes ces valeurs sont celles du modèle européen.",
+   "en": "All these values are the European model's.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le temps chez nous.",
+   "en": "That is the weather here at home.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Saturday 22 August",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "According to the ECMWF model, drizzle and highs of 18 to 19 degrees across Belgium on Saturday, with rain probability from 82 to 95 per cent",
+ "summary_en": [
+  "According to the ECMWF model, drizzle and highs of 18 to 19 degrees across Belgium on Saturday, with rain probability from 82 to 95 per cent"
+ ]
+}

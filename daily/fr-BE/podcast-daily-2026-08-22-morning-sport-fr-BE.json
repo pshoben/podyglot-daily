@@ -1,0 +1,179 @@
+{
+ "title": "Le sport chez nous, samedi 22 août",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-sport",
+   "wpm": 222,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-22",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Passons au sport.",
+   "en": "On to the sport.",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce qui nous attend aujourd'hui, d'abord en Pro League.",
+   "en": "What is coming up today, first in the «Pro League».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Charleroi reçoit Malines.",
+   "en": "«Charleroi» host «Mechelen».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sur les routes, le Renewi Tour en est à sa quatrième étape.",
+   "en": "On the roads, the «Renewi Tour» reaches its fourth stage.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Coupe du monde de hockey se poursuit également.",
+   "en": "The hockey «World Cup» also continues.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Dernière Heure donne le programme de la journée et les diffuseurs.",
+   "en": "«La Dernière Heure» lists the day's programme and the broadcasters.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En piste aujourd'hui aussi, la Vuelta s'élance.",
+   "en": "Also under way today, the «Vuelta» sets off.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Wout van Aert y est attendu,",
+   "en": "«Wout van Aert» is expected there,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec le maillot rouge en ligne de mire.",
+   "en": "with the red jersey in his sights.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est ce qu'a affirmé son coéquipier Daan Soete dans la Dernière Heure.",
+   "en": "That is what his team-mate «Daan Soete» said in «La Dernière Heure».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Du côté du volley, les Yellow Tigers lancent ce samedi leur Euro féminin.",
+   "en": "In volleyball, the «Yellow Tigers» begin their women's «Euro» this Saturday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'équipe belge mêle expérience et jeunesse pour ce tournoi.",
+   "en": "The Belgian side combines experience and youth for the tournament.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Enfin, Lionel Messi a été sanctionné après avoir giflé un adversaire en plein match.",
+   "en": "Finally, «Lionel Messi» has been sanctioned after slapping an opponent during a match.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sept sur sept et La Libre rapportent cette sanction.",
+   "en": "«7sur7» and «La Libre» report the sanction.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport belge.",
+   "en": "That is the Belgian sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Saturday 22 August",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Charleroi host Mechelen, the Renewi Tour reaches stage four and the hockey World Cup continues",
+ "summary_en": [
+  "Charleroi host Mechelen, the Renewi Tour reaches stage four and the hockey World Cup continues",
+  "Wout van Aert starts the Vuelta with the red jersey as a target, according to team-mate Daan Soete"
+ ]
+}

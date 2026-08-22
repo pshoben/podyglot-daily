@@ -1,0 +1,238 @@
+{
+ "title": "La météo, samedi 22 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-22",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "La météo maintenant.",
+   "en": "The weather now.",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ciel couvert sur une grande partie du pays ce samedi,",
+   "en": "Overcast skies across much of the country this Saturday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après les modèles de Météo-France.",
+   "en": "according to the «Météo-France» models.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Paris, selon Météo-France, le thermomètre monte à vingt-trois degrés au plus chaud",
+   "en": "In «Paris», according to «Météo-France», the thermometer climbs to twenty-three degrees at the warmest point",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de la journée.",
+   "en": "of the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La capitale évolue aujourd'hui entre quatorze et vingt-trois degrés,",
+   "en": "The capital moves today between fourteen and twenty-three degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un vent qui ne dépasse pas seize kilomètres par heure.",
+   "en": "with a wind that does not exceed sixteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le Sud-Est, à Marseille,",
+   "en": "In the south-east, in «Marseille»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la maximale atteint vingt-huit degrés selon la même source.",
+   "en": "the high reaches twenty-eight degrees according to the same source.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La ville reste douce toute la journée,",
+   "en": "The city stays mild all day,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "entre vingt et vingt-huit degrés,",
+   "en": "between twenty and twenty-eight degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent souffle jusqu'à vingt kilomètres par heure.",
+   "en": "and the wind blows at up to twenty kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le Sud-Ouest, Bordeaux attend aussi vingt-huit degrés cet après-midi, d'après la même source.",
+   "en": "In the south-west, «Bordeaux» is also expecting twenty-eight degrees this afternoon, according to the same source.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La nuit y a été plus fraîche,",
+   "en": "The night there was cooler,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et la journée se joue entre seize et vingt-huit degrés.",
+   "en": "and the day plays out between sixteen and twenty-eight degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y reste faible,",
+   "en": "The wind there stays light,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "douze kilomètres par heure au maximum.",
+   "en": "twelve kilometres an hour at most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ciel est donné couvert dans les trois villes.",
+   "en": "The sky is given as overcast in all three cities.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'écart entre le nord et le sud est marqué aujourd'hui,",
+   "en": "The gap between north and south is marked today,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "entre cinq et six degrés séparent Paris de Marseille et de Bordeaux.",
+   "en": "between five and six degrees separating «Paris» from «Marseille» and «Bordeaux».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Saturday 22 August",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "According to Meteo-France models, overcast skies for Saturday with highs of 23 in Paris and 28 in Marseille and Bordeaux",
+ "summary_en": [
+  "According to Meteo-France models, overcast skies for Saturday with highs of 23 in Paris and 28 in Marseille and Bordeaux"
+ ]
+}

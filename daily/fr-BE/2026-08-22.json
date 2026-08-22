@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-BE",
+ "date": "2026-08-22",
+ "episodes": [
+  {
+   "id": "fr-BE-Le sport chez nous, samedi 22 août",
+   "file": "podcast-daily-2026-08-22-morning-sport-fr-BE.json",
+   "bytes": 4448,
+   "sha256": "2c1ca857c5d3706ea265e75202768cdb03f2e468dac05a1e65f36afa0b398e6a",
+   "date": "2026-08-22",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sport chez nous, samedi 22 août",
+   "title_en": "Today's sport, Saturday 22 August",
+   "headline_en": "Charleroi host Mechelen, the Renewi Tour reaches stage four and the hockey World Cup continues",
+   "summary_en": [
+    "Charleroi host Mechelen, the Renewi Tour reaches stage four and the hockey World Cup continues",
+    "Wout van Aert starts the Vuelta with the red jersey as a target, according to team-mate Daan Soete"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, samedi 22 août",
+   "file": "podcast-daily-2026-08-22-morning-weather-fr-BE.json",
+   "bytes": 4852,
+   "sha256": "96975e350ef83596314f2748b559b12bd285a9abd3b9bd2f6134a8d44af38a20",
+   "date": "2026-08-22",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, samedi 22 août",
+   "title_en": "Today's weather, Saturday 22 August",
+   "headline_en": "According to the ECMWF model, drizzle and highs of 18 to 19 degrees across Belgium on Saturday, with rain probability from 82 to 95 per cent",
+   "summary_en": [
+    "According to the ECMWF model, drizzle and highs of 18 to 19 degrees across Belgium on Saturday, with rain probability from 82 to 95 per cent"
+   ]
+  }
+ ],
+ "content": "bc11af9053bba543d17c88a7a457674c3278fcef281d92155f3d397affb72aa4",
+ "rev": 1,
+ "updated": "2026-08-22T08:28:55.292Z"
+}
