@@ -1,0 +1,199 @@
+{
+ "title": "Le bulletin météo, dimanche 23 août",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-weather",
+   "wpm": 185,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-23",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Trois régions du Québec, une à une.",
+   "en": "Three regions of «Quebec», one by one.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Montréal, selon le modèle GEM d'Environnement Canada,",
+   "en": "In «Montreal», according to «Environment Canada»'s «GEM» model,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de fortes averses sont attendues aujourd'hui.",
+   "en": "heavy showers are expected today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de précipitation y atteint quatre-vingt-quinze pour cent.",
+   "en": "The chance of rain there reaches ninety-five per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Montréal évolue entre dix-sept et vingt-cinq degrés.",
+   "en": "«Montreal» runs between seventeen and twenty-five degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Soit huit degrés d'écart sur l'ensemble de la journée.",
+   "en": "That is eight degrees across the whole day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent n'y dépasse pas dix-sept kilomètres par heure.",
+   "en": "The wind there does not go above seventeen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'une région québécoise à l'autre, à Québec,",
+   "en": "From one «Quebec» region to the next,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la probabilité de précipitation grimpe à cent pour cent.",
+   "en": "in «Quebec City» the chance of rain climbs to a hundred per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le mercure y reste entre dix-sept et vingt degrés, sous des averses.",
+   "en": "The thermometer there stays between seventeen and twenty degrees, under showers.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Trois degrés seulement séparent le minimum du maximum.",
+   "en": "Only three degrees separate the low from the high.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Attention à Québec, où le vent souffle jusqu'à trente kilomètres par heure.",
+   "en": "Watch out in «Quebec City», where the wind blows up to thirty kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au Saguenay, la pluie est faible,",
+   "en": "In «Saguenay» the rain is light,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec une probabilité de vingt-quatre pour cent.",
+   "en": "with a chance of twenty-four per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le thermomètre y va de quinze à vingt et un degrés.",
+   "en": "The thermometer there runs from fifteen to twenty-one degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y atteint vingt-six kilomètres par heure.",
+   "en": "The wind there reaches twenty-six kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce sera tout pour la météo de ce dimanche.",
+   "en": "That is all for the weather this Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Sunday 23 August",
+ "edition": "morning",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "Montreal today: heavy showers, with a high of 25 degrees",
+ "summary_en": [
+  "Montreal today: heavy showers, with a high of 25 degrees",
+  "Quebec City today: showers, with a high of 20 degrees"
+ ]
+}

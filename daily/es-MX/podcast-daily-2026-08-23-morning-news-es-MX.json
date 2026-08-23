@@ -1,0 +1,310 @@
+{
+ "title": "El noticiario matutino, domingo 23 de agosto",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-news",
+   "wpm": 186,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-23",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Domingo veintitrés de agosto. El noticiario matutino.",
+   "en": "Sunday the twenty-third of August. The morning news bulletin.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para Mark Carney, Canadá ya está en guerra comercial con Estados Unidos.",
+   "en": "For «Mark Carney», «Canada» is already in a trade war with the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el gobernador de Sinaloa vuelve a pedir licencia,",
+   "en": "And «Sinaloa»'s governor asks for leave again,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un día después de reincorporarse.",
+   "en": "a day after returning to the job.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Arrancamos con Canadá.",
+   "en": "We start with «Canada».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El primer ministro canadiense, Mark Carney,",
+   "en": "The Canadian prime minister, «Mark Carney»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "afirmó que su país está en guerra comercial con Estados Unidos, según Reforma,",
+   "en": "said his country is in a trade war with the United States, according to «Reforma»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Jornada y El Financiero.",
+   "en": "«La Jornada» and «El Financiero».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ottawa igualará los nuevos aranceles de Washington dólar por dólar.",
+   "en": "«Ottawa» will match «Washington»'s new tariffs dollar for dollar.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Carney acusó al presidente Donald Trump de haber iniciado esa guerra comercial.",
+   "en": "«Carney» accused president «Donald Trump» of starting that trade war.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los aranceles llegan tras el fracaso de las negociaciones entre los dos países.",
+   "en": "The tariffs come after talks between the two countries broke down.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en México, el gobernador de Sinaloa, Rubén Rocha Moya, pidió licencia otra vez,",
+   "en": "Here in «Mexico», the governor of «Sinaloa», «Rubén Rocha Moya», has asked for leave again,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "treinta y cuatro horas después de haber retomado el cargo.",
+   "en": "thirty-four hours after taking the job back.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La licencia es temporal y de carácter indefinido,",
+   "en": "The leave is temporary and open-ended,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el Congreso del estado deberá resolverla,",
+   "en": "and the state congress will have to rule on it,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de acuerdo con El Financiero y La Jornada.",
+   "en": "according to «El Financiero» and «La Jornada».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En su carta no ofreció ningún motivo,",
+   "en": "In his letter he gave no reason,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y se limitó a citar el artículo cincuenta de la Constitución del estado.",
+   "en": "citing only article fifty of the state constitution.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El gobernador enfrenta acusaciones en Estados Unidos por presuntos vínculos con el cártel de Sinaloa.",
+   "en": "The governor faces accusations in the United States of alleged links to the «Sinaloa» cartel.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se quedó además sin el respaldo de Morena y de la presidenta.",
+   "en": "He was also left without the backing of «Morena» or the president.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Morena en la Cámara de Diputados celebró la solicitud,",
+   "en": "«Morena» in the chamber of deputies welcomed the request,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y advirtió que el Congreso habría actuado de no haberla pedido.",
+   "en": "and warned that congress would have acted if he had not made it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ningún interés personal puede estar por encima de los intereses del pueblo y de la nación,",
+   "en": "No personal interest can ever come above the interests of the people and the nation,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "había dicho la presidenta Claudia Sheinbaum.",
+   "en": "president «Claudia Sheinbaum» had said.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En otros temas, un sismo de magnitud cinco punto nueve sacudió la prefectura de Ibaraki,",
+   "en": "In other news, an earthquake of magnitude five point nine shook «Ibaraki» prefecture,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "incluida Tokio, y dejó treinta y siete heridos, según las autoridades japonesas.",
+   "en": "including «Tokyo», and left thirty-seven people injured, according to the Japanese authorities.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las autoridades advierten además sobre posibles réplicas durante una semana.",
+   "en": "The authorities are also warning of possible aftershocks over the next week.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más destacado.",
+   "en": "That is the pick of the news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Sunday 23 August",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "Carney says Canada is in a trade war with the United States",
+ "summary_en": [
+  "Carney says Canada is in a trade war with the United States",
+  "A magnitude 5.9 earthquake near Tokyo leaves 37 injured",
+  "Sinaloa's governor asks for indefinite leave 34 hours after returning to the job"
+ ]
+}

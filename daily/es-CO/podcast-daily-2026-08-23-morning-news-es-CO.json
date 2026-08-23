@@ -1,0 +1,340 @@
+{
+ "title": "La actualidad de la mañana, domingo 23 de agosto",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-23",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Domingo veintitrés de agosto. La actualidad de la mañana.",
+   "en": "Sunday the twenty-third of August. The morning round-up.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El MinTIC denuncia el desvío de más de siete mil doscientos millones de pesos de la educación hacia propaganda.",
+   "en": "«MinTIC» says more than 7.2 billion pesos of education money went on propaganda.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y un gran incendio obliga a mantener la alerta en Popayán.",
+   "en": "And a big fire forces «Popayán» to stay on alert.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Iniciamos con el desvío de recursos.",
+   "en": "We begin with the diverted money.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La ministra de las Tecnologías de la Información y las Comunicaciones, Alexandra Falla,",
+   "en": "The minister for information technology and communications, «Alexandra Falla»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la gerente de Inravisión, Ángela Mora, informaron del hallazgo.",
+   "en": "and the head of «Inravisión», «Ángela Mora», announced the finding.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En una revisión de la contratación del Sistema de Medios Públicos",
+   "en": "In a review of the contracts of the public media system",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "identificaron contratos millonarios de entidades del Estado, según El Colombiano y Semana.",
+   "en": "they identified multi-million contracts from state bodies, according to «El Colombiano» and «Semana».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Usaron la plata de la educación para propaganda, denunciaron.",
+   "en": "They used education money for propaganda, they said.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Colombiano habla de pauta electoral, y Semana de contenido digital pagado.",
+   "en": "«El Colombiano» calls it electoral advertising; «Semana» calls it paid digital content.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en Colombia,",
+   "en": "Here in «Colombia»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el presidente Abelardo de la Espriella se reunió con algunos de los empresarios más importantes del país.",
+   "en": "president «Abelardo de la Espriella» met some of the country's most important business figures.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El encuentro fue en la nueva sede de la Presidencia en Barranquilla,",
+   "en": "The meeting was at the new presidential offices in «Barranquilla»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y se dedicó a la ayuda para los damnificados del terremoto del diez de agosto.",
+   "en": "and was given over to help for those hit by the earthquake of 10th August.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Colombiano agrega que los principales bancos del país",
+   "en": "«El Colombiano» adds that the country's main banks",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "redujeron las tasas del crédito de vivienda para los afectados.",
+   "en": "cut mortgage rates for those affected.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En otras noticias,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un partido de la liga en el estadio El Campín tuvo que interrumpirse",
+   "en": "a league match at the «El Campín» stadium had to be stopped",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por disturbios en las tribunas y en la cancha.",
+   "en": "because of disturbances in the stands and on the pitch.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ocurrió un día después del partido benéfico por el terremoto.",
+   "en": "It happened the day after the benefit match for the earthquake.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de asunto,",
+   "en": "Moving on,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la objeción del Gobierno a la ley de mérito desató una polémica dentro del uribismo,",
+   "en": "the government's objection to the merit bill has caused a row inside «uribismo»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de acuerdo con La República y Semana.",
+   "en": "according to «La República» and «Semana».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La ley, impulsada por Hernán Cadavid,",
+   "en": "The bill, put forward by «Hernán Cadavid»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "busca proteger el mérito y evitar la flexibilización de requisitos para los cargos públicos.",
+   "en": "aims to protect merit and stop requirements for public posts being loosened.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Centro Democrático busca ahora consensos con el Gobierno para aclarar las objeciones.",
+   "en": "The «Centro Democrático» is now looking for common ground with the government to clear up the objections.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para finalizar, un incendio de gran magnitud mantiene en alerta a Popayán.",
+   "en": "And finally, a large fire is keeping «Popayán» on alert.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las llamas se presentaron en el sector de El Tablazo,",
+   "en": "The flames broke out in the «El Tablazo» area,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "cerca de viviendas y de la vía Panamericana.",
+   "en": "near homes and the «Panamericana» road.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los bomberos voluntarios de la zona luchan por controlarlas.",
+   "en": "Volunteer firefighters are working to bring them under control.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más importante.",
+   "en": "That is what matters most today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Sunday 23 August",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "MinTIC says more than 7,200 million pesos of education money went on propaganda",
+ "summary_en": [
+  "MinTIC says more than 7,200 million pesos of education money went on propaganda",
+  "A large fire near homes in Popayan keeps firefighters at work",
+  "The president meets leading business figures to help those hit by the earthquake"
+ ]
+}

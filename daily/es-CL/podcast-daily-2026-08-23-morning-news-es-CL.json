@@ -1,0 +1,310 @@
+{
+ "title": "Las noticias de la mañana, domingo 23 de agosto",
+ "dialect": "es-CL",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CL-daily-news",
+   "wpm": 205,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-23",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Domingo veintitrés de agosto. Las noticias de la mañana.",
+   "en": "Sunday the twenty-third of August. This morning's news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Zelenski descarta convocar elecciones mientras siga la guerra con Rusia.",
+   "en": "«Zelensky» rules out calling elections while the war with «Russia» goes on.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y Cruz-Coke condiciona su apoyo a la reforma de seguridad.",
+   "en": "And «Cruz-Coke» puts conditions on his support for the security reform.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Partimos con Ucrania.",
+   "en": "We set off with «Ukraine».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El presidente ucraniano rechazó la idea de celebrar elecciones durante la guerra,",
+   "en": "The Ukrainian president rejected the idea of holding elections during the war,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según La Tercera y Radio Universidad de Chile.",
+   "en": "according to «La Tercera» and «Radio Universidad de Chile».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Si queremos destruir el país,",
+   "en": "If we want to destroy the country,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "entonces podemos avanzar hacia la celebración de elecciones en tiempos de guerra, sostuvo el mandatario.",
+   "en": "then we can go ahead and hold elections in wartime, he said.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Advirtió que unos comicios bajo la ley marcial generarían una grave fractura social.",
+   "en": "He warned that a vote under martial law would open a serious social fracture.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Acá en Chile, el presidente de Evópoli, Luciano Cruz-Coke,",
+   "en": "Here in «Chile», the leader of «Evópoli», «Luciano Cruz-Coke»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "condicionó su apoyo a la reforma de seguridad.",
+   "en": "has put conditions on his support for the security reform.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La reforma raya en lo iliberal y no es necesaria",
+   "en": "The reform borders on the illiberal and is not necessary",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para avanzar en la agenda de seguridad, afirmó.",
+   "en": "to move the security agenda forward, he said.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Criticó la falta de diálogo del Ejecutivo y dejó en duda su voto",
+   "en": "He criticised the government's lack of dialogue and left his vote",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para aprobar la idea de legislar.",
+   "en": "on the bill in doubt.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Valora, eso sí, la apertura del gobierno a hacer ajustes al proyecto.",
+   "en": "He does welcome the government's willingness to adjust the text.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se ha apostado erróneamente a pensar que por seguridad",
+   "en": "It has been wrongly assumed that for the sake of security",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la gente está dispuesta a sacrificar todo, agregó.",
+   "en": "people are willing to sacrifice everything, he added.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En lo demás, el canciller Pérez Mackenna inició una visita a Vietnam.",
+   "en": "In other news, the foreign minister, «Pérez Mackenna», has begun a visit to «Vietnam».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se reunió con su par vietnamita, Lê Hoài Trung, para profundizar los nexos en comercio,",
+   "en": "He met his Vietnamese counterpart, «Lê Hoài Trung», to deepen ties in trade, defence,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "defensa, seguridad y economía digital.",
+   "en": "security and the digital economy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Vietnam es el principal socio comercial de Chile en el Sudeste Asiático.",
+   "en": "«Vietnam» is «Chile»'s main trading partner in «Southeast Asia».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y una cosa más, nueve estudios chilenos de videojuegos participan en Gamescom, en Alemania.",
+   "en": "And one more thing: nine Chilean video game studios are at «Gamescom», in «Germany».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La feria reúne a trescientos cincuenta mil visitantes,",
+   "en": "The fair draws three hundred and fifty thousand visitors,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la delegación aterrizó en Colonia con el respaldo de ProChile.",
+   "en": "and the delegation landed in «Cologne» backed by «ProChile».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las exportaciones del sector ya superan",
+   "en": "The sector's exports have already passed",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "los seis coma nueve millones de dólares en lo que va del año.",
+   "en": "six point nine million dollars so far this year.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo principal.",
+   "en": "Those are the main stories.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Sunday 23 August",
+ "edition": "morning",
+ "region": "es-CL",
+ "region_label": "Chile",
+ "headline_en": "Zelensky rules out elections while the war lasts, saying a vote would fracture Ukraine",
+ "summary_en": [
+  "Zelensky rules out elections while the war lasts, saying a vote would fracture Ukraine",
+  "Cruz-Coke says the security reform borders on the illiberal and is not necessary",
+  "Foreign minister Perez Mackenna begins a visit to Vietnam, Chile's main Southeast Asian partner"
+ ]
+}

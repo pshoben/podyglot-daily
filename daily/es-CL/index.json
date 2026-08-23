@@ -5,6 +5,47 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-CL-Las noticias de la mañana, domingo 23 de agosto",
+   "file": "podcast-daily-2026-08-23-morning-news-es-CL.json",
+   "bytes": 8043,
+   "sha256": "2b5be7d5827c87a4834f4c5d09a08a588b9e25b8063418371865cfb9b76b1dfa",
+   "date": "2026-08-23",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "Las noticias de la mañana, domingo 23 de agosto",
+   "title_en": "The morning news, Sunday 23 August",
+   "headline_en": "Zelensky rules out elections while the war lasts, saying a vote would fracture Ukraine",
+   "summary_en": [
+    "Zelensky rules out elections while the war lasts, saying a vote would fracture Ukraine",
+    "Cruz-Coke says the security reform borders on the illiberal and is not necessary",
+    "Foreign minister Perez Mackenna begins a visit to Vietnam, Chile's main Southeast Asian partner"
+   ]
+  },
+  {
+   "id": "es-CL-El estado del tiempo, domingo 23 de agosto",
+   "file": "podcast-daily-2026-08-23-morning-weather-es-CL.json",
+   "bytes": 4460,
+   "sha256": "7cc3711493e3d56add7c2899bb3ffbbec9a49b0090398caec52eb7bdc4b55c14",
+   "date": "2026-08-23",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "El estado del tiempo, domingo 23 de agosto",
+   "title_en": "Today's weather, Sunday 23 August",
+   "headline_en": "Santiago today: cloudy, with a high of 20 degrees",
+   "summary_en": [
+    "Santiago today: cloudy, with a high of 20 degrees",
+    "Valparaiso today: cloudy, with a high of 16 degrees"
+   ]
+  },
+  {
    "id": "es-CL-Las noticias de la mañana, sábado 22 de agosto",
    "file": "podcast-daily-2026-08-22-morning-news-es-CL.json",
    "bytes": 8382,

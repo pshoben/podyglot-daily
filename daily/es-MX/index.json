@@ -5,6 +5,47 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-MX-El noticiario matutino, domingo 23 de agosto",
+   "file": "podcast-daily-2026-08-23-morning-news-es-MX.json",
+   "bytes": 8057,
+   "sha256": "914e8f90e7e97c1060672f1e87c2490fb40182138e0635d0c31a0b661e956b68",
+   "date": "2026-08-23",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El noticiario matutino, domingo 23 de agosto",
+   "title_en": "The morning news, Sunday 23 August",
+   "headline_en": "Carney says Canada is in a trade war with the United States",
+   "summary_en": [
+    "Carney says Canada is in a trade war with the United States",
+    "A magnitude 5.9 earthquake near Tokyo leaves 37 injured",
+    "Sinaloa's governor asks for indefinite leave 34 hours after returning to the job"
+   ]
+  },
+  {
+   "id": "es-MX-El clima, domingo 23 de agosto",
+   "file": "podcast-daily-2026-08-23-morning-weather-es-MX.json",
+   "bytes": 4746,
+   "sha256": "f4653b3ce1b0a1b8929f8c3a3f2b03cddb1aedc7c61ec7b08037bb37ac2987a8",
+   "date": "2026-08-23",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El clima, domingo 23 de agosto",
+   "title_en": "Today's weather, Sunday 23 August",
+   "headline_en": "Mexico City today: light rain, with a high of 19 degrees",
+   "summary_en": [
+    "Mexico City today: light rain, with a high of 19 degrees",
+    "Guadalajara today: drizzle, with a high of 26 degrees"
+   ]
+  },
+  {
    "id": "es-MX-El noticiario matutino, sábado 22 de agosto",
    "file": "podcast-daily-2026-08-22-morning-news-es-MX.json",
    "bytes": 9708,

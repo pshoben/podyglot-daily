@@ -1,0 +1,370 @@
+{
+ "title": "Le bulletin du matin, dimanche 23 août",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-news",
+   "wpm": 185,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-23",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Dimanche vingt-trois août. Le bulletin du matin.",
+   "en": "Sunday the twenty-third of August. The morning bulletin.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Volodymyr Zelensky rejette la tenue d'élections tant que dure la guerre.",
+   "en": "«Volodymyr Zelensky» rejects holding elections while the war lasts.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Washington met le Canada en garde contre un conflit commercial.",
+   "en": "«Washington» warns «Canada» against a trade conflict.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et trois Palestiniens sont tués par des frappes israéliennes à Gaza.",
+   "en": "And three Palestinians are killed by Israeli strikes in «Gaza».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On débute avec l'Ukraine.",
+   "en": "We begin with «Ukraine».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le président ukrainien a qualifié de danger la tenue d'élections en temps de guerre,",
+   "en": "The Ukrainian president called wartime elections a danger,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon Radio-Canada, La Presse et Le Devoir.",
+   "en": "according to «Radio-Canada», «La Presse» and «Le Devoir».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un scrutin national provoquerait un tsunami et fracturerait le pays, a-t-il ajouté.",
+   "en": "A national vote would set off a tsunami and fracture the country, he added.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aucun vote ne peut de toute façon être organisé sous la loi martiale,",
+   "en": "No vote can be held in any case under martial law,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en vigueur depuis le début de l'invasion russe.",
+   "en": "in force since the Russian invasion began.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Son ex-ministre de la Défense avait lancé un appel controversé en faveur d'un scrutin.",
+   "en": "His former defence minister had made a controversial call for a vote to be held.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans l'actualité d'ici,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "l'administration Trump a mis en garde le Canada, dimanche,",
+   "en": "the «Trump» administration warned «Canada» on Sunday",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "contre un conflit commercial dont les effets seraient dévastateurs.",
+   "en": "against a trade conflict whose effects would be devastating.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ça suffit, a lancé le président américain.",
+   "en": "That is enough, the American president said.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le premier ministre Mark Carney avait annoncé la veille des contre-tarifs,",
+   "en": "Prime minister «Mark Carney» had announced counter-tariffs the day before,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qui viseront notamment l'acier et les produits laitiers américains.",
+   "en": "aimed among other things at American steel and dairy products.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les conservateurs fédéraux demandent de leur côté au gouvernement de divulguer",
+   "en": "Federal Conservatives, meanwhile, are asking the government to disclose",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tous les détails de l'accord commercial rejeté vendredi par le Canada.",
+   "en": "every detail of the trade deal «Canada» rejected on Friday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On poursuit, le président iranien, Massoud Pezeshkian,",
+   "en": "Moving on, Iran's president, «Massoud Pezeshkian»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a reconnu dimanche que la société iranienne traversait de nombreuses difficultés.",
+   "en": "acknowledged on Sunday that Iranian society was going through many difficulties.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les États-Unis cherchent à accentuer la pression sur l'économie du pays",
+   "en": "The United States is trying to step up the pressure on the country's economy",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "par une nouvelle salve de sanctions.",
+   "en": "with a fresh round of sanctions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Washington a promis de provoquer l'effondrement de l'Iran,",
+   "en": "«Washington» has promised to bring about Iran's collapse,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "rapportent Radio-Canada et La Presse.",
+   "en": "«Radio-Canada» and «La Presse» report.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre nouvelle maintenant, des frappes israéliennes dans le centre de la bande de Gaza ont",
+   "en": "Turning to something else, Israeli strikes in central «Gaza» killed three people,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "fait trois morts, dont un enfant, selon la Défense civile.",
+   "en": "one of them a child, according to the civil defence.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'armée israélienne a affirmé avoir visé un terroriste.",
+   "en": "The Israeli army said it was targeting a terrorist.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En terminant,",
+   "en": "And finally,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le jeune suspect arrêté après l'attaque à l'épée survenue vendredi dans une école suédoise",
+   "en": "the young suspect arrested after Friday's sword attack at a Swedish school",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a été placé en détention provisoire.",
+   "en": "has been remanded in custody.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est ce qu'a annoncé le parquet dimanche,",
+   "en": "That is what the prosecutor announced on Sunday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après Radio-Canada et La Presse.",
+   "en": "according to «Radio-Canada» and «La Presse».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est le portrait du jour.",
+   "en": "That is the picture today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Sunday 23 August",
+ "edition": "morning",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "Zelensky rejects wartime elections, calling a vote a tsunami that would fracture Ukraine",
+ "summary_en": [
+  "Zelensky rejects wartime elections, calling a vote a tsunami that would fracture Ukraine",
+  "Three Palestinians killed by Israeli strikes in central Gaza, the civil defence says",
+  "Iran's president acknowledges the country is going through many difficulties"
+ ]
+}

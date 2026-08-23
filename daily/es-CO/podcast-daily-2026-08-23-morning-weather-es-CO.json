@@ -1,0 +1,179 @@
+{
+ "title": "El clima de hoy, domingo 23 de agosto",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-weather",
+   "wpm": 195,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-23",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Región por región, arrancamos por la capital.",
+   "en": "Region by region, and we start with the capital.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Bogotá, según el modelo del Centro Europeo, el ECMWF,",
+   "en": "In «Bogotá», according to the European Centre model, the «ECMWF»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la probabilidad de precipitación llega hoy al noventa y ocho por ciento.",
+   "en": "the chance of rain reaches ninety-eight per cent today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La jornada se mueve entre diez y dieciséis grados en la capital,",
+   "en": "The day runs between ten and sixteen degrees in the capital,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el cielo trae llovizna.",
+   "en": "and the sky brings drizzle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seis grados de diferencia, y viento de diez kilómetros por hora.",
+   "en": "Six degrees of difference, and a ten kilometre an hour wind.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pendientes en Medellín, donde la llovizna también aparece, con un ochenta por ciento de probabilidad.",
+   "en": "Keep an eye on «Medellín», where the drizzle turns up too, with an eighty per cent chance.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí la máxima sube a veintiocho grados y la mínima queda en diecisiete.",
+   "en": "There the high climbs to twenty-eight degrees and the low sits at seventeen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Son once grados de amplitud,",
+   "en": "That is eleven degrees of swing,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el viento alcanza doce kilómetros por hora.",
+   "en": "and the wind reaches twelve kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Cali la probabilidad baja al setenta y cinco por ciento, con llovizna igualmente.",
+   "en": "In «Cali» the chance drops to seventy-five per cent, with drizzle as well.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima llega a veintinueve grados y la mínima a veintidós.",
+   "en": "The high reaches twenty-nine degrees and the low twenty-two.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Siete grados separan allí el mínimo del máximo.",
+   "en": "Seven degrees separate the lowest from the highest there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento sopla a siete kilómetros por hora.",
+   "en": "The wind blows at seven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese es el clima.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Sunday 23 August",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "Bogota today: drizzle, with a high of 16 degrees",
+ "summary_en": [
+  "Bogota today: drizzle, with a high of 16 degrees",
+  "Medellin today: drizzle, with a high of 28 degrees"
+ ]
+}

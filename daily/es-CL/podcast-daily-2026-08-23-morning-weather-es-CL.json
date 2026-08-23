@@ -1,0 +1,189 @@
+{
+ "title": "El estado del tiempo, domingo 23 de agosto",
+ "dialect": "es-CL",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CL-daily-weather",
+   "wpm": 205,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-23",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "De región en región, un domingo nuboso de norte a sur.",
+   "en": "Region by region, a cloudy Sunday from north to south.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Santiago, según el modelo del Centro Europeo, el ECMWF,",
+   "en": "In «Santiago», according to the European Centre model, the «ECMWF»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la máxima llega hoy a veinte grados.",
+   "en": "the high reaches twenty degrees today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima baja a ocho,",
+   "en": "The low drops to eight,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el cielo está nuboso y no se espera lluvia.",
+   "en": "the sky is cloudy and no rain is expected.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento sopla a ocho kilómetros por hora.",
+   "en": "The wind blows at eight kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Doce grados separan la mínima de la máxima en la capital.",
+   "en": "Twelve degrees separate the low from the high in the capital.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Valparaíso la jornada se mueve entre diez y dieciséis grados.",
+   "en": "In «Valparaíso» the day runs between ten and sixteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También allí el cielo está nuboso y sin lluvia prevista.",
+   "en": "There too the sky is cloudy with no rain forecast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seis grados de diferencia, y viento de nueve kilómetros por hora.",
+   "en": "Six degrees of difference, and a nine kilometre an hour wind.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Precaución en Concepción, donde la mínima cae a cuatro grados.",
+   "en": "Take care in «Concepción», where the low falls to four degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima se queda en diecisiete,",
+   "en": "The high stops at seventeen,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con cielo nuboso y una probabilidad de precipitación del dos por ciento.",
+   "en": "with cloud and a two per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Trece grados de amplitud a lo largo del día.",
+   "en": "Thirteen degrees of swing across the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento allí alcanza ocho kilómetros por hora.",
+   "en": "The wind there reaches eight kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese es el panorama.",
+   "en": "That is the picture.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Sunday 23 August",
+ "edition": "morning",
+ "region": "es-CL",
+ "region_label": "Chile",
+ "headline_en": "Santiago today: cloudy, with a high of 20 degrees",
+ "summary_en": [
+  "Santiago today: cloudy, with a high of 20 degrees",
+  "Valparaiso today: cloudy, with a high of 16 degrees"
+ ]
+}

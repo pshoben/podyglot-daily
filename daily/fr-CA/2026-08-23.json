@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-CA",
+ "date": "2026-08-23",
+ "episodes": [
+  {
+   "id": "fr-CA-Le bulletin du matin, dimanche 23 août",
+   "file": "podcast-daily-2026-08-23-morning-news-fr-CA.json",
+   "bytes": 9411,
+   "sha256": "62f74071b40d9b8e5288c558a36ab6a3d2fdfb6cce9d01a12432b3c12b425f7b",
+   "date": "2026-08-23",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin du matin, dimanche 23 août",
+   "title_en": "The morning news, Sunday 23 August",
+   "headline_en": "Zelensky rejects wartime elections, calling a vote a tsunami that would fracture Ukraine",
+   "summary_en": [
+    "Zelensky rejects wartime elections, calling a vote a tsunami that would fracture Ukraine",
+    "Three Palestinians killed by Israeli strikes in central Gaza, the civil defence says",
+    "Iran's president acknowledges the country is going through many difficulties"
+   ]
+  },
+  {
+   "id": "fr-CA-Le bulletin météo, dimanche 23 août",
+   "file": "podcast-daily-2026-08-23-morning-weather-fr-CA.json",
+   "bytes": 4888,
+   "sha256": "62d0e6003a212eca7737045f1dee36f32cf71a258364488a492a1fc196050713",
+   "date": "2026-08-23",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin météo, dimanche 23 août",
+   "title_en": "Today's weather, Sunday 23 August",
+   "headline_en": "Montreal today: heavy showers, with a high of 25 degrees",
+   "summary_en": [
+    "Montreal today: heavy showers, with a high of 25 degrees",
+    "Quebec City today: showers, with a high of 20 degrees"
+   ]
+  }
+ ],
+ "content": "d4f4954692e66fec36d9a7b6d4b08787e4ea96f23b4079f43f88f63eea7dc63c",
+ "rev": 1,
+ "updated": "2026-08-23T16:01:45.756Z"
+}

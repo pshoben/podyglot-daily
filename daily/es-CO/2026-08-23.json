@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-CO",
+ "date": "2026-08-23",
+ "episodes": [
+  {
+   "id": "es-CO-La actualidad de la mañana, domingo 23 de agosto",
+   "file": "podcast-daily-2026-08-23-morning-news-es-CO.json",
+   "bytes": 8897,
+   "sha256": "809f9c41f90ac1872c61a2345eac3fe7de4edfe3aeb8adc3539cfd47198de1ed",
+   "date": "2026-08-23",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "La actualidad de la mañana, domingo 23 de agosto",
+   "title_en": "The morning news, Sunday 23 August",
+   "headline_en": "MinTIC says more than 7,200 million pesos of education money went on propaganda",
+   "summary_en": [
+    "MinTIC says more than 7,200 million pesos of education money went on propaganda",
+    "A large fire near homes in Popayan keeps firefighters at work",
+    "The president meets leading business figures to help those hit by the earthquake"
+   ]
+  },
+  {
+   "id": "es-CO-El clima de hoy, domingo 23 de agosto",
+   "file": "podcast-daily-2026-08-23-morning-weather-es-CO.json",
+   "bytes": 4431,
+   "sha256": "354bc4b6a2e353aedf4c97c5d441835e05235e0e7ccdf1efdd5dc5cf7acbef38",
+   "date": "2026-08-23",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "El clima de hoy, domingo 23 de agosto",
+   "title_en": "Today's weather, Sunday 23 August",
+   "headline_en": "Bogota today: drizzle, with a high of 16 degrees",
+   "summary_en": [
+    "Bogota today: drizzle, with a high of 16 degrees",
+    "Medellin today: drizzle, with a high of 28 degrees"
+   ]
+  }
+ ],
+ "content": "87f26e9d64eec504e87e2853818bec495724c76f6ea5060bc7dba55d61098961",
+ "rev": 1,
+ "updated": "2026-08-23T16:01:45.756Z"
+}

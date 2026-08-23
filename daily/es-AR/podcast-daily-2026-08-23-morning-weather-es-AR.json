@@ -1,0 +1,209 @@
+{
+ "title": "El pronóstico, domingo 23 de agosto",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-weather",
+   "wpm": 195,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-23",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Provincia por provincia, un domingo de frío.",
+   "en": "Province by province, a cold Sunday.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Servicio Meteorológico Nacional mantiene hoy su alerta amarilla por temperaturas extremas",
+   "en": "The national weather service is keeping its yellow warning for extreme temperatures in force today",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la Ciudad de Buenos Aires y en cinco provincias.",
+   "en": "in «Buenos Aires» city and five provinces.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Buenos Aires, según el modelo del Centro Europeo, el ECMWF,",
+   "en": "In «Buenos Aires», according to the European Centre model, the «ECMWF»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la máxima se queda en once grados.",
+   "en": "the high stops at eleven degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima baja a cuatro,",
+   "en": "The low drops to four,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con cielo nuboso y sin lluvia prevista.",
+   "en": "with cloud and no rain forecast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento sopla a diez kilómetros por hora.",
+   "en": "The wind blows at ten kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Siete grados separan la mínima de la máxima en la Ciudad.",
+   "en": "Seven degrees separate the low from the high in the city.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Atención en Córdoba, donde la mínima también cae a cinco grados.",
+   "en": "Watch out in «Córdoba», where the low also falls to five degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí la máxima llega a quince,",
+   "en": "There the high reaches fifteen,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con cielo nuboso y viento de catorce kilómetros por hora.",
+   "en": "with cloud and a fourteen kilometre an hour wind.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Mendoza la máxima sube un poco, hasta dieciséis grados,",
+   "en": "In «Mendoza» the high climbs a little, to sixteen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con la misma mínima de cinco.",
+   "en": "with the same low of five.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo está nuboso y tampoco se espera lluvia.",
+   "en": "The sky is cloudy and no rain is expected there either.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento allí alcanza doce kilómetros por hora.",
+   "en": "The wind there reaches twelve kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La amplitud allí llega a once grados.",
+   "en": "The swing there gets to eleven degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta acá el pronóstico.",
+   "en": "That is the forecast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Sunday 23 August",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Buenos Aires today: cloudy, with a high of 11 degrees",
+ "summary_en": [
+  "Buenos Aires today: cloudy, with a high of 11 degrees",
+  "Cordoba today: cloudy, with a high of 15 degrees"
+ ]
+}

@@ -1,0 +1,189 @@
+{
+ "title": "El deporte, domingo 23 de agosto",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-sport",
+   "wpm": 195,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-23",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "En las canchas, sigue la sexta fecha del Torneo Clausura,",
+   "en": "Out on the pitches, the sixth round of the «Torneo Clausura» continues,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según Clarín y La Nación.",
+   "en": "according to «Clarín» and «La Nación».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Racing recibe a Boca en el Cilindro de Avellaneda,",
+   "en": "«Racing» host «Boca» at the «Cilindro de Avellaneda»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "desde las nueve y media de la noche.",
+   "en": "from half past nine at night.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Nación llama a ese partido el más importante del domingo.",
+   "en": "«La Nación» calls that game the most important of the Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El árbitro será Nicolás Ramírez,",
+   "en": "The referee will be «Nicolás Ramírez»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con Fernando Echenique en el VAR.",
+   "en": "with «Fernando Echenique» on «VAR».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Antes, River recibe a Vélez en el Monumental,",
+   "en": "Before that, «River» host «Vélez» at the «Monumental»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "desde las siete y cuarto de la tarde.",
+   "en": "from a quarter past seven in the evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ahí dirige Darío Herrera, con Germán Delfino en el VAR.",
+   "en": "There it is «Darío Herrera» in charge, with «Germán Delfino» on «VAR».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Clarín precisa que ese encuentro va por TNT Sports Premium.",
+   "en": "«Clarín» says that game is on «TNT Sports Premium».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo que viene esta tarde en la Premier League tiene otro protagonista:",
+   "en": "Coming up this afternoon in the «Premier League», a different sort of story:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Erling Haaland se rapó el pelo y dejó atrás su melena rubia.",
+   "en": "«Erling Haaland» has shaved his head and left his blond mane behind.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El delantero del Manchester City mostró su nueva imagen antes del arranque de la temporada.",
+   "en": "The «Manchester City» striker showed off his new look before the season starts.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo cuentan Ámbito, Clarín y La Nación.",
+   "en": "«Ámbito», «Clarín» and «La Nación» all report it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es el deporte.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Sunday 23 August",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Racing host Boca and River host Velez in the sixth round of the Clausura",
+ "summary_en": [
+  "Racing host Boca and River host Velez in the sixth round of the Clausura",
+  "Haaland shaves his head before the Premier League season starts"
+ ]
+}

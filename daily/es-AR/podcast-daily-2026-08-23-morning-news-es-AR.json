@@ -1,0 +1,290 @@
+{
+ "title": "El noticiero de la mañana, domingo 23 de agosto",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-23",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Domingo veintitrés de agosto. El noticiero de la mañana.",
+   "en": "Sunday the twenty-third of August. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Rige una alerta amarilla por frío extremo",
+   "en": "A yellow warning for extreme cold is in force",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la Ciudad de Buenos Aires y cinco provincias.",
+   "en": "in «Buenos Aires» city and five provinces.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el nerviosismo electoral empieza a verse en los bonos argentinos.",
+   "en": "And electoral nerves are starting to show in Argentine bonds.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos por el frío.",
+   "en": "We start with the cold.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Servicio Meteorológico Nacional emitió una advertencia de nivel amarillo por temperaturas extremas,",
+   "en": "The national weather service issued a yellow-level warning for extreme temperatures,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según Clarín, Ámbito y La Nación.",
+   "en": "according to «Clarín», «Ámbito» and «La Nación».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El aviso alcanza a la Ciudad de Buenos Aires y a cinco provincias.",
+   "en": "The warning covers «Buenos Aires» city and five provinces.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El organismo advirtió que las temperaturas pueden resultar peligrosas para los grupos de riesgo.",
+   "en": "The service warned that the temperatures can be dangerous for at-risk groups.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La sensación térmica en el área metropolitana llegó a tres grados.",
+   "en": "The wind chill in the metropolitan area reached three degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El avance de aire de origen antártico puede generar heladas, nieve y valores bajo cero.",
+   "en": "Antarctic air pushing north can bring frost, snow and sub-zero readings.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por eso se recomienda tomar precauciones ante el marcado descenso térmico.",
+   "en": "People are being advised to take care as the temperature drops sharply.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También en la agenda,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "los bonos argentinos empiezan a incorporar el riesgo de las elecciones de dos mil veintisiete,",
+   "en": "Argentine bonds are starting to price in the risk of the 2027 elections,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de acuerdo con La Nación.",
+   "en": "according to «La Nación».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los expertos hablan de una mayor cautela,",
+   "en": "The experts talk of greater caution,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "visible en los movimientos de los papeles argentinos y en las tasas de interés.",
+   "en": "visible in the movement of Argentine paper and in interest rates.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ámbito cuenta que los inversores piden aflojar la rienda fiscal,",
+   "en": "«Ámbito» reports that investors want fiscal policy loosened,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y que Barclays advirtió que la incertidumbre política y electoral",
+   "en": "and that «Barclays» has warned that political and electoral uncertainty",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "limitará el impacto de la expansión del crédito en dólares.",
+   "en": "will limit the effect of the expansion of dollar credit.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de tema ahora,",
+   "en": "Moving on,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un terremoto de magnitud cinco coma nueve sacudió Japón y dejó más de treinta heridos,",
+   "en": "an earthquake of magnitude five point nine shook «Japan» and left more than thirty people injured,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según Clarín y La Nación.",
+   "en": "according to «Clarín» and «La Nación».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El sismo afectó la zona metropolitana de Tokio y otras áreas del este del país.",
+   "en": "The quake hit the «Tokyo» metropolitan area and other parts of the east of the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Provocó roturas de cañerías de agua y alteraciones en el transporte en algunas zonas.",
+   "en": "It broke water mains and disrupted transport in some areas.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo central.",
+   "en": "That is the heart of it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Sunday 23 August",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "A magnitude 5.9 earthquake in Japan leaves more than thirty injured",
+ "summary_en": [
+  "A magnitude 5.9 earthquake in Japan leaves more than thirty injured",
+  "A yellow warning for extreme cold covers Buenos Aires city and five provinces",
+  "Argentine markets start to price in the risk of the 2027 elections"
+ ]
+}
