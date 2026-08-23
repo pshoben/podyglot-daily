@@ -1,0 +1,450 @@
+{
+ "title": "Le journal du matin, dimanche 23 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-23",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Dimanche vingt-trois août, sept heures à Paris. Le journal du matin.",
+   "en": "Sunday the twenty-third of August, seven o'clock in «Paris». The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour Volodymyr Zelensky, un scrutin national en pleine guerre fracturerait l'Ukraine.",
+   "en": "For «Volodymyr Zelensky», a national vote in the middle of the war would fracture «Ukraine».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les noyades ont fortement augmenté en France cet été.",
+   "en": "Drownings have risen sharply in «France» this summer.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et la rentrée politique s'ouvre sur une promesse de censure du budget.",
+   "en": "And the political new season opens with a promise to bring the government down over its budget.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par l'Ukraine.",
+   "en": "We start in «Ukraine».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le président ukrainien a écarté la tenue d'élections nationales, selon Le Monde, Le Figaro,",
+   "en": "The Ukrainian president has ruled out holding national elections, according to «Le Monde», «Le Figaro»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "France Télévisions et Sud Ouest.",
+   "en": "«France Télévisions» and «Sud Ouest».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a jugé que des élections, en tant que telles,",
+   "en": "He said elections in themselves",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "représentaient un risque énorme dans une guerre comme celle-ci.",
+   "en": "would be an enormous risk in a war like this one.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un tel scrutin provoquerait un tsunami qui fracturerait le pays.",
+   "en": "Such a vote would set off a tsunami that would split the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Son ancien ministre de la Défense, Mykhaïlo Fedorov,",
+   "en": "His former defence minister, «Mykhaïlo Fedorov»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avait appelé quelques jours plus tôt à ouvrir la voie à un vote.",
+   "en": "had called a few days earlier for the way to be opened for a vote.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, la ministre des Sports, Marina Ferrari,",
+   "en": "In «France», the sports minister, «Marina Ferrari»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a annoncé trois cent une noyades mortelles depuis le dix-neuf juin.",
+   "en": "announced three hundred and one drowning deaths since 19th June.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce bilan est en hausse de quatorze pour cent par rapport à l'an dernier.",
+   "en": "That is up fourteen per cent on last year.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle a parlé d'un triste bilan,",
+   "en": "She called it a sad toll,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et beaucoup de ces accidents mortels surviennent dans des zones de baignade qui ne sont",
+   "en": "and many of these fatal accidents happen at swimming spots that are neither",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ni autorisées ni surveillées.",
+   "en": "authorised nor supervised.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Beaucoup de personnes ont cherché la fraîcheur pendant les vagues de chaleur, a-t-elle expliqué.",
+   "en": "A lot of people were looking for somewhere cool during the heatwaves, she explained.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité, le Canada répond aux nouveaux droits de douane américains.",
+   "en": "In other news, «Canada» is answering the new American tariffs.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon Le Monde, Ottawa a annoncé des surtaxes",
+   "en": "According to «Le Monde», «Ottawa» has announced duties",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sur l'acier et les produits laitiers américains à partir du huit septembre.",
+   "en": "on American steel and dairy products from 8th September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ces mesures répondent aux surtaxes américaines entrées en vigueur samedi.",
+   "en": "The measures answer the American duties that came into force on Saturday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le premier ministre canadien, Mark Carney,",
+   "en": "The Canadian prime minister, «Mark Carney»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a dénoncé une guerre commerciale et promis une riposte au dollar près.",
+   "en": "condemned a trade war and promised to match it dollar for dollar.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ça suffit, a répondu Donald Trump ce dimanche.",
+   "en": "That is enough, «Donald Trump» replied on Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à autre chose, deux policiers municipaux sont en garde à vue dans l'Oise.",
+   "en": "Moving on, two municipal police officers are being held in the «Oise».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un homme est mort dans un accident de la route après un refus d'obtempérer,",
+   "en": "A man died in a road accident after refusing to stop,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après France Télévisions, Libération et Sud Ouest.",
+   "en": "according to «France Télévisions», «Libération» and «Sud Ouest».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les faits se sont produits dans la nuit de vendredi à samedi,",
+   "en": "It happened on Friday night,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le conducteur tentait d'échapper à un contrôle routier.",
+   "en": "and the driver was trying to get away from a roadside check.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le passager, légèrement blessé, a lui aussi été placé en garde à vue.",
+   "en": "The passenger, slightly injured, has also been taken into custody.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le parquet de Compiègne cherche à établir l'enchaînement des faits.",
+   "en": "The prosecutor's office in «Compiègne» is trying to establish the sequence of events.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Toujours en France, Jean-Luc Mélenchon a promis la censure du budget deux mille vingt-sept,",
+   "en": "Turning to something else, «Jean-Luc Mélenchon» promised to bring the government down over its 2027 budget,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon France Télévisions, Le Figaro et Le Monde.",
+   "en": "according to «France Télévisions», «Le Figaro» and «Le Monde».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le candidat de La France insoumise a estimé que le projet du gouvernement de Sébastien",
+   "en": "The candidate for «La France insoumise» said the budget drawn up by the government of «Sébastien",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lecornu allait aggraver tous les maux de l'économie française.",
+   "en": "Lecornu» would make every problem in the French economy worse.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il s'exprimait en clôture des universités d'été de son parti.",
+   "en": "He was speaking at the close of his party's summer school.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Raphaël Glucksmann doit, lui, s'exprimer ce dimanche soir.",
+   "en": "«Raphaël Glucksmann» is due to speak on Sunday evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Figaro attend l'officialisation de sa candidature,",
+   "en": "«Le Figaro» expects him to confirm he is standing;",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sud Ouest celle de sa participation à une primaire avec le Parti socialiste.",
+   "en": "«Sud Ouest» expects him to announce he is joining a primary with the «Parti socialiste».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour ce tour de l'actualité.",
+   "en": "That is the round-up of the news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Sunday 23 August",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Zelensky says wartime elections would be a huge risk and would fracture Ukraine",
+ "summary_en": [
+  "Zelensky says wartime elections would be a huge risk and would fracture Ukraine",
+  "Canada answers new American tariffs with its own on steel and dairy from 8th September",
+  "301 drowning deaths in France since 19th June, up 14 per cent on last year"
+ ]
+}

@@ -1,0 +1,310 @@
+{
+ "title": "Le sept heures, dimanche 23 août",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-news",
+   "wpm": 222,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-23",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Dimanche vingt-trois août à Bruxelles. Le sept heures.",
+   "en": "Sunday the twenty-third of August in «Brussels». The seven o'clock news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Volodymyr Zelensky balaie l'idée d'élections en Ukraine tant que dure la guerre.",
+   "en": "«Volodymyr Zelensky» sweeps aside the idea of elections in «Ukraine» while the war lasts.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'incendie des Hautes Fagnes a connu de nouvelles reprises de feu cette nuit.",
+   "en": "The «Hautes Fagnes» fire flared up again overnight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et deux tiers seulement des conducteurs étrangers verbalisés chez nous paient leur amende.",
+   "en": "And only two thirds of foreign drivers fined here actually pay.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On ouvre avec l'Ukraine.",
+   "en": "We open in «Ukraine».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le président ukrainien a jugé que des élections en temps de guerre",
+   "en": "The Ukrainian president said elections in wartime",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "seraient un danger pour le pays.",
+   "en": "would be a danger to the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un tel scrutin serait, selon lui,",
+   "en": "Such a vote, he says,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un tsunami qui fracturerait l'Ukraine.",
+   "en": "would be a tsunami that would fracture «Ukraine».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ces propos font suite à l'appel controversé de son ex-ministre de la Défense,",
+   "en": "The remarks follow a controversial call from his former defence minister,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qui demandait d'ouvrir la voie à un scrutin.",
+   "en": "who was asking for the way to be opened for a vote.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Chez nous, l'incendie des Hautes Fagnes n'est pas éteint.",
+   "en": "Here at home, the «Hautes Fagnes» fire is not out.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La nuit de samedi à dimanche",
+   "en": "Saturday night into Sunday",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a été marquée par quelques reprises de feu localisées et une fumée assez présente,",
+   "en": "brought some localised flare-ups and a good deal of smoke,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon les services du gouverneur de la province de Liège.",
+   "en": "according to the office of the governor of «Liège» province.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le feu a démarré il y a plus d'une semaine dans le parc naturel.",
+   "en": "The fire started more than a week ago in the nature park.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ailleurs dans l'actu, les conducteurs étrangers verbalisés en Belgique",
+   "en": "In other news, foreign drivers fined in «Belgium»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sont bien moins nombreux que les Belges à s'acquitter de leur amende.",
+   "en": "are far less likely than Belgians to pay.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Deux tiers d'entre eux seulement la paient, selon VRT NWS.",
+   "en": "Only two thirds of them pay, according to «VRT NWS».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On enchaîne, à Saint-Gilles, un homme a été blessé par balle samedi soir.",
+   "en": "Moving on, in «Saint-Gilles», a man was shot and wounded on Saturday evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les faits se sont produits au croisement de la rue Gustave Defnet et de la chaussée de Forest.",
+   "en": "It happened at the corner of «rue Gustave Defnet» and «chaussée de Forest».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ses jours ne sont pas en danger, a indiqué le bourgmestre de Saint-Gilles, Jean Spinette.",
+   "en": "He is not in a life-threatening condition, the mayor of «Saint-Gilles», «Jean Spinette», said.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre dossier maintenant, au moins trente-sept personnes ont été blessées",
+   "en": "Turning to something else, at least thirty-seven people were injured",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans un tremblement de terre près de Tokyo,",
+   "en": "in an earthquake near «Tokyo»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon l'agence japonaise de gestion des incendies et des catastrophes.",
+   "en": "according to the Japanese fire and disaster management agency.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La secousse s'est produite dans la nuit de samedi à dimanche.",
+   "en": "The tremor struck overnight into Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sa magnitude est pour l'instant estimée à cinq virgule neuf sur l'échelle de Richter.",
+   "en": "Its magnitude is put for now at five point nine on the «Richter» scale.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est la fin de ce journal.",
+   "en": "That is the end of the bulletin.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Sunday 23 August",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Zelensky says wartime elections would endanger Ukraine and fracture the country",
+ "summary_en": [
+  "Zelensky says wartime elections would endanger Ukraine and fracture the country",
+  "At least 37 injured in a magnitude 5.9 earthquake near Tokyo",
+  "The Hautes Fagnes fire flared up again overnight, with smoke building"
+ ]
+}

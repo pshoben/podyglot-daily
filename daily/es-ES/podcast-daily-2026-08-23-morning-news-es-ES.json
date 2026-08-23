@@ -1,0 +1,420 @@
+{
+ "title": "El informativo de la mañana, domingo 23 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-news",
+   "wpm": 208,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-23",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Domingo veintitrés de agosto, siete de la mañana en Madrid.",
+   "en": "Sunday the twenty-third of August, seven in the morning in «Madrid».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El informativo de la mañana.",
+   "en": "The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un terremoto de magnitud cinco coma nueve sacude la región de Tokio.",
+   "en": "An earthquake of magnitude five point nine shakes the «Tokyo» region.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Feijóo pide a Sánchez que decrete el confinamiento en Ceuta.",
+   "en": "«Feijóo» calls on «Sánchez» to order a lockdown in «Ceuta».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el presidente andaluz pide recuperar una unidad de élite contra el narcotráfico.",
+   "en": "And the Andalusian president asks for an elite anti-drug unit to be brought back.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Abrimos con Japón.",
+   "en": "We open in «Japan».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un terremoto de magnitud cinco coma nueve ha sacudido la región de Tokio,",
+   "en": "An earthquake of magnitude five point nine has shaken the «Tokyo» region,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con epicentro en la prefectura de Ibaraki.",
+   "en": "with its epicentre in «Ibaraki» prefecture.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "No hay riesgo de tsunami,",
+   "en": "There is no tsunami risk,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según la Agencia Meteorológica de Japón.",
+   "en": "according to Japan's weather agency.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El temblor tuvo una profundidad de sesenta y ocho kilómetros, informa elDiario punto es.",
+   "en": "The tremor was sixty-eight kilometres deep, «elDiario. es» reports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Vanguardia habla de al menos treinta y siete heridos leves,",
+   "en": "«La Vanguardia» reports at least thirty-seven people slightly hurt; «El",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y El País de una treintena.",
+   "en": "País» says about thirty.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en España,",
+   "en": "Here in «Spain»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Alberto Núñez Feijóo ha pedido a Pedro Sánchez que decrete el confinamiento en Ceuta.",
+   "en": "«Alberto Núñez Feijóo» has asked «Pedro Sánchez» to order a lockdown in «Ceuta».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El líder del Partido Popular ha alegado un riesgo sanitario,",
+   "en": "The «Partido Popular» leader argued a health risk,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y ha citado casos de sarna y de tuberculosis.",
+   "en": "citing cases of scabies and tuberculosis.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Miles de migrantes siguen en las calles de la ciudad",
+   "en": "Thousands of migrants are still on the city's streets",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tres semanas después de la entrada masiva del treinta de julio, según El País.",
+   "en": "three weeks after the mass entry of 30th July, according to «El País».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Gobierno asume que la respuesta de acogida llevará meses, escribe La Vanguardia.",
+   "en": "The government accepts that taking the arrivals in will take months, «La Vanguardia» writes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el resto de la actualidad, el presidente andaluz, Juanma Moreno,",
+   "en": "In other news, the Andalusian president, «Juanma Moreno»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ha pedido al Gobierno por carta que recupere una unidad de élite de la Guardia",
+   "en": "has asked the government by letter to bring back a «Guardia",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Civil contra el narcotráfico.",
+   "en": "Civil» elite unit against drug trafficking.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se trata del OCON-Sur, desmantelado en dos mil veintidós.",
+   "en": "It is the «OCON-Sur», disbanded in 2022.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Moreno justifica la petición por una escalada de inseguridad de las mafias que operan en la comunidad,",
+   "en": "«Moreno» puts the request down to a rise in insecurity from the gangs operating in the region,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de acuerdo con El País.",
+   "en": "according to «El País».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de tema, el incendio forestal de Segorbe, en la Sierra Calderona, está estabilizado,",
+   "en": "Moving on, the «Segorbe» forest fire, in the «Sierra Calderona», is stabilised,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según El País y La Vanguardia.",
+   "en": "according to «El País» and «La Vanguardia».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ha calcinado seiscientas treinta hectáreas y obligó a desalojar la localidad de Gátova.",
+   "en": "It has burned six hundred and thirty hectares and forced the village of «Gátova» to be evacuated.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El millar de vecinos desalojados el viernes puede regresar a sus casas desde este domingo,",
+   "en": "The thousand residents evacuated on Friday can go home from Sunday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "aunque deberán permanecer confinados, precisa El País.",
+   "en": "though they will have to stay indoors, «El País» says.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Vanguardia añade que el fuego se originó por un rayo y que la alerta",
+   "en": "«La Vanguardia» adds that the fire was started by lightning and that the alert",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ha bajado del nivel dos al uno.",
+   "en": "has dropped from level two to one.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para terminar, un robot chino ha batido el récord mundial de Usain Bolt",
+   "en": "And finally, a Chinese robot has beaten «Usain Bolt»'s world record",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en los cien metros, según El País y La Vanguardia.",
+   "en": "over a hundred metres, according to «El País» and «La Vanguardia».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ocurrió en los Juegos Mundiales de Robots Humanoides de Pekín.",
+   "en": "It happened at the World Humanoid Robot Games in «Beijing».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Mundo ha contado además la historia de Lightning,",
+   "en": "«El Mundo» has also told the story of «Lightning»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un robot de cuarenta y cinco kilos de titanio diseñado para batir a Usain Bolt.",
+   "en": "a forty-five kilo titanium robot designed to beat «Usain Bolt».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí lo esencial.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Sunday 23 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "A magnitude 5.9 earthquake shook the Tokyo region, with no tsunami risk",
+ "summary_en": [
+  "A magnitude 5.9 earthquake shook the Tokyo region, with no tsunami risk",
+  "Feijoo calls on Sanchez to order a lockdown in Ceuta on health-risk grounds",
+  "Moreno asks the government to bring back the Guardia Civil elite anti-drug unit"
+ ]
+}

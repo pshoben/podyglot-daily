@@ -5,6 +5,47 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-BE-Le sept heures, dimanche 23 août",
+   "file": "podcast-daily-2026-08-23-morning-news-fr-BE.json",
+   "bytes": 7995,
+   "sha256": "dc903080119415f90c1c1e70b41d8184c1bfb09d19828ce644452ad6037a4040",
+   "date": "2026-08-23",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, dimanche 23 août",
+   "title_en": "The morning news, Sunday 23 August",
+   "headline_en": "Zelensky says wartime elections would endanger Ukraine and fracture the country",
+   "summary_en": [
+    "Zelensky says wartime elections would endanger Ukraine and fracture the country",
+    "At least 37 injured in a magnitude 5.9 earthquake near Tokyo",
+    "The Hautes Fagnes fire flared up again overnight, with smoke building"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, dimanche 23 août",
+   "file": "podcast-daily-2026-08-23-morning-weather-fr-BE.json",
+   "bytes": 4681,
+   "sha256": "6a01cdd6b05c9ad2ff184bf6cd4b16369240044531cb6993df961edf454ddf53",
+   "date": "2026-08-23",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, dimanche 23 août",
+   "title_en": "Today's weather, Sunday 23 August",
+   "headline_en": "Brussels today: drizzle, between ten and nineteen degrees",
+   "summary_en": [
+    "Brussels today: drizzle, between ten and nineteen degrees",
+    "Liege today: overcast, between ten and nineteen degrees"
+   ]
+  },
+  {
    "id": "fr-BE-Le sport chez nous, samedi 22 août",
    "file": "podcast-daily-2026-08-22-morning-sport-fr-BE.json",
    "bytes": 4448,

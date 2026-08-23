@@ -1,0 +1,189 @@
+{
+ "title": "La météo, dimanche 23 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-23",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Sur l'ensemble du pays aujourd'hui, trois villes et trois ciels différents.",
+   "en": "Across the country today, three cities and three different skies.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Paris, selon les modèles de Météo-France, le ciel reste couvert.",
+   "en": "In «Paris», according to the «Météo-France» models, the sky stays overcast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La capitale évolue aujourd'hui entre quinze et vingt-cinq degrés.",
+   "en": "The capital runs between fifteen and twenty-five degrees today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Soit dix degrés d'écart entre le minimum et le maximum.",
+   "en": "That is ten degrees between the low and the high.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y souffle jusqu'à dix-huit kilomètres par heure.",
+   "en": "The wind there blows up to eighteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Direction le Sud-Est, où Marseille garde des nuages épars.",
+   "en": "Down to the south-east, where «Marseille» keeps scattered cloud.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le thermomètre y monte à vingt-neuf degrés,",
+   "en": "The thermometer there climbs to twenty-nine degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et la ville ne descend pas sous les vingt-deux.",
+   "en": "and the city does not drop below twenty-two.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'amplitude n'y dépasse pas sept degrés sur la journée.",
+   "en": "The swing there is no more than seven degrees over the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Quatorze kilomètres par heure au maximum pour le vent.",
+   "en": "Fourteen kilometres an hour at most for the wind.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le Sud-Ouest, Bordeaux attend trente-cinq degrés au plus chaud de la journée.",
+   "en": "In the south-west, «Bordeaux» is expecting thirty-five degrees at the hottest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le minimum y descend à dix-neuf degrés.",
+   "en": "The low there drops to nineteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seize degrés en revanche séparent le plus bas du plus haut.",
+   "en": "Sixteen degrees, by contrast, separate the lowest from the highest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De la bruine est attendue sur la ville,",
+   "en": "Drizzle is expected over the city,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent monte à vingt-trois kilomètres par heure.",
+   "en": "and the wind climbs to twenty-three kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Sunday 23 August",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Paris today: overcast, with a high of 25 degrees",
+ "summary_en": [
+  "Paris today: overcast, with a high of 25 degrees",
+  "Marseille today: scattered cloud, with a high of 29 degrees"
+ ]
+}

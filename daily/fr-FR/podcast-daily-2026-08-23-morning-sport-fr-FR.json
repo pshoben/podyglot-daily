@@ -1,0 +1,189 @@
+{
+ "title": "Le sport, dimanche 23 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-23",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Sur les terrains ce dimanche, du basket et du tennis.",
+   "en": "On the courts this Sunday, basketball and tennis.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'équipe de France de basket retrouve la Serbie à Orléans, selon L'Équipe et France Télévisions.",
+   "en": "The «France» basketball team meet «Serbia» in «Orléans», according to «L'Équipe» and «France Télévisions».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est une rencontre de préparation au Mondial deux mille vingt-sept,",
+   "en": "It is a warm-up match for the 2027 World Cup,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans la fenêtre internationale du mois d'août.",
+   "en": "in this month's international window.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Victor Wembanyama sera le capitaine des Bleus.",
+   "en": "«Victor Wembanyama» will captain the French side.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Rudy Gobert et le Serbe Nikola Jokic sont aussi à l'affiche.",
+   "en": "«Rudy Gobert» and «Nikola Jokic» of «Serbia» are also on the bill.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est la France qui reçoit, cette fois.",
+   "en": "This time it is «France» at home.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au programme aussi, Arthur Fils en finale du Masters mille de Cincinnati,",
+   "en": "Also on the bill, «Arthur Fils» in the «Cincinnati» Masters 1000 final,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après Ouest-France et L'Équipe.",
+   "en": "according to «Ouest-France» and «L'Équipe».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il affronte Frances Tiafoe.",
+   "en": "He faces «Frances Tiafoe».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En cas de victoire,",
+   "en": "If he wins,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "il deviendrait le premier Français titré dans un tournoi de ce niveau",
+   "en": "he would be the first Frenchman to take a title at that level",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "depuis Jo-Wilfried Tsonga, à Toronto en deux mille quatorze.",
+   "en": "since «Jo-Wilfried Tsonga», in «Toronto» in 2014.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Guy Forget, vainqueur à Cincinnati en mille neuf cent quatre-vingt-onze,",
+   "en": "«Guy Forget», who won at «Cincinnati» in 1991,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "voit en lui un successeur possible.",
+   "en": "sees him as a possible successor.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Sunday 23 August",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "France play Serbia in Orleans in the basketball World Cup build-up",
+ "summary_en": [
+  "France play Serbia in Orleans in the basketball World Cup build-up",
+  "Arthur Fils plays the Cincinnati Masters 1000 final on Sunday"
+ ]
+}

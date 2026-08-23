@@ -1,0 +1,213 @@
+{
+ "title": "El tiempo, domingo 23 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather",
+   "wpm": 208,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-23",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "De norte a sur, el domingo se parte en dos.",
+   "en": "From north to south, Sunday splits in two.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según la AEMET, hay avisos naranjas por tormentas en el sur de Huesca,",
+   "en": "According to «AEMET», there are orange storm warnings for southern «Huesca»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el Bajo Aragón de Teruel,",
+   "en": "the «Bajo Aragón» of «Teruel»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "las Cinco Villas y la Ribera del Ebro de Zaragoza.",
+   "en": "the «Cinco Villas» and the «Ribera del Ebro» in «Zaragoza».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Están en vigor de dos de la tarde a casi las diez de la noche.",
+   "en": "They run from two in the afternoon to almost ten at night.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ojo en el Pirineo, donde el aviso naranja es por lluvias,",
+   "en": "Watch the Pyrenees, where the orange warning is for rain,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de cuatro de la tarde a medianoche.",
+   "en": "from four in the afternoon until midnight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Afecta al Valle de Arán, al Pirineo de Lleida,",
+   "en": "It covers the «Valle de Arán» and the «Lleida» Pyrenees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "al Pirineo oscense y al centro de Huesca.",
+   "en": "the «Huesca» Pyrenees and central «Huesca».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hay además avisos amarillos por lluvias y tormentas",
+   "en": "There are also yellow warnings for rain and storms",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en las Rías Baixas, en el centro de Navarra, en el litoral de Guipúzcoa,",
+   "en": "in the «Rías Baixas», central Navarre, the «Gipuzkoa» coast,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el interior norte de Valencia y en la Serranía de Cuenca.",
+   "en": "the northern interior of «Valencia» and the «Serranía de Cuenca».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Madrid, en cambio, el cielo está despejado.",
+   "en": "In «Madrid», by contrast, the sky is clear.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La capital se mueve hoy entre veinte y treinta y tres grados.",
+   "en": "The capital runs today between twenty and thirty-three degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento sopla del suroeste a veinte kilómetros por hora,",
+   "en": "The wind blows from the south-west at twenty kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la probabilidad de precipitación es del cero por ciento.",
+   "en": "and the chance of rain is zero.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El índice ultravioleta llega a ocho.",
+   "en": "The ultraviolet index reaches eight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí el tiempo.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Sunday 23 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "España",
+ "accent": "Castilla",
+ "accent_label": "acento de Castilla",
+ "segment_order": 0,
+ "headline_en": "AEMET has orange storm and rain warnings today for Aragon and the Pyrenees",
+ "summary_en": [
+  "AEMET has orange storm and rain warnings today for Aragon and the Pyrenees",
+  "Yellow rain and storm warnings today for Galicia, Navarre and the eastern interior"
+ ]
+}

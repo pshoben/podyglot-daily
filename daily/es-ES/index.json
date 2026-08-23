@@ -5,6 +5,107 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-ES-El informativo de la mañana, domingo 23 de agosto",
+   "file": "podcast-daily-2026-08-23-morning-news-es-ES.json",
+   "bytes": 10735,
+   "sha256": "14d2f6aec85807d4fbdd5f6988a37510a1d06a432e4fc21928c55d3398afe386",
+   "date": "2026-08-23",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, domingo 23 de agosto",
+   "title_en": "The morning news, Sunday 23 August",
+   "headline_en": "A magnitude 5.9 earthquake shook the Tokyo region, with no tsunami risk",
+   "summary_en": [
+    "A magnitude 5.9 earthquake shook the Tokyo region, with no tsunami risk",
+    "Feijoo calls on Sanchez to order a lockdown in Ceuta on health-risk grounds",
+    "Moreno asks the government to bring back the Guardia Civil elite anti-drug unit"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, domingo 23 de agosto",
+   "file": "podcast-daily-2026-08-23-morning-sport-es-ES.json",
+   "bytes": 4584,
+   "sha256": "5d0982f3b4947f6e30321f27b13b36f589a02b4ab0a5435cf786dc9071458964",
+   "date": "2026-08-23",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, domingo 23 de agosto",
+   "title_en": "Today's sport, Sunday 23 August",
+   "headline_en": "Elche host Barcelona tonight in LaLiga, with Balde left out of the squad",
+   "summary_en": [
+    "Elche host Barcelona tonight in LaLiga, with Balde left out of the squad",
+    "Atletico Madrid play Villarreal at the Metropolitano on Sunday"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, domingo 23 de agosto",
+   "file": "podcast-daily-2026-08-23-morning-weather-es-ES.json",
+   "bytes": 5202,
+   "sha256": "3b20b40bf06fcfda55b74f338b4c46f72509ba4b33d1e926ba8d693b9f9d85ed",
+   "date": "2026-08-23",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, domingo 23 de agosto",
+   "title_en": "Today's weather, Sunday 23 August",
+   "headline_en": "AEMET has orange storm and rain warnings today for Aragon and the Pyrenees",
+   "summary_en": [
+    "AEMET has orange storm and rain warnings today for Aragon and the Pyrenees",
+    "Yellow rain and storm warnings today for Galicia, Navarre and the eastern interior"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, domingo 23 de agosto",
+   "file": "podcast-daily-2026-08-23-morning-weather-andalucia-es-ES.json",
+   "bytes": 4346,
+   "sha256": "e11a283679d97beb71cb47ee6ed18efc55b54f67becbe3d3c8420212a8f853df",
+   "date": "2026-08-23",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, domingo 23 de agosto",
+   "title_en": "Today's weather, Andalusia, Sunday 23 August",
+   "headline_en": "Cordoba today: clear skies, with a high of 34 degrees",
+   "summary_en": [
+    "Cordoba today: clear skies, with a high of 34 degrees",
+    "Seville today: clear skies, with a high of 30 degrees"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, domingo 23 de agosto",
+   "file": "podcast-daily-2026-08-23-morning-weather-canarias-es-ES.json",
+   "bytes": 3761,
+   "sha256": "e07482f59ffdd7cb1c9dbdd7793b93d0b22411f5eeacfc495d63fbccada7e542",
+   "date": "2026-08-23",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, domingo 23 de agosto",
+   "title_en": "Today's weather, Canary Islands, Sunday 23 August",
+   "headline_en": "Las Palmas today: clear skies, with a high of 28 degrees",
+   "summary_en": [
+    "Las Palmas today: clear skies, with a high of 28 degrees",
+    "Santa Cruz de Tenerife today: clear skies, with a high of 31 degrees"
+   ]
+  },
+  {
    "id": "es-ES-El informativo de la mañana, sábado 22 de agosto",
    "file": "podcast-daily-2026-08-22-morning-news-es-ES.json",
    "bytes": 9720,

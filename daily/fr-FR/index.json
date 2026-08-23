@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-FR-Le journal du matin, dimanche 23 août",
+   "file": "podcast-daily-2026-08-23-morning-news-fr-FR.json",
+   "bytes": 11952,
+   "sha256": "0b0e8af1bbc098fdc520c305d77210cb0b7987f27c0bed252091b62c3f696e58",
+   "date": "2026-08-23",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, dimanche 23 août",
+   "title_en": "The morning news, Sunday 23 August",
+   "headline_en": "Zelensky says wartime elections would be a huge risk and would fracture Ukraine",
+   "summary_en": [
+    "Zelensky says wartime elections would be a huge risk and would fracture Ukraine",
+    "Canada answers new American tariffs with its own on steel and dairy from 8th September",
+    "301 drowning deaths in France since 19th June, up 14 per cent on last year"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, dimanche 23 août",
+   "file": "podcast-daily-2026-08-23-morning-sport-fr-FR.json",
+   "bytes": 4551,
+   "sha256": "094bc1331bb67a85699e0c7e1d1104cf88972f9d9e6e1e101e9ec394e8353982",
+   "date": "2026-08-23",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, dimanche 23 août",
+   "title_en": "Today's sport, Sunday 23 August",
+   "headline_en": "France play Serbia in Orleans in the basketball World Cup build-up",
+   "summary_en": [
+    "France play Serbia in Orleans in the basketball World Cup build-up",
+    "Arthur Fils plays the Cincinnati Masters 1000 final on Sunday"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, dimanche 23 août",
+   "file": "podcast-daily-2026-08-23-morning-weather-fr-FR.json",
+   "bytes": 4672,
+   "sha256": "ec2177fef5f31525e3784196cbd003d4de74b116b4d99c30e795b78347948aad",
+   "date": "2026-08-23",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, dimanche 23 août",
+   "title_en": "Today's weather, Sunday 23 August",
+   "headline_en": "Paris today: overcast, with a high of 25 degrees",
+   "summary_en": [
+    "Paris today: overcast, with a high of 25 degrees",
+    "Marseille today: scattered cloud, with a high of 29 degrees"
+   ]
+  },
+  {
    "id": "fr-FR-Le journal du matin, samedi 22 août",
    "file": "podcast-daily-2026-08-22-morning-news-fr-FR.json",
    "bytes": 13644,
