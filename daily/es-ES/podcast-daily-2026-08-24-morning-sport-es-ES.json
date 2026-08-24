@@ -1,0 +1,189 @@
+{
+ "title": "Los deportes, lunes 24 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-sport",
+   "wpm": 208,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-24",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Hoy en la agenda, el fútbol.",
+   "en": "On the agenda today, football.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Málaga recibe esta noche al Deportivo de la Coruña en La Rosaleda,",
+   "en": "«Málaga» host «Deportivo de la Coruña» tonight at «La Rosaleda», according",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según Marca y Sport.",
+   "en": "to «Marca» and «Sport».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es la segunda jornada de LaLiga.",
+   "en": "It is round two of «LaLiga».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los dos equipos vuelven a verse en la máxima categoría.",
+   "en": "The two sides meet again in the top flight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sport sitúa el saque inicial a las nueve y media de la noche.",
+   "en": "«Sport» puts the kick-off at half past nine in the evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para el Málaga es el regreso de la Primera División a su estadio.",
+   "en": "For «Málaga» it is the return of first-division football to their ground.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Marca cuenta noventa y nueve meses",
+   "en": "«Marca» counts ninety-nine months",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "desde el último partido de la máxima categoría en La Rosaleda.",
+   "en": "since the last top-flight match at «La Rosaleda».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sport habla de ocho años de espera para la afición del Málaga.",
+   "en": "«Sport» talks of eight years of waiting for the «Málaga» supporters.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La espera termina esta noche en Martiricos.",
+   "en": "The wait ends tonight in «Martiricos».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Deportivo viaja con Yeremay Hernández.",
+   "en": "«Deportivo» travel with «Yeremay Hernández».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su entrenador, Antonio Hidalgo, lo ha confirmado para La Rosaleda.",
+   "en": "His coach, «Antonio Hidalgo», has confirmed him for «La Rosaleda».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Marca apunta que el canario no parece que vaya a salir de titular.",
+   "en": "«Marca» notes that he does not look likely to start.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Yeremay no juega desde el partido del ascenso ante el Valladolid.",
+   "en": "«Yeremay» has not played since the promotion match against «Valladolid».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí los deportes.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Monday 24 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Malaga host Deportivo at La Rosaleda on Monday in round two of LaLiga",
+ "summary_en": [
+  "Malaga host Deportivo at La Rosaleda on Monday in round two of LaLiga",
+  "Malaga's first top-flight home match at La Rosaleda in years"
+ ]
+}

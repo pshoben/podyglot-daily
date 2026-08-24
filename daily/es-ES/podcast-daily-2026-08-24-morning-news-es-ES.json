@@ -1,0 +1,430 @@
+{
+ "title": "El informativo de la mañana, lunes 24 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-news",
+   "wpm": 208,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-24",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lunes veinticuatro de agosto, siete de la mañana en Madrid.",
+   "en": "Monday the twenty-fourth of August, seven in the morning in «Madrid».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El informativo de la mañana.",
+   "en": "The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los ministros empiezan hoy a comparecer en el Congreso por la crisis de Ceuta.",
+   "en": "Ministers start appearing before «Congress» today over the «Ceuta» crisis.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Feijóo pide confinar a los migrantes en la ciudad y Sanidad se niega.",
+   "en": "«Feijóo» is asking for migrants in the city to be confined, and the health ministry says no.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y empeora la salud del rey Harald de Noruega.",
+   "en": "And the health of «King Harald» of «Norway» has worsened.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Abrimos con la crisis migratoria.",
+   "en": "We open with the migration crisis.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La ciudad autónoma de Ceuta vive una situación de emergencia",
+   "en": "The autonomous city of «Ceuta» has been in a state of emergency",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "desde hace más de tres semanas,",
+   "en": "for more than three weeks,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según ABC y elDiario punto es.",
+   "en": "according to «ABC» and «elDiario.es».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El detonante fue la entrada irregular de decenas de miles de personas",
+   "en": "It was set off when tens of thousands of people",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por la frontera con Marruecos.",
+   "en": "crossed the border with «Morocco» irregularly.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "elDiario punto es sitúa ese cruce el treinta de julio.",
+   "en": "«elDiario. es» puts that crossing on 30th July.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La crisis llega este lunes al Congreso,",
+   "en": "The crisis reaches «Congress» this Monday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según El País, La Vanguardia y elDiario punto es.",
+   "en": "according to «El Pais», «La Vanguardia» and «elDiario.es».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los ministros comparecen para explicar qué han hecho y qué ha fallado.",
+   "en": "The ministers are appearing to explain what they have done and what went wrong.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El País habla de siete ministros;",
+   "en": "«El Pais» says seven ministers;",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Vanguardia y elDiario punto es enumeran ocho carteras.",
+   "en": "«La Vanguardia» and «elDiario.es» list eight portfolios.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El País añade que el Partido Popular denunciará que el Ejecutivo elude el Senado.",
+   "en": "«El Pais» adds that the «Partido Popular» will complain that the government is avoiding the «Senate».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para elDiario punto es,",
+   "en": "For «elDiario.es»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el arranque de curso en el Congreso",
+   "en": "the start of the parliamentary year",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "será una batalla sin cuartel entre Gobierno y oposición.",
+   "en": "will be a no-holds-barred battle between government and opposition.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En paralelo,",
+   "en": "Alongside that,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Alberto Núñez Feijóo pide a Pedro Sánchez decretar el confinamiento en Ceuta",
+   "en": "«Alberto Núñez Feijóo» is asking «Pedro Sánchez» to order the confinement of migrants in «Ceuta»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por riesgo sanitario de sarna y tuberculosis.",
+   "en": "over the health risk of scabies and tuberculosis.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sanidad ve la medida injustificada y desmesurada.",
+   "en": "The health ministry calls the measure unjustified and disproportionate.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según el ministerio, el riesgo de transmisión a la población es bajo,",
+   "en": "According to the ministry, the risk of transmission to the population is low,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y moderado entre los inmigrantes.",
+   "en": "and moderate among the migrants.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La ministra de Sanidad, Mónica García,",
+   "en": "The health minister, «Mónica García»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ha afirmado que los confinamientos deben ajustarse al mecanismo de transmisión de cada enfermedad.",
+   "en": "has said that confinements have to match the way each disease is transmitted.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En algunos casos, ha añadido,",
+   "en": "In some cases, she added,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "podrían ser más perjudiciales que beneficiosos.",
+   "en": "they could do more harm than good.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el resto de la actualidad,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la Casa Real de Noruega ha comunicado que la salud del rey Harald ha empeorado,",
+   "en": "the Norwegian royal household has said the health of «King Harald» has worsened,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según El País y ABC.",
+   "en": "according to «El Pais» and «ABC».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El monarca ingresó la semana pasada.",
+   "en": "The king was admitted to hospital last week.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El País cuenta que está siendo tratado",
+   "en": "«El Pais» reports that he is being treated",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por una infección bacteriana y que responde al tratamiento.",
+   "en": "for a bacterial infection and that he is responding to treatment.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ABC habla de una anemia hemolítica tratada con cortisona.",
+   "en": "«ABC» describes a haemolytic anaemia treated with cortisone.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El País añade que su situación es estable.",
+   "en": "«El Pais» adds that his condition is stable.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí lo esencial.",
+   "en": "That is the essential news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Monday 24 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Ministers begin appearing before Congress over the Ceuta crisis",
+ "summary_en": [
+  "Ministers begin appearing before Congress over the Ceuta crisis",
+  "Feijoo asks for confinement in Ceuta, and the health ministry refuses",
+  "The Norwegian palace says King Harald's health has worsened"
+ ]
+}

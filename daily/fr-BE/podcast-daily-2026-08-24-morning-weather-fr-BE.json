@@ -1,0 +1,279 @@
+{
+ "title": "Le temps chez nous, lundi 24 août",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-weather",
+   "wpm": 222,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-24",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Au-dessus de nos têtes ce lundi,",
+   "en": "Above our heads this Monday,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le tour de trois villes.",
+   "en": "a tour of three cities.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Bruxelles, selon le modèle du Centre européen,",
+   "en": "In «Brussels», according to the European model,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le ciel reste couvert toute la journée.",
+   "en": "the sky stays overcast all day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La capitale évolue aujourd'hui entre douze et vingt et un degrés.",
+   "en": "The capital runs between twelve and twenty-one degrees today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Neuf degrés d'écart, donc, sur l'ensemble de la journée.",
+   "en": "Nine degrees, then, across the whole day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aucune averse n'est annoncée sur la capitale.",
+   "en": "No showers are forecast over the capital.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent n'y dépasse pas dix-huit kilomètres par heure.",
+   "en": "The wind there does not go above eighteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'une région à l'autre,",
+   "en": "From one region to the next,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Liège attend vingt et un degrés",
+   "en": "«Liège» is expecting twenty-one degrees",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "au plus chaud de la journée.",
+   "en": "at the hottest part of the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le minimum y descend à onze degrés.",
+   "en": "The low there drops to eleven degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dix degrés séparent donc le minimum du maximum.",
+   "en": "So ten degrees separate the low from the high.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ciel y est couvert lui aussi,",
+   "en": "The sky there is overcast too,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et la pluie n'y est pas attendue non plus.",
+   "en": "and no rain is expected there either.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y monte à dix-neuf kilomètres par heure,",
+   "en": "The wind there climbs to nineteen kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "soit un peu plus que dans la capitale.",
+   "en": "a little more than in the capital.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Namur, le thermomètre grimpe à vingt-deux degrés.",
+   "en": "In «Namur», the thermometer reaches twenty-two degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La ville ne descend pas sous les onze degrés de la journée.",
+   "en": "The city does not drop below eleven degrees all day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'amplitude y atteint donc onze degrés,",
+   "en": "So the swing there reaches eleven degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la plus large des trois.",
+   "en": "the widest of the three.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Là aussi, le ciel reste couvert,",
+   "en": "There too the sky stays overcast,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le risque de pluie est nul.",
+   "en": "and the risk of rain is nil.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y atteint dix-huit kilomètres par heure au maximum.",
+   "en": "The wind there reaches eighteen kilometres an hour at most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le temps chez nous.",
+   "en": "That is the weather here at home.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Monday 24 August",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Brussels today: overcast, with a high of 21 degrees",
+ "summary_en": [
+  "Brussels today: overcast, with a high of 21 degrees",
+  "Liege today: overcast, with a high of 21 degrees"
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-BE",
+ "date": "2026-08-24",
+ "episodes": [
+  {
+   "id": "fr-BE-Le sept heures, lundi 24 août",
+   "file": "podcast-daily-2026-08-24-morning-news-fr-BE.json",
+   "bytes": 13489,
+   "sha256": "b82acc08b7a25eeb95ccd17e0fcaaf87cb4b78d77fd00b178d9f6dd1d3c245b7",
+   "date": "2026-08-24",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, lundi 24 août",
+   "title_en": "The morning news, Monday 24 August",
+   "headline_en": "Schools in Wallonia and Brussels go back amid teacher protests",
+   "summary_en": [
+    "Schools in Wallonia and Brussels go back amid teacher protests",
+    "Glatigny says there will be no further savings in education before 2029",
+    "The EU announces a new 6.1 billion euro tranche of military aid to Ukraine"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, lundi 24 août",
+   "file": "podcast-daily-2026-08-24-morning-weather-fr-BE.json",
+   "bytes": 6188,
+   "sha256": "af8934d53b0905d686951b2e751f0ce74ed3095eec52bb76d4b65cc22fd80885",
+   "date": "2026-08-24",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, lundi 24 août",
+   "title_en": "Today's weather, Monday 24 August",
+   "headline_en": "Brussels today: overcast, with a high of 21 degrees",
+   "summary_en": [
+    "Brussels today: overcast, with a high of 21 degrees",
+    "Liege today: overcast, with a high of 21 degrees"
+   ]
+  }
+ ],
+ "content": "5f7292615218e8803310b6dd89f37d29a126df7b0c4a885fe44619ceab259f4b",
+ "rev": 1,
+ "updated": "2026-08-24T08:46:23.150Z"
+}

@@ -1,0 +1,303 @@
+{
+ "title": "El tiempo, lunes 24 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather",
+   "wpm": 208,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-24",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "De norte a sur, así queda el lunes.",
+   "en": "From north to south, this is how Monday looks.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Una borrasca situada al oeste de Portugal",
+   "en": "A low pressure system to the west of «Portugal»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "deja hoy una jornada inestable en buena parte de España,",
+   "en": "is leaving an unsettled day over much of «Spain» today,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según elDiario punto es, ABC y La Vanguardia.",
+   "en": "according to «elDiario.es», «ABC» and «La Vanguardia».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Habrá lluvias fuertes y persistentes en el oeste.",
+   "en": "There will be heavy and persistent rain in the west.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aragón y Cataluña concentran el mayor riesgo de tormentas,",
+   "en": "«Aragón» and «Catalonia» carry the greatest risk of storms,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con posibilidad de granizo de gran tamaño y rachas muy fuertes.",
+   "en": "with the chance of large hail and very strong gusts.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La borrasca llega por el Atlántico y es inusualmente profunda.",
+   "en": "The low is coming in off the «Atlantic» and is unusually deep.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hay avisos naranjas por tormentas desde el mediodía",
+   "en": "There are orange storm warnings from midday",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el Pirineo oscense, el centro de Huesca,",
+   "en": "in the Pyrenees of «Huesca», central «Huesca»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el Valle de Arán y el Pirineo de Lleida,",
+   "en": "the «Valle de Arán» and the Pyrenees of «Lleida»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según la Aemet.",
+   "en": "according to «Aemet».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El aviso naranja por lluvias llega también a la depresión central de Barcelona.",
+   "en": "The orange rain warning also reaches the central lowlands of «Barcelona».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Vanguardia añade que en algunas zonas de Cataluña pueden acumularse cerca de treinta litros",
+   "en": "«La Vanguardia» adds that in some parts of «Catalonia» close to thirty litres per square",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por metro cuadrado en una hora.",
+   "en": "metre could fall in an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los avisos están en vigor hasta el final del día.",
+   "en": "The warnings are in force until the end of the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Menorca hay aviso naranja por rissagas desde las siete de la mañana.",
+   "en": "In «Menorca» there is an orange warning for «rissagas» from seven in the morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es una oscilación del nivel del mar,",
+   "en": "That is a sudden swing in the sea level,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el aviso llega hasta medianoche.",
+   "en": "and the warning runs until midnight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Madrid, según la Aemet,",
+   "en": "In «Madrid», according to «Aemet»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el cielo está muy nuboso con lluvia escasa.",
+   "en": "the sky is heavily clouded with light rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La capital se mueve hoy entre veintiuno y veintisiete grados.",
+   "en": "The capital moves between twenty-one and twenty-seven degrees today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación llega al noventa y cinco por ciento.",
+   "en": "The chance of rain reaches ninety-five per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento sopla del suroeste a veinte kilómetros por hora,",
+   "en": "The wind blows from the south-west at twenty kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y por la tarde gira al oeste y sube a treinta.",
+   "en": "and in the afternoon it turns westerly and rises to thirty.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El índice ultravioleta máximo es de siete.",
+   "en": "The highest ultraviolet index is seven.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí el tiempo.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Monday 24 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "España",
+ "accent": "Castilla",
+ "accent_label": "acento de Castilla",
+ "segment_order": 0,
+ "headline_en": "A borrasca west of Portugal leaves an unstable Monday over much of Spain",
+ "summary_en": [
+  "A borrasca west of Portugal leaves an unstable Monday over much of Spain",
+  "Orange rain and storm warnings from noon in Aragon and Catalonia"
+ ]
+}

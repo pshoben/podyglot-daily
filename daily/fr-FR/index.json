@@ -5,6 +5,47 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-FR-Le journal du matin, lundi 24 août",
+   "file": "podcast-daily-2026-08-24-morning-news-fr-FR.json",
+   "bytes": 14827,
+   "sha256": "e9a0cee59e1531c29c4766c14fbdf4b105c64a79756b5a8e331f61afb146158a",
+   "date": "2026-08-24",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, lundi 24 août",
+   "title_en": "The morning news, Monday 24 August",
+   "headline_en": "Ukraine's European backers meet in Kyiv as Russian strikes intensify",
+   "summary_en": [
+    "Ukraine's European backers meet in Kyiv as Russian strikes intensify",
+    "The broadcaster Philippe Bouvard, host of Les Grosses Tetes, has died at ninety-six",
+    "Glucksmann declares his candidacy and Jadot comes out in support"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, lundi 24 août",
+   "file": "podcast-daily-2026-08-24-morning-weather-fr-FR.json",
+   "bytes": 7672,
+   "sha256": "e6c5bfce9351b4736feecd34ab466d9ce30f37308b2a7c712e59a4108daaf22f",
+   "date": "2026-08-24",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, lundi 24 août",
+   "title_en": "Today's weather, Monday 24 August",
+   "headline_en": "Sixteen departments on orange thunderstorm alert from Monday afternoon",
+   "summary_en": [
+    "Sixteen departments on orange thunderstorm alert from Monday afternoon",
+    "Storms leave about 7,500 homes without power in the south-west"
+   ]
+  },
+  {
    "id": "fr-FR-Le journal du matin, dimanche 23 août",
    "file": "podcast-daily-2026-08-23-morning-news-fr-FR.json",
    "bytes": 11952,

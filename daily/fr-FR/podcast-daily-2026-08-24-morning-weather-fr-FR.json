@@ -1,0 +1,309 @@
+{
+ "title": "La météo, lundi 24 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-24",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le tour du ciel de ce lundi, en trois villes.",
+   "en": "A look at the skies this Monday, in three cities.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Météo-France a placé seize départements de la moitié sud",
+   "en": "«Météo-France» has put sixteen departments in the southern half of the country",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en vigilance orange aux orages à partir de lundi après-midi,",
+   "en": "on orange thunderstorm alert from Monday afternoon,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon France Télévisions et Le Monde.",
+   "en": "according to «France Télévisions» and «Le Monde».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des orages virulents sont d'abord attendus sur une large partie sud-ouest du pays.",
+   "en": "Fierce storms are expected first over a broad south-western part of the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ils gagneront ensuite le Massif central et le Sud-Est.",
+   "en": "They will then reach the «Massif central» and the south-east.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Météo-France attend aussi localement des phénomènes violents.",
+   "en": "«Météo-France» is also expecting locally severe weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cette nuit déjà,",
+   "en": "Overnight already,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "quelque sept mille cinq cents foyers ont été privés d'électricité dans les Landes,",
+   "en": "some seven thousand five hundred homes lost power in the «Landes»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après Ouest-France et Sud Ouest.",
+   "en": "according to «Ouest-France» and «Sud Ouest».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La circulation des trains est interrompue entre Dax et Hendaye.",
+   "en": "Train services are suspended between «Dax» and «Hendaye».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La SNCF prévoit des retards et des suppressions",
+   "en": "«SNCF» is expecting delays and cancellations",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en Nouvelle-Aquitaine jusqu'à la fin de la journée.",
+   "en": "in «Nouvelle-Aquitaine» until the end of the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Paris, selon les modèles de Météo-France, le ciel reste couvert.",
+   "en": "In «Paris», according to the «Météo-France» models, the sky stays overcast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La capitale évolue aujourd'hui entre seize et vingt-huit degrés.",
+   "en": "The capital runs between sixteen and twenty-eight degrees today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Douze degrés d'écart, donc, sur l'ensemble de la journée.",
+   "en": "Twelve degrees, then, across the whole day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y souffle jusqu'à dix-huit kilomètres par heure.",
+   "en": "The wind there blows up to eighteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Direction le Sud-Est, où Marseille attend de la pluie forte.",
+   "en": "Down to the south-east, where «Marseille» is expecting heavy rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le thermomètre y monte à trente degrés,",
+   "en": "The thermometer there climbs to thirty degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et la ville ne descend pas sous les vingt-trois.",
+   "en": "and the city does not drop below twenty-three.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'amplitude n'y dépasse donc pas sept degrés sur la journée.",
+   "en": "So the swing there is no more than seven degrees over the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y atteint vingt-six kilomètres par heure au maximum.",
+   "en": "The wind there reaches twenty-six kilometres an hour at most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le Sud-Ouest, Bordeaux attend trente-trois degrés au plus chaud de la journée.",
+   "en": "In the south-west, «Bordeaux» is expecting thirty-three degrees at the hottest part of the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le minimum y descend à vingt et un degrés.",
+   "en": "The low there drops to twenty-one degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Douze degrés séparent donc le minimum du maximum.",
+   "en": "So twelve degrees separate the low from the high.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ciel y est couvert lui aussi,",
+   "en": "The sky there is overcast too,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent y monte à vingt-quatre kilomètres par heure.",
+   "en": "and the wind climbs to twenty-four kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Monday 24 August",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Sixteen departments on orange thunderstorm alert from Monday afternoon",
+ "summary_en": [
+  "Sixteen departments on orange thunderstorm alert from Monday afternoon",
+  "Storms leave about 7,500 homes without power in the south-west"
+ ]
+}

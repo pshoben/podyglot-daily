@@ -1,0 +1,112 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-ES",
+ "date": "2026-08-24",
+ "episodes": [
+  {
+   "id": "es-ES-El informativo de la mañana, lunes 24 de agosto",
+   "file": "podcast-daily-2026-08-24-morning-news-es-ES.json",
+   "bytes": 10348,
+   "sha256": "70d7f78e503e634a2dc2e911a3b347e8e0f9c77d9e774be9568f34dc86408ec5",
+   "date": "2026-08-24",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, lunes 24 de agosto",
+   "title_en": "The morning news, Monday 24 August",
+   "headline_en": "Ministers begin appearing before Congress over the Ceuta crisis",
+   "summary_en": [
+    "Ministers begin appearing before Congress over the Ceuta crisis",
+    "Feijoo asks for confinement in Ceuta, and the health ministry refuses",
+    "The Norwegian palace says King Harald's health has worsened"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, lunes 24 de agosto",
+   "file": "podcast-daily-2026-08-24-morning-sport-es-ES.json",
+   "bytes": 4564,
+   "sha256": "3fe9d23c4857d7e1fc1887e1510a05c18a80c89b514ec247a0896af610ac9020",
+   "date": "2026-08-24",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, lunes 24 de agosto",
+   "title_en": "Today's sport, Monday 24 August",
+   "headline_en": "Malaga host Deportivo at La Rosaleda on Monday in round two of LaLiga",
+   "summary_en": [
+    "Malaga host Deportivo at La Rosaleda on Monday in round two of LaLiga",
+    "Malaga's first top-flight home match at La Rosaleda in years"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, lunes 24 de agosto",
+   "file": "podcast-daily-2026-08-24-morning-weather-es-ES.json",
+   "bytes": 7315,
+   "sha256": "4df206588fb544bbfa6eee4b6e84025c2ae7b62a636469684512c9e1b631be7a",
+   "date": "2026-08-24",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, lunes 24 de agosto",
+   "title_en": "Today's weather, Monday 24 August",
+   "headline_en": "A borrasca west of Portugal leaves an unstable Monday over much of Spain",
+   "summary_en": [
+    "A borrasca west of Portugal leaves an unstable Monday over much of Spain",
+    "Orange rain and storm warnings from noon in Aragon and Catalonia"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, lunes 24 de agosto",
+   "file": "podcast-daily-2026-08-24-morning-weather-andalucia-es-ES.json",
+   "bytes": 5599,
+   "sha256": "5fe723d735ce8066e687ad888cf0b807834637ec7229d2db0810e02803172cab",
+   "date": "2026-08-24",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, lunes 24 de agosto",
+   "title_en": "Today's weather, Andalusia, Monday 24 August",
+   "headline_en": "Cordoba today: cloudy with rain, high of 31 degrees",
+   "summary_en": [
+    "Cordoba today: cloudy with rain, high of 31 degrees",
+    "Seville today: heavy cloud with rain, high of 29 degrees"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, lunes 24 de agosto",
+   "file": "podcast-daily-2026-08-24-morning-weather-canarias-es-ES.json",
+   "bytes": 5303,
+   "sha256": "004da16555ccdc9335c119d08c2aaa7e23109572cf54bffa9778c78ea6c1f717",
+   "date": "2026-08-24",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, lunes 24 de agosto",
+   "title_en": "Today's weather, Canary Islands, Monday 24 August",
+   "headline_en": "Las Palmas today: cloudy with light rain, high of 28 degrees",
+   "summary_en": [
+    "Las Palmas today: cloudy with light rain, high of 28 degrees",
+    "Santa Cruz de Tenerife today: clearing later, high of 31 degrees"
+   ]
+  }
+ ],
+ "content": "e2d85f4762b67c9beb9e433a5def689321a0834a7f7154b69259dc9aa2d61fbd",
+ "rev": 1,
+ "updated": "2026-08-24T08:46:23.150Z"
+}

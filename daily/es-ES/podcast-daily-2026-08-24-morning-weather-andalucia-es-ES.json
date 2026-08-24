@@ -1,0 +1,243 @@
+{
+ "title": "El tiempo en Andalucía, lunes 24 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-andalucia",
+   "wpm": 208,
+   "rate_multiplier": 0.73,
+   "pitch_multiplier": 0.79
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-andalucia",
+ "date": "2026-08-24",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Bajamos al detalle, provincia a provincia.",
+   "en": "Down to the detail now, province by province.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Tierra adentro, Córdoba llega hoy a treinta y un grados, según la Aemet.",
+   "en": "Inland, «Córdoba» reaches thirty-one degrees today, according to «Aemet».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima allí es de dieciséis,",
+   "en": "The low there is sixteen,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con cielo nuboso y lluvia.",
+   "en": "with a cloudy sky and rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación es del cien por ciento,",
+   "en": "The chance of rain is one hundred per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "aunque baja al diez por ciento por la tarde.",
+   "en": "though it falls to ten per cent in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento sopla del oeste a veinticinco kilómetros por hora,",
+   "en": "The wind blows from the west at twenty-five kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el índice ultravioleta alcanza siete.",
+   "en": "and the ultraviolet index reaches seven.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por el valle, Sevilla se queda en veintinueve grados,",
+   "en": "In the valley, «Seville» tops out at twenty-nine degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con una mínima de dieciocho.",
+   "en": "with a low of eighteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí el cielo está muy nuboso con lluvia,",
+   "en": "There the sky is heavily clouded with rain,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la probabilidad de precipitación también llega al cien por ciento.",
+   "en": "and the chance of rain also reaches one hundred per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por la tarde se queda en cero,",
+   "en": "In the afternoon it falls to zero,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el viento viene del suroeste a veinticinco kilómetros por hora.",
+   "en": "and the wind comes from the south-west at twenty-five kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la costa, Málaga sube a treinta y tres,",
+   "en": "On the coast, «Málaga» climbs to thirty-three,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con una mínima de veinte.",
+   "en": "with a low of twenty.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí el cielo está poco nuboso y la lluvia es casi descartable,",
+   "en": "There the sky is mostly clear and rain is all but ruled out,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con un cinco por ciento.",
+   "en": "at five per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento llega del sur a veinte kilómetros por hora,",
+   "en": "The wind comes from the south at twenty kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el ultravioleta alcanza ocho.",
+   "en": "and the ultraviolet reaches eight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es Andalucía.",
+   "en": "That is Andalusia.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 3,
+ "handover": "junction",
+ "title_en": "Today's weather, Andalusia, Monday 24 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Andalucía",
+ "accent": "Andalucía",
+ "accent_label": "acento de Andalucía",
+ "segment_order": 1,
+ "headline_en": "Cordoba today: cloudy with rain, high of 31 degrees",
+ "summary_en": [
+  "Cordoba today: cloudy with rain, high of 31 degrees",
+  "Seville today: heavy cloud with rain, high of 29 degrees"
+ ]
+}

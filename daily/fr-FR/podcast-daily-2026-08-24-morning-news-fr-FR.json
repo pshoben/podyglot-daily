@@ -1,0 +1,570 @@
+{
+ "title": "Le journal du matin, lundi 24 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-24",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lundi vingt-quatre août, sept heures à Paris. Le journal du matin.",
+   "en": "Monday the twenty-fourth of August, seven o'clock in «Paris». The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les soutiens européens de l'Ukraine se retrouvent aujourd'hui à Kyiv.",
+   "en": "«Ukraine»'s European backers are meeting in «Kyiv» today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Philippe Bouvard, l'animateur historique des Grosses Têtes, est mort à quatre-vingt-seize ans.",
+   "en": "«Philippe Bouvard», the long-standing host of «Les Grosses Têtes», has died at ninety-six.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et Raphaël Glucksmann se lance dans la course à la présidentielle.",
+   "en": "And «Raphaël Glucksmann» is entering the race for the presidency.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par l'Ukraine.",
+   "en": "We start in «Ukraine».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Kyiv accueille ce lundi une réunion de la Coalition des volontaires,",
+   "en": "«Kyiv» is hosting a meeting of the Coalition of the Willing on Monday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon France Télévisions, Le Télégramme, Libération et Sud Ouest.",
+   "en": "according to «France Télévisions», «Le Télégramme», «Libération» and «Sud Ouest».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les principaux soutiens du pays doivent échanger à la mi-journée,",
+   "en": "The country's main backers are due to talk at midday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sur fond d'intensification des frappes russes.",
+   "en": "as Russian strikes intensify.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Ukraine espère obtenir de nouveaux équipements de défense antiaérienne.",
+   "en": "«Ukraine» is hoping to obtain new air defence equipment.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle attend aussi une pression accrue sur Moscou.",
+   "en": "It also wants more pressure on «Moscow».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Philippe Bouvard est mort ce lundi à l'âge de quatre-vingt-seize ans,",
+   "en": "«Philippe Bouvard» died on Monday at the age of ninety-six,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après Le Monde, France Télévisions, Libération et Ouest-France.",
+   "en": "according to «Le Monde», «France Télévisions», «Libération» and «Ouest-France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Son épouse en a fait l'annonce à RTL.",
+   "en": "His wife announced it to «RTL».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cette voix reconnaissable entre toutes",
+   "en": "That unmistakable voice",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avait démarré en mille neuf cent soixante-cinq à Radio Luxembourg,",
+   "en": "started in 1965 at «Radio Luxembourg»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "devenue RTL l'année suivante.",
+   "en": "which became «RTL» the following year.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il avait lancé Les Grosses Têtes en mille neuf cent soixante-dix-sept.",
+   "en": "He launched «Les Grosses Têtes» in 1977.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a présenté l'émission pendant trente-sept ans.",
+   "en": "He presented the programme for thirty-seven years.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il était aussi une figure du Figaro et de France-Soir.",
+   "en": "He was also a figure at «Le Figaro» and «France-Soir».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à autre chose,",
+   "en": "Moving on,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Raphaël Glucksmann est candidat à l'élection présidentielle de deux mille vingt-sept,",
+   "en": "«Raphaël Glucksmann» is standing in the 2027 presidential election,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon France Télévisions, Le Télégramme, Libération et Sud Ouest.",
+   "en": "according to «France Télévisions», «Le Télégramme», «Libération» and «Sud Ouest».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le chef de Place publique passera d'abord par la primaire sociale-démocrate",
+   "en": "The leader of «Place publique» will start with the social democratic primary",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "organisée en octobre par le Parti socialiste et par son propre parti.",
+   "en": "organised in October by the «Parti socialiste» and by his own party.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Yannick Jadot, candidat écologiste en deux mille vingt-deux, a annoncé son ralliement.",
+   "en": "«Yannick Jadot», who stood for the greens in 2022, has announced that he is backing him.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'écologiste sera chargé de préparer la mise en place d'un état d'urgence écologique",
+   "en": "He will be given the job of drawing up an ecological state of emergency",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans le programme du candidat.",
+   "en": "for the candidate's programme.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans la foulée, Léa Salamé se retire du vingt heures de France 2,",
+   "en": "On the back of that, «Léa Salamé» is stepping back from the «France 2» eight o'clock news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après Le Figaro, Le Télégramme, Libération et Sud Ouest.",
+   "en": "according to «Le Figaro», «Le Télégramme», «Libération» and «Sud Ouest».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La journaliste est la compagne du candidat.",
+   "en": "The journalist is the candidate's partner.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle a parlé d'une décision évidente et difficile.",
+   "en": "She called it an obvious and difficult decision.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Toujours en France, Emmanuel Macron réunit ce lundi matin ses ministres à l'Élysée,",
+   "en": "Turning to something else, «Emmanuel Macron» is gathering his ministers at the «Élysée» on Monday morning,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon France 24, Le Télégramme et Sud Ouest.",
+   "en": "according to «France 24», «Le Télégramme» and «Sud Ouest».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est sa dernière rentrée politique en tant que chef de l'État.",
+   "en": "It is his last political new season as head of state.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce Conseil des ministres se tient après un été caniculaire marqué par de nombreux incendies.",
+   "en": "This cabinet meeting comes after a scorching summer marked by many fires.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cet été a aussi apporté les premières secousses d'un débat budgétaire,",
+   "en": "The summer also brought the first tremors of a budget debate,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à quelques mois de la présidentielle.",
+   "en": "a few months out from the presidential election.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sur ce budget, le gouvernement travaille à une reconduction des aides",
+   "en": "On that budget, the government is working on extending the aid",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "aux secteurs les plus exposés à la hausse des prix du carburant,",
+   "en": "for the sectors most exposed to the rise in fuel prices,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon France Télévisions, Le Télégramme et Sud Ouest.",
+   "en": "according to «France Télévisions», «Le Télégramme» and «Sud Ouest».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ces dispositifs concernent notamment les professionnels de l'agriculture, du bâtiment et des transports.",
+   "en": "The schemes cover farming, construction and transport, among others.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ils expirent le trente et un août.",
+   "en": "They expire on 31st August.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'exécutif envisage aussi de reconduire le chèque énergie dans le prochain budget,",
+   "en": "The government is also considering extending the energy cheque in the next budget,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a annoncé la porte-parole du gouvernement, Maud Bregeon.",
+   "en": "its spokeswoman «Maud Bregeon» announced.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre sujet maintenant,",
+   "en": "Elsewhere,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les producteurs de pommes de terre s'attendent à une chute de vingt-trois pour cent de la récolte,",
+   "en": "potato growers are expecting the harvest to fall by twenty-three per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon France Télévisions, Le Télégramme, Libération et Ouest-France.",
+   "en": "according to «France Télévisions», «Le Télégramme», «Libération» and «Ouest-France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La sécheresse sévit depuis plusieurs mois en France,",
+   "en": "The drought has been biting for several months in «France»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et les producteurs vont vers une crise historique.",
+   "en": "and the growers are heading for a historic crisis.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Union nationale des producteurs redoute des pertes d'au moins quatre cents millions d'euros.",
+   "en": "The national growers' union fears losses of at least four hundred million euros.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle demande à l'État d'anticiper dès maintenant un dispositif exceptionnel de soutien.",
+   "en": "It is asking the State to set up an exceptional support scheme now.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Monday 24 August",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Ukraine's European backers meet in Kyiv as Russian strikes intensify",
+ "summary_en": [
+  "Ukraine's European backers meet in Kyiv as Russian strikes intensify",
+  "The broadcaster Philippe Bouvard, host of Les Grosses Tetes, has died at ninety-six",
+  "Glucksmann declares his candidacy and Jadot comes out in support"
+ ]
+}

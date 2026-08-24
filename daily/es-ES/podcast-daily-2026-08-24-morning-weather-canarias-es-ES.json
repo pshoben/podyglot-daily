@@ -1,0 +1,233 @@
+{
+ "title": "El tiempo en Canarias, lunes 24 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-canarias",
+   "wpm": 208,
+   "rate_multiplier": 0.86,
+   "pitch_multiplier": 0.59
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-canarias",
+ "date": "2026-08-24",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "En las islas, dos capitales y dos cielos.",
+   "en": "On the islands, two capitals and two skies.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Las Palmas de Gran Canaria, según la Aemet,",
+   "en": "In «Las Palmas de Gran Canaria», according to «Aemet»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la jornada se mueve hoy entre veinticuatro y veintiocho grados.",
+   "en": "the day moves between twenty-four and twenty-eight degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo está nuboso, con lluvia escasa a primera hora.",
+   "en": "The sky is cloudy, with light rain first thing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación es del sesenta y cinco por ciento,",
+   "en": "The chance of rain is sixty-five per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y cae a cero por la tarde.",
+   "en": "and it drops to zero in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Con el alisio, el viento del norte sopla a veinticinco kilómetros por hora.",
+   "en": "With the trade wind, the northerly blows at twenty-five kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El índice ultravioleta llega a diez.",
+   "en": "The ultraviolet index reaches ten.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Santa Cruz de Tenerife la máxima sube a treinta y uno,",
+   "en": "In «Santa Cruz de Tenerife» the high climbs to thirty-one,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con una mínima de veinticuatro.",
+   "en": "with a low of twenty-four.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hay intervalos nubosos con lluvia escasa a primera hora,",
+   "en": "There are cloudy spells with light rain first thing,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el cielo queda despejado por la tarde.",
+   "en": "and the sky clears in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación",
+   "en": "The chance of rain",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "arranca en el noventa por ciento y se queda en cero después del mediodía.",
+   "en": "starts at ninety per cent and settles at zero after midday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento del nordeste",
+   "en": "The north-easterly",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "llega a quince kilómetros por hora y gira al norte,",
+   "en": "reaches fifteen kilometres an hour and turns northerly,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a veinte.",
+   "en": "at twenty.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y ojo con el sol:",
+   "en": "And mind the sun:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "allí el ultravioleta alcanza nueve.",
+   "en": "the ultraviolet there reaches nine.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es Canarias.",
+   "en": "That is the Canaries.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 4,
+ "handover": "junction",
+ "title_en": "Today's weather, Canary Islands, Monday 24 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Canarias",
+ "accent": "Canarias",
+ "accent_label": "acento de Canarias",
+ "segment_order": 2,
+ "headline_en": "Las Palmas today: cloudy with light rain, high of 28 degrees",
+ "summary_en": [
+  "Las Palmas today: cloudy with light rain, high of 28 degrees",
+  "Santa Cruz de Tenerife today: clearing later, high of 31 degrees"
+ ]
+}
