@@ -1,0 +1,279 @@
+{
+ "title": "El pronóstico, martes 25 de agosto",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-weather",
+   "wpm": 195,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-25",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Provincia por provincia, un martes con alertas.",
+   "en": "Province by province, a Tuesday under warnings.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según el Servicio Meteorológico Nacional,",
+   "en": "According to the «Servicio Meteorológico Nacional»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "rigen hoy alertas de nivel naranja y amarillo por nevadas, vientos y lluvias.",
+   "en": "orange and yellow warnings are in force today for snow, wind and rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La alerta naranja por nevadas cubre el sector cordillerano de Mendoza,",
+   "en": "The orange snow warning covers the Andean part of «Mendoza»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "donde se esperan entre diez y treinta centímetros de nieve acumulada.",
+   "en": "where ten to thirty centimetres of snow are expected to settle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En San Juan y en Chubut la misma advertencia es de nivel amarillo.",
+   "en": "In «San Juan» and «Chubut» the same warning is at yellow.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La alerta naranja por lluvias alcanza la región montañosa de Neuquén,",
+   "en": "The orange rain warning reaches the mountains of «Neuquén»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con acumulados de entre cuarenta y setenta milímetros.",
+   "en": "with forty to seventy millimetres expected.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y la alerta amarilla por vientos fuertes corre",
+   "en": "And the yellow warning for strong winds runs",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para el oeste de San Luis, el sur de La Rioja, Mendoza y Neuquén.",
+   "en": "across western «San Luis», southern «La Rioja», «Mendoza» and «Neuquén».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí se prevén velocidades de entre sesenta y ochenta kilómetros por hora,",
+   "en": "Winds there are forecast at sixty to eighty kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con ráfagas que pueden superar los ciento veinte.",
+   "en": "with gusts that can pass a hundred and twenty.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Buenos Aires, según el modelo del Centro Europeo, el ECMWF,",
+   "en": "In «Buenos Aires», according to the European Centre model, the «ECMWF»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el cielo se mantiene nuboso y no se espera lluvia.",
+   "en": "the sky stays cloudy and no rain is expected.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima llega a trece grados y la mínima baja a siete.",
+   "en": "The high reaches thirteen degrees and the low drops to seven.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento sopla a trece kilómetros por hora.",
+   "en": "The wind blows at thirteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Córdoba la máxima sube hasta veinte grados,",
+   "en": "In «Córdoba» the high climbs to twenty degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con mínima de nueve y cielo nuboso.",
+   "en": "with a low of nine and a cloudy sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Tampoco allí se espera precipitación,",
+   "en": "No rain is expected there either,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el viento alcanza diecinueve kilómetros por hora.",
+   "en": "and the wind reaches nineteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la ciudad de Mendoza cae llovizna,",
+   "en": "In the city of «Mendoza» there is drizzle,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con una probabilidad del treinta y siete por ciento.",
+   "en": "with a thirty-seven per cent chance.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El termómetro va de nueve a diecinueve grados,",
+   "en": "The thermometer runs from nine to nineteen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con viento de trece kilómetros por hora.",
+   "en": "with a thirteen kilometre an hour wind.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta acá el pronóstico.",
+   "en": "That is the forecast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Tuesday 25 August",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Orange and yellow warnings for snow, wind and rain across Argentina today",
+ "summary_en": [
+  "Orange and yellow warnings for snow, wind and rain across Argentina today",
+  "Previsión para Buenos Aires, martes 2026-08-25"
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-AR",
+ "date": "2026-08-25",
+ "episodes": [
+  {
+   "id": "es-AR-El noticiero de la mañana, martes 25 de agosto",
+   "file": "podcast-daily-2026-08-25-morning-news-es-AR.json",
+   "bytes": 10542,
+   "sha256": "9c5fae16b75ba3e1cd65004782bdaac3ac1de58e8633266a5a94ff18a7a7f102",
+   "date": "2026-08-25",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El noticiero de la mañana, martes 25 de agosto",
+   "title_en": "The morning news, Tuesday 25 August",
+   "headline_en": "Bolivian prosecutors order 180 days' preventive detention for a former Milei adviser",
+   "summary_en": [
+    "Bolivian prosecutors order 180 days' preventive detention for a former Milei adviser",
+    "The government convenes its political table before a key week in Congress",
+    "Aeroparque closes for three days for runway works"
+   ]
+  },
+  {
+   "id": "es-AR-El pronóstico, martes 25 de agosto",
+   "file": "podcast-daily-2026-08-25-morning-weather-es-AR.json",
+   "bytes": 6794,
+   "sha256": "45cd205df6fa94d9146057b0a54aac29aaaae942916d353acb1d8d82bb305016",
+   "date": "2026-08-25",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El pronóstico, martes 25 de agosto",
+   "title_en": "Today's weather, Tuesday 25 August",
+   "headline_en": "Orange and yellow warnings for snow, wind and rain across Argentina today",
+   "summary_en": [
+    "Orange and yellow warnings for snow, wind and rain across Argentina today",
+    "Previsión para Buenos Aires, martes 2026-08-25"
+   ]
+  }
+ ],
+ "content": "43a7b583077709e37be03977662757430ea89c6fb0be007677f54ed2e8771b0c",
+ "rev": 1,
+ "updated": "2026-08-25T14:13:53.628Z"
+}

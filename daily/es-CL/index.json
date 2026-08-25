@@ -5,6 +5,47 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-CL-Las noticias de la mañana, martes 25 de agosto",
+   "file": "podcast-daily-2026-08-25-morning-news-es-CL.json",
+   "bytes": 10098,
+   "sha256": "9f37c1fff7dfa3fedb6cc2ecdb63f9db41054d6b1244601292d519a5206e0432",
+   "date": "2026-08-25",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "Las noticias de la mañana, martes 25 de agosto",
+   "title_en": "The morning news, Tuesday 25 August",
+   "headline_en": "Chile sends a note of protest to Argentina over the Strait of Magellan",
+   "summary_en": [
+    "Chile sends a note of protest to Argentina over the Strait of Magellan",
+    "The Senate president calls on the government to withdraw the state of exception from its security reform",
+    "A court official is arrested over leaks to criminal gangs"
+   ]
+  },
+  {
+   "id": "es-CL-El estado del tiempo, martes 25 de agosto",
+   "file": "podcast-daily-2026-08-25-morning-weather-es-CL.json",
+   "bytes": 4525,
+   "sha256": "85b2a4e8440348a2d4a669de4e10e08160ddc8e025a5dc519001a14ee5b230d4",
+   "date": "2026-08-25",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "El estado del tiempo, martes 25 de agosto",
+   "title_en": "Today's weather, Tuesday 25 August",
+   "headline_en": "Previsión para Santiago, martes 2026-08-25",
+   "summary_en": [
+    "Previsión para Santiago, martes 2026-08-25",
+    "Previsión para Valparaíso, martes 2026-08-25"
+   ]
+  },
+  {
    "id": "es-CL-Las noticias de la mañana, domingo 23 de agosto",
    "file": "podcast-daily-2026-08-23-morning-news-es-CL.json",
    "bytes": 8043,

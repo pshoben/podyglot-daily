@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-CO-La actualidad de la mañana, martes 25 de agosto",
+   "file": "podcast-daily-2026-08-25-morning-news-es-CO.json",
+   "bytes": 11719,
+   "sha256": "b18d4fbb5ab87e14cccc1fbf2a98cead91a442acb7ebbc7ceb38cb0ab0988aa8",
+   "date": "2026-08-25",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "La actualidad de la mañana, martes 25 de agosto",
+   "title_en": "The morning news, Tuesday 25 August",
+   "headline_en": "Tolima at the limit as forest fires burn on",
+   "summary_en": [
+    "Tolima at the limit as forest fires burn on",
+    "The earthquake toll stands at 331 dead and 4,439 injured",
+    "The Contraloria opens an inquiry into electoral witness contracts"
+   ]
+  },
+  {
+   "id": "es-CO-La jornada deportiva, martes 25 de agosto",
+   "file": "podcast-daily-2026-08-25-morning-sport-es-CO.json",
+   "bytes": 5442,
+   "sha256": "427b2db3390b90b414e179f7fb5339bd756cb6d9ae20a3b683c32a0b28d928af",
+   "date": "2026-08-25",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "La jornada deportiva, martes 25 de agosto",
+   "title_en": "Today's sport, Tuesday 25 August",
+   "headline_en": "Santa Fe and Deportes Tolima play for a quarter-final place tonight",
+   "summary_en": [
+    "Santa Fe and Deportes Tolima play for a quarter-final place tonight",
+    "The 2027 Women's World Cup draw is set for the 11th of December in Rio de Janeiro"
+   ]
+  },
+  {
+   "id": "es-CO-El clima de hoy, martes 25 de agosto",
+   "file": "podcast-daily-2026-08-25-morning-weather-es-CO.json",
+   "bytes": 4436,
+   "sha256": "0434905bd641218bb7860be40568db4072cc7109697923fe0ae95ffda81f5dd1",
+   "date": "2026-08-25",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "El clima de hoy, martes 25 de agosto",
+   "title_en": "Today's weather, Tuesday 25 August",
+   "headline_en": "Previsión para Bogotá, martes 2026-08-25",
+   "summary_en": [
+    "Previsión para Bogotá, martes 2026-08-25",
+    "Previsión para Medellín, martes 2026-08-25"
+   ]
+  },
+  {
    "id": "es-CO-La actualidad de la mañana, domingo 23 de agosto",
    "file": "podcast-daily-2026-08-23-morning-news-es-CO.json",
    "bytes": 8897,

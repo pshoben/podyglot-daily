@@ -1,0 +1,470 @@
+{
+ "title": "La actualidad de la mañana, martes 25 de agosto",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-25",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Martes veinticinco de agosto, siete de la mañana en Bogotá.",
+   "en": "Tuesday the twenty-fifth of August, seven in the morning in «Bogotá».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La actualidad de la mañana.",
+   "en": "The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Tolima está al límite por los incendios forestales.",
+   "en": "«Tolima» is at its limit with the forest fires.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El nuevo balance por el terremoto llega a trescientos treinta y un muertos.",
+   "en": "The new earthquake toll reaches three hundred and thirty-one dead.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y la Contraloría abre una indagación por los contratos del Consejo Nacional Electoral.",
+   "en": "And the «Contraloría» opens an inquiry into the electoral council's contracts.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Iniciamos aquí en Colombia.",
+   "en": "We start here in «Colombia».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Tolima enfrenta desde hace semanas una emergencia ambiental por los incendios forestales,",
+   "en": "«Tolima» has been facing an environmental emergency from forest fires for weeks,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según El Colombiano, El Tiempo, La República y Semana.",
+   "en": "according to «El Colombiano», «El Tiempo», «La República» and «Semana».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Antioquia y Caldas también han sido afectadas.",
+   "en": "«Antioquia» and «Caldas» have been hit too.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Gobernación del Tolima, respaldada por la Sociedad de Agricultores de Colombia,",
+   "en": "The «Tolima» regional government, backed by the Colombian farmers' association,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "cifra en más de veintisiete mil las hectáreas quemadas.",
+   "en": "puts the area burned at more than twenty-seven thousand hectares.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cerca de ocho mil corresponden a terrenos agrícolas,",
+   "en": "About eight thousand of those are farmland,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con pérdidas cercanas a los cincuenta mil millones de pesos.",
+   "en": "with losses close to fifty thousand million pesos.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La emergencia deja alrededor de mil cien productores afectados.",
+   "en": "The emergency has left around eleven hundred producers affected.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El presidente Abelardo de la Espriella denunció que hay indicios de que algunos incendios estarían",
+   "en": "President «Abelardo de la Espriella» said there are signs that some of the fires were started deliberately,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "siendo provocados y ordenó investigar si son manos criminales.",
+   "en": "and ordered an investigation into whether criminal hands are behind them.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Envió además a la Fuerza Pública,",
+   "en": "He also sent in the security forces,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el Ejército habilitó horas de vuelo nocturnas para combatir el fuego.",
+   "en": "and the Army has cleared night flying hours to fight the fire.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En otras noticias,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.1
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el nuevo balance de la Unidad Nacional para la Gestión del Riesgo de Desastres",
+   "en": "the new count from the national disaster management unit",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.075
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por el terremoto del diez de agosto",
+   "en": "for the earthquake of the 10th of August",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.05
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "es de trescientos treinta y un muertos,",
+   "en": "is three hundred and thirty-one dead,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.025
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "cuatro mil cuatrocientos treinta y nueve heridos y doscientos cuarenta desaparecidos,",
+   "en": "four thousand four hundred and thirty-nine injured and two hundred and forty missing,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.0
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según El Tiempo y La República.",
+   "en": "according to «El Tiempo» and «La República».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Gobierno nacional ya comenzó la fase de reconstrucción de las zonas afectadas.",
+   "en": "The national government has already begun the reconstruction phase in the areas that were hit.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En infraestructura hay ciento dieciocho acueductos,",
+   "en": "Damage to infrastructure covers a hundred and eighteen water systems,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "setenta y cuatro puentes vehiculares,",
+   "en": "seventy-four road bridges,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dieciséis puentes peatonales y cinco aeropuertos afectados.",
+   "en": "sixteen footbridges and five airports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de asunto,",
+   "en": "Moving on,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tres temblores se registraron en la madrugada de este martes",
+   "en": "three tremors were recorded in the early hours of Tuesday",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el Chocó y en Antioquia,",
+   "en": "in «Chocó» and «Antioquia»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según El Tiempo y Semana.",
+   "en": "according to «El Tiempo» and «Semana».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Servicio Geológico Colombiano entregó los detalles de epicentro, magnitud y profundidad.",
+   "en": "The Colombian geological survey gave the details of epicentre, magnitude and depth.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otro tema del día,",
+   "en": "Turning to something else,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.1
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la Contraloría abrió una indagación preliminar",
+   "en": "the «Contraloría» opened a preliminary inquiry",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.075
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sobre los contratos del Consejo Nacional Electoral",
+   "en": "into the electoral council's contracts",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.05
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para capacitar y acreditar a los testigos electorales de las elecciones de dos mil veintiséis,",
+   "en": "to train and accredit the electoral witnesses for the 2026 elections,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.025
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según El Colombiano, El Tiempo y Semana.",
+   "en": "according to «El Colombiano», «El Tiempo» and «Semana».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El órgano de control busca posibles sobrecostos e irregularidades.",
+   "en": "The watchdog is looking for possible cost overruns and irregularities.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para finalizar, la vicepresidenta de Venezuela, Delcy Rodríguez,",
+   "en": "Elsewhere, the vice-president of «Venezuela», «Delcy Rodríguez»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "aseguró que su país ha firmado más de cincuenta acuerdos en petróleo y gas,",
+   "en": "said her country has signed more than fifty oil and gas agreements,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según La República y Semana.",
+   "en": "according to «La República» and «Semana».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En un mensaje a la nación no dio detalles sobre todos los documentos suscritos.",
+   "en": "In a message to the nation she gave no details of all the documents signed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más importante.",
+   "en": "That is what matters most today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 25 August",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "Tolima at the limit as forest fires burn on",
+ "summary_en": [
+  "Tolima at the limit as forest fires burn on",
+  "The earthquake toll stands at 331 dead and 4,439 injured",
+  "The Contraloria opens an inquiry into electoral witness contracts"
+ ]
+}

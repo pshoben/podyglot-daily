@@ -1,0 +1,179 @@
+{
+ "title": "El clima de hoy, martes 25 de agosto",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-weather",
+   "wpm": 195,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-25",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Región por región, un martes de llovizna en las tres ciudades.",
+   "en": "Region by region, a Tuesday of drizzle in all three cities.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Bogotá, según el modelo del Centro Europeo, el ECMWF,",
+   "en": "In «Bogotá», according to the European Centre model, the «ECMWF»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la llovizna acompaña todo el día de hoy.",
+   "en": "drizzle stays with us all day today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación llega al noventa y siete por ciento.",
+   "en": "The chance of rain comes to ninety-seven per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima se queda en dieciocho grados y la mínima baja a diez.",
+   "en": "The high stays at eighteen degrees and the low drops to ten.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Son ocho grados de diferencia en la capital.",
+   "en": "That is eight degrees of difference in the capital.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento es muy flojo, de siete kilómetros por hora.",
+   "en": "The wind is very light, seven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Medellín la probabilidad baja al setenta y ocho por ciento.",
+   "en": "In «Medellín» the chance falls to seventy-eight per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los termómetros allí van de dieciocho a veintinueve grados.",
+   "en": "The thermometers there run from eighteen to twenty-nine degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Once grados separan la mínima de la máxima.",
+   "en": "Eleven degrees separate the low from the high.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento alcanza catorce kilómetros por hora.",
+   "en": "The wind reaches fourteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pendientes en Cali, donde la probabilidad de lluvia sube al noventa y nueve por ciento.",
+   "en": "Keep an eye on «Cali», where the chance of rain climbs to ninety-nine per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima llega a treinta y un grados y la mínima no baja de veintidós.",
+   "en": "The high reaches thirty-one degrees and the low does not drop below twenty-two.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Nueve grados de amplitud, y viento de nueve kilómetros por hora.",
+   "en": "Nine degrees of range, and a nine kilometre an hour wind.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese es el clima.",
+   "en": "That is the weather for today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Tuesday 25 August",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "Previsión para Bogotá, martes 2026-08-25",
+ "summary_en": [
+  "Previsión para Bogotá, martes 2026-08-25",
+  "Previsión para Medellín, martes 2026-08-25"
+ ]
+}

@@ -1,0 +1,189 @@
+{
+ "title": "El estado del tiempo, martes 25 de agosto",
+ "dialect": "es-CL",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CL-daily-weather",
+   "wpm": 205,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-25",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "De región en región, un martes de llovizna y lluvia.",
+   "en": "Region by region, a Tuesday of drizzle and rain.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Santiago, según el modelo del Centro Europeo, el ECMWF,",
+   "en": "In «Santiago», according to the European Centre model, the «ECMWF»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "cae llovizna durante la jornada de hoy.",
+   "en": "drizzle falls through the day today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación llega al sesenta y nueve por ciento.",
+   "en": "The chance of rain comes to sixty-nine per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima se queda en dieciséis grados y la mínima baja a diez.",
+   "en": "The high stays at sixteen degrees and the low drops to ten.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento es flojo, de nueve kilómetros por hora.",
+   "en": "The wind is light, nine kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Valparaíso también cae llovizna,",
+   "en": "In «Valparaíso» there is drizzle too,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con una probabilidad del sesenta y cinco por ciento.",
+   "en": "with a chance of sixty-five per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí la jornada se mueve entre trece y quince grados.",
+   "en": "The day there runs between thirteen and fifteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Apenas dos grados separan la mínima de la máxima en el puerto.",
+   "en": "Barely two degrees separate the low from the high at the port.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento alcanza once kilómetros por hora.",
+   "en": "The wind reaches eleven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Precaución en Concepción, donde la probabilidad de precipitación es del cien por ciento.",
+   "en": "Watch out in «Concepción», where the chance of rain is a hundred per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima se queda en trece grados y la mínima en once.",
+   "en": "The high stays at thirteen degrees and the low at eleven.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento sopla allí a treinta y tres kilómetros por hora,",
+   "en": "The wind blows there at thirty-three kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el más fuerte de las tres ciudades.",
+   "en": "the strongest of the three cities.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese es el panorama.",
+   "en": "That is the picture.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Tuesday 25 August",
+ "edition": "morning",
+ "region": "es-CL",
+ "region_label": "Chile",
+ "headline_en": "Previsión para Santiago, martes 2026-08-25",
+ "summary_en": [
+  "Previsión para Santiago, martes 2026-08-25",
+  "Previsión para Valparaíso, martes 2026-08-25"
+ ]
+}

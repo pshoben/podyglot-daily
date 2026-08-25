@@ -6,22 +6,22 @@
    "channel": "daily",
    "dialect": "es-AR",
    "index": "daily/es-AR/index.json",
-   "episodes": 23,
-   "latest_date": "2026-08-23"
+   "episodes": 25,
+   "latest_date": "2026-08-25"
   },
   {
    "channel": "daily",
    "dialect": "es-CL",
    "index": "daily/es-CL/index.json",
-   "episodes": 17,
-   "latest_date": "2026-08-23"
+   "episodes": 19,
+   "latest_date": "2026-08-25"
   },
   {
    "channel": "daily",
    "dialect": "es-CO",
    "index": "daily/es-CO/index.json",
-   "episodes": 20,
-   "latest_date": "2026-08-23"
+   "episodes": 23,
+   "latest_date": "2026-08-25"
   },
   {
    "channel": "daily",
@@ -34,8 +34,8 @@
    "channel": "daily",
    "dialect": "es-MX",
    "index": "daily/es-MX/index.json",
-   "episodes": 22,
-   "latest_date": "2026-08-23"
+   "episodes": 24,
+   "latest_date": "2026-08-25"
   },
   {
    "channel": "daily",
@@ -48,8 +48,8 @@
    "channel": "daily",
    "dialect": "fr-CA",
    "index": "daily/fr-CA/index.json",
-   "episodes": 23,
-   "latest_date": "2026-08-23"
+   "episodes": 25,
+   "latest_date": "2026-08-25"
   },
   {
    "channel": "daily",

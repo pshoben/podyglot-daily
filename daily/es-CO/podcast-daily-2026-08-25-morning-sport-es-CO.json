@@ -1,0 +1,229 @@
+{
+ "title": "La jornada deportiva, martes 25 de agosto",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-sport",
+   "wpm": 195,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-25",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lo que trae el día en las canchas.",
+   "en": "What the day brings on the pitch.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Independiente Santa Fe y el Deportes Tolima juegan este martes",
+   "en": "«Independiente Santa Fe» and «Deportes Tolima» play on Tuesday",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por un lugar en los cuartos de final,",
+   "en": "for a place in the quarter-finals,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según El Colombiano y Semana.",
+   "en": "according to «El Colombiano» and «Semana».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Están en juego la Copa Libertadores y la Copa Sudamericana.",
+   "en": "The «Copa Libertadores» and the «Copa Sudamericana» are both at stake.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Santa Fe visita a River Plate en Argentina.",
+   "en": "«Santa Fe» are away to «River Plate» in «Argentina».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El equipo de Ibagué juega en Ecuador.",
+   "en": "The «Ibagué» side play in «Ecuador».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los dos partidos empiezan a las siete y media de la noche.",
+   "en": "Both matches kick off at half past seven in the evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y una fecha marcada en el calendario,",
+   "en": "And one for the diary:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el sorteo de la fase final del Mundial femenino de dos mil veintisiete",
+   "en": "the draw for the final stage of the 2027 Women's World Cup",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "será el once de diciembre en Río de Janeiro,",
+   "en": "will be on the 11th of December in «Río de Janeiro»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "informó la FIFA.",
+   "en": "«FIFA» said.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es la primera edición del torneo que se celebra en Sudamérica.",
+   "en": "It is the first time the tournament is held in South America.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El acto se hará en el Museo de Arte Moderno de Río, junto al mar,",
+   "en": "The draw will be at the Museum of Modern Art in «Río», beside the sea,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con más de mil invitados.",
+   "en": "with more than a thousand guests.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La ceremonia definirá los grupos de las treinta y dos selecciones clasificadas.",
+   "en": "The ceremony will settle the groups for the thirty-two teams that have qualified.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El torneo se jugará entre el veinticuatro de junio y el veinticinco de julio,",
+   "en": "The tournament runs from the 24th of June to the 25th of July,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en ocho sedes de Brasil.",
+   "en": "at eight venues across «Brasil».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese día la Selección Colombia conocerá a sus rivales.",
+   "en": "That is the day «Colombia» will learn who they face.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esa es la jornada.",
+   "en": "That is the sporting day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Tuesday 25 August",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "Santa Fe and Deportes Tolima play for a quarter-final place tonight",
+ "summary_en": [
+  "Santa Fe and Deportes Tolima play for a quarter-final place tonight",
+  "The 2027 Women's World Cup draw is set for the 11th of December in Rio de Janeiro"
+ ]
+}

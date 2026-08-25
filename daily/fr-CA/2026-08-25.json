@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-CA",
+ "date": "2026-08-25",
+ "episodes": [
+  {
+   "id": "fr-CA-Le bulletin du matin, mardi 25 août",
+   "file": "podcast-daily-2026-08-25-morning-news-fr-CA.json",
+   "bytes": 11550,
+   "sha256": "9905dd844bda6458a587cb1825eb638d2cb54ff28054dcce48ccd47c4ec59bc2",
+   "date": "2026-08-25",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin du matin, mardi 25 août",
+   "title_en": "The morning news, Tuesday 25 August",
+   "headline_en": "Trump says he is considering renaming Lake Ontario",
+   "summary_en": [
+    "Trump says he is considering renaming Lake Ontario",
+    "A ground marshaller dies after being struck by a plane at Montreal-Trudeau",
+    "Ottawa sets out the detail of its retaliatory tariffs"
+   ]
+  },
+  {
+   "id": "fr-CA-Le bulletin météo, mardi 25 août",
+   "file": "podcast-daily-2026-08-25-morning-weather-fr-CA.json",
+   "bytes": 5063,
+   "sha256": "04ee9ca31d8917796774285ad5456b669a7739babc9ce55b089e1d09caa18ff3",
+   "date": "2026-08-25",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin météo, mardi 25 août",
+   "title_en": "Today's weather, Tuesday 25 August",
+   "headline_en": "Prévision pour Montréal, mardi 2026-08-25",
+   "summary_en": [
+    "Prévision pour Montréal, mardi 2026-08-25",
+    "Prévision pour Québec, mardi 2026-08-25"
+   ]
+  }
+ ],
+ "content": "73ab7b7f962e3e5d20278c86e4d415c820278aef207447a16ddfd6707100b27d",
+ "rev": 1,
+ "updated": "2026-08-25T14:13:53.628Z"
+}

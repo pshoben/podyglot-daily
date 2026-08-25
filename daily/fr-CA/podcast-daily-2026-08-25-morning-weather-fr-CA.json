@@ -1,0 +1,209 @@
+{
+ "title": "Le bulletin météo, mardi 25 août",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-weather",
+   "wpm": 185,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-25",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Trois régions du Québec, ce mardi, une à une.",
+   "en": "Three regions of «Québec» this Tuesday, one by one.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Montréal, selon le modèle GEM d'Environnement Canada, de la bruine est attendue aujourd'hui.",
+   "en": "In «Montréal», according to «Environment Canada»'s «GEM» model, drizzle is expected today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de précipitation y atteint soixante-seize pour cent.",
+   "en": "The chance of rain there reaches seventy-six per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le mercure évolue entre seize et vingt-trois degrés.",
+   "en": "The thermometer runs between sixteen and twenty-three degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Soit sept degrés d'écart sur l'ensemble de la journée.",
+   "en": "That is seven degrees across the whole day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y reste faible et ne dépasse pas douze kilomètres par heure.",
+   "en": "The wind stays light there and does not go above twelve kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'une région québécoise à l'autre, à Québec,",
+   "en": "From one «Québec» region to the next,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "c'est de la pluie qui est annoncée.",
+   "en": "in «Québec» City rain is forecast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le risque d'averse y est de soixante-deux pour cent.",
+   "en": "The chance of showers there is sixty-two per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le thermomètre y va de treize à vingt et un degrés.",
+   "en": "The thermometer there runs from thirteen to twenty-one degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Huit degrés séparent le minimum du maximum.",
+   "en": "Eight degrees separate the low from the high.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y souffle jusqu'à quatorze kilomètres par heure.",
+   "en": "The wind there blows up to fourteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au Saguenay, la bruine revient,",
+   "en": "In «Saguenay» the drizzle is back,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec cinquante-cinq pour cent de probabilité.",
+   "en": "with a fifty-five per cent chance.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les températures y vont de treize à vingt-trois degrés.",
+   "en": "Temperatures there run from thirteen to twenty-three degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'écart y atteint dix degrés sur la journée.",
+   "en": "The spread there reaches ten degrees over the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y atteint dix-sept kilomètres par heure.",
+   "en": "The wind there reaches seventeen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce sera tout pour la météo de ce mardi.",
+   "en": "That is all for the weather this Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Tuesday 25 August",
+ "edition": "morning",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "Prévision pour Montréal, mardi 2026-08-25",
+ "summary_en": [
+  "Prévision pour Montréal, mardi 2026-08-25",
+  "Prévision pour Québec, mardi 2026-08-25"
+ ]
+}

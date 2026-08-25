@@ -5,6 +5,47 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-MX-El noticiario matutino, martes 25 de agosto",
+   "file": "podcast-daily-2026-08-25-morning-news-es-MX.json",
+   "bytes": 13485,
+   "sha256": "93841e43f7b0e1e7e03e9623adaae1dac993533b3515dc6c659dd0c5dd4be452",
+   "date": "2026-08-25",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El noticiario matutino, martes 25 de agosto",
+   "title_en": "The morning news, Tuesday 25 August",
+   "headline_en": "Trump raises tariffs on Canadian cars and steel to fifty per cent from 2027",
+   "summary_en": [
+    "Trump raises tariffs on Canadian cars and steel to fifty per cent from 2027",
+    "The Sinaloa Congress meets this morning to name an interim governor",
+    "Foreign direct investment reaches its highest first-half level on record"
+   ]
+  },
+  {
+   "id": "es-MX-El clima, martes 25 de agosto",
+   "file": "podcast-daily-2026-08-25-morning-weather-es-MX.json",
+   "bytes": 5309,
+   "sha256": "1100ac6829def107c5b0d4bf94c5ccf6f792fd25c956f2b4a08ca07dc296285b",
+   "date": "2026-08-25",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El clima, martes 25 de agosto",
+   "title_en": "Today's weather, Tuesday 25 August",
+   "headline_en": "Previsión para Ciudad de México, martes 2026-08-25",
+   "summary_en": [
+    "Previsión para Ciudad de México, martes 2026-08-25",
+    "Previsión para Guadalajara, martes 2026-08-25"
+   ]
+  },
+  {
    "id": "es-MX-El noticiario matutino, domingo 23 de agosto",
    "file": "podcast-daily-2026-08-23-morning-news-es-MX.json",
    "bytes": 8057,

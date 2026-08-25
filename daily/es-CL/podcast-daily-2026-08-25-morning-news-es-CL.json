@@ -1,0 +1,390 @@
+{
+ "title": "Las noticias de la mañana, martes 25 de agosto",
+ "dialect": "es-CL",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CL-daily-news",
+   "wpm": 205,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-25",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Martes veinticinco de agosto, siete de la mañana en Santiago.",
+   "en": "Tuesday the twenty-fifth of August, seven in the morning in «Santiago».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las noticias de la mañana.",
+   "en": "The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Cancillería enviará una nota de protesta a Argentina por el Estrecho de Magallanes.",
+   "en": "The foreign ministry is sending a note of protest to «Argentina» over the Strait of «Magallanes».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La presidenta del Senado pide retirar el estado de excepción de la reforma de seguridad.",
+   "en": "The president of the Senate asks the government to drop the state of exception from its security reform.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y la policía detiene a un funcionario judicial por filtrar información a bandas criminales.",
+   "en": "And police arrest a court official for leaking information to criminal gangs.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Partimos acá en Chile.",
+   "en": "We start here in «Chile».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Cancillería informó que enviará una nota de protesta a Argentina",
+   "en": "The foreign ministry said it will send a note of protest to «Argentina»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por las declaraciones del jefe del Estado Mayor General de la Fuerza Aérea de ese país,",
+   "en": "over remarks by the head of that country's air force general staff,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según La Tercera y Ex-Ante.",
+   "en": "according to «La Tercera» and «Ex-Ante».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El brigadier general Gustavo Javier Valverde",
+   "en": "Brigadier general «Gustavo Javier Valverde»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "se refirió a la soberanía sobre el Estrecho de Magallanes.",
+   "en": "spoke about sovereignty over the Strait of «Magallanes».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El canciller Francisco Pérez Mackenna recalcó que el paso es indiscutiblemente chileno.",
+   "en": "Foreign minister «Francisco Pérez Mackenna» stressed that the passage is indisputably Chilean.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es el segundo alto oficial argentino que cuestiona la soberanía chilena en la zona",
+   "en": "He is the second senior Argentine officer in four months to question",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en cuatro meses.",
+   "en": "Chilean sovereignty there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En lo demás, la presidenta del Senado, Paulina Núñez,",
+   "en": "In other news, the president of the Senate, «Paulina Núñez»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "afirmó que su sector no apoyará el nuevo estado de excepción que propone el gobierno",
+   "en": "said her side will not back the new state of exception the government is proposing",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para enfrentar al crimen organizado.",
+   "en": "to take on organised crime.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La senadora llamó al Ejecutivo a retirar la iniciativa y sostuvo que no contará ni siquiera con los votos del oficialismo.",
+   "en": "The senator called on the government to withdraw it and said it will not even have the votes of the governing bloc.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Responsabilizó además al ministro de Seguridad Pública, Martín Arrau,",
+   "en": "She also held the public security minister, «Martín Arrau»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "del quiebre en la oposición.",
+   "en": "responsible for the split in the opposition.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según Ex-Ante,",
+   "en": "According to «Ex-Ante»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "los principales cambios a la reforma se hicieron en la víspera de su ingreso.",
+   "en": "the main changes to the reform were made the night before it was filed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasamos a otra cosa, la Policía de Investigaciones detuvo a un funcionario del tercer tribunal",
+   "en": "Moving on, the investigations police arrested an official of «Santiago»'s third",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "oral en lo penal de Santiago por filtrar información reservada a organizaciones criminales,",
+   "en": "criminal trial court for leaking restricted information to criminal organisations,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según La Tercera y CIPER.",
+   "en": "according to «La Tercera» and «CIPER».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El funcionario es investigado por eventual cohecho y por revelación de secreto.",
+   "en": "The official is under investigation for possible bribery and for disclosing secrets.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La causa la encabeza la fiscal Alejandra Vargas,",
+   "en": "The case is led by the prosecutor «Alejandra Vargas»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de la Fiscalía Regional Occidente.",
+   "en": "of the western regional prosecution service.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otro punto,",
+   "en": "Turning to something else,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Chile expuso el lunes sus argumentos sobre los aranceles",
+   "en": "«Chile» set out its case on tariffs on Monday",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ante el representante adjunto de comercio de Estados Unidos, Jeffrey Goettman.",
+   "en": "to the deputy United States trade representative, «Jeffrey Goettman».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Este martes se realiza una reunión de cierre",
+   "en": "A closing meeting is held on Tuesday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la que se espera definir una hoja de ruta para las próximas semanas.",
+   "en": "at which a road map for the coming weeks is expected to be settled.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Estamos llevando adelante una negociación seria,",
+   "en": "We are conducting a serious negotiation,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dijo la subsecretaria de Relaciones Económicas Internacionales, Paula Estévez.",
+   "en": "said the undersecretary for international economic relations, «Paula Estévez».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo principal.",
+   "en": "That is the main thing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 25 August",
+ "edition": "morning",
+ "region": "es-CL",
+ "region_label": "Chile",
+ "headline_en": "Chile sends a note of protest to Argentina over the Strait of Magellan",
+ "summary_en": [
+  "Chile sends a note of protest to Argentina over the Strait of Magellan",
+  "The Senate president calls on the government to withdraw the state of exception from its security reform",
+  "A court official is arrested over leaks to criminal gangs"
+ ]
+}

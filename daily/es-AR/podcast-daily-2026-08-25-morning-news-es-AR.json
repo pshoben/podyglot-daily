@@ -1,0 +1,420 @@
+{
+ "title": "El noticiero de la mañana, martes 25 de agosto",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-25",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Martes veinticinco de agosto, siete de la mañana en Buenos Aires.",
+   "en": "Tuesday the twenty-fifth of August, seven in the morning in «Buenos Aires».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El noticiero de la mañana.",
+   "en": "The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según la fiscalía boliviana, el exasesor Fernando Cerimedo queda en prisión preventiva.",
+   "en": "According to Bolivian prosecutors, the former adviser «Fernando Cerimedo» is to be held in preventive detention.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Gobierno reúne hoy a su mesa política antes de una semana clave",
+   "en": "The government brings its political table together today before a key",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el Congreso.",
+   "en": "week in Congress.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el Aeroparque cierra tres días por obras en la pista.",
+   "en": "And «Aeroparque» closes for three days for runway works.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos acá en la Argentina.",
+   "en": "We start here in «la Argentina».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La fiscalía dictó la prisión preventiva del acusado",
+   "en": "Prosecutors ordered the accused held in preventive detention",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por el plazo máximo de ciento ochenta días,",
+   "en": "for the maximum term of a hundred and eighty days,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según Ámbito, Clarín y La Nación.",
+   "en": "according to «Ámbito», «Clarín» and «La Nación».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según el documento, dirigió una emboscada para matar a su novia.",
+   "en": "The document says he directed an ambush to kill his girlfriend.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se conocieron además nuevos chats entre el exasesor y un presunto agente de inteligencia.",
+   "en": "New chats have also come out between the former adviser and a suspected intelligence agent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otros mensajes detallan el seguimiento en vivo del ataque a la mujer,",
+   "en": "Other messages set out the live tracking of the attack on the woman,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la puerta del hotel donde fue abordada.",
+   "en": "at the door of the hotel where she was approached.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La víctima pidió volver a declarar ante la fiscalía de Bolivia y adelantó que aportará nuevas pruebas.",
+   "en": "The victim has asked to give evidence again to the Bolivian prosecutors and says she will bring new proof.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cerimedo vendió además el cincuenta por ciento del portal La Derecha Diario",
+   "en": "«Cerimedo» also sold his fifty per cent of the «La Derecha Diario» site while",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "cuando ya estaba detenido.",
+   "en": "he was already in custody.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos en la Argentina,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el Gobierno convoca hoy a su mesa política y el Presidente se reúne con diputados y senadores oficialistas.",
+   "en": "the government is calling its political table together today, and the President is meeting government deputies and senators.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El oficialismo analizará los proyectos que Diputados debatirá este miércoles.",
+   "en": "The governing bloc will look at the bills the Chamber of Deputies debates on Wednesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Espera contar con los votos para avanzar con la agenda parlamentaria.",
+   "en": "It expects to have the votes to move its parliamentary agenda forward.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También en la agenda,",
+   "en": "Moving on,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el Aeroparque Jorge Newbery permanecerá cerrado desde hoy a las nueve y hasta el jueves veintisiete,",
+   "en": "«Aeroparque Jorge Newbery» will stay shut from nine o'clock this morning until Thursday the 27th,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por tareas de mantenimiento en su pista principal,",
+   "en": "for maintenance on its main runway,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según Ámbito y Clarín.",
+   "en": "according to «Ámbito» and «Clarín».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La reapertura está prevista para el jueves a las cuatro de la tarde.",
+   "en": "It is due to reopen on Thursday at four in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Toda la operación se traslada al aeropuerto de Ezeiza,",
+   "en": "The whole operation moves to «Ezeiza» airport,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que recibirá un ochenta por ciento más de vuelos.",
+   "en": "which will take eighty per cent more flights.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los trabajos forman parte de un plan de infraestructura",
+   "en": "The works are part of an infrastructure plan",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "superior a los ochenta y cinco millones de dólares.",
+   "en": "worth more than eighty-five million dollars.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de tema ahora,",
+   "en": "Turning to something else,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la Agencia de Recaudación y Control Aduanero volvió a prorrogar el Impuesto a las Ganancias,",
+   "en": "the customs and revenue agency has again put back the income tax deadline,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según Ámbito y La Nación.",
+   "en": "according to «Ámbito» and «La Nación».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El organismo fijó el veintidós de septiembre",
+   "en": "It set the 22nd of September",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "como nueva fecha límite para presentar la declaración jurada del período fiscal dos mil veinticinco.",
+   "en": "as the new date for filing the return for the 2025 tax year.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También postergó hasta el veinticuatro de septiembre",
+   "en": "It also put back to the 24th of September",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el vencimiento del primer anticipo de dos mil veintiséis.",
+   "en": "the first advance payment for 2026.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La fecha de pago del saldo no fue modificada.",
+   "en": "The date for paying the balance is unchanged.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo central.",
+   "en": "That is the heart of it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 25 August",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Bolivian prosecutors order 180 days' preventive detention for a former Milei adviser",
+ "summary_en": [
+  "Bolivian prosecutors order 180 days' preventive detention for a former Milei adviser",
+  "The government convenes its political table before a key week in Congress",
+  "Aeroparque closes for three days for runway works"
+ ]
+}

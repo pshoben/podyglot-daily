@@ -1,0 +1,540 @@
+{
+ "title": "El noticiario matutino, martes 25 de agosto",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-news",
+   "wpm": 186,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-25",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Martes veinticinco de agosto, siete de la mañana en la Ciudad de México.",
+   "en": "Tuesday the twenty-fifth of August, seven in the morning in «Ciudad de México».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El noticiario matutino.",
+   "en": "The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Trump elevará al cincuenta por ciento los aranceles a los autos canadienses.",
+   "en": "«Trump» is raising tariffs on Canadian cars to fifty per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Congreso de Sinaloa elige esta mañana a un gobernador interino.",
+   "en": "The «Sinaloa» Congress picks an interim governor this morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y la inversión extranjera directa alcanza su nivel más alto registrado.",
+   "en": "And foreign investment reaches its highest level on record.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Arrancamos con Canadá.",
+   "en": "We start in «Canadá».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El presidente de Estados Unidos anunció que a partir del primero de enero de dos mil veintisiete",
+   "en": "The American president announced that from the 1st of January 2027",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "los aranceles a todos los automóviles, camiones, autopartes y acero canadienses",
+   "en": "tariffs on all Canadian cars, trucks, car parts and steel",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "subirán al cincuenta por ciento,",
+   "en": "will go up to fifty per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según La Jornada y Reforma.",
+   "en": "according to «La Jornada» and «Reforma».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo escribió en su red Truth Social.",
+   "en": "He posted it on «Truth Social».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los aranceles que entraron en vigor el fin de semana se aplican a productos canadienses",
+   "en": "The tariffs that came in at the weekend apply to about twenty",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "valorados en unos veinte mil millones de dólares.",
+   "en": "billion dollars' worth of Canadian goods.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Representan el cinco punto cinco por ciento de las exportaciones canadienses a su vecino.",
+   "en": "That is five point five per cent of what «Canadá» sells to its neighbour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mark Carney respondió que Canadá impondrá aranceles de represalia a partir del ocho de septiembre.",
+   "en": "«Mark Carney» answered that «Canadá» will bring in retaliatory tariffs from the 8th of September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El primer ministro de Ontario, Doug Ford,",
+   "en": "«Ontario»'s premier, «Doug Ford»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "amenazó con cortar el suministro de electricidad y de minerales críticos a Estados Unidos.",
+   "en": "threatened to cut off electricity and critical minerals to the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Donald Trump afirmó además que considera cambiar el nombre del lago Ontario",
+   "en": "«Donald Trump» also said he is thinking of renaming Lake «Ontario»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por el de lago América.",
+   "en": "Lake America.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos en México,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.1
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el Congreso de Sinaloa convocó a sesión extraordinaria",
+   "en": "the «Sinaloa» Congress has called a special session",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.075
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para las ocho de la mañana de hoy,",
+   "en": "for eight o'clock this morning,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.05
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con el fin de nombrar a un gobernador o gobernadora interina,",
+   "en": "to name an interim governor,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.025
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según La Jornada, El Financiero, El Economista y Reforma.",
+   "en": "according to «La Jornada», «El Financiero», «El Economista» and «Reforma».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Rubén Rocha Moya solicitó el veintidós de agosto una licencia temporal de carácter indefinido,",
+   "en": "«Rubén Rocha Moya» asked on the 22nd of August for open-ended temporary leave,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por más de treinta días.",
+   "en": "of more than thirty days.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La sesión prevista para el lunes se suspendió sin que se votara el relevo.",
+   "en": "Monday's session was called off without the vote being taken.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta la noche del lunes no se había hecho pública ninguna propuesta formal.",
+   "en": "By Monday night no formal candidate had been made public.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En otros temas,",
+   "en": "Moving on,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el producto interno bruto creció uno punto cuatro por ciento en el segundo trimestre,",
+   "en": "gross domestic product grew one point four per cent in the second quarter,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "su mejor registro desde dos mil veintidós,",
+   "en": "its best reading since 2022,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según El Economista y La Jornada.",
+   "en": "according to «El Economista» and «La Jornada».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "México creció así el triple que el promedio de los países de la OCDE.",
+   "en": "«México» grew three times as fast as the OECD average.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Además, la inversión extranjera directa alcanzó en el primer semestre su nivel más alto desde que hay registro,",
+   "en": "Foreign direct investment also reached its highest first-half level on record,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con casi treinta y cinco mil millones de dólares,",
+   "en": "at almost thirty-five billion dollars,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "informó la Secretaría de Economía,",
+   "en": "the Economy Ministry said,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de acuerdo con La Jornada y El Financiero.",
+   "en": "according to «La Jornada» and «El Financiero».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es un dos punto uno por ciento más que en el mismo periodo de dos mil veinticinco.",
+   "en": "That is two point one per cent more than in the same period of 2025.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasamos a otro asunto,",
+   "en": "Turning to something else,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la Fiscalía General de la República abrió una investigación",
+   "en": "the federal Attorney General's Office has opened an investigation",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por el envío de mercurio a través de una empresa de paquetería en la Ciudad de México,",
+   "en": "into mercury sent through a courier company in «Ciudad de México»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según La Jornada y El Financiero.",
+   "en": "according to «La Jornada» and «El Financiero».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La sustancia viajaba en doce cajas de unos cuarenta kilos cada una,",
+   "en": "The substance was travelling in twelve boxes of about forty kilos each,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y una de ellas se rompió.",
+   "en": "and one of them broke.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otra noticia, Sonora se convirtió en la primera entidad de la frontera norte en reabrir",
+   "en": "Elsewhere, «Sonora» has become the first northern border state to reopen",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la exportación de ganado bovino a Estados Unidos.",
+   "en": "cattle exports to the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El acto se realizó en la cuarentenaria de Agua Prieta,",
+   "en": "The event was held at the «Agua Prieta» quarantine station,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "encabezado por el gobernador Alfonso Durazo y la secretaria de Agricultura, Columba Jazmín López Gutiérrez.",
+   "en": "led by governor «Alfonso Durazo» and the agriculture secretary, «Columba Jazmín López Gutiérrez».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En dos mil veinticuatro",
+   "en": "In 2024",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el estado envió un récord de más de trescientas cincuenta mil cabezas a Estados Unidos.",
+   "en": "the state sent a record of more than three hundred and fifty thousand head to the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más destacado.",
+   "en": "That is what stands out today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 25 August",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "Trump raises tariffs on Canadian cars and steel to fifty per cent from 2027",
+ "summary_en": [
+  "Trump raises tariffs on Canadian cars and steel to fifty per cent from 2027",
+  "The Sinaloa Congress meets this morning to name an interim governor",
+  "Foreign direct investment reaches its highest first-half level on record"
+ ]
+}
