@@ -1,0 +1,243 @@
+{
+ "title": "El tiempo, martes 25 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather",
+   "wpm": 208,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-25",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "De norte a sur, así queda el martes.",
+   "en": "North to south, this is how Tuesday looks.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "España recupera hoy una situación más estable tras el paso de la borrasca,",
+   "en": "«Spain» gets back to something calmer today after the low has passed,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según la Aemet.",
+   "en": "according to «Aemet».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En buena parte de la Península y en Baleares la jornada será más tranquila,",
+   "en": "Across much of the mainland and the «Balearics» the day will be quieter,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con cielos poco nubosos.",
+   "en": "with only light cloud.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Galicia, Asturias y el Cantábrico siguen bajo la inestabilidad de los últimos días.",
+   "en": "«Galicia», «Asturias» and the «Cantábrico» coast stay under the unsettled weather of the last few days.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí habrá precipitaciones débiles o moderadas e intermitentes.",
+   "en": "There will be light to moderate rain there, on and off.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los chubascos más intensos pueden darse en Asturias y en el nordeste de Galicia,",
+   "en": "The heaviest showers may come in «Asturias» and the north-east of «Galicia»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "localmente fuertes y con tormenta.",
+   "en": "locally strong and with thunder.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las máximas bajan en Galicia, el Cantábrico y la meseta Norte,",
+   "en": "Highs fall in «Galicia», the «Cantábrico» and the northern «meseta»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y suben en Baleares y en buena parte del resto.",
+   "en": "and rise in the «Balearics» and across much of the rest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El ascenso se nota sobre todo en Andalucía y en los litorales mediterráneos.",
+   "en": "The rise shows up most in «Andalusia» and along the Mediterranean coasts.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se pueden superar los treinta y cinco grados en los prelitorales de Valencia,",
+   "en": "Thirty-five degrees can be passed inland from «Valencia»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la vega del Segura y Baleares.",
+   "en": "in the «Segura» valley and in the «Balearics».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la Comunidad de Madrid el día empieza con intervalos de nubes bajas,",
+   "en": "In the «Comunidad de Madrid» the day starts with low cloud,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "más abundantes en la Sierra.",
+   "en": "more of it up in the «Sierra».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los claros se abren hacia el mediodía y dejan una tarde con nubes altas.",
+   "en": "Breaks open up towards midday and leave an afternoon of high cloud.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La región no tiene hoy ningún aviso meteorológico activado.",
+   "en": "The region has no weather warning in force today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la capital, la Aemet da veintiocho grados de máxima y dieciocho de mínima.",
+   "en": "In the capital, «Aemet» gives a high of twenty-eight degrees and a low of eighteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo queda poco nuboso y el viento sopla flojo del suroeste.",
+   "en": "The sky stays lightly clouded and the wind is light from the south-west.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí el tiempo.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Tuesday 25 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "España",
+ "accent": "Castilla",
+ "accent_label": "acento de Castilla",
+ "segment_order": 0,
+ "headline_en": "AEMET: a calmer Tuesday, but strong storms stay over Asturias and Galicia",
+ "summary_en": [
+  "AEMET: a calmer Tuesday, but strong storms stay over Asturias and Galicia",
+  "Madrid: a fresh start, up to 30 degrees inland, and no warnings in force"
+ ]
+}

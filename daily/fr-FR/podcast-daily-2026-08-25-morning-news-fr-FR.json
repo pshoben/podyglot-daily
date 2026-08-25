@@ -1,0 +1,500 @@
+{
+ "title": "Le journal du matin, mardi 25 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-25",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Mardi vingt-cinq août, sept heures à Paris. Le journal du matin.",
+   "en": "Tuesday the twenty-fifth of August, seven o'clock in «Paris». The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Syrie sort de la liste américaine des États soutenant le terrorisme.",
+   "en": "«Syria» comes off the American list of states that sponsor terrorism.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Une tornade a ravagé le village de Pomas, dans l'Aude.",
+   "en": "A tornado has wrecked the village of «Pomas», in the «Aude».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et le Parti socialiste valide ce mardi les règles de sa primaire.",
+   "en": "And the «Parti socialiste» signs off the rules of its primary on Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par la Syrie.",
+   "en": "We start in «Syria».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Washington a levé cette inscription après quarante-sept ans, selon Le Monde, Le Télégramme,",
+   "en": "«Washington» lifted the listing after forty-seven years, according to «Le Monde», «Le Télégramme»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Libération et Sud Ouest.",
+   "en": "«Libération» and «Sud Ouest».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La décision a été prise après des garanties formelles du président Ahmed al-Charaa,",
+   "en": "The decision followed formal guarantees from President «Ahmed al-Charaa»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avait expliqué le secrétaire d'État américain, Marco Rubio.",
+   "en": "the American Secretary of State «Marco Rubio» had explained.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les États-Unis ont aussi retiré HTS,",
+   "en": "The United States also took «HTS»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "l'ancienne formation du chef de l'État syrien,",
+   "en": "the Syrian leader's former group,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de plusieurs listes liées au terrorisme et aux sanctions.",
+   "en": "off several terrorism and sanctions lists.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Damas dit tourner la page douloureuse de son passé et se débarrasser d'un lourd fardeau.",
+   "en": "«Damascus» says it is closing a painful chapter of its past and shedding a heavy burden.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, une tornade a frappé le village de Pomas, dans l'Aude,",
+   "en": "In «France», a tornado hit the village of «Pomas», in the «Aude», late on Monday afternoon,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "lundi en fin d'après-midi, selon France Télévisions, France 24, Le Figaro et Libération.",
+   "en": "according to «France Télévisions», «France 24», «Le Figaro» and «Libération».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le phénomène a été observé vers dix-sept heures vingt,",
+   "en": "It was seen at about twenty past five,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "alors que le département était placé en vigilance orange aux orages.",
+   "en": "while the department was on orange alert for thunderstorms.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De nombreuses toitures ont été arrachées et des maisons soufflées.",
+   "en": "Many roofs were torn off and houses were blown apart.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'importants moyens de secours ont été mobilisés sur place.",
+   "en": "A large emergency response was sent to the village.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon un premier bilan des autorités publié mardi matin, trente-neuf personnes ont été blessées,",
+   "en": "A first count from the authorities, published on Tuesday morning, puts thirty-nine people injured,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dont deux en urgence absolue.",
+   "en": "two of them critically.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Environ trois cents habitations ont été endommagées.",
+   "en": "About three hundred homes were damaged.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité,",
+   "en": "Moving on,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le Parti socialiste et Place publique valident ce mardi l'accord sur leur primaire,",
+   "en": "the «Parti socialiste» and «Place publique» sign off the agreement on their primary on Tuesday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon Le Figaro, Le Télégramme et Sud Ouest.",
+   "en": "according to «Le Figaro», «Le Télégramme» and «Sud Ouest».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Deux tours, les neuf et dix puis les seize et dix-sept octobre,",
+   "en": "Two rounds, on the 9th and 10th and then the 16th and 17th of October,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "désigneront le candidat social-démocrate à la présidentielle.",
+   "en": "will choose the social democratic candidate for the presidency.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Quatre personnalités se sont déclarées à ce stade.",
+   "en": "Four figures have declared so far.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le montant de la participation fait débat.",
+   "en": "The fee for taking part is still being argued over.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à autre chose,",
+   "en": "Turning to something else,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la CFDT se dit favorable à une taxe sur les héritages dès le premier euro,",
+   "en": "the «CFDT» has come out in favour of a tax on inheritance from the first euro,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon France Télévisions, Le Télégramme et Sud Ouest.",
+   "en": "according to «France Télévisions», «Le Télégramme» and «Sud Ouest».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sa secrétaire générale, Marylise Léon,",
+   "en": "Its general secretary, «Marylise Léon»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y voit une mesure de justice sociale.",
+   "en": "calls it a matter of social justice.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le syndicat veut placer la réforme de l'impôt sur les successions",
+   "en": "The union wants inheritance tax reform",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "au cœur de la campagne présidentielle.",
+   "en": "to be at the heart of the presidential campaign.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre sujet maintenant, des fonds saoudiens vont financer trois parcs d'attractions en Île-de-France,",
+   "en": "Elsewhere, Saudi money is to pay for three theme parks in the «Île-de-France» region,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon France Télévisions, Le Figaro et Le Télégramme.",
+   "en": "according to «France Télévisions», «Le Figaro» and «Le Télégramme».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le projet a été rendu public lundi soir,",
+   "en": "The project was made public on Monday evening,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pendant la visite d'État du prince héritier saoudien, Mohammed Ben Salmane.",
+   "en": "during the state visit of the Saudi crown prince, «Mohammed Ben Salmane».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il porte sur six milliards d'euros d'investissements,",
+   "en": "It is worth six billion euros in investment,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec vingt-deux mille emplois directs attendus.",
+   "en": "with twenty-two thousand direct jobs expected.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour finir, Sophie Adenot effectue ce mardi sa deuxième sortie dans l'espace,",
+   "en": "And finally, «Sophie Adenot» carries out her second spacewalk on Tuesday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon France Télévisions, Le Monde, Le Télégramme et Libération.",
+   "en": "according to «France Télévisions», «Le Monde», «Le Télégramme» and «Libération».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'astronaute française doit achever le remplacement d'une antenne de communications défectueuse.",
+   "en": "The French astronaut has to finish replacing a faulty communications antenna.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La réparation avait été entamée la semaine dernière, sans pouvoir être menée à son terme.",
+   "en": "The repair was started last week and could not be completed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 25 August",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "The United States takes Syria off its list of state sponsors of terrorism",
+ "summary_en": [
+  "The United States takes Syria off its list of state sponsors of terrorism",
+  "A tornado wrecks the village of Pomas in the Aude",
+  "The Socialists and Place publique sign off the rules of their primary"
+ ]
+}

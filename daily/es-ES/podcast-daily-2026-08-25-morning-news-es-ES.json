@@ -1,0 +1,450 @@
+{
+ "title": "El informativo de la mañana, martes 25 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-news",
+   "wpm": 208,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-25",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Martes veinticinco de agosto. El informativo de la mañana.",
+   "en": "Tuesday the twenty-fifth of August. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Tribunal Supremo estadounidense levanta el bloqueo",
+   "en": "The American Supreme Court lifts the block",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "al decreto de Trump sobre el voto por correo.",
+   "en": "on «Trump»'s order on postal voting.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Gobierno crea un mando único para la crisis de Ceuta.",
+   "en": "The Government sets up a single command for the «Ceuta» crisis.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y Antonio Garamendi seguirá al frente de la patronal.",
+   "en": "And «Antonio Garamendi» will stay at the head of the employers' body.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Abrimos con Estados Unidos.",
+   "en": "We open in the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Tribunal Supremo levantó el lunes el bloqueo judicial",
+   "en": "The Supreme Court on Monday lifted the judicial block",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "al decreto de Donald Trump que restringe el voto por correo,",
+   "en": "on «Donald Trump»'s order restricting postal voting,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según ABC y elDiario punto es.",
+   "en": "according to «ABC» and «elDiario.es».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La decisión la respaldó la mayoría conservadora del alto tribunal.",
+   "en": "The decision was backed by the court's conservative majority.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Llega a dos meses de las elecciones de medio mandato.",
+   "en": "It comes two months before the midterm elections.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La jueza Ketanji Brown Jackson advirtió",
+   "en": "Justice «Ketanji Brown Jackson» warned",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en su voto particular de que la sentencia inyecta caos e incertidumbre",
+   "en": "in her dissent that the ruling injects chaos and uncertainty",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en esos comicios.",
+   "en": "into those elections.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en España, el Gobierno crea un mando único operativo para la crisis de Ceuta,",
+   "en": "Here in «Spain», the Government is setting up a single operational command for the «Ceuta» crisis,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según El País, elDiario punto es y La Vanguardia.",
+   "en": "according to «El País», «elDiario. es» and «La Vanguardia».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Consejo de Ministros nombrará hoy responsable al ministro de Política Territorial, Ángel Víctor Torres.",
+   "en": "Today's cabinet meeting will put the minister for territorial policy, «Ángel Víctor Torres», in charge of it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Antes se reúne, de forma extraordinaria, el Consejo de Seguridad Nacional.",
+   "en": "Before that, the National Security Council meets in an emergency session.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el comité entran también el presidente de la ciudad autónoma,",
+   "en": "The committee also takes in the president of the city,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el CNI y los departamentos implicados.",
+   "en": "the «CNI» intelligence service and the departments involved.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los ministros comparecen desde hoy en el Congreso por la crisis migratoria.",
+   "en": "The ministers start appearing before Congress today over the migration crisis.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La primera en comparecer es la titular de Defensa, Margarita Robles.",
+   "en": "The first to appear is the defence minister, «Margarita Robles».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el resto de la actualidad,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Estados Unidos prepara la mayor revocación masiva de visados de su historia,",
+   "en": "the United States is preparing the biggest mass visa revocation in its history,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según El Mundo y El País.",
+   "en": "according to «El Mundo» and «El País».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Departamento de Estado prevé anunciar",
+   "en": "The State Department expects to announce",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en las próximas semanas la retirada de visados de turismo y negocios.",
+   "en": "in the coming weeks that it is withdrawing tourism and business visas.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Afectaría a quienes han pedido asilo o lo están tramitando,",
+   "en": "It would hit people who have applied for asylum or are applying,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y podría alcanzar a doscientas mil personas.",
+   "en": "and could reach two hundred thousand of them.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se espera que la medida sea impugnada ante los tribunales.",
+   "en": "The measure is expected to be challenged in the courts.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de tema, Antonio Garamendi será proclamado presidente de la CEOE por tercer mandato consecutivo,",
+   "en": "Moving on, «Antonio Garamendi» will be declared president of the «CEOE» employers' confederation for a third term in a row,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según ABC, El País y elDiario punto es.",
+   "en": "according to «ABC», «El País» and «elDiario. es».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El plazo de candidaturas terminó el lunes sin ningún rival.",
+   "en": "The window for candidates closed on Monday with nobody standing against him.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La elección de la patronal se celebra el uno de octubre.",
+   "en": "The employers' election is held on 1st October.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otro asunto,",
+   "en": "Turning to something else,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el balón con el que Diego Maradona marcó el gol de la mano de Dios",
+   "en": "the ball from «Maradona»'s Hand of God goal",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "se ha vendido en subasta,",
+   "en": "has been sold at auction,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según ABC y Mundo Deportivo.",
+   "en": "according to «ABC» and «Mundo Deportivo».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La puja se celebró en Estados Unidos y alcanzó",
+   "en": "The sale was held in the United States and reached",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "los tres millones trescientos cincuenta mil dólares.",
+   "en": "three million three hundred and fifty thousand dollars.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se trata del Azteca del Mundial de México de mil novecientos ochenta y seis.",
+   "en": "It is the «Azteca» ball from the 1986 World Cup in «Mexico».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí lo esencial.",
+   "en": "That is the essential news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 25 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "The US Supreme Court lifts the block on Trump's postal voting order",
+ "summary_en": [
+  "The US Supreme Court lifts the block on Trump's postal voting order",
+  "The Government creates a single command for Ceuta and puts minister Torres in charge",
+  "Garamendi will run the CEOE for a third term after nobody stood against him"
+ ]
+}

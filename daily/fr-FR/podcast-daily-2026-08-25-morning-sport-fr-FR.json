@@ -1,0 +1,199 @@
+{
+ "title": "Le sport, mardi 25 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-25",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le sport de ce mardi.",
+   "en": "The sport this Tuesday.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Vuelta repart aujourd'hui avec sa quatrième étape, selon L'Équipe, Ouest-France et France Télévisions.",
+   "en": "The «Vuelta» sets off again today with its fourth stage, according to «L'Équipe», «Ouest-France» and «France Télévisions».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le départ et l'arrivée sont jugés à Andorre-la-Vieille.",
+   "en": "It starts and finishes in «Andorra la Vella».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est une étape de montagne d'un peu plus de cent kilomètres.",
+   "en": "It is a mountain stage of a little over a hundred kilometres.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La veille, la troisième étape avait été annulée en raison d'un orage de grêle.",
+   "en": "The day before, the third stage had been called off because of a hailstorm.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les coureurs avaient dû se mettre à l'abri dans un hôtel.",
+   "en": "The riders had to take shelter in a hotel.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au programme, le rugby, avec la Ligue nationale,",
+   "en": "In other news, rugby, where the «Ligue nationale»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qui va redistribuer cent vingt-six millions cinq cent mille euros",
+   "en": "is to pay out a hundred and twenty-six and a half million euros",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à ses clubs professionnels,",
+   "en": "to its professional clubs,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon L'Équipe et Le Figaro.",
+   "en": "according to «L'Équipe» and «Le Figaro».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Trente clubs du Top quatorze et de la Pro D deux sont concernés.",
+   "en": "Thirty clubs in the «Top 14» and the «Pro D2» are covered.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Ligue détaille pour la première fois cette redistribution, club par club.",
+   "en": "The league is publishing the club by club breakdown for the first time.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À suivre aujourd'hui, le tennis,",
+   "en": "Moving on, tennis, and the worry around «Loïs",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec l'inquiétude autour de Loïs Boisson, selon L'Équipe et Ouest-France.",
+   "en": "Boisson», according to «L'Équipe» and «Ouest-France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Française s'est tordu la cheville au tournoi de Philadelphie.",
+   "en": "The French player twisted her ankle at the tournament in «Philadelphia».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle n'a pas voulu prendre de risque à quelques jours de l'US Open.",
+   "en": "She did not want to take any risk with the «US Open» days away.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Tuesday 25 August",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Stage four of the Vuelta, starting and finishing in Andorra la Vella",
+ "summary_en": [
+  "Stage four of the Vuelta, starting and finishing in Andorra la Vella",
+  "The rugby league publishes what each professional club is paid, for the first time"
+ ]
+}

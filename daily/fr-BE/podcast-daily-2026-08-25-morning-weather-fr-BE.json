@@ -1,0 +1,219 @@
+{
+ "title": "Le temps chez nous, mardi 25 août",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-weather",
+   "wpm": 222,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-25",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Au-dessus de nos têtes, ce mardi.",
+   "en": "Above our heads this Tuesday.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ciel sera changeant à très nuageux,",
+   "en": "The sky will be changeable to very cloudy,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon les prévisions de l'Institut royal météorologique.",
+   "en": "according to the forecast from the «Institut royal météorologique».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des averses, parfois orageuses, sont attendues dans la journée, principalement sur le sud-est.",
+   "en": "Showers, some of them thundery, are expected during the day, mainly in the south-east.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans l'ouest, le temps restera sec et plus ensoleillé.",
+   "en": "In the west it will stay dry and sunnier.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les maxima iront de dix-sept à vingt-cinq degrés.",
+   "en": "Highs will run from seventeen to twenty-five degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'une région à l'autre, maintenant.",
+   "en": "From one region to the next now.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Bruxelles, le modèle du Centre européen, l'ECMWF,",
+   "en": "In «Brussels», the European Centre model, the «ECMWF»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "donne vingt-quatre degrés au plus chaud et treize au plus frais, sous un ciel couvert.",
+   "en": "gives twenty-four degrees at the warmest and thirteen at the coolest, under an overcast sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de précipitation y est nulle aujourd'hui.",
+   "en": "The chance of rain there is nil today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y monte à treize kilomètres par heure.",
+   "en": "The wind there climbs to thirteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Liège, le thermomètre affiche les mêmes vingt-quatre et treize degrés.",
+   "en": "In «Liège» the thermometer shows the same twenty-four and thirteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de précipitation y grimpe en revanche à seize pour cent.",
+   "en": "The chance of rain there, though, goes up to sixteen per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Liège garde la même limite de vent, treize kilomètres par heure.",
+   "en": "«Liège» keeps the same wind ceiling, thirteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Namur, mêmes valeurs encore au thermomètre,",
+   "en": "In «Namur» the thermometer is the same again,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et six pour cent de probabilité de précipitation.",
+   "en": "with a six per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y souffle un peu plus fort,",
+   "en": "The wind there blows a little harder,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "jusqu'à quatorze kilomètres par heure.",
+   "en": "up to fourteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le temps chez nous.",
+   "en": "That is the weather here.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Tuesday 25 August",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "The IRM: changeable to very cloudy, showers in the south-east, highs of 17 to 25",
+ "summary_en": [
+  "The IRM: changeable to very cloudy, showers in the south-east, highs of 17 to 25",
+  "Brussels today: overcast, a high of 24 and no rain forecast"
+ ]
+}

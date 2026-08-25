@@ -1,0 +1,199 @@
+{
+ "title": "La météo, mardi 25 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-25",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le ciel de ce mardi, en trois villes.",
+   "en": "The skies this Tuesday, in three cities.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Paris, selon les modèles de Météo-France, on attend de la bruine aujourd'hui.",
+   "en": "In «Paris», according to the «Météo-France» models, drizzle is expected today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La capitale monte jusqu'à vingt-huit degrés.",
+   "en": "The capital climbs to twenty-eight degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le thermomètre y descend à dix-sept degrés au plus bas.",
+   "en": "The thermometer there drops to seventeen degrees at its lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Onze degrés séparent donc le minimum du maximum.",
+   "en": "So eleven degrees separate the low from the high.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y souffle jusqu'à seize kilomètres par heure.",
+   "en": "The wind there blows up to sixteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cap sur le Sud-Ouest, où Bordeaux est en revanche sous la pluie.",
+   "en": "Over to the south-west, where «Bordeaux» has rain instead.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le maximum y atteint vingt-huit degrés lui aussi.",
+   "en": "The high there reaches twenty-eight degrees as well.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le minimum, lui, est prévu à vingt et un degrés.",
+   "en": "The low, though, is forecast at twenty-one degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'amplitude n'y dépasse donc pas sept degrés.",
+   "en": "So the swing there is no more than seven degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Là encore, le vent maximal est donné à seize kilomètres par heure.",
+   "en": "Again, the top wind speed is given as sixteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Méditerranée, Marseille passe la journée sous un ciel couvert.",
+   "en": "On the Mediterranean, «Marseille» spends the day under overcast skies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La cité phocéenne plafonne à vingt-six degrés.",
+   "en": "The city tops out at twenty-six degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle ne redescend pas sous vingt et un degrés.",
+   "en": "It does not fall back below twenty-one degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cinq degrés d'écart, donc, entre le plus frais et le plus chaud.",
+   "en": "Five degrees, then, between the coolest and the warmest part of the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent n'y dépasse pas douze kilomètres par heure.",
+   "en": "The wind there does not go above twelve kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Tuesday 25 August",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Paris today: drizzle, with a high of 28 degrees",
+ "summary_en": [
+  "Paris today: drizzle, with a high of 28 degrees",
+  "Bordeaux today: rain, with a high of 28 degrees"
+ ]
+}

@@ -1,0 +1,360 @@
+{
+ "title": "Le sept heures, mardi 25 août",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-news",
+   "wpm": 222,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-25",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Mardi vingt-cinq août. Le sept heures.",
+   "en": "Tuesday the twenty-fifth of August. The seven o'clock news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un troisième drone suspect a été retrouvé près de l'aéroport de Leipzig.",
+   "en": "A third suspect drone has been found near «Leipzig» airport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De nouveaux coups de feu ont été tirés à Saint-Gilles,",
+   "en": "Shots have been fired in «Saint-Gilles»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour le troisième jour de suite.",
+   "en": "for the third day running.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et le bitcoin repasse au-dessus des quatre-vingt mille dollars.",
+   "en": "And «bitcoin» is back above eighty thousand dollars.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On ouvre avec l'Allemagne.",
+   "en": "We open in «Germany».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les autorités ont découvert un appareil suspect près de l'aéroport de Leipzig-Halle,",
+   "en": "The authorities have found a suspect device near «Leipzig-Halle» airport,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon 7sur7 et Le Vif.",
+   "en": "according to «7sur7» and «Le Vif».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce serait un troisième drone impliqué dans l'incident survenu au même endroit plus tôt",
+   "en": "It is thought to be a third drone involved in the incident at the same place",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans le mois.",
+   "en": "earlier this month.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Plusieurs médias allemands rapportent cette découverte ce mardi.",
+   "en": "Several German outlets are reporting the find on Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Vif ajoute que Berlin soupçonne une tentative d'attentat russe.",
+   "en": "«Le Vif» adds that «Berlin» suspects an attempted Russian attack.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ailleurs dans l'actu,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de nouveaux coups de feu ont été tirés lundi vers vingt et une heures,",
+   "en": "shots were fired again on Monday at about nine in the evening,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "place des Deux Bancs, à Saint-Gilles,",
+   "en": "on the «place des Deux Bancs» in «Saint-Gilles»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon 7sur7, Le Vif et la DH.",
+   "en": "according to «7sur7», «Le Vif» and «la DH».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'était au croisement de la rue Gustave Defnet et de la rue du Monténégro,",
+   "en": "It was at the corner of the «rue Gustave Defnet» and the «rue du Monténégro»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a confirmé le bourgmestre, Jean Spinette.",
+   "en": "the mayor, «Jean Spinette», confirmed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon la DH, les tirs ont été effectués à l'arme automatique.",
+   "en": "According to «la DH», the shots were fired with an automatic weapon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aucun blessé n'a été recensé à ce stade,",
+   "en": "Nobody has been reported hurt so far,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le tireur a pris la fuite.",
+   "en": "and the gunman got away.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les clients installés à la terrasse d'une pizzeria du quartier",
+   "en": "Customers sitting outside a pizzeria nearby",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ont vécu un vrai moment d'angoisse.",
+   "en": "had a very frightening few moments.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est le troisième jour consécutif que des tirs éclatent dans cette commune bruxelloise.",
+   "en": "It is the third day running that shots have been fired in that Brussels borough.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Samedi soir, un homme avait été atteint à la jambe par balle, au même endroit.",
+   "en": "On Saturday evening a man had been hit in the leg by a bullet at the same spot.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ses jours n'étaient pas en danger.",
+   "en": "His life was not in danger.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On enchaîne, le bitcoin est repassé au-dessus des quatre-vingt mille dollars,",
+   "en": "Moving on, «bitcoin» has gone back above eighty thousand dollars,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon 7sur7 et La Libre.",
+   "en": "according to «7sur7» and «La Libre».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est la première fois depuis le mois de mai.",
+   "en": "It is the first time since May.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La cryptomonnaie sortait de plusieurs mois de baisse et d'un passage",
+   "en": "The currency was coming out of months of falls and a spell",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sous les soixante mille dollars.",
+   "en": "below sixty thousand dollars.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les investisseurs montrent davantage d'appétit pour les actifs risqués.",
+   "en": "Investors are showing more appetite for riskier assets.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà où nous en sommes.",
+   "en": "That is where things stand.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 25 August",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "A third suspect drone found near Leipzig airport, and Berlin suspects Russia",
+ "summary_en": [
+  "A third suspect drone found near Leipzig airport, and Berlin suspects Russia",
+  "Shots fired in Saint-Gilles for a third night running",
+  "Bitcoin back above 80,000 dollars for the first time since May"
+ ]
+}

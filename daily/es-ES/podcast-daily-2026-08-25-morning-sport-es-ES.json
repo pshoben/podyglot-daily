@@ -1,0 +1,189 @@
+{
+ "title": "Los deportes, martes 25 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-sport",
+   "wpm": 208,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-25",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "En los campos y en los despachos.",
+   "en": "On the pitches and in the offices.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Barcelona ve casi imposible el fichaje de Julián Álvarez, según El País,",
+   "en": "«Barcelona» now see signing «Julián Álvarez» as all but impossible, according to «El País»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Mundo y La Vanguardia.",
+   "en": "«El Mundo» and «La Vanguardia».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La dirección deportiva azulgrana da por perdida esa operación.",
+   "en": "The club's sporting directors have given the deal up.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el club aseguran, eso sí,",
+   "en": "They do say",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que tienen una plaza libre para un jugador de primer nivel.",
+   "en": "they have a free place in the squad for a top-level player.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para el delantero argentino, la opción del Barça ha desaparecido,",
+   "en": "For the Argentine striker the «Barça» option has gone,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y tampoco quiere ir a la Premier.",
+   "en": "and he does not want to go to the Premier League either.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Mundo añade que el Arsenal mantiene el interés por él.",
+   "en": "«El Mundo» adds that «Arsenal» are still interested in him.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y él sigue asumiendo riesgos para forzar su salida del Atlético de Madrid.",
+   "en": "And he is still taking risks to force his way out of «Atlético de Madrid».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hoy en la agenda, el Valencia recibe al Betis en Mestalla,",
+   "en": "In other news, «Valencia» host «Betis» at «Mestalla»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según Marca y Mundo Deportivo.",
+   "en": "according to «Marca» and «Mundo Deportivo».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es el partido de la primera jornada de Liga,",
+   "en": "It is the opening-round league match,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "aplazado por los jugadores del Mundial y recuperado hoy.",
+   "en": "put off because of players away at the World Cup and played today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Carlos Corberán dirige al Valencia.",
+   "en": "«Carlos Corberán» is the «Valencia» coach.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí los deportes.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Tuesday 25 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Barcelona all but give up on signing Julian Alvarez",
+ "summary_en": [
+  "Barcelona all but give up on signing Julian Alvarez",
+  "Valencia host Betis at Mestalla in the postponed opening-day fixture"
+ ]
+}

@@ -5,6 +5,107 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-ES-El informativo de la mañana, martes 25 de agosto",
+   "file": "podcast-daily-2026-08-25-morning-news-es-ES.json",
+   "bytes": 11237,
+   "sha256": "88b5c0d82e8e14b53329ef3ee40a0ee0d1ef8c3867efea6fc7e2ebcb15807e1b",
+   "date": "2026-08-25",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, martes 25 de agosto",
+   "title_en": "The morning news, Tuesday 25 August",
+   "headline_en": "The US Supreme Court lifts the block on Trump's postal voting order",
+   "summary_en": [
+    "The US Supreme Court lifts the block on Trump's postal voting order",
+    "The Government creates a single command for Ceuta and puts minister Torres in charge",
+    "Garamendi will run the CEOE for a third term after nobody stood against him"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, martes 25 de agosto",
+   "file": "podcast-daily-2026-08-25-morning-sport-es-ES.json",
+   "bytes": 4508,
+   "sha256": "3ce419e7cbcef79bc26fecb975d49acaf0dd29757b2e77776dc520ba11103dc6",
+   "date": "2026-08-25",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, martes 25 de agosto",
+   "title_en": "Today's sport, Tuesday 25 August",
+   "headline_en": "Barcelona all but give up on signing Julian Alvarez",
+   "summary_en": [
+    "Barcelona all but give up on signing Julian Alvarez",
+    "Valencia host Betis at Mestalla in the postponed opening-day fixture"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, martes 25 de agosto",
+   "file": "podcast-daily-2026-08-25-morning-weather-es-ES.json",
+   "bytes": 6171,
+   "sha256": "8d8355f22c48753ba4c1ce768baa61ad094a283c36cebc507883e87b2dc60575",
+   "date": "2026-08-25",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, martes 25 de agosto",
+   "title_en": "Today's weather, Tuesday 25 August",
+   "headline_en": "AEMET: a calmer Tuesday, but strong storms stay over Asturias and Galicia",
+   "summary_en": [
+    "AEMET: a calmer Tuesday, but strong storms stay over Asturias and Galicia",
+    "Madrid: a fresh start, up to 30 degrees inland, and no warnings in force"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, martes 25 de agosto",
+   "file": "podcast-daily-2026-08-25-morning-weather-andalucia-es-ES.json",
+   "bytes": 5038,
+   "sha256": "1d0c8aca9de1e8cf8af6b187ffd817c4b668c214bcd53b37fc9174f607028996",
+   "date": "2026-08-25",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, martes 25 de agosto",
+   "title_en": "Today's weather, Andalusia, Tuesday 25 August",
+   "headline_en": "Cordoba today: cloudy spells then clear, high of 33 degrees",
+   "summary_en": [
+    "Cordoba today: cloudy spells then clear, high of 33 degrees",
+    "Seville today: mostly clear then clear, high of 31 degrees"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, martes 25 de agosto",
+   "file": "podcast-daily-2026-08-25-morning-weather-canarias-es-ES.json",
+   "bytes": 4569,
+   "sha256": "b7ab9ff2ad1bf41872faf47a36115bdc20dc0e25c8405d70553ee3c69259e968",
+   "date": "2026-08-25",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, martes 25 de agosto",
+   "title_en": "Today's weather, Canary Islands, Tuesday 25 August",
+   "headline_en": "Las Palmas today: heavy cloud, high of 27 degrees",
+   "summary_en": [
+    "Las Palmas today: heavy cloud, high of 27 degrees",
+    "Santa Cruz de Tenerife today: mostly clear, high of 30 degrees"
+   ]
+  },
+  {
    "id": "es-ES-El informativo de la mañana, lunes 24 de agosto",
    "file": "podcast-daily-2026-08-24-morning-news-es-ES.json",
    "bytes": 10348,

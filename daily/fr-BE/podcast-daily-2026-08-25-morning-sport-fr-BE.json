@@ -1,0 +1,169 @@
+{
+ "title": "Le sport chez nous, mardi 25 août",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-sport",
+   "wpm": 222,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-25",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le sport, à présent.",
+   "en": "The sport now.",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La troisième étape de la Vuelta a été annulée lundi,",
+   "en": "The third stage of the «Vuelta» was called off on Monday",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en raison de conditions météorologiques extrêmes, selon 7sur7 et la DH.",
+   "en": "because of extreme weather, according to «7sur7» and «la DH».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sur le col de Mont-Louis, l'avant-dernière ascension de la journée,",
+   "en": "On the «Mont-Louis» climb, the second to last climb of the day,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le peloton a traversé une violente averse.",
+   "en": "the peloton rode into a violent downpour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En quelques minutes, une chaleur étouffante a laissé place à une véritable scène hivernale.",
+   "en": "Within minutes, stifling heat had given way to something closer to winter.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des coureurs se sont dispersés sous les arbres et les camionnettes ont été prises d'assaut.",
+   "en": "Some riders scattered under the trees and the team vans were mobbed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'autres ont trouvé refuge dans un hôtel situé au bord de la route.",
+   "en": "Others took shelter in a hotel at the roadside.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Mont-Louis, le personnel leur a distribué des couvertures, des serviettes et des boissons chaudes.",
+   "en": "At «Mont-Louis», the staff handed out blankets, towels and hot drinks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'établissement reçoit depuis une pluie d'avis positifs sur Google.",
+   "en": "The place has been getting a flood of good reviews on «Google» ever since.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Du côté des clubs, Nathan Saliba quitte Anderlecht pour l'Espagne,",
+   "en": "On the club front, «Nathan Saliba» is leaving «Anderlecht» for «Spain»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon 7sur7 et la DH.",
+   "en": "according to «7sur7» and «la DH».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Canadien rejoint la Liga.",
+   "en": "The Canadian is joining «la Liga».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport belge.",
+   "en": "That is Belgian sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Tuesday 25 August",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "The Vuelta's third stage called off, and the hotel that took the peloton in",
+ "summary_en": [
+  "The Vuelta's third stage called off, and the hotel that took the peloton in",
+  "Nathan Saliba leaves Anderlecht for Spain"
+ ]
+}

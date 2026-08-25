@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-FR-Le journal du matin, mardi 25 août",
+   "file": "podcast-daily-2026-08-25-morning-news-fr-FR.json",
+   "bytes": 12909,
+   "sha256": "469a04b869ea314669c22e720d909fc2779e49696b09b6583634b2d2da7c83a7",
+   "date": "2026-08-25",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, mardi 25 août",
+   "title_en": "The morning news, Tuesday 25 August",
+   "headline_en": "The United States takes Syria off its list of state sponsors of terrorism",
+   "summary_en": [
+    "The United States takes Syria off its list of state sponsors of terrorism",
+    "A tornado wrecks the village of Pomas in the Aude",
+    "The Socialists and Place publique sign off the rules of their primary"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, mardi 25 août",
+   "file": "podcast-daily-2026-08-25-morning-sport-fr-FR.json",
+   "bytes": 5023,
+   "sha256": "834c01fb51e01a53585235ae15d1033bfb391399dcc057a4b10704dccf138fd4",
+   "date": "2026-08-25",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, mardi 25 août",
+   "title_en": "Today's sport, Tuesday 25 August",
+   "headline_en": "Stage four of the Vuelta, starting and finishing in Andorra la Vella",
+   "summary_en": [
+    "Stage four of the Vuelta, starting and finishing in Andorra la Vella",
+    "The rugby league publishes what each professional club is paid, for the first time"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, mardi 25 août",
+   "file": "podcast-daily-2026-08-25-morning-weather-fr-FR.json",
+   "bytes": 4857,
+   "sha256": "1b865f1ccd1205ec802df7ac659fb57c7fd8e3b4f955afe76dc06fb08fe98863",
+   "date": "2026-08-25",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, mardi 25 août",
+   "title_en": "Today's weather, Tuesday 25 August",
+   "headline_en": "Paris today: drizzle, with a high of 28 degrees",
+   "summary_en": [
+    "Paris today: drizzle, with a high of 28 degrees",
+    "Bordeaux today: rain, with a high of 28 degrees"
+   ]
+  },
+  {
    "id": "fr-FR-Le journal du matin, lundi 24 août",
    "file": "podcast-daily-2026-08-24-morning-news-fr-FR.json",
    "bytes": 14827,
