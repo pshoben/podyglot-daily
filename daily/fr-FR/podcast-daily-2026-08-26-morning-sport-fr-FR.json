@@ -1,0 +1,229 @@
+{
+ "title": "Le sport, mercredi 26 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-26",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Ce mercredi vingt-six août.",
+   "en": "This Wednesday the twenty-sixth of August.",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Olympique lyonnais reçoit Fenerbahçe ce soir à vingt et une heures,",
+   "en": "«Olympique lyonnais» host «Fenerbahçe» at nine tonight,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour le match retour du barrage de Ligue des champions,",
+   "en": "in the second leg of their Champions League play-off,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon L'Équipe, France Télévisions et Ouest-France.",
+   "en": "according to «L'Équipe», «France Télévisions» and «Ouest-France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La place en phase de ligue se joue sur cette rencontre.",
+   "en": "A place in the league phase rides on the match.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ouest-France chiffre l'enjeu à quarante millions d'euros pour le club rhodanien.",
+   "en": "«Ouest-France» values what is at stake for the «Lyon» club at forty million euros.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au programme,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le Real Madrid reçoit la Real Sociedad ce soir en Liga,",
+   "en": "«Real Madrid» host «Real Sociedad» tonight in the «Liga»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après L'Équipe et Ouest-France.",
+   "en": "«L'Équipe» and «Ouest-France» report.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aurélien Tchouaméni, touché à l'aine pendant la Coupe du monde, ne jouera pas.",
+   "en": "«Aurélien Tchouaméni», who took a knock to the groin at the World Cup, will not play.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "José Mourinho préfère attendre que son milieu de terrain soit revenu à cent pour cent.",
+   "en": "«José Mourinho» would rather wait until his midfielder is back to a hundred per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À suivre aujourd'hui, les volleyeuses françaises défient l'Italie cet après-midi à seize heures, à l'Euro,",
+   "en": "Moving on, the French women's volleyball team take on «Italy» this afternoon at four, at the European championship,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon L'Équipe et France Télévisions.",
+   "en": "according to «L'Équipe» and «France Télévisions».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En face, une sélection qui détient les titres olympique et mondial.",
+   "en": "Facing them, a side that holds both the Olympic and the world title.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sur les terrains, le FC Nantes a changé d'entraîneur,",
+   "en": "Turning to something else, «FC Nantes» have changed coach,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon France Télévisions et Ouest-France.",
+   "en": "according to «France Télévisions» and «Ouest-France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Michel Der Zakarian a été remercié mardi.",
+   "en": "«Michel Der Zakarian» was let go on Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Grégory Poirier, un Rochelais de quarante-quatre ans,",
+   "en": "«Grégory Poirier», a forty-four year old from «La Rochelle»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a dirigé sa première séance le jour même.",
+   "en": "took his first session the same day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Wednesday 26 August",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Lyon host Fenerbahce in the Champions League play-off second leg",
+ "summary_en": [
+  "Lyon host Fenerbahce in the Champions League play-off second leg",
+  "Tchouameni misses Real Madrid's Liga match against Real Sociedad"
+ ]
+}

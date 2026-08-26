@@ -1,0 +1,370 @@
+{
+ "title": "El informativo de la mañana, miércoles 26 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-news",
+   "wpm": 208,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-26",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Miércoles veintiséis de agosto. El informativo de la mañana.",
+   "en": "Wednesday the twenty-sixth of August. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Al menos catorce recién nacidos han muerto en el incendio de un hospital de Islamabad.",
+   "en": "At least fourteen newborn babies have died in a fire at a hospital in «Islamabad».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dos ministros se contradicen sobre lo que el CNI avisó antes del salto de Ceuta.",
+   "en": "Two ministers contradict each other over what the «CNI» warned before the crossing at «Ceuta».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el fuego de Collserola, en Barcelona, queda estabilizado.",
+   "en": "And the «Collserola» fire, in «Barcelona», is under control.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Abrimos con Pakistán.",
+   "en": "We open in «Pakistan».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El incendio de un hospital de Islamabad ha causado la muerte de al menos catorce",
+   "en": "A fire at a hospital in «Islamabad» has killed at least fourteen newborn babies,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "recién nacidos, según las autoridades.",
+   "en": "the authorities say.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El fuego se originó por la explosión de un compresor del aire acondicionado,",
+   "en": "The fire started with the explosion of an air conditioning compressor",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el pabellón de maternidad.",
+   "en": "in the maternity wing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en España, la ministra de Defensa, Margarita Robles, y el ministro del Interior,",
+   "en": "Here in «Spain», the Defence Minister, «Margarita Robles», and the Interior Minister, «Fernando",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Fernando Grande-Marlaska, discrepan sobre lo que el CNI sabía",
+   "en": "Grande-Marlaska», disagree over what the «CNI» knew",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y comunicó antes del salto de Ceuta, según El País, ABC y La Vanguardia.",
+   "en": "and passed on before the crossing at «Ceuta», according to «El País», «ABC» and «La Vanguardia».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para Robles, el servicio de inteligencia sí avisó.",
+   "en": "«Robles» maintains that the intelligence service did give warning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Gobierno admite que se le informó de un aumento de entradas,",
+   "en": "The Government accepts that it was told crossings were rising,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pero no de un asalto excepcional.",
+   "en": "but not that an exceptional assault was coming.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El delegado del Gobierno también la desmiente.",
+   "en": "The Government's own delegate contradicts her as well.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el resto de la actualidad, el fuego del parque natural de Collserola,",
+   "en": "In other news, the fire in the «Collserola» natural park, in «Barcelona»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en Barcelona, está estabilizado,",
+   "en": "has been brought under control,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según El País y La Vanguardia.",
+   "en": "according to «El País» and «La Vanguardia».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se han levantado los confinamientos de los barrios de Torre Baró y Ciutat Meridiana.",
+   "en": "Residents of «Torre Baró» and «Ciutat Meridiana» have been allowed back into their homes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de tema, la Comunidad de Madrid pidió a la inmobiliaria un piso de entre",
+   "en": "Moving on, the Madrid regional government asked the estate agency for a flat of between two hundred",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "doscientos cincuenta y cuatrocientos metros con una gran terraza,",
+   "en": "and fifty and four hundred metres with a big terrace,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según El País y ABC.",
+   "en": "according to «El País» and «ABC».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Antes de decidirse por el ático de Chamberí valoró una vivienda de cuatro millones de",
+   "en": "Before settling on the «Chamberí» penthouse it looked at a four million euro home",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "euros en el paseo del Pintor Rosales.",
+   "en": "on the «paseo del Pintor Rosales».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El consejero responsable ha pedido comparecer en la Asamblea de Madrid.",
+   "en": "The minister responsible has asked to appear before the Madrid Assembly.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otro asunto, Dolly Parton, la reina del country estadounidense,",
+   "en": "Turning to something else, «Dolly Parton», the queen of American country music,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "murió el martes a los ochenta años.",
+   "en": "died on Tuesday at the age of eighty.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La cantante evitó respaldar abiertamente a republicanos o demócratas.",
+   "en": "The singer never came out openly for either the Republicans or the Democrats.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para terminar, el cine. La nueva película de Ridley Scott, La constelación del perro,",
+   "en": "And finally, the cinema. «Ridley Scott»'s new film, «La constelación del perro»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "está entre los estrenos de la semana,",
+   "en": "is among this week's releases,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según ABC y La Vanguardia.",
+   "en": "according to «ABC» and «La Vanguardia».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El director británico vuelve a los mundos sometidos a una presión extrema.",
+   "en": "The British director goes back to worlds under extreme pressure.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí lo esencial.",
+   "en": "That is the news in brief.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Wednesday 26 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "A fire at a hospital in Islamabad kills newborn babies",
+ "summary_en": [
+  "A fire at a hospital in Islamabad kills newborn babies",
+  "Ministers contradict each other over what the CNI warned before Ceuta",
+  "The Collserola fire in Barcelona is stabilised and residents can go home"
+ ]
+}

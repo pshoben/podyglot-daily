@@ -1,0 +1,199 @@
+{
+ "title": "Le temps chez nous, mercredi 26 août",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-weather",
+   "wpm": 222,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-26",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Au-dessus de nos têtes, aujourd'hui.",
+   "en": "Over our heads, today.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Bruxelles, le modèle du Centre européen, l'ECMWF,",
+   "en": "In «Brussels», the European Centre model, the «ECMWF»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "donne vingt-cinq degrés au plus chaud et quinze au plus frais.",
+   "en": "gives twenty-five degrees at the warmest and fifteen at the coolest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ciel y sera couvert, avec de la bruine par moments.",
+   "en": "The sky there will be overcast, with drizzle at times.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de précipitation atteint quarante-huit pour cent dans la capitale.",
+   "en": "The chance of rain in the capital reaches forty-eight per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y monte jusqu'à onze kilomètres par heure.",
+   "en": "The wind there climbs to eleven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Liège, de la bruine également,",
+   "en": "In «Liège», drizzle as well,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec vingt-cinq degrés au maximum et quatorze au minimum.",
+   "en": "with a high of twenty-five degrees and a low of fourteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de précipitation y est donnée à trente-deux pour cent,",
+   "en": "The chance of rain there is put at thirty-two per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la plus basse des trois villes.",
+   "en": "the lowest of the three cities.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y souffle à la même vitesse qu'à Bruxelles, onze kilomètres par heure.",
+   "en": "The wind there blows at the same speed as in «Brussels», eleven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Namur, le ciel restera couvert toute la journée.",
+   "en": "In «Namur», the sky will stay overcast all day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le thermomètre y montera jusqu'à vingt-sept degrés et redescendra à quinze.",
+   "en": "The thermometer there will climb to twenty-seven degrees and drop back to fifteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est là que la probabilité de précipitation est la plus élevée, cinquante",
+   "en": "That is where the chance of rain is highest,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et un pour cent.",
+   "en": "fifty-one per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y reste lui aussi à onze kilomètres par heure.",
+   "en": "The wind there stays at eleven kilometres an hour too.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le temps chez nous.",
+   "en": "That is the weather here at home.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Wednesday 26 August",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Prévision pour Bruxelles, mercredi 2026-08-26",
+ "summary_en": [
+  "Prévision pour Bruxelles, mercredi 2026-08-26",
+  "Prévision pour Liège, mercredi 2026-08-26"
+ ]
+}

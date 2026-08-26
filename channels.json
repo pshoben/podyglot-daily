@@ -27,8 +27,8 @@
    "channel": "daily",
    "dialect": "es-ES",
    "index": "daily/es-ES/index.json",
-   "episodes": 56,
-   "latest_date": "2026-08-25"
+   "episodes": 61,
+   "latest_date": "2026-08-26"
   },
   {
    "channel": "daily",
@@ -41,8 +41,8 @@
    "channel": "daily",
    "dialect": "fr-BE",
    "index": "daily/fr-BE/index.json",
-   "episodes": 27,
-   "latest_date": "2026-08-25"
+   "episodes": 29,
+   "latest_date": "2026-08-26"
   },
   {
    "channel": "daily",
@@ -55,8 +55,8 @@
    "channel": "daily",
    "dialect": "fr-FR",
    "index": "daily/fr-FR/index.json",
-   "episodes": 33,
-   "latest_date": "2026-08-25"
+   "episodes": 36,
+   "latest_date": "2026-08-26"
   }
  ]
 }

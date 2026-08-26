@@ -1,0 +1,219 @@
+{
+ "title": "La météo, mercredi 26 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-26",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le temps qu'il fera aujourd'hui.",
+   "en": "The weather for today.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Prudence dans l'Ouest, où douze départements passent en vigilance orange aux orages à partir de",
+   "en": "Care needed in the west, where twelve departments go on orange alert for thunderstorms from this evening,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ce soir, selon Météo-France.",
+   "en": "according to «Météo-France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sont concernés la Charente, la Charente-Maritime, l'Ille-et-Vilaine, l'Indre-et-Loire,",
+   "en": "They are the «Charente», the «Charente-Maritime», the «Ille-et-Vilaine», the «Indre-et-Loire»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le Loir-et-Cher et la Loire-Atlantique.",
+   "en": "the «Loir-et-Cher» and the «Loire-Atlantique».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Puis le Maine-et-Loire, la Mayenne, la Sarthe, les Deux-Sèvres,",
+   "en": "Then the «Maine-et-Loire», the «Mayenne», the «Sarthe», the «Deux-Sèvres»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la Vendée et la Vienne.",
+   "en": "the «Vendée» and the «Vienne».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le service national parle d'un risque marqué de phénomènes violents.",
+   "en": "The national service warns of a marked risk of violent weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De fortes pluies, des rafales et des grêlons de deux à cinq centimètres sont attendus.",
+   "en": "Heavy rain, strong gusts and hailstones of two to five centimetres are expected.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Paris, selon les modèles de Météo-France, le ciel reste couvert.",
+   "en": "In «Paris», according to the «Météo-France» models, the sky stays overcast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La capitale monte à vingt-neuf degrés et redescend à vingt degrés.",
+   "en": "The capital climbs to twenty-nine degrees and drops back to twenty.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y souffle jusqu'à quatorze kilomètres par heure.",
+   "en": "The wind there blows up to fourteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Bordeaux passe la journée sous la pluie,",
+   "en": "«Bordeaux» spends the day in the rain,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec trente-quatre degrés au maximum et vingt degrés au minimum.",
+   "en": "with a high of thirty-four degrees and a low of twenty.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent maximal y est donné à vingt-cinq kilomètres par heure.",
+   "en": "The top wind speed there is given as twenty-five kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Marseille garde un ciel couvert,",
+   "en": "«Marseille» keeps an overcast sky,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "entre vingt-trois et trente et un degrés.",
+   "en": "between twenty-three and thirty-one degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y atteint trente kilomètres par heure.",
+   "en": "The wind there reaches thirty kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Wednesday 26 August",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Twelve departments on orange alert for storms this evening",
+ "summary_en": [
+  "Twelve departments on orange alert for storms this evening",
+  "Prévision pour Paris, mercredi 2026-08-26"
+ ]
+}

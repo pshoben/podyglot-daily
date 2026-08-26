@@ -1,0 +1,193 @@
+{
+ "title": "El tiempo en Andalucía, miércoles 26 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-andalucia",
+   "wpm": 208,
+   "rate_multiplier": 0.73,
+   "pitch_multiplier": 0.79
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-andalucia",
+ "date": "2026-08-26",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Por el valle del Guadalquivir, Sevilla se queda hoy en veintinueve grados de máxima",
+   "en": "In the «Guadalquivir» valley, «Seville» stays today at a high of twenty-nine degrees",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y dieciocho de mínima, según la Aemet.",
+   "en": "and a low of eighteen, according to «Aemet».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo tiene intervalos nubosos y se cierra por la tarde.",
+   "en": "The sky has cloudy spells and closes over in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación es del quince por ciento,",
+   "en": "The chance of rain is fifteen per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la única de las tres capitales que pasa de cero.",
+   "en": "the only one of the three cities above zero.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento sopla del suroeste a veinticinco kilómetros por hora.",
+   "en": "The wind blows from the south-west at twenty-five kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Tierra adentro, en Córdoba, la máxima sube a treinta y un grados",
+   "en": "Inland, in «Córdoba», the high climbs to thirty-one degrees",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la mínima baja a diecisiete.",
+   "en": "and the low drops to seventeen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo queda poco nuboso y despejado por la tarde, sin probabilidad de lluvia.",
+   "en": "The sky is lightly clouded and clears in the afternoon, with no chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí el viento llega a treinta kilómetros por hora, también del suroeste.",
+   "en": "The wind there gets to thirty kilometres an hour, from the south-west as well.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la costa, Málaga se queda en treinta y tres grados de máxima",
+   "en": "On the coast, «Málaga» stays at a high of thirty-three degrees",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y veintidós de mínima.",
+   "en": "and a low of twenty-two.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí el cielo se despeja por la tarde y tampoco se espera lluvia.",
+   "en": "The sky there clears in the afternoon and no rain is expected either.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El índice ultravioleta llega allí a ocho,",
+   "en": "The ultraviolet index reaches eight there,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el más alto de las tres.",
+   "en": "the highest of the three.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es Andalucía.",
+   "en": "That is «Andalucía».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 3,
+ "handover": "junction",
+ "title_en": "Today's weather, Andalusia, Wednesday 26 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Andalucía",
+ "accent": "Andalucía",
+ "accent_label": "acento de Andalucía",
+ "segment_order": 1,
+ "headline_en": "Predicción AEMET para Sevilla (Sevilla), 2026-08-26",
+ "summary_en": [
+  "Predicción AEMET para Sevilla (Sevilla), 2026-08-26",
+  "Predicción AEMET para Córdoba (Córdoba), 2026-08-26"
+ ]
+}

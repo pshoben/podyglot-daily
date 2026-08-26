@@ -1,0 +1,173 @@
+{
+ "title": "El tiempo en Canarias, miércoles 26 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-canarias",
+   "wpm": 208,
+   "rate_multiplier": 0.86,
+   "pitch_multiplier": 0.59
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-canarias",
+ "date": "2026-08-26",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "En las islas, hoy.",
+   "en": "On the islands, today.",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las Palmas de Gran Canaria se queda en veintiocho grados de máxima",
+   "en": "«Las Palmas de Gran Canaria» stays at a high of twenty-eight degrees",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y veintitrés de mínima, según la Aemet.",
+   "en": "and a low of twenty-three, according to «Aemet».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo está poco nuboso por la mañana y despejado por la tarde,",
+   "en": "The sky is lightly clouded in the morning and clear in the afternoon,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sin probabilidad de lluvia.",
+   "en": "with no chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Con el alisio del norte,",
+   "en": "On the northerly trade wind, the «alisio»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el viento llega a veinticinco kilómetros por hora.",
+   "en": "the wind gets up to twenty-five kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El índice ultravioleta alcanza allí el nueve.",
+   "en": "The ultraviolet index there reaches nine.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Santa Cruz de Tenerife,",
+   "en": "In «Santa Cruz de Tenerife»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "treinta grados de máxima y veintitrés de mínima.",
+   "en": "a high of thirty degrees and a low of twenty-three.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo está despejado todo el día y tampoco se espera lluvia.",
+   "en": "The sky is clear all day and no rain is expected there either.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento del norte va de diez a veinte kilómetros por hora.",
+   "en": "The northerly wind runs from ten to twenty kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El índice ultravioleta se queda en ocho.",
+   "en": "The ultraviolet index stays at eight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es Canarias.",
+   "en": "That is «Canarias».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 4,
+ "handover": "junction",
+ "title_en": "Today's weather, Canary Islands, Wednesday 26 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Canarias",
+ "accent": "Canarias",
+ "accent_label": "acento de Canarias",
+ "segment_order": 2,
+ "headline_en": "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-26",
+ "summary_en": [
+  "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-26",
+  "Predicción AEMET para Santa Cruz de Tenerife (Santa Cruz de Tenerife (Tenerife)), 2026-08-26"
+ ]
+}

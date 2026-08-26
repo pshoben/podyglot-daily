@@ -1,0 +1,203 @@
+{
+ "title": "El tiempo, miércoles 26 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather",
+   "wpm": 208,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-26",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "De norte a sur, así queda el miércoles.",
+   "en": "From north to south, here is how Wednesday looks.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ojo en Galicia, donde la Aemet mantiene hoy avisos amarillos por lluvias y por tormentas,",
+   "en": "Watch out in «Galicia», where «Aemet» has yellow warnings today for rain and for thunderstorms,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "desde las seis de la mañana hasta las seis de la tarde.",
+   "en": "from six in the morning until six in the evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los avisos cubren A Coruña, Lugo, Ourense y Pontevedra.",
+   "en": "The warnings cover «A Coruña», «Lugo», «Ourense» and «Pontevedra».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la ribera del Ebro, en Zaragoza, y en el interior de Guipúzcoa",
+   "en": "On the «Ebro» bank in «Zaragoza», and inland in «Guipúzcoa»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el aviso amarillo es por temperaturas máximas,",
+   "en": "the yellow warning is for high temperatures,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de una a ocho de la tarde.",
+   "en": "from one until eight in the evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el valle de Arán hay aviso amarillo por rachas de viento,",
+   "en": "In the «Valle de Arán» there is a yellow warning for gusts of wind,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "desde las ocho de la mañana y hasta bien entrada la noche.",
+   "en": "from eight in the morning until late at night.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y en Menorca hay aviso amarillo por rissagas,",
+   "en": "And in «Menorca» there is a yellow warning for «rissagas»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "esas oscilaciones bruscas del nivel del mar,",
+   "en": "the sudden swings in sea level,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "desde las ocho de la mañana y durante el resto del día, según la Aemet.",
+   "en": "from eight in the morning and for the rest of the day, according to «Aemet».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Madrid la máxima se queda en veintinueve grados y la mínima en diecinueve.",
+   "en": "In «Madrid» the high stays at twenty-nine degrees and the low at nineteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo está poco nuboso,",
+   "en": "The sky is lightly clouded,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con un cinco por ciento de probabilidad de precipitación.",
+   "en": "with a five per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento del suroeste llega a veinticinco kilómetros por hora.",
+   "en": "The south-westerly wind gets up to twenty-five kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí el tiempo.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Wednesday 26 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "España",
+ "accent": "Castilla",
+ "accent_label": "acento de Castilla",
+ "segment_order": 0,
+ "headline_en": "Aemet has yellow warnings for rain and storms across Galicia today",
+ "summary_en": [
+  "Aemet has yellow warnings for rain and storms across Galicia today",
+  "Yellow warnings for heat in the Ebro and for wind in the Vall d'Aran"
+ ]
+}

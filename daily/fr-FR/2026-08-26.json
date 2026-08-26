@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-FR",
+ "date": "2026-08-26",
+ "episodes": [
+  {
+   "id": "fr-FR-Le journal du matin, mercredi 26 août",
+   "file": "podcast-daily-2026-08-26-morning-news-fr-FR.json",
+   "bytes": 10508,
+   "sha256": "a59e97ca1cb90ea0ac8382873310b4b77d6d00717d793056e89e8d5084760bbf",
+   "date": "2026-08-26",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, mercredi 26 août",
+   "title_en": "The morning news, Wednesday 26 August",
+   "headline_en": "Dolly Parton, queen of American country music, dies at eighty",
+   "summary_en": [
+    "Dolly Parton, queen of American country music, dies at eighty",
+    "The Prime Minister goes to Mayotte to speed up reconstruction",
+    "Seven presidential candidates face business leaders at the Medef on Thursday"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, mercredi 26 août",
+   "file": "podcast-daily-2026-08-26-morning-sport-fr-FR.json",
+   "bytes": 5763,
+   "sha256": "0cf09e336b4bd3665437a584281c8c148b9296b24cd7b1fe735999face6da00c",
+   "date": "2026-08-26",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, mercredi 26 août",
+   "title_en": "Today's sport, Wednesday 26 August",
+   "headline_en": "Lyon host Fenerbahce in the Champions League play-off second leg",
+   "summary_en": [
+    "Lyon host Fenerbahce in the Champions League play-off second leg",
+    "Tchouameni misses Real Madrid's Liga match against Real Sociedad"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, mercredi 26 août",
+   "file": "podcast-daily-2026-08-26-morning-weather-fr-FR.json",
+   "bytes": 5451,
+   "sha256": "161f3eddec4b400a59ea9a92275fd7cd7bfcdb3aaf3faa128989c04d16701f91",
+   "date": "2026-08-26",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, mercredi 26 août",
+   "title_en": "Today's weather, Wednesday 26 August",
+   "headline_en": "Twelve departments on orange alert for storms this evening",
+   "summary_en": [
+    "Twelve departments on orange alert for storms this evening",
+    "Prévision pour Paris, mercredi 2026-08-26"
+   ]
+  }
+ ],
+ "content": "c4fc328389b886fa79ad4967a02c583fd3c75a1522ea717816450137ef9fe122",
+ "rev": 1,
+ "updated": "2026-08-26T07:40:29.229Z"
+}

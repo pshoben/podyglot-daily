@@ -1,0 +1,430 @@
+{
+ "title": "Le sept heures, mercredi 26 août",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-news",
+   "wpm": 222,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-26",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Mercredi vingt-six août. Le sept heures.",
+   "en": "Wednesday the twenty-sixth of August. The seven o'clock news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au procès de Meta, deux témoins décrivent des outils de protection des adolescents",
+   "en": "At the «Meta» trial, two witnesses describe teen safety tools that",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qui fonctionnaient mal.",
+   "en": "did not work.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Deux corps ont été retrouvés à Onhaye.",
+   "en": "Two bodies have been found at «Onhaye».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et le préavis de grève est maintenu sur le réseau Letec, jeudi et vendredi.",
+   "en": "And the strike notice stands on the «Letec» network on Thursday and Friday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On ouvre avec les États-Unis,",
+   "en": "We open in the United States,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où deux témoins ont raconté mardi, au procès de Meta,",
+   "en": "where two witnesses said on Tuesday, at the «Meta» trial,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que l'entreprise savait que ses outils de protection des adolescents fonctionnaient mal, selon 7sur7,",
+   "en": "that the company knew its teen safety tools did not work, according to «7sur7»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Libre et Le Vif.",
+   "en": "«La Libre» and «Le Vif».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des États américains réclament des pénalités financières et une refonte de Facebook et d'Instagram.",
+   "en": "American states are asking for fines and for «Facebook» and «Instagram» to be rebuilt.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le groupe aurait par ailleurs discuté d'un règlement à l'amiable, a rapporté Bloomberg.",
+   "en": "The company is also said to have discussed a settlement, «Bloomberg» reported.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Chez nous, les corps d'un enfant de cinq ans",
+   "en": "Here at home, the bodies of a five year old boy",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et de son père ont été retrouvés à Onhaye,",
+   "en": "and of his father have been found at «Onhaye»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans le sud du pays, d'après 7sur7,",
+   "en": "in the south of the country, «7sur7»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Libre et la DH.",
+   "en": "«La Libre» and the «DH» report.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon le parquet, on ne sait rien du déroulement,",
+   "en": "The prosecutor's office says nothing is known about what happened,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "des causes ni des circonstances.",
+   "en": "about the causes or about the circumstances.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'information d'un agriculteur, qui avait aperçu une chaussure d'enfant au bord de la nationale nonante-sept,",
+   "en": "A tip from a farmer, who had seen a child's shoe beside the «nationale nonante-sept», moved",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a fait avancer l'enquête.",
+   "en": "the inquiry forward.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le père a été retrouvé quelques dizaines de mètres plus loin que son fils.",
+   "en": "The father was found a few dozen metres further on than his son.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ailleurs dans l'actu,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un rassemblement citoyen contre le crime organisé est annoncé dimanche trente août, à quinze heures, sur la place Bethléem, à Saint-Gilles,",
+   "en": "a public rally against organised crime has been called for Sunday the thirtieth of August, at three in the afternoon, on the place «Bethléem» at «Saint-Gilles»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon 7sur7, la DH, Le Vif et La Libre.",
+   "en": "according to «7sur7», the «DH», «Le Vif» and «La Libre».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les organisateurs disent réagir aux fusillades récentes et à l'emprise des organisations criminelles.",
+   "en": "The organisers say they are responding to the recent shootings and to the grip of criminal gangs.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lundi soir, un nouveau coup de feu a été tiré dans la commune,",
+   "en": "On Monday evening another shot was fired in the commune,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sans faire de blessé, et le tireur a pris la fuite.",
+   "en": "nobody was hurt, and the gunman got away.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Deux suspects ont été interpellés et quatre armes à feu ont été saisies.",
+   "en": "Two suspects have been arrested and four guns seized.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On enchaîne, Dolly Parton, la légende américaine de la musique country,",
+   "en": "Moving on, «Dolly Parton», the American country music legend,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "est morte mardi à l'âge de quatre-vingts ans,",
+   "en": "died on Tuesday at the age of eighty,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon 7sur7 et La Libre.",
+   "en": "according to «7sur7» and «La Libre».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est sa famille qui l'a annoncé sur les réseaux sociaux.",
+   "en": "It was her family who announced it on social media.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre dossier maintenant, le préavis de grève est maintenu sur l'ensemble du réseau Letec pour",
+   "en": "Turning to something else, the strike notice stands across the whole «Letec» network for this Thursday",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ce jeudi et ce vendredi,",
+   "en": "and Friday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après Le Vif et La Libre.",
+   "en": "«Le Vif» and «La Libre» report.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les négociations de mardi ont échoué, et des suppressions comme des retards sont à prévoir.",
+   "en": "Tuesday's talks broke down, and cancellations and delays are expected.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Chez nous toujours, Anne-Sophie Depauw devient le nouveau visage des journaux télévisés du week-end",
+   "en": "And finally, «Anne-Sophie Depauw» is to be the new face of the RTBF's",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de la RTBF, selon la DH et 7sur7.",
+   "en": "weekend television news, according to the «DH» and «7sur7».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle prendra ses fonctions vendredi soir,",
+   "en": "She starts on Friday evening,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en alternance avec Sacha Daout.",
+   "en": "sharing the job with «Sacha Daout».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà où nous en sommes.",
+   "en": "That is where things stand.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Wednesday 26 August",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Witnesses tell the Meta trial the company knew its teen safeguards did not work",
+ "summary_en": [
+  "Witnesses tell the Meta trial the company knew its teen safeguards did not work",
+  "Two bodies found at Onhaye, and the prosecutor says the circumstances are unknown",
+  "The strike notice stands on the Letec network for Thursday and Friday"
+ ]
+}

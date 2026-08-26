@@ -5,6 +5,47 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-BE-Le sept heures, mercredi 26 août",
+   "file": "podcast-daily-2026-08-26-morning-news-fr-BE.json",
+   "bytes": 10867,
+   "sha256": "f9110d44a76e141c48bbdc6fbc11333cf9697b155015665ee9130233dba21edf",
+   "date": "2026-08-26",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, mercredi 26 août",
+   "title_en": "The morning news, Wednesday 26 August",
+   "headline_en": "Witnesses tell the Meta trial the company knew its teen safeguards did not work",
+   "summary_en": [
+    "Witnesses tell the Meta trial the company knew its teen safeguards did not work",
+    "Two bodies found at Onhaye, and the prosecutor says the circumstances are unknown",
+    "The strike notice stands on the Letec network for Thursday and Friday"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, mercredi 26 août",
+   "file": "podcast-daily-2026-08-26-morning-weather-fr-BE.json",
+   "bytes": 4828,
+   "sha256": "ddbfa78d6a52aeef98e88812500cef0361a68b4b376340c5ac799cba47869ba3",
+   "date": "2026-08-26",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, mercredi 26 août",
+   "title_en": "Today's weather, Wednesday 26 August",
+   "headline_en": "Prévision pour Bruxelles, mercredi 2026-08-26",
+   "summary_en": [
+    "Prévision pour Bruxelles, mercredi 2026-08-26",
+    "Prévision pour Liège, mercredi 2026-08-26"
+   ]
+  },
+  {
    "id": "fr-BE-Le sept heures, mardi 25 août",
    "file": "podcast-daily-2026-08-25-morning-news-fr-BE.json",
    "bytes": 8667,

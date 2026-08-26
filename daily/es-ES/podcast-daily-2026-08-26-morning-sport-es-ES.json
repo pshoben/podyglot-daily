@@ -1,0 +1,199 @@
+{
+ "title": "Los deportes, miércoles 26 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-sport",
+   "wpm": 208,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-26",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Miércoles veintiséis de agosto.",
+   "en": "Wednesday the twenty-sixth of August.",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Real Madrid recibe esta noche a la Real Sociedad en el Bernabéu,",
+   "en": "«Real Madrid» host «Real Sociedad» at the «Bernabéu» at",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a las nueve,",
+   "en": "nine tonight,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la jornada uno aplazada de Liga, según AS, Marca y Mundo Deportivo.",
+   "en": "in the postponed opening matchday of the league, according to «AS», «Marca» and «Mundo Deportivo».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es el regreso de José Mourinho al banquillo del Bernabéu,",
+   "en": "It is «José Mourinho»'s return to the «Bernabéu» bench,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "trece años después de marcharse,",
+   "en": "thirteen years after he left,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en junio de dos mil trece.",
+   "en": "in June two thousand and thirteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los aficionados verán además a los seis fichajes que el club ha hecho este verano.",
+   "en": "Supporters will also get their first look at the six players the club has signed this summer.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Enfrente, la Real Sociedad llega sin refuerzos y con bajas,",
+   "en": "Facing them, «Real Sociedad» arrive with no new signings and with players missing,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según AS y Mundo Deportivo.",
+   "en": "according to «AS» and «Mundo Deportivo».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El club donostiarra aún no ha cerrado sus operaciones de mercado.",
+   "en": "The club from «San Sebastián» has still not finished its transfer business.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hoy en la agenda, la Vuelta a España afronta su quinta etapa,",
+   "en": "In other news, the «Vuelta a España» rides its fifth stage today,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según AS y ABC.",
+   "en": "according to «AS» and «ABC».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Alto de Paüls, de tercera categoría,",
+   "en": "The «Alto de Paüls», a third category climb,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "marcará el desenlace antes de bajar a Roquetes.",
+   "en": "will settle things before the drop down to «Roquetes».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se espera una pelea entre una posible escapada y los velocistas.",
+   "en": "A fight is expected between a possible breakaway and the sprinters.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí los deportes.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Wednesday 26 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Real Madrid host Real Sociedad tonight and Mourinho returns to the Bernabeu",
+ "summary_en": [
+  "Real Madrid host Real Sociedad tonight and Mourinho returns to the Bernabeu",
+  "Real Sociedad come to the Bernabeu with no summer signings"
+ ]
+}

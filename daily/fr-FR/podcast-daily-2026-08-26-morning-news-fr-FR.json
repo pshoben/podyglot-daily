@@ -1,0 +1,400 @@
+{
+ "title": "Le journal du matin, mercredi 26 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-26",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Mercredi vingt-six août, sept heures à Paris. Le journal du matin.",
+   "en": "Wednesday the twenty-sixth of August, seven o'clock in «Paris». The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La chanteuse américaine Dolly Parton est morte à quatre-vingts ans.",
+   "en": "The American singer «Dolly Parton» has died at the age of eighty.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sébastien Lecornu se rend à Mayotte pour relancer la reconstruction.",
+   "en": "«Sébastien Lecornu» goes to «Mayotte» to get the rebuilding moving again.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et sept candidats à la présidentielle débattent jeudi devant le patronat.",
+   "en": "And seven presidential candidates debate on Thursday in front of the employers' federation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par les États-Unis,",
+   "en": "We start in the United States,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où Dolly Parton s'est éteinte mardi, dans son Tennessee natal,",
+   "en": "where «Dolly Parton» died on Tuesday, in her native «Tennessee»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon France Télévisions, Le Monde, Ouest-France et Sud Ouest.",
+   "en": "according to «France Télévisions», «Le Monde», «Ouest-France» and «Sud Ouest».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sa famille a annoncé la nouvelle.",
+   "en": "Her family announced the news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La reine de la musique country laisse une œuvre bâtie sur six décennies",
+   "en": "The queen of country music leaves a body of work built over six decades",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et une cinquantaine d'albums.",
+   "en": "and some fifty albums.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'après France Télévisions, Ouest-France et Sud Ouest,",
+   "en": "«France Télévisions», «Ouest-France» and «Sud Ouest» report",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Donald Trump a ordonné la mise en berne des drapeaux sur les bâtiments publics américains",
+   "en": "that «Donald Trump» has ordered flags on American public buildings to fly at half mast",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pendant une semaine.",
+   "en": "for a week.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les hommages sont venus de la classe politique comme du monde du spectacle.",
+   "en": "Tributes came from politicians and from the world of entertainment alike.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, Sébastien Lecornu arrive ce mercredi à Mayotte,",
+   "en": "In «France», «Sébastien Lecornu» arrives in «Mayotte» this Wednesday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "plus d'un an et demi après le cyclone Chido, selon France Télévisions, Libération",
+   "en": "more than eighteen months after cyclone «Chido», according to «France Télévisions», «Libération» and «Sud",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et Sud Ouest.",
+   "en": "Ouest».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Premier ministre veut accélérer une reconstruction qui tarde à se concrétiser.",
+   "en": "The Prime Minister wants to speed up a rebuilding effort that is slow to take shape.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a regretté des retards dans la livraison des équipements publics et des difficultés persistantes.",
+   "en": "He regretted late deliveries of public buildings, and difficulties that have not gone away.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le déplacement se fait sans argent supplémentaire pour l'archipel.",
+   "en": "He travels with no extra money for the islands.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sept candidats à l'élection présidentielle débattront jeudi vingt-sept août à la rentrée du Medef,",
+   "en": "seven candidates for the presidency will debate on Thursday the twenty-seventh of August at the «Medef»'s autumn gathering,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon Le Figaro et Le Télégramme.",
+   "en": "according to «Le Figaro» and «Le Télégramme».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des chefs d'entreprise leur soumettront leurs priorités économiques.",
+   "en": "Company bosses will put their economic priorities to them.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à autre chose,",
+   "en": "Moving on,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Jean-Marc Jancovici lance une assemblée citoyenne baptisée Un commun accord,",
+   "en": "«Jean-Marc Jancovici» is launching a citizens' assembly called «Un commun accord»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après Le Figaro, Le Télégramme et Sud Ouest.",
+   "en": "«Le Figaro», «Le Télégramme» and «Sud Ouest» report.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cent cinquante Français tirés au sort doivent porter les questions climatiques dans la campagne présidentielle.",
+   "en": "A hundred and fifty French people drawn by lot are to carry climate questions into the presidential campaign.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'initiative se veut non partisane.",
+   "en": "The venture calls itself non party political.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre sujet maintenant, l'âge est le principal facteur de risque de fausse couche,",
+   "en": "Turning to something else, age is the main risk factor in miscarriage,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon l'Institut national d'études démographiques.",
+   "en": "according to the «Institut national d'études démographiques».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité dépasse dix pour cent chez les femmes de moins de vingt ans,",
+   "en": "The chance is above ten per cent for women under twenty,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et atteint jusqu'à vingt-trois pour cent à quarante-cinq ans.",
+   "en": "and reaches as high as twenty-three per cent at forty-five.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour finir, le cinéma, avec le retour de Ridley Scott à la science-fiction,",
+   "en": "And finally, the cinema, and «Ridley Scott»'s return to science fiction,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon France Télévisions, Le Monde et Libération.",
+   "en": "according to «France Télévisions», «Le Monde» and «Libération».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Son film post-apocalyptique, The Dog Stars, est à l'affiche cette semaine.",
+   "en": "His post-apocalyptic film «The Dog Stars» is on release this week.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Wednesday 26 August",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Dolly Parton, queen of American country music, dies at eighty",
+ "summary_en": [
+  "Dolly Parton, queen of American country music, dies at eighty",
+  "The Prime Minister goes to Mayotte to speed up reconstruction",
+  "Seven presidential candidates face business leaders at the Medef on Thursday"
+ ]
+}
