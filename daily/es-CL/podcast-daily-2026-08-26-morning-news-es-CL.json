@@ -1,0 +1,420 @@
+{
+ "title": "Las noticias de la mañana, miércoles 26 de agosto",
+ "dialect": "es-CL",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CL-daily-news",
+   "wpm": 205,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-26",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Miércoles veintiséis de agosto, siete de la mañana.",
+   "en": "Wednesday the twenty-sixth of August, seven in the morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las noticias de la mañana.",
+   "en": "The morning bulletin.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Tribunal Constitucional rechaza el requerimiento del gobierno por la reconexión gratuita de servicios básicos.",
+   "en": "The Constitutional Court throws out the government's challenge over free reconnection of basic services.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Argentina corrige a su general por el Estrecho de Magallanes.",
+   "en": "«Argentina» corrects its general over the Strait of «Magallanes».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y México pide evaluar las posibilidades de Michelle Bachelet en la ONU.",
+   "en": "And «México» calls for «Michelle Bachelet»'s chances at the «ONU» to be weighed up.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Partimos con Chile.",
+   "en": "We start in «Chile».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según Radio Universidad de Chile, La Tercera y CIPER,",
+   "en": "According to «Radio Universidad de Chile», «La Tercera» and «CIPER»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el Tribunal Constitucional desestimó por nueve votos contra uno el requerimiento del Presidente José Antonio Kast.",
+   "en": "the Constitutional Court threw out by nine votes to one the challenge from President «José Antonio Kast».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Iba contra el artículo treinta y uno de la megarreforma económica.",
+   "en": "It was aimed at article thirty-one of the economic reform package.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese artículo obliga a reconectar gratis la luz, el agua y el gas",
+   "en": "That article requires electricity, water and gas to be reconnected free of charge",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "después de una catástrofe.",
+   "en": "after a catastrophe.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Uno de los principales argumentos del gobierno era que las cuarenta y ocho horas de plazo",
+   "en": "One of the government's main arguments was that the forty-eight hour deadline",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "son muy poco, e incluso peligrosas en algunas situaciones.",
+   "en": "is far too short, and even dangerous in some situations.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Ejecutivo planea ahora una ley corta para modificar ese plazo,",
+   "en": "The government now plans a short bill to change that deadline,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y abogados especialistas prevén más judicialización.",
+   "en": "and specialist lawyers expect more of this to end up in the courts.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los gremios del gas, del agua y de la electricidad",
+   "en": "The gas, water and electricity trade bodies",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "activaron además una nueva vía legal",
+   "en": "have also opened a new legal route",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dentro de una causa que sigue abierta.",
+   "en": "inside a case that is still running.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos en Chile, con la respuesta argentina por el Estrecho de Magallanes.",
+   "en": "In other news, the Argentine answer over the Strait of «Magallanes».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La cancillería de ese país envió una nota diplomática.",
+   "en": "That country's foreign ministry has sent a diplomatic note.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En ella señaló que la posición argentina es la que establecen los tratados.",
+   "en": "In it, it said the Argentine position is the one the treaties set out.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Corrige así los dichos del jefe del Estado Mayor de la Fuerza Aérea argentina,",
+   "en": "That corrects what the head of the Argentine air force general staff,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el general Gustavo Valverde.",
+   "en": "general «Gustavo Valverde», had said.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Valverde había afirmado que el estrecho es parte de la soberanía de su país.",
+   "en": "«Valverde» had claimed the strait is part of his country's sovereignty.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El canciller chileno, Francisco Pérez Mackenna,",
+   "en": "The Chilean foreign minister, «Francisco Pérez Mackenna»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ya había respondido que la soberanía de Chile sobre todo el estrecho es indiscutible.",
+   "en": "had already answered that «Chile»'s sovereignty over the whole strait is beyond dispute.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se funda, dijo, en los tratados de mil ochocientos ochenta y uno y de mil novecientos ochenta y cuatro, suscritos por ambos países.",
+   "en": "It rests, he said, on the treaties of 1881 and 1984, signed by both countries.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los dos gobiernos dieron por zanjado el impasse,",
+   "en": "The two governments have treated the matter as settled,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pero parlamentarios chilenos acusaron que declaraciones como las de Valverde no son aisladas.",
+   "en": "but Chilean members of congress said remarks like «Valverde»'s are not one-offs.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En lo demás, Michelle Bachelet pidió una reunión con la presidenta de México,",
+   "en": "Moving on, «Michelle Bachelet» has asked for a meeting with the president of «México»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "uno de los países que patrocina su candidatura a la ONU junto con Brasil.",
+   "en": "one of the countries backing her candidacy for the «ONU» alongside «Brasil».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mandataria mexicana rompió el silencio,",
+   "en": "The Mexican president broke her silence,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "realzó las aptitudes de la expresidenta chilena y transparentó el complejo escenario que enfrentan.",
+   "en": "praised the former Chilean president's qualities and was frank about the difficult position they are in.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Llamó a evaluar las posibilidades de Bachelet",
+   "en": "She called for «Bachelet»'s chances to be weighed up",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la antesala de una cita clave por la carrera a la ONU.",
+   "en": "ahead of a key meeting on the race for the «ONU».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La exdirectora de ONU Mujeres llegó el martes a México y pretende viajar pronto a Brasilia.",
+   "en": "The former head of «ONU Mujeres» arrived in «México» on Tuesday and means to travel to «Brasilia» soon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La senadora socialista Vodanovic dijo que el escenario se hace complejo,",
+   "en": "The Socialist senator «Vodanovic» said the situation is getting difficult,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y responsabilizó al gobierno de Kast.",
+   "en": "and put the blame on «Kast»'s government.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo principal.",
+   "en": "That is the heart of today's news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Wednesday 26 August",
+ "edition": "morning",
+ "region": "es-CL",
+ "region_label": "Chile",
+ "headline_en": "The Constitutional Court upholds free reconnection after a catastrophe",
+ "summary_en": [
+  "The Constitutional Court upholds free reconnection after a catastrophe",
+  "Argentina corrects its general over the Strait of Magellan",
+  "Mexico weighs Bachelet's chances before a key meeting on the UN race"
+ ]
+}

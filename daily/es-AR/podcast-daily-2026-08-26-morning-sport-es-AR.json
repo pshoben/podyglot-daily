@@ -1,0 +1,199 @@
+{
+ "title": "El deporte, miércoles 26 de agosto",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-sport",
+   "wpm": 195,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-26",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Hoy se juega.",
+   "en": "Today they play.",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según Ámbito y Clarín, River recibe esta noche a Independiente Santa Fe, de Colombia,",
+   "en": "According to «Ámbito» and «Clarín», «River» host «Independiente Santa Fe», of «Colombia», tonight",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por la Copa Sudamericana.",
+   "en": "in the «Copa Sudamericana».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es la revancha, y el equipo del Chacho Coudet buscará el pase a la próxima",
+   "en": "It is the return leg, and «Chacho Coudet»'s side will be going for a place in the next round",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "instancia frente a su gente.",
+   "en": "in front of their own crowd.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En las canchas de Europa,",
+   "en": "On the pitches of Europe,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Julián Álvarez no participó de la práctica del Atlético de Madrid.",
+   "en": "«Julián Álvarez» did not take part in training at «Atlético de Madrid».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El club rojiblanco habló de una indisposición,",
+   "en": "The club said it was an indisposition,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la primera sesión después de los silbidos del domingo.",
+   "en": "in the first session after Sunday's whistles from the crowd.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su salida sigue trabada y el mercado de pases europeo cierra esta semana.",
+   "en": "His exit is still blocked and the European transfer window closes this week.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Barcelona mantiene su interés, mientras el Atlético no se mueve de su postura inflexible.",
+   "en": "«Barcelona» are still interested, while «Atlético» are holding an inflexible line.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El técnico Hansi Flick dijo que el club tiene que pensar también en el futuro,",
+   "en": "The head coach «Hansi Flick» said the club has to think about the future too,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "no solo en el presente.",
+   "en": "not only about the present.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otra novedad en River: el club rescindió el contrato de Germán Pezzella.",
+   "en": "More «River» news: the club has terminated «Germán Pezzella»'s contract.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El defensor había quedado apartado del plantel profesional y acordó su salida de común acuerdo.",
+   "en": "The defender had been left out of the professional squad and agreed his exit by mutual consent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se despidió con un mensaje en sus redes sociales.",
+   "en": "He said goodbye with a message on his social networks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es el deporte.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Wednesday 26 August",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "River host Independiente Santa Fe in the Copa Sudamericana",
+ "summary_en": [
+  "River host Independiente Santa Fe in the Copa Sudamericana",
+  "Julian Alvarez misses training as the transfer window closes"
+ ]
+}

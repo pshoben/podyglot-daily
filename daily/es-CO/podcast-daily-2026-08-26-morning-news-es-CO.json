@@ -1,0 +1,550 @@
+{
+ "title": "La actualidad de la mañana, miércoles 26 de agosto",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-26",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Miércoles veintiséis de agosto, siete de la mañana.",
+   "en": "Wednesday the twenty-sixth of August, seven in the morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La actualidad de la mañana.",
+   "en": "The morning round-up.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Corte Constitucional avala la reforma pensional y devuelve nueve artículos al Congreso.",
+   "en": "The Constitutional Court upholds the pension reform and sends nine articles back to Congress.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Congreso elige a los nueve magistrados del Consejo Nacional Electoral.",
+   "en": "Congress elects the nine magistrates of the National Electoral Council.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y Estados Unidos suspende las citas para visas de inmigrante en todo el mundo.",
+   "en": "And the United States suspends immigrant visa appointments worldwide.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Iniciamos con Colombia.",
+   "en": "We start in «Colombia».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según El Tiempo, El Colombiano y Semana, la Corte Constitucional avaló la reforma pensional,",
+   "en": "According to «El Tiempo», «El Colombiano» and «Semana», the Constitutional Court upheld the pension reform,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la Ley dos mil trescientos ochenta y uno.",
+   "en": "Law 2381.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por siete votos contra uno devolvió nueve artículos a la Cámara de Representantes,",
+   "en": "By seven votes to one it sent nine articles back to the Chamber of Representatives,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para que se subsanen los vicios de trámite.",
+   "en": "to have the procedural defects put right.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Más del noventa por ciento de la ley queda en firme.",
+   "en": "More than ninety per cent of the law stands.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Entre lo avalado está el artículo setenta y seis,",
+   "en": "Among what was upheld is article seventy-six,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la llamada ventana de oportunidad.",
+   "en": "the so-called window of opportunity.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por esa ventana alcanzaron a trasladarse de régimen cerca de ciento cincuenta mil afiliados.",
+   "en": "Around one hundred and fifty thousand members used that window to change pension scheme.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Cámara tendrá treinta días,",
+   "en": "The Chamber will have thirty days,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "contados desde la notificación de la sentencia y no desde su comunicación.",
+   "en": "counted from notification of the judgment and not from its communication.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Quedan además otras demandas en curso que podrían tumbar la reforma.",
+   "en": "There are also other suits running that could bring the reform down.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En otras noticias,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el Congreso eligió el martes en la noche a los nueve magistrados del Consejo Nacional Electoral.",
+   "en": "Congress elected the nine magistrates of the National Electoral Council on Tuesday night.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La votación terminó cerca de las once,",
+   "en": "The vote finished at around eleven,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tras una larga reunión entre el ministro del Interior, Rodrigo Lara, y la coalición de gobierno.",
+   "en": "after a long meeting between the interior minister, «Rodrigo Lara», and the government coalition.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se presentaron tres planchas y no dos: la del gobierno,",
+   "en": "Three lists went forward rather than two: the government's,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la de la oposición y la de Cambio Radical.",
+   "en": "the opposition's and «Cambio Radical»'s.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La oposición quedó solamente con dos sillas.",
+   "en": "The opposition was left with two seats only.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según Semana, el petrismo perdió un cupo y el oficialismo consiguió amplias mayorías,",
+   "en": "According to «Semana», the «Petro» camp lost a place and the governing side took wide majorities,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con la Alianza Verde jugando lejos del Pacto Histórico.",
+   "en": "with the «Alianza Verde» playing its hand away from the «Pacto Histórico».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de asunto, y según El Tiempo y La República,",
+   "en": "Moving on, and according to «El Tiempo» and «La República»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Carolina Soto decidió no asumir la presidencia ejecutiva de la Cámara Colombiana de la Infraestructura.",
+   "en": "«Carolina Soto» has decided not to take up the executive presidency of the Colombian Chamber of Infrastructure.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su elección dividió a la Junta Directiva,",
+   "en": "Her election split the board,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que convocó el martes en la noche una reunión extraordinaria para revisarla.",
+   "en": "which called an extraordinary meeting on Tuesday night to look at it again.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La excodirectora del Banco de la República comunicó formalmente este miércoles que declinaba el ofrecimiento.",
+   "en": "The former co-director of the «Banco de la República» gave formal notice on Wednesday that she was turning the offer down.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otro tema del día,",
+   "en": "Turning to something else,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Estados Unidos suspendió de forma temporal las citas para visas de inmigrante de solicitantes de todo el mundo.",
+   "en": "the United States has temporarily suspended immigrant visa appointments for applicants worldwide.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es parte de una campaña agresiva de deportaciones y de medidas de represión migratoria.",
+   "en": "It is part of an aggressive campaign of deportations and immigration crackdowns.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Departamento de Estado anunció además el martes que trabaja con Seguridad Nacional",
+   "en": "The State Department also said on Tuesday that it is working with Homeland Security",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para revocar visas de turismo y de negocios.",
+   "en": "to revoke tourism and business visas.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Apunta a quienes obtuvieron visas B uno y B dos entre dos mil dieciséis y dos mil veintiséis y después pidieron asilo.",
+   "en": "It is aimed at people who obtained B1 and B2 visas between 2016 and 2026 and then claimed asylum.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Tiempo calcula que la medida podría alcanzar a unas doscientas mil personas.",
+   "en": "«El Tiempo» reckons the measure could reach some two hundred thousand people.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos en Colombia,",
+   "en": "Closer to home,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y con la activista de izquierda Viviana Marín, a quien Estados Unidos le revocó la visa.",
+   "en": "the left-wing activist «Viviana Marín» has had her United States visa revoked.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En un video en redes sociales,",
+   "en": "In a video on social media,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Marín instó a sus copartidarios a hacerle invivible el país a Abelardo de la Espriella.",
+   "en": "«Marín» urged fellow party members to make the country unliveable for «Abelardo de la Espriella».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La decisión la comunicó el subsecretario de Estado Christopher Landau,",
+   "en": "The decision was passed on by the under secretary of state «Christopher Landau»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a través de la embajada en Bogotá.",
+   "en": "through the embassy in «Bogotá».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Marín no podrá ingresar a Estados Unidos.",
+   "en": "«Marín» will not be able to enter the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para finalizar,",
+   "en": "And finally,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la cantante estadounidense Beyoncé anunció el martes la entrega de un millón de dólares",
+   "en": "the American singer «Beyoncé» announced on Tuesday a gift of one million dollars",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para la emergencia por el terremoto.",
+   "en": "towards the earthquake emergency.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo hizo a través de su compañía Parkwood Entertainment, a título personal.",
+   "en": "She did it through her company «Parkwood Entertainment», out of her own pocket.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El dinero irá a sostener a los equipos de ayuda que trabajan en terreno",
+   "en": "The money will go to keeping the relief teams on the ground going",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "desde el sismo del diez de agosto.",
+   "en": "since the quake of the tenth of August.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más importante.",
+   "en": "That is what matters most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Wednesday 26 August",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "The Constitutional Court upholds the pension reform and sends nine articles back",
+ "summary_en": [
+  "The Constitutional Court upholds the pension reform and sends nine articles back",
+  "Congress elects the nine magistrates of the electoral council",
+  "Washington suspends immigrant visa appointments worldwide"
+ ]
+}

@@ -1,0 +1,199 @@
+{
+ "title": "Le bulletin météo, mercredi 26 août",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-weather",
+   "wpm": 185,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-26",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Trois régions du Québec, ce mercredi, une à une.",
+   "en": "Three regions of «Québec» this Wednesday, one by one.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon le modèle GEM d'Environnement Canada,",
+   "en": "According to «Environnement Canada»'s «GEM» model,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la journée s'annonce tranquille dans les trois régions.",
+   "en": "the day looks quiet in all three regions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Montréal, le ciel reste dégagé aujourd'hui.",
+   "en": "In «Montréal» the sky stays clear today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La métropole évolue entre seize et vingt-cinq degrés.",
+   "en": "The city runs between sixteen and twenty-five degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de précipitation n'y est que de deux pour cent.",
+   "en": "The chance of rain there is only two per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y reste faible, à dix kilomètres par heure au maximum.",
+   "en": "The wind stays light, ten kilometres an hour at most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'une région québécoise à l'autre,",
+   "en": "From one «Québec» region to the next,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Québec garde elle aussi un ciel dégagé.",
+   "en": "«Québec» City keeps a clear sky too.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le thermomètre y va de treize à vingt-quatre degrés.",
+   "en": "The thermometer there runs from thirteen to twenty-four degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le risque d'averse y atteint cinq pour cent.",
+   "en": "The chance of a shower there reaches five per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent peut y souffler jusqu'à quatorze kilomètres par heure.",
+   "en": "The wind there can blow up to fourteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au Saguenay, en revanche, le ciel demeure couvert.",
+   "en": "In «Saguenay», by contrast, the sky stays overcast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les températures y vont de quatorze à vingt-quatre degrés.",
+   "en": "Temperatures there run from fourteen to twenty-four degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le risque d'averse y est également de cinq pour cent.",
+   "en": "The chance of a shower there is five per cent as well.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y souffle à neuf kilomètres par heure au plus.",
+   "en": "The wind there blows at nine kilometres an hour at most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce sera tout pour la météo.",
+   "en": "That is all for the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Wednesday 26 August",
+ "edition": "morning",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "Prévision pour Montréal, mercredi 2026-08-26",
+ "summary_en": [
+  "Prévision pour Montréal, mercredi 2026-08-26",
+  "Prévision pour Québec, mercredi 2026-08-26"
+ ]
+}

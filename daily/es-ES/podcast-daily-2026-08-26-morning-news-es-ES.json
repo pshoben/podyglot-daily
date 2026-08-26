@@ -176,8 +176,8 @@
   },
   {
    "speaker": "SPK1",
-   "text": "En el resto de la actualidad, el fuego del parque natural de Collserola,",
-   "en": "In other news, the fire in the «Collserola» natural park, in «Barcelona»,",
+   "text": "En el resto de la actualidad,",
+   "en": "In other news,",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.99,
@@ -186,8 +186,8 @@
   },
   {
    "speaker": "SPK1",
-   "text": "en Barcelona, está estabilizado,",
-   "en": "has been brought under control,",
+   "text": "el fuego del parque natural de Collserola, en Barcelona, está estabilizado,",
+   "en": "the fire in the «Collserola» natural park, in «Barcelona», has been brought under control,",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.99,

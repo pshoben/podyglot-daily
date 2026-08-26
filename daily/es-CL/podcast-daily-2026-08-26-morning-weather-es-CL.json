@@ -1,0 +1,209 @@
+{
+ "title": "El estado del tiempo, miércoles 26 de agosto",
+ "dialect": "es-CL",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CL-daily-weather",
+   "wpm": 205,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-26",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El tiempo de hoy, en tres ciudades.",
+   "en": "Today's weather, in three cities.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Precaución en Santiago: según el modelo del Centro Europeo, el ECMWF,",
+   "en": "Take care in «Santiago»: according to the European Centre model, the «ECMWF»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la lluvia débil es casi segura,",
+   "en": "light rain is close to certain,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con un noventa y siete por ciento de probabilidad.",
+   "en": "with a ninety-seven per cent chance.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima se queda en doce grados y la mínima en nueve.",
+   "en": "The high stays at twelve degrees and the low at nine.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento se mantiene bajo, en diez kilómetros por hora.",
+   "en": "The wind stays low, at ten kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la capital, la lluvia y el frío marcan la jornada.",
+   "en": "In the capital, rain and cold are what the day is about.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De región en región, en Valparaíso la llovizna",
+   "en": "Region by region, in «Valparaíso» the chance of drizzle",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "llega al noventa y uno por ciento de probabilidad.",
+   "en": "reaches ninety-one per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El termómetro va de diez a quince grados.",
+   "en": "The thermometer runs from ten to fifteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento apenas alcanza nueve kilómetros por hora.",
+   "en": "The wind barely gets to nine kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Concepción la lluvia débil es segura,",
+   "en": "In «Concepción» light rain is certain,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con cien por ciento de probabilidad.",
+   "en": "with a hundred per cent chance.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las temperaturas también van de diez a quince grados.",
+   "en": "Temperatures there also run from ten to fifteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo que cambia es el viento,",
+   "en": "What changes is the wind,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que sube hasta veintisiete kilómetros por hora.",
+   "en": "which climbs to twenty-seven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Concepción es, de los tres, el punto más ventoso.",
+   "en": "Of the three, «Concepción» is the windiest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese es el panorama.",
+   "en": "That is the picture.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Wednesday 26 August",
+ "edition": "morning",
+ "region": "es-CL",
+ "region_label": "Chile",
+ "headline_en": "Previsión para Santiago, miércoles 2026-08-26",
+ "summary_en": [
+  "Previsión para Santiago, miércoles 2026-08-26",
+  "Previsión para Valparaíso, miércoles 2026-08-26"
+ ]
+}

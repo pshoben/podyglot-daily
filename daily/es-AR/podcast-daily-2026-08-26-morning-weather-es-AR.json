@@ -1,0 +1,199 @@
+{
+ "title": "El pronóstico, miércoles 26 de agosto",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-weather",
+   "wpm": 195,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-26",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Cómo viene el tiempo hoy,",
+   "en": "How the weather looks today,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en tres puntos del país.",
+   "en": "at three points around the country.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Atención en Buenos Aires: según el modelo del Centro Europeo, el ECMWF,",
+   "en": "Watch out in «Buenos Aires»: according to the European Centre model, the «ECMWF»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la llovizna es lo más probable de la jornada.",
+   "en": "drizzle is the likeliest thing about the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación llega al cincuenta y siete por ciento.",
+   "en": "The chance of rain reaches fifty-seven per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima se queda en dieciséis grados y la mínima baja a nueve.",
+   "en": "The high stays at sixteen degrees and the low drops to nine.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento sopla hasta catorce kilómetros por hora.",
+   "en": "The wind blows up to fourteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Provincia por provincia, en Mendoza también se espera llovizna.",
+   "en": "Province by province, in «Mendoza» drizzle is expected too.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí la probabilidad es del treinta y nueve por ciento.",
+   "en": "There the chance is thirty-nine per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El termómetro va de doce a veintitrés grados.",
+   "en": "The thermometer runs from twelve to twenty-three degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento llega a dieciséis kilómetros por hora.",
+   "en": "The wind gets up to sixteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Córdoba el cielo queda nuboso, casi sin lluvia.",
+   "en": "In «Córdoba» the sky stays cloudy, with almost no rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Apenas un dos por ciento de probabilidad de precipitación.",
+   "en": "Barely a two per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima trepa a veintiséis grados y la mínima se ubica en trece.",
+   "en": "The high climbs to twenty-six degrees and the low sits at thirteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento es el más fuerte de los tres,",
+   "en": "The wind is the strongest of the three,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con diecisiete kilómetros por hora.",
+   "en": "at seventeen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es el pronóstico.",
+   "en": "That is the forecast for today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Wednesday 26 August",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Previsión para Buenos Aires, miércoles 2026-08-26",
+ "summary_en": [
+  "Previsión para Buenos Aires, miércoles 2026-08-26",
+  "Previsión para Mendoza, miércoles 2026-08-26"
+ ]
+}

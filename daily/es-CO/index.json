@@ -5,6 +5,47 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-CO-La actualidad de la mañana, miércoles 26 de agosto",
+   "file": "podcast-daily-2026-08-26-morning-news-es-CO.json",
+   "bytes": 14399,
+   "sha256": "03932e022981fcbbc694b70683c25f62de3d65d44537559ea1fdcf09b4c14665",
+   "date": "2026-08-26",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "La actualidad de la mañana, miércoles 26 de agosto",
+   "title_en": "The morning news, Wednesday 26 August",
+   "headline_en": "The Constitutional Court upholds the pension reform and sends nine articles back",
+   "summary_en": [
+    "The Constitutional Court upholds the pension reform and sends nine articles back",
+    "Congress elects the nine magistrates of the electoral council",
+    "Washington suspends immigrant visa appointments worldwide"
+   ]
+  },
+  {
+   "id": "es-CO-El clima de hoy, miércoles 26 de agosto",
+   "file": "podcast-daily-2026-08-26-morning-weather-es-CO.json",
+   "bytes": 4533,
+   "sha256": "b9d984ec6bf32ca2178ad9ee82e437e3fbc95bf40ec7c72fc4be61e4ab80dc32",
+   "date": "2026-08-26",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "El clima de hoy, miércoles 26 de agosto",
+   "title_en": "Today's weather, Wednesday 26 August",
+   "headline_en": "Previsión para Bogotá, miércoles 2026-08-26",
+   "summary_en": [
+    "Previsión para Bogotá, miércoles 2026-08-26",
+    "Previsión para Cali, miércoles 2026-08-26"
+   ]
+  },
+  {
    "id": "es-CO-La actualidad de la mañana, martes 25 de agosto",
    "file": "podcast-daily-2026-08-25-morning-news-es-CO.json",
    "bytes": 11719,

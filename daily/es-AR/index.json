@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-AR-El noticiero de la mañana, miércoles 26 de agosto",
+   "file": "podcast-daily-2026-08-26-morning-news-es-AR.json",
+   "bytes": 8648,
+   "sha256": "a79f63be4077c0928905181ba2ecbd9fcd0cce5c1f323539aaf1ad6320aead77",
+   "date": "2026-08-26",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El noticiero de la mañana, miércoles 26 de agosto",
+   "title_en": "The morning news, Wednesday 26 August",
+   "headline_en": "Babies die in a maternity fire at an Islamabad hospital",
+   "summary_en": [
+    "Babies die in a maternity fire at an Islamabad hospital",
+    "Deputies sit on the new Central Bank charter and Inocencia Fiscal II",
+    "Caputo sets out a mortgage credit plan before the Congress session"
+   ]
+  },
+  {
+   "id": "es-AR-El deporte, miércoles 26 de agosto",
+   "file": "podcast-daily-2026-08-26-morning-sport-es-AR.json",
+   "bytes": 4997,
+   "sha256": "a6220c258fbd29f82a518570d1ebea8776e105bb60b958fed420292a5454ca41",
+   "date": "2026-08-26",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El deporte, miércoles 26 de agosto",
+   "title_en": "Today's sport, Wednesday 26 August",
+   "headline_en": "River host Independiente Santa Fe in the Copa Sudamericana",
+   "summary_en": [
+    "River host Independiente Santa Fe in the Copa Sudamericana",
+    "Julian Alvarez misses training as the transfer window closes"
+   ]
+  },
+  {
+   "id": "es-AR-El pronóstico, miércoles 26 de agosto",
+   "file": "podcast-daily-2026-08-26-morning-weather-es-AR.json",
+   "bytes": 4718,
+   "sha256": "6e485326fb2e7a2aa5084eacaf9f0f9a0f58f5f3f881eefd73354d18c7ab720a",
+   "date": "2026-08-26",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El pronóstico, miércoles 26 de agosto",
+   "title_en": "Today's weather, Wednesday 26 August",
+   "headline_en": "Previsión para Buenos Aires, miércoles 2026-08-26",
+   "summary_en": [
+    "Previsión para Buenos Aires, miércoles 2026-08-26",
+    "Previsión para Mendoza, miércoles 2026-08-26"
+   ]
+  },
+  {
    "id": "es-AR-El noticiero de la mañana, martes 25 de agosto",
    "file": "podcast-daily-2026-08-25-morning-news-es-AR.json",
    "bytes": 10542,

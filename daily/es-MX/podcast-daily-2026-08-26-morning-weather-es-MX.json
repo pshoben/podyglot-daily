@@ -1,0 +1,179 @@
+{
+ "title": "El clima, miércoles 26 de agosto",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-weather",
+   "wpm": 186,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-26",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El tiempo de hoy en tres ciudades del país.",
+   "en": "Today's weather in three cities across the country.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cuidado en Monterrey: según el modelo del Centro Europeo, el ECMWF,",
+   "en": "Take care in «Monterrey»: according to the European Centre model, the «ECMWF»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el cielo despejado deja hoy una máxima de treinta y ocho grados.",
+   "en": "a clear sky leaves a high of thirty-eight degrees today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima allí no baja de veinticinco grados.",
+   "en": "The low there does not drop below twenty-five degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación es de apenas dos por ciento.",
+   "en": "The chance of rain is barely two per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento llega a veintitrés kilómetros por hora.",
+   "en": "The wind gets up to twenty-three kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por estados, en la Ciudad de México el cuadro cambia por completo.",
+   "en": "By state, in «Ciudad de México» the picture changes completely.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí se espera llovizna, con un cincuenta y siete por ciento de probabilidad de precipitación.",
+   "en": "Drizzle is expected there, with a fifty-seven per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima queda en veintitrés grados y la mínima en trece.",
+   "en": "The high stays at twenty-three degrees and the low at thirteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento no pasa de diez kilómetros por hora.",
+   "en": "The wind does not go above ten kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Guadalajara la llovizna es todavía más probable.",
+   "en": "In «Guadalajara» drizzle is more likely still.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad llega al sesenta y uno por ciento.",
+   "en": "The chance reaches sixty-one per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El termómetro va de dieciséis a veintiséis grados.",
+   "en": "The thermometer runs from sixteen to twenty-six degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento sopla hasta doce kilómetros por hora.",
+   "en": "The wind blows up to twelve kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ahí está el panorama.",
+   "en": "There is the picture.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Wednesday 26 August",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "Previsión para Monterrey, miércoles 2026-08-26",
+ "summary_en": [
+  "Previsión para Monterrey, miércoles 2026-08-26",
+  "Previsión para Ciudad de México, miércoles 2026-08-26"
+ ]
+}

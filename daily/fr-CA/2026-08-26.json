@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-CA",
+ "date": "2026-08-26",
+ "episodes": [
+  {
+   "id": "fr-CA-Le bulletin du matin, mercredi 26 août",
+   "file": "podcast-daily-2026-08-26-morning-news-fr-CA.json",
+   "bytes": 8677,
+   "sha256": "8b17fa1d7e7809106c24117580cacc4366e4fb6ea044e0a1c70a4e6e80e31365",
+   "date": "2026-08-26",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin du matin, mercredi 26 août",
+   "title_en": "The morning news, Wednesday 26 August",
+   "headline_en": "Oman and Tehran negotiate over the Strait of Hormuz, with no reopening in sight",
+   "summary_en": [
+    "Oman and Tehran negotiate over the Strait of Hormuz, with no reopening in sight",
+    "Tehran says American economic pressure will achieve nothing",
+    "Dolly Parton has died at 80"
+   ]
+  },
+  {
+   "id": "fr-CA-Le bulletin météo, mercredi 26 août",
+   "file": "podcast-daily-2026-08-26-morning-weather-fr-CA.json",
+   "bytes": 4757,
+   "sha256": "f154e21f2c978fc51e5a7b7ef3aae6ba564ac2029c096f7d5af3b5dfc224e40d",
+   "date": "2026-08-26",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin météo, mercredi 26 août",
+   "title_en": "Today's weather, Wednesday 26 August",
+   "headline_en": "Prévision pour Montréal, mercredi 2026-08-26",
+   "summary_en": [
+    "Prévision pour Montréal, mercredi 2026-08-26",
+    "Prévision pour Québec, mercredi 2026-08-26"
+   ]
+  }
+ ],
+ "content": "1f48be90a1c4f3fef362cd5b0e0c23f53f6fed7e00154bbcb238b1a88a61e332",
+ "rev": 1,
+ "updated": "2026-08-26T14:14:57.093Z"
+}

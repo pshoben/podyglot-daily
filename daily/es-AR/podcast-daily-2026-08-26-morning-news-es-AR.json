@@ -1,0 +1,340 @@
+{
+ "title": "El noticiero de la mañana, miércoles 26 de agosto",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-26",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Miércoles veintiséis de agosto, siete de la mañana.",
+   "en": "Wednesday the twenty-sixth of August, seven in the morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El noticiero de la mañana.",
+   "en": "The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un incendio en la maternidad de un hospital de Islamabad",
+   "en": "A fire in the maternity unit of a hospital in «Islamabad»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "mata al menos a catorce bebés.",
+   "en": "kills at least fourteen babies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Diputados sesiona hoy por la nueva Carta Orgánica del Banco Central.",
+   "en": "Deputies sit today on the new charter of the Central Bank.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y Luis Caputo presenta hoy un plan de créditos hipotecarios antes de esa sesión.",
+   "en": "And «Luis Caputo» sets out a mortgage lending plan ahead of that session.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos por Pakistán.",
+   "en": "We start in «Pakistán».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según Ámbito y Clarín,",
+   "en": "According to «Ámbito» and «Clarín»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el fuego se desató durante la madrugada",
+   "en": "the fire broke out overnight",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el Instituto Pakistaní de Ciencias Médicas, en Islamabad.",
+   "en": "at the Pakistan Institute of Medical Sciences, in «Islamabad».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las cifras todavía no coinciden:",
+   "en": "The figures still do not agree:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "los primeros recuentos hablan de catorce o quince bebés muertos.",
+   "en": "the first counts put it at fourteen or fifteen babies dead.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El incendio empezó en el tercer piso, en la unidad de neonatología.",
+   "en": "The fire started on the third floor, in the neonatal unit.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Había dieciséis recién nacidos internados en la unidad y solamente uno pudo ser rescatado.",
+   "en": "There were sixteen newborn babies in the unit and only one could be rescued.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se apunta a una falla eléctrica en uno de los equipos de aire acondicionado.",
+   "en": "An electrical fault in one of the air conditioning units is being blamed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Acá en la Argentina, la Cámara de Diputados que conduce Martín Menem sesiona este miércoles.",
+   "en": "Here in «la Argentina», the Chamber of Deputies chaired by «Martín Menem» sits this Wednesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Votará la nueva Carta Orgánica del Banco Central junto con Inocencia Fiscal II.",
+   "en": "It will vote on the new charter of the Central Bank together with «Inocencia Fiscal II».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las dos iniciativas son clave para el programa económico del presidente Javier Milei.",
+   "en": "Both are key to President «Javier Milei»'s economic programme.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La reforma apunta a reforzar la independencia del Banco Central y redefine los objetivos de la entidad.",
+   "en": "The reform is meant to strengthen the Central Bank's independence and it redefines what the institution is for.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Establece además nuevas reglas sobre reservas,",
+   "en": "It also sets new rules on reserves,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "utilidades y estabilidad de su directorio.",
+   "en": "profits and the stability of its board.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El oficialismo buscará media sanción también para el Tratado de Cooperación en materia de Patentes.",
+   "en": "The government will seek a first reading for the Patent Cooperation Treaty as well.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La sesión fue pedida por legisladores de distintas bancadas,",
+   "en": "The session was called for by legislators from several blocs,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "así que el quórum estaría garantizado.",
+   "en": "so the quorum looks secure.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos en la Argentina, el ministro de Economía, Luis Caputo,",
+   "en": "In other news, the economy minister, «Luis Caputo»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "da esta mañana una conferencia de prensa en el Palacio de Hacienda.",
+   "en": "is giving a press conference this morning at the «Palacio de Hacienda».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Presentará un plan para impulsar los créditos hipotecarios",
+   "en": "He will set out a plan to boost mortgage lending",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con fondos del Fondo de Garantía de Sustentabilidad de la ANSES.",
+   "en": "with money from the «ANSES» Sustainability Guarantee Fund.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Llega en medio de las señales de debilidad que muestra la actividad económica,",
+   "en": "It comes amid the signs of weakness that economic activity is showing,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y en la previa de la sesión.",
+   "en": "and just before the session.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo central.",
+   "en": "That is what matters today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Wednesday 26 August",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Babies die in a maternity fire at an Islamabad hospital",
+ "summary_en": [
+  "Babies die in a maternity fire at an Islamabad hospital",
+  "Deputies sit on the new Central Bank charter and Inocencia Fiscal II",
+  "Caputo sets out a mortgage credit plan before the Congress session"
+ ]
+}

@@ -1,0 +1,330 @@
+{
+ "title": "Le bulletin du matin, mercredi 26 août",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-news",
+   "wpm": 185,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-26",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Mercredi vingt-six août, sept heures à Montréal. Le bulletin du matin.",
+   "en": "Wednesday the twenty-sixth of August, seven o'clock in «Montréal». The morning bulletin.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des négociations sur le détroit d'Ormuz, mais pas de réouverture.",
+   "en": "Talks over the Strait of «Ormuz», but no reopening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Washington veut asphyxier économiquement l'Iran,",
+   "en": "«Washington» wants to strangle «Iran»'s economy,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et Téhéran répond que rien n'en sortira.",
+   "en": "and «Téhéran» answers that nothing will come of it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et la chanteuse country américaine Dolly Parton meurt à quatre-vingts ans.",
+   "en": "And the American country singer «Dolly Parton» dies at eighty.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On débute avec l'Iran.",
+   "en": "We begin with «Iran».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon Radio-Canada, Le Devoir et La Presse,",
+   "en": "According to «Radio-Canada», «Le Devoir» and «La Presse»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Oman et Téhéran discutent du détroit d'Ormuz.",
+   "en": "«Oman» and «Téhéran» are in talks over the Strait of «Ormuz».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les discussions portent sur un couloir temporaire de navigation et sur le déminage du passage.",
+   "en": "The talks cover a temporary shipping corridor and the clearing of the mines from the passage.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les autorités iraniennes ont prévenu que le passage ne serait pas rouvert.",
+   "en": "Iranian authorities have warned that the passage would not be reopened.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il ne rouvrira pas avant que les États-Unis mettent fin à la guerre.",
+   "en": "It will not reopen, they say, until the United States ends the war.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le passage est toujours verrouillé par Téhéran,",
+   "en": "The passage is still locked by «Téhéran»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et il se trouve au cœur du conflit.",
+   "en": "and it sits at the centre of the conflict.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On poursuit, selon Radio-Canada et La Presse,",
+   "en": "In other news, according to «Radio-Canada» and «La Presse»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Washington a présenté lundi un plan destiné à asphyxier économiquement l'Iran.",
+   "en": "«Washington» set out a plan on Monday to strangle «Iran»'s economy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Téhéran a répliqué mercredi que les États-Unis n'obtiendraient rien de ces pressions.",
+   "en": "«Téhéran» hit back on Wednesday, saying the United States would get nothing out of that pressure.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Israël, le premier ministre Benyamin Nétanyahou a salué cette nouvelle campagne économique.",
+   "en": "In «Israël», the prime minister «Benyamin Nétanyahou» welcomed the new economic campaign.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a jugé qu'aucun accord diplomatique n'était possible avec les dirigeants iraniens,",
+   "en": "He judged that no diplomatic agreement was possible with the Iranian leaders,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qu'il a qualifiés de sauvages.",
+   "en": "whom he called savages.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre nouvelle maintenant, en Amérique centrale,",
+   "en": "Moving on, in Central America,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le Panama et le Salvador se sont déclarés en état d'alerte mardi.",
+   "en": "«Panama» and «El Salvador» declared themselves on alert on Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En cause, le phénomène climatique El Niño, annoncé comme un record.",
+   "en": "The cause is «El Niño», the climate pattern, forecast to be a record one.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a déjà contraint le canal de Panama à réduire son trafic.",
+   "en": "It has already forced the «Panama» Canal to cut its traffic.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À compter du trois septembre, le canal passera de trente-six à trente-quatre transits par jour.",
+   "en": "From the 3rd of September the canal will go from thirty-six to thirty-four transits a day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En terminant, la chanteuse country américaine Dolly Parton est morte à quatre-vingts ans,",
+   "en": "And finally, the American country singer «Dolly Parton» has died at eighty,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a confirmé sa famille mardi.",
+   "en": "her family confirmed on Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On lui doit notamment la chanson Jolene.",
+   "en": "She gave the world the song «Jolene», among others.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aux États-Unis, politiciens, artistes et gens d'affaires sont en deuil.",
+   "en": "In the United States, politicians, artists and business people are in mourning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le pays, profondément divisé, y trouve un rare moment d'émotion partagée.",
+   "en": "A deeply divided country is finding in it a rare shared moment of feeling.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est le portrait du jour.",
+   "en": "That is the picture today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Wednesday 26 August",
+ "edition": "morning",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "Oman and Tehran negotiate over the Strait of Hormuz, with no reopening in sight",
+ "summary_en": [
+  "Oman and Tehran negotiate over the Strait of Hormuz, with no reopening in sight",
+  "Tehran says American economic pressure will achieve nothing",
+  "Dolly Parton has died at 80"
+ ]
+}

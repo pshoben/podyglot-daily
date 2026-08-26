@@ -1,0 +1,610 @@
+{
+ "title": "El noticiario matutino, miércoles 26 de agosto",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-news",
+   "wpm": 186,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-26",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Miércoles veintiséis de agosto, siete de la mañana. El noticiario matutino.",
+   "en": "Wednesday the twenty-sixth of August, seven in the morning. The morning news programme.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un nuevo ataque estadounidense contra una lancha en el Caribe deja cuatro muertos.",
+   "en": "Another American strike on a boat in the Caribbean leaves four dead.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Graciela Domínguez asume como gobernadora interina de Sinaloa.",
+   "en": "«Graciela Domínguez» takes over as interim governor of «Sinaloa».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y Canadá responde a Washington con aranceles de hasta cincuenta por ciento.",
+   "en": "And «Canadá» answers «Washington» with tariffs of up to fifty per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Arrancamos con Estados Unidos.",
+   "en": "We start in the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según El Economista y La Jornada,",
+   "en": "According to «El Economista» and «La Jornada»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "cuatro personas murieron el martes en un ataque militar estadounidense en el Caribe.",
+   "en": "four people were killed on Tuesday in an American military strike in the Caribbean.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las autoridades señalaron que la lancha atacada se dedicaba supuestamente al tráfico de drogas.",
+   "en": "The authorities said the boat that was hit was allegedly being used to run drugs.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según La Jornada, el ejército acusó a sus ocupantes de pertenecer a redes de narcoterrorismo,",
+   "en": "According to «La Jornada», the military accused those on board of belonging to narco-terrorist networks,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sin presentar pruebas.",
+   "en": "without producing evidence.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La campaña ordenada por Donald Trump",
+   "en": "The campaign ordered by «Donald Trump»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "suma casi setenta ataques y al menos doscientos veintisiete muertos",
+   "en": "now runs to nearly seventy strikes and at least two hundred and twenty-seven dead",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "desde septiembre de dos mil veinticinco.",
+   "en": "since September 2025.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Enfrenta cuestionamientos por el uso de fuerza letal sin detención, proceso judicial ni pruebas.",
+   "en": "It is under question for the use of lethal force with no arrest, no trial and no evidence.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en México, el Congreso de Sinaloa designó ayer por la mañana a Graciela Domínguez",
+   "en": "Here in «México», the «Sinaloa» Congress named «Graciela Domínguez",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Nava como gobernadora interina.",
+   "en": "Nava» interim governor yesterday morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La votación fue de treinta y un votos a favor,",
+   "en": "The vote was thirty-one in favour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "seis en contra y cero abstenciones, según La Jornada, El Economista y Reforma.",
+   "en": "six against and no abstentions, according to «La Jornada», «El Economista» and «Reforma».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sustituye a Rubén Rocha Moya, del mismo partido,",
+   "en": "She replaces «Rubén Rocha Moya», of the same party,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que el sábado pidió licencia por tiempo indefinido.",
+   "en": "who asked on Saturday for leave of indefinite length.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Rocha Moya había retomado el cargo apenas treinta y cuatro horas antes.",
+   "en": "«Rocha Moya» had taken the job back only thirty-four hours earlier.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Diputada federal y ex secretaria de Educación de Rocha Moya,",
+   "en": "A federal deputy and «Rocha Moya»'s former education secretary,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Domínguez encabezaría el gobierno hasta los comicios de junio de dos mil veintisiete.",
+   "en": "«Domínguez» would lead the government until the elections of June 2027.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El PAN y el PRI votaron en contra del nombramiento.",
+   "en": "The «PAN» and the «PRI» voted against the appointment.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su primer compromiso será rehacer el gabinete para remover a los rochistas.",
+   "en": "Her first commitment will be to rebuild the cabinet and remove «Rocha»'s people.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Citlalli Hernández Mora, presidenta de la Comisión Nacional de Elecciones de Morena,",
+   "en": "«Citlalli Hernández Mora», who chairs «Morena»'s national elections commission,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "no compartió la decisión de Rocha Moya de retomar el cargo.",
+   "en": "did not agree with «Rocha Moya» taking the job back.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los órganos internos del partido decidirán si le retiran la militancia.",
+   "en": "The party's internal bodies will decide whether to strip him of his membership.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos en México, donde Mexicali está bajo una alerta de seguridad emitida por Estados Unidos,",
+   "en": "In other news, «Mexicali» is under a security alert issued by the United States,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según La Jornada y El Financiero.",
+   "en": "according to «La Jornada» and «El Financiero».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Canadá se sumó y pidió a sus ciudadanos evitar los edificios gubernamentales.",
+   "en": "«Canadá» joined it and told its citizens to stay away from government buildings.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La presidenta Claudia Sheinbaum dijo que la alerta estaría relacionada",
+   "en": "President «Claudia Sheinbaum» said the alert would be to do",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con la posible actividad de un grupo delictivo.",
+   "en": "with the possible activity of a criminal group.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Añadió que la información no estaba asegurada y que Estados Unidos no ha dicho nada más a México.",
+   "en": "She added that the information was not confirmed and that the United States has said nothing more to «México».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según El Financiero, integrantes de Los Rusos,",
+   "en": "According to «El Financiero», members of «Los Rusos»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ligados al Cártel de Sinaloa,",
+   "en": "tied to the «Cártel de Sinaloa»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "habrían planeado acciones contra la policía municipal y la Fiscalía General.",
+   "en": "had planned action against the municipal police and the federal prosecutor's office.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La alerta llegó después de un operativo federal, con Washington,",
+   "en": "The alert came after a federal operation, run with «Washington»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el que se decomisaron ciento veinte kilos de fentanilo.",
+   "en": "in which one hundred and twenty kilos of fentanyl were seized.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En otros temas,",
+   "en": "Moving on,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la Fiscalía de la Ciudad de México detuvo a dos hombres",
+   "en": "«Ciudad de México» prosecutors have arrested two men",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por un esquema de fraude en el examen de admisión de la UNAM.",
+   "en": "over a fraud scheme in the «UNAM» entrance examination.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según la Fiscalía, respondieron el examen en lugar de nueve aspirantes y cobraron por ello.",
+   "en": "According to the prosecutors, they sat the exam in the place of nine applicants and charged them for it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La prueba tuvo que repetirse por unos resultados inusualmente altos,",
+   "en": "The exam had to be run again because of unusually high results,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la universidad colaboró en las detenciones.",
+   "en": "and the university helped with the arrests.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasamos a otro asunto,",
+   "en": "Turning to something else,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "los aranceles de represalia anunciados por Canadá alcanzan cientos de productos estadounidenses,",
+   "en": "the retaliatory tariffs «Canadá» has announced reach hundreds of American products,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según Reforma y El Financiero.",
+   "en": "according to «Reforma» and «El Financiero».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El primer ministro de Ontario, Doug Ford,",
+   "en": "The premier of «Ontario», «Doug Ford»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "respaldó esos aranceles y se sumó a los insultos contra Donald Trump.",
+   "en": "backed those tariffs and joined in the insults aimed at «Donald Trump».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cerramos con otro tema, la música generada por inteligencia artificial quedará fuera de las listas",
+   "en": "And finally, music generated by artificial intelligence will be kept out of Australia's",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "oficiales de Australia desde esta semana.",
+   "en": "official charts from this week.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo decidió la principal asociación discográfica del país,",
+   "en": "The country's main record industry body decided it,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tras la polémica por una versión de Like a Prayer, de Madonna,",
+   "en": "after a row over a version of «Like a Prayer», by «Madonna»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "hecha por un DJ australiano.",
+   "en": "made by an Australian DJ.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esa versión encabezó las listas locales,",
+   "en": "That version topped the local charts,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la asociación advirtió que estas tecnologías amenazan el sustento de los artistas.",
+   "en": "and the body warned that these technologies threaten artists' livelihoods.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más destacado.",
+   "en": "That is the pick of the morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Wednesday 26 August",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "Four killed in another American strike on a boat in the Caribbean",
+ "summary_en": [
+  "Four killed in another American strike on a boat in the Caribbean",
+  "Graciela Dominguez takes over as interim governor of Sinaloa",
+  "Canada answers Washington with tariffs of up to fifty per cent"
+ ]
+}

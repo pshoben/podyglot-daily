@@ -1,0 +1,189 @@
+{
+ "title": "El clima de hoy, miércoles 26 de agosto",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-weather",
+   "wpm": 195,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-26",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El clima de hoy, en tres ciudades del país.",
+   "en": "Today's weather, in three cities around the country.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pendientes en Bogotá: según el modelo del Centro Europeo, el ECMWF,",
+   "en": "Keep an eye out in «Bogotá»: according to the European Centre model, the «ECMWF»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la llovizna es prácticamente segura.",
+   "en": "drizzle is all but certain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación llega al noventa y nueve por ciento.",
+   "en": "The chance of rain reaches ninety-nine per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima se queda en veinte grados y la mínima en doce.",
+   "en": "The high stays at twenty degrees and the low at twelve.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento apenas alcanza ocho kilómetros por hora.",
+   "en": "The wind barely gets to eight kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la capital, entonces, un día fresco y con agua.",
+   "en": "So in the capital, a cool day with rain in it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Región por región, en Cali se esperan chubascos durante la jornada.",
+   "en": "Region by region, in «Cali» showers are expected through the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad allí es del noventa y ocho por ciento.",
+   "en": "The chance there is ninety-eight per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El termómetro sube de veinte a veintiocho grados.",
+   "en": "The thermometer climbs from twenty to twenty-eight degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento se queda en cinco kilómetros por hora.",
+   "en": "The wind stays at five kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Medellín también hay llovizna, aunque con menos probabilidad, ochenta y dos por ciento.",
+   "en": "In «Medellín» there is drizzle too, though less likely, at eighty-two per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las temperaturas van de dieciocho a veintinueve grados.",
+   "en": "Temperatures run from eighteen to twenty-nine degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento llega a trece kilómetros por hora,",
+   "en": "The wind reaches thirteen kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el más fuerte de las tres.",
+   "en": "the strongest of the three.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese es el clima.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Wednesday 26 August",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "Previsión para Bogotá, miércoles 2026-08-26",
+ "summary_en": [
+  "Previsión para Bogotá, miércoles 2026-08-26",
+  "Previsión para Cali, miércoles 2026-08-26"
+ ]
+}

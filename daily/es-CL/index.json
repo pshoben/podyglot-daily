@@ -5,6 +5,47 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-CL-Las noticias de la mañana, miércoles 26 de agosto",
+   "file": "podcast-daily-2026-08-26-morning-news-es-CL.json",
+   "bytes": 11205,
+   "sha256": "522075b8f8970cc498f54246e3379ae8216d8ca6a393d95dbaf766dae866167a",
+   "date": "2026-08-26",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "Las noticias de la mañana, miércoles 26 de agosto",
+   "title_en": "The morning news, Wednesday 26 August",
+   "headline_en": "The Constitutional Court upholds free reconnection after a catastrophe",
+   "summary_en": [
+    "The Constitutional Court upholds free reconnection after a catastrophe",
+    "Argentina corrects its general over the Strait of Magellan",
+    "Mexico weighs Bachelet's chances before a key meeting on the UN race"
+   ]
+  },
+  {
+   "id": "es-CL-El estado del tiempo, miércoles 26 de agosto",
+   "file": "podcast-daily-2026-08-26-morning-weather-es-CL.json",
+   "bytes": 4793,
+   "sha256": "5311801631979fac5cfbd973c83fe98134ece43da0df2ac90e3e93d39fce00e6",
+   "date": "2026-08-26",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "El estado del tiempo, miércoles 26 de agosto",
+   "title_en": "Today's weather, Wednesday 26 August",
+   "headline_en": "Previsión para Santiago, miércoles 2026-08-26",
+   "summary_en": [
+    "Previsión para Santiago, miércoles 2026-08-26",
+    "Previsión para Valparaíso, miércoles 2026-08-26"
+   ]
+  },
+  {
    "id": "es-CL-Las noticias de la mañana, martes 25 de agosto",
    "file": "podcast-daily-2026-08-25-morning-news-es-CL.json",
    "bytes": 10098,
