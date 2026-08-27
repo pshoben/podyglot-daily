@@ -1,0 +1,112 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-ES",
+ "date": "2026-08-27",
+ "episodes": [
+  {
+   "id": "es-ES-El informativo de la mañana, jueves 27 de agosto",
+   "file": "podcast-daily-2026-08-27-morning-news-es-ES.json",
+   "bytes": 8880,
+   "sha256": "9b6b4fd83ab28ca950d68a2590b517d8cf9a7a2dab8129585b2cce132132a6fb",
+   "date": "2026-08-27",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, jueves 27 de agosto",
+   "title_en": "The morning news, Thursday 27 August",
+   "headline_en": "Rescuers race the clock on the Nepal to Tibet border",
+   "summary_en": [
+    "Rescuers race the clock on the Nepal to Tibet border",
+    "The government meets the regions today over the Ceuta minors",
+    "Meta's settlement caps minors at two hours a day on its platforms"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, jueves 27 de agosto",
+   "file": "podcast-daily-2026-08-27-morning-sport-es-ES.json",
+   "bytes": 4219,
+   "sha256": "0d67dd768f03e543c8f49ed52c93adf16f87ed2dc84efd14b3c18fde994c5dd6",
+   "date": "2026-08-27",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, jueves 27 de agosto",
+   "title_en": "Today's sport, Thursday 27 August",
+   "headline_en": "Barcelona host Athletic tonight in the deferred opening round",
+   "summary_en": [
+    "Barcelona host Athletic tonight in the deferred opening round",
+    "Athletic are without the suspended Yuri Berchiche at the Camp Nou"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, jueves 27 de agosto",
+   "file": "podcast-daily-2026-08-27-morning-weather-es-ES.json",
+   "bytes": 5084,
+   "sha256": "140947e45d8132ff40cbac3223b4dcaadfba94a3201b6a1d8f3c4a96950415ed",
+   "date": "2026-08-27",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, jueves 27 de agosto",
+   "title_en": "Today's weather, Thursday 27 August",
+   "headline_en": "Predicción AEMET para Madrid (Madrid), 2026-08-27",
+   "summary_en": [
+    "Predicción AEMET para Madrid (Madrid), 2026-08-27",
+    "Predicción AEMET para Coruña, A (A Coruña), 2026-08-27"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, jueves 27 de agosto",
+   "file": "podcast-daily-2026-08-27-morning-weather-andalucia-es-ES.json",
+   "bytes": 4167,
+   "sha256": "b559479a1f474b2bd2465a0f054597151368705d441cab35115457eee044a3c4",
+   "date": "2026-08-27",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, jueves 27 de agosto",
+   "title_en": "Today's weather, Andalusia, Thursday 27 August",
+   "headline_en": "Predicción AEMET para Sevilla (Sevilla), 2026-08-27",
+   "summary_en": [
+    "Predicción AEMET para Sevilla (Sevilla), 2026-08-27",
+    "Predicción AEMET para Córdoba (Córdoba), 2026-08-27"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, jueves 27 de agosto",
+   "file": "podcast-daily-2026-08-27-morning-weather-canarias-es-ES.json",
+   "bytes": 4063,
+   "sha256": "2cbdae9c090c63efaaa0c8150d1a33ee4109643ae5441e12844128bbeeaac729",
+   "date": "2026-08-27",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, jueves 27 de agosto",
+   "title_en": "Today's weather, Canary Islands, Thursday 27 August",
+   "headline_en": "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-27",
+   "summary_en": [
+    "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-27",
+    "Predicción AEMET para Santa Cruz de Tenerife (Santa Cruz de Tenerife (Tenerife)), 2026-08-27"
+   ]
+  }
+ ],
+ "content": "1e9ddb008bef561e3f2626bc2053b3e30f3afc7d11d792e8d56dd24cab935262",
+ "rev": 1,
+ "updated": "2026-08-27T07:22:03.159Z"
+}

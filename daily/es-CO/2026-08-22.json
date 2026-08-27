@@ -7,8 +7,8 @@
   {
    "id": "es-CO-La actualidad de la mañana, sábado 22 de agosto",
    "file": "podcast-daily-2026-08-22-morning-news-es-CO.json",
-   "bytes": 13341,
-   "sha256": "dfe171163a9004ad6711876a5c834fa570b65bafe0d458975cfa92c02641c498",
+   "bytes": 13333,
+   "sha256": "ec5c3d9b44eef91b2bce17a68593f5ec3773b5d57c57496851dbe18d9168a751",
    "date": "2026-08-22",
    "edition": "morning",
    "programme": "news",
@@ -45,7 +45,7 @@
    ]
   }
  ],
- "content": "33258d8ef5e1a315c0d47b148309ba8f144377d2f4a8f60ef52842573542ad64",
- "rev": 1,
- "updated": "2026-08-22T17:43:52.360Z"
+ "content": "80cdbcd40160ae6ff91a026e4575206dabde943e226532181d3514ff121e38c8",
+ "rev": 3,
+ "updated": "2026-08-27T07:25:58.187Z"
 }

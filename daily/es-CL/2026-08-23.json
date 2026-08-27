@@ -7,8 +7,8 @@
   {
    "id": "es-CL-Las noticias de la mañana, domingo 23 de agosto",
    "file": "podcast-daily-2026-08-23-morning-news-es-CL.json",
-   "bytes": 8043,
-   "sha256": "2b5be7d5827c87a4834f4c5d09a08a588b9e25b8063418371865cfb9b76b1dfa",
+   "bytes": 8031,
+   "sha256": "20017858187b0b2b3d90149b7c1b53c31902da37c0fcbbb6931df6c9a20f7e04",
    "date": "2026-08-23",
    "edition": "morning",
    "programme": "news",
@@ -46,7 +46,7 @@
    ]
   }
  ],
- "content": "c8602b0e8c6fa092ed22fb08904e250a138726918c46eee949c0888afcc210c9",
- "rev": 1,
- "updated": "2026-08-23T16:01:45.756Z"
+ "content": "a02111d22b967bdd6247ee2caf78b3a4efb25cf2783727ede4dd3a2b1b4025d3",
+ "rev": 2,
+ "updated": "2026-08-27T07:22:03.159Z"
 }

@@ -27,7 +27,7 @@
   {
    "speaker": "SPK1",
    "text": "Zelenski descarta convocar elecciones mientras siga la guerra con Rusia.",
-   "en": "«Zelensky» rules out calling elections while the war with «Russia» goes on.",
+   "en": "«Zelensky» rules out calling elections while the war with Russia goes on.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.01,
@@ -47,7 +47,7 @@
   {
    "speaker": "SPK1",
    "text": "Partimos con Ucrania.",
-   "en": "We set off with «Ukraine».",
+   "en": "We set off with Ukraine.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.07,
@@ -237,7 +237,7 @@
   {
    "speaker": "SPK1",
    "text": "Y una cosa más, nueve estudios chilenos de videojuegos participan en Gamescom, en Alemania.",
-   "en": "And one more thing: nine Chilean video game studios are at «Gamescom», in «Germany».",
+   "en": "And one more thing: nine Chilean video game studios are at «Gamescom», in Germany.",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.99,

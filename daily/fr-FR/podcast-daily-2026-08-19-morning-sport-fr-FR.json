@@ -37,7 +37,7 @@
   {
    "speaker": "SPK1",
    "text": "La France présente la même équipe qu'à La Baule.",
-   "en": "«France» is fielding the same team as at «La Baule».",
+   "en": "France is fielding the same team as at «La Baule».",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.0,
@@ -117,7 +117,7 @@
   {
    "speaker": "SPK1",
    "text": "La France tente d'obtenir son billet pour les Jeux de Los Angeles,",
-   "en": "«France» is trying to earn its ticket for the «Los Angeles» Games,",
+   "en": "France is trying to earn its ticket for the «Los Angeles» Games,",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.99,

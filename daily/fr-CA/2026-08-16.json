@@ -27,8 +27,8 @@
   {
    "id": "fr-CA-Le bulletin du soir, dimanche 16 août",
    "file": "podcast-daily-2026-08-16-news-fr-CA.json",
-   "bytes": 12477,
-   "sha256": "48f963c3c1207b8587a6b1ba212345c27d4aa34a1a3fb513d8966c088bb81a3b",
+   "bytes": 12469,
+   "sha256": "cd9e7bea91cc1ce191637eef6017cc8538497776263ecc510451078616e735b4",
    "date": "2026-08-16",
    "edition": "legacy",
    "programme": "news",
@@ -66,7 +66,7 @@
    ]
   }
  ],
- "content": "6c506cc3f181eb435a748470e6c4ae634b46b9dac2caa4e01090e69437d9c2d5",
- "rev": 1,
- "updated": "2026-08-20T07:49:48.488Z"
+ "content": "6d5c015a02463b2bb4a5b1c89e50979553b2ef138bcd2c889424fbf0670551b0",
+ "rev": 2,
+ "updated": "2026-08-27T07:22:03.159Z"
 }

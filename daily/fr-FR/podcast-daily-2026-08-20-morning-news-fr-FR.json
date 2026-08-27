@@ -197,7 +197,7 @@
   {
    "speaker": "SPK1",
    "text": "L'objectif est une réponse opérationnelle plus réactive aux cyberattaques qui visent la France.",
-   "en": "The aim is a more reactive operational response to the cyberattacks aimed at «France».",
+   "en": "The aim is a more reactive operational response to the cyberattacks aimed at France.",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.99,
@@ -287,7 +287,7 @@
   {
    "speaker": "SPK1",
    "text": "Nous restons en France, avec la santé.",
-   "en": "We stay in «France», with health.",
+   "en": "We stay in France, with health.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.01,

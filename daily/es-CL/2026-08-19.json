@@ -7,8 +7,8 @@
   {
    "id": "es-CL-Las noticias de la mañana, miércoles 19 de agosto",
    "file": "podcast-daily-2026-08-19-morning-news-es-CL.json",
-   "bytes": 15173,
-   "sha256": "51ff7ab1f05f06887aaa1f718ee8534c6ff1c788378fdf8ae6fa5cd9e0eaeecf",
+   "bytes": 15169,
+   "sha256": "5e574a01da5d83527d3fd496bf0b102e00ecbb3c5e8d96589dabcfe92279aaa2",
    "date": "2026-08-19",
    "edition": "morning",
    "programme": "news",
@@ -87,7 +87,7 @@
    ]
   }
  ],
- "content": "6354974e8fa3540151924e9953957ca89c0c69d0fc711e553d2f802eaa90a5ac",
- "rev": 1,
- "updated": "2026-08-20T07:49:48.488Z"
+ "content": "c278f3103c03bd4f0507f7e6e7f755cb8c14ea03808f7574178b839176ae0ab8",
+ "rev": 2,
+ "updated": "2026-08-27T07:22:03.159Z"
 }

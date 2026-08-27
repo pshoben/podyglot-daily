@@ -7,8 +7,8 @@
   {
    "id": "es-MX-El noticiario matutino, sábado 22 de agosto",
    "file": "podcast-daily-2026-08-22-morning-news-es-MX.json",
-   "bytes": 9708,
-   "sha256": "f575dbe6b0ff442f483ca7651122736800b109a4c2d859e3b23461140a0d2812",
+   "bytes": 9688,
+   "sha256": "f691a2eed62dec5ca41c3347689a00733694e6c3fb4ce69100bb46787e2cf7dc",
    "date": "2026-08-22",
    "edition": "morning",
    "programme": "news",
@@ -46,7 +46,7 @@
    ]
   }
  ],
- "content": "05880dbce30c4b3c8887a9044b809a2ef0175fcba38560f5aa1b956e66610e9e",
- "rev": 1,
- "updated": "2026-08-22T17:43:52.360Z"
+ "content": "82daf15e97e00faea0890d2de388d481061a41eb42929301f5f08deac95f7aaa",
+ "rev": 3,
+ "updated": "2026-08-27T07:25:58.187Z"
 }

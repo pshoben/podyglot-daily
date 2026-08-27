@@ -7,8 +7,8 @@
   {
    "id": "es-CL-Las noticias de la mañana, miércoles 26 de agosto",
    "file": "podcast-daily-2026-08-26-morning-news-es-CL.json",
-   "bytes": 11205,
-   "sha256": "522075b8f8970cc498f54246e3379ae8216d8ca6a393d95dbaf766dae866167a",
+   "bytes": 11201,
+   "sha256": "fb753fe9bc38a3e4c94fcda9498c623fb78bbcaf2fb1fb151c76c306ab8baf2d",
    "date": "2026-08-26",
    "edition": "morning",
    "programme": "news",
@@ -46,7 +46,7 @@
    ]
   }
  ],
- "content": "d7d1da92799ae6abebc1022d5f54d7245102e2268c59a631b8f4ce32fc7e1858",
- "rev": 1,
- "updated": "2026-08-26T14:14:57.093Z"
+ "content": "7e85db9ba39ffd61eaa599fe5dbe519a5dcadea7d27580fc75f582709ff6aebf",
+ "rev": 2,
+ "updated": "2026-08-27T07:22:03.159Z"
 }

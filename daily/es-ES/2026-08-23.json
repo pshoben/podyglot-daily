@@ -7,8 +7,8 @@
   {
    "id": "es-ES-El informativo de la mañana, domingo 23 de agosto",
    "file": "podcast-daily-2026-08-23-morning-news-es-ES.json",
-   "bytes": 10735,
-   "sha256": "14d2f6aec85807d4fbdd5f6988a37510a1d06a432e4fc21928c55d3398afe386",
+   "bytes": 10723,
+   "sha256": "7bab6f43b325c0468ed2354797871ebc0839328310540c32bc5f9eb7da37658f",
    "date": "2026-08-23",
    "edition": "morning",
    "programme": "news",
@@ -106,7 +106,7 @@
    ]
   }
  ],
- "content": "28c06dc950d10009de4c97d6a8e79c35539d5c944de5ee5c865a8b8e0eca95d6",
- "rev": 1,
- "updated": "2026-08-23T11:15:15.900Z"
+ "content": "c6be60a76bf8ba4ad12ef6e5566c83ea0ab504629a29899cf7d3480220a08483",
+ "rev": 2,
+ "updated": "2026-08-27T07:22:03.159Z"
 }

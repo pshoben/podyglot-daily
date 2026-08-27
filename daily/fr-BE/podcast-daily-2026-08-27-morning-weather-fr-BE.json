@@ -1,0 +1,189 @@
+{
+ "title": "Le temps chez nous, jeudi 27 août",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-weather",
+   "wpm": 222,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-27",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Au-dessus de nos têtes, aujourd'hui.",
+   "en": "Above our heads, today.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon l'Institut royal météorologique, des averses localement orageuses arrivent d'abord par le sud.",
+   "en": "According to the «Institut royal météorologique», showers, thundery in places, come up from the south first.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le temps redevient ensuite plus calme et temporairement plus ensoleillé.",
+   "en": "The weather then turns calmer and, for a while, sunnier.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En fin d'après-midi, des orages parfois violents devraient éclater par endroits.",
+   "en": "Late in the afternoon, storms that are at times violent are likely to break out here and there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'institut a émis un avertissement jaune à partir de dix-sept heures.",
+   "en": "The institute has issued a yellow warning from five in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les maxima iront de vingt-deux à trente degrés.",
+   "en": "Highs will run from twenty-two to thirty degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Bruxelles, le modèle du Centre européen, l'ECMWF,",
+   "en": "In Brussels, the European centre's model, the «ECMWF»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "donne vingt-huit degrés au plus chaud et dix-neuf au plus frais.",
+   "en": "gives twenty-eight degrees at the warmest and nineteen at the coolest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De la pluie faible y est attendue,",
+   "en": "Light rain is expected there,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec une probabilité de précipitation de quatre-vingt-quatre pour cent.",
+   "en": "with an eighty-four per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Liège, trente degrés au maximum et dix-huit au minimum, sous la bruine.",
+   "en": "In «Liège», thirty degrees at most and eighteen at least, under drizzle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est là que la probabilité de précipitation est la plus élevée, quatre-vingt-seize pour cent.",
+   "en": "That is where the chance of rain is highest, at ninety-six per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Namur monte aussi à trente degrés,",
+   "en": "«Namur» also climbs to thirty degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour un minimum de dix-huit.",
+   "en": "for a low of eighteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y est le plus fort des trois villes, dix-neuf kilomètres par heure.",
+   "en": "The wind is strongest there of the three cities, at nineteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le temps chez nous.",
+   "en": "That is the weather here at home.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Thursday 27 August",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "The IRM puts a yellow storm warning on Belgium from five this afternoon",
+ "summary_en": [
+  "The IRM puts a yellow storm warning on Belgium from five this afternoon",
+  "Prévision pour Bruxelles, jeudi 2026-08-27"
+ ]
+}

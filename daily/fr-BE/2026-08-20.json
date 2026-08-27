@@ -7,8 +7,8 @@
   {
    "id": "fr-BE-Le sept heures, jeudi 20 août",
    "file": "podcast-daily-2026-08-20-morning-news-fr-BE.json",
-   "bytes": 10703,
-   "sha256": "d7cecf103b6a37be9927e6b8cf4c8daa2a18ee6d5f25973fe5ff60d8ad6fbcf9",
+   "bytes": 10699,
+   "sha256": "1c1205ac314cf587a5903b51096fc5d20c277f9ca155e0c22a84cf1a40b8768b",
    "date": "2026-08-20",
    "edition": "morning",
    "programme": "news",
@@ -28,8 +28,8 @@
   {
    "id": "fr-BE-Le sport chez nous, jeudi 20 août",
    "file": "podcast-daily-2026-08-20-morning-sport-fr-BE.json",
-   "bytes": 5557,
-   "sha256": "e9dffb0794340a1188fdc502c2d5d64dbf5b7f39a1b6737661e6d74e32cb3a8b",
+   "bytes": 5553,
+   "sha256": "98a1a3a54973103b065c0d8d980b4cc07c6c48f5a97b7684475151405636ea05",
    "date": "2026-08-20",
    "edition": "morning",
    "programme": "sport",
@@ -48,8 +48,8 @@
   {
    "id": "fr-BE-Le temps chez nous, jeudi 20 août",
    "file": "podcast-daily-2026-08-20-morning-weather-fr-BE.json",
-   "bytes": 6279,
-   "sha256": "11753f4a2f8f3532e7d4a62814247e4a86571a66b7c46a5396979a6e5b3306ef",
+   "bytes": 6271,
+   "sha256": "c4f8681f384379155f14144fefd15bf8d5905ced42b7ad43ef7b8b7bd452050e",
    "date": "2026-08-20",
    "edition": "morning",
    "programme": "weather",
@@ -66,7 +66,7 @@
    ]
   }
  ],
- "content": "d6455f95de055e65ee0f3ed428fe47fbb71ffe218e2df01a30feac85d707b0c7",
- "rev": 2,
- "updated": "2026-08-20T09:44:56.517Z"
+ "content": "8bcb0083fb17f28bf94bb3ab0487f97bb5e2e071ae5774c98822500ad1d3d838",
+ "rev": 3,
+ "updated": "2026-08-27T07:22:03.159Z"
 }

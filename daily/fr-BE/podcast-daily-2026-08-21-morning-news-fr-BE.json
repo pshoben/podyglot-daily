@@ -17,7 +17,7 @@
   {
    "speaker": "SPK1",
    "text": "Vendredi vingt et un août, sept heures à Bruxelles. Le sept heures.",
-   "en": "Friday the twenty-first of August, seven o'clock in «Brussels». The seven o'clock news.",
+   "en": "Friday the twenty-first of August, seven o'clock in Brussels. The seven o'clock news.",
    "prosody": {
     "pause_ms": 240,
     "rate": 1.02,
@@ -277,7 +277,7 @@
   {
    "speaker": "SPK1",
    "text": "Le Canada et les États-Unis négociaient jeudi un accord commercial.",
-   "en": "«Canada» and the «United States» were negotiating a trade agreement on Thursday.",
+   "en": "Canada and the United States were negotiating a trade agreement on Thursday.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.01,

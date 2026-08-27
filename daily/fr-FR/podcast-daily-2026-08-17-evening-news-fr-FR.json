@@ -37,7 +37,7 @@
   {
    "speaker": "SPK1",
    "text": "En France, Sébastien Lecornu a passé la journée en Gironde pour lancer la reconstruction",
-   "en": "In «France», «Sébastien Lecornu» spent the day in «la Gironde» to launch the reconstruction",
+   "en": "In France, «Sébastien Lecornu» spent the day in «la Gironde» to launch the reconstruction",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.99,
@@ -117,7 +117,7 @@
   {
    "speaker": "SPK1",
    "text": "le Qatar et les Émirats arabes unis.",
-   "en": "«Qatar» and the United Arab Emirates.",
+   "en": "Qatar and the United Arab Emirates.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.07,
@@ -187,7 +187,7 @@
   {
    "speaker": "SPK1",
    "text": "En France maintenant. Le Premier ministre a passé la journée en Gironde.",
-   "en": "In «France» now. The prime minister spent the day in «la Gironde».",
+   "en": "In France now. The prime minister spent the day in «la Gironde».",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.98,

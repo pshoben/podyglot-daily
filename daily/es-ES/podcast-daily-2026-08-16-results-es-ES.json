@@ -117,7 +117,7 @@
   {
    "speaker": "SPK1",
    "text": "la victoria ha sido para la finlandesa Vainio,",
-   "en": "the win went to «Vainio» of «Finlandia»,",
+   "en": "the win went to «Vainio» of Finland,",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.99,
@@ -137,7 +137,7 @@
   {
    "speaker": "SPK1",
    "text": "En la masculina, se ha impuesto el alemán Petros, un refugiado de Eritrea.",
-   "en": "In the men's, the winner was «Petros» of «Alemania», a refugee from «Eritrea».",
+   "en": "In the men's, the winner was «Petros» of Germany, a refugee from «Eritrea».",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.0,

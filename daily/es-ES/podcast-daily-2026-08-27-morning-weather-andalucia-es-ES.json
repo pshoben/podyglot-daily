@@ -1,0 +1,173 @@
+{
+ "title": "El tiempo en Andalucía, jueves 27 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-andalucia",
+   "wpm": 208,
+   "rate_multiplier": 0.73,
+   "pitch_multiplier": 0.79
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-andalucia",
+ "date": "2026-08-27",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Por el valle del Guadalquivir,",
+   "en": "Along the «Guadalquivir» valley,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sevilla se queda hoy en veintisiete grados de máxima y diecinueve de mínima,",
+   "en": "«Sevilla» stays today at a high of twenty-seven degrees and a low of nineteen,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según la Aemet.",
+   "en": "according to «Aemet».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo está muy nuboso,",
+   "en": "The sky is heavily clouded,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con un treinta por ciento de probabilidad de precipitación.",
+   "en": "with a thirty per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Tierra adentro, en Córdoba,",
+   "en": "Inland, in «Córdoba»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la máxima sube a veintinueve grados y la mínima repite en diecinueve.",
+   "en": "the high climbs to twenty-nine degrees and the low is nineteen again.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí se esperan intervalos nubosos con lluvia escasa,",
+   "en": "Cloudy spells with a little rain are expected there,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la probabilidad llega al setenta y cinco por ciento.",
+   "en": "and the chance reaches seventy-five per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por la tarde el cielo cordobés se queda con nubes altas.",
+   "en": "In the afternoon the «Córdoba» sky is left with high cloud.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la costa, Málaga sube hasta treinta y dos grados, con veintiuno de mínima.",
+   "en": "On the coast, «Málaga» climbs to thirty-two degrees, with a low of twenty-one.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo está poco nuboso y no se espera lluvia.",
+   "en": "The sky is lightly clouded and no rain is expected.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento del noroeste llega allí a veinticinco kilómetros por hora.",
+   "en": "The north-westerly wind reaches twenty-five kilometres an hour there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es Andalucía.",
+   "en": "That is «Andalucía».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 3,
+ "handover": "junction",
+ "title_en": "Today's weather, Andalusia, Thursday 27 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Andalucía",
+ "accent": "Andalucía",
+ "accent_label": "acento de Andalucía",
+ "segment_order": 1,
+ "headline_en": "Predicción AEMET para Sevilla (Sevilla), 2026-08-27",
+ "summary_en": [
+  "Predicción AEMET para Sevilla (Sevilla), 2026-08-27",
+  "Predicción AEMET para Córdoba (Córdoba), 2026-08-27"
+ ]
+}

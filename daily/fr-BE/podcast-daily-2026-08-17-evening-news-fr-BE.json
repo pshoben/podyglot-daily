@@ -317,7 +317,7 @@
   {
    "speaker": "SPK1",
    "text": "C'est en raison de la guerre en Ukraine.",
-   "en": "It is because of the war in «Ukraine».",
+   "en": "It is because of the war in Ukraine.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.0,

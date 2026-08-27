@@ -37,7 +37,7 @@
   {
    "speaker": "SPK1",
    "text": "Washington veut asphyxier économiquement l'Iran,",
-   "en": "«Washington» wants to strangle «Iran»'s economy,",
+   "en": "«Washington» wants to strangle Iran's economy,",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.0,
@@ -67,7 +67,7 @@
   {
    "speaker": "SPK1",
    "text": "On débute avec l'Iran.",
-   "en": "We begin with «Iran».",
+   "en": "We begin with Iran.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.05,
@@ -157,7 +157,7 @@
   {
    "speaker": "SPK1",
    "text": "Washington a présenté lundi un plan destiné à asphyxier économiquement l'Iran.",
-   "en": "«Washington» set out a plan on Monday to strangle «Iran»'s economy.",
+   "en": "«Washington» set out a plan on Monday to strangle Iran's economy.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.06,

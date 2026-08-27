@@ -1,0 +1,360 @@
+{
+ "title": "Le journal du matin, jeudi 27 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-27",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Jeudi vingt-sept août, sept heures à Paris. Le journal du matin.",
+   "en": "Thursday the twenty-seventh of August, seven o'clock in «Paris». The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des crues soudaines ont dévasté la frontière entre le Népal et le Tibet.",
+   "en": "Sudden floods have devastated the border country between «Népal» and «Tibet».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un automobiliste a foncé sur des piétons à Caen.",
+   "en": "A car has been driven into pedestrians in «Caen».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et sept candidats à la présidentielle débattent aujourd'hui devant le patronat.",
+   "en": "And seven presidential candidates debate today in front of the employers' federation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par le Népal,",
+   "en": "We start in «Népal»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où des coulées de boue ont enseveli mercredi des villages et des routes,",
+   "en": "where mudslides buried villages and roads on Wednesday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon Le Monde, France Télévisions et Le Figaro.",
+   "en": "according to «Le Monde», «France Télévisions» and «Le Figaro».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La région touchée est très fréquentée par les randonneurs et par les pèlerins hindous.",
+   "en": "The area that was hit is much used by walkers and by Hindu pilgrims.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au moins cent soixante-cinq personnes sont mortes.",
+   "en": "At least a hundred and sixty-five people have died.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Plus d'un millier d'autres sont portées disparues.",
+   "en": "More than a thousand others are missing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, un homme a foncé au volant sur un groupe de personnes",
+   "en": "In France, a man drove a car into a group of people",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "près d'un bar de Caen mercredi soir,",
+   "en": "near a bar in «Caen» on Wednesday evening,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après Le Télégramme et Sud Ouest.",
+   "en": "«Le Télégramme» and «Sud Ouest» report.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a pris la fuite avant d'être interpellé à Ouistreham.",
+   "en": "He drove off and was later arrested at «Ouistreham».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Une personne a été tuée et dix autres ont été blessées.",
+   "en": "One person was killed and ten others were hurt.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon France Télévisions et Le Figaro,",
+   "en": "According to «France Télévisions» and «Le Figaro»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "une enquête a été ouverte pour assassinat et violence volontaire avec arme.",
+   "en": "an investigation has been opened for murder and for armed assault.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Meta a conclu un accord avec la quasi-totalité des États américains,",
+   "en": "«Meta» has settled with almost every American state,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon Le Monde et Sud Ouest.",
+   "en": "according to «Le Monde» and «Sud Ouest».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le groupe était accusé d'avoir rendu ses réseaux sociaux addictifs pour les mineurs.",
+   "en": "The company was accused of making its social networks addictive for under-eighteens.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il s'engage à limiter l'accès des adolescents à ses plateformes,",
+   "en": "It has agreed to limit teenagers' access to its platforms,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et il évite ainsi un procès.",
+   "en": "and so avoids a trial.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à autre chose,",
+   "en": "Moving on,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sept candidats à l'élection présidentielle débattent ce jeudi à la rentrée du Medef,",
+   "en": "seven candidates for the presidency debate this Thursday at the «Medef»'s autumn gathering,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à Roland-Garros, selon France Télévisions et Le Télégramme.",
+   "en": "at «Roland-Garros», according to «France Télévisions» and «Le Télégramme».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ils débattront des priorités économiques relevées par les chefs d'entreprise.",
+   "en": "They will debate the economic priorities that company bosses have set out.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Édouard Philippe a détaillé les siennes avant la rencontre, selon Le Figaro,",
+   "en": "«Édouard Philippe» set his own out ahead of it, according to «Le Figaro»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Télégramme et Sud Ouest.",
+   "en": "«Le Télégramme» and «Sud Ouest».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le candidat Horizons veut ramener à douze mois la durée d'indemnisation du chômage",
+   "en": "The «Horizons» candidate wants to cut unemployment benefit to twelve months",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour les moins de cinquante ans.",
+   "en": "for people under fifty.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il veut aussi mettre fin à ce qu'il appelle l'open bar des arrêts de travail.",
+   "en": "He also wants to end what he calls the open bar on sick leave.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Thursday 27 August",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Floods on the Nepal to Tibet border bury villages and roads",
+ "summary_en": [
+  "Floods on the Nepal to Tibet border bury villages and roads",
+  "A car is driven into a group of people in Caen",
+  "Seven presidential candidates debate before the employers' federation"
+ ]
+}

@@ -37,7 +37,7 @@
   {
    "speaker": "SPK1",
    "text": "Demain mardi, à Bruxelles, vingt-trois degrés au plus haut et seize au plus bas.",
-   "en": "Tomorrow, Tuesday, in «Bruxelles», twenty three degrees at the highest and sixteen at the lowest.",
+   "en": "Tomorrow, Tuesday, in Brussels, twenty three degrees at the highest and sixteen at the lowest.",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.98,
@@ -77,7 +77,7 @@
   {
    "speaker": "SPK1",
    "text": "Mercredi, vingt et un degrés seulement à Bruxelles, avec toujours de la bruine.",
-   "en": "On Wednesday, only twenty one degrees in «Bruxelles», with drizzle again.",
+   "en": "On Wednesday, only twenty one degrees in Brussels, with drizzle again.",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.99,

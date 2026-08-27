@@ -7,8 +7,8 @@
   {
    "id": "fr-FR-Le journal du matin, mardi 25 août",
    "file": "podcast-daily-2026-08-25-morning-news-fr-FR.json",
-   "bytes": 12909,
-   "sha256": "469a04b869ea314669c22e720d909fc2779e49696b09b6583634b2d2da7c83a7",
+   "bytes": 12897,
+   "sha256": "0072501a1d48e5196e62a62ebe0ac0da68e4ffceb3953d8ae5a7f4328d99da97",
    "date": "2026-08-25",
    "edition": "morning",
    "programme": "news",
@@ -66,7 +66,7 @@
    ]
   }
  ],
- "content": "4b6f139caa06d3ed72a2cc090ad7e4d65b1c5b57a3b7bc7a2d7733e77a7ffef8",
- "rev": 1,
- "updated": "2026-08-25T09:34:00.786Z"
+ "content": "7d12d884ac77120b76923eef7a7026f369570ec4f8aca2c52ef82340adc1cef7",
+ "rev": 2,
+ "updated": "2026-08-27T07:22:03.159Z"
 }

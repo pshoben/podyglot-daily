@@ -5,10 +5,111 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-ES-El informativo de la mañana, jueves 27 de agosto",
+   "file": "podcast-daily-2026-08-27-morning-news-es-ES.json",
+   "bytes": 8880,
+   "sha256": "9b6b4fd83ab28ca950d68a2590b517d8cf9a7a2dab8129585b2cce132132a6fb",
+   "date": "2026-08-27",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, jueves 27 de agosto",
+   "title_en": "The morning news, Thursday 27 August",
+   "headline_en": "Rescuers race the clock on the Nepal to Tibet border",
+   "summary_en": [
+    "Rescuers race the clock on the Nepal to Tibet border",
+    "The government meets the regions today over the Ceuta minors",
+    "Meta's settlement caps minors at two hours a day on its platforms"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, jueves 27 de agosto",
+   "file": "podcast-daily-2026-08-27-morning-sport-es-ES.json",
+   "bytes": 4219,
+   "sha256": "0d67dd768f03e543c8f49ed52c93adf16f87ed2dc84efd14b3c18fde994c5dd6",
+   "date": "2026-08-27",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, jueves 27 de agosto",
+   "title_en": "Today's sport, Thursday 27 August",
+   "headline_en": "Barcelona host Athletic tonight in the deferred opening round",
+   "summary_en": [
+    "Barcelona host Athletic tonight in the deferred opening round",
+    "Athletic are without the suspended Yuri Berchiche at the Camp Nou"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, jueves 27 de agosto",
+   "file": "podcast-daily-2026-08-27-morning-weather-es-ES.json",
+   "bytes": 5084,
+   "sha256": "140947e45d8132ff40cbac3223b4dcaadfba94a3201b6a1d8f3c4a96950415ed",
+   "date": "2026-08-27",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, jueves 27 de agosto",
+   "title_en": "Today's weather, Thursday 27 August",
+   "headline_en": "Predicción AEMET para Madrid (Madrid), 2026-08-27",
+   "summary_en": [
+    "Predicción AEMET para Madrid (Madrid), 2026-08-27",
+    "Predicción AEMET para Coruña, A (A Coruña), 2026-08-27"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, jueves 27 de agosto",
+   "file": "podcast-daily-2026-08-27-morning-weather-andalucia-es-ES.json",
+   "bytes": 4167,
+   "sha256": "b559479a1f474b2bd2465a0f054597151368705d441cab35115457eee044a3c4",
+   "date": "2026-08-27",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, jueves 27 de agosto",
+   "title_en": "Today's weather, Andalusia, Thursday 27 August",
+   "headline_en": "Predicción AEMET para Sevilla (Sevilla), 2026-08-27",
+   "summary_en": [
+    "Predicción AEMET para Sevilla (Sevilla), 2026-08-27",
+    "Predicción AEMET para Córdoba (Córdoba), 2026-08-27"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, jueves 27 de agosto",
+   "file": "podcast-daily-2026-08-27-morning-weather-canarias-es-ES.json",
+   "bytes": 4063,
+   "sha256": "2cbdae9c090c63efaaa0c8150d1a33ee4109643ae5441e12844128bbeeaac729",
+   "date": "2026-08-27",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, jueves 27 de agosto",
+   "title_en": "Today's weather, Canary Islands, Thursday 27 August",
+   "headline_en": "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-27",
+   "summary_en": [
+    "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-27",
+    "Predicción AEMET para Santa Cruz de Tenerife (Santa Cruz de Tenerife (Tenerife)), 2026-08-27"
+   ]
+  },
+  {
    "id": "es-ES-El informativo de la mañana, miércoles 26 de agosto",
    "file": "podcast-daily-2026-08-26-morning-news-es-ES.json",
-   "bytes": 9545,
-   "sha256": "e405af5795b8c1f32ad88ba8ac1b713bfd3181e30bd1629b160c95d1d830aed9",
+   "bytes": 9541,
+   "sha256": "75432c66d03c11b49b9628f09c1c6511a308d2ebdc7605e0eb93116bf124b29e",
    "date": "2026-08-26",
    "edition": "morning",
    "programme": "news",
@@ -108,8 +209,8 @@
   {
    "id": "es-ES-El informativo de la mañana, martes 25 de agosto",
    "file": "podcast-daily-2026-08-25-morning-news-es-ES.json",
-   "bytes": 11237,
-   "sha256": "88b5c0d82e8e14b53329ef3ee40a0ee0d1ef8c3867efea6fc7e2ebcb15807e1b",
+   "bytes": 11233,
+   "sha256": "6000e4910523f1e0cd1b17d1604a25c62518cb7419ae22743bca1e556d8761f3",
    "date": "2026-08-25",
    "edition": "morning",
    "programme": "news",
@@ -149,8 +250,8 @@
   {
    "id": "es-ES-El tiempo, martes 25 de agosto",
    "file": "podcast-daily-2026-08-25-morning-weather-es-ES.json",
-   "bytes": 6171,
-   "sha256": "8d8355f22c48753ba4c1ce768baa61ad094a283c36cebc507883e87b2dc60575",
+   "bytes": 6167,
+   "sha256": "30e9c38dc8c98304ac560ff4f32904acb0ccd88a183be7c5b41bd9bed66df949",
    "date": "2026-08-25",
    "edition": "morning",
    "programme": "weather",
@@ -209,8 +310,8 @@
   {
    "id": "es-ES-El informativo de la mañana, lunes 24 de agosto",
    "file": "podcast-daily-2026-08-24-morning-news-es-ES.json",
-   "bytes": 10348,
-   "sha256": "70d7f78e503e634a2dc2e911a3b347e8e0f9c77d9e774be9568f34dc86408ec5",
+   "bytes": 10340,
+   "sha256": "b73ecd3a903dd3c4cd0197a8ad0f04fb3053425046c0b0da0d925230211b9078",
    "date": "2026-08-24",
    "edition": "morning",
    "programme": "news",
@@ -250,8 +351,8 @@
   {
    "id": "es-ES-El tiempo, lunes 24 de agosto",
    "file": "podcast-daily-2026-08-24-morning-weather-es-ES.json",
-   "bytes": 7315,
-   "sha256": "4df206588fb544bbfa6eee4b6e84025c2ae7b62a636469684512c9e1b631be7a",
+   "bytes": 7307,
+   "sha256": "49088f47a6dd8426b308690dc2424002029a22d0362a1785d02de1b4a9617a37",
    "date": "2026-08-24",
    "edition": "morning",
    "programme": "weather",
@@ -310,8 +411,8 @@
   {
    "id": "es-ES-El informativo de la mañana, domingo 23 de agosto",
    "file": "podcast-daily-2026-08-23-morning-news-es-ES.json",
-   "bytes": 10735,
-   "sha256": "14d2f6aec85807d4fbdd5f6988a37510a1d06a432e4fc21928c55d3398afe386",
+   "bytes": 10723,
+   "sha256": "7bab6f43b325c0468ed2354797871ebc0839328310540c32bc5f9eb7da37658f",
    "date": "2026-08-23",
    "edition": "morning",
    "programme": "news",
@@ -411,8 +512,8 @@
   {
    "id": "es-ES-El informativo de la mañana, sábado 22 de agosto",
    "file": "podcast-daily-2026-08-22-morning-news-es-ES.json",
-   "bytes": 9720,
-   "sha256": "8cec3dbcec1aac21bbdb4f82d21db822010ae94c7882568a7832cc90f05871f9",
+   "bytes": 9676,
+   "sha256": "2fcc813f08b4195ebcc94524a38505148edef341b03f0de8db8b59b2e3a99e94",
    "date": "2026-08-22",
    "edition": "morning",
    "programme": "news",
@@ -510,8 +611,8 @@
   {
    "id": "es-ES-El informativo de la mañana, viernes 21 de agosto",
    "file": "podcast-daily-2026-08-21-morning-news-es-ES.json",
-   "bytes": 10551,
-   "sha256": "eb6f35021566fa1ca46302da54d61b6f4dcb095a0451558d85c1fd7fbc23b6c5",
+   "bytes": 10539,
+   "sha256": "338b2e469d8d7d85b17e45030c84ede73dd0e5b7f6b6ae469862e5facc47f3a1",
    "date": "2026-08-21",
    "edition": "morning",
    "programme": "news",
@@ -551,8 +652,8 @@
   {
    "id": "es-ES-El tiempo, viernes 21 de agosto",
    "file": "podcast-daily-2026-08-21-morning-weather-es-ES.json",
-   "bytes": 5257,
-   "sha256": "c3226ee44302cfecea34bde97cea8f50b9b44ca44e9c2e1624781709fac88b9c",
+   "bytes": 5297,
+   "sha256": "6abf1f189f10dca6c8e0912bfff51d4e24d9001f8b96a4747aeb209cb0c2db90",
    "date": "2026-08-21",
    "edition": "morning",
    "programme": "weather",
@@ -562,10 +663,10 @@
    "region_label": "España",
    "title": "El tiempo, viernes 21 de agosto",
    "title_en": "Today's weather, Friday 21 August",
-   "headline_en": "Predicción AEMET para Madrid (Madrid), 2026-08-21",
+   "headline_en": "The stormy spell continues on Friday with very heavy rain and a further fall in temperatur",
    "summary_en": [
-    "Predicción AEMET para Madrid (Madrid), 2026-08-21",
-    "The stormy spell continues on Friday with very heavy rain and a further fall in temperatur"
+    "The stormy spell continues on Friday with very heavy rain and a further fall in temperatur",
+    "Predicción AEMET para Madrid (Madrid), 2026-08-21"
    ]
   },
   {
@@ -711,8 +812,8 @@
   {
    "id": "es-ES-El informativo de la mañana, miércoles 19 de agosto",
    "file": "podcast-daily-2026-08-19-morning-news-es-ES.json",
-   "bytes": 10877,
-   "sha256": "0df765443f936cec6f6e84245ff76dd527926a0e9f368a5bf35a5e0f11c47710",
+   "bytes": 10871,
+   "sha256": "3572931f5537be24891d2c202731cd89c2adc8630aff25d81d1f7cc9c53dc9d3",
    "date": "2026-08-19",
    "edition": "morning",
    "programme": "news",
@@ -1033,8 +1134,8 @@
   {
    "id": "es-ES-El informativo de la tarde, lunes 17 de agosto",
    "file": "podcast-daily-2026-08-17-evening-news-es-ES.json",
-   "bytes": 12303,
-   "sha256": "219089b17dbcb81cd1027532b633591581c8c23619f081626bf285c67b05f429",
+   "bytes": 12243,
+   "sha256": "19ac4a29c7f3c0bfed3e52be7c63e953cfec543f92c0ab3735d24b3a9df35dca",
    "date": "2026-08-17",
    "edition": "evening",
    "programme": "news",
@@ -1134,8 +1235,8 @@
   {
    "id": "es-ES-Los resultados, domingo 16 de agosto",
    "file": "podcast-daily-2026-08-16-evening-results-es-ES.json",
-   "bytes": 3847,
-   "sha256": "479cc64751ec2ce79bb50562ae99992fa932df33c7cf4cad52f1d01df048dd6a",
+   "bytes": 3836,
+   "sha256": "2b0186a94265e8eb94b3d0c2e9b0792f1d8af359e1e61c2708b6ceefe11b9d34",
    "date": "2026-08-16",
    "edition": "evening",
    "programme": "results",
@@ -1153,8 +1254,8 @@
   {
    "id": "es-ES-Las noticias de la tarde, domingo 16 de agosto",
    "file": "podcast-daily-2026-08-16-news-es-ES.json",
-   "bytes": 12844,
-   "sha256": "b41d80ac2efaaf6accf3918860a08b032d298df5d2083e1afec2ed51f7913b46",
+   "bytes": 12810,
+   "sha256": "fb1dca25c05534c93f14038d0c7c3c482a6d9da0f992f544b3fc9baa7882de19",
    "date": "2026-08-16",
    "edition": "legacy",
    "programme": "news",
@@ -1174,8 +1275,8 @@
   {
    "id": "es-ES-Los resultados, domingo 16 de agosto",
    "file": "podcast-daily-2026-08-16-results-es-ES.json",
-   "bytes": 3846,
-   "sha256": "483bf1dc85f5406cd06998af2c0de17839bf8ceb4de5ece301e1295f412baa1d",
+   "bytes": 3835,
+   "sha256": "cc8ed8fa133fa4ea3a9fab1348d44a29e14dfc904ed9ef7f6f4bd9aafef8a8ab",
    "date": "2026-08-16",
    "edition": "legacy",
    "programme": "results",

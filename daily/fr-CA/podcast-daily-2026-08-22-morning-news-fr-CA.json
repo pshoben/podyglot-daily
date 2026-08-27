@@ -77,7 +77,7 @@
   {
    "speaker": "SPK1",
    "text": "Une juge fédérale américaine a déclaré illégal, vendredi,",
-   "en": "A federal judge in the «United States» ruled on",
+   "en": "A federal judge in the United States ruled on",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.98,
@@ -106,8 +106,8 @@
   },
   {
    "speaker": "SPK1",
-   "text": "Selon Le Devoir, la juge Jeannette Vargas, du tribunal de New York,",
-   "en": "According to «Le Devoir», Judge «Jeannette Vargas» of the «New York» court",
+   "text": "Selon Le Devoir, la juge Jeannette Vargas, du tribunal de New",
+   "en": "According to «Le Devoir», Judge «Jeannette Vargas» of the New",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.01,
@@ -116,8 +116,8 @@
   },
   {
    "speaker": "SPK1",
-   "text": "a statué que la mesure était contraire à la loi.",
-   "en": "found that it was contrary to law.",
+   "text": "York, a statué que la mesure était contraire à la loi.",
+   "en": "York court found that it was contrary to law.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.03,
@@ -157,7 +157,7 @@
   {
    "speaker": "SPK1",
    "text": "la Russie et l'Ukraine ont échangé de nouvelles frappes de longue portée.",
-   "en": "«Russia» and «Ukraine» have traded fresh long-range strikes.",
+   "en": "Russia and Ukraine have traded fresh long-range strikes.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.06,
@@ -177,7 +177,7 @@
   {
    "speaker": "SPK1",
    "text": "Radio-Canada fait état de quatre morts en Ukraine et de trois morts en Russie.",
-   "en": "«Radio-Canada» reports four dead in «Ukraine» and three in «Russia».",
+   "en": "«Radio-Canada» reports four dead in Ukraine and three in Russia.",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.99,
@@ -197,7 +197,7 @@
   {
    "speaker": "SPK1",
    "text": "dont sept en Ukraine entre vendredi soir et samedi.",
-   "en": "seven of them in «Ukraine» between Friday evening and Saturday.",
+   "en": "seven of them in Ukraine between Friday evening and Saturday.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.06,
@@ -267,7 +267,7 @@
   {
    "speaker": "SPK1",
    "text": "les États-Unis ayant trop demandé.",
-   "en": "the «United States» having asked for too much.",
+   "en": "the United States having asked for too much.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.05,

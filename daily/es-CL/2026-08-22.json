@@ -7,8 +7,8 @@
   {
    "id": "es-CL-Las noticias de la mañana, sábado 22 de agosto",
    "file": "podcast-daily-2026-08-22-morning-news-es-CL.json",
-   "bytes": 8382,
-   "sha256": "5de66d1fe0cc20c0f8069955b27366f25456484e60f8caa9fe0a1e15735e4b99",
+   "bytes": 8362,
+   "sha256": "24f7dd47329c66fdb80da71a43b476bd8a2762b15e5436522a52e89944689028",
    "date": "2026-08-22",
    "edition": "morning",
    "programme": "news",
@@ -45,7 +45,7 @@
    ]
   }
  ],
- "content": "be8ee05ac8fc929d01fbee7cd22746b36bc583027d385521a4ae73246f48f10f",
- "rev": 1,
- "updated": "2026-08-22T17:43:52.360Z"
+ "content": "6e3b051dcb3d91f5d374d3b6a4babbe58548f67eee724e4cc6fe7cc4c21a7dcc",
+ "rev": 3,
+ "updated": "2026-08-27T07:25:58.187Z"
 }

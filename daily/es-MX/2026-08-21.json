@@ -7,8 +7,8 @@
   {
    "id": "es-MX-El noticiario matutino, viernes 21 de agosto",
    "file": "podcast-daily-2026-08-21-morning-news-es-MX.json",
-   "bytes": 8170,
-   "sha256": "a340e83ed26eea0acb95dd32d258c211506642e8670f14745c6a841dee00be9c",
+   "bytes": 8166,
+   "sha256": "4484e7ff80591b253815364cea340e7a1cfba594a6907aeb04d15266c70eb7e8",
    "date": "2026-08-21",
    "edition": "morning",
    "programme": "news",
@@ -46,7 +46,7 @@
    ]
   }
  ],
- "content": "e8ecbf8bb1fdedf7e43d68ad1dbf238e2d489da47dbff8b7170094d8d3006bb1",
- "rev": 1,
- "updated": "2026-08-21T21:20:02.241Z"
+ "content": "70063c13071f73a519d2b5751e380ef045ae820f787773afdae213fc1e9cb11b",
+ "rev": 3,
+ "updated": "2026-08-27T07:25:58.187Z"
 }

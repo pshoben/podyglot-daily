@@ -157,7 +157,7 @@
   {
    "speaker": "SPK1",
    "text": "El gobernador había pedido licencia tras ser señalado por Estados Unidos.",
-   "en": "The governor had taken leave after being named by the «United States».",
+   "en": "The governor had taken leave after being named by the United States.",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.99,

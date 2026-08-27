@@ -1,0 +1,400 @@
+{
+ "title": "Le sept heures, jeudi 27 août",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-news",
+   "wpm": 222,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-27",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Jeudi vingt-sept août. Le sept heures.",
+   "en": "Thursday the twenty-seventh of August. The seven o'clock news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des torrents de boue ont ravagé le Népal et le Tibet chinois.",
+   "en": "Torrents of mud have laid waste to «Népal» and Chinese «Tibet».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des renforts sont annoncés contre le narcotrafic à Bruxelles.",
+   "en": "Reinforcements are being announced against the drug trade in Brussels.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et la grève Letec prive Charleroi de bus ce jeudi.",
+   "en": "And the «Letec» strike leaves «Charleroi» without buses this Thursday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On ouvre avec le Népal,",
+   "en": "We open in «Népal»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où des coulées de boue et des inondations soudaines ont dévasté mercredi des vallées",
+   "en": "where mudslides and sudden floods devastated valleys on Wednesday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "jusque dans la région chinoise du Tibet,",
+   "en": "as far as the Chinese region of «Tibet»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon La Libre et 7sur7.",
+   "en": "according to «La Libre» and «7sur7».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au moins cent soixante-cinq personnes sont mortes,",
+   "en": "At least a hundred and sixty-five people have died,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et plus de mille trois cents sont portées disparues.",
+   "en": "and more than one thousand three hundred are missing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Parmi ces disparus, des centaines de touristes étrangers.",
+   "en": "Among those missing are hundreds of foreign tourists.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'après la DH et 7sur7,",
+   "en": "According to «La DH» and «7sur7»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les Affaires étrangères sont sans nouvelle de trois touristes belges",
+   "en": "the foreign ministry has had no news of three Belgian tourists",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans les régions touchées.",
+   "en": "in the areas that were hit.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le porte-parole du ministère l'a communiqué mercredi soir.",
+   "en": "The ministry's spokesman said so on Wednesday evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Chez nous, les autorités fédérales, régionales et locales",
+   "en": "At home, federal, regional and local authorities",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "annoncent une série de renforts contre les violences liées au trafic de drogue à Bruxelles,",
+   "en": "are announcing a set of reinforcements against drug-related violence in Brussels,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon Le Vif et 7sur7.",
+   "en": "according to «Le Vif» and «7sur7».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un commandement opérationnel unique pour les six zones de police de la capitale",
+   "en": "A single operational command for the capital's six police zones",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "figure parmi les mesures immédiates.",
+   "en": "is one of the immediate measures.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "S'y ajoutent un renforcement de la présence nocturne et le déploiement d'un peloton d'infanterie supplémentaire.",
+   "en": "On top of that come a stronger night-time presence and an extra infantry platoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Plusieurs bourgmestres saluent une prise de conscience nationale,",
+   "en": "Several mayors welcome what they call a national awakening,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tout en attendant des résultats concrets sur le terrain.",
+   "en": "while waiting for results on the ground.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ailleurs dans l'actu,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.1
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un voyage sur trois est supprimé ce jeudi matin",
+   "en": "one journey in three is cancelled this Thursday morning",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.075
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sur le réseau Letec de Liège-Verviers,",
+   "en": "on the «Letec» network around «Liège» and «Verviers»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.05
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et aucun bus ne circule à Charleroi,",
+   "en": "and no buses are running in «Charleroi»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.025
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après la DH, 7sur7 et Le Vif.",
+   "en": "«La DH», «7sur7» and «Le Vif» report.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le front commun syndical a confirmé son préavis de grève",
+   "en": "The joint union front has confirmed its strike notice",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour ce jeudi et ce vendredi.",
+   "en": "for this Thursday and Friday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On enchaîne,",
+   "en": "Moving on,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le déplacement du directeur de la CIA à Moscou cette semaine",
+   "en": "the «CIA» director's trip to Moscow this week",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "visait à mettre en garde la Russie contre toute attaque visant l'Otan,",
+   "en": "was meant to warn Russia against any attack on NATO,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon La Libre et Le Vif.",
+   "en": "according to «La Libre» and «Le Vif».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Plusieurs médias américains l'ont rapporté mercredi,",
+   "en": "Several American news organisations reported it on Wednesday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "après que Donald Trump a cherché à minimiser l'importance de cette visite.",
+   "en": "after «Donald Trump» had tried to play the visit down.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà où nous en sommes.",
+   "en": "That is where things stand.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Thursday 27 August",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Mudslides devastate valleys on the Nepal to Tibet border",
+ "summary_en": [
+  "Mudslides devastate valleys on the Nepal to Tibet border",
+  "Reinforcements announced against drug violence in Brussels",
+  "A Letec strike cuts buses in Liege, Verviers and Charleroi"
+ ]
+}

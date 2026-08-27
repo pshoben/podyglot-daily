@@ -7,8 +7,8 @@
   {
    "id": "fr-FR-Le journal du soir, dimanche 16 août",
    "file": "podcast-daily-2026-08-16-news-fr-FR.json",
-   "bytes": 12462,
-   "sha256": "7e9f43737ae5a1f9d2c1ec9fc46ace97f8aec07177d5a05a3924991766521eba",
+   "bytes": 12450,
+   "sha256": "4aa91583f377778ad1498b29fa980f8cef849b1c2c1bbf80ec7f590ddf6b4b18",
    "date": "2026-08-16",
    "edition": "legacy",
    "programme": "news",
@@ -68,8 +68,8 @@
   {
    "id": "fr-FR-La météo, dimanche 16 août",
    "file": "podcast-daily-2026-08-16-weather-fr-FR.json",
-   "bytes": 6127,
-   "sha256": "7b166c9250aa2f7e656ecc1efa59e422860626763c8084b6e213a62dc5170b35",
+   "bytes": 6122,
+   "sha256": "eb879186f151fd3670e459e3943cab87a43fc476d4a80ac6672fbb68b0e2e1ad",
    "date": "2026-08-16",
    "edition": "legacy",
    "programme": "weather",
@@ -86,7 +86,7 @@
    ]
   }
  ],
- "content": "e7ddc73fd7c14101e418e4a994b6a3df4d6c6768dd9ab875534b2e72f19627ea",
- "rev": 1,
- "updated": "2026-08-20T07:49:48.488Z"
+ "content": "d50dca5f6eb43fb53c79c5a211cab1069d345a06b5644e5ece725d349b0101a7",
+ "rev": 2,
+ "updated": "2026-08-27T07:22:03.159Z"
 }

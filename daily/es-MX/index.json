@@ -89,8 +89,8 @@
   {
    "id": "es-MX-El noticiario matutino, domingo 23 de agosto",
    "file": "podcast-daily-2026-08-23-morning-news-es-MX.json",
-   "bytes": 8057,
-   "sha256": "914e8f90e7e97c1060672f1e87c2490fb40182138e0635d0c31a0b661e956b68",
+   "bytes": 8049,
+   "sha256": "fc7d7970c300230191abadd1df3c298cb73750ea21134953da6fcf2ded4fbf8f",
    "date": "2026-08-23",
    "edition": "morning",
    "programme": "news",
@@ -103,8 +103,8 @@
    "headline_en": "Carney says Canada is in a trade war with the United States",
    "summary_en": [
     "Carney says Canada is in a trade war with the United States",
-    "A magnitude 5.9 earthquake near Tokyo leaves 37 injured",
-    "Sinaloa's governor asks for indefinite leave 34 hours after returning to the job"
+    "Sinaloa's governor asks for indefinite leave 34 hours after returning to the job",
+    "A magnitude 5.9 earthquake near Tokyo leaves 37 injured"
    ]
   },
   {
@@ -130,8 +130,8 @@
   {
    "id": "es-MX-El noticiario matutino, sábado 22 de agosto",
    "file": "podcast-daily-2026-08-22-morning-news-es-MX.json",
-   "bytes": 9708,
-   "sha256": "f575dbe6b0ff442f483ca7651122736800b109a4c2d859e3b23461140a0d2812",
+   "bytes": 9688,
+   "sha256": "f691a2eed62dec5ca41c3347689a00733694e6c3fb4ce69100bb46787e2cf7dc",
    "date": "2026-08-22",
    "edition": "morning",
    "programme": "news",
@@ -171,8 +171,8 @@
   {
    "id": "es-MX-El noticiario matutino, viernes 21 de agosto",
    "file": "podcast-daily-2026-08-21-morning-news-es-MX.json",
-   "bytes": 8170,
-   "sha256": "a340e83ed26eea0acb95dd32d258c211506642e8670f14745c6a841dee00be9c",
+   "bytes": 8166,
+   "sha256": "4484e7ff80591b253815364cea340e7a1cfba594a6907aeb04d15266c70eb7e8",
    "date": "2026-08-21",
    "edition": "morning",
    "programme": "news",
@@ -496,8 +496,8 @@
   {
    "id": "es-MX-El noticiario vespertino, domingo 16 de agosto",
    "file": "podcast-daily-2026-08-16-news-es-MX.json",
-   "bytes": 12305,
-   "sha256": "4e9c156997470c4f7ee532a60e92d95a148eb2f75d91d1d049053257263902a9",
+   "bytes": 12299,
+   "sha256": "2ef78ee31fcf82471084dd56c750020544d7f1f17456f28def5b3b47732b6f49",
    "date": "2026-08-16",
    "edition": "legacy",
    "programme": "news",

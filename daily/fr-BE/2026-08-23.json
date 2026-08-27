@@ -7,8 +7,8 @@
   {
    "id": "fr-BE-Le sept heures, dimanche 23 août",
    "file": "podcast-daily-2026-08-23-morning-news-fr-BE.json",
-   "bytes": 7995,
-   "sha256": "dc903080119415f90c1c1e70b41d8184c1bfb09d19828ce644452ad6037a4040",
+   "bytes": 7979,
+   "sha256": "5bf0b89732565e03b568f254610c5c4e77e93aeb3f3ad5cc65ff35dddc48aee4",
    "date": "2026-08-23",
    "edition": "morning",
    "programme": "news",
@@ -21,15 +21,15 @@
    "headline_en": "Zelensky says wartime elections would endanger Ukraine and fracture the country",
    "summary_en": [
     "Zelensky says wartime elections would endanger Ukraine and fracture the country",
-    "At least 37 injured in a magnitude 5.9 earthquake near Tokyo",
-    "The Hautes Fagnes fire flared up again overnight, with smoke building"
+    "The Hautes Fagnes fire flared up again overnight, with smoke building",
+    "Only two thirds of foreign drivers fined in Belgium actually pay"
    ]
   },
   {
    "id": "fr-BE-Le temps chez nous, dimanche 23 août",
    "file": "podcast-daily-2026-08-23-morning-weather-fr-BE.json",
-   "bytes": 4681,
-   "sha256": "6a01cdd6b05c9ad2ff184bf6cd4b16369240044531cb6993df961edf454ddf53",
+   "bytes": 4677,
+   "sha256": "83d10d216c1b39ed335715bfc2faa12800dd253826e2ddd7a23434c9eed04077",
    "date": "2026-08-23",
    "edition": "morning",
    "programme": "weather",
@@ -46,7 +46,7 @@
    ]
   }
  ],
- "content": "f5b87ed6ee1101f6405e1229e2bc2d9dc1e50a98127b93aaeb93b18bcc490fc8",
- "rev": 1,
- "updated": "2026-08-23T11:15:15.900Z"
+ "content": "15f38b5410d59f4d3b4fca53b9532603c617bb2a151d04546068a7c50f446f4b",
+ "rev": 3,
+ "updated": "2026-08-27T07:25:58.187Z"
 }

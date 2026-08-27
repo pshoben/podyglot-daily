@@ -27,7 +27,7 @@
   {
    "speaker": "SPK1",
    "text": "Para Mark Carney, Canadá ya está en guerra comercial con Estados Unidos.",
-   "en": "For «Mark Carney», «Canada» is already in a trade war with the United States.",
+   "en": "For «Mark Carney», Canada is already in a trade war with the United States.",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.98,
@@ -57,7 +57,7 @@
   {
    "speaker": "SPK1",
    "text": "Arrancamos con Canadá.",
-   "en": "We start with «Canada».",
+   "en": "We start with Canada.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.05,
@@ -304,7 +304,7 @@
  "headline_en": "Carney says Canada is in a trade war with the United States",
  "summary_en": [
   "Carney says Canada is in a trade war with the United States",
-  "A magnitude 5.9 earthquake near Tokyo leaves 37 injured",
-  "Sinaloa's governor asks for indefinite leave 34 hours after returning to the job"
+  "Sinaloa's governor asks for indefinite leave 34 hours after returning to the job",
+  "A magnitude 5.9 earthquake near Tokyo leaves 37 injured"
  ]
 }

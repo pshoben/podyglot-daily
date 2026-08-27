@@ -7,8 +7,8 @@
   {
    "id": "fr-FR-Le journal du matin, samedi 22 août",
    "file": "podcast-daily-2026-08-22-morning-news-fr-FR.json",
-   "bytes": 13644,
-   "sha256": "b2e2f856a4a7ffda89ede398c2270a66c0b2a2c915c14816db0d93d60886c9df",
+   "bytes": 13632,
+   "sha256": "da1af84a23c89c2f973f6d257ad9ea8810ebeff2fa9a454176dc7c9937a23a46",
    "date": "2026-08-22",
    "edition": "morning",
    "programme": "news",
@@ -21,8 +21,8 @@
    "headline_en": "A Russian drone strike on a shopping centre in Kryvyi Rih killed at least sixteen people and injured around a hundred and thirty",
    "summary_en": [
     "A Russian drone strike on a shopping centre in Kryvyi Rih killed at least sixteen people and injured around a hundred and thirty",
-    "New American tariffs of fifty per cent on a range of Canadian products came into force on Saturday after no deal was reached",
-    "The Greens hold their summer conference in Grenoble and La France insoumise its summer school, opening the political new season"
+    "The Greens hold their summer conference in Grenoble and La France insoumise its summer school, opening the political new season",
+    "New American tariffs of fifty per cent on a range of Canadian products came into force on Saturday after no deal was reached"
    ]
   },
   {
@@ -65,7 +65,7 @@
    ]
   }
  ],
- "content": "6bf1f6be1b581fbc0c92c737f170b28854c2b4db2b3307e2a6b946e940d2144f",
- "rev": 1,
- "updated": "2026-08-22T08:28:55.292Z"
+ "content": "9b4644dab37428cf8755f5688319798f0d987a88b991cdf4ef0dd9a157e949e8",
+ "rev": 3,
+ "updated": "2026-08-27T07:25:58.187Z"
 }

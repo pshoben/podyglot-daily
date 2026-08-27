@@ -27,7 +27,7 @@
   {
    "speaker": "SPK1",
    "text": "L'équipe de France de basket retrouve la Serbie à Orléans, selon L'Équipe et France Télévisions.",
-   "en": "The «France» basketball team meet «Serbia» in «Orléans», according to «L'Équipe» and «France Télévisions».",
+   "en": "The France basketball team meet «Serbia» in «Orléans», according to «L'Équipe» and «France Télévisions».",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.02,
@@ -77,7 +77,7 @@
   {
    "speaker": "SPK1",
    "text": "C'est la France qui reçoit, cette fois.",
-   "en": "This time it is «France» at home.",
+   "en": "This time it is France at home.",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.98,

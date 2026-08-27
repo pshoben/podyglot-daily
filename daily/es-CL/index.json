@@ -7,8 +7,8 @@
   {
    "id": "es-CL-Las noticias de la mañana, miércoles 26 de agosto",
    "file": "podcast-daily-2026-08-26-morning-news-es-CL.json",
-   "bytes": 11205,
-   "sha256": "522075b8f8970cc498f54246e3379ae8216d8ca6a393d95dbaf766dae866167a",
+   "bytes": 11201,
+   "sha256": "fb753fe9bc38a3e4c94fcda9498c623fb78bbcaf2fb1fb151c76c306ab8baf2d",
    "date": "2026-08-26",
    "edition": "morning",
    "programme": "news",
@@ -89,8 +89,8 @@
   {
    "id": "es-CL-Las noticias de la mañana, domingo 23 de agosto",
    "file": "podcast-daily-2026-08-23-morning-news-es-CL.json",
-   "bytes": 8043,
-   "sha256": "2b5be7d5827c87a4834f4c5d09a08a588b9e25b8063418371865cfb9b76b1dfa",
+   "bytes": 8031,
+   "sha256": "20017858187b0b2b3d90149b7c1b53c31902da37c0fcbbb6931df6c9a20f7e04",
    "date": "2026-08-23",
    "edition": "morning",
    "programme": "news",
@@ -130,8 +130,8 @@
   {
    "id": "es-CL-Las noticias de la mañana, sábado 22 de agosto",
    "file": "podcast-daily-2026-08-22-morning-news-es-CL.json",
-   "bytes": 8382,
-   "sha256": "5de66d1fe0cc20c0f8069955b27366f25456484e60f8caa9fe0a1e15735e4b99",
+   "bytes": 8362,
+   "sha256": "24f7dd47329c66fdb80da71a43b476bd8a2762b15e5436522a52e89944689028",
    "date": "2026-08-22",
    "edition": "morning",
    "programme": "news",
@@ -230,8 +230,8 @@
   {
    "id": "es-CL-Las noticias de la mañana, miércoles 19 de agosto",
    "file": "podcast-daily-2026-08-19-morning-news-es-CL.json",
-   "bytes": 15173,
-   "sha256": "51ff7ab1f05f06887aaa1f718ee8534c6ff1c788378fdf8ae6fa5cd9e0eaeecf",
+   "bytes": 15169,
+   "sha256": "5e574a01da5d83527d3fd496bf0b102e00ecbb3c5e8d96589dabcfe92279aaa2",
    "date": "2026-08-19",
    "edition": "morning",
    "programme": "news",

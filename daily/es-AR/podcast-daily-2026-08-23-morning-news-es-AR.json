@@ -227,7 +227,7 @@
   {
    "speaker": "SPK1",
    "text": "un terremoto de magnitud cinco coma nueve sacudió Japón y dejó más de treinta heridos,",
-   "en": "an earthquake of magnitude five point nine shook «Japan» and left more than thirty people injured,",
+   "en": "an earthquake of magnitude five point nine shook Japan and left more than thirty people injured,",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.99,
@@ -281,10 +281,10 @@
  "edition": "morning",
  "region": "es-AR",
  "region_label": "Argentina",
- "headline_en": "A magnitude 5.9 earthquake in Japan leaves more than thirty injured",
+ "headline_en": "A yellow warning for extreme cold covers Buenos Aires city and five provinces",
  "summary_en": [
-  "A magnitude 5.9 earthquake in Japan leaves more than thirty injured",
   "A yellow warning for extreme cold covers Buenos Aires city and five provinces",
-  "Argentine markets start to price in the risk of the 2027 elections"
+  "Argentine markets start to price in the risk of the 2027 elections",
+  "A magnitude 5.9 earthquake in Japan leaves more than thirty injured"
  ]
 }

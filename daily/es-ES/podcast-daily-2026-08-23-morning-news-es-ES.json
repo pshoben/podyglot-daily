@@ -67,7 +67,7 @@
   {
    "speaker": "SPK1",
    "text": "Abrimos con Japón.",
-   "en": "We open in «Japan».",
+   "en": "We open in Japan.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.06,
@@ -147,7 +147,7 @@
   {
    "speaker": "SPK1",
    "text": "Aquí en España,",
-   "en": "Here in «Spain»,",
+   "en": "Here in Spain,",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.0,
@@ -367,7 +367,7 @@
   {
    "speaker": "SPK1",
    "text": "Ocurrió en los Juegos Mundiales de Robots Humanoides de Pekín.",
-   "en": "It happened at the World Humanoid Robot Games in «Beijing».",
+   "en": "It happened at the World Humanoid Robot Games in Beijing.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.01,

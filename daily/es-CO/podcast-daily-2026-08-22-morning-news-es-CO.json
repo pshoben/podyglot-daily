@@ -47,7 +47,7 @@
   {
    "speaker": "SPK1",
    "text": "en Estados Unidos.",
-   "en": "the «United States».",
+   "en": "the United States.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.03,
@@ -117,7 +117,7 @@
   {
    "speaker": "SPK1",
    "text": "aceptaron pagar cuatrocientos millones de dólares para resolver una demanda del Departamento de Justicia",
-   "en": "agreed to pay four hundred million dollars to settle a claim from the «United States» «Justice",
+   "en": "agreed to pay four hundred million dollars to settle a claim from the United",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.98,
@@ -127,7 +127,7 @@
   {
    "speaker": "SPK1",
    "text": "de Estados Unidos.",
-   "en": "Department».",
+   "en": "States «Justice Department».",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.03,

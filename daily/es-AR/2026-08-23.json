@@ -7,8 +7,8 @@
   {
    "id": "es-AR-El noticiero de la mañana, domingo 23 de agosto",
    "file": "podcast-daily-2026-08-23-morning-news-es-AR.json",
-   "bytes": 7421,
-   "sha256": "039b7777baa36cf0e1a8b9bb21136487de46cfa5635f2e6eab2cd31d0f24c931",
+   "bytes": 7427,
+   "sha256": "9163095f8499635f7322247d0b3c6a9fed29315b988196a2896872837f83e542",
    "date": "2026-08-23",
    "edition": "morning",
    "programme": "news",
@@ -18,11 +18,11 @@
    "region_label": "Argentina",
    "title": "El noticiero de la mañana, domingo 23 de agosto",
    "title_en": "The morning news, Sunday 23 August",
-   "headline_en": "A magnitude 5.9 earthquake in Japan leaves more than thirty injured",
+   "headline_en": "A yellow warning for extreme cold covers Buenos Aires city and five provinces",
    "summary_en": [
-    "A magnitude 5.9 earthquake in Japan leaves more than thirty injured",
     "A yellow warning for extreme cold covers Buenos Aires city and five provinces",
-    "Argentine markets start to price in the risk of the 2027 elections"
+    "Argentine markets start to price in the risk of the 2027 elections",
+    "A magnitude 5.9 earthquake in Japan leaves more than thirty injured"
    ]
   },
   {
@@ -48,8 +48,8 @@
   {
    "id": "es-AR-El pronóstico, domingo 23 de agosto",
    "file": "podcast-daily-2026-08-23-morning-weather-es-AR.json",
-   "bytes": 4884,
-   "sha256": "871b827dc5b106ab85ea855fc569169bf07bda4cb859a004cd2ad59d8f63a9b8",
+   "bytes": 4937,
+   "sha256": "f031b5a7f56dae364f6e4969f3f7e935a182ba9efbb4d0ca4b754fd045ee4859",
    "date": "2026-08-23",
    "edition": "morning",
    "programme": "weather",
@@ -59,14 +59,14 @@
    "region_label": "Argentina",
    "title": "El pronóstico, domingo 23 de agosto",
    "title_en": "Today's weather, Sunday 23 August",
-   "headline_en": "Buenos Aires today: cloudy, with a high of 11 degrees",
+   "headline_en": "A yellow warning for extreme cold covers Buenos Aires city and five provinces",
    "summary_en": [
-    "Buenos Aires today: cloudy, with a high of 11 degrees",
-    "Cordoba today: cloudy, with a high of 15 degrees"
+    "A yellow warning for extreme cold covers Buenos Aires city and five provinces",
+    "Buenos Aires today: cloudy, with a high of 11 degrees"
    ]
   }
  ],
- "content": "11f6eef160275d44de64d3188fbb5e6badcf7ac890ed180cf6f4c7f2b1d926bb",
- "rev": 1,
- "updated": "2026-08-23T16:01:45.756Z"
+ "content": "e9dece344d0c439ddca4187e3e6be8636744177a9744fa22e0be226497e895ca",
+ "rev": 3,
+ "updated": "2026-08-27T07:25:58.187Z"
 }

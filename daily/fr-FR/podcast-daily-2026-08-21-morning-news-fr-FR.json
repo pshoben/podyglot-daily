@@ -27,7 +27,7 @@
   {
    "speaker": "SPK1",
    "text": "Cinq personnes sont portées disparues après un incendie en Suisse.",
-   "en": "Five people are reported missing after a fire in «Switzerland».",
+   "en": "Five people are reported missing after a fire in Switzerland.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.01,
@@ -57,7 +57,7 @@
   {
    "speaker": "SPK1",
    "text": "On commence par l'étranger, en Suisse.",
-   "en": "We start abroad, in «Switzerland».",
+   "en": "We start abroad, in Switzerland.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.01,

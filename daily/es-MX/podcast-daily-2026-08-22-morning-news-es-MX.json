@@ -47,7 +47,7 @@
   {
    "speaker": "SPK1",
    "text": "fracasan las negociaciones comerciales entre Estados Unidos y Canadá",
-   "en": "trade talks between the «United States» and «Canada» collapse",
+   "en": "trade talks between the United States and Canada collapse",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.96,
@@ -117,7 +117,7 @@
   {
    "speaker": "SPK1",
    "text": "De acuerdo con El Financiero,",
-   "en": "According to «El Financiero», the «United States» trade representative, «Jamieson",
+   "en": "According to «El Financiero», the United States trade representative, «Jamieson",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.05,
@@ -127,7 +127,7 @@
   {
    "speaker": "SPK1",
    "text": "el representante comercial de Estados Unidos, Jamieson Greer,",
-   "en": "Greer», blamed «Canada» for the failure,",
+   "en": "Greer», blamed Canada for the failure,",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.98,
@@ -177,7 +177,7 @@
   {
    "speaker": "SPK1",
    "text": "Había pedido licencia al cargo tras los señalamientos del Departamento de Justicia de Estados Unidos",
-   "en": "He had stood down from the post after the «United States» «Justice Department» alleged",
+   "en": "He had stood down from the post after the United States «Justice Department» alleged",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.01,

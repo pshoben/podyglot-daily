@@ -7,8 +7,8 @@
   {
    "id": "es-ES-El informativo de la mañana, miércoles 26 de agosto",
    "file": "podcast-daily-2026-08-26-morning-news-es-ES.json",
-   "bytes": 9545,
-   "sha256": "e405af5795b8c1f32ad88ba8ac1b713bfd3181e30bd1629b160c95d1d830aed9",
+   "bytes": 9541,
+   "sha256": "75432c66d03c11b49b9628f09c1c6511a308d2ebdc7605e0eb93116bf124b29e",
    "date": "2026-08-26",
    "edition": "morning",
    "programme": "news",
@@ -106,7 +106,7 @@
    ]
   }
  ],
- "content": "ccfb99a0e3fe26df38597022d722b0a8f81d89f6e40b41685f7fc7b567a3d326",
- "rev": 2,
- "updated": "2026-08-26T14:14:57.093Z"
+ "content": "1971a5b56a2cc53e1e843bee81c45782a63e14046eaab6a72b95e157fbbfd5c5",
+ "rev": 3,
+ "updated": "2026-08-27T07:22:03.159Z"
 }

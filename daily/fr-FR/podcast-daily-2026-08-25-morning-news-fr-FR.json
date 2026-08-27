@@ -27,7 +27,7 @@
   {
    "speaker": "SPK1",
    "text": "La Syrie sort de la liste américaine des États soutenant le terrorisme.",
-   "en": "«Syria» comes off the American list of states that sponsor terrorism.",
+   "en": "Syria comes off the American list of states that sponsor terrorism.",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.98,
@@ -57,7 +57,7 @@
   {
    "speaker": "SPK1",
    "text": "On commence par la Syrie.",
-   "en": "We start in «Syria».",
+   "en": "We start in Syria.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.02,
@@ -147,7 +147,7 @@
   {
    "speaker": "SPK1",
    "text": "En France, une tornade a frappé le village de Pomas, dans l'Aude,",
-   "en": "In «France», a tornado hit the village of «Pomas», in the «Aude», late on Monday afternoon,",
+   "en": "In France, a tornado hit the village of «Pomas», in the «Aude», late on Monday afternoon,",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.0,

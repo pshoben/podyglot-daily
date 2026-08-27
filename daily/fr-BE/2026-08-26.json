@@ -28,8 +28,8 @@
   {
    "id": "fr-BE-Le temps chez nous, mercredi 26 août",
    "file": "podcast-daily-2026-08-26-morning-weather-fr-BE.json",
-   "bytes": 4828,
-   "sha256": "ddbfa78d6a52aeef98e88812500cef0361a68b4b376340c5ac799cba47869ba3",
+   "bytes": 4820,
+   "sha256": "d750ee7d5c51c52e347e340e5fded199cb3a9e798396c06d86aae034c20186bb",
    "date": "2026-08-26",
    "edition": "morning",
    "programme": "weather",
@@ -46,7 +46,7 @@
    ]
   }
  ],
- "content": "b403bca4491cd3460f2d3bd3e183d2ed7a64504efaa109db7de1616566e88048",
- "rev": 1,
- "updated": "2026-08-26T07:40:29.229Z"
+ "content": "e39a665d18c6a02b24961ce6e09c12d8add9d2350cf229b5d35878cc55a4ff1a",
+ "rev": 2,
+ "updated": "2026-08-27T07:22:03.159Z"
 }

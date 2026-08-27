@@ -36,8 +36,8 @@
   },
   {
    "speaker": "SPK1",
-   "text": "Estados Unidos impone aranceles del cincuenta por ciento a Canadá y Ottawa",
-   "en": "The «United States» imposes fifty per cent tariffs on «Canada» and «Ottawa» answers",
+   "text": "Estados Unidos impone aranceles del cincuenta por ciento a Canadá",
+   "en": "The United States imposes fifty per cent tariffs on Canada",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.0,
@@ -46,8 +46,8 @@
   },
   {
    "speaker": "SPK1",
-   "text": "responde con la misma cifra.",
-   "en": "with the same figure.",
+   "text": "y Ottawa responde con la misma cifra.",
+   "en": "and «Ottawa» answers with the same figure.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.07,
@@ -87,7 +87,7 @@
   {
    "speaker": "SPK1",
    "text": "Estados Unidos volvió a imponer aranceles del cincuenta por ciento a los productos canadienses.",
-   "en": "The «United States» has again imposed fifty per cent tariffs on Canadian goods.",
+   "en": "The United States has again imposed fifty per cent tariffs on Canadian goods.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.01,
@@ -97,7 +97,7 @@
   {
    "speaker": "SPK1",
    "text": "El primer ministro de Canadá, Mark Carney,",
-   "en": "«Canada»'s prime minister, «Mark Carney»,",
+   "en": "Canada's prime minister, «Mark Carney»,",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.02,
@@ -307,7 +307,7 @@
   {
    "speaker": "SPK1",
    "text": "Una jueza federal de Estados Unidos anuló la suspensión de visas que el Gobierno de",
-   "en": "A federal judge in the «United States» struck down the visa suspension that",
+   "en": "A federal judge in the United States struck down the visa suspension that",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.0,
@@ -327,7 +327,7 @@
   {
    "speaker": "SPK1",
    "text": "Entre ellos están Brasil, Uruguay y Colombia.",
-   "en": "«Brazil», «Uruguay» and «Colombia» are among them.",
+   "en": "Brazil, «Uruguay» and «Colombia» are among them.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.01,

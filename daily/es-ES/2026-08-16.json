@@ -7,8 +7,8 @@
   {
    "id": "es-ES-Los resultados, domingo 16 de agosto",
    "file": "podcast-daily-2026-08-16-evening-results-es-ES.json",
-   "bytes": 3847,
-   "sha256": "479cc64751ec2ce79bb50562ae99992fa932df33c7cf4cad52f1d01df048dd6a",
+   "bytes": 3836,
+   "sha256": "2b0186a94265e8eb94b3d0c2e9b0792f1d8af359e1e61c2708b6ceefe11b9d34",
    "date": "2026-08-16",
    "edition": "evening",
    "programme": "results",
@@ -26,8 +26,8 @@
   {
    "id": "es-ES-Las noticias de la tarde, domingo 16 de agosto",
    "file": "podcast-daily-2026-08-16-news-es-ES.json",
-   "bytes": 12844,
-   "sha256": "b41d80ac2efaaf6accf3918860a08b032d298df5d2083e1afec2ed51f7913b46",
+   "bytes": 12810,
+   "sha256": "fb1dca25c05534c93f14038d0c7c3c482a6d9da0f992f544b3fc9baa7882de19",
    "date": "2026-08-16",
    "edition": "legacy",
    "programme": "news",
@@ -47,8 +47,8 @@
   {
    "id": "es-ES-Los resultados, domingo 16 de agosto",
    "file": "podcast-daily-2026-08-16-results-es-ES.json",
-   "bytes": 3846,
-   "sha256": "483bf1dc85f5406cd06998af2c0de17839bf8ceb4de5ece301e1295f412baa1d",
+   "bytes": 3835,
+   "sha256": "cc8ed8fa133fa4ea3a9fab1348d44a29e14dfc904ed9ef7f6f4bd9aafef8a8ab",
    "date": "2026-08-16",
    "edition": "legacy",
    "programme": "results",
@@ -104,7 +104,7 @@
    ]
   }
  ],
- "content": "2c8912c39477fe66480d21165d0aafdcf4352a3a9403d1de91d5e2d056f22a0c",
- "rev": 1,
- "updated": "2026-08-20T07:49:48.488Z"
+ "content": "dcf105d9dcca5313db38b50dfba038d4b5a9ff50b6c3ca8215d55957f732dfb1",
+ "rev": 2,
+ "updated": "2026-08-27T07:22:03.159Z"
 }

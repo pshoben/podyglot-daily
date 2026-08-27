@@ -7,8 +7,8 @@
   {
    "id": "fr-FR-Le journal du matin, lundi 17 août",
    "file": "podcast-daily-2026-08-17-morning-news-fr-FR.json",
-   "bytes": 16095,
-   "sha256": "21cf704a68c7ee7f25df84ede6e1e839116a91cee2eed4af97c9a8af561faf12",
+   "bytes": 16083,
+   "sha256": "6cc4c1bc0e93cd8835822e38b980f8182a08a153dff4434ce68b5cb83982f438",
    "date": "2026-08-17",
    "edition": "morning",
    "programme": "news",
@@ -48,8 +48,8 @@
   {
    "id": "fr-FR-Le journal du soir, lundi 17 août",
    "file": "podcast-daily-2026-08-17-evening-news-fr-FR.json",
-   "bytes": 12529,
-   "sha256": "0facd5c585c808fd75fbb1277b0c10ea3a7b4f85fb68fa141f34e38912db1a3c",
+   "bytes": 12517,
+   "sha256": "5f34a8f970937ab5466ca23315dee64d8c54b37d21d896e5093ea9865dd662b6",
    "date": "2026-08-17",
    "edition": "evening",
    "programme": "news",
@@ -89,8 +89,8 @@
   {
    "id": "fr-FR-Les résultats, lundi 17 août",
    "file": "podcast-daily-2026-08-17-evening-results-fr-FR.json",
-   "bytes": 5152,
-   "sha256": "5198f0f767f1f29e789e24a2af6527ffc95388a9eb55bb97cdd62f467402712a",
+   "bytes": 5148,
+   "sha256": "b7ac39556abb0ce7db4db56a20ecdb8a674c92ce7e2af0f9f02db50561461849",
    "date": "2026-08-17",
    "edition": "evening",
    "programme": "results",
@@ -107,7 +107,7 @@
    ]
   }
  ],
- "content": "c3cd461b60a579eab8ebb90b3dced082dce66db710473f068af062b4c61ff96d",
- "rev": 1,
- "updated": "2026-08-20T07:49:48.488Z"
+ "content": "c78c4972e72915dd0772423b652805083f7dd5a9da8647076f6cff44df0300d9",
+ "rev": 2,
+ "updated": "2026-08-27T07:22:03.159Z"
 }

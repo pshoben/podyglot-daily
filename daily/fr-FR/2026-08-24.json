@@ -7,8 +7,8 @@
   {
    "id": "fr-FR-Le journal du matin, lundi 24 août",
    "file": "podcast-daily-2026-08-24-morning-news-fr-FR.json",
-   "bytes": 14827,
-   "sha256": "e9a0cee59e1531c29c4766c14fbdf4b105c64a79756b5a8e331f61afb146158a",
+   "bytes": 14807,
+   "sha256": "557bdcaadb88849f7d01d7b416ce613d473506caec331da7dc570546946c02c3",
    "date": "2026-08-24",
    "edition": "morning",
    "programme": "news",
@@ -46,7 +46,7 @@
    ]
   }
  ],
- "content": "8f69e87e449fd09bd1de6d7c360883b706ff9ac7303744c510c5aaa4003aef58",
- "rev": 1,
- "updated": "2026-08-24T08:46:23.150Z"
+ "content": "7885630508d148a06be01fd3786fbe27558961a9996e3ee3b12c0b92dc971936",
+ "rev": 2,
+ "updated": "2026-08-27T07:22:03.159Z"
 }

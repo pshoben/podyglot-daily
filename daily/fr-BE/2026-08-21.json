@@ -7,8 +7,8 @@
   {
    "id": "fr-BE-Le sept heures, vendredi 21 août",
    "file": "podcast-daily-2026-08-21-morning-news-fr-BE.json",
-   "bytes": 9466,
-   "sha256": "734d12ed36730cbf23d4351e89495adb444a6304b093b6d0e96b25eb1e030dfb",
+   "bytes": 9454,
+   "sha256": "a0a412fade40019731d52fae2ec55285e8afbbd80c8e700e1887b3fd23f6c9bd",
    "date": "2026-08-21",
    "edition": "morning",
    "programme": "news",
@@ -48,8 +48,8 @@
   {
    "id": "fr-BE-Le temps chez nous, vendredi 21 août",
    "file": "podcast-daily-2026-08-21-morning-weather-fr-BE.json",
-   "bytes": 4771,
-   "sha256": "429060b59d05dcc3f9a615240f2b515938f59104ee3f958ddab643e63d2fc63f",
+   "bytes": 4858,
+   "sha256": "fd4ca86d6bd261bf3fa45a8c55040d272561a0cbfa9056cfa108d2067ced4e66",
    "date": "2026-08-21",
    "edition": "morning",
    "programme": "weather",
@@ -59,14 +59,14 @@
    "region_label": "Belgique",
    "title": "Le temps chez nous, vendredi 21 août",
    "title_en": "Today's weather, Friday 21 August",
-   "headline_en": "Prévision pour Bruxelles, vendredi 2026-08-21",
+   "headline_en": "Showers will punctuate the day on Friday, drifting in from the coast and bringing one stor",
    "summary_en": [
-    "Prévision pour Bruxelles, vendredi 2026-08-21",
-    "Prévision pour Liège, vendredi 2026-08-21"
+    "Showers will punctuate the day on Friday, drifting in from the coast and bringing one stor",
+    "Prévision pour Bruxelles, vendredi 2026-08-21"
    ]
   }
  ],
- "content": "ab75c98ab7e07e553169f87f19ae78bf71a2c72389fc1c779f2b4d3899fb8fa4",
- "rev": 1,
- "updated": "2026-08-21T08:21:29.616Z"
+ "content": "c3a8091196d78fafcb81fb8ab2eeb6b33bcb74e21a316f71b315f315436ad5fe",
+ "rev": 3,
+ "updated": "2026-08-27T07:25:58.187Z"
 }

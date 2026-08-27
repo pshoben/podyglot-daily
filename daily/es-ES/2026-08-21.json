@@ -7,8 +7,8 @@
   {
    "id": "es-ES-El informativo de la mañana, viernes 21 de agosto",
    "file": "podcast-daily-2026-08-21-morning-news-es-ES.json",
-   "bytes": 10551,
-   "sha256": "eb6f35021566fa1ca46302da54d61b6f4dcb095a0451558d85c1fd7fbc23b6c5",
+   "bytes": 10539,
+   "sha256": "338b2e469d8d7d85b17e45030c84ede73dd0e5b7f6b6ae469862e5facc47f3a1",
    "date": "2026-08-21",
    "edition": "morning",
    "programme": "news",
@@ -48,8 +48,8 @@
   {
    "id": "es-ES-El tiempo, viernes 21 de agosto",
    "file": "podcast-daily-2026-08-21-morning-weather-es-ES.json",
-   "bytes": 5257,
-   "sha256": "c3226ee44302cfecea34bde97cea8f50b9b44ca44e9c2e1624781709fac88b9c",
+   "bytes": 5297,
+   "sha256": "6abf1f189f10dca6c8e0912bfff51d4e24d9001f8b96a4747aeb209cb0c2db90",
    "date": "2026-08-21",
    "edition": "morning",
    "programme": "weather",
@@ -59,10 +59,10 @@
    "region_label": "España",
    "title": "El tiempo, viernes 21 de agosto",
    "title_en": "Today's weather, Friday 21 August",
-   "headline_en": "Predicción AEMET para Madrid (Madrid), 2026-08-21",
+   "headline_en": "The stormy spell continues on Friday with very heavy rain and a further fall in temperatur",
    "summary_en": [
-    "Predicción AEMET para Madrid (Madrid), 2026-08-21",
-    "The stormy spell continues on Friday with very heavy rain and a further fall in temperatur"
+    "The stormy spell continues on Friday with very heavy rain and a further fall in temperatur",
+    "Predicción AEMET para Madrid (Madrid), 2026-08-21"
    ]
   },
   {
@@ -106,7 +106,7 @@
    ]
   }
  ],
- "content": "8310deb66733c950ccfb91c8258c0eca46fea461cdecdf510bbd5c78353b7074",
- "rev": 1,
- "updated": "2026-08-21T08:21:29.616Z"
+ "content": "e69a1c02cdcdbc460aa3b19cc3854ab359624c087328d0703c79a470dcba210e",
+ "rev": 3,
+ "updated": "2026-08-27T07:25:58.187Z"
 }

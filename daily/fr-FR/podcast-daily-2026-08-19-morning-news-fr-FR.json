@@ -27,7 +27,7 @@
   {
    "speaker": "SPK1",
    "text": "La France va expulser deux diplomates iraniens,",
-   "en": "«France» is going to expel two Iranian diplomats,",
+   "en": "France is going to expel two Iranian diplomats,",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.0,
@@ -87,7 +87,7 @@
   {
    "speaker": "SPK1",
    "text": "Ces deux diplomates sont en poste en France.",
-   "en": "These two diplomats are posted in «France».",
+   "en": "These two diplomats are posted in France.",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.98,

@@ -27,7 +27,7 @@
   {
    "speaker": "SPK1",
    "text": "Una borrasca situada al oeste de Portugal",
-   "en": "A low pressure system to the west of «Portugal»",
+   "en": "A low pressure system to the west of Portugal",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.0,
@@ -37,7 +37,7 @@
   {
    "speaker": "SPK1",
    "text": "deja hoy una jornada inestable en buena parte de España,",
-   "en": "is leaving an unsettled day over much of «Spain» today,",
+   "en": "is leaving an unsettled day over much of Spain today,",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.98,

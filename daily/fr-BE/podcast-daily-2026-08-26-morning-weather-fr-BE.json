@@ -27,7 +27,7 @@
   {
    "speaker": "SPK1",
    "text": "À Bruxelles, le modèle du Centre européen, l'ECMWF,",
-   "en": "In «Brussels», the European Centre model, the «ECMWF»,",
+   "en": "In Brussels, the European Centre model, the «ECMWF»,",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.98,
@@ -117,7 +117,7 @@
   {
    "speaker": "SPK1",
    "text": "Le vent y souffle à la même vitesse qu'à Bruxelles, onze kilomètres par heure.",
-   "en": "The wind there blows at the same speed as in «Brussels», eleven kilometres an hour.",
+   "en": "The wind there blows at the same speed as in Brussels, eleven kilometres an hour.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.01,

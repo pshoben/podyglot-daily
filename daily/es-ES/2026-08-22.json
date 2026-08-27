@@ -7,8 +7,8 @@
   {
    "id": "es-ES-El informativo de la mañana, sábado 22 de agosto",
    "file": "podcast-daily-2026-08-22-morning-news-es-ES.json",
-   "bytes": 9720,
-   "sha256": "8cec3dbcec1aac21bbdb4f82d21db822010ae94c7882568a7832cc90f05871f9",
+   "bytes": 9676,
+   "sha256": "2fcc813f08b4195ebcc94524a38505148edef341b03f0de8db8b59b2e3a99e94",
    "date": "2026-08-22",
    "edition": "morning",
    "programme": "news",
@@ -104,7 +104,7 @@
    ]
   }
  ],
- "content": "1db4806e2da3bf6f96aa9ed640f82c724908e4da723b7b2ce1d45572fb3b648c",
- "rev": 1,
- "updated": "2026-08-22T08:28:55.292Z"
+ "content": "43bff4f12afbb7f8923b46b145cecf217baae3d05ff172b71751d591c25e2cbe",
+ "rev": 3,
+ "updated": "2026-08-27T07:25:58.187Z"
 }

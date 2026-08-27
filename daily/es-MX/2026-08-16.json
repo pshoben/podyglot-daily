@@ -26,8 +26,8 @@
   {
    "id": "es-MX-El noticiario vespertino, domingo 16 de agosto",
    "file": "podcast-daily-2026-08-16-news-es-MX.json",
-   "bytes": 12305,
-   "sha256": "4e9c156997470c4f7ee532a60e92d95a148eb2f75d91d1d049053257263902a9",
+   "bytes": 12299,
+   "sha256": "2ef78ee31fcf82471084dd56c750020544d7f1f17456f28def5b3b47732b6f49",
    "date": "2026-08-16",
    "edition": "legacy",
    "programme": "news",
@@ -64,7 +64,7 @@
    ]
   }
  ],
- "content": "ece45928d2f879479dbc89f1dbc84af5f425bc4e96a39b02f7c56ccff82dfdbc",
- "rev": 1,
- "updated": "2026-08-20T07:49:48.488Z"
+ "content": "0a41818c91307913ab0b32b99b5b43aa8d1815476ae14346e5d16ad7f8359d55",
+ "rev": 2,
+ "updated": "2026-08-27T07:22:03.159Z"
 }

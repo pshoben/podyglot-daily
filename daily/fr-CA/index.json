@@ -7,8 +7,8 @@
   {
    "id": "fr-CA-Le bulletin du matin, mercredi 26 août",
    "file": "podcast-daily-2026-08-26-morning-news-fr-CA.json",
-   "bytes": 8677,
-   "sha256": "8b17fa1d7e7809106c24117580cacc4366e4fb6ea044e0a1c70a4e6e80e31365",
+   "bytes": 8665,
+   "sha256": "7a2f85a46f807268817e685f9ecd825340d940031b04abd2ead0717bb933845e",
    "date": "2026-08-26",
    "edition": "morning",
    "programme": "news",
@@ -48,8 +48,8 @@
   {
    "id": "fr-CA-Le bulletin du matin, mardi 25 août",
    "file": "podcast-daily-2026-08-25-morning-news-fr-CA.json",
-   "bytes": 11550,
-   "sha256": "9905dd844bda6458a587cb1825eb638d2cb54ff28054dcce48ccd47c4ec59bc2",
+   "bytes": 11546,
+   "sha256": "16990478a345bcb3c16ec9ab5df04ba8ba147d43cdc539dff87984e427159e1d",
    "date": "2026-08-25",
    "edition": "morning",
    "programme": "news",
@@ -90,7 +90,7 @@
    "id": "fr-CA-Le bulletin du matin, dimanche 23 août",
    "file": "podcast-daily-2026-08-23-morning-news-fr-CA.json",
    "bytes": 9411,
-   "sha256": "62f74071b40d9b8e5288c558a36ab6a3d2fdfb6cce9d01a12432b3c12b425f7b",
+   "sha256": "7d2dc3d24fb48cfcfef4af8d444d3d2c1eb6680889c4fe4bcf9c8641f0a277ec",
    "date": "2026-08-23",
    "edition": "morning",
    "programme": "news",
@@ -103,8 +103,8 @@
    "headline_en": "Zelensky rejects wartime elections, calling a vote a tsunami that would fracture Ukraine",
    "summary_en": [
     "Zelensky rejects wartime elections, calling a vote a tsunami that would fracture Ukraine",
-    "Three Palestinians killed by Israeli strikes in central Gaza, the civil defence says",
-    "Iran's president acknowledges the country is going through many difficulties"
+    "Washington warns Canada a trade conflict would be devastating after Carney's counter-tariffs",
+    "Three Palestinians killed by Israeli strikes in central Gaza, the civil defence says"
    ]
   },
   {
@@ -130,8 +130,8 @@
   {
    "id": "fr-CA-Le bulletin du matin, samedi 22 août",
    "file": "podcast-daily-2026-08-22-morning-news-fr-CA.json",
-   "bytes": 13318,
-   "sha256": "bfb4e893c56a94c567689da55f21deb068336213bb8645f6ba12e69b2c784025",
+   "bytes": 13286,
+   "sha256": "8959b257e31cb35f79357e17644883e9b1fb97d082a98d6ed91de2ddf083d18c",
    "date": "2026-08-22",
    "edition": "morning",
    "programme": "news",
@@ -517,8 +517,8 @@
   {
    "id": "fr-CA-Le bulletin du soir, dimanche 16 août",
    "file": "podcast-daily-2026-08-16-news-fr-CA.json",
-   "bytes": 12477,
-   "sha256": "48f963c3c1207b8587a6b1ba212345c27d4aa34a1a3fb513d8966c088bb81a3b",
+   "bytes": 12469,
+   "sha256": "cd9e7bea91cc1ce191637eef6017cc8538497776263ecc510451078616e735b4",
    "date": "2026-08-16",
    "edition": "legacy",
    "programme": "news",

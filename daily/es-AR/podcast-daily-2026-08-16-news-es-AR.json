@@ -57,7 +57,7 @@
   {
    "speaker": "SPK1",
    "text": "Comenzamos con Ucrania, que lanzó uno de sus mayores ataques aéreos sobre Rusia desde el",
-   "en": "We begin with «Ucrania», which launched one of its largest air attacks on Russia",
+   "en": "We begin with Ukraine, which launched one of its largest air attacks on Russia",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.02,
@@ -77,7 +77,7 @@
   {
    "speaker": "SPK1",
    "text": "La ofensiva de largo alcance alcanzó la región de Moscú y otros puntos del país.",
-   "en": "The long-range offensive reached the «Moscú» region and other points in the country.",
+   "en": "The long-range offensive reached the Moscow region and other points in the country.",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.98,
@@ -97,7 +97,7 @@
   {
    "speaker": "SPK1",
    "text": "Murió un hombre de ochenta y tres años en Moscú y otras cinco personas en Rostov.",
-   "en": "An eighty-three-year-old man died in «Moscú» and five other people in «Rostov».",
+   "en": "An eighty-three-year-old man died in Moscow and five other people in «Rostov».",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.99,
@@ -127,7 +127,7 @@
   {
    "speaker": "SPK1",
    "text": "Bélgica combate un gran incendio forestal que avanza hacia la frontera con Alemania.",
-   "en": "«Bélgica» is fighting a large forest fire that is advancing towards the German border.",
+   "en": "Belgium is fighting a large forest fire that is advancing towards the German border.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.02,

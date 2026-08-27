@@ -7,8 +7,8 @@
   {
    "id": "fr-BE-Le sept heures, lundi 17 août",
    "file": "podcast-daily-2026-08-17-morning-news-fr-BE.json",
-   "bytes": 12629,
-   "sha256": "e96b4372e43ddd1e41637fba368584f03ab99c3e5d9fdef950473df5119cc128",
+   "bytes": 12621,
+   "sha256": "cf21bb23164277861b4d52d71303b5734f660c74d57f33ca465545e8a72d866b",
    "date": "2026-08-17",
    "edition": "morning",
    "programme": "news",
@@ -68,8 +68,8 @@
   {
    "id": "fr-BE-Le dix-huit heures, lundi 17 août",
    "file": "podcast-daily-2026-08-17-evening-news-fr-BE.json",
-   "bytes": 11520,
-   "sha256": "7b5d4e32d3c62a294434ccefaab3b267daca001eb6ea4dd2f7e93c4f1847e712",
+   "bytes": 11516,
+   "sha256": "810269f0f555086799be5fbe70147efbc42dbd5bf8f7d20db09b68f20761ea7f",
    "date": "2026-08-17",
    "edition": "evening",
    "programme": "news",
@@ -89,8 +89,8 @@
   {
    "id": "fr-BE-Le temps chez nous, lundi 17 août",
    "file": "podcast-daily-2026-08-17-evening-weather-fr-BE.json",
-   "bytes": 6658,
-   "sha256": "e5d24a6089b274f59010a2ffc5be986d3079cac1a88976fe5bd2c0b29c37bc54",
+   "bytes": 6648,
+   "sha256": "67dfeaa1219b8eff3a1b3490766da58c4d37393e0e8c9332f6221933891a49a0",
    "date": "2026-08-17",
    "edition": "evening",
    "programme": "weather",
@@ -126,7 +126,7 @@
    ]
   }
  ],
- "content": "f94c9379d0ba7c9c5f0054d2e410ae108bdd98c43c2cdfded33497113e179d50",
- "rev": 1,
- "updated": "2026-08-20T07:49:48.488Z"
+ "content": "d0efbf3742f9fab21656af7c25994449d3df80872d4661388891bbdb7ca8b24a",
+ "rev": 2,
+ "updated": "2026-08-27T07:22:03.159Z"
 }

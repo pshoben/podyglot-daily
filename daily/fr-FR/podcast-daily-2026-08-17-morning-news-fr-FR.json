@@ -47,7 +47,7 @@
   {
    "speaker": "SPK1",
    "text": "En France, Sébastien Lecornu a chiffré en Gironde une aide qui pourrait dépasser",
-   "en": "In «France», «Sébastien Lecornu» has put a figure on the aid in «la Gironde», which could go beyond",
+   "en": "In France, «Sébastien Lecornu» has put a figure on the aid in «la Gironde», which could go beyond",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.0,
@@ -157,7 +157,7 @@
   {
    "speaker": "SPK1",
    "text": "En France maintenant. Le Premier ministre s'est déplacé lundi en Gironde, accompagné de plusieurs ministres.",
-   "en": "In «France» now. The prime minister travelled to «la Gironde» on Monday, with several ministers.",
+   "en": "In France now. The prime minister travelled to «la Gironde» on Monday, with several ministers.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.0,
@@ -287,7 +287,7 @@
   {
    "speaker": "SPK1",
    "text": "C'est, selon France 24, l'incendie le plus destructeur qu'ait connu la France depuis mille",
-   "en": "It is, according to «France 24», the most destructive fire «France» has known since",
+   "en": "It is, according to «France 24», the most destructive fire France has known since",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.98,

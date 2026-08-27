@@ -108,8 +108,8 @@
   {
    "id": "es-ES-El informativo de la tarde, lunes 17 de agosto",
    "file": "podcast-daily-2026-08-17-evening-news-es-ES.json",
-   "bytes": 12303,
-   "sha256": "219089b17dbcb81cd1027532b633591581c8c23619f081626bf285c67b05f429",
+   "bytes": 12243,
+   "sha256": "19ac4a29c7f3c0bfed3e52be7c63e953cfec543f92c0ab3735d24b3a9df35dca",
    "date": "2026-08-17",
    "edition": "evening",
    "programme": "news",
@@ -207,7 +207,7 @@
    ]
   }
  ],
- "content": "3833f6785d373746969c37430423ddc9a965d7483094e08b892ec35aef66799f",
- "rev": 1,
- "updated": "2026-08-20T07:49:48.488Z"
+ "content": "3f1d74fa41485160684a702389d5bc1878ae582f0b2e08f78a9a6e6ed03f2731",
+ "rev": 2,
+ "updated": "2026-08-27T07:22:03.159Z"
 }

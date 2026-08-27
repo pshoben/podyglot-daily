@@ -1,0 +1,249 @@
+{
+ "title": "La météo, jeudi 27 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-27",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le temps qu'il fera aujourd'hui.",
+   "en": "The weather for today.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Après les orages de la nuit,",
+   "en": "After the storms in the night,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la vigilance orange avait été levée sur l'ensemble du pays ce matin.",
+   "en": "the orange alert had been lifted across the country this morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Une nouvelle dégradation orageuse est attendue dans l'après-midi.",
+   "en": "A fresh spell of storms is expected in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Vingt-trois départements repassent en vigilance orange aux orages à partir de seize heures, selon Météo-France.",
+   "en": "Twenty-three departments go back on orange alert for thunderstorms from four in the afternoon, according to «Météo-France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le service national attend un fort épisode orageux,",
+   "en": "The national service expects a heavy spell of storms,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un risque marqué de phénomènes violents.",
+   "en": "with a marked risk of violent weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De la grêle et des tourbillons sont possibles sur le secteur Auvergne, Bourgogne et Vosges.",
+   "en": "Hail and whirlwinds are possible over «Auvergne», «Bourgogne» and the «Vosges».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les Pays de la Loire,",
+   "en": "The «Pays de la Loire»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la Normandie et les Hauts-de-France sont aussi concernés.",
+   "en": "«Normandie» and the «Hauts-de-France» are affected too.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Paris, selon les modèles de Météo-France,",
+   "en": "In «Paris», according to the «Météo-France» models,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "des averses et un maximum de vingt-huit degrés.",
+   "en": "showers and a high of twenty-eight degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La capitale redescend à vingt degrés,",
+   "en": "The capital drops back to twenty degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un vent maximal de dix-sept kilomètres par heure.",
+   "en": "with a top wind speed of seventeen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Bordeaux passe la journée sous la bruine,",
+   "en": "«Bordeaux» spends the day in drizzle,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "entre vingt et vingt-huit degrés.",
+   "en": "between twenty and twenty-eight degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y plafonne à onze kilomètres par heure.",
+   "en": "The wind there tops out at eleven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Marseille garde un ciel couvert,",
+   "en": "«Marseille» keeps an overcast sky,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un maximum de trente-deux degrés.",
+   "en": "with a high of thirty-two degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le minimum y est de vingt-sept degrés,",
+   "en": "The low there is twenty-seven degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent monte à vingt-six kilomètres par heure.",
+   "en": "and the wind climbs to twenty-six kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Thursday 27 August",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Alerts lifted this morning before a fresh deterioration this afternoon",
+ "summary_en": [
+  "Alerts lifted this morning before a fresh deterioration this afternoon",
+  "Twenty-three departments on orange alert for storms this afternoon"
+ ]
+}

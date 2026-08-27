@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-FR",
+ "date": "2026-08-27",
+ "episodes": [
+  {
+   "id": "fr-FR-Le journal du matin, jeudi 27 août",
+   "file": "podcast-daily-2026-08-27-morning-news-fr-FR.json",
+   "bytes": 9025,
+   "sha256": "d093ca741a83532aecb8f6935ff5b656b615428dd2146a5a16a11d838a5d1f35",
+   "date": "2026-08-27",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, jeudi 27 août",
+   "title_en": "The morning news, Thursday 27 August",
+   "headline_en": "Floods on the Nepal to Tibet border bury villages and roads",
+   "summary_en": [
+    "Floods on the Nepal to Tibet border bury villages and roads",
+    "A car is driven into a group of people in Caen",
+    "Seven presidential candidates debate before the employers' federation"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, jeudi 27 août",
+   "file": "podcast-daily-2026-08-27-morning-weather-fr-FR.json",
+   "bytes": 5917,
+   "sha256": "55629c63df8cf16cd48adcb6a33f4b1ba117dc10284d523838485f384a0a5180",
+   "date": "2026-08-27",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, jeudi 27 août",
+   "title_en": "Today's weather, Thursday 27 August",
+   "headline_en": "Alerts lifted this morning before a fresh deterioration this afternoon",
+   "summary_en": [
+    "Alerts lifted this morning before a fresh deterioration this afternoon",
+    "Twenty-three departments on orange alert for storms this afternoon"
+   ]
+  }
+ ],
+ "content": "a106fdcb07b3bf3176daa4e83a41bb9ff86bac6051691dc217b549a80baa23a7",
+ "rev": 1,
+ "updated": "2026-08-27T07:22:03.159Z"
+}

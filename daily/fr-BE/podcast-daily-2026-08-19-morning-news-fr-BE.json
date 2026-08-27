@@ -17,7 +17,7 @@
   {
    "speaker": "SPK1",
    "text": "Mercredi dix-neuf août, à Bruxelles. Le sept heures.",
-   "en": "Wednesday the nineteenth of August, in «Bruxelles». The seven o'clock news.",
+   "en": "Wednesday the nineteenth of August, in Brussels. The seven o'clock news.",
    "prosody": {
     "pause_ms": 240,
     "rate": 1.01,
@@ -47,7 +47,7 @@
   {
    "speaker": "SPK1",
    "text": "Et la coopération civile de la Belgique avec l'Ukraine s'intensifie.",
-   "en": "And Belgium's civil cooperation with «Ukraine» is intensifying.",
+   "en": "And Belgium's civil cooperation with Ukraine is intensifying.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.02,
@@ -227,7 +227,7 @@
   {
    "speaker": "SPK1",
    "text": "À Bruxelles maintenant, avec un fait divers.",
-   "en": "Now to «Bruxelles», with a news item in brief.",
+   "en": "Now to Brussels, with a news item in brief.",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.98,
@@ -267,7 +267,7 @@
   {
    "speaker": "SPK1",
    "text": "C'est le porte-parole des pompiers de Bruxelles, Walter Derieuw,",
-   "en": "It was the spokesman for the «Bruxelles» fire service, «Walter Derieuw»,",
+   "en": "It was the spokesman for the Brussels fire service, «Walter Derieuw»,",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.0,
@@ -307,7 +307,7 @@
   {
    "speaker": "SPK1",
    "text": "La coopération civile de la Belgique avec l'Ukraine prend forme.",
-   "en": "Belgium's civil cooperation with «Ukraine» is taking shape.",
+   "en": "Belgium's civil cooperation with Ukraine is taking shape.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.0,
@@ -377,7 +377,7 @@
   {
    "speaker": "SPK1",
    "text": "est arrivé mardi matin en Ukraine.",
-   "en": "arrived in «Ukraine» on Tuesday morning.",
+   "en": "arrived in Ukraine on Tuesday morning.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.04,

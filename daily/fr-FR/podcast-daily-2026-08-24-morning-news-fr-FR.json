@@ -27,7 +27,7 @@
   {
    "speaker": "SPK1",
    "text": "Les soutiens européens de l'Ukraine se retrouvent aujourd'hui à Kyiv.",
-   "en": "«Ukraine»'s European backers are meeting in «Kyiv» today.",
+   "en": "Ukraine's European backers are meeting in «Kyiv» today.",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.99,
@@ -57,7 +57,7 @@
   {
    "speaker": "SPK1",
    "text": "On commence par l'Ukraine.",
-   "en": "We start in «Ukraine».",
+   "en": "We start in Ukraine.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.07,
@@ -107,7 +107,7 @@
   {
    "speaker": "SPK1",
    "text": "L'Ukraine espère obtenir de nouveaux équipements de défense antiaérienne.",
-   "en": "«Ukraine» is hoping to obtain new air defence equipment.",
+   "en": "Ukraine is hoping to obtain new air defence equipment.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.0,
@@ -117,7 +117,7 @@
   {
    "speaker": "SPK1",
    "text": "Elle attend aussi une pression accrue sur Moscou.",
-   "en": "It also wants more pressure on «Moscow».",
+   "en": "It also wants more pressure on Moscow.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.02,
@@ -507,7 +507,7 @@
   {
    "speaker": "SPK1",
    "text": "La sécheresse sévit depuis plusieurs mois en France,",
-   "en": "The drought has been biting for several months in «France»,",
+   "en": "The drought has been biting for several months in France,",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.0,

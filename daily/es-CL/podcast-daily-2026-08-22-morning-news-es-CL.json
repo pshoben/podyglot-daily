@@ -127,7 +127,7 @@
   {
    "speaker": "SPK1",
    "text": "Según Ex-Ante, la postulación arrastraba desde el comienzo los reparos de la administración estadounidense.",
-   "en": "According to «Ex-Ante», the bid carried the «United States» administration's objections from the outset.",
+   "en": "According to «Ex-Ante», the bid carried the United States administration's objections from the outset.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.01,
@@ -137,7 +137,7 @@
   {
    "speaker": "SPK1",
    "text": "La expresidenta definirá con Brasil y México hasta dónde llega con su candidatura.",
-   "en": "The former president will decide with «Brazil» and «México» how far to take her candidacy.",
+   "en": "The former president will decide with Brazil and «México» how far to take her candidacy.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.0,
@@ -197,7 +197,7 @@
   {
    "speaker": "SPK1",
    "text": "Terminamos en China.",
-   "en": "We finish in «China».",
+   "en": "We finish in China.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.07,
@@ -247,7 +247,7 @@
   {
    "speaker": "SPK1",
    "text": "que concentra cerca de la mitad de los envíos chilenos a China.",
-   "en": "which handles close to half of «Chile»'s shipments to «China».",
+   "en": "which handles close to half of «Chile»'s shipments to China.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.1,
@@ -257,7 +257,7 @@
   {
    "speaker": "SPK1",
    "text": "El canciller destacó la relación comercial con China,",
-   "en": "The minister highlighted the trading relationship with «China»,",
+   "en": "The minister highlighted the trading relationship with China,",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.01,

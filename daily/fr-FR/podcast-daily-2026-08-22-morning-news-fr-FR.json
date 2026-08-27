@@ -27,7 +27,7 @@
   {
    "speaker": "SPK1",
    "text": "Au moins seize personnes meurent dans une frappe russe sur un centre commercial en Ukraine.",
-   "en": "At least sixteen people die in a Russian strike on a shopping centre in «Ukraine».",
+   "en": "At least sixteen people die in a Russian strike on a shopping centre in Ukraine.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.01,
@@ -57,7 +57,7 @@
   {
    "speaker": "SPK1",
    "text": "On commence par l'étranger, en Ukraine.",
-   "en": "We start abroad, in «Ukraine».",
+   "en": "We start abroad, in Ukraine.",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.99,
@@ -207,7 +207,7 @@
   {
    "speaker": "SPK1",
    "text": "En France, place à la rentrée politique.",
-   "en": "In «France», on to the political new season.",
+   "en": "In France, on to the political new season.",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.98,
@@ -524,7 +524,7 @@
  "headline_en": "A Russian drone strike on a shopping centre in Kryvyi Rih killed at least sixteen people and injured around a hundred and thirty",
  "summary_en": [
   "A Russian drone strike on a shopping centre in Kryvyi Rih killed at least sixteen people and injured around a hundred and thirty",
-  "New American tariffs of fifty per cent on a range of Canadian products came into force on Saturday after no deal was reached",
-  "The Greens hold their summer conference in Grenoble and La France insoumise its summer school, opening the political new season"
+  "The Greens hold their summer conference in Grenoble and La France insoumise its summer school, opening the political new season",
+  "New American tariffs of fifty per cent on a range of Canadian products came into force on Saturday after no deal was reached"
  ]
 }

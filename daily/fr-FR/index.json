@@ -5,10 +5,51 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-FR-Le journal du matin, jeudi 27 août",
+   "file": "podcast-daily-2026-08-27-morning-news-fr-FR.json",
+   "bytes": 9025,
+   "sha256": "d093ca741a83532aecb8f6935ff5b656b615428dd2146a5a16a11d838a5d1f35",
+   "date": "2026-08-27",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, jeudi 27 août",
+   "title_en": "The morning news, Thursday 27 August",
+   "headline_en": "Floods on the Nepal to Tibet border bury villages and roads",
+   "summary_en": [
+    "Floods on the Nepal to Tibet border bury villages and roads",
+    "A car is driven into a group of people in Caen",
+    "Seven presidential candidates debate before the employers' federation"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, jeudi 27 août",
+   "file": "podcast-daily-2026-08-27-morning-weather-fr-FR.json",
+   "bytes": 5917,
+   "sha256": "55629c63df8cf16cd48adcb6a33f4b1ba117dc10284d523838485f384a0a5180",
+   "date": "2026-08-27",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, jeudi 27 août",
+   "title_en": "Today's weather, Thursday 27 August",
+   "headline_en": "Alerts lifted this morning before a fresh deterioration this afternoon",
+   "summary_en": [
+    "Alerts lifted this morning before a fresh deterioration this afternoon",
+    "Twenty-three departments on orange alert for storms this afternoon"
+   ]
+  },
+  {
    "id": "fr-FR-Le journal du matin, mercredi 26 août",
    "file": "podcast-daily-2026-08-26-morning-news-fr-FR.json",
-   "bytes": 10508,
-   "sha256": "a59e97ca1cb90ea0ac8382873310b4b77d6d00717d793056e89e8d5084760bbf",
+   "bytes": 10504,
+   "sha256": "ebce3bff645dd425ceb48fed39ef5cd0516eeb72421c4983062e46ca4c13c4fe",
    "date": "2026-08-26",
    "edition": "morning",
    "programme": "news",
@@ -28,8 +69,8 @@
   {
    "id": "fr-FR-Le sport, mercredi 26 août",
    "file": "podcast-daily-2026-08-26-morning-sport-fr-FR.json",
-   "bytes": 5763,
-   "sha256": "0cf09e336b4bd3665437a584281c8c148b9296b24cd7b1fe735999face6da00c",
+   "bytes": 5759,
+   "sha256": "035a7acef60ee2fd16194d12673c20ca60c3b9facf30b9b3cbcf82e97992a4fd",
    "date": "2026-08-26",
    "edition": "morning",
    "programme": "sport",
@@ -68,8 +109,8 @@
   {
    "id": "fr-FR-Le journal du matin, mardi 25 août",
    "file": "podcast-daily-2026-08-25-morning-news-fr-FR.json",
-   "bytes": 12909,
-   "sha256": "469a04b869ea314669c22e720d909fc2779e49696b09b6583634b2d2da7c83a7",
+   "bytes": 12897,
+   "sha256": "0072501a1d48e5196e62a62ebe0ac0da68e4ffceb3953d8ae5a7f4328d99da97",
    "date": "2026-08-25",
    "edition": "morning",
    "programme": "news",
@@ -129,8 +170,8 @@
   {
    "id": "fr-FR-Le journal du matin, lundi 24 août",
    "file": "podcast-daily-2026-08-24-morning-news-fr-FR.json",
-   "bytes": 14827,
-   "sha256": "e9a0cee59e1531c29c4766c14fbdf4b105c64a79756b5a8e331f61afb146158a",
+   "bytes": 14807,
+   "sha256": "557bdcaadb88849f7d01d7b416ce613d473506caec331da7dc570546946c02c3",
    "date": "2026-08-24",
    "edition": "morning",
    "programme": "news",
@@ -170,8 +211,8 @@
   {
    "id": "fr-FR-Le journal du matin, dimanche 23 août",
    "file": "podcast-daily-2026-08-23-morning-news-fr-FR.json",
-   "bytes": 11952,
-   "sha256": "0b0e8af1bbc098fdc520c305d77210cb0b7987f27c0bed252091b62c3f696e58",
+   "bytes": 11925,
+   "sha256": "388322b1a3906776c3d0a36b1c9bb699c3fa43588d9dc45027ebfd0542acdb56",
    "date": "2026-08-23",
    "edition": "morning",
    "programme": "news",
@@ -184,15 +225,15 @@
    "headline_en": "Zelensky says wartime elections would be a huge risk and would fracture Ukraine",
    "summary_en": [
     "Zelensky says wartime elections would be a huge risk and would fracture Ukraine",
-    "Canada answers new American tariffs with its own on steel and dairy from 8th September",
-    "301 drowning deaths in France since 19th June, up 14 per cent on last year"
+    "301 drowning deaths in France since 19th June, up 14 per cent on last year",
+    "Melenchon promises to censure the 2027 budget as the political new season opens"
    ]
   },
   {
    "id": "fr-FR-Le sport, dimanche 23 août",
    "file": "podcast-daily-2026-08-23-morning-sport-fr-FR.json",
-   "bytes": 4551,
-   "sha256": "094bc1331bb67a85699e0c7e1d1104cf88972f9d9e6e1e101e9ec394e8353982",
+   "bytes": 4543,
+   "sha256": "b21afcf36203810712ef6b84defe3824c76c20a3490d54615ee1aedc64ea4be5",
    "date": "2026-08-23",
    "edition": "morning",
    "programme": "sport",
@@ -231,8 +272,8 @@
   {
    "id": "fr-FR-Le journal du matin, samedi 22 août",
    "file": "podcast-daily-2026-08-22-morning-news-fr-FR.json",
-   "bytes": 13644,
-   "sha256": "b2e2f856a4a7ffda89ede398c2270a66c0b2a2c915c14816db0d93d60886c9df",
+   "bytes": 13632,
+   "sha256": "da1af84a23c89c2f973f6d257ad9ea8810ebeff2fa9a454176dc7c9937a23a46",
    "date": "2026-08-22",
    "edition": "morning",
    "programme": "news",
@@ -245,8 +286,8 @@
    "headline_en": "A Russian drone strike on a shopping centre in Kryvyi Rih killed at least sixteen people and injured around a hundred and thirty",
    "summary_en": [
     "A Russian drone strike on a shopping centre in Kryvyi Rih killed at least sixteen people and injured around a hundred and thirty",
-    "New American tariffs of fifty per cent on a range of Canadian products came into force on Saturday after no deal was reached",
-    "The Greens hold their summer conference in Grenoble and La France insoumise its summer school, opening the political new season"
+    "The Greens hold their summer conference in Grenoble and La France insoumise its summer school, opening the political new season",
+    "New American tariffs of fifty per cent on a range of Canadian products came into force on Saturday after no deal was reached"
    ]
   },
   {
@@ -291,8 +332,8 @@
   {
    "id": "fr-FR-Le journal du matin, vendredi 21 août",
    "file": "podcast-daily-2026-08-21-morning-news-fr-FR.json",
-   "bytes": 9734,
-   "sha256": "6d3565f3aabb6f93fb4134e0a95036aa7079890ffce83470a92be8c49d24b30f",
+   "bytes": 9726,
+   "sha256": "9ef1203b19254fe9e916afb1d2fff43119d532015e65e5473841a871ffc180ac",
    "date": "2026-08-21",
    "edition": "morning",
    "programme": "news",
@@ -332,8 +373,8 @@
   {
    "id": "fr-FR-La météo, vendredi 21 août",
    "file": "podcast-daily-2026-08-21-morning-weather-fr-FR.json",
-   "bytes": 5311,
-   "sha256": "deb507f11d5a0ab55c3416d123c44384b25c0797aa0999ea7781128a477fc18f",
+   "bytes": 5404,
+   "sha256": "fa6e38b3a9f2a5befdf17d7f32ace56a683d1c207c36c318171e9946e5af7d64",
    "date": "2026-08-21",
    "edition": "morning",
    "programme": "weather",
@@ -343,17 +384,17 @@
    "region_label": "France",
    "title": "La météo, vendredi 21 août",
    "title_en": "Today's weather, Friday 21 August",
-   "headline_en": "Prévision pour Paris, vendredi 2026-08-21",
+   "headline_en": "The Var and the Alpes-Maritimes remain on orange alert for storms and for rain and floodin",
    "summary_en": [
-    "Prévision pour Paris, vendredi 2026-08-21",
-    "Prévision pour Bordeaux, vendredi 2026-08-21"
+    "The Var and the Alpes-Maritimes remain on orange alert for storms and for rain and floodin",
+    "Prévision pour Paris, vendredi 2026-08-21"
    ]
   },
   {
    "id": "fr-FR-Le journal du matin, jeudi 20 août",
    "file": "podcast-daily-2026-08-20-morning-news-fr-FR.json",
-   "bytes": 13380,
-   "sha256": "582aa3a476402cc911796563fcd1818af8cc1a8bdddd69b044a5815e15091fe8",
+   "bytes": 13372,
+   "sha256": "e6d06989b175378f02d2a9aa2029f0d730354ef2aac9741227f6105baf12de0b",
    "date": "2026-08-20",
    "edition": "morning",
    "programme": "news",
@@ -373,8 +414,8 @@
   {
    "id": "fr-FR-Le sport, jeudi 20 août",
    "file": "podcast-daily-2026-08-20-morning-sport-fr-FR.json",
-   "bytes": 7340,
-   "sha256": "b3c17bcc99e3f49e255de5f4f9d792a9e1becf8d60574baa98df199209edc095",
+   "bytes": 7328,
+   "sha256": "c91c8b248aa2d63410ca22de7be010af87e1a1bc37a8bdecdfde7879edbdd602",
    "date": "2026-08-20",
    "edition": "morning",
    "programme": "sport",
@@ -413,8 +454,8 @@
   {
    "id": "fr-FR-Le journal du matin, mercredi 19 août",
    "file": "podcast-daily-2026-08-19-morning-news-fr-FR.json",
-   "bytes": 15405,
-   "sha256": "a88018b89672963ba6f41736fc7c2a1c1b250d516fe8d42a0c8d1be03775c0a9",
+   "bytes": 15397,
+   "sha256": "ac02216d8536fbce3b8e39a684ef1bd1510354fa0a9d241aabce053e50a015d6",
    "date": "2026-08-19",
    "edition": "morning",
    "programme": "news",
@@ -434,8 +475,8 @@
   {
    "id": "fr-FR-Le sport, mercredi 19 août",
    "file": "podcast-daily-2026-08-19-morning-sport-fr-FR.json",
-   "bytes": 5977,
-   "sha256": "dc8756074adaa16d3b91a29f8d33bcacbfe559ac31f034706df2a3fa3ed80f4a",
+   "bytes": 5969,
+   "sha256": "33ff63d8a5f1c2c9087bfa546cd7b87e00193896631aa91a52c3deeef4b79085",
    "date": "2026-08-19",
    "edition": "morning",
    "programme": "sport",
@@ -555,8 +596,8 @@
   {
    "id": "fr-FR-Le journal du matin, lundi 17 août",
    "file": "podcast-daily-2026-08-17-morning-news-fr-FR.json",
-   "bytes": 16095,
-   "sha256": "21cf704a68c7ee7f25df84ede6e1e839116a91cee2eed4af97c9a8af561faf12",
+   "bytes": 16083,
+   "sha256": "6cc4c1bc0e93cd8835822e38b980f8182a08a153dff4434ce68b5cb83982f438",
    "date": "2026-08-17",
    "edition": "morning",
    "programme": "news",
@@ -596,8 +637,8 @@
   {
    "id": "fr-FR-Le journal du soir, lundi 17 août",
    "file": "podcast-daily-2026-08-17-evening-news-fr-FR.json",
-   "bytes": 12529,
-   "sha256": "0facd5c585c808fd75fbb1277b0c10ea3a7b4f85fb68fa141f34e38912db1a3c",
+   "bytes": 12517,
+   "sha256": "5f34a8f970937ab5466ca23315dee64d8c54b37d21d896e5093ea9865dd662b6",
    "date": "2026-08-17",
    "edition": "evening",
    "programme": "news",
@@ -637,8 +678,8 @@
   {
    "id": "fr-FR-Les résultats, lundi 17 août",
    "file": "podcast-daily-2026-08-17-evening-results-fr-FR.json",
-   "bytes": 5152,
-   "sha256": "5198f0f767f1f29e789e24a2af6527ffc95388a9eb55bb97cdd62f467402712a",
+   "bytes": 5148,
+   "sha256": "b7ac39556abb0ce7db4db56a20ecdb8a674c92ce7e2af0f9f02db50561461849",
    "date": "2026-08-17",
    "edition": "evening",
    "programme": "results",
@@ -657,8 +698,8 @@
   {
    "id": "fr-FR-Le journal du soir, dimanche 16 août",
    "file": "podcast-daily-2026-08-16-news-fr-FR.json",
-   "bytes": 12462,
-   "sha256": "7e9f43737ae5a1f9d2c1ec9fc46ace97f8aec07177d5a05a3924991766521eba",
+   "bytes": 12450,
+   "sha256": "4aa91583f377778ad1498b29fa980f8cef849b1c2c1bbf80ec7f590ddf6b4b18",
    "date": "2026-08-16",
    "edition": "legacy",
    "programme": "news",
@@ -718,8 +759,8 @@
   {
    "id": "fr-FR-La météo, dimanche 16 août",
    "file": "podcast-daily-2026-08-16-weather-fr-FR.json",
-   "bytes": 6127,
-   "sha256": "7b166c9250aa2f7e656ecc1efa59e422860626763c8084b6e213a62dc5170b35",
+   "bytes": 6122,
+   "sha256": "eb879186f151fd3670e459e3943cab87a43fc476d4a80ac6672fbb68b0e2e1ad",
    "date": "2026-08-16",
    "edition": "legacy",
    "programme": "weather",

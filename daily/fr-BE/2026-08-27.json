@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-BE",
+ "date": "2026-08-27",
+ "episodes": [
+  {
+   "id": "fr-BE-Le sept heures, jeudi 27 août",
+   "file": "podcast-daily-2026-08-27-morning-news-fr-BE.json",
+   "bytes": 9538,
+   "sha256": "e1f05115e1abd1d91f92fa50f333dc75f416aa6f1375739a88ba617b1f2cf818",
+   "date": "2026-08-27",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, jeudi 27 août",
+   "title_en": "The morning news, Thursday 27 August",
+   "headline_en": "Mudslides devastate valleys on the Nepal to Tibet border",
+   "summary_en": [
+    "Mudslides devastate valleys on the Nepal to Tibet border",
+    "Reinforcements announced against drug violence in Brussels",
+    "A Letec strike cuts buses in Liege, Verviers and Charleroi"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, jeudi 27 août",
+   "file": "podcast-daily-2026-08-27-morning-weather-fr-BE.json",
+   "bytes": 4853,
+   "sha256": "05c2b176dd97998d7f1ca2c0020c120280ed24e40aa83dacd12a0a66b683323e",
+   "date": "2026-08-27",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, jeudi 27 août",
+   "title_en": "Today's weather, Thursday 27 August",
+   "headline_en": "The IRM puts a yellow storm warning on Belgium from five this afternoon",
+   "summary_en": [
+    "The IRM puts a yellow storm warning on Belgium from five this afternoon",
+    "Prévision pour Bruxelles, jeudi 2026-08-27"
+   ]
+  }
+ ],
+ "content": "8ac2e6a11378f3967a27e3168ac47559670faec063b0577f3a71bf2717efccd9",
+ "rev": 1,
+ "updated": "2026-08-27T07:22:03.159Z"
+}

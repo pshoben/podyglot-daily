@@ -7,8 +7,8 @@
   {
    "id": "es-ES-El informativo de la mañana, miércoles 19 de agosto",
    "file": "podcast-daily-2026-08-19-morning-news-es-ES.json",
-   "bytes": 10877,
-   "sha256": "0df765443f936cec6f6e84245ff76dd527926a0e9f368a5bf35a5e0f11c47710",
+   "bytes": 10871,
+   "sha256": "3572931f5537be24891d2c202731cd89c2adc8630aff25d81d1f7cc9c53dc9d3",
    "date": "2026-08-19",
    "edition": "morning",
    "programme": "news",
@@ -146,7 +146,7 @@
    ]
   }
  ],
- "content": "6d3f8774248d984f3623e3e0ca023058df127ed5337f6fb6b7b36f0b3f21d2ad",
- "rev": 1,
- "updated": "2026-08-20T07:49:48.488Z"
+ "content": "d491299c44fb2820e69d802b0296c197da339fa8752578c770bb7417bf5a6d9e",
+ "rev": 2,
+ "updated": "2026-08-27T07:22:03.159Z"
 }

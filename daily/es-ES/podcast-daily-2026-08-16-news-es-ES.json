@@ -27,7 +27,7 @@
   {
    "speaker": "SPK1",
    "text": "En Ucrania, una de las mayores ofensivas aéreas",
-   "en": "In «Ucrania», one of the largest air offensives",
+   "en": "In Ukraine, one of the largest air offensives",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.01,
@@ -47,7 +47,7 @@
   {
    "speaker": "SPK1",
    "text": "Aquí en España, la ministra de Sanidad niega que haya un colapso sanitario en Ceuta.",
-   "en": "Here in «España», the health minister denies that there is a health-service collapse in «Ceuta».",
+   "en": "Here in Spain, the health minister denies that there is a health-service collapse in «Ceuta».",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.99,
@@ -77,7 +77,7 @@
   {
    "speaker": "SPK1",
    "text": "Ucrania lanzó una de sus mayores ofensivas aéreas",
-   "en": "«Ucrania» launched one of its largest air offensives",
+   "en": "Ukraine launched one of its largest air offensives",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.0,
@@ -97,7 +97,7 @@
   {
    "speaker": "SPK1",
    "text": "Se enviaron cerca de seiscientos drones sobre la región de Moscú.",
-   "en": "Around six hundred drones were sent over the «Moscú» region.",
+   "en": "Around six hundred drones were sent over the Moscow region.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.02,
@@ -107,7 +107,7 @@
   {
    "speaker": "SPK1",
    "text": "Es uno de los mayores ataques con drones contra Moscú en dos años.",
-   "en": "It is one of the biggest drone attacks on «Moscú» in two years.",
+   "en": "It is one of the biggest drone attacks on Moscow in two years.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.0,
@@ -157,7 +157,7 @@
   {
    "speaker": "SPK1",
    "text": "Aquí en España, la crisis migratoria en Ceuta.",
-   "en": "Here in «España», the migration crisis in «Ceuta».",
+   "en": "Here in Spain, the migration crisis in «Ceuta».",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.99,
@@ -327,7 +327,7 @@
   {
    "speaker": "SPK1",
    "text": "tras las cargas de las fuerzas de seguridad de Marruecos",
-   "en": "after the charges by «Marruecos» security forces",
+   "en": "after the charges by Morocco security forces",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.98,

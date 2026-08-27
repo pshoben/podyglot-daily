@@ -77,7 +77,7 @@
   {
    "speaker": "SPK1",
    "text": "À Bruxelles, maximale dix-huit degrés et minimale quatorze, avec de la bruine.",
-   "en": "In «Brussels», a maximum of eighteen degrees and a minimum of fourteen, with drizzle.",
+   "en": "In Brussels, a maximum of eighteen degrees and a minimum of fourteen, with drizzle.",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.98,
@@ -181,9 +181,9 @@
  "edition": "morning",
  "region": "fr-BE",
  "region_label": "Belgique",
- "headline_en": "Prévision pour Bruxelles, vendredi 2026-08-21",
+ "headline_en": "Showers will punctuate the day on Friday, drifting in from the coast and bringing one stor",
  "summary_en": [
-  "Prévision pour Bruxelles, vendredi 2026-08-21",
-  "Prévision pour Liège, vendredi 2026-08-21"
+  "Showers will punctuate the day on Friday, drifting in from the coast and bringing one stor",
+  "Prévision pour Bruxelles, vendredi 2026-08-21"
  ]
 }

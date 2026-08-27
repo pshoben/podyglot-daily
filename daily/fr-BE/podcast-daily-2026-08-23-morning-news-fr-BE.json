@@ -17,7 +17,7 @@
   {
    "speaker": "SPK1",
    "text": "Dimanche vingt-trois août à Bruxelles. Le sept heures.",
-   "en": "Sunday the twenty-third of August in «Brussels». The seven o'clock news.",
+   "en": "Sunday the twenty-third of August in Brussels. The seven o'clock news.",
    "prosody": {
     "pause_ms": 240,
     "rate": 1.02,
@@ -27,7 +27,7 @@
   {
    "speaker": "SPK1",
    "text": "Volodymyr Zelensky balaie l'idée d'élections en Ukraine tant que dure la guerre.",
-   "en": "«Volodymyr Zelensky» sweeps aside the idea of elections in «Ukraine» while the war lasts.",
+   "en": "«Volodymyr Zelensky» sweeps aside the idea of elections in Ukraine while the war lasts.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.01,
@@ -57,7 +57,7 @@
   {
    "speaker": "SPK1",
    "text": "On ouvre avec l'Ukraine.",
-   "en": "We open in «Ukraine».",
+   "en": "We open in Ukraine.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.06,
@@ -97,7 +97,7 @@
   {
    "speaker": "SPK1",
    "text": "un tsunami qui fracturerait l'Ukraine.",
-   "en": "would be a tsunami that would fracture «Ukraine».",
+   "en": "would be a tsunami that would fracture Ukraine.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.06,
@@ -177,7 +177,7 @@
   {
    "speaker": "SPK1",
    "text": "Ailleurs dans l'actu, les conducteurs étrangers verbalisés en Belgique",
-   "en": "In other news, foreign drivers fined in «Belgium»",
+   "en": "In other news, foreign drivers fined in Belgium",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.99,
@@ -304,7 +304,7 @@
  "headline_en": "Zelensky says wartime elections would endanger Ukraine and fracture the country",
  "summary_en": [
   "Zelensky says wartime elections would endanger Ukraine and fracture the country",
-  "At least 37 injured in a magnitude 5.9 earthquake near Tokyo",
-  "The Hautes Fagnes fire flared up again overnight, with smoke building"
+  "The Hautes Fagnes fire flared up again overnight, with smoke building",
+  "Only two thirds of foreign drivers fined in Belgium actually pay"
  ]
 }

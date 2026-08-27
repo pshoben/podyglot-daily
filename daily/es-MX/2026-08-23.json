@@ -7,8 +7,8 @@
   {
    "id": "es-MX-El noticiario matutino, domingo 23 de agosto",
    "file": "podcast-daily-2026-08-23-morning-news-es-MX.json",
-   "bytes": 8057,
-   "sha256": "914e8f90e7e97c1060672f1e87c2490fb40182138e0635d0c31a0b661e956b68",
+   "bytes": 8049,
+   "sha256": "fc7d7970c300230191abadd1df3c298cb73750ea21134953da6fcf2ded4fbf8f",
    "date": "2026-08-23",
    "edition": "morning",
    "programme": "news",
@@ -21,8 +21,8 @@
    "headline_en": "Carney says Canada is in a trade war with the United States",
    "summary_en": [
     "Carney says Canada is in a trade war with the United States",
-    "A magnitude 5.9 earthquake near Tokyo leaves 37 injured",
-    "Sinaloa's governor asks for indefinite leave 34 hours after returning to the job"
+    "Sinaloa's governor asks for indefinite leave 34 hours after returning to the job",
+    "A magnitude 5.9 earthquake near Tokyo leaves 37 injured"
    ]
   },
   {
@@ -46,7 +46,7 @@
    ]
   }
  ],
- "content": "17d32cc5ead76ad9b0b818d050ade76d26688a5618a84c92a6709a983df25404",
- "rev": 1,
- "updated": "2026-08-23T16:01:45.756Z"
+ "content": "686d8bb04bcbe69024aa706cd7392b49a75bc27a9a547c5cf2990318112a8448",
+ "rev": 3,
+ "updated": "2026-08-27T07:25:58.187Z"
 }

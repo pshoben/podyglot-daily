@@ -47,7 +47,7 @@
   {
    "speaker": "SPK1",
    "text": "En France, le piratage des données du fisc",
-   "en": "In «France», the hacking of tax-office data",
+   "en": "In France, the hacking of tax-office data",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.99,
@@ -147,7 +147,7 @@
   {
    "speaker": "SPK1",
    "text": "En France, maintenant, le piratage des données de l'administration fiscale.",
-   "en": "In «France» now, the hacking of the tax administration's data.",
+   "en": "In France now, the hacking of the tax administration's data.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.01,
@@ -337,7 +337,7 @@
   {
    "speaker": "SPK1",
    "text": "Toujours en France, le feu dans les Landes n'a pas connu de reprise majeure",
-   "en": "Still in «France», the fire in the «Landes» has had no major",
+   "en": "Still in France, the fire in the «Landes» has had no major",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.99,

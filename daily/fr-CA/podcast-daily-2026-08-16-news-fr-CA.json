@@ -87,7 +87,7 @@
   {
    "speaker": "SPK1",
    "text": "En Ukraine et en Russie,",
-   "en": "In «Ukraine» and Russia,",
+   "en": "In Ukraine and Russia,",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.01,
@@ -127,7 +127,7 @@
   {
    "speaker": "SPK1",
    "text": "Moscou a fait face à l'une des attaques les plus massives",
-   "en": "«Moscou» faced one of the most massive attacks",
+   "en": "Moscow faced one of the most massive attacks",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.02,

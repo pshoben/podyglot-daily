@@ -27,8 +27,8 @@
   {
    "id": "fr-BE-Le temps chez nous, samedi 22 août",
    "file": "podcast-daily-2026-08-22-morning-weather-fr-BE.json",
-   "bytes": 4852,
-   "sha256": "96975e350ef83596314f2748b559b12bd285a9abd3b9bd2f6134a8d44af38a20",
+   "bytes": 4848,
+   "sha256": "7a9fc09e534c5af2b762df525a4508d10939548eb9b7e3c3565d54b803c99195",
    "date": "2026-08-22",
    "edition": "morning",
    "programme": "weather",
@@ -44,7 +44,7 @@
    ]
   }
  ],
- "content": "bc11af9053bba543d17c88a7a457674c3278fcef281d92155f3d397affb72aa4",
- "rev": 1,
- "updated": "2026-08-22T08:28:55.292Z"
+ "content": "9d9454c8afd69623723b124005f29bdc6e5c4c8244a0a107743b63d1fbc485db",
+ "rev": 2,
+ "updated": "2026-08-27T07:22:03.159Z"
 }

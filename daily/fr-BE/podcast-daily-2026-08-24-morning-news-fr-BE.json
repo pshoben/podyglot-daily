@@ -17,7 +17,7 @@
   {
    "speaker": "SPK1",
    "text": "Lundi vingt-quatre août, sept heures à Bruxelles. Le sept heures.",
-   "en": "Monday the twenty-fourth of August, seven o'clock in «Brussels». The seven o'clock news.",
+   "en": "Monday the twenty-fourth of August, seven o'clock in Brussels. The seven o'clock news.",
    "prosody": {
     "pause_ms": 240,
     "rate": 0.98,
@@ -27,7 +27,7 @@
   {
    "speaker": "SPK1",
    "text": "Les écoles rouvrent ce lundi en Wallonie et à Bruxelles.",
-   "en": "Schools go back on Monday in «Wallonia» and «Brussels».",
+   "en": "Schools go back on Monday in «Wallonia» and Brussels.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.01,
@@ -57,7 +57,7 @@
   {
    "speaker": "SPK1",
    "text": "Et l'Union européenne débloque une nouvelle aide militaire pour l'Ukraine.",
-   "en": "And the European Union is releasing new military aid for «Ukraine».",
+   "en": "And the European Union is releasing new military aid for Ukraine.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.01,
@@ -77,7 +77,7 @@
   {
    "speaker": "SPK1",
    "text": "Les élèves de Wallonie et de Bruxelles retrouvent progressivement le chemin de l'école",
-   "en": "Pupils in «Wallonia» and «Brussels» are making their way back to school",
+   "en": "Pupils in «Wallonia» and Brussels are making their way back to school",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.02,
@@ -267,7 +267,7 @@
   {
    "speaker": "SPK1",
    "text": "On enchaîne, plusieurs personnes ont été blessées tôt ce lundi aux Pays-Bas.",
-   "en": "Moving on, several people were injured early on Monday in the «Netherlands».",
+   "en": "Moving on, several people were injured early on Monday in the Netherlands.",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.98,
@@ -347,7 +347,7 @@
   {
    "speaker": "SPK1",
    "text": "à l'Ukraine.",
-   "en": "for «Ukraine».",
+   "en": "for Ukraine.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.06,
@@ -377,7 +377,7 @@
   {
    "speaker": "SPK1",
    "text": "Toujours sur la guerre en Ukraine,",
-   "en": "Still on the war in «Ukraine»,",
+   "en": "Still on the war in Ukraine,",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.01,
@@ -397,7 +397,7 @@
   {
    "speaker": "SPK1",
    "text": "dans le sud de la Russie,",
-   "en": "in southern «Russia»,",
+   "en": "in southern Russia,",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.01,
@@ -467,7 +467,7 @@
   {
    "speaker": "SPK1",
    "text": "Chez nous toujours, à Bruxelles,",
-   "en": "Elsewhere,",
+   "en": "Elsewhere, in Brussels,",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.05,
@@ -477,7 +477,7 @@
   {
    "speaker": "SPK1",
    "text": "les autorités promettent de renforcer la lutte contre les violences liées au trafic de drogue,",
-   "en": "in «Brussels», the authorities are promising to step up the fight against drug-related violence,",
+   "en": "the authorities are promising to step up the fight against drug-related violence,",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.98,
@@ -507,7 +507,7 @@
   {
    "speaker": "SPK1",
    "text": "Le ministre-président bruxellois, Boris Dilliès,",
-   "en": "The head of the «Brussels» regional government, «Boris Dilliès»,",
+   "en": "The head of the Brussels regional government, «Boris Dilliès»,",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.01,

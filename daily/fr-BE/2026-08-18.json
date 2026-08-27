@@ -28,8 +28,8 @@
   {
    "id": "fr-BE-Le temps chez nous, mardi 18 août",
    "file": "podcast-daily-2026-08-18-morning-weather-fr-BE.json",
-   "bytes": 4750,
-   "sha256": "1f3e0fe5c314826907ad2b2ce29e9e8101f9d95db7f46216b2fa5fd58803fb64",
+   "bytes": 4745,
+   "sha256": "685126af59545d49f97205b59b1ce7715f40038f78588e809f6b6d18fe091fd1",
    "date": "2026-08-18",
    "edition": "morning",
    "programme": "weather",
@@ -46,7 +46,7 @@
    ]
   }
  ],
- "content": "e5070c05a33ce370d491376e1521f455c37203173d8c658a691590eff37d526a",
- "rev": 1,
- "updated": "2026-08-20T07:49:48.488Z"
+ "content": "369512f4b924999acdb02c9a88e53119985b6488684c1dcd2025fab2b62f372b",
+ "rev": 2,
+ "updated": "2026-08-27T07:22:03.159Z"
 }

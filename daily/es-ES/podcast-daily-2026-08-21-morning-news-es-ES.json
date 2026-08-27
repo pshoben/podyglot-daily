@@ -47,7 +47,7 @@
   {
    "speaker": "SPK1",
    "text": "La fiscal de menores rechaza devolver a los niños a Marruecos.",
-   "en": "The chief prosecutor for minors rejects sending the children back to «Morocco».",
+   "en": "The chief prosecutor for minors rejects sending the children back to Morocco.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.0,
@@ -237,7 +237,7 @@
   {
    "speaker": "SPK1",
    "text": "Según ella, los menores entrevistados hasta la fecha no quieren volver a Marruecos,",
-   "en": "In her account, the minors interviewed so far do not want to return to «Morocco»,",
+   "en": "In her account, the minors interviewed so far do not want to return to Morocco,",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.01,
@@ -277,7 +277,7 @@
   {
    "speaker": "SPK1",
    "text": "Mientras están en España, deben gozar de la misma protección que los niños españoles.",
-   "en": "While they are in «Spain», they must enjoy the same protection as Spanish children.",
+   "en": "While they are in Spain, they must enjoy the same protection as Spanish children.",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.99,

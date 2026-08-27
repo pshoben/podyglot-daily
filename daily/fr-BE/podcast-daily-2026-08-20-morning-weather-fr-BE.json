@@ -107,7 +107,7 @@
   {
    "speaker": "SPK1",
    "text": "Il valait jusqu'à minuit mercredi, pour toutes les provinces wallonnes, Bruxelles et le Brabant flamand.",
-   "en": "It was valid until midnight on Wednesday, for all the Walloon provinces, «Brussels» and Flemish «Brabant».",
+   "en": "It was valid until midnight on Wednesday, for all the Walloon provinces, Brussels and Flemish «Brabant».",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.98,
@@ -137,7 +137,7 @@
   {
    "speaker": "SPK1",
    "text": "À Bruxelles, de la bruine, vingt et un degrés au plus haut",
-   "en": "In «Brussels», drizzle, twenty-one degrees at the highest",
+   "en": "In Brussels, drizzle, twenty-one degrees at the highest",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.98,

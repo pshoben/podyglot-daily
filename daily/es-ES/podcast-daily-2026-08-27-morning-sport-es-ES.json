@@ -1,0 +1,169 @@
+{
+ "title": "Los deportes, jueves 27 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-sport",
+   "wpm": 208,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-27",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lo que se juega hoy.",
+   "en": "What is on today.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Barça recibe al Athletic esta noche a las nueve en el Spotify Camp Nou,",
+   "en": "«Barça» host «Athletic» tonight at nine at the «Spotify Camp Nou»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según Mundo Deportivo y AS.",
+   "en": "according to «Mundo Deportivo» and «AS».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es la jornada inaugural de Liga que quedó aplazada por el Mundial.",
+   "en": "It is the opening round of the league, put back because of the World Cup.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Rodri debuta como jugador azulgrana.",
+   "en": "«Rodri» makes his debut for the club.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Enfrente estará el Athletic de Edin Terzic.",
+   "en": "Facing them will be «Edin Terzic»'s «Athletic».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Marca y Mundo Deportivo recuerdan que no podrá contar con Yuri Berchiche,",
+   "en": "«Marca» and «Mundo Deportivo» point out that he cannot call on «Yuri Berchiche»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sancionado pese a que el Comité Técnico de Árbitros reconoció un error en la expulsión.",
+   "en": "who is suspended even though the referees' committee accepted that the sending-off was a mistake.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Balaídos, Celta y Osasuna se reencuentran esta noche con esa misma primera jornada,",
+   "en": "At «Balaídos», «Celta» and «Osasuna» meet tonight in that same opening round,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de acuerdo con Mundo Deportivo y Marca.",
+   "en": "according to «Mundo Deportivo» and «Marca».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El encuentro quedó pendiente desde el inicio del campeonato por el mal estado del césped.",
+   "en": "The match was left over from the start of the season because of the state of the pitch.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los dos equipos afrontan el choque con el mismo objetivo,",
+   "en": "Both sides go into it with the same aim,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "estrenar su casillero de victorias.",
+   "en": "to get their first win on the board.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí los deportes.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Thursday 27 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Barcelona host Athletic tonight in the deferred opening round",
+ "summary_en": [
+  "Barcelona host Athletic tonight in the deferred opening round",
+  "Athletic are without the suspended Yuri Berchiche at the Camp Nou"
+ ]
+}

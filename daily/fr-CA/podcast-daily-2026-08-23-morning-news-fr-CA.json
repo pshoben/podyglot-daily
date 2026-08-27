@@ -37,7 +37,7 @@
   {
    "speaker": "SPK1",
    "text": "Washington met le Canada en garde contre un conflit commercial.",
-   "en": "«Washington» warns «Canada» against a trade conflict.",
+   "en": "«Washington» warns Canada against a trade conflict.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.0,
@@ -57,7 +57,7 @@
   {
    "speaker": "SPK1",
    "text": "On débute avec l'Ukraine.",
-   "en": "We begin with «Ukraine».",
+   "en": "We begin with Ukraine.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.05,
@@ -137,7 +137,7 @@
   {
    "speaker": "SPK1",
    "text": "l'administration Trump a mis en garde le Canada, dimanche,",
-   "en": "the «Trump» administration warned «Canada» on Sunday",
+   "en": "the «Trump» administration warned Canada on Sunday",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.96,
@@ -197,7 +197,7 @@
   {
    "speaker": "SPK1",
    "text": "tous les détails de l'accord commercial rejeté vendredi par le Canada.",
-   "en": "every detail of the trade deal «Canada» rejected on Friday.",
+   "en": "every detail of the trade deal Canada rejected on Friday.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.06,
@@ -364,7 +364,7 @@
  "headline_en": "Zelensky rejects wartime elections, calling a vote a tsunami that would fracture Ukraine",
  "summary_en": [
   "Zelensky rejects wartime elections, calling a vote a tsunami that would fracture Ukraine",
-  "Three Palestinians killed by Israeli strikes in central Gaza, the civil defence says",
-  "Iran's president acknowledges the country is going through many difficulties"
+  "Washington warns Canada a trade conflict would be devastating after Carney's counter-tariffs",
+  "Three Palestinians killed by Israeli strikes in central Gaza, the civil defence says"
  ]
 }

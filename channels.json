@@ -1,62 +1,80 @@
 {
  "schema": 1,
  "base": "https://pshoben.github.io/podyglot-daily/",
+ "live_window_days": 14,
+ "archived_before": "2026-08-14",
  "channels": [
   {
    "channel": "daily",
    "dialect": "es-AR",
    "index": "daily/es-AR/index.json",
    "episodes": 28,
-   "latest_date": "2026-08-26"
+   "latest_date": "2026-08-26",
+   "archived": 0,
+   "archive": null
   },
   {
    "channel": "daily",
    "dialect": "es-CL",
    "index": "daily/es-CL/index.json",
    "episodes": 21,
-   "latest_date": "2026-08-26"
+   "latest_date": "2026-08-26",
+   "archived": 0,
+   "archive": null
   },
   {
    "channel": "daily",
    "dialect": "es-CO",
    "index": "daily/es-CO/index.json",
    "episodes": 25,
-   "latest_date": "2026-08-26"
+   "latest_date": "2026-08-26",
+   "archived": 0,
+   "archive": null
   },
   {
    "channel": "daily",
    "dialect": "es-ES",
    "index": "daily/es-ES/index.json",
-   "episodes": 61,
-   "latest_date": "2026-08-26"
+   "episodes": 66,
+   "latest_date": "2026-08-27",
+   "archived": 0,
+   "archive": null
   },
   {
    "channel": "daily",
    "dialect": "es-MX",
    "index": "daily/es-MX/index.json",
    "episodes": 26,
-   "latest_date": "2026-08-26"
+   "latest_date": "2026-08-26",
+   "archived": 0,
+   "archive": null
   },
   {
    "channel": "daily",
    "dialect": "fr-BE",
    "index": "daily/fr-BE/index.json",
-   "episodes": 29,
-   "latest_date": "2026-08-26"
+   "episodes": 31,
+   "latest_date": "2026-08-27",
+   "archived": 0,
+   "archive": null
   },
   {
    "channel": "daily",
    "dialect": "fr-CA",
    "index": "daily/fr-CA/index.json",
    "episodes": 27,
-   "latest_date": "2026-08-26"
+   "latest_date": "2026-08-26",
+   "archived": 0,
+   "archive": null
   },
   {
    "channel": "daily",
    "dialect": "fr-FR",
    "index": "daily/fr-FR/index.json",
-   "episodes": 36,
-   "latest_date": "2026-08-26"
+   "episodes": 38,
+   "latest_date": "2026-08-27",
+   "archived": 0,
+   "archive": null
   }
  ]
 }

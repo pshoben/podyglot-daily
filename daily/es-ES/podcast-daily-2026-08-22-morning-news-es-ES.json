@@ -37,7 +37,7 @@
   {
    "speaker": "SPK1",
    "text": "Entran en vigor los aranceles del cincuenta por ciento de Estados Unidos contra Canadá.",
-   "en": "American tariffs of fifty per cent on «Canada» come into force.",
+   "en": "American tariffs of fifty per cent on Canada come into force.",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.99,
@@ -47,7 +47,7 @@
   {
    "speaker": "SPK1",
    "text": "España rechaza de forma tajante las reivindicaciones de Marruecos sobre Ceuta y Melilla.",
-   "en": "«Spain» flatly rejects «Morocco»'s claims over «Ceuta» and «Melilla».",
+   "en": "Spain flatly rejects Morocco's claims over «Ceuta» and «Melilla».",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.98,
@@ -87,7 +87,7 @@
   {
    "speaker": "SPK1",
    "text": "Las negociaciones entre Estados Unidos y Canadá fracasaron en el último minuto.",
-   "en": "Negotiations between the «United States» and «Canada» failed at the last minute.",
+   "en": "Negotiations between the United States and Canada failed at the last minute.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.02,
@@ -107,7 +107,7 @@
   {
    "speaker": "SPK1",
    "text": "Estados Unidos aplica aranceles del cincuenta por ciento.",
-   "en": "the «United States» is applying tariffs of fifty per cent.",
+   "en": "the United States is applying tariffs of fifty per cent.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.04,
@@ -157,7 +157,7 @@
   {
    "speaker": "SPK1",
    "text": "responsabilizó a Canadá del fracaso.",
-   "en": "blamed «Canada» for the failure.",
+   "en": "blamed Canada for the failure.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.05,
@@ -197,7 +197,7 @@
   {
    "speaker": "SPK1",
    "text": "Aquí en España, la respuesta a Marruecos.",
-   "en": "Here in «Spain», the reply to «Morocco».",
+   "en": "Here in Spain, the reply to Morocco.",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.99,
@@ -207,7 +207,7 @@
   {
    "speaker": "SPK1",
    "text": "El ministro marroquí de Justicia reafirmó el viernes que las dos ciudades autónomas son un",
-   "en": "«Morocco»'s justice minister restated on Friday that the two autonomous cities are a historic",
+   "en": "Morocco's justice minister restated on Friday that the two autonomous cities are a historic",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.01,
@@ -237,7 +237,7 @@
   {
    "speaker": "SPK1",
    "text": "Exteriores respondió que forman parte de la integridad territorial y de la soberanía de España.",
-   "en": "The foreign ministry replied that they form part of the territorial integrity and sovereignty of «Spain».",
+   "en": "The foreign ministry replied that they form part of the territorial integrity and sovereignty of Spain.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.0,

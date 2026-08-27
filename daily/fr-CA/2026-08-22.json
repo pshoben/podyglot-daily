@@ -7,8 +7,8 @@
   {
    "id": "fr-CA-Le bulletin du matin, samedi 22 août",
    "file": "podcast-daily-2026-08-22-morning-news-fr-CA.json",
-   "bytes": 13318,
-   "sha256": "bfb4e893c56a94c567689da55f21deb068336213bb8645f6ba12e69b2c784025",
+   "bytes": 13286,
+   "sha256": "8959b257e31cb35f79357e17644883e9b1fb97d082a98d6ed91de2ddf083d18c",
    "date": "2026-08-22",
    "edition": "morning",
    "programme": "news",
@@ -45,7 +45,7 @@
    ]
   }
  ],
- "content": "88b542bd50c1a8484d590678db20cfb575a0cf7c09a5c4aeff758c75007a4929",
- "rev": 1,
- "updated": "2026-08-22T17:43:52.360Z"
+ "content": "bdf92afb8effc7e909174ab9cbeaffc4d8fa7f3af52b65fae5138e5e2480b0a7",
+ "rev": 3,
+ "updated": "2026-08-27T07:25:58.187Z"
 }

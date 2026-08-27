@@ -8,7 +8,7 @@
    "id": "fr-CA-Le bulletin du matin, dimanche 23 août",
    "file": "podcast-daily-2026-08-23-morning-news-fr-CA.json",
    "bytes": 9411,
-   "sha256": "62f74071b40d9b8e5288c558a36ab6a3d2fdfb6cce9d01a12432b3c12b425f7b",
+   "sha256": "7d2dc3d24fb48cfcfef4af8d444d3d2c1eb6680889c4fe4bcf9c8641f0a277ec",
    "date": "2026-08-23",
    "edition": "morning",
    "programme": "news",
@@ -21,8 +21,8 @@
    "headline_en": "Zelensky rejects wartime elections, calling a vote a tsunami that would fracture Ukraine",
    "summary_en": [
     "Zelensky rejects wartime elections, calling a vote a tsunami that would fracture Ukraine",
-    "Three Palestinians killed by Israeli strikes in central Gaza, the civil defence says",
-    "Iran's president acknowledges the country is going through many difficulties"
+    "Washington warns Canada a trade conflict would be devastating after Carney's counter-tariffs",
+    "Three Palestinians killed by Israeli strikes in central Gaza, the civil defence says"
    ]
   },
   {
@@ -46,7 +46,7 @@
    ]
   }
  ],
- "content": "d4f4954692e66fec36d9a7b6d4b08787e4ea96f23b4079f43f88f63eea7dc63c",
- "rev": 1,
- "updated": "2026-08-23T16:01:45.756Z"
+ "content": "85fb76f8b8b8afc65871c460db64328642e78efdc7f784f2cb943631617c004c",
+ "rev": 3,
+ "updated": "2026-08-27T07:25:58.187Z"
 }

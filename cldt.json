@@ -1,101 +1,91 @@
 {
  "schema": 1,
- "generated": "2026-08-26T14:14:57.093Z",
+ "generated": "2026-08-27T07:25:58.187Z",
  "channels": [
   {
    "dialect": "es-AR",
-   "updated": "2026-08-26T14:14:57.093Z",
-   "content": "b65e3697a34ff61eef98256246a45ef26e6677b8dd8de51be556516e164da542",
+   "updated": "2026-08-27T07:25:58.187Z",
+   "content": "c826b81bed5feb81f350a2ef1a2b8bef6511984d20ae9ca2c5d2c47115db6bdb",
    "days": 10,
    "episodes": 28,
    "latest_date": "2026-08-26",
-   "last_written": [
-    "2026-08-26"
-   ],
+   "last_written": [],
    "last_removed": [],
    "bitmap": "daily/es-AR/bitmap.json"
   },
   {
    "dialect": "es-CL",
-   "updated": "2026-08-26T14:14:57.093Z",
-   "content": "28d82b6e6a9fcdf9afbf4de84a3bac8f1392b2d20675face0929930b9ce15ae8",
+   "updated": "2026-08-27T07:25:58.187Z",
+   "content": "78ac51f1a37a6a0aa5c7932d6d929b50d7cca69e50003961213decf6729985f0",
    "days": 9,
    "episodes": 21,
    "latest_date": "2026-08-26",
-   "last_written": [
-    "2026-08-26"
-   ],
+   "last_written": [],
    "last_removed": [],
    "bitmap": "daily/es-CL/bitmap.json"
   },
   {
    "dialect": "es-CO",
-   "updated": "2026-08-26T14:14:57.093Z",
-   "content": "114736ec5a0a1e8a01cd476037445cac24c72256fcc3e423577c581d4da4ea6e",
+   "updated": "2026-08-27T07:25:58.187Z",
+   "content": "af6621bef80c5c0b6803aab2066ebb92a22754e5e84486dbd6d3ef59483c7e8f",
    "days": 10,
    "episodes": 25,
    "latest_date": "2026-08-26",
-   "last_written": [
-    "2026-08-26"
-   ],
+   "last_written": [],
    "last_removed": [],
    "bitmap": "daily/es-CO/bitmap.json"
   },
   {
    "dialect": "es-ES",
-   "updated": "2026-08-26T14:14:57.093Z",
-   "content": "b4e96e6580b9268804cecf241921049cc671aa450c3d486ff45c770a3e7d4b14",
-   "days": 11,
-   "episodes": 61,
-   "latest_date": "2026-08-26",
+   "updated": "2026-08-27T07:25:58.187Z",
+   "content": "c60a0e549b015729c50ae01888e7f580fe841318e5d687db56dcb75624fe5bc5",
+   "days": 12,
+   "episodes": 66,
+   "latest_date": "2026-08-27",
    "last_written": [],
    "last_removed": [],
    "bitmap": "daily/es-ES/bitmap.json"
   },
   {
    "dialect": "es-MX",
-   "updated": "2026-08-26T14:14:57.093Z",
-   "content": "3a2a6bc8819ab3040f9264735d85853274731b81ec718c3b60fdbd5ab0e9b854",
+   "updated": "2026-08-27T07:25:58.187Z",
+   "content": "becdd09027a0b8d38c5a552de1937165d80c18274e8802040fc39773c5b5e36e",
    "days": 10,
    "episodes": 26,
    "latest_date": "2026-08-26",
-   "last_written": [
-    "2026-08-26"
-   ],
+   "last_written": [],
    "last_removed": [],
    "bitmap": "daily/es-MX/bitmap.json"
   },
   {
    "dialect": "fr-BE",
-   "updated": "2026-08-26T07:40:29.229Z",
-   "content": "210877937927d11df08b65cd6a4d0165b8f7d5ab82a25e7960843eb28aeee18a",
-   "days": 10,
-   "episodes": 29,
-   "latest_date": "2026-08-26",
+   "updated": "2026-08-27T07:25:58.187Z",
+   "content": "5de20fa86152b9f3accc80fc49976d3ae1f3c5995fbc94af0be0beb41415c06a",
+   "days": 11,
+   "episodes": 31,
+   "latest_date": "2026-08-27",
    "last_written": [],
    "last_removed": [],
    "bitmap": "daily/fr-BE/bitmap.json"
   },
   {
    "dialect": "fr-CA",
-   "updated": "2026-08-26T14:14:57.093Z",
-   "content": "78afea24bc4075947fbe57cb88b693e44beaa9c040cf123fce7476c0979e15a7",
+   "updated": "2026-08-27T07:25:58.187Z",
+   "content": "f1f84c1d2e7af6762cdf1d1cd1c40381d540d5e8c436b5da8d9da20948516431",
    "days": 10,
    "episodes": 27,
    "latest_date": "2026-08-26",
-   "last_written": [
-    "2026-08-26"
-   ],
+   "last_written": [],
    "last_removed": [],
    "bitmap": "daily/fr-CA/bitmap.json"
   },
   {
    "dialect": "fr-FR",
-   "updated": "2026-08-26T07:40:29.229Z",
-   "content": "e280184812985bcebfcbb14f53a3614f48a8923610d9c9b8f9eb49ce3afe0ca4",
-   "days": 11,
-   "episodes": 36,
-   "latest_date": "2026-08-26",
+   "updated": "2026-08-27T07:25:58.187Z",
+   "content": "06c0c6393a27be35bcf814e322e96f2771c87e3e150f3801c8c976fa64b73092",
+   "days": 12,
+   "episodes": 38,
+   "latest_date": "2026-08-27",
    "last_written": [],
    "last_removed": [],
    "bitmap": "daily/fr-FR/bitmap.json"

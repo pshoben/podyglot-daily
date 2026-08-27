@@ -7,8 +7,8 @@
   {
    "id": "fr-FR-Le journal du matin, vendredi 21 août",
    "file": "podcast-daily-2026-08-21-morning-news-fr-FR.json",
-   "bytes": 9734,
-   "sha256": "6d3565f3aabb6f93fb4134e0a95036aa7079890ffce83470a92be8c49d24b30f",
+   "bytes": 9726,
+   "sha256": "9ef1203b19254fe9e916afb1d2fff43119d532015e65e5473841a871ffc180ac",
    "date": "2026-08-21",
    "edition": "morning",
    "programme": "news",
@@ -48,8 +48,8 @@
   {
    "id": "fr-FR-La météo, vendredi 21 août",
    "file": "podcast-daily-2026-08-21-morning-weather-fr-FR.json",
-   "bytes": 5311,
-   "sha256": "deb507f11d5a0ab55c3416d123c44384b25c0797aa0999ea7781128a477fc18f",
+   "bytes": 5404,
+   "sha256": "fa6e38b3a9f2a5befdf17d7f32ace56a683d1c207c36c318171e9946e5af7d64",
    "date": "2026-08-21",
    "edition": "morning",
    "programme": "weather",
@@ -59,14 +59,14 @@
    "region_label": "France",
    "title": "La météo, vendredi 21 août",
    "title_en": "Today's weather, Friday 21 August",
-   "headline_en": "Prévision pour Paris, vendredi 2026-08-21",
+   "headline_en": "The Var and the Alpes-Maritimes remain on orange alert for storms and for rain and floodin",
    "summary_en": [
-    "Prévision pour Paris, vendredi 2026-08-21",
-    "Prévision pour Bordeaux, vendredi 2026-08-21"
+    "The Var and the Alpes-Maritimes remain on orange alert for storms and for rain and floodin",
+    "Prévision pour Paris, vendredi 2026-08-21"
    ]
   }
  ],
- "content": "cb36669d3e8824a2426795330f74ff6d76945a7991f385ef77b0ea263e8418c8",
- "rev": 2,
- "updated": "2026-08-21T10:04:51.905Z"
+ "content": "91f9df3e9af049e7c241b815f6afce78df8e12d39c4642c1e30717515dea6913",
+ "rev": 4,
+ "updated": "2026-08-27T07:25:58.187Z"
 }

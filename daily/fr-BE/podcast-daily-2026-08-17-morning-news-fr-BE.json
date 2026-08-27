@@ -27,7 +27,7 @@
   {
    "speaker": "SPK1",
    "text": "En France, l'incendie des Landes est fixé,",
-   "en": "In «France», the fire in «les Landes» is contained,",
+   "en": "In France, the fire in «les Landes» is contained,",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.98,
@@ -67,7 +67,7 @@
   {
    "speaker": "SPK1",
    "text": "On ouvre avec la France.",
-   "en": "We open with «France».",
+   "en": "We open with France.",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.98,

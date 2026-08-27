@@ -28,8 +28,8 @@
   {
    "id": "es-CO-La jornada deportiva, martes 25 de agosto",
    "file": "podcast-daily-2026-08-25-morning-sport-es-CO.json",
-   "bytes": 5442,
-   "sha256": "427b2db3390b90b414e179f7fb5339bd756cb6d9ae20a3b683c32a0b28d928af",
+   "bytes": 5438,
+   "sha256": "9be8bc477763df81b0ece78d4f119d6bb5d55d05dcf72bf9fa815bf1e2f8d253",
    "date": "2026-08-25",
    "edition": "morning",
    "programme": "sport",
@@ -66,7 +66,7 @@
    ]
   }
  ],
- "content": "1b736860f4f0be8e2fb10b1dae7ad1971f988f3bdff9318a075a9d1cf3567615",
- "rev": 1,
- "updated": "2026-08-25T14:13:53.628Z"
+ "content": "54c36cca4ef32690b57c25d0ba3ec342b2f017904139e7ae19d3f06db849b747",
+ "rev": 2,
+ "updated": "2026-08-27T07:22:03.159Z"
 }

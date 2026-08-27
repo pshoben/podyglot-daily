@@ -7,8 +7,8 @@
   {
    "id": "fr-BE-Le sept heures, lundi 24 août",
    "file": "podcast-daily-2026-08-24-morning-news-fr-BE.json",
-   "bytes": 13489,
-   "sha256": "b82acc08b7a25eeb95ccd17e0fcaaf87cb4b78d77fd00b178d9f6dd1d3c245b7",
+   "bytes": 13449,
+   "sha256": "04195429a75d867dea7fdab018c8ef24453c9d93994cead99b912ccc9f8b4bd7",
    "date": "2026-08-24",
    "edition": "morning",
    "programme": "news",
@@ -28,8 +28,8 @@
   {
    "id": "fr-BE-Le temps chez nous, lundi 24 août",
    "file": "podcast-daily-2026-08-24-morning-weather-fr-BE.json",
-   "bytes": 6188,
-   "sha256": "af8934d53b0905d686951b2e751f0ce74ed3095eec52bb76d4b65cc22fd80885",
+   "bytes": 6184,
+   "sha256": "a393cded98861efd6d8de428fdfd88f9b07455e0617f1ed35fa520a0942c2107",
    "date": "2026-08-24",
    "edition": "morning",
    "programme": "weather",
@@ -46,7 +46,7 @@
    ]
   }
  ],
- "content": "5f7292615218e8803310b6dd89f37d29a126df7b0c4a885fe44619ceab259f4b",
- "rev": 1,
- "updated": "2026-08-24T08:46:23.150Z"
+ "content": "30c69179e3c8100a9622a3a8c97c239a0b513254df7a15cefecbcd39f521862e",
+ "rev": 3,
+ "updated": "2026-08-27T07:25:58.187Z"
 }

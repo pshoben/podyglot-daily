@@ -27,7 +27,7 @@
   {
    "speaker": "SPK1",
    "text": "Pour Volodymyr Zelensky, un scrutin national en pleine guerre fracturerait l'Ukraine.",
-   "en": "For «Volodymyr Zelensky», a national vote in the middle of the war would fracture «Ukraine».",
+   "en": "For «Volodymyr Zelensky», a national vote in the middle of the war would fracture Ukraine.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.02,
@@ -37,7 +37,7 @@
   {
    "speaker": "SPK1",
    "text": "Les noyades ont fortement augmenté en France cet été.",
-   "en": "Drownings have risen sharply in «France» this summer.",
+   "en": "Drownings have risen sharply in France this summer.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.0,
@@ -57,7 +57,7 @@
   {
    "speaker": "SPK1",
    "text": "On commence par l'Ukraine.",
-   "en": "We start in «Ukraine».",
+   "en": "We start in Ukraine.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.07,
@@ -137,7 +137,7 @@
   {
    "speaker": "SPK1",
    "text": "En France, la ministre des Sports, Marina Ferrari,",
-   "en": "In «France», the sports minister, «Marina Ferrari»,",
+   "en": "In France, the sports minister, «Marina Ferrari»,",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.01,
@@ -207,7 +207,7 @@
   {
    "speaker": "SPK1",
    "text": "Dans le reste de l'actualité, le Canada répond aux nouveaux droits de douane américains.",
-   "en": "In other news, «Canada» is answering the new American tariffs.",
+   "en": "In other news, Canada is answering the new American tariffs.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.0,
@@ -444,7 +444,7 @@
  "headline_en": "Zelensky says wartime elections would be a huge risk and would fracture Ukraine",
  "summary_en": [
   "Zelensky says wartime elections would be a huge risk and would fracture Ukraine",
-  "Canada answers new American tariffs with its own on steel and dairy from 8th September",
-  "301 drowning deaths in France since 19th June, up 14 per cent on last year"
+  "301 drowning deaths in France since 19th June, up 14 per cent on last year",
+  "Melenchon promises to censure the 2027 budget as the political new season opens"
  ]
 }

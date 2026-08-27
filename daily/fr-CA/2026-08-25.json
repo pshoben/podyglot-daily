@@ -7,8 +7,8 @@
   {
    "id": "fr-CA-Le bulletin du matin, mardi 25 août",
    "file": "podcast-daily-2026-08-25-morning-news-fr-CA.json",
-   "bytes": 11550,
-   "sha256": "9905dd844bda6458a587cb1825eb638d2cb54ff28054dcce48ccd47c4ec59bc2",
+   "bytes": 11546,
+   "sha256": "16990478a345bcb3c16ec9ab5df04ba8ba147d43cdc539dff87984e427159e1d",
    "date": "2026-08-25",
    "edition": "morning",
    "programme": "news",
@@ -46,7 +46,7 @@
    ]
   }
  ],
- "content": "73ab7b7f962e3e5d20278c86e4d415c820278aef207447a16ddfd6707100b27d",
- "rev": 1,
- "updated": "2026-08-25T14:13:53.628Z"
+ "content": "f9ad30e57ddb8866fa0099a93eb9098127b75b913892e8fa81553980ce9171bd",
+ "rev": 2,
+ "updated": "2026-08-27T07:22:03.159Z"
 }

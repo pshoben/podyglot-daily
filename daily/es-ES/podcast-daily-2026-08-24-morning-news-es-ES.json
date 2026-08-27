@@ -57,7 +57,7 @@
   {
    "speaker": "SPK1",
    "text": "Y empeora la salud del rey Harald de Noruega.",
-   "en": "And the health of «King Harald» of «Norway» has worsened.",
+   "en": "And the health of «King Harald» of Norway has worsened.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.01,
@@ -117,7 +117,7 @@
   {
    "speaker": "SPK1",
    "text": "por la frontera con Marruecos.",
-   "en": "crossed the border with «Morocco» irregularly.",
+   "en": "crossed the border with Morocco irregularly.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.04,

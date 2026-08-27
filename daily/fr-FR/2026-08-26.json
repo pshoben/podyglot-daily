@@ -7,8 +7,8 @@
   {
    "id": "fr-FR-Le journal du matin, mercredi 26 août",
    "file": "podcast-daily-2026-08-26-morning-news-fr-FR.json",
-   "bytes": 10508,
-   "sha256": "a59e97ca1cb90ea0ac8382873310b4b77d6d00717d793056e89e8d5084760bbf",
+   "bytes": 10504,
+   "sha256": "ebce3bff645dd425ceb48fed39ef5cd0516eeb72421c4983062e46ca4c13c4fe",
    "date": "2026-08-26",
    "edition": "morning",
    "programme": "news",
@@ -28,8 +28,8 @@
   {
    "id": "fr-FR-Le sport, mercredi 26 août",
    "file": "podcast-daily-2026-08-26-morning-sport-fr-FR.json",
-   "bytes": 5763,
-   "sha256": "0cf09e336b4bd3665437a584281c8c148b9296b24cd7b1fe735999face6da00c",
+   "bytes": 5759,
+   "sha256": "035a7acef60ee2fd16194d12673c20ca60c3b9facf30b9b3cbcf82e97992a4fd",
    "date": "2026-08-26",
    "edition": "morning",
    "programme": "sport",
@@ -66,7 +66,7 @@
    ]
   }
  ],
- "content": "c4fc328389b886fa79ad4967a02c583fd3c75a1522ea717816450137ef9fe122",
- "rev": 1,
- "updated": "2026-08-26T07:40:29.229Z"
+ "content": "a60667d9e67a099b2f6eb997801e1bc0fa2b21f16eb96840ac1bde12a7596f5c",
+ "rev": 2,
+ "updated": "2026-08-27T07:22:03.159Z"
 }
