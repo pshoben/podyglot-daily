@@ -1,0 +1,420 @@
+{
+ "title": "La actualidad de la mañana, jueves 27 de agosto",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-27",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Jueves veintisiete de agosto, siete de la mañana.",
+   "en": "Thursday the twenty-seventh of August, seven in the morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La actualidad de la mañana.",
+   "en": "The morning round-up.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un torrente de lodo sepulta edificios en la frontera entre Nepal y China.",
+   "en": "A torrent of mud buries buildings on the border between «Nepal» and China.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El presidente firma cinco órdenes de extradición hacia Estados Unidos.",
+   "en": "The president signs five extradition orders to the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y viaja hoy a Ibagué por la emergencia de incendios en el Tolima.",
+   "en": "And he travels to «Ibagué» today over the fire emergency in «Tolima».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Iniciamos con Nepal,",
+   "en": "We start in «Nepal»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "donde un torrente de lodo y escombros se desbordó de un río y sepultó edificios,",
+   "en": "where a torrent of mud and debris burst the banks of a river and buried buildings,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según El Tiempo, El Colombiano y Semana.",
+   "en": "according to «El Tiempo», «El Colombiano» and «Semana».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La búsqueda de sobrevivientes es frenética.",
+   "en": "The search for survivors is frantic.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Colombiano cuenta que una poderosa corriente de agua",
+   "en": "«El Colombiano» reports that a powerful surge of water",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "bajó por las montañas del Himalaya y golpeó varias zonas de Nepal y del Tíbet,",
+   "en": "came down from the Himalayan mountains and struck several parts of «Nepal» and of Tibet,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en China.",
+   "en": "in China.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "A su paso dejó viviendas destruidas, vehículos arrastrados,",
+   "en": "It left destroyed homes, vehicles swept away,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "carreteras afectadas y puentes colapsados.",
+   "en": "damaged roads and collapsed bridges in its path.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Semana informa que las cifras de muertos y desaparecidos siguen aumentando y que las autoridades buscan a más de mil personas.",
+   "en": "«Semana» reports that the counts of dead and missing are still rising and that the authorities are searching for more than a thousand people.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en Colombia,",
+   "en": "Here in «Colombia»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el presidente Abelardo De La Espriella firmó la extradición de alias Araña y de otros cuatro,",
+   "en": "President «Abelardo De La Espriella» has signed the extradition of the man known as «Araña» and of four others,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según Semana.",
+   "en": "according to «Semana».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Tiempo precisa que los tres cuya extradición había suspendido la paz total,",
+   "en": "«El Tiempo» spells out that the three whose extradition the «paz total» had suspended,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "alias Araña, alias Muñeca y alias Mocho Olmedo,",
+   "en": "«Araña», «Muñeca» and «Mocho Olmedo»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "serán enviados a Estados Unidos.",
+   "en": "will be sent to the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Colombiano identifica a Araña como Geovany Andrés Rojas,",
+   "en": "«El Colombiano» identifies «Araña» as «Geovany Andrés Rojas»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "capturado el catorce de febrero de dos mil veinticinco.",
+   "en": "arrested on the fourteenth of February 2025.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese diario agrega que desde el inicio se estableció que tendría orden de extradición.",
+   "en": "That paper adds that from the start it was established he would carry an extradition order.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En otras noticias, el presidente viajará este jueves a Ibagué, en el Tolima,",
+   "en": "In other news, the president will travel this Thursday to «Ibagué», in «Tolima»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para coordinar en terreno la atención de la emergencia por incendios que afecta al departamento,",
+   "en": "to coordinate on the ground the response to the fire emergency in the department,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según El Colombiano.",
+   "en": "according to «El Colombiano».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cerca de treinta bomberos especializados de Antioquia salieron hacia el Tolima para ayudar a controlar",
+   "en": "About thirty specialist firefighters from «Antioquia» have set out for «Tolima» to help bring the forest",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "los incendios forestales.",
+   "en": "fires under control.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Tiempo calcula en más de treinta mil las hectáreas afectadas",
+   "en": "«El Tiempo» puts the area burnt by the fires of recent weeks",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por las conflagraciones de las últimas semanas.",
+   "en": "at more than thirty thousand hectares.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de asunto, Colombia y Japón acordaron reactivar las negociaciones del Acuerdo de Asociación Económica,",
+   "en": "Moving on, «Colombia» and Japan have agreed to restart talks on their Economic Partnership Agreement,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según El Tiempo, La República y Semana.",
+   "en": "according to «El Tiempo», «La República» and «Semana».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La agenda incluye oportunidades para la agroindustria,",
+   "en": "The agenda covers openings for agribusiness,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la inversión y la transferencia de tecnología entre los dos países.",
+   "en": "for investment and for technology transfer between the two countries.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La reunión se dio durante la gira que adelanta el Gobierno colombiano por Japón,",
+   "en": "The meeting came during the Colombian government's tour of Japan,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con la que busca fortalecer las relaciones comerciales.",
+   "en": "which is meant to strengthen trade ties.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Semana destacó que el ministro Mauricio Gómez logró un paso clave en esas negociaciones.",
+   "en": "«Semana» highlighted that the minister «Mauricio Gómez» took a key step in those talks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más importante.",
+   "en": "That is what matters most today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Thursday 27 August",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "A torrent of mud buries buildings on the Nepal to China border",
+ "summary_en": [
+  "A torrent of mud buries buildings on the Nepal to China border",
+  "The president signs five extradition orders to the United States",
+  "The president travels to Ibague today over the Tolima fires"
+ ]
+}

@@ -1,0 +1,420 @@
+{
+ "title": "Le bulletin du matin, jeudi 27 août",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-news",
+   "wpm": 185,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-27",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Jeudi vingt-sept août, sept heures. Le bulletin du matin.",
+   "en": "Thursday the twenty-seventh of August, seven o'clock. The morning bulletin.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Une mer de boue a dévasté la frontière entre le Népal et la Chine.",
+   "en": "A sea of mud has devastated the border between «Népal» and China.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La campagne électorale québécoise se met en branle aujourd'hui.",
+   "en": "The «Québec» election campaign gets under way today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et Ottawa retire les produits de la mer de sa liste de contre-tarifs.",
+   "en": "And «Ottawa» takes seafood off its counter-tariff list.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On débute avec le Népal,",
+   "en": "We start in «Népal», where",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où une immense coulée de boue a dévasté mercredi la frontière avec la Chine,",
+   "en": "a huge mudslide devastated the border with China on Wednesday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon La Presse et Le Devoir.",
+   "en": "according to «La Presse» and «Le Devoir».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Devoir rapporte que la vague aurait été provoquée par l'effondrement d'une partie d'un glacier.",
+   "en": "«Le Devoir» reports that the wave is thought to have been set off by part of a glacier collapsing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les secours cherchaient encore jeudi des personnes portées disparues.",
+   "en": "Rescue teams were still looking on Thursday for people who are missing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon Le Devoir, vingt-cinq Canadiens manquent à l'appel.",
+   "en": "According to «Le Devoir», twenty-five Canadians are unaccounted for.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Radio-Canada en dénombre vingt-quatre, d'après les données publiées mercredi.",
+   "en": "«Radio-Canada» counts twenty-four, on the figures published on Wednesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au Québec, la campagne électorale est déclenchée ce jeudi,",
+   "en": "In «Québec», the election campaign is being called this Thursday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon Radio-Canada et Le Devoir.",
+   "en": "according to «Radio-Canada» and «Le Devoir».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La première ministre Christine Fréchette devait demander la dissolution de l'Assemblée nationale",
+   "en": "Premier «Christine Fréchette» was to ask for the dissolution of the National Assembly",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "vers dix heures trente.",
+   "en": "at about half past ten.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle appellera les Québécois aux urnes pour le cinq octobre.",
+   "en": "She will send Quebecers to the polls on the fifth of October.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La première ministre sortante a pris rendez-vous avec la lieutenante-gouverneure,",
+   "en": "The outgoing premier has an appointment with the lieutenant-governor,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qu'elle devait rencontrer jeudi matin.",
+   "en": "whom she was to meet on Thursday morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans l'actualité d'ici,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ottawa a ajusté certains droits de douane de rétorsion après avoir consulté l'industrie,",
+   "en": "«Ottawa» has adjusted some of its retaliatory customs duties after talking to the industry,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon Le Devoir et Radio-Canada.",
+   "en": "according to «Le Devoir» and «Radio-Canada».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les produits de la mer et le poisson ont été retirés de la liste des produits américains visés.",
+   "en": "Seafood and fish have been taken off the list of American products targeted.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ministère des Finances a apporté ces ajustements pour protéger le secteur.",
+   "en": "The finance department made those adjustments to protect the sector.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On poursuit, le représentant américain au Commerce, Jamieson Greer,",
+   "en": "Moving on, the United States trade representative, «Jamieson Greer»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a fait le point en français sur le conflit commercial,",
+   "en": "gave an update in French on the trade dispute,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon Radio-Canada et Le Devoir.",
+   "en": "according to «Radio-Canada» and «Le Devoir».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'après Le Devoir,",
+   "en": "«Le Devoir» reports",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "il a assuré que le français n'avait jamais été une ligne rouge pour les États-Unis.",
+   "en": "that he insisted French had never been a red line for the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre nouvelle maintenant, l'ancien chef militaire des Serbes de Bosnie, Ratko Mladic, est mort jeudi,",
+   "en": "Turning to something else, the former military commander of the Bosnian Serbs, «Ratko Mladic», died on Thursday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon La Presse et Radio-Canada.",
+   "en": "according to «La Presse» and «Radio-Canada».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il avait été condamné à la prison à perpétuité par la justice internationale,",
+   "en": "He had been sentenced to life in prison by the international courts,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "notamment pour le génocide de Srebrenica en mil neuf cent quatre-vingt-quinze.",
+   "en": "in particular for the «Srebrenica» genocide of 1995.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La télévision nationale serbe, la RTS, a annoncé son décès.",
+   "en": "Serbian state television, «RTS», announced his death.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En terminant, un conseiller municipal d'Ottawa veut changer le nom de l'avenue Trump,",
+   "en": "Elsewhere, a city councillor in «Ottawa» wants to change the name of «avenue Trump», according",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon Radio-Canada et CBC.",
+   "en": "to «Radio-Canada» and «CBC».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Une initiative semblable avait échoué en deux mille vingt et un.",
+   "en": "A similar move failed in 2021.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le conseiller juge que l'heure n'est plus au débat,",
+   "en": "The councillor takes the view that the time for debating it has passed,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "alors que la guerre commerciale s'intensifie.",
+   "en": "as the trade war heats up.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est le portrait du jour.",
+   "en": "That is the picture of the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Thursday 27 August",
+ "edition": "morning",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "A wall of mud devastates the border between Nepal and China",
+ "summary_en": [
+  "A wall of mud devastates the border between Nepal and China",
+  "The Quebec election campaign is triggered today, for a 5 October vote",
+  "Ottawa takes seafood off its counter-tariff list"
+ ]
+}

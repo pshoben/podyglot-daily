@@ -1,0 +1,360 @@
+{
+ "title": "Las noticias de la mañana, jueves 27 de agosto",
+ "dialect": "es-CL",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CL-daily-news",
+   "wpm": 205,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-27",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Jueves veintisiete de agosto, siete de la mañana.",
+   "en": "Thursday the twenty-seventh of August, seven in the morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las noticias de la mañana.",
+   "en": "The morning bulletin.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Argentina llama a Santiago",
+   "en": "«Argentina» rings «Santiago»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para aclarar los dichos de un general sobre el Estrecho de Magallanes.",
+   "en": "to clear up what a general said about the Strait of Magellan.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Presidente Kast repone el gabinete de la Primera Dama.",
+   "en": "President «Kast» brings back the First Lady's office.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el fallo por el clan Chen vuelve a poner la reforma de seguridad en el centro.",
+   "en": "And the ruling on the «Chen» clan puts the security reform back at the centre of things.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Partimos con Argentina, cuyo ministerio de Defensa informó en un comunicado que su titular,",
+   "en": "We start with «Argentina», whose defence ministry said in a statement that its minister, «Carlos",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Carlos Alberto Presti, se comunicó con su par chileno, Fernando Barros,",
+   "en": "Alberto Presti», had telephoned his Chilean counterpart, «Fernando Barros»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según Radio Universidad de Chile.",
+   "en": "according to «Radio Universidad de Chile».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El llamado buscaba aclarar las declaraciones del general Gustavo Valverde.",
+   "en": "The call was to clear up remarks made by General «Gustavo Valverde».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según La Tercera, y de acuerdo con un comunicado del Ministerio de Defensa de Chile,",
+   "en": "According to «La Tercera», and going by a statement from the Chilean defence ministry,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Presti aseguró que no está en discusión que el Estrecho es chileno.",
+   "en": "«Presti» said it is not in question that the Strait is Chilean.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La cartera agregó que Barros valoró el llamado y que ambos dieron por superado el incidente.",
+   "en": "The ministry added that «Barros» welcomed the call and that the two of them treated the matter as closed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Acá en Chile, el Presidente José Antonio Kast repuso el gabinete de la Primera Dama,",
+   "en": "Here in «Chile», President «José Antonio Kast» has brought back the First Lady's office,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "disuelto hace cuatro años.",
+   "en": "which was wound up four years ago.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según La Tercera,",
+   "en": "According to «La Tercera»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "una resolución de Presidencia fechada el trece de mayo reincorpora la repartición que fue suprimida en dos mil veintidós,",
+   "en": "a Presidency resolution dated the thirteenth of May reinstates the department that was abolished in 2022,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tras la reformulación del rol que impulsó Irina Karamanos.",
+   "en": "after «Irina Karamanos» reshaped the job.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La oficina asesorará a Pía Adriasola en actividades oficiales, sociales y culturales.",
+   "en": "The office will advise «Pía Adriasola» on official, social and cultural engagements.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ex-Ante, que accedió al documento,",
+   "en": "«Ex-Ante», which has seen the document,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "precisa que la resolución otorga respaldo institucional a la figura de la Primera Dama y fija funciones específicas del equipo.",
+   "en": "says the resolution gives the First Lady institutional standing and sets out what her team is there to do.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Radio Universidad de Chile agrega que, según La Moneda,",
+   "en": "«Radio Universidad de Chile» adds that, according to «La Moneda»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la decisión busca ajustar la estructura organizacional de la Presidencia.",
+   "en": "the decision is meant to adjust how the Presidency is organised.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El objetivo declarado es responder de manera más eficiente y oportuna a los requerimientos institucionales.",
+   "en": "The stated aim is to answer institutional demands more efficiently and in better time.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En lo demás, el ministro Arrau lamentó la resolución que revierte el traslado del clan Chen",
+   "en": "In other news, minister «Arrau» has regretted the ruling that reverses the transfer of the «Chen» clan",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a una cárcel de alta seguridad, según CIPER.",
+   "en": "to a high security prison, according to «CIPER».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Tercera cuenta que los republicanos buscan aprovechar ese golpe al Plan Cancerbero para insistir",
+   "en": "«La Tercera» reports that the Republicans want to use that blow to the «Plan Cancerbero» to press",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la reforma constitucional.",
+   "en": "on with the constitutional reform.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El diputado Cristián Araya espera que el caso sirva de antecedente",
+   "en": "The deputy «Cristián Araya» hopes the case will serve as a precedent",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para quienes sostenían que la reforma no era necesaria.",
+   "en": "for those who argued the reform was not needed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dentro del oficialismo, en cambio,",
+   "en": "Within the governing side, though,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "hay voces que piden retirarla.",
+   "en": "there are voices asking for it to be withdrawn.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo principal.",
+   "en": "That is the core of it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Thursday 27 August",
+ "edition": "morning",
+ "region": "es-CL",
+ "region_label": "Chile",
+ "headline_en": "Argentina's defence minister calls Santiago over the Magellan Strait",
+ "summary_en": [
+  "Argentina's defence minister calls Santiago over the Magellan Strait",
+  "President Kast restores the First Lady's office",
+  "The Chen clan ruling puts the security reform back in play"
+ ]
+}

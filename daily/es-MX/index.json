@@ -5,6 +5,47 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-MX-El noticiario matutino, jueves 27 de agosto",
+   "file": "podcast-daily-2026-08-27-morning-news-es-MX.json",
+   "bytes": 14697,
+   "sha256": "f86cda62f52e843a2bc3f2cb7f22c34c6e13d9e78d463a08528e787edd559a11",
+   "date": "2026-08-27",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El noticiario matutino, jueves 27 de agosto",
+   "title_en": "The morning news, Thursday 27 August",
+   "headline_en": "A glacier collapse sets off huge floods on the Nepal to Tibet border",
+   "summary_en": [
+    "A glacier collapse sets off huge floods on the Nepal to Tibet border",
+    "Senator Enrique Inzunza leaves Morena's group in the Senate",
+    "The Electoral Tribunal orders the party Somos Mexico to change its name"
+   ]
+  },
+  {
+   "id": "es-MX-El clima, jueves 27 de agosto",
+   "file": "podcast-daily-2026-08-27-morning-weather-es-MX.json",
+   "bytes": 4634,
+   "sha256": "5f9e21e2b1594e1eb44f60dbf90a2e7e52a11087160f7376ce4aa2d1adee5f59",
+   "date": "2026-08-27",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El clima, jueves 27 de agosto",
+   "title_en": "Today's weather, Thursday 27 August",
+   "headline_en": "Previsión para Monterrey, jueves 2026-08-27",
+   "summary_en": [
+    "Previsión para Monterrey, jueves 2026-08-27",
+    "Previsión para Ciudad de México, jueves 2026-08-27"
+   ]
+  },
+  {
    "id": "es-MX-El noticiario matutino, miércoles 26 de agosto",
    "file": "podcast-daily-2026-08-26-morning-news-es-MX.json",
    "bytes": 15927,

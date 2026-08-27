@@ -1,0 +1,510 @@
+{
+ "title": "El noticiero de la mañana, jueves 27 de agosto",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-27",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Jueves veintisiete de agosto, siete de la mañana.",
+   "en": "Thursday the twenty-seventh of August, seven in the morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El noticiero de la mañana.",
+   "en": "The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Una riada devastadora golpea el norte de Nepal.",
+   "en": "A devastating flood hits northern «Nepal».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Senado sesiona hoy por sesenta y siete pliegos judiciales.",
+   "en": "The Senate sits today on sixty-seven judicial appointments.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y Diputados le dio media sanción a la reforma del Banco Central.",
+   "en": "And the Deputies have given the Central Bank reform its first passage.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos por Nepal, donde unos aludes provocaron una inundación devastadora en el norte del país,",
+   "en": "We start in «Nepal», where landslides set off a devastating flood in the north of the country,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según Ámbito y Clarín.",
+   "en": "according to «Ámbito» and «Clarín».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Entre los desaparecidos hay cientos de turistas.",
+   "en": "Among the missing are hundreds of tourists.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las autoridades chinas están en alerta por un lago de represamiento natural formado aguas arriba,",
+   "en": "The Chinese authorities are on alert over a natural dam lake that has formed upstream, which could",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que también podría colapsar.",
+   "en": "also give way.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según Ámbito, las autoridades buscan a más de mil trescientas personas,",
+   "en": "According to «Ámbito», the authorities are looking for more than thirteen hundred people,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "entre ellas cientos de extranjeros.",
+   "en": "among them hundreds of foreigners.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Acá en la Argentina, el Senado sesiona este jueves, según Ámbito y Clarín.",
+   "en": "Here in «la Argentina», the Senate sits this Thursday, according to «Ámbito» and «Clarín».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se avanzará con sesenta y siete pliegos judiciales y cinco tratados internacionales,",
+   "en": "It will move on sixty-seven judicial appointments and five international treaties,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "mientras que los proyectos del ministro de Desregulación quedaron en stand by.",
+   "en": "while the deregulation minister's bills have been left on hold.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La sesión fue convocada para las once por la vicepresidenta Victoria Villarruel.",
+   "en": "The sitting was called for eleven o'clock by the vice-president, «Victoria Villarruel».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Entre los nominados están Pablo Bertuzzi y Pablo Yadarola,",
+   "en": "The nominees include «Pablo Bertuzzi» and «Pablo Yadarola»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que pueden decidir en causas sensibles.",
+   "en": "who could rule on sensitive cases.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También en la agenda, Diputados le dio media sanción a la reforma de la carta orgánica del Banco Central,",
+   "en": "In other news, the Deputies have given the reform of the Central Bank's",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según La Nación y Ámbito.",
+   "en": "charter its first passage, according to «La Nación» and «Ámbito».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El proyecto se aprobó en general con ciento cuarenta y cuatro votos a favor,",
+   "en": "The bill passed in general by a hundred and forty-four votes to a hundred and two,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ciento dos en contra y nueve abstenciones.",
+   "en": "with nine abstentions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La sesión terminó minutos antes de las cuatro de la madrugada.",
+   "en": "The sitting ended minutes before four in the morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La reforma apunta a reforzar la independencia del Banco Central y redefine los objetivos de la entidad.",
+   "en": "The reform is meant to strengthen the Central Bank's independence and it redefines what the institution is for.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También establece nuevas reglas sobre reservas,",
+   "en": "It also sets new rules on reserves,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "utilidades y estabilidad de su directorio.",
+   "en": "profits and the stability of its board.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de tema ahora,",
+   "en": "Moving on,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el Gobierno destinará dos billones de pesos del fondo de garantía de la Anses para fondear a los bancos,",
+   "en": "the government will put two trillion pesos from the «Anses» guarantee fund into funding the banks,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según La Nación.",
+   "en": "according to «La Nación».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La medida busca ampliar la oferta de préstamos para la compra de la primera vivienda.",
+   "en": "The measure is meant to widen the supply of loans for buying a first home.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ámbito precisó que el esquema fija un tope de UVA más siete y medio por ciento para las nuevas líneas,",
+   "en": "«Ámbito» spelled out that the scheme caps the new lines at «UVA» plus seven and a half per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "aunque el impacto sobre las tasas dependerá de cada banco.",
+   "en": "though what happens to rates will depend on each bank.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otro tema, Diputados aprobó la adhesión al tratado internacional de cooperación en materia de patentes,",
+   "en": "Turning to something else, the Deputies have approved joining the international patent cooperation treaty,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según Ámbito, Clarín y La Nación.",
+   "en": "according to «Ámbito», «Clarín» and «La Nación».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La votación fue de ciento cuarenta y siete a favor y noventa y tres en contra.",
+   "en": "The vote was a hundred and forty-seven in favour and ninety-three against.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La reserva del capítulo dos,",
+   "en": "The reservation on chapter two,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "clave para los laboratorios nacionales,",
+   "en": "which matters to the domestic drug companies,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "obliga a que el proyecto vuelva al Senado.",
+   "en": "sends the bill back to the Senate.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La iniciativa había sido prometida por el Gobierno argentino a Donald Trump,",
+   "en": "The government had promised it to «Donald Trump»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y ya tenía media sanción del Senado desde mil novecientos noventa y ocho.",
+   "en": "and it had already passed the Senate once, back in 1998.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La cámara empresaria CILFA advirtió que el acuerdo demorará la aparición de los genéricos y hará subir los precios.",
+   "en": "The industry body «CILFA» warned that the deal will delay generic medicines and push prices up.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para el final, la Inocencia Fiscal dos también consiguió media sanción y pasa al Senado.",
+   "en": "Elsewhere, the second Fiscal Innocence bill has also cleared the Deputies and goes to the Senate.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se aprobó con ciento treinta y nueve votos a favor,",
+   "en": "It was approved by a hundred and thirty-nine votes",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ciento diez en contra y dos abstenciones.",
+   "en": "to a hundred and ten, with two abstentions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La reforma busca ampliar el universo de contribuyentes que puedan formalizar ahorros sin penalidades,",
+   "en": "The reform is meant to widen the range of taxpayers who can bring savings into the open without penalty,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y los funcionarios quedaron fuera de esos beneficios.",
+   "en": "and public officials were left out of those benefits.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La oposición denunció un nuevo blanqueo.",
+   "en": "The opposition called it another amnesty.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo central.",
+   "en": "That is the heart of it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Thursday 27 August",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Landslides set off a devastating flood in northern Nepal",
+ "summary_en": [
+  "Landslides set off a devastating flood in northern Nepal",
+  "The Senate sits today on 67 judicial appointments",
+  "The Deputies pass the Central Bank charter reform at first reading"
+ ]
+}

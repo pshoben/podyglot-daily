@@ -5,6 +5,47 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-AR-El noticiero de la mañana, jueves 27 de agosto",
+   "file": "podcast-daily-2026-08-27-morning-news-es-AR.json",
+   "bytes": 13282,
+   "sha256": "2db118a24a9bfc313a466000bdf8cd58d41ed6b0b3aaa8b5ac40d65e6dd0e6da",
+   "date": "2026-08-27",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El noticiero de la mañana, jueves 27 de agosto",
+   "title_en": "The morning news, Thursday 27 August",
+   "headline_en": "Landslides set off a devastating flood in northern Nepal",
+   "summary_en": [
+    "Landslides set off a devastating flood in northern Nepal",
+    "The Senate sits today on 67 judicial appointments",
+    "The Deputies pass the Central Bank charter reform at first reading"
+   ]
+  },
+  {
+   "id": "es-AR-El pronóstico, jueves 27 de agosto",
+   "file": "podcast-daily-2026-08-27-morning-weather-es-AR.json",
+   "bytes": 4861,
+   "sha256": "0654e56b6f3bb42078ea3c7bc31bc8352c76795ed267a09e2549f296bb546e3d",
+   "date": "2026-08-27",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El pronóstico, jueves 27 de agosto",
+   "title_en": "Today's weather, Thursday 27 August",
+   "headline_en": "Previsión para Buenos Aires, jueves 2026-08-27",
+   "summary_en": [
+    "Previsión para Buenos Aires, jueves 2026-08-27",
+    "Previsión para Mendoza, jueves 2026-08-27"
+   ]
+  },
+  {
    "id": "es-AR-El noticiero de la mañana, miércoles 26 de agosto",
    "file": "podcast-daily-2026-08-26-morning-news-es-AR.json",
    "bytes": 8648,

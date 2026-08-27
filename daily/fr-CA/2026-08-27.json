@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-CA",
+ "date": "2026-08-27",
+ "episodes": [
+  {
+   "id": "fr-CA-Le bulletin du matin, jeudi 27 août",
+   "file": "podcast-daily-2026-08-27-morning-news-fr-CA.json",
+   "bytes": 10789,
+   "sha256": "43b5396b93fea05e097bbec241f49ae8e54a8a0211ffe52389c74f546bc8e197",
+   "date": "2026-08-27",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin du matin, jeudi 27 août",
+   "title_en": "The morning news, Thursday 27 August",
+   "headline_en": "A wall of mud devastates the border between Nepal and China",
+   "summary_en": [
+    "A wall of mud devastates the border between Nepal and China",
+    "The Quebec election campaign is triggered today, for a 5 October vote",
+    "Ottawa takes seafood off its counter-tariff list"
+   ]
+  },
+  {
+   "id": "fr-CA-Le bulletin météo, jeudi 27 août",
+   "file": "podcast-daily-2026-08-27-morning-weather-fr-CA.json",
+   "bytes": 5010,
+   "sha256": "b52c93ec3d575143b070aaa94d81b27e9295b01a69816b5cc38381a850707a4b",
+   "date": "2026-08-27",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin météo, jeudi 27 août",
+   "title_en": "Today's weather, Thursday 27 August",
+   "headline_en": "Prévision pour Montréal, jeudi 2026-08-27",
+   "summary_en": [
+    "Prévision pour Montréal, jeudi 2026-08-27",
+    "Prévision pour Québec, jeudi 2026-08-27"
+   ]
+  }
+ ],
+ "content": "ef621304e66836399f12e2c46622e9a0f508a2c7a1e2c8c8ad46524e4e3ae5ae",
+ "rev": 1,
+ "updated": "2026-08-27T14:02:19.583Z"
+}

@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-CL",
+ "date": "2026-08-27",
+ "episodes": [
+  {
+   "id": "es-CL-Las noticias de la mañana, jueves 27 de agosto",
+   "file": "podcast-daily-2026-08-27-morning-news-es-CL.json",
+   "bytes": 9583,
+   "sha256": "6d3db180147f0a885e5f574d0d00189e70ffcc5d3a447c009e4516c252578adc",
+   "date": "2026-08-27",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "Las noticias de la mañana, jueves 27 de agosto",
+   "title_en": "The morning news, Thursday 27 August",
+   "headline_en": "Argentina's defence minister calls Santiago over the Magellan Strait",
+   "summary_en": [
+    "Argentina's defence minister calls Santiago over the Magellan Strait",
+    "President Kast restores the First Lady's office",
+    "The Chen clan ruling puts the security reform back in play"
+   ]
+  },
+  {
+   "id": "es-CL-El estado del tiempo, jueves 27 de agosto",
+   "file": "podcast-daily-2026-08-27-morning-weather-es-CL.json",
+   "bytes": 4810,
+   "sha256": "8963294ebc029ae1e53ca61b473082f03d46fd8f4a84243d5037c7057b44f8ae",
+   "date": "2026-08-27",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "El estado del tiempo, jueves 27 de agosto",
+   "title_en": "Today's weather, Thursday 27 August",
+   "headline_en": "Previsión para Santiago, jueves 2026-08-27",
+   "summary_en": [
+    "Previsión para Santiago, jueves 2026-08-27",
+    "Previsión para Concepción, jueves 2026-08-27"
+   ]
+  }
+ ],
+ "content": "5ee2062e43f05faec479c85f7aaaf9cbe4eebe15fcd75726ddf39c6cc58eee30",
+ "rev": 1,
+ "updated": "2026-08-27T14:02:19.583Z"
+}

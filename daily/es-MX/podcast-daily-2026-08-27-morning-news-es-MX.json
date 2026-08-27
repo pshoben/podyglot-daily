@@ -1,0 +1,570 @@
+{
+ "title": "El noticiario matutino, jueves 27 de agosto",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-news",
+   "wpm": 186,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-27",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Jueves veintisiete de agosto, siete de la mañana. El noticiario matutino.",
+   "en": "Thursday the twenty-seventh of August, seven in the morning. The morning news programme.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El derrumbe de un glaciar deja riadas devastadoras en la frontera entre Nepal y China.",
+   "en": "A glacier collapse leaves devastating floods on the border between «Nepal» and China.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El senador Enrique Inzunza deja la bancada de Morena en el Senado.",
+   "en": "Senator «Enrique Inzunza» leaves «Morena»'s group in the Senate.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el Tribunal Electoral ordena al partido Somos México cambiar de nombre.",
+   "en": "And the Electoral Tribunal orders the party «Somos México» to change its name.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Arrancamos con Nepal,",
+   "en": "We start in «Nepal»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "donde el colapso de un glaciar provocó riadas gigantescas y repentinas,",
+   "en": "where the collapse of a glacier set off huge and sudden floods,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según La Jornada, El Economista y Reforma.",
+   "en": "according to «La Jornada», «El Economista» and «Reforma».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las aguas arrasaron comunidades y paralizaron los viajes en parte del país.",
+   "en": "The water swept away communities and brought travel to a halt in part of the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las cifras de víctimas no coinciden.",
+   "en": "The casualty figures do not agree.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Jornada y El Economista hablan de al menos ciento sesenta y cinco muertos.",
+   "en": "«La Jornada» and «El Economista» put the toll at at least a hundred and sixty-five dead.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Reforma cita a la policía de Nepal,",
+   "en": "«Reforma» cites the «Nepal» police,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con trescientos cincuenta y tres muertos y mil trescientos desaparecidos.",
+   "en": "with three hundred and fifty-three dead and thirteen hundred missing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Jornada agrega que hay cientos de turistas y trabajadores desaparecidos.",
+   "en": "«La Jornada» adds that hundreds of tourists and workers are missing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en México, el senador Enrique Inzunza Cázares dejó la bancada de Morena en el",
+   "en": "Here in «México», Senator «Enrique Inzunza Cázares» has left «Morena»'s group in the Senate,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Senado, según La Jornada, El Financiero y El Economista.",
+   "en": "according to «La Jornada», «El Financiero» and «El Economista».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguirá en su cargo como legislador independiente, en lugar de pedir licencia.",
+   "en": "He will stay in his seat as an independent legislator rather than ask for leave.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según El Financiero, la salida ocurre en medio de señalamientos por presuntos nexos",
+   "en": "According to «El Financiero», the departure comes amid allegations of supposed links",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con Los Chapitos.",
+   "en": "to «Los Chapitos».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Economista la sitúa en medio de señalamientos del gobierno de Estados Unidos",
+   "en": "«El Economista» places it amid allegations by the United States government",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por presuntas actividades delictivas.",
+   "en": "about supposed criminal activity.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según La Jornada y El Financiero,",
+   "en": "According to «La Jornada» and «El Financiero»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el coordinador de Morena en el Senado, Ignacio Mier,",
+   "en": "«Morena»'s Senate leader, «Ignacio Mier»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le había pedido solicitar licencia.",
+   "en": "had asked him to request leave.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La presidenta Claudia Sheinbaum también se lo había pedido,",
+   "en": "President «Claudia Sheinbaum» had asked him the same,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pero él prefirió dejar la bancada.",
+   "en": "but he chose to leave the group instead.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Inzunza le comentó a Mier que quería salir del grupo",
+   "en": "«Inzunza» told «Mier» that he wanted to leave the group",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ante las acusaciones en su contra.",
+   "en": "in the face of the accusations against him.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En otros temas,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el Tribunal Electoral del Poder Judicial de la Federación ordenó al partido Somos México cambiar su denominación,",
+   "en": "the Electoral Tribunal of the Federal Judiciary has ordered the party «Somos México» to change its name,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "su emblema y sus colores a más tardar el día treinta y uno,",
+   "en": "its emblem and its colours by the thirty-first,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según La Jornada.",
+   "en": "according to «La Jornada».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para el tribunal, el verbo somos, en combinación con México,",
+   "en": "For the tribunal, the verb «somos», put together with «México»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "genera una apropiación simbólica de la identidad nacional.",
+   "en": "amounts to a symbolic appropriation of the national identity.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Financiero recoge el voto en contra del magistrado Reyes Rodríguez Mondragón,",
+   "en": "«El Financiero» carries the dissent of judge «Reyes Rodríguez Mondragón»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para quien la ley sólo exige que el nombre de un partido no haga alusiones religiosas o raciales.",
+   "en": "for whom the law asks only that a party's name make no religious or racial allusion.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasamos a otro asunto, el Banco de México elevó su estimación de crecimiento",
+   "en": "Moving on, the Bank of «México» has raised its growth estimate",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para este año, de uno punto uno a uno punto cinco por ciento,",
+   "en": "for this year, from one point one to one point five per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según La Jornada y El Economista.",
+   "en": "according to «La Jornada» and «El Economista».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su gobernadora, Victoria Rodríguez Ceja,",
+   "en": "Its governor, «Victoria Rodríguez Ceja»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "lo atribuyó a que la actividad económica entre abril y junio fue más robusta de lo previsto.",
+   "en": "put that down to economic activity between April and June being stronger than expected.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para el resto del año,",
+   "en": "For the rest of the year,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el banco central prevé una recuperación gradual del consumo privado.",
+   "en": "the central bank expects a gradual recovery in household spending.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otra noticia,",
+   "en": "Turning to something else,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Meta aceptó pagar casi diecisiete mil millones de dólares y restringir el uso de Instagram y Facebook a los adolescentes en Estados Unidos.",
+   "en": "«Meta» has agreed to pay almost seventeen billion dollars and to limit the use of «Instagram» and «Facebook» by teenagers in the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El acuerdo pone fin a un juicio histórico",
+   "en": "The settlement ends a landmark trial",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por la adicción de los menores a las redes sociales.",
+   "en": "over children's addiction to social media.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esa cifra contrasta con las demandas de veintinueve estados,",
+   "en": "That figure is set against the claims of twenty-nine states,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que ascendían a doscientos mil millones de dólares.",
+   "en": "which came to two hundred billion dollars.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cerramos con otro tema,",
+   "en": "Elsewhere,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el Inegi reportó que la pobreza laboral bajó a treinta y uno punto nueve por ciento en el segundo trimestre.",
+   "en": "«Inegi» has reported that labour poverty fell to thirty-one point nine per cent in the second quarter.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es una caída anual de tres puntos porcentuales y dos décimas.",
+   "en": "That is a fall of three point two percentage points over the year.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El indicador pasó de treinta y cinco punto uno a treinta y uno punto nueve por ciento,",
+   "en": "The measure went from thirty-five point one to thirty-one point nine per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el ingreso laboral real por persona creció ocho por ciento en el año.",
+   "en": "and real labour income per person grew eight per cent over the year.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más destacado.",
+   "en": "That is the pick of the morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Thursday 27 August",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "A glacier collapse sets off huge floods on the Nepal to Tibet border",
+ "summary_en": [
+  "A glacier collapse sets off huge floods on the Nepal to Tibet border",
+  "Senator Enrique Inzunza leaves Morena's group in the Senate",
+  "The Electoral Tribunal orders the party Somos Mexico to change its name"
+ ]
+}

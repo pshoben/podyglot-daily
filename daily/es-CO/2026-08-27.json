@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-CO",
+ "date": "2026-08-27",
+ "episodes": [
+  {
+   "id": "es-CO-La actualidad de la mañana, jueves 27 de agosto",
+   "file": "podcast-daily-2026-08-27-morning-news-es-CO.json",
+   "bytes": 10838,
+   "sha256": "172706cf1eddcb0e7bc21f9594f43da9538878c13d68fd58087a3b19fa2c0b91",
+   "date": "2026-08-27",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "La actualidad de la mañana, jueves 27 de agosto",
+   "title_en": "The morning news, Thursday 27 August",
+   "headline_en": "A torrent of mud buries buildings on the Nepal to China border",
+   "summary_en": [
+    "A torrent of mud buries buildings on the Nepal to China border",
+    "The president signs five extradition orders to the United States",
+    "The president travels to Ibague today over the Tolima fires"
+   ]
+  },
+  {
+   "id": "es-CO-El clima de hoy, jueves 27 de agosto",
+   "file": "podcast-daily-2026-08-27-morning-weather-es-CO.json",
+   "bytes": 5111,
+   "sha256": "fdd80f6e09290664628e2b92934104d96723d40b58385e615cfa2039a5157b1d",
+   "date": "2026-08-27",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "El clima de hoy, jueves 27 de agosto",
+   "title_en": "Today's weather, Thursday 27 August",
+   "headline_en": "Previsión para Bogotá, jueves 2026-08-27",
+   "summary_en": [
+    "Previsión para Bogotá, jueves 2026-08-27",
+    "Previsión para Cali, jueves 2026-08-27"
+   ]
+  }
+ ],
+ "content": "53e5e71151e2c45e6735ca93cc2c87bf2569c5d3533d2f6aeab4e0bfa65dd746",
+ "rev": 1,
+ "updated": "2026-08-27T14:02:19.583Z"
+}
