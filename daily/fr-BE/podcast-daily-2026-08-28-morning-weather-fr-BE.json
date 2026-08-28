@@ -1,0 +1,229 @@
+{
+ "title": "Le temps chez nous, vendredi 28 août",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-weather",
+   "wpm": 222,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-28",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Au-dessus de nos têtes, le ciel de ce vendredi.",
+   "en": "Above our heads, the sky for this Friday.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Institut royal météorologique a émis une alerte jaune, selon la DH.",
+   "en": "The «Institut royal météorologique» has put out a yellow alert, according to the «DH».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Deux épisodes orageux étaient attendus,",
+   "en": "Two spells of storms were expected,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "jeudi soir et dans la nuit,",
+   "en": "on Thursday evening and overnight,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "puis à nouveau dans la journée de vendredi.",
+   "en": "then again during the day on Friday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Par endroits, les précipitations pourraient dépasser au total cinquante litres par mètre carré.",
+   "en": "In places, the rain could come to more than fifty litres per square metre in total.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon La Libre, des averses parfois orageuses,",
+   "en": "According to «La Libre», showers, thundery at times,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de fortes rafales et des éclaircies se succéderont dans la journée.",
+   "en": "strong gusts and sunny spells will follow one another through the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les maxima sont compris entre dix-neuf et vingt-quatre degrés.",
+   "en": "The highs are between nineteen and twenty-four degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Bruxelles, selon le modèle du Centre européen, l'ECMWF, de la pluie faible,",
+   "en": "In Brussels, according to the European Centre model, the «ECMWF», light rain,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un maximum de vingt degrés et un minimum de dix-sept.",
+   "en": "a high of twenty degrees and a low of seventeen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y monte jusqu'à dix-neuf kilomètres par heure.",
+   "en": "The wind there climbs to nineteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Liège passe la journée sous les averses,",
+   "en": "«Liège» spends the day under showers,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "entre dix-sept et vingt et un degrés.",
+   "en": "between seventeen and twenty-one degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les rafales y atteignent dix-huit kilomètres par heure.",
+   "en": "Gusts there reach eighteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Namur, de la bruine,",
+   "en": "In «Namur», drizzle,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un maximum de vingt-deux degrés et un minimum de seize.",
+   "en": "with a high of twenty-two degrees and a low of sixteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est là que le vent souffle le plus fort,",
+   "en": "That is where the wind blows hardest,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "jusqu'à vingt-deux kilomètres par heure.",
+   "en": "up to twenty-two kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le temps chez nous.",
+   "en": "That is the weather here at home.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Friday 28 August",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "The IRM has a yellow alert out for two storm episodes",
+ "summary_en": [
+  "The IRM has a yellow alert out for two storm episodes",
+  "Showers and sunny spells, with highs between 19 and 24 degrees"
+ ]
+}

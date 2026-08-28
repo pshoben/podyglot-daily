@@ -1,0 +1,310 @@
+{
+ "title": "Le sept heures, vendredi 28 août",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-news",
+   "wpm": 222,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-28",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Vendredi vingt-huit août. Le sept heures.",
+   "en": "Friday the twenty-eighth of August. The seven o'clock news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des inondations massives ont frappé la frontière entre le Népal et le Tibet.",
+   "en": "Massive flooding has hit the border between «Népal» and «Tibet».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et la grève chez Letec perturbe les transports wallons ce matin.",
+   "en": "And the «Letec» strike is disrupting Walloon transport this morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On ouvre avec le Népal,",
+   "en": "We open in «Népal»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où l'effondrement d'un glacier a provoqué mercredi matin une gigantesque coulée de boue et des inondations massives,",
+   "en": "where the collapse of a glacier set off a huge mudslide and massive flooding on Wednesday morning,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon 7sur7 et La Libre.",
+   "en": "according to «7sur7» and «La Libre».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le bilan provisoire atteint au moins quatre cent septante-deux morts.",
+   "en": "The provisional toll has reached at least four hundred and seventy-two dead.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Plus de mille quatre cents personnes sont portées disparues.",
+   "en": "More than one thousand four hundred people are missing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Trois Belges se trouvaient dans la région,",
+   "en": "Three Belgians were in the region,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et les Affaires étrangères sont sans nouvelles d'eux à ce stade.",
+   "en": "and the foreign ministry has had no word of them so far.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Une centaine d'ouvriers restent coincés dans un tunnel, du côté népalais.",
+   "en": "About a hundred workers are still trapped in a tunnel on the Nepalese side.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Du côté tibétain, les secours ont été suspendus:",
+   "en": "On the «Tibet» side, rescue work has been called off:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "une vaste retenue d'eau risque de céder.",
+   "en": "a large body of water is at risk of giving way.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De nouvelles coulées de boue sont sérieusement redoutées.",
+   "en": "Further mudslides are seriously feared.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Chez nous, le mouvement de grève continue de perturber le réseau de transports en commun",
+   "en": "Here at home, the strike is still disrupting the Walloon public transport network,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "wallon, le Letec, ce vendredi matin,",
+   "en": "the «Letec», this Friday morning,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après La Libre et 7sur7.",
+   "en": "according to «La Libre» and «7sur7».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La situation varie fortement d'une région à l'autre.",
+   "en": "The picture varies a great deal from one region to another.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Charleroi, les dépôts de Jumet et de Genson sont bloqués.",
+   "en": "At «Charleroi», the «Jumet» and «Genson» depots are blocked.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans la zone de Liège et de Verviers,",
+   "en": "In the «Liège» and «Verviers» zone,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les dépôts sont accessibles et les véhicules sortent normalement.",
+   "en": "the depots are open and vehicles are getting out normally.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un retour à la normale est espéré pour samedi.",
+   "en": "Things are expected back to normal on Saturday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ailleurs dans l'actu, les Belges n'ont jamais été autant au travail depuis deux mille vingt,",
+   "en": "In other news, Belgians have not been at work this much since two thousand and twenty,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon une étude d'Acerta relayée par Le Vif et La Libre.",
+   "en": "according to an «Acerta» study passed on by «Le Vif» and «La Libre».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle porte sur quatre cent trente-deux mille travailleurs.",
+   "en": "It covers four hundred and thirty-two thousand workers.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Près de quatre-vingt-sept pour cent des heures de travail possibles ont été prestées.",
+   "en": "Close to eighty-seven per cent of possible working hours were actually worked.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est un record.",
+   "en": "That is a record.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà où nous en sommes.",
+   "en": "That is where things stand.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Friday 28 August",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "A glacier collapse set off a huge flood on the Nepal to Tibet border",
+ "summary_en": [
+  "A glacier collapse set off a huge flood on the Nepal to Tibet border",
+  "A strike is disrupting the Walloon public transport network",
+  "The provisional toll reaches at least 472 dead and more than 1,400 missing"
+ ]
+}

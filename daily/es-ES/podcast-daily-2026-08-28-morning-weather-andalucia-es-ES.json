@@ -1,0 +1,153 @@
+{
+ "title": "El tiempo en Andalucía, viernes 28 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-andalucia",
+   "wpm": 208,
+   "rate_multiplier": 0.73,
+   "pitch_multiplier": 0.79
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-andalucia",
+ "date": "2026-08-28",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Por el valle del Guadalquivir,",
+   "en": "Along the «Guadalquivir» valley,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sevilla se queda hoy en treinta y un grados de máxima y quince de mínima,",
+   "en": "«Sevilla» stays at a high of thirty-one degrees today and a low of fifteen,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según la Aemet.",
+   "en": "according to the «Aemet».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo está despejado y no se espera lluvia en todo el día.",
+   "en": "The sky is clear and no rain is expected all day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento del nordeste apenas llega a cinco kilómetros por hora.",
+   "en": "The north-east wind barely reaches five kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Tierra adentro, en Córdoba,",
+   "en": "Inland, in «Córdoba»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la máxima sube a treinta y dos grados y la mínima baja a catorce.",
+   "en": "the high climbs to thirty-two degrees and the low drops to fourteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También allí el cielo está despejado, sin probabilidad de precipitación.",
+   "en": "The sky is clear there too, with no chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la costa, Málaga se queda en treinta grados, con diecinueve de mínima.",
+   "en": "On the coast, «Málaga» stays at thirty degrees, with a low of nineteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo está poco nuboso por la mañana y despejado por la tarde.",
+   "en": "The sky is lightly clouded in the morning and clear in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento del este llega allí a veinte kilómetros por hora.",
+   "en": "The east wind reaches twenty kilometres an hour there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es Andalucía.",
+   "en": "That is «Andalucía».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 3,
+ "handover": "junction",
+ "title_en": "Today's weather, Andalusia, Friday 28 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Andalucía",
+ "accent": "Andalucía",
+ "accent_label": "acento de Andalucía",
+ "segment_order": 1,
+ "headline_en": "Predicción AEMET para Sevilla (Sevilla), 2026-08-28",
+ "summary_en": [
+  "Predicción AEMET para Sevilla (Sevilla), 2026-08-28",
+  "Predicción AEMET para Córdoba (Córdoba), 2026-08-28"
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-BE",
+ "date": "2026-08-28",
+ "episodes": [
+  {
+   "id": "fr-BE-Le sept heures, vendredi 28 août",
+   "file": "podcast-daily-2026-08-28-morning-news-fr-BE.json",
+   "bytes": 7818,
+   "sha256": "a907d67b6a6141763f29bd6b43ec3e2d0a1947fed4bf41e1ad58edf862a463e3",
+   "date": "2026-08-28",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, vendredi 28 août",
+   "title_en": "The morning news, Friday 28 August",
+   "headline_en": "A glacier collapse set off a huge flood on the Nepal to Tibet border",
+   "summary_en": [
+    "A glacier collapse set off a huge flood on the Nepal to Tibet border",
+    "A strike is disrupting the Walloon public transport network",
+    "The provisional toll reaches at least 472 dead and more than 1,400 missing"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, vendredi 28 août",
+   "file": "podcast-daily-2026-08-28-morning-weather-fr-BE.json",
+   "bytes": 5505,
+   "sha256": "933a22a81f9e59656ad38d549a11be3a74d4c258c0202a7992de20243c8a7b78",
+   "date": "2026-08-28",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, vendredi 28 août",
+   "title_en": "Today's weather, Friday 28 August",
+   "headline_en": "The IRM has a yellow alert out for two storm episodes",
+   "summary_en": [
+    "The IRM has a yellow alert out for two storm episodes",
+    "Showers and sunny spells, with highs between 19 and 24 degrees"
+   ]
+  }
+ ],
+ "content": "cc75952b34ca7f9a6f3fc77fe52e198013419c800410375edaca5f9467d79377",
+ "rev": 1,
+ "updated": "2026-08-28T07:00:27.580Z"
+}

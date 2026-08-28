@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-FR",
+ "date": "2026-08-28",
+ "episodes": [
+  {
+   "id": "fr-FR-Le journal du matin, vendredi 28 août",
+   "file": "podcast-daily-2026-08-28-morning-news-fr-FR.json",
+   "bytes": 11397,
+   "sha256": "59d036507436bb31250dd6a516d9aa1dcf543646cdfcdbb1169597d2bc87de09",
+   "date": "2026-08-28",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, vendredi 28 août",
+   "title_en": "The morning news, Friday 28 August",
+   "headline_en": "A giant flood devastates the Nepal to Tibet border after a glacier collapse",
+   "summary_en": [
+    "A giant flood devastates the Nepal to Tibet border after a glacier collapse",
+    "A French Foreign Legion corporal has been kidnapped in south-west Colombia",
+    "Seven presidential candidates debated the economy at the employers' summer gathering"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, vendredi 28 août",
+   "file": "podcast-daily-2026-08-28-morning-weather-fr-FR.json",
+   "bytes": 6449,
+   "sha256": "608129e785eca5289f39cdceb4ae823390d46fa315646d0b68502f1b7258d150",
+   "date": "2026-08-28",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, vendredi 28 août",
+   "title_en": "Today's weather, Friday 28 August",
+   "headline_en": "Violent storms tore through the Paris region on Thursday evening",
+   "summary_en": [
+    "Violent storms tore through the Paris region on Thursday evening",
+    "Seven eastern departments stay on orange storm alert until ten this morning"
+   ]
+  }
+ ],
+ "content": "d1bec9a6412692b4f9ce36dae4052fb877b9d8959f756b1438f330abb2420a5b",
+ "rev": 1,
+ "updated": "2026-08-28T07:00:27.580Z"
+}

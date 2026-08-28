@@ -1,0 +1,189 @@
+{
+ "title": "Los deportes, viernes 28 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-sport",
+   "wpm": 208,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-28",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Los deportes, este viernes por la mañana.",
+   "en": "Sport, this Friday morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hoy en la agenda, el Alavés recibe al Villarreal en Mendizorroza,",
+   "en": "In other news, «Alavés» host «Villarreal» at «Mendizorroza»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la tercera jornada de LaLiga,",
+   "en": "on the third matchday of «LaLiga»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según Marca y Mundo Deportivo.",
+   "en": "according to «Marca» and «Mundo Deportivo».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se esperan pocos cambios en los dos onces.",
+   "en": "Few changes are expected in either starting eleven.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mariano podría volver a ser suplente,",
+   "en": "«Mariano» could be a substitute again,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y Nathan Saliba está en la lista amarilla.",
+   "en": "and «Nathan Saliba» is one booking away from a suspension.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo que se juega, en Europa,",
+   "en": "Moving on, in Europe,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el sorteo de la Champions ya ha colocado a los treinta y seis equipos",
+   "en": "the «Champions» draw has now given the thirty-six teams",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con sus ocho rivales de la fase liga,",
+   "en": "their eight league-phase opponents,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según ABC y Mundo Deportivo.",
+   "en": "according to «ABC» and «Mundo Deportivo».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es la tercera edición con el nuevo formato,",
+   "en": "It is the third edition of the new format,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la fase liga está programada hasta el mes de enero.",
+   "en": "and the league phase is scheduled through to January.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los cinco clubes españoles ya saben a quién se enfrentan.",
+   "en": "The five Spanish clubs now know who they are facing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Al Barcelona le han tocado el Paris Saint-Germain y el Manchester City.",
+   "en": "«Barcelona» drew «Paris Saint-Germain» and «Manchester City».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí los deportes.",
+   "en": "That is sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Friday 28 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Alaves host Villarreal at Mendizorroza",
+ "summary_en": [
+  "Alaves host Villarreal at Mendizorroza",
+  "The Champions League draw has given the thirty-six teams their eight opponents"
+ ]
+}

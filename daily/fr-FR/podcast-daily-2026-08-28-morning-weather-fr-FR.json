@@ -1,0 +1,269 @@
+{
+ "title": "La météo, vendredi 28 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-28",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le temps qu'il fera aujourd'hui.",
+   "en": "The weather for today.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La nuit a été agitée:",
+   "en": "It was a rough night:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de violents orages se sont abattus sur la région parisienne jeudi en fin de journée.",
+   "en": "violent storms hit the «Paris» region late on Thursday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La pluie, la grêle et le vent ont arraché des arbres et perturbé les transports,",
+   "en": "Rain, hail and wind tore down trees and disrupted transport,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de la Seine-et-Marne à Paris,",
+   "en": "from «Seine-et-Marne» to «Paris»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon Sud Ouest, Le Monde et Le Figaro.",
+   "en": "according to «Sud Ouest», «Le Monde» and «Le Figaro».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Val-de-Marne a été le département le plus touché.",
+   "en": "The «Val-de-Marne» was the worst hit department.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce matin, sept départements de l'est restent en vigilance orange aux orages jusqu'à dix heures,",
+   "en": "This morning, seven departments in the east stay on orange alert for thunderstorms until ten o'clock,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après France Télévisions et Le Figaro.",
+   "en": "according to «France Télévisions» and «Le Figaro».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Rhône, l'Ain, le Jura, le Doubs, le Territoire de Belfort,",
+   "en": "The «Rhône», the «Ain», the «Jura», the «Doubs», the «Territoire de Belfort»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le Haut-Rhin et le Bas-Rhin sont concernés.",
+   "en": "the «Haut-Rhin» and the «Bas-Rhin» are the ones affected.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De fortes pluies, de la grêle et de puissantes rafales y restent possibles.",
+   "en": "Heavy rain, hail and powerful gusts are still possible there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Paris, selon les modèles de Météo-France,",
+   "en": "In «Paris», according to the «Météo-France» models,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de la pluie faible et un maximum de vingt-trois degrés.",
+   "en": "light rain and a high of twenty-three degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le thermomètre y descend à dix-huit degrés,",
+   "en": "The temperature there drops to eighteen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un vent maximal de dix-huit kilomètres par heure.",
+   "en": "with a top wind speed of eighteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Bordeaux passe la journée sous la bruine,",
+   "en": "«Bordeaux» spends the day in drizzle,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "entre dix-neuf et vingt-cinq degrés.",
+   "en": "between nineteen and twenty-five degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les rafales y montent jusqu'à vingt et un kilomètres par heure.",
+   "en": "Gusts there climb to twenty-one kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Marseille garde de la bruine elle aussi,",
+   "en": "«Marseille» keeps the drizzle too,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un maximum de trente et un degrés.",
+   "en": "with a high of thirty-one degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le minimum y est de vingt-quatre degrés,",
+   "en": "The low there is twenty-four degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent plafonne à dix-sept kilomètres par heure.",
+   "en": "and the wind tops out at seventeen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Friday 28 August",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Violent storms tore through the Paris region on Thursday evening",
+ "summary_en": [
+  "Violent storms tore through the Paris region on Thursday evening",
+  "Seven eastern departments stay on orange storm alert until ten this morning"
+ ]
+}

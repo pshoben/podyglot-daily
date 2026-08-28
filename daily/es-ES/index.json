@@ -5,6 +5,107 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-ES-El informativo de la mañana, viernes 28 de agosto",
+   "file": "podcast-daily-2026-08-28-morning-news-es-ES.json",
+   "bytes": 9060,
+   "sha256": "993c2a6946a7346baeb8bc0cf86eccf03900f31288e3cf5614306c373fc17b14",
+   "date": "2026-08-28",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, viernes 28 de agosto",
+   "title_en": "The morning news, Friday 28 August",
+   "headline_en": "A flood swept the Trishuli valley in Nepal after a glacier collapsed in the Himalaya",
+   "summary_en": [
+    "A flood swept the Trishuli valley in Nepal after a glacier collapsed in the Himalaya",
+    "Tension between residents and migrants has flared in Ceuta",
+    "Iceland votes on Saturday on reopening EU accession talks"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, viernes 28 de agosto",
+   "file": "podcast-daily-2026-08-28-morning-sport-es-ES.json",
+   "bytes": 4323,
+   "sha256": "0482a95c11a8012f20f9e9e030b58b533c8bdd732486ee1c8d56ee90e4f9561c",
+   "date": "2026-08-28",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, viernes 28 de agosto",
+   "title_en": "Today's sport, Friday 28 August",
+   "headline_en": "Alaves host Villarreal at Mendizorroza",
+   "summary_en": [
+    "Alaves host Villarreal at Mendizorroza",
+    "The Champions League draw has given the thirty-six teams their eight opponents"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, viernes 28 de agosto",
+   "file": "podcast-daily-2026-08-28-morning-weather-es-ES.json",
+   "bytes": 5004,
+   "sha256": "5fc684e267ece5b34b3ca1603601f780d759380798fea419e5b78c9219ed4f5c",
+   "date": "2026-08-28",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, viernes 28 de agosto",
+   "title_en": "Today's weather, Friday 28 August",
+   "headline_en": "Predicción AEMET para Madrid (Madrid), 2026-08-28",
+   "summary_en": [
+    "Predicción AEMET para Madrid (Madrid), 2026-08-28",
+    "Predicción AEMET para Coruña, A (A Coruña), 2026-08-28"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, viernes 28 de agosto",
+   "file": "podcast-daily-2026-08-28-morning-weather-andalucia-es-ES.json",
+   "bytes": 3775,
+   "sha256": "79833727507e826b84b724331303fac8bfc4f9b180e54e54ef75fb339c059018",
+   "date": "2026-08-28",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, viernes 28 de agosto",
+   "title_en": "Today's weather, Andalusia, Friday 28 August",
+   "headline_en": "Predicción AEMET para Sevilla (Sevilla), 2026-08-28",
+   "summary_en": [
+    "Predicción AEMET para Sevilla (Sevilla), 2026-08-28",
+    "Predicción AEMET para Córdoba (Córdoba), 2026-08-28"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, viernes 28 de agosto",
+   "file": "podcast-daily-2026-08-28-morning-weather-canarias-es-ES.json",
+   "bytes": 4432,
+   "sha256": "6d67e6719001c44aaabe9b4c6dbfacb52883aa1ff1e91372b7432c76f70e6013",
+   "date": "2026-08-28",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, viernes 28 de agosto",
+   "title_en": "Today's weather, Canary Islands, Friday 28 August",
+   "headline_en": "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-28",
+   "summary_en": [
+    "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-28",
+    "Predicción AEMET para Santa Cruz de Tenerife (Santa Cruz de Tenerife (Tenerife)), 2026-08-28"
+   ]
+  },
+  {
    "id": "es-ES-El informativo de la mañana, jueves 27 de agosto",
    "file": "podcast-daily-2026-08-27-morning-news-es-ES.json",
    "bytes": 8880,

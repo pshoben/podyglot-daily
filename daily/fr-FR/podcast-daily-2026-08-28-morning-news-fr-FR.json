@@ -1,0 +1,420 @@
+{
+ "title": "Le journal du matin, vendredi 28 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-28",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Vendredi vingt-huit août, sept heures à Paris. Le journal du matin.",
+   "en": "Friday the twenty-eighth of August, seven o'clock in «Paris». The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Une crue gigantesque a ravagé la frontière entre le Népal et le Tibet.",
+   "en": "A huge flood has torn through the border between «Népal» and «Tibet».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un caporal de la Légion étrangère a été enlevé en Colombie.",
+   "en": "A corporal in the Foreign Legion has been kidnapped in «Colombie».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et sept candidats à la présidentielle ont débattu d'économie devant le patronat.",
+   "en": "And seven presidential candidates have debated the economy in front of the employers' federation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par le Népal,",
+   "en": "We start in «Népal»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où l'effondrement d'un glacier a provoqué mercredi une crue dévastatrice à la frontière avec le Tibet.",
+   "en": "where the collapse of a glacier set off a devastating flood on Wednesday at the border with «Tibet».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De nombreux touristes étrangers manquent à l'appel, selon Libération, Ouest-France et France Télévisions.",
+   "en": "Many foreign tourists are unaccounted for, according to «Libération», «Ouest-France» and «France Télévisions».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au moins quatre cent soixante-neuf personnes sont mortes,",
+   "en": "At least four hundred and sixty-nine people have died,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon un bilan encore provisoire publié ce vendredi.",
+   "en": "according to a provisional toll published this Friday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Plus de mille quatre cents personnes sont toujours portées disparues.",
+   "en": "More than fourteen hundred people are still missing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Quatre Français figurent parmi elles.",
+   "en": "Four French nationals are among them.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les autorités chinoises ont mis en garde contre la rupture d'un lac formé par la coulée de boue,",
+   "en": "The Chinese authorities have warned that a lake formed by the mudslide could burst,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qui provoquerait une deuxième crue,",
+   "en": "which would set off a second flood,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon Le Monde, Le Figaro et Ouest-France.",
+   "en": "according to «Le Monde», «Le Figaro» and «Ouest-France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les secours ont suspendu vendredi leurs opérations au cœur de la zone sinistrée, côté tibétain.",
+   "en": "Rescue teams suspended their work on Friday in the heart of the disaster area, on the «Tibet» side.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, on suit le sort d'un caporal franco-colombien de la Légion étrangère française,",
+   "en": "In France, the story of the morning is a French-Colombian corporal in the French Foreign Legion,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "enlevé début août dans le sud-ouest de la Colombie.",
+   "en": "kidnapped at the start of August in the south-west of «Colombie».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Engagé depuis quatre ans dans l'armée française, il était en permission dans son pays d'origine,",
+   "en": "He had served four years in the French army and was on leave in his home country,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon France Télévisions, Sud Ouest et Le Télégramme.",
+   "en": "according to «France Télévisions», «Sud Ouest» and «Le Télégramme».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les responsables présumés sont des dissidents des Farc, une guérilla aujourd'hui dissoute,",
+   "en": "The suspected kidnappers are dissidents of the «Farc», a guerrilla movement now disbanded,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après un rapport de l'armée colombienne relayé par Le Monde et Libération.",
+   "en": "according to a Colombian army report passed on by «Le Monde» and «Libération».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sept candidats à l'élection présidentielle ont débattu d'économie jeudi au stade Roland-Garros,",
+   "en": "seven candidates for the presidency debated the economy on Thursday at the «Roland-Garros» stadium,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à l'université d'été du Medef, selon Le Monde et France Télévisions.",
+   "en": "at the «Medef» summer gathering, according to «Le Monde» and «France Télévisions».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ils ont confronté leurs vues sur la fiscalité, les retraites,",
+   "en": "They set out their views on tax, on pensions,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la dette et le coût du travail.",
+   "en": "on the national debt and on the cost of employing people.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à autre chose,",
+   "en": "Moving on,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le Parti socialiste ouvre ce vendredi son université d'été à Blois, d'après",
+   "en": "the Socialist Party opens its summer gathering at «Blois» this Friday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Libération, Sud Ouest et Ouest-France.",
+   "en": "according to «Libération», «Sud Ouest» and «Ouest-France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vote qui doit départager les candidats sociaux-démocrates devrait y occuper les débats.",
+   "en": "The vote that will choose between the social democratic candidates is expected to dominate the discussions there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre sujet maintenant,",
+   "en": "Turning to something else,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le député insoumis Sébastien Delogu a été placé en garde à vue jeudi après une altercation avec des policiers à Marseille,",
+   "en": "the France Insoumise MP «Sébastien Delogu» was held in police custody on Thursday after an altercation with police officers in «Marseille»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et il est convoqué pour outrage.",
+   "en": "and he has been summoned for contempt.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le parlementaire et trois policiers ont déposé des plaintes réciproques, selon Le Télégramme,",
+   "en": "The MP and three officers have each filed complaints against the other, according to «Le Télégramme»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "France Télévisions et Libération.",
+   "en": "«France Télévisions» and «Libération».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour finir, en Ukraine,",
+   "en": "Elsewhere, in Ukraine,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les frappes russes sur Kherson se sont fortement intensifiées ces derniers jours,",
+   "en": "Russian strikes on «Kherson» have grown much heavier over the past few days,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après France Télévisions et Libération.",
+   "en": "according to «France Télévisions» and «Libération».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Friday 28 August",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "A giant flood devastates the Nepal to Tibet border after a glacier collapse",
+ "summary_en": [
+  "A giant flood devastates the Nepal to Tibet border after a glacier collapse",
+  "A French Foreign Legion corporal has been kidnapped in south-west Colombia",
+  "Seven presidential candidates debated the economy at the employers' summer gathering"
+ ]
+}

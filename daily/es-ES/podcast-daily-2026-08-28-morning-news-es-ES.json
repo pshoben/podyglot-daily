@@ -1,0 +1,350 @@
+{
+ "title": "El informativo de la mañana, viernes 28 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-news",
+   "wpm": 208,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-28",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Viernes veintiocho de agosto, siete de la mañana.",
+   "en": "Friday the twenty-eighth of August, seven in the morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El informativo de la mañana.",
+   "en": "The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Una riada arrasa el valle del río Trishuli, en Nepal.",
+   "en": "A flood has torn through the valley of the river «Trishuli», in «Nepal».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La tensión entre vecinos y migrantes se dispara en Ceuta.",
+   "en": "Tension between residents and migrants has flared in «Ceuta».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y los islandeses votan mañana si vuelven a negociar su entrada en la Unión Europea.",
+   "en": "And Icelanders vote tomorrow on whether to reopen talks about joining the European Union.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Abrimos con Nepal, donde la riada barrió el pasado miércoles el valle del río Trishuli,",
+   "en": "We open in «Nepal», where the flood swept the valley of the river «Trishuli» last Wednesday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según ABC y El País.",
+   "en": "according to «ABC» and «El País».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El colapso de un glaciar en el Himalaya",
+   "en": "The collapse of a glacier in the «Himalaya»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "habría originado las inundaciones en la frontera con el Tíbet.",
+   "en": "is thought to have caused the flooding on the border with «Tíbet».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los recuentos no coinciden:",
+   "en": "The counts do not agree:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según El País, hay al menos cuatrocientos setenta y ocho muertos y más de mil quinientos desaparecidos.",
+   "en": "«El País» has at least four hundred and seventy-eight dead and more than one thousand five hundred missing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según La Vanguardia, son casi cuatrocientos muertos y mil cuatrocientos desaparecidos.",
+   "en": "According to «La Vanguardia», it is nearly four hundred dead and one thousand four hundred missing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las lluvias alimentan varios represamientos naturales y amenazan con una segunda riada.",
+   "en": "The rain is feeding several natural dams and threatens to bring a second flood.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Muchos pueblos siguen semienterrados.",
+   "en": "Many villages are still half buried.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en España, la tensión entre vecinos y migrantes se dispara en Ceuta,",
+   "en": "Here in Spain, tension between residents and migrants has flared in «Ceuta»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según La Vanguardia y El Mundo.",
+   "en": "according to «La Vanguardia» and «El Mundo».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Policía se vio obligada a contener a los vecinos.",
+   "en": "Police had to hold the residents back.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un grupo de manifestantes prendió fuego a las chabolas de los inmigrantes en la playa.",
+   "en": "A group of demonstrators set fire to the migrants' shacks on the beach.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La crisis empezó con la entrada ilegal de decenas de miles de migrantes",
+   "en": "The crisis began when tens of thousands of migrants crossed illegally",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "entre el treinta y el treinta y uno de julio,",
+   "en": "between the thirtieth and the thirty-first of July,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según ABC y El Mundo.",
+   "en": "according to «ABC» and «El Mundo».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un mes después sigue sin haber solución.",
+   "en": "A month on, there is still no solution.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el resto de la actualidad,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "los islandeses deciden mañana en referéndum si reabren las negociaciones para entrar en la Unión",
+   "en": "Icelanders decide tomorrow in a referendum whether to reopen talks on joining the European Union,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Europea, según El País, La Vanguardia y ABC.",
+   "en": "according to «El País», «La Vanguardia» and «ABC».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La consulta está marcada por el temor a perder la gestión de sus caladeros.",
+   "en": "The vote is shaped by the fear of losing control of their fishing grounds.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Islandia interrumpió aquellas negociaciones en dos mil trece.",
+   "en": "Iceland broke off those talks in two thousand and thirteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otro asunto, esta mañana se ha visto en toda España un eclipse parcial de Luna.",
+   "en": "Turning to something else, a partial eclipse of the Moon was visible across the whole of Spain this morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasadas las seis, el noventa y tres por ciento del disco lunar ha quedado cubierto,",
+   "en": "Just after six, ninety-three per cent of the lunar disc was covered,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y ha sido observable a simple vista.",
+   "en": "and it could be seen with the naked eye.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Luna ha adquirido un tono rojizo al entrar en la sombra de la Tierra.",
+   "en": "The Moon turned a reddish colour as it moved into the Earth's shadow.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí lo esencial.",
+   "en": "That is the news that matters.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Friday 28 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "A flood swept the Trishuli valley in Nepal after a glacier collapsed in the Himalaya",
+ "summary_en": [
+  "A flood swept the Trishuli valley in Nepal after a glacier collapsed in the Himalaya",
+  "Tension between residents and migrants has flared in Ceuta",
+  "Iceland votes on Saturday on reopening EU accession talks"
+ ]
+}
