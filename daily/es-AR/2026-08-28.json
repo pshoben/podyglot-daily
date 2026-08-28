@@ -1,0 +1,31 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-AR",
+ "date": "2026-08-28",
+ "episodes": [
+  {
+   "id": "es-AR-El pronóstico, viernes 28 de agosto",
+   "file": "podcast-daily-2026-08-28-morning-weather-es-AR.json",
+   "bytes": 4470,
+   "sha256": "a1a2c03e007fd1709c37e4f276cec9eb24cc8e6f53b24e993819d03ba755bd35",
+   "date": "2026-08-28",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El pronóstico, viernes 28 de agosto",
+   "title_en": "Today's weather, Friday 28 August",
+   "headline_en": "Previsión para Buenos Aires, viernes 2026-08-28",
+   "summary_en": [
+    "Previsión para Buenos Aires, viernes 2026-08-28",
+    "Previsión para Córdoba, viernes 2026-08-28"
+   ]
+  }
+ ],
+ "content": "7058f7b7ff498d42977f8ee53c06d913dba0998786ccc1b825c7776a76deeee4",
+ "rev": 1,
+ "updated": "2026-08-28T14:19:55.019Z"
+}

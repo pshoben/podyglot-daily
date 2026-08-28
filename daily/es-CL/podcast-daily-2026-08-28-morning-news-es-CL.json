@@ -1,0 +1,300 @@
+{
+ "title": "Las noticias de la mañana, viernes 28 de agosto",
+ "dialect": "es-CL",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CL-daily-news",
+   "wpm": 205,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-28",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Viernes veintiocho de agosto, siete de la mañana.",
+   "en": "Friday the twenty-eighth of August, seven in the morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las noticias de la mañana.",
+   "en": "The morning news from Chile.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un carabinero de franco fue asesinado en Renca.",
+   "en": "An off-duty «carabinero» has been murdered in «Renca».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Presidente pide acelerar la agenda de seguridad.",
+   "en": "The President is calling for the security agenda to be speeded up.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el gabinete de la primera dama vuelve a existir cuatro años después.",
+   "en": "And the first lady's office exists again, four years on.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Partimos con Renca, donde un carabinero de franco fue asesinado,",
+   "en": "We start in «Renca», where an off-duty «carabinero» has been murdered,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según La Tercera y Radio Universidad de Chile.",
+   "en": "according to «La Tercera» and «Radio Universidad de Chile».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El funcionario murió ayer por la tarde al oponer resistencia a una encerrona,",
+   "en": "The officer died yesterday evening as he resisted an ambush,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "cuando delincuentes intentaron robarle su camioneta.",
+   "en": "when robbers tried to take his pick-up truck.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El hecho ocurrió en la zona",
+   "en": "It happened in the northern part of the metropolitan region.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "norte de la Región Metropolitana. La víctima era un cabo segundo de dotación de la Subcomisaría Conchalí Norte.",
+   "en": "The victim was a corporal attached to the «Conchalí Norte» police station.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su fallecimiento fue constatado en el lugar y se investigan las circunstancias del crimen.",
+   "en": "His death was confirmed at the scene and the circumstances of the crime are being investigated.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El presidente Kast lamentó el deceso del funcionario policial.",
+   "en": "President «Kast» expressed his sorrow at the officer's death.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Necesitamos avanzar urgente en leyes que nos permitan entregar",
+   "en": "We need to move urgently on laws that let us hand",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "más herramientas de seguridad y protección en nuestro país,",
+   "en": "more tools of security and protection to this country,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "escribió el mandatario en su cuenta de X.",
+   "en": "the President wrote on his «X» account.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El ministro de Seguridad Pública, Martín Arrau,",
+   "en": "The minister of public security, «Martín Arrau»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "relevó los proyectos sobre legítima defensa de funcionarios de franco,",
+   "en": "set out the bills on self-defence for off-duty officers,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "reglas de uso de la fuerza y recambio de armamento.",
+   "en": "on rules for the use of force and on replacing weapons.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Arrau insistió además en la necesidad de una ley Nain Retamal dos punto cero,",
+   "en": "«Arrau» also pressed the case for a «Nain Retamal» two point zero law,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pensada para los carabineros de franco.",
+   "en": "one written for off-duty officers.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El ministro llamó a dar espacio a la investigación para esclarecer lo ocurrido.",
+   "en": "The minister asked for room to be left for the investigation to establish what happened.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En lo demás, el presidente Kast restituyó el gabinete de la primera dama,",
+   "en": "Elsewhere, President «Kast» has restored the first lady's office,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "cuatro años después de su disolución,",
+   "en": "four years after it was dissolved,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según La Tercera y CIPER.",
+   "en": "according to «La Tercera» and «CIPER».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La medida da soporte institucional al equipo que encabeza Pía Adriasola.",
+   "en": "The move gives institutional backing to the team led by «Pía Adriasola».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo principal.",
+   "en": "Those are the main stories.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Friday 28 August",
+ "edition": "morning",
+ "region": "es-CL",
+ "region_label": "Chile",
+ "headline_en": "An off duty carabinero is murdered in Renca",
+ "summary_en": [
+  "An off duty carabinero is murdered in Renca",
+  "Kast calls for the security laws to move",
+  "Kast restores the first lady's cabinet"
+ ]
+}

@@ -1,0 +1,350 @@
+{
+ "title": "Le bulletin du matin, vendredi 28 août",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-news",
+   "wpm": 185,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-28",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Vendredi vingt-huit août, sept heures. Le bulletin du matin.",
+   "en": "Friday the twenty-eighth of August, seven o'clock. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les secours cherchent des rescapés à la frontière du Népal et de la Chine.",
+   "en": "Rescue teams are searching for survivors on the border between «Népal» and China.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le roi Harald cinq de Norvège est mort vendredi.",
+   "en": "King «Harald» the Fifth of Norway died on Friday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et la campagne électorale québécoise entame sa deuxième journée sur le terrain de l'économie.",
+   "en": "And the Quebec election campaign begins its second day on economic ground.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On débute avec le Népal,",
+   "en": "We start with «Népal», where",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où la course contre la montre des secours s'est poursuivie vendredi, deux jours",
+   "en": "the rescuers' race against time went on through Friday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "après une crue destructrice à la frontière avec la Chine, selon La Presse,",
+   "en": "two days after a destructive flood on the border with China, according to «La Presse»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Devoir et Radio-Canada.",
+   "en": "«Le Devoir» and «Radio-Canada».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La menace de nouvelles inondations pèse sur les équipes des deux côtés de la frontière.",
+   "en": "The threat of fresh flooding hangs over the teams on both sides of the border.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon La Presse et Le Devoir,",
+   "en": "According to «La Presse» and «Le Devoir»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la crue a fait plus de cinq cent cinquante morts au Népal et en Chine.",
+   "en": "the flood has killed more than five hundred and fifty people in «Népal» and China.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Près de mille quatre cents personnes sont toujours portées disparues,",
+   "en": "Nearly fourteen hundred people are still missing,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dont des centaines de touristes et de pèlerins étrangers.",
+   "en": "among them hundreds of foreign tourists and pilgrims.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La vague a été causée par l'effondrement d'une partie d'un glacier,",
+   "en": "The wave was caused by the collapse of part of a glacier,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon l'Institut d'études géologiques des États-Unis.",
+   "en": "according to the United States Geological Survey.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'effondrement a provoqué de nombreux glissements de terrain,",
+   "en": "The collapse set off many landslides,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et il a été enregistré comme un séisme de magnitude cinq virgule deux.",
+   "en": "and it registered as a magnitude five point two earthquake.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Norvège, le roi Harald cinq est mort vendredi à l'âge de quatre-vingt-neuf ans,",
+   "en": "In Norway, King «Harald» the Fifth died on Friday at the age of eighty-nine,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a annoncé le Palais royal norvégien.",
+   "en": "the Norwegian royal palace announced.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il était jusqu'alors le doyen des souverains d'Europe.",
+   "en": "He was until then the oldest reigning sovereign in Europe.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Son fils Haakon, cinquante-trois ans, lui succède sous le nom de Haakon huit.",
+   "en": "His son «Haakon», fifty-three, succeeds him as «Haakon» the Eighth.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La monarchie norvégienne sort d'une série de scandales.",
+   "en": "The Norwegian monarchy is coming out of a run of scandals.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au Québec, la campagne électorale est lancée depuis jeudi,",
+   "en": "In «Québec», the election campaign has been under way since Thursday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et sa deuxième journée a pris une saveur économique,",
+   "en": "and its second day took an economic turn,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon Radio-Canada et Le Devoir.",
+   "en": "according to «Radio-Canada» and «Le Devoir».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le coût de la vie, l'état des finances publiques et la guerre commerciale",
+   "en": "The cost of living, the state of the public finances and the trade war",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "devraient occuper une grande place dans les promesses des partis.",
+   "en": "are expected to take up much of what the parties promise.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans l'actualité d'ici, cette campagne s'ouvre quelques jours",
+   "en": "Closer to home, this campaign opens a few",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "après de nouveaux droits de douane américains sur plusieurs produits canadiens.",
+   "en": "days after new American customs duties on several Canadian products.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le gouvernement fédéral de Mark Carney a riposté par des contre-tarifs,",
+   "en": "Mark Carney's federal government hit back with counter-tariffs,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et l'automobile demeure un obstacle majeur à la reprise des négociations.",
+   "en": "and the motor industry remains a major obstacle to restarting the talks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est le portrait du jour.",
+   "en": "That is the picture of the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Friday 28 August",
+ "edition": "morning",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "Rescuers search on at the Nepal to China border under the threat of fresh floods",
+ "summary_en": [
+  "Rescuers search on at the Nepal to China border under the threat of fresh floods",
+  "King Harald V of Norway has died",
+  "Day two of the Quebec election campaign turns on the economy"
+ ]
+}

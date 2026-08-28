@@ -5,6 +5,26 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-AR-El pronóstico, viernes 28 de agosto",
+   "file": "podcast-daily-2026-08-28-morning-weather-es-AR.json",
+   "bytes": 4470,
+   "sha256": "a1a2c03e007fd1709c37e4f276cec9eb24cc8e6f53b24e993819d03ba755bd35",
+   "date": "2026-08-28",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El pronóstico, viernes 28 de agosto",
+   "title_en": "Today's weather, Friday 28 August",
+   "headline_en": "Previsión para Buenos Aires, viernes 2026-08-28",
+   "summary_en": [
+    "Previsión para Buenos Aires, viernes 2026-08-28",
+    "Previsión para Córdoba, viernes 2026-08-28"
+   ]
+  },
+  {
    "id": "es-AR-El noticiero de la mañana, jueves 27 de agosto",
    "file": "podcast-daily-2026-08-27-morning-news-es-AR.json",
    "bytes": 13282,

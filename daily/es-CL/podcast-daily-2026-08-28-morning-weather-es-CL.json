@@ -1,0 +1,179 @@
+{
+ "title": "El estado del tiempo, viernes 28 de agosto",
+ "dialect": "es-CL",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CL-daily-weather",
+   "wpm": 205,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-28",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El país en tres ciudades, este viernes, una por una.",
+   "en": "The country in three cities this Friday, one by one.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según el modelo del Centro Europeo, el ECMWF,",
+   "en": "According to the European Centre model, the «ECMWF»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en Santiago el cielo trae llovizna hoy.",
+   "en": "the sky over «Santiago» brings drizzle today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación en la capital es del setenta y siete por ciento.",
+   "en": "The chance of rain in the capital is seventy-seven per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los termómetros van de seis a dieciséis grados a lo largo del día.",
+   "en": "Thermometers run from six to sixteen degrees through the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento apenas alcanza los seis kilómetros por hora.",
+   "en": "The wind barely reaches six kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De región en región, Valparaíso pasa la jornada con cielo nuboso.",
+   "en": "Region by region, «Valparaíso» spends the day under cloud.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí la probabilidad de precipitación baja al cuatro por ciento.",
+   "en": "There the chance of rain falls to four per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las temperaturas van también de seis a dieciséis grados.",
+   "en": "Temperatures also run from six to sixteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento sopla allí hasta once kilómetros por hora.",
+   "en": "The wind there blows up to eleven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Precaución en Concepción, donde la probabilidad de precipitación es del cien por ciento.",
+   "en": "Take care in «Concepción», where the chance of rain is a hundred per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo trae lluvia débil y las temperaturas se mueven",
+   "en": "The sky brings light rain and temperatures move",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "entre nueve y trece grados a lo largo de la jornada.",
+   "en": "between nine and thirteen degrees through the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento puede alcanzar allí veintiún kilómetros por hora.",
+   "en": "The wind there can reach twenty-one kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese es el panorama.",
+   "en": "That is the picture.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Friday 28 August",
+ "edition": "morning",
+ "region": "es-CL",
+ "region_label": "Chile",
+ "headline_en": "Previsión para Santiago, viernes 2026-08-28",
+ "summary_en": [
+  "Previsión para Santiago, viernes 2026-08-28",
+  "Previsión para Valparaíso, viernes 2026-08-28"
+ ]
+}

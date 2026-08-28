@@ -1,0 +1,189 @@
+{
+ "title": "El clima, viernes 28 de agosto",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-weather",
+   "wpm": 186,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-28",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Tres ciudades del país, este viernes, una por una.",
+   "en": "Three cities across the country this Friday, one by one.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según el modelo del Centro Europeo, el ECMWF,",
+   "en": "According to the European Centre model, the «ECMWF»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la Ciudad de México tiene hoy cielo con lluvia débil.",
+   "en": "«Ciudad de México» has light rain today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación llega en la capital al noventa y uno por ciento.",
+   "en": "The chance of rain in the capital reaches ninety-one per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los termómetros se mueven allí entre catorce y veinticuatro grados a lo largo del día.",
+   "en": "Thermometers there move between fourteen and twenty-four degrees through the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento sopla como máximo a nueve kilómetros por hora.",
+   "en": "The wind blows at nine kilometres an hour at most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por estados, Guadalajara pasa el día",
+   "en": "State by state, «Guadalajara» spends the day",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con cielo nuboso y apenas once por ciento de probabilidad de lluvia.",
+   "en": "under cloud with only an eleven per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los termómetros van allí de dieciocho a treinta grados,",
+   "en": "Thermometers there run from eighteen to thirty degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "seis grados más de máxima que en la capital.",
+   "en": "six degrees higher at the top than in the capital.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento se queda en seis kilómetros por hora como máximo.",
+   "en": "The wind stays at six kilometres an hour at most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cuidado en Monterrey, donde la máxima del día llega a treinta y siete grados.",
+   "en": "Watch out in «Monterrey», where the day's high reaches thirty-seven degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima no baja de veinticinco grados.",
+   "en": "The low does not drop below twenty-five degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo trae llovizna, con una probabilidad de precipitación del veintinueve por ciento.",
+   "en": "The sky brings drizzle, with a twenty-nine per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento puede alcanzar allí dieciséis kilómetros por hora.",
+   "en": "The wind there can reach sixteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ahí está el panorama.",
+   "en": "That is the picture.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Friday 28 August",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "Previsión para Ciudad de México, viernes 2026-08-28",
+ "summary_en": [
+  "Previsión para Ciudad de México, viernes 2026-08-28",
+  "Previsión para Guadalajara, viernes 2026-08-28"
+ ]
+}

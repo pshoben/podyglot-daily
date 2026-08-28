@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-CA",
+ "date": "2026-08-28",
+ "episodes": [
+  {
+   "id": "fr-CA-Le bulletin du matin, vendredi 28 août",
+   "file": "podcast-daily-2026-08-28-morning-news-fr-CA.json",
+   "bytes": 9062,
+   "sha256": "c47f9d033f84cbf147786d1f9b2481f4785aaddc5485eec06ddbee8af204e1ce",
+   "date": "2026-08-28",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin du matin, vendredi 28 août",
+   "title_en": "The morning news, Friday 28 August",
+   "headline_en": "Rescuers search on at the Nepal to China border under the threat of fresh floods",
+   "summary_en": [
+    "Rescuers search on at the Nepal to China border under the threat of fresh floods",
+    "King Harald V of Norway has died",
+    "Day two of the Quebec election campaign turns on the economy"
+   ]
+  },
+  {
+   "id": "fr-CA-Le bulletin météo, vendredi 28 août",
+   "file": "podcast-daily-2026-08-28-morning-weather-fr-CA.json",
+   "bytes": 5030,
+   "sha256": "e4b43ad9eac70f04d0bcc5e13ecc72027a37d872ce6ffc8dece08ed851c12a00",
+   "date": "2026-08-28",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin météo, vendredi 28 août",
+   "title_en": "Today's weather, Friday 28 August",
+   "headline_en": "Prévision pour Montréal, vendredi 2026-08-28",
+   "summary_en": [
+    "Prévision pour Montréal, vendredi 2026-08-28",
+    "Prévision pour Québec, vendredi 2026-08-28"
+   ]
+  }
+ ],
+ "content": "36038ec7cfbe9912212e353671ec60e211fb754494e36c6de22e4d870dd251e5",
+ "rev": 1,
+ "updated": "2026-08-28T14:19:55.019Z"
+}

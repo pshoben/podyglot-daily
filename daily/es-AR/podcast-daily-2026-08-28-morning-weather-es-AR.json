@@ -1,0 +1,179 @@
+{
+ "title": "El pronóstico, viernes 28 de agosto",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-weather",
+   "wpm": 195,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-28",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El pronóstico. Tres puntos del país, este viernes, uno por uno.",
+   "en": "The forecast. Three places across the country this Friday, one by one.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según el modelo del Centro Europeo, el ECMWF,",
+   "en": "According to the European Centre model, the «ECMWF»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Buenos Aires pasa el día con cielo nuboso.",
+   "en": "«Buenos Aires» spends the day under cloud.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación se queda hoy en el veinte por ciento en la ciudad.",
+   "en": "The chance of rain in the city stays at twenty per cent today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los termómetros van de diez a diecisiete grados a lo largo de la jornada.",
+   "en": "Thermometers run from ten to seventeen degrees through the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento no supera los diez kilómetros por hora.",
+   "en": "The wind does not go above ten kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Provincia por provincia, Córdoba pasa el día con intervalos nubosos.",
+   "en": "Province by province, «Córdoba» spends the day under broken cloud.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí la probabilidad de precipitación sube al treinta y cinco por ciento.",
+   "en": "There the chance of rain rises to thirty-five per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las temperaturas van de diez a veintiún grados a lo largo del día.",
+   "en": "Temperatures run from ten to twenty-one degrees through the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento llega como máximo a once kilómetros por hora.",
+   "en": "The wind reaches eleven kilometres an hour at most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Atención en Mendoza, donde la mínima baja hasta los cinco grados.",
+   "en": "Watch out in «Mendoza», where the low drops to five degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima se queda en veinte grados y el cielo está poco nuboso.",
+   "en": "The high stays at twenty degrees and the sky is lightly clouded.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación es del veinte por ciento y el viento",
+   "en": "The chance of rain is twenty per cent and the wind",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "no pasa de diez kilómetros por hora.",
+   "en": "does not pass ten kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Así está el cielo.",
+   "en": "That is how the sky looks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Friday 28 August",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Previsión para Buenos Aires, viernes 2026-08-28",
+ "summary_en": [
+  "Previsión para Buenos Aires, viernes 2026-08-28",
+  "Previsión para Córdoba, viernes 2026-08-28"
+ ]
+}

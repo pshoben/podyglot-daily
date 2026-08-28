@@ -1,0 +1,169 @@
+{
+ "title": "El clima de hoy, viernes 28 de agosto",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-weather",
+   "wpm": 195,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-28",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Un repaso por tres ciudades, este viernes.",
+   "en": "A look at three cities this Friday.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según el modelo del Centro Europeo, el ECMWF,",
+   "en": "According to the European Centre model, the «ECMWF»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "hoy hay llovizna en las tres ciudades.",
+   "en": "there is drizzle in all three cities today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Bogotá la probabilidad de precipitación es del ochenta y dos por ciento.",
+   "en": "In «Bogotá» the chance of rain is eighty-two per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La capital se mueve entre doce y veintiún grados a lo largo de la jornada.",
+   "en": "The capital moves between twelve and twenty-one degrees through the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento en la capital tiene un tope de diez kilómetros por hora.",
+   "en": "The wind in the capital has a ceiling of ten kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Región por región, Medellín llega al noventa y dos por ciento de probabilidad de precipitación.",
+   "en": "Region by region, «Medellín» gets to a ninety-two per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí los termómetros van de dieciocho a veintinueve grados.",
+   "en": "Thermometers there run from eighteen to twenty-nine degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento allí no pasa de once kilómetros por hora.",
+   "en": "The wind there does not pass eleven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pendientes en Cali, donde la probabilidad de precipitación es del ochenta y cinco por ciento.",
+   "en": "Keep an eye on «Cali», where the chance of rain is eighty-five per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima no baja de veintidós grados y la máxima llega a veintiocho.",
+   "en": "The low does not fall below twenty-two degrees and the high reaches twenty-eight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento es casi nulo,",
+   "en": "The wind is next to nothing,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con un tope de cuatro kilómetros por hora.",
+   "en": "with a ceiling of four kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese es el clima.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Friday 28 August",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "Previsión para Bogotá, viernes 2026-08-28",
+ "summary_en": [
+  "Previsión para Bogotá, viernes 2026-08-28",
+  "Previsión para Medellín, viernes 2026-08-28"
+ ]
+}

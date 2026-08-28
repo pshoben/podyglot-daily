@@ -5,6 +5,47 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-CO-La actualidad de la mañana, viernes 28 de agosto",
+   "file": "podcast-daily-2026-08-28-morning-news-es-CO.json",
+   "bytes": 10829,
+   "sha256": "e54ba15730ea6da6cd402c1c119ec553519855c26638eb7ed6801f778f05a1d1",
+   "date": "2026-08-28",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "La actualidad de la mañana, viernes 28 de agosto",
+   "title_en": "The morning news, Friday 28 August",
+   "headline_en": "The toll from the Himalayan floods is still rising",
+   "summary_en": [
+    "The toll from the Himalayan floods is still rising",
+    "A retired colonel admits responsibility for 38 murders before the JEP",
+    "The authorities suspect the Tolima fires were started deliberately"
+   ]
+  },
+  {
+   "id": "es-CO-El clima de hoy, viernes 28 de agosto",
+   "file": "podcast-daily-2026-08-28-morning-weather-es-CO.json",
+   "bytes": 4180,
+   "sha256": "3eacdea39f24776dc3734f534d2bf9477c74d054d3570ca3a0ea4042ae2bfb27",
+   "date": "2026-08-28",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "El clima de hoy, viernes 28 de agosto",
+   "title_en": "Today's weather, Friday 28 August",
+   "headline_en": "Previsión para Bogotá, viernes 2026-08-28",
+   "summary_en": [
+    "Previsión para Bogotá, viernes 2026-08-28",
+    "Previsión para Medellín, viernes 2026-08-28"
+   ]
+  },
+  {
    "id": "es-CO-La actualidad de la mañana, jueves 27 de agosto",
    "file": "podcast-daily-2026-08-27-morning-news-es-CO.json",
    "bytes": 10838,

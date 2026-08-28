@@ -5,6 +5,47 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-CL-Las noticias de la mañana, viernes 28 de agosto",
+   "file": "podcast-daily-2026-08-28-morning-news-es-CL.json",
+   "bytes": 7538,
+   "sha256": "44d4e9c95f9e2a21530ceedb7a2b81e9d75513f06a87447c2ecd6f1d5e2c1c92",
+   "date": "2026-08-28",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "Las noticias de la mañana, viernes 28 de agosto",
+   "title_en": "The morning news, Friday 28 August",
+   "headline_en": "An off duty carabinero is murdered in Renca",
+   "summary_en": [
+    "An off duty carabinero is murdered in Renca",
+    "Kast calls for the security laws to move",
+    "Kast restores the first lady's cabinet"
+   ]
+  },
+  {
+   "id": "es-CL-El estado del tiempo, viernes 28 de agosto",
+   "file": "podcast-daily-2026-08-28-morning-weather-es-CL.json",
+   "bytes": 4405,
+   "sha256": "11bb934d39189f3239af79e6b26e0e3f17ba79d2e444f8b99a6b33940a3b26ca",
+   "date": "2026-08-28",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "El estado del tiempo, viernes 28 de agosto",
+   "title_en": "Today's weather, Friday 28 August",
+   "headline_en": "Previsión para Santiago, viernes 2026-08-28",
+   "summary_en": [
+    "Previsión para Santiago, viernes 2026-08-28",
+    "Previsión para Valparaíso, viernes 2026-08-28"
+   ]
+  },
+  {
    "id": "es-CL-Las noticias de la mañana, jueves 27 de agosto",
    "file": "podcast-daily-2026-08-27-morning-news-es-CL.json",
    "bytes": 9583,

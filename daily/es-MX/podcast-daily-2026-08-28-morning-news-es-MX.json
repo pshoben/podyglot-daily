@@ -1,0 +1,330 @@
+{
+ "title": "El noticiario matutino, viernes 28 de agosto",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-news",
+   "wpm": 186,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-28",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Viernes veintiocho de agosto, siete de la mañana. El noticiario matutino.",
+   "en": "Friday the twenty-eighth of August, seven in the morning. The morning bulletin.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Murió el rey Harald de Noruega.",
+   "en": "King «Harald» of Norway has died.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Presidenta se reunió con los familiares de los cuarenta y tres de Ayotzinapa.",
+   "en": "The President met the families of the forty-three of «Ayotzinapa».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y las exportaciones mexicanas superaron los ochenta mil millones de dólares en julio.",
+   "en": "And Mexican exports passed eighty thousand million dollars in July.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Arrancamos con Noruega, donde el rey Harald falleció este viernes,",
+   "en": "We start in Norway, where King «Harald» died on Friday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según El Economista y Reforma.",
+   "en": "according to «El Economista» and «Reforma».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Era un reformista que salió de la sombra de su padre",
+   "en": "He was a reformer who stepped out of his father's shadow",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tras más de tres décadas en el trono.",
+   "en": "after more than three decades on the throne.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Tenía ochenta y nueve años, informó el Palacio Real.",
+   "en": "He was eighty-nine, the Royal Palace said.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en México, la presidenta Claudia Sheinbaum se reunió a puerta cerrada en Palacio Nacional",
+   "en": "Here in Mexico, President «Claudia Sheinbaum» met behind closed doors at the National Palace",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con familiares de los cuarenta y tres normalistas de Ayotzinapa,",
+   "en": "with relatives of the forty-three student teachers of «Ayotzinapa»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según El Financiero y La Jornada.",
+   "en": "according to «El Financiero» and «La Jornada».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los normalistas desaparecieron el veintiséis de septiembre de dos mil catorce en Iguala,",
+   "en": "The students disappeared on the twenty-sixth of September two thousand and fourteen in «Iguala»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el estado de Guerrero.",
+   "en": "in the state of «Guerrero».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Presidenta les presentó avances en el caso.",
+   "en": "The President set out the progress made in the case.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aseguró que Ayotzinapa es una prioridad de Estado y prometió reforzar",
+   "en": "She said «Ayotzinapa» is a priority of state and promised to strengthen",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la búsqueda y las investigaciones para esclarecer el caso.",
+   "en": "the search and the investigations to get to the truth.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otra noticia. Una jueza de control vinculó a proceso al contralmirante Fernando Farías Laguna,",
+   "en": "Another story. A judge has bound rear admiral «Fernando Farías Laguna» over for trial,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "acusado de encabezar una red criminal dedicada al contrabando de combustible.",
+   "en": "accused of heading a criminal network smuggling fuel.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El contralmirante queda recluido en el penal federal de máxima seguridad de El Altiplano.",
+   "en": "The rear admiral is being held at the «El Altiplano» maximum security federal prison.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasamos a otro asunto. El director de la agencia antidrogas de Estados Unidos, Terry Cole,",
+   "en": "On to something else. The head of the American drug agency, «Terry Cole»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "elogió la postura del gobierno mexicano frente a los cárteles de la droga.",
+   "en": "praised the Mexican government's stance towards the drug cartels.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cole destacó la estrecha colaboración con la Secretaría de Seguridad y Protección Ciudadana y agradeció",
+   "en": "«Cole» pointed to the close collaboration with the Secretariat of Security and Citizen Protection and thanked",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a su titular la hospitalidad ofrecida a los agentes estadounidenses.",
+   "en": "its head for the hospitality shown to American agents.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cerramos con la economía.",
+   "en": "We close with the economy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las exportaciones de México superaron los ochenta mil millones de dólares en julio,",
+   "en": "Mexican exports passed eighty thousand million dollars in July,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "informó el Instituto Nacional de Estadística y Geografía.",
+   "en": "the National Institute of Statistics and Geography said.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según La Jornada y El Economista,",
+   "en": "According to «La Jornada» and «El Economista»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el comercio exterior tuvo en julio un alza histórica y marcó un récord.",
+   "en": "foreign trade posted a historic rise in July and set a record.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más destacado.",
+   "en": "Those are the headlines.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Friday 28 August",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "King Harald of Norway has died",
+ "summary_en": [
+  "King Harald of Norway has died",
+  "Sheinbaum meets the Ayotzinapa families and promises justice",
+  "Mexican exports passed 80 billion dollars in July"
+ ]
+}

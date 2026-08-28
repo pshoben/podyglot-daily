@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-MX",
+ "date": "2026-08-28",
+ "episodes": [
+  {
+   "id": "es-MX-El noticiario matutino, viernes 28 de agosto",
+   "file": "podcast-daily-2026-08-28-morning-news-es-MX.json",
+   "bytes": 8588,
+   "sha256": "24541feea988184d8b869bc09eeb3dd431f79c0761f0e709ea2e779fa2827c27",
+   "date": "2026-08-28",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El noticiario matutino, viernes 28 de agosto",
+   "title_en": "The morning news, Friday 28 August",
+   "headline_en": "King Harald of Norway has died",
+   "summary_en": [
+    "King Harald of Norway has died",
+    "Sheinbaum meets the Ayotzinapa families and promises justice",
+    "Mexican exports passed 80 billion dollars in July"
+   ]
+  },
+  {
+   "id": "es-MX-El clima, viernes 28 de agosto",
+   "file": "podcast-daily-2026-08-28-morning-weather-es-MX.json",
+   "bytes": 4712,
+   "sha256": "9795700f8d5da610c704eb022b63c40c4eef3a9b158aeb075078f6f33f2d5d47",
+   "date": "2026-08-28",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El clima, viernes 28 de agosto",
+   "title_en": "Today's weather, Friday 28 August",
+   "headline_en": "Previsión para Ciudad de México, viernes 2026-08-28",
+   "summary_en": [
+    "Previsión para Ciudad de México, viernes 2026-08-28",
+    "Previsión para Guadalajara, viernes 2026-08-28"
+   ]
+  }
+ ],
+ "content": "b83a137045104b92eb14d92fa99c030087be9545e9baed91c1b350fe451dc85a",
+ "rev": 1,
+ "updated": "2026-08-28T14:19:55.019Z"
+}

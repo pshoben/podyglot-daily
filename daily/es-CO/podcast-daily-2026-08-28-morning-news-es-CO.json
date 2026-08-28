@@ -1,0 +1,420 @@
+{
+ "title": "La actualidad de la mañana, viernes 28 de agosto",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-28",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Viernes veintiocho de agosto, siete de la mañana.",
+   "en": "Friday the twenty-eighth of August, seven in the morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La actualidad de la mañana.",
+   "en": "The morning news from Colombia.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sigue subiendo el número de muertos por las inundaciones",
+   "en": "The death toll from the floods on the border",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la frontera del Nepal con China.",
+   "en": "between «Nepal» and China keeps rising.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un coronel en retiro reconoció ante la JEP su responsabilidad en treinta y ocho asesinatos.",
+   "en": "A retired colonel has admitted to the «JEP» that he was responsible for thirty-eight killings.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y las autoridades sospechan que los incendios del Tolima fueron provocados.",
+   "en": "And the authorities suspect the fires in «Tolima» were started deliberately.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Iniciamos con Asia, donde la cifra de muertos por las inundaciones repentinas",
+   "en": "We begin in «Asia», where the death toll from the sudden floods",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la frontera entre el Nepal y China sigue subiendo,",
+   "en": "on the border between «Nepal» and China keeps rising,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según El Tiempo y Semana.",
+   "en": "according to «El Tiempo» and «Semana».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cientos de personas continúan desaparecidas dos días después de la riada.",
+   "en": "Hundreds of people are still missing two days after the torrent came down.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "China suspendió las labores de rescate en la zona devastada del Tíbet",
+   "en": "China has suspended rescue work in the devastated part of «Tíbet»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por el riesgo de nuevas riadas.",
+   "en": "because of the risk of fresh torrents.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hay además una nueva advertencia de alto riesgo de colapso de un lago",
+   "en": "There is also a new high-risk warning that a lake",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "formado por las inundaciones.",
+   "en": "formed by the floods could burst.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en Colombia, el coronel en retiro Juan Carlos Figueroa reconoció",
+   "en": "Here in Colombia, retired colonel «Juan Carlos Figueroa» has admitted,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ante las víctimas y ante la JEP su responsabilidad en treinta y ocho asesinatos.",
+   "en": "to the victims and to the «JEP», that he was responsible for thirty-eight killings.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Figueroa era el excomandante del Batallón de Artillería número dos, La Popa.",
+   "en": "«Figueroa» was the former commander of artillery battalion number two, «La Popa».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Había negado los cargos durante años.",
+   "en": "He had denied the charges for years.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En otras noticias, la intensidad de las llamas y el color del humo",
+   "en": "In other news, the fierceness of the flames and the colour of the smoke",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "hicieron sospechar a las autoridades que los incendios del Tolima",
+   "en": "led the authorities to suspect the «Tolima» fires",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "fueron provocados y no obra del clima,",
+   "en": "were set rather than caused by the weather,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según El Tiempo, Semana y El Colombiano.",
+   "en": "according to «El Tiempo», «Semana» and «El Colombiano».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El departamento reporta trece emergencias y ha creado un grupo élite para investigarlas.",
+   "en": "The department is reporting thirteen emergencies and has set up a special unit to investigate them.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Más de trescientos integrantes de organismos de socorro y de las autoridades",
+   "en": "More than three hundred people from the emergency services and the authorities",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "trabajan en la atención de las conflagraciones.",
+   "en": "are working on the fires.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Fiscalía judicializó a dos hombres señalados de provocar un incendio forestal en Dolores, Tolima.",
+   "en": "Prosecutors have charged two men accused of starting a forest fire in «Dolores», «Tolima».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Procuraduría General de la Nación pidió el jueves a siete alcaldías del Tolima",
+   "en": "The public prosecutor's office asked seven «Tolima» town halls on Thursday",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "garantizar la atención de incendios y otras emergencias,",
+   "en": "to guarantee cover for fires and other emergencies,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según El Colombiano y Semana.",
+   "en": "according to «El Colombiano» and «Semana».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esos siete municipios todavía no cuentan con el convenio necesario para asegurar el",
+   "en": "Those seven towns still have no agreement in place to secure",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "servicio de bomberos.",
+   "en": "a fire service.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de asunto. En Antioquia fue asesinado el comandante de los bomberos voluntarios de Anorí,",
+   "en": "On to something else. In «Antioquia», the commander of the volunteer fire brigade of «Anorí»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el nordeste del departamento.",
+   "en": "in the north east of the department, has been murdered.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El gobernador de Antioquia ofreció hasta cien millones de pesos de recompensa",
+   "en": "The governor of «Antioquia» has offered a reward of up to a hundred million pesos",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por información que conduzca a la captura de los autores del crimen.",
+   "en": "for information leading to the capture of those behind the killing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para finalizar, murió el rey Harald de Noruega, a los ochenta y nueve años,",
+   "en": "Lastly, King «Harald» of Norway has died at the age of eighty-nine,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según El Tiempo y El Colombiano.",
+   "en": "according to «El Tiempo» and «El Colombiano».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se mantuvo hasta el último momento como una figura unificadora en su país.",
+   "en": "He remained to the last a unifying figure in his country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más importante.",
+   "en": "Those are the main stories of the morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Friday 28 August",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "The toll from the Himalayan floods is still rising",
+ "summary_en": [
+  "The toll from the Himalayan floods is still rising",
+  "A retired colonel admits responsibility for 38 murders before the JEP",
+  "The authorities suspect the Tolima fires were started deliberately"
+ ]
+}
