@@ -1,0 +1,163 @@
+{
+ "title": "El tiempo en Andalucía, sábado 29 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-andalucia",
+   "wpm": 208,
+   "rate_multiplier": 0.73,
+   "pitch_multiplier": 0.79
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-andalucia",
+ "date": "2026-08-29",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Tierra adentro, Córdoba llega hoy a treinta y seis grados de máxima y quince de mínima,",
+   "en": "Inland, «Córdoba» gets to a high of thirty-six degrees today and a low of fifteen,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según la Aemet.",
+   "en": "according to the «Aemet».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo está despejado y no se espera lluvia en todo el día.",
+   "en": "The sky is clear and no rain is expected all day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento del sudoeste se queda en diez kilómetros por hora.",
+   "en": "The south-westerly wind stays at ten kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por el valle del Guadalquivir, Sevilla",
+   "en": "Along the «Guadalquivir» valley, «Sevilla» reaches thirty-five degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "alcanza treinta y cinco grados, con dieciocho de mínima.",
+   "en": "with a low of eighteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo está despejado también allí,",
+   "en": "The sky is clear there too,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la probabilidad de lluvia es cero.",
+   "en": "and the chance of rain is zero.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento del nordeste apenas llega a cinco kilómetros por hora.",
+   "en": "The north-easterly wind barely gets to five kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la costa, Málaga se queda en veintinueve grados, con dieciocho de mínima.",
+   "en": "On the coast, «Málaga» stays at twenty-nine degrees, with a low of eighteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo está poco nuboso durante toda la jornada.",
+   "en": "The sky is lightly clouded all day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento del sur alcanza allí diez kilómetros por hora.",
+   "en": "The southerly wind there reaches ten kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es Andalucía.",
+   "en": "That is «Andalucía».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 3,
+ "handover": "junction",
+ "title_en": "Today's weather, Andalusia, Saturday 29 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Andalucía",
+ "accent": "Andalucía",
+ "accent_label": "acento de Andalucía",
+ "segment_order": 1,
+ "headline_en": "Predicción AEMET para Córdoba (Córdoba), 2026-08-29",
+ "summary_en": [
+  "Predicción AEMET para Córdoba (Córdoba), 2026-08-29",
+  "Predicción AEMET para Sevilla (Sevilla), 2026-08-29"
+ ]
+}

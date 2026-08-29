@@ -1,0 +1,360 @@
+{
+ "title": "Le journal du matin, samedi 29 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-29",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Samedi vingt-neuf août, sept heures à Paris. Le journal du matin.",
+   "en": "Saturday the twenty-ninth of August, seven o'clock in «Paris». The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Une vague dévastatrice a balayé la frontière entre le Népal et le Tibet.",
+   "en": "A devastating wave has swept the border between «Népal» and «Tibet».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Fitch maintient la note de la dette française.",
+   "en": "Fitch keeps France's debt rating unchanged.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et Washington et Caracas concluent un accord pétrolier.",
+   "en": "And Washington and «Caracas» have struck an oil deal.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par le Népal, où l'effondrement d'un glacier a provoqué mercredi",
+   "en": "We start in «Népal», where the collapse of a glacier set off",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "une vaste coulée de débris glacés à la frontière avec le Tibet.",
+   "en": "a vast flow of icy debris on Wednesday at the border with «Tibet».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des images satellite montrent deux villages népalais balayés par la vague.",
+   "en": "Satellite pictures show two Nepalese villages swept away by the wave.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au moins six cent trente-trois personnes sont mortes,",
+   "en": "At least six hundred and thirty-three people have died,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon un nouveau bilan communiqué samedi par les autorités népalaises.",
+   "en": "on a new toll given by the Nepalese authorities on Saturday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Plusieurs milliers de personnes sont portées disparues.",
+   "en": "Thousands of people are unaccounted for.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Quatre Français figurent parmi les personnes recherchées,",
+   "en": "Four French nationals are among those being searched for,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après un décompte encore provisoire.",
+   "en": "on a count that is still provisional.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les secouristes ont redoublé d'efforts samedi pour retrouver les disparus et évacuer les rescapés",
+   "en": "Rescue teams stepped up their efforts on Saturday to find the missing and to bring out survivors",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "bloqués à la frontière avec la Chine.",
+   "en": "stranded on the border with China.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les dégâts et le risque de nouvelles inondations compliquent leur travail.",
+   "en": "The damage and the risk of more flooding are making their work harder.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, l'agence de notation américaine Fitch a maintenu vendredi",
+   "en": "In France, the American ratings agency Fitch kept the country's sovereign rating",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la note souveraine du pays à A plus, avec une perspective stable.",
+   "en": "at A plus on Friday, with a stable outlook.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle n'a pas dégradé cette note malgré une situation budgétaire compliquée,",
+   "en": "It did not downgrade that rating despite a difficult budget position,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "alors que les finances publiques françaises restent sous étroite surveillance.",
+   "en": "with French public finances under close watch.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité, Donald Trump a annoncé un accord pétrolier",
+   "en": "In other news, «Donald Trump» has announced an oil agreement",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "entre les États-Unis et le Venezuela.",
+   "en": "between the United States and «Venezuela».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le texte donne aux États-Unis le contrôle de soixante-cinq milliards de barils de réserves,",
+   "en": "The deal gives the United States control of sixty-five billion barrels of reserves,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le développement de dix-sept champs stratégiques.",
+   "en": "and the development of seventeen strategic fields.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'investissement prévu dépasse cent milliards de dollars.",
+   "en": "The planned investment comes to more than a hundred billion dollars.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon Donald Trump, il s'agit du plus grand accord pétrolier de l'histoire mondiale.",
+   "en": "«Donald Trump» calls it the biggest oil deal in world history.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à autre chose, Haakon huit est devenu roi de Norvège",
+   "en": "Moving on, «Haakon» the eighth has become king of Norway",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "après la mort de son père Harald cinq, vendredi.",
+   "en": "after the death of his father, «Harald» the fifth, on Friday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre sujet maintenant, les Islandais se prononcent ce samedi par référendum",
+   "en": "Turning to something else, Icelanders vote this Saturday in a referendum",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sur la réouverture des négociations d'adhésion à l'Union européenne.",
+   "en": "on reopening membership talks with the European Union.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour finir, Céline Dion est de retour en France,",
+   "en": "And finally, «Céline Dion» is back in France,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "deux semaines avant ses premiers concerts parisiens.",
+   "en": "two weeks before her first Paris concerts.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La chanteuse se produira à partir du douze septembre.",
+   "en": "The singer begins her run on the twelfth of September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Saturday 29 August",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "A glacier collapse set off a huge flood on the Nepal to Tibet border",
+ "summary_en": [
+  "A glacier collapse set off a huge flood on the Nepal to Tibet border",
+  "Fitch keeps France at A plus with a stable outlook",
+  "Washington and Caracas announce an oil agreement"
+ ]
+}

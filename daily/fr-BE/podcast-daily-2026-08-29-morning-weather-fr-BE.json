@@ -1,0 +1,199 @@
+{
+ "title": "Le temps chez nous, samedi 29 août",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-weather",
+   "wpm": 222,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-29",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le temps chez nous, ce samedi.",
+   "en": "Our weather, this Saturday.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon l'IRM, l'Institut royal météorologique,",
+   "en": "According to the «IRM», the Belgian weather institute,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la journée se fait en trois temps.",
+   "en": "the day comes in three parts.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Du soleil ce matin, de la grisaille l'après-midi,",
+   "en": "Sunshine this morning, grey cloud in the afternoon,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et de la pluie en soirée.",
+   "en": "and rain in the evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'une région à l'autre, selon le modèle du Centre européen, l'ECMWF, la bruine gagne Bruxelles.",
+   "en": "Region by region, according to the European Centre model, the «ECMWF», drizzle reaches Brussels.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le mercure y plafonne à vingt degrés,",
+   "en": "The temperature there tops out at twenty degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec quinze degrés au plus bas.",
+   "en": "with fifteen degrees at its lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de pluie atteint quatre-vingt-seize pour cent dans la capitale.",
+   "en": "The chance of rain reaches ninety-six per cent in the capital.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les rafales y montent à vingt-cinq kilomètres par heure.",
+   "en": "Gusts there climb to twenty-five kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Liège, le maximum est de vingt-deux degrés et le minimum de seize.",
+   "en": "In «Liège», the high is twenty-two degrees and the low sixteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de pluie y est de soixante-sept pour cent.",
+   "en": "The chance of rain there is sixty-seven per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les rafales atteignent vingt-six kilomètres par heure.",
+   "en": "Gusts reach twenty-six kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Namur, le maximum est de vingt-deux degrés et le minimum de quinze.",
+   "en": "In «Namur», the high is twenty-two degrees and the low fifteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de pluie y est de quatre-vingt-six pour cent.",
+   "en": "The chance of rain there is eighty-six per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les rafales y approchent vingt-huit kilomètres par heure.",
+   "en": "Gusts there come close to twenty-eight kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le temps chez nous.",
+   "en": "That is our weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Saturday 29 August",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Sunshine, then grey, then rain in the evening",
+ "summary_en": [
+  "Sunshine, then grey, then rain in the evening",
+  "Prévision pour Bruxelles, samedi 2026-08-29"
+ ]
+}

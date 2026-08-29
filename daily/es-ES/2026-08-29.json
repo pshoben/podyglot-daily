@@ -1,0 +1,112 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-ES",
+ "date": "2026-08-29",
+ "episodes": [
+  {
+   "id": "es-ES-El informativo de la mañana, sábado 29 de agosto",
+   "file": "podcast-daily-2026-08-29-morning-news-es-ES.json",
+   "bytes": 10324,
+   "sha256": "49e803eb56bff71c0c6fef54fc9ab2cd89d7b24e9e375801a7e92fb8ceb53ffa",
+   "date": "2026-08-29",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, sábado 29 de agosto",
+   "title_en": "The morning news, Saturday 29 August",
+   "headline_en": "Flash floods swept the Nepal to Tibet border and rescuers have reached the worst-hit area",
+   "summary_en": [
+    "Flash floods swept the Nepal to Tibet border and rescuers have reached the worst-hit area",
+    "Spanish inflation jumped to 4.3 per cent in August on fuel prices",
+    "Ministers thank Rabat for its cooperation a month after the Ceuta crossings"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, sábado 29 de agosto",
+   "file": "podcast-daily-2026-08-29-morning-sport-es-ES.json",
+   "bytes": 4181,
+   "sha256": "1ec3c8f2c87c6dc645d13be3541e007d499fbd3da8d0b3a349a300f78d2d153d",
+   "date": "2026-08-29",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, sábado 29 de agosto",
+   "title_en": "Today's sport, Saturday 29 August",
+   "headline_en": "Sevilla host Atletico Madrid at the Pizjuan",
+   "summary_en": [
+    "Sevilla host Atletico Madrid at the Pizjuan",
+    "Levante host Betis at the Ciutat de Valencia"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, sábado 29 de agosto",
+   "file": "podcast-daily-2026-08-29-morning-weather-es-ES.json",
+   "bytes": 5268,
+   "sha256": "dcecb0645eebdbbbd8aae03c4442289afaf0984ad14877fff698ec3531fdd7cd",
+   "date": "2026-08-29",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, sábado 29 de agosto",
+   "title_en": "Today's weather, Saturday 29 August",
+   "headline_en": "Predicción AEMET para Madrid (Madrid), 2026-08-29",
+   "summary_en": [
+    "Predicción AEMET para Madrid (Madrid), 2026-08-29",
+    "Predicción AEMET para Coruña, A (A Coruña), 2026-08-29"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, sábado 29 de agosto",
+   "file": "podcast-daily-2026-08-29-morning-weather-andalucia-es-ES.json",
+   "bytes": 3963,
+   "sha256": "dfea730a082727ca6315a4f388ac5a009ba3d86a0f7b8bdcc81034c9ed589c44",
+   "date": "2026-08-29",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, sábado 29 de agosto",
+   "title_en": "Today's weather, Andalusia, Saturday 29 August",
+   "headline_en": "Predicción AEMET para Córdoba (Córdoba), 2026-08-29",
+   "summary_en": [
+    "Predicción AEMET para Córdoba (Córdoba), 2026-08-29",
+    "Predicción AEMET para Sevilla (Sevilla), 2026-08-29"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, sábado 29 de agosto",
+   "file": "podcast-daily-2026-08-29-morning-weather-canarias-es-ES.json",
+   "bytes": 3503,
+   "sha256": "f52fdb326b4c003952890d414e1f7d60502fde1326c5d605f2e03023aed14b8c",
+   "date": "2026-08-29",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, sábado 29 de agosto",
+   "title_en": "Today's weather, Canary Islands, Saturday 29 August",
+   "headline_en": "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-29",
+   "summary_en": [
+    "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-29",
+    "Predicción AEMET para Santa Cruz de Tenerife (Santa Cruz de Tenerife (Tenerife)), 2026-08-29"
+   ]
+  }
+ ],
+ "content": "7755ed0244339c329a1b9b94fbcebbb233c1513f151bb631f985a92e8e0b59c4",
+ "rev": 1,
+ "updated": "2026-08-29T07:24:49.155Z"
+}

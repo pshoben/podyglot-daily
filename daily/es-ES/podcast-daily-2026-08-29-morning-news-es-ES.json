@@ -1,0 +1,400 @@
+{
+ "title": "El informativo de la mañana, sábado 29 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-news",
+   "wpm": 208,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-29",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Sábado veintinueve de agosto, siete de la mañana en Madrid.",
+   "en": "Saturday the twenty-ninth of August, seven in the morning in «Madrid».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El informativo de la mañana.",
+   "en": "The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Una riada devastadora ha arrasado la frontera entre Nepal y el Tíbet.",
+   "en": "A devastating flood has torn through the border between «Nepal» and «Tíbet».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La inflación española sube al cuatro coma tres por ciento en agosto.",
+   "en": "Spanish inflation is up to four point three per cent in August.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y un mes después de la crisis de Ceuta,",
+   "en": "And a month on from the «Ceuta» crisis,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el Gobierno vuelve a agradecer la cooperación de Rabat.",
+   "en": "the government is again thanking «Rabat» for its cooperation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Abrimos con Nepal, donde una sucesión de avalanchas y riadas",
+   "en": "We open in «Nepal», where a run of avalanches and floods",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "golpeó el miércoles la frontera con el Tíbet.",
+   "en": "hit the border with «Tíbet» on Wednesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los equipos de rescate han alcanzado ya el núcleo de la tragedia,",
+   "en": "Rescue teams have now reached the heart of the disaster,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el lado tibetano.",
+   "en": "on the Tibetan side.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Más de seiscientas diez personas han muerto,",
+   "en": "More than six hundred and ten people have died,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según el último balance de las autoridades nepalíes.",
+   "en": "on the latest count from the Nepalese authorities.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Miles de personas continúan desaparecidas a ambos lados de la frontera.",
+   "en": "Thousands of people are still unaccounted for on both sides of the border.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Persiste el riesgo de nuevos desprendimientos y de nuevas riadas.",
+   "en": "The risk of more landslides and more floods has not gone away.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en España, el IPC se disparó en agosto hasta el cuatro coma",
+   "en": "Here in Spain, consumer prices jumped in August to four point",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tres por ciento, empujado por la subida de los carburantes.",
+   "en": "three per cent, pushed up by the rise in fuel prices.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es el nivel más alto desde principios de dos mil veintitrés.",
+   "en": "That is the highest rate since the start of two thousand and twenty-three.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un mes después del inicio de la crisis migratoria en Ceuta,",
+   "en": "A month on from the start of the «Ceuta» migration crisis,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "todos los ministros que han comparecido en el Congreso han agradecido a Rabat su cooperación.",
+   "en": "every minister who has appeared before the «Congreso» has thanked «Rabat» for its cooperation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ninguno ha responsabilizado a Marruecos del cruce de setenta y dos mil personas",
+   "en": "None of them has held Morocco responsible for the crossing of seventy-two thousand people",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a la ciudad.",
+   "en": "into the city.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El ministro de Exteriores atribuyó la crisis a los bulos difundidos en las redes sociales.",
+   "en": "The foreign minister put the crisis down to false stories spread on social media.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La ministra de Defensa, Margarita Robles,",
+   "en": "The defence minister, «Margarita Robles»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "es la única del Gobierno que ha criticado a Rabat.",
+   "en": "is the only member of the government to have criticised «Rabat».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Ejecutivo acelera además los trámites para sacar de la calle en dos semanas",
+   "en": "The government is also speeding up the paperwork to get every migrant off the street",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a todos los inmigrantes y devolver a la mayoría.",
+   "en": "within two weeks and send most of them back.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "España ha pedido a la Unión Europea el apoyo de Frontex para agilizar esas devoluciones.",
+   "en": "Spain has asked the European Union for «Frontex» support to move those returns along faster.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el resto de la actualidad, Donald Trump anunció un acuerdo con Venezuela",
+   "en": "In other news, «Donald Trump» has announced a deal with «Venezuela»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por el que Estados Unidos toma el control mayoritario de sesenta y cinco mil millones de barriles de reservas probadas.",
+   "en": "under which the United States takes majority control of sixty-five billion barrels of proven reserves.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La presidenta interina venezolana, Delcy Rodríguez, ha confirmado el pacto.",
+   "en": "«Venezuela»'s acting president, «Delcy Rodríguez», has confirmed the agreement.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de tema, los islandeses votan este sábado en referéndum",
+   "en": "Moving on, Icelanders vote this Saturday in a referendum",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "si reabren las negociaciones de adhesión a la Unión Europea.",
+   "en": "on whether to reopen membership talks with the European Union.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El país llega dividido a la consulta.",
+   "en": "The country goes into the vote divided.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para terminar, Haakon ha asumido el trono de Noruega",
+   "en": "And finally, «Haakon» has taken the Norwegian throne",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tras la muerte del rey Harald quinto,",
+   "en": "after the death of King «Harald» the fifth,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a los ochenta y nueve años.",
+   "en": "at the age of eighty-nine.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí lo esencial.",
+   "en": "And that is where things stand this morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Saturday 29 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Flash floods swept the Nepal to Tibet border and rescuers have reached the worst-hit area",
+ "summary_en": [
+  "Flash floods swept the Nepal to Tibet border and rescuers have reached the worst-hit area",
+  "Spanish inflation jumped to 4.3 per cent in August on fuel prices",
+  "Ministers thank Rabat for its cooperation a month after the Ceuta crossings"
+ ]
+}

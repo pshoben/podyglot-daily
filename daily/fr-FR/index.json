@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-FR-Le journal du matin, samedi 29 août",
+   "file": "podcast-daily-2026-08-29-morning-news-fr-FR.json",
+   "bytes": 9346,
+   "sha256": "63c899cec83a7eacb235e4ea20ae0f7008d0727b272edd40a0f1682d00e7ec02",
+   "date": "2026-08-29",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, samedi 29 août",
+   "title_en": "The morning news, Saturday 29 August",
+   "headline_en": "A glacier collapse set off a huge flood on the Nepal to Tibet border",
+   "summary_en": [
+    "A glacier collapse set off a huge flood on the Nepal to Tibet border",
+    "Fitch keeps France at A plus with a stable outlook",
+    "Washington and Caracas announce an oil agreement"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, samedi 29 août",
+   "file": "podcast-daily-2026-08-29-morning-sport-fr-FR.json",
+   "bytes": 4051,
+   "sha256": "fd26db5b4d156f21dda5949befe38e49aeeeace825bf9067cd4555e01a3aca9e",
+   "date": "2026-08-29",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, samedi 29 août",
+   "title_en": "Today's sport, Saturday 29 August",
+   "headline_en": "AS Monaco basketball is kept out of the professional leagues",
+   "summary_en": [
+    "AS Monaco basketball is kept out of the professional leagues",
+    "Brest host Toulouse at home in Ligue 1"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, samedi 29 août",
+   "file": "podcast-daily-2026-08-29-morning-weather-fr-FR.json",
+   "bytes": 4707,
+   "sha256": "92dc4fcf4cdd4b0a7846e6286e0cc25e332a9f85829c7b1ab4d59b662cada1c4",
+   "date": "2026-08-29",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, samedi 29 août",
+   "title_en": "Today's weather, Saturday 29 August",
+   "headline_en": "Prévision pour Paris, samedi 2026-08-29",
+   "summary_en": [
+    "Prévision pour Paris, samedi 2026-08-29",
+    "Prévision pour Bordeaux, samedi 2026-08-29"
+   ]
+  },
+  {
    "id": "fr-FR-Le journal du matin, vendredi 28 août",
    "file": "podcast-daily-2026-08-28-morning-news-fr-FR.json",
    "bytes": 11397,

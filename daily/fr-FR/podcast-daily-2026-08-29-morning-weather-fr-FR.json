@@ -1,0 +1,199 @@
+{
+ "title": "La météo, samedi 29 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-29",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le temps qu'il fera aujourd'hui en France,",
+   "en": "The weather for today across France,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de la capitale à la côte méditerranéenne.",
+   "en": "from the capital to the Mediterranean coast.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par Paris, où les modèles de Météo-France annoncent de la bruine",
+   "en": "We start in «Paris», where the «Météo-France» models have drizzle",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour toute la journée.",
+   "en": "all day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le thermomètre plafonne à vingt-deux degrés dans la capitale.",
+   "en": "The temperature tops out at twenty-two degrees in the capital.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le minimum de la journée y descend à dix-sept degrés.",
+   "en": "The low for the day there drops to seventeen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent souffle jusqu'à vingt-cinq kilomètres par heure.",
+   "en": "The wind blows up to twenty-five kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Direction le Sud-Ouest, où Bordeaux passe la journée sous un ciel couvert.",
+   "en": "South-west now, where «Bordeaux» spends the day under an overcast sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La température y monte jusqu'à vingt-neuf degrés.",
+   "en": "The temperature there climbs to twenty-nine degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le minimum de la journée est de dix-neuf degrés.",
+   "en": "The low for the day is nineteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y reste faible,",
+   "en": "The wind there stays light,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec quinze kilomètres par heure au maximum.",
+   "en": "at fifteen kilometres an hour at most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sur la côte méditerranéenne, Marseille garde elle aussi un ciel couvert.",
+   "en": "On the Mediterranean coast, «Marseille» keeps an overcast sky too.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le maximum y atteint vingt-neuf degrés.",
+   "en": "The high there reaches twenty-nine degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le thermomètre ne descend pas en dessous de vingt et un degrés.",
+   "en": "The temperature does not drop below twenty-one degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y monte jusqu'à vingt-sept kilomètres par heure.",
+   "en": "The wind there climbs to twenty-seven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo de ce samedi.",
+   "en": "That is the weather for this Saturday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Saturday 29 August",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Prévision pour Paris, samedi 2026-08-29",
+ "summary_en": [
+  "Prévision pour Paris, samedi 2026-08-29",
+  "Prévision pour Bordeaux, samedi 2026-08-29"
+ ]
+}

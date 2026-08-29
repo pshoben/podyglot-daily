@@ -5,6 +5,26 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-BE-Le temps chez nous, samedi 29 août",
+   "file": "podcast-daily-2026-08-29-morning-weather-fr-BE.json",
+   "bytes": 4762,
+   "sha256": "7bf47c783b474f45301814fdab89d7e2908d2e08439a03525626f57755dd2ada",
+   "date": "2026-08-29",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, samedi 29 août",
+   "title_en": "Today's weather, Saturday 29 August",
+   "headline_en": "Sunshine, then grey, then rain in the evening",
+   "summary_en": [
+    "Sunshine, then grey, then rain in the evening",
+    "Prévision pour Bruxelles, samedi 2026-08-29"
+   ]
+  },
+  {
    "id": "fr-BE-Le sept heures, vendredi 28 août",
    "file": "podcast-daily-2026-08-28-morning-news-fr-BE.json",
    "bytes": 7818,

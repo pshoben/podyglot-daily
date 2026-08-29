@@ -1,0 +1,159 @@
+{
+ "title": "Le sport, samedi 29 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-29",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le sport, ce samedi matin.",
+   "en": "Sport, this Saturday morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Comité national olympique a validé la décision de la fédération,",
+   "en": "The French Olympic committee has upheld the federation's decision,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qui interdit à l'AS Monaco de disputer les championnats professionnels de basket.",
+   "en": "which bars «AS Monaco» from the professional basketball leagues.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le club de la Principauté a saisi vendredi le bureau fédéral de la Fédération",
+   "en": "The club from the Principality went to the federal bureau of the French basketball",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "française de basket, pour un réexamen en urgence de sa situation.",
+   "en": "federation on Friday, asking for an urgent review of its case.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au programme, le Stade Brestois reçoit Toulouse ce samedi à vingt heures quarante-cinq,",
+   "en": "In other news, «Stade Brestois» are at home to «Toulouse» at eight forty-five tonight,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour la deuxième journée de Ligue un.",
+   "en": "in the second round of «Ligue un».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les Brestois sont dirigés cette saison par Julien Lachuer.",
+   "en": "The «Brest» side are managed this season by «Julien Lachuer».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À suivre aujourd'hui, l'Ultra-Trail du Mont-Blanc se dispute ce week-end dans la vallée de Chamonix.",
+   "en": "Moving on, the «Ultra-Trail du Mont-Blanc» is being run this weekend in the «Chamonix» valley.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La course a pris le départ vendredi soir.",
+   "en": "The race set off on Friday evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sur les terrains, les Jeux méditerranéens ont lieu à Tarente, en Italie.",
+   "en": "Turning to something else, the Mediterranean Games are being held at «Tarente», in Italy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La délégation française y est engagée.",
+   "en": "A French team is competing there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Saturday 29 August",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "AS Monaco basketball is kept out of the professional leagues",
+ "summary_en": [
+  "AS Monaco basketball is kept out of the professional leagues",
+  "Brest host Toulouse at home in Ligue 1"
+ ]
+}

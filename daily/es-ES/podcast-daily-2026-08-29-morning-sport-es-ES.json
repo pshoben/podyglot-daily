@@ -1,0 +1,169 @@
+{
+ "title": "Los deportes, sábado 29 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-sport",
+   "wpm": 208,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-29",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Los deportes, este sábado por la mañana.",
+   "en": "Sport, this Saturday morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Sevilla recibe al Atlético de Madrid en el Sánchez-Pizjuán.",
+   "en": "«Sevilla» are at home to «Atlético de Madrid» at the «Sánchez-Pizjuán».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El conjunto rojiblanco llega al partido marcado por el caso de Julián Álvarez.",
+   "en": "The visitors come to the match under the shadow of the «Julián Álvarez» affair.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hoy en la agenda, el Levante recibe al Betis en el Ciutat de València,",
+   "en": "In other news, «Levante» are at home to «Betis» at the «Ciutat de València»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la tercera jornada de LaLiga.",
+   "en": "in the third round of «LaLiga».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El calor será uno de los protagonistas del encuentro.",
+   "en": "The heat will be one of the features of the match.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo que se juega, la Vuelta a España rueda este fin de semana por",
+   "en": "Moving on, the «Vuelta a España» rides through the «Comunidad",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la Comunidad Valenciana.",
+   "en": "Valenciana» this weekend.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La carrera termina en Xeraco el sábado y sube al Alto de Aitana el domingo.",
+   "en": "The race finishes at «Xeraco» on Saturday and climbs to the «Alto de Aitana» on Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En los campos, arranca este fin de semana la Liga F,",
+   "en": "Turning to something else, the «Liga F» season starts this weekend,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con ocho encuentros repartidos entre el sábado y el domingo.",
+   "en": "with eight matches spread across Saturday and Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El derbi entre el Real Madrid y el Atlético de Madrid abre el campeonato.",
+   "en": "The «Madrid» derby between «Real Madrid» and «Atlético de Madrid» opens the championship.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Barcelona parte como el equipo a batir.",
+   "en": "«Barcelona» go in as the team to beat.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí los deportes.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Saturday 29 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Sevilla host Atletico Madrid at the Pizjuan",
+ "summary_en": [
+  "Sevilla host Atletico Madrid at the Pizjuan",
+  "Levante host Betis at the Ciutat de Valencia"
+ ]
+}
