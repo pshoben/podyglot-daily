@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-AR",
+ "date": "2026-08-29",
+ "episodes": [
+  {
+   "id": "es-AR-El noticiero de la mañana, sábado 29 de agosto",
+   "file": "podcast-daily-2026-08-29-morning-news-es-AR.json",
+   "bytes": 7797,
+   "sha256": "4e80d46473a6d5099820f65d1b9fedc3fb125c52aa9438e8a1552a2c19dba350",
+   "date": "2026-08-29",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El noticiero de la mañana, sábado 29 de agosto",
+   "title_en": "The morning news, Saturday 29 August",
+   "headline_en": "A glacier collapse caused the disaster in Nepal",
+   "summary_en": [
+    "A glacier collapse caused the disaster in Nepal",
+    "The unions reject the employers' minimum wage offer",
+    "Medellin is fighting four forest fires at once"
+   ]
+  },
+  {
+   "id": "es-AR-El pronóstico, sábado 29 de agosto",
+   "file": "podcast-daily-2026-08-29-morning-weather-es-AR.json",
+   "bytes": 4565,
+   "sha256": "8fe9ca9afe0a07f7614729da20429c871142f609bbe1d3bbe207f459a6f0ce66",
+   "date": "2026-08-29",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El pronóstico, sábado 29 de agosto",
+   "title_en": "Today's weather, Saturday 29 August",
+   "headline_en": "Previsión para Córdoba, sábado 2026-08-29",
+   "summary_en": [
+    "Previsión para Córdoba, sábado 2026-08-29",
+    "Previsión para Mendoza, sábado 2026-08-29"
+   ]
+  }
+ ],
+ "content": "82444aa4029fc59e5dc5586a3a4eb509889a81790106dd3283d4cbdb20eda496",
+ "rev": 1,
+ "updated": "2026-08-29T14:36:25.249Z"
+}

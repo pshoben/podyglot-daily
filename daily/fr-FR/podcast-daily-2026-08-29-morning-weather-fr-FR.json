@@ -36,8 +36,8 @@
   },
   {
    "speaker": "SPK1",
-   "text": "On commence par Paris, où les modèles de Météo-France annoncent de la bruine",
-   "en": "We start in «Paris», where the «Météo-France» models have drizzle",
+   "text": "À Paris, les modèles de Météo-France annoncent de la bruine",
+   "en": "In «Paris», the «Météo-France» models have drizzle",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.0,
@@ -76,21 +76,21 @@
   },
   {
    "speaker": "SPK1",
-   "text": "Le vent souffle jusqu'à vingt-cinq kilomètres par heure.",
-   "en": "The wind blows up to twenty-five kilometres an hour.",
+   "text": "Le vent y souffle jusqu'à vingt-cinq kilomètres par heure.",
+   "en": "The wind there blows up to twenty-five kilometres an hour.",
    "prosody": {
     "pause_ms": 300,
-    "rate": 0.99,
+    "rate": 1.02,
     "pitch": 1.02
    }
   },
   {
    "speaker": "SPK1",
-   "text": "Direction le Sud-Ouest, où Bordeaux passe la journée sous un ciel couvert.",
-   "en": "South-west now, where «Bordeaux» spends the day under an overcast sky.",
+   "text": "Direction le Sud-Ouest, où Bordeaux passe toute la journée sous un ciel couvert.",
+   "en": "South-west now, where «Bordeaux» spends the whole day under an overcast sky.",
    "prosody": {
     "pause_ms": 300,
-    "rate": 0.98,
+    "rate": 1.01,
     "pitch": 1.02
    }
   },

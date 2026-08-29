@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-CO-La actualidad de la mañana, sábado 29 de agosto",
+   "file": "podcast-daily-2026-08-29-morning-news-es-CO.json",
+   "bytes": 8352,
+   "sha256": "77cc0be9dbf3cacc877447669e4a8bdd269706dd94c8451c1247e552ab3773e9",
+   "date": "2026-08-29",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "La actualidad de la mañana, sábado 29 de agosto",
+   "title_en": "The morning news, Saturday 29 August",
+   "headline_en": "Nepal and China are counting the victims of the border floods",
+   "summary_en": [
+    "Nepal and China are counting the victims of the border floods",
+    "A magnitude 3.9 earthquake shakes Choco early on Saturday",
+    "The finance minister announces a 21.9 trillion peso spending cut"
+   ]
+  },
+  {
+   "id": "es-CO-La jornada deportiva, sábado 29 de agosto",
+   "file": "podcast-daily-2026-08-29-morning-sport-es-CO.json",
+   "bytes": 4106,
+   "sha256": "ad112a20bbd8198e0cdaab1448ccf0036e6c1d0ce23465d494a677185097ff3f",
+   "date": "2026-08-29",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "La jornada deportiva, sábado 29 de agosto",
+   "title_en": "Today's sport, Saturday 29 August",
+   "headline_en": "IndyCar says the Barranquilla race is still under negotiation",
+   "summary_en": [
+    "IndyCar says the Barranquilla race is still under negotiation",
+    "A Santa Fe player speaks about his depression"
+   ]
+  },
+  {
+   "id": "es-CO-El clima de hoy, sábado 29 de agosto",
+   "file": "podcast-daily-2026-08-29-morning-weather-es-CO.json",
+   "bytes": 4637,
+   "sha256": "a37c6334f4e1a513719a694f0534da32ffb74561547329156bbda9b3e28d8828",
+   "date": "2026-08-29",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "El clima de hoy, sábado 29 de agosto",
+   "title_en": "Today's weather, Saturday 29 August",
+   "headline_en": "Previsión para Cali, sábado 2026-08-29",
+   "summary_en": [
+    "Previsión para Cali, sábado 2026-08-29",
+    "Previsión para Medellín, sábado 2026-08-29"
+   ]
+  },
+  {
    "id": "es-CO-La actualidad de la mañana, viernes 28 de agosto",
    "file": "podcast-daily-2026-08-28-morning-news-es-CO.json",
    "bytes": 10829,

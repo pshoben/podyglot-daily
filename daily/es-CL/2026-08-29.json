@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-CL",
+ "date": "2026-08-29",
+ "episodes": [
+  {
+   "id": "es-CL-Las noticias de la mañana, sábado 29 de agosto",
+   "file": "podcast-daily-2026-08-29-morning-news-es-CL.json",
+   "bytes": 7579,
+   "sha256": "b84eaa6d39c77465a0a2438e4b815b9532da748bc2612d6b06cb4531e50a77fd",
+   "date": "2026-08-29",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "Las noticias de la mañana, sábado 29 de agosto",
+   "title_en": "The morning news, Saturday 29 August",
+   "headline_en": "The missing after the Nepal floods rise to nearly two thousand",
+   "summary_en": [
+    "The missing after the Nepal floods rise to nearly two thousand",
+    "Chilean unemployment reaches 9.5 per cent, its highest in five years",
+    "A Brazilian judge frees a Chilean accused of racism to electronic monitoring"
+   ]
+  },
+  {
+   "id": "es-CL-El estado del tiempo, sábado 29 de agosto",
+   "file": "podcast-daily-2026-08-29-morning-weather-es-CL.json",
+   "bytes": 4507,
+   "sha256": "a8d8dff1cafb73a954f265b591d1f383d1097d1b93c76faa0e7463d670a35c02",
+   "date": "2026-08-29",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "El estado del tiempo, sábado 29 de agosto",
+   "title_en": "Today's weather, Saturday 29 August",
+   "headline_en": "Previsión para Concepción, sábado 2026-08-29",
+   "summary_en": [
+    "Previsión para Concepción, sábado 2026-08-29",
+    "Previsión para Santiago, sábado 2026-08-29"
+   ]
+  }
+ ],
+ "content": "3c798e70802fa9ee0ef0669e3c615d7d039173bced825467b4e5f2c0f76ad973",
+ "rev": 1,
+ "updated": "2026-08-29T14:36:25.249Z"
+}

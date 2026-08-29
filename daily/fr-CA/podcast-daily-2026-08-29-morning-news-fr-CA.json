@@ -1,0 +1,320 @@
+{
+ "title": "Le bulletin du matin, samedi 29 août",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-news",
+   "wpm": 185,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-29",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Samedi vingt-neuf août, sept heures. Le bulletin du matin.",
+   "en": "Saturday the twenty-ninth of August, seven o'clock. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les secouristes cherchent des disparus à la frontière du Népal et du Tibet.",
+   "en": "Rescue teams are searching for the missing on the border between «Népal» and Tibet.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Une frappe russe a visé un entrepôt près de Kiev.",
+   "en": "A Russian strike hit a warehouse near Kyiv.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et une trentaine de Canadiens demeurent introuvables au Népal.",
+   "en": "And around thirty Canadians cannot be traced in «Népal».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On débute avec la crue dans l'Himalaya,",
+   "en": "We start with the flood in the Himalayas,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où les recherches se sont intensifiées samedi à la frontière entre le Népal",
+   "en": "where the search stepped up on Saturday along the border between «Népal» and",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et la Chine, selon Radio-Canada et La Presse.",
+   "en": "China, according to «Radio-Canada» and «La Presse».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les équipes cherchent les disparus et évacuent les rescapés isolés.",
+   "en": "The teams are looking for people still unaccounted for and bringing out survivors who are cut off.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La vague a englouti des villages entiers.",
+   "en": "The wave swallowed whole villages.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les bilans ne concordent pas: Radio-Canada",
+   "en": "The tolls do not agree: «Radio-Canada» gives",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "fait état d'au moins six cent trente-trois morts,",
+   "en": "at least six hundred and thirty-three dead,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Presse de près de sept cents.",
+   "en": "«La Presse» close to seven hundred.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Quelque trois mille personnes sont toujours portées disparues, selon La Presse.",
+   "en": "Some three thousand people are still unaccounted for, according to «La Presse».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Croix-Rouge estime que jusqu'à quatre-vingt-treize mille personnes pourraient avoir été touchées, selon Radio-Canada.",
+   "en": "The Red Cross puts the number of people affected at up to ninety-three thousand, according to «Radio-Canada».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Ukraine, un drone russe a frappé un entrepôt près de Kiev dans la nuit",
+   "en": "In Ukraine, a Russian drone hit a warehouse near Kyiv overnight from",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de vendredi à samedi.",
+   "en": "Friday into Saturday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au moins trente-sept personnes sont mortes,",
+   "en": "At least thirty-seven people were killed,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon Radio-Canada et La Presse.",
+   "en": "according to «Radio-Canada» and «La Presse».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'attaque a provoqué un vaste incendie et des explosions.",
+   "en": "The strike set off a large fire and explosions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le site semblait stocker des objets explosifs, ont déclaré les procureurs ukrainiens.",
+   "en": "The site appeared to be storing explosive objects, Ukrainian prosecutors said.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Washington et Caracas ont annoncé vendredi un accord pétrolier qualifié d'historique.",
+   "en": "Washington and «Caracas» announced an oil agreement on Friday that they called historic.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'entente doit donner aux États-Unis le contrôle majoritaire de plus de soixante-cinq milliards de barils",
+   "en": "The agreement is to give the United States majority control of more than sixty-five billion barrels",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "des réserves vénézuéliennes.",
+   "en": "of Venezuela's reserves.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le président américain a parlé du plus grand accord pétrolier de l'histoire mondiale.",
+   "en": "The American president called it the biggest oil deal in world history.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans l'actualité d'ici, des citoyens canadiens et des résidents permanents manquent à l'appel",
+   "en": "In other news, Canadian citizens and permanent residents have not been accounted for",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "après la crue au Népal.",
+   "en": "after the flood in «Népal».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au moins trente-deux d'entre eux n'ont pas pu être joints,",
+   "en": "At least thirty-two of them could not be reached,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon La Presse et Le Journal de Montréal.",
+   "en": "according to «La Presse» and «Le Journal de Montréal».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est le portrait du jour.",
+   "en": "That is the picture of the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Saturday 29 August",
+ "edition": "morning",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "Rescue teams comb the Nepal to Tibet border after the flood",
+ "summary_en": [
+  "Rescue teams comb the Nepal to Tibet border after the flood",
+  "A Russian drone hit a warehouse near Kyiv overnight",
+  "Canadians have not been accounted for after the flood in Nepal"
+ ]
+}

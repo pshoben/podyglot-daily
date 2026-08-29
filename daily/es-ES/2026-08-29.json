@@ -7,8 +7,8 @@
   {
    "id": "es-ES-El informativo de la mañana, sábado 29 de agosto",
    "file": "podcast-daily-2026-08-29-morning-news-es-ES.json",
-   "bytes": 10324,
-   "sha256": "49e803eb56bff71c0c6fef54fc9ab2cd89d7b24e9e375801a7e92fb8ceb53ffa",
+   "bytes": 10323,
+   "sha256": "d71721f80e03d7db1dc68d6bc04c5272c40a229d268999954c9731f85825d7a0",
    "date": "2026-08-29",
    "edition": "morning",
    "programme": "news",
@@ -106,7 +106,7 @@
    ]
   }
  ],
- "content": "7755ed0244339c329a1b9b94fbcebbb233c1513f151bb631f985a92e8e0b59c4",
- "rev": 1,
- "updated": "2026-08-29T07:24:49.155Z"
+ "content": "f92deb8665b0a45181045e5fd66c90ef81a52e0c03376f7d452b7eee33640784",
+ "rev": 2,
+ "updated": "2026-08-29T14:36:25.249Z"
 }

@@ -1,0 +1,179 @@
+{
+ "title": "El pronóstico, sábado 29 de agosto",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-weather",
+   "wpm": 195,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-29",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Tres puntos del país, este sábado, uno por uno.",
+   "en": "Three places across the country this Saturday, one by one.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cómo viene el tiempo en Córdoba:",
+   "en": "Here is how the weather looks in «Córdoba»:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según el modelo del Centro Europeo, el ECMWF, la jornada transcurre con cielo nuboso.",
+   "en": "according to the European Centre model, the «ECMWF», the day stays cloudy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí la probabilidad de precipitación llega al cuarenta y siete por ciento.",
+   "en": "The chance of rain there reaches forty-seven per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las temperaturas van de diez a veinte grados.",
+   "en": "Temperatures run from ten to twenty degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento llega como máximo a once kilómetros por hora.",
+   "en": "The wind reaches eleven kilometres an hour at most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Provincia por provincia, Mendoza pasa el día con intervalos nubosos.",
+   "en": "Province by province, «Mendoza» spends the day with broken cloud.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima baja hasta los siete grados y la máxima se queda en veinte.",
+   "en": "The low drops to seven degrees and the high stays at twenty.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "No se espera lluvia y el viento no pasa de trece kilómetros por hora.",
+   "en": "No rain is expected and the wind gets no higher than thirteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Atención en Buenos Aires, donde la máxima llega hoy sólo a dieciséis grados.",
+   "en": "Watch out in «Buenos Aires», where the high today only reaches sixteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima es de siete grados y el cielo está nuboso.",
+   "en": "The low is seven degrees and the sky is cloudy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación es nula",
+   "en": "There is no chance of rain",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el viento no supera los diez kilómetros por hora.",
+   "en": "and the wind does not top ten kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la Ciudad de Buenos Aires el día arranca fresco y con nubes,",
+   "en": "In the city of «Buenos Aires» the day starts cool and cloudy",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la tarde se presenta agradable, según el Servicio Meteorológico Nacional.",
+   "en": "and the afternoon turns pleasant, according to the «Servicio Meteorológico Nacional».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Saturday 29 August",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Previsión para Córdoba, sábado 2026-08-29",
+ "summary_en": [
+  "Previsión para Córdoba, sábado 2026-08-29",
+  "Previsión para Mendoza, sábado 2026-08-29"
+ ]
+}

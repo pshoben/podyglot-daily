@@ -1,0 +1,249 @@
+{
+ "title": "El clima, sábado 29 de agosto",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-weather",
+   "wpm": 186,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-29",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Así se presenta el clima de este sábado, estado por estado.",
+   "en": "This is how the weather looks for Saturday, state by state.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El monzón mexicano y la onda tropical treinta",
+   "en": "The Mexican monsoon",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y tres mantienen la lluvia en buena parte del país hoy,",
+   "en": "and tropical wave thirty-three are keeping rain over much of the country today,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según El Economista y El Financiero.",
+   "en": "according to «El Economista» and «El Financiero».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se esperan precipitaciones muy fuertes en el norte, en el Pacífico,",
+   "en": "Very heavy rain is expected in the north, on the Pacific,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el Golfo de México y en la península de Yucatán.",
+   "en": "on the Gulf of Mexico and across the «Yucatán» peninsula.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Al mismo tiempo persiste la onda de calor en siete entidades,",
+   "en": "At the same time the heat holds in seven states,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y Baja California y Sonora podrían superar los cuarenta y cinco grados.",
+   "en": "and «Baja California» and «Sonora» could pass forty-five degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por estados, y según el modelo del Centro Europeo, el ECMWF,",
+   "en": "State by state now, and according to the European Centre model, the «ECMWF»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la Ciudad de México amanece con lluvia débil.",
+   "en": "«Ciudad de México» wakes up to light rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación en la capital es del cien por ciento.",
+   "en": "The chance of rain in the capital is a hundred per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima es de veintidós grados y la mínima de catorce.",
+   "en": "The high is twenty-two degrees and the low fourteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento no pasa de ocho kilómetros por hora.",
+   "en": "The wind gets no higher than eight kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Guadalajara el cielo trae chubascos,",
+   "en": "In «Guadalajara» the sky brings showers,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con una probabilidad de precipitación del setenta y cinco por ciento.",
+   "en": "with a seventy-five per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La temperatura va de diecinueve a veintinueve grados.",
+   "en": "The temperature runs from nineteen to twenty-nine degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento máximo es de cinco kilómetros por hora.",
+   "en": "The strongest wind is five kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cuidado en Monterrey, donde la máxima llega a treinta y cinco grados.",
+   "en": "Watch out in «Monterrey», where the high reaches thirty-five degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima no baja de veinticuatro grados y el cielo queda poco nuboso.",
+   "en": "The low does not drop under twenty-four degrees and the sky stays lightly clouded.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación es del veintinueve por ciento y el viento máximo,",
+   "en": "The chance of rain is twenty-nine per cent",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de dieciocho kilómetros por hora.",
+   "en": "and the strongest wind eighteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ahí está el panorama.",
+   "en": "That is the picture.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Saturday 29 August",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "The monsoon and tropical wave 33 keep rain over much of Mexico",
+ "summary_en": [
+  "The monsoon and tropical wave 33 keep rain over much of Mexico",
+  "Previsión para Ciudad de México, sábado 2026-08-29"
+ ]
+}

@@ -1,0 +1,300 @@
+{
+ "title": "El noticiero de la mañana, sábado 29 de agosto",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-29",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Sábado veintinueve de agosto, siete de la mañana.",
+   "en": "Saturday the twenty-ninth of August, seven in the morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El noticiero de la mañana.",
+   "en": "The morning bulletin.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El colapso de un glaciar provocó la catástrofe en Nepal.",
+   "en": "A glacier collapse caused the disaster in Nepal.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las centrales sindicales rechazaron la oferta por el salario mínimo.",
+   "en": "The union confederations have rejected the offer on the minimum wage.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y Medellín enfrenta cuatro incendios forestales al mismo tiempo.",
+   "en": "And «Medellín» is fighting four forest fires at once.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos por Nepal, donde un enorme bloque de hielo se desprendió de un glaciar a",
+   "en": "We begin with Nepal, where a huge block of ice broke off a glacier more than five thousand metres up",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "más de cinco mil metros y cayó en un valle, según Perfil y Ámbito.",
+   "en": "and fell into a valley, according to «Perfil» and «Ámbito».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El desprendimiento se transformó en una masa de agua,",
+   "en": "It turned into a mass of water,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "piedras y barro que arrasó poblaciones enteras.",
+   "en": "rock and mud that swept whole villages away.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El científico Simon Cox explicó que el trozo de glaciar cayó desde unos cinco mil",
+   "en": "The scientist «Simon Cox» explained that the piece of glacier fell from a height of about five",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "doscientos metros de altura.",
+   "en": "thousand two hundred metres.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ya son más de seiscientos los cuerpos recuperados,",
+   "en": "More than six hundred bodies have been recovered",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y los desaparecidos superan los dos mil cuatrocientos, según Perfil.",
+   "en": "and the missing now number more than two thousand four hundred, according to «Perfil».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Entre ellos hay numerosos turistas.",
+   "en": "Many of them are tourists.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Del lado chino, los equipos de emergencia recibieron la orden de retirarse ante la amenaza",
+   "en": "On the Chinese side, emergency crews were ordered to pull back as another",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de una nueva riada.",
+   "en": "surge was feared.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos en la Argentina, las centrales sindicales rechazaron la propuesta empresaria en el Consejo",
+   "en": "In other news, the union confederations rejected the employers' offer at the",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "del Salario Mínimo, y el Gobierno definirá el nuevo monto.",
+   "en": "Minimum Wage Council, and the government will now set the figure itself.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La CGT y las dos CTA se retiraron del encuentro, según Ámbito y Perfil.",
+   "en": "The «CGT» and the two «CTA» walked out of the meeting, according to «Ámbito» and «Perfil».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las centrales reclaman llevar el salario mínimo, vital y móvil a novecientos noventa",
+   "en": "The unions want the minimum wage taken to nine hundred",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y tres mil trescientos pesos en diciembre.",
+   "en": "and ninety-three thousand three hundred pesos in December.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También en la agenda, Medellín enfrenta cuatro focos de incendio forestal al mismo tiempo,",
+   "en": "Moving on, «Medellín» is dealing with four separate forest fires at the same time,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según Clarín y Perfil.",
+   "en": "according to «Clarín» and «Perfil».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las emergencias se registraron en Rodeo Alto, Santa Elena, Alto de Las Moras y San Cristóbal.",
+   "en": "The emergency calls came from «Rodeo Alto», «Santa Elena», «Alto de Las Moras» and «San Cristóbal».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El alcalde Federico Gutiérrez confirmó la presencia de sus equipos en tres de esos puntos.",
+   "en": "The mayor, «Federico Gutiérrez», confirmed his crews were at three of those sites.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los nuevos focos se suman a los ya registrados en Tolima, Nariño y Cundinamarca.",
+   "en": "The new outbreaks come on top of others already burning in «Tolima», «Nariño» and «Cundinamarca».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo central.",
+   "en": "That is what matters most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Saturday 29 August",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "A glacier collapse caused the disaster in Nepal",
+ "summary_en": [
+  "A glacier collapse caused the disaster in Nepal",
+  "The unions reject the employers' minimum wage offer",
+  "Medellin is fighting four forest fires at once"
+ ]
+}

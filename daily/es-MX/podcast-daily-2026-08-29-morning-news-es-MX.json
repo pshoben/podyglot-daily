@@ -1,0 +1,420 @@
+{
+ "title": "El noticiario matutino, sábado 29 de agosto",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-news",
+   "wpm": 186,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-29",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Sábado veintinueve de agosto, siete de la mañana. El noticiario matutino.",
+   "en": "Saturday the twenty-ninth of August, seven in the morning. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Estados Unidos tomará el control de sesenta",
+   "en": "The United States is to take",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y cinco mil millones de barriles de petróleo venezolano.",
+   "en": "control of sixty-five billion barrels of Venezuelan oil.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cayó en Mexicali un presunto operador financiero de Los Chapitos.",
+   "en": "A man said to handle the money for «Los Chapitos» has been arrested in «Mexicali».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y Volkswagen elimina un turno de producción en Puebla.",
+   "en": "And «Volkswagen» is cutting a production shift in «Puebla».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Arrancamos con Venezuela, donde los gobiernos venezolano",
+   "en": "We start with Venezuela, where the Venezuelan",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y estadounidense anunciaron lo que ambos consideran un acuerdo histórico en materia petrolera,",
+   "en": "and American governments announced what both sides call a historic oil agreement,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según La Jornada y El Economista.",
+   "en": "according to «La Jornada» and «El Economista».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El acuerdo establece el desarrollo de diecisiete campos estratégicos con un potencial probado de sesenta",
+   "en": "The deal covers seventeen major fields with proven reserves of",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y cinco mil millones de barriles de crudo.",
+   "en": "sixty-five billion barrels of crude.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Estados Unidos obtendrá el control mayoritario a través de alianzas privadas y sin costo público.",
+   "en": "The United States will hold majority control through private partnerships, at no cost to the public purse.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Nepal, la cifra de desaparecidos por las inundaciones en la frontera con China subió",
+   "en": "In Nepal, the number of people missing in the floods on the border with China has risen to two thousand four hundred,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a dos mil cuatrocientos, según La Jornada.",
+   "en": "according to «La Jornada».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El desastre ha dejado más de quinientos ochenta muertos,",
+   "en": "More than five hundred and eighty people have died,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y las autoridades de ambos países advierten que persiste la amenaza de nuevas inundaciones.",
+   "en": "and the authorities on both sides warn that more flooding is still a danger.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Ecuador, la Corte Nacional de Justicia declaró culpable de cohecho al ex presidente Lenín",
+   "en": "In Ecuador, the national court found former president «Lenín",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Moreno en el caso Sinohydro.",
+   "en": "Moreno» guilty of bribery in the «Sinohydro» case.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Deberá cumplir cinco años de cárcel y no podrá volver a ejercer cargos públicos.",
+   "en": "He is to serve five years in prison and may never hold public office again.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En otros temas, la Fuerza de Tarea Conjunta de la Frontera Sur de Estados Unidos",
+   "en": "In other news, an American task force on the southern border said",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "informó que derribó tres drones en la frontera con México el pasado miércoles.",
+   "en": "it shot down three drones on the Mexican border on Wednesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los drones eran operados presuntamente por cárteles de la droga",
+   "en": "The drones were said to be flown by drug cartels",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y fueron abatidos con un sistema láser en el Valle del Río Bravo, en Texas.",
+   "en": "and were brought down with a laser in the «Valle del Río Bravo», in Texas.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos en México, autoridades federales detuvieron en Mexicali, Baja California,",
+   "en": "Moving on, federal officers arrested in «Mexicali», in «Baja California»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a un presunto operador",
+   "en": "a man they say handles the money for the «Los Chapitos» wing of the «Sinaloa» cartel,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "financiero de la facción de Los Chapitos, del cártel de Sinaloa, según La Jornada y El Financiero.",
+   "en": "according to «La Jornada» and «El Financiero».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El secretario de Seguridad, Omar García Harfuch,",
+   "en": "The security secretary, «Omar García Harfuch»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "informó que la captura se logró tras labores de inteligencia y cooperación con Estados Unidos.",
+   "en": "said the arrest came after intelligence work and cooperation with the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasamos a otro asunto, la Universidad Nacional Autónoma de México publicó los resultados de su",
+   "en": "Turning to something else, the national university published the results of its",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "examen de control presencial.",
+   "en": "in-person entrance exam.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De los más de treinta y seis mil aspirantes que acudieron a la cita,",
+   "en": "Of the more than thirty-six thousand candidates who turned up,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "casi veintiún mil llegarán a las aulas,",
+   "en": "almost twenty-one thousand will get a place,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el cincuenta y siete por ciento de quienes presentaron la prueba.",
+   "en": "fifty-seven per cent of those who sat it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otra noticia, Volkswagen de México informó que recortará personal en su planta de Puebla.",
+   "en": "Elsewhere, «Volkswagen» said it will cut staff at its «Puebla» plant.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La empresa eliminará de forma indefinida",
+   "en": "The company will permanently drop",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "uno de los tres turnos de producción de los modelos Jetta y Tiguan.",
+   "en": "one of its three production shifts on the «Jetta» and «Tiguan» lines.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cerramos con otro tema, hace diez años murió Juan Gabriel.",
+   "en": "And finally, ten years ago «Juan Gabriel» died.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Ciudad Juárez le rindieron homenaje con un espectáculo musical",
+   "en": "«Ciudad Juárez» paid tribute to him with a musical show",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la entrega póstuma de las llaves de la ciudad.",
+   "en": "and the keys of the city, awarded after his death.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más destacado.",
+   "en": "That is the pick of the news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Saturday 29 August",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "Venezuela and the United States announce an oil agreement",
+ "summary_en": [
+  "Venezuela and the United States announce an oil agreement",
+  "A financial operator for Los Chapitos is arrested in Mexicali",
+  "Volkswagen cuts a production shift at its Puebla plant"
+ ]
+}

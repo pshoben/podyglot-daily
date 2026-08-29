@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-MX",
+ "date": "2026-08-29",
+ "episodes": [
+  {
+   "id": "es-MX-El noticiario matutino, sábado 29 de agosto",
+   "file": "podcast-daily-2026-08-29-morning-news-es-MX.json",
+   "bytes": 11080,
+   "sha256": "4cf3d5ec650dc4b1be23a95bbb8917f2bb021a72144e34f07b8446acece0122b",
+   "date": "2026-08-29",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El noticiario matutino, sábado 29 de agosto",
+   "title_en": "The morning news, Saturday 29 August",
+   "headline_en": "Venezuela and the United States announce an oil agreement",
+   "summary_en": [
+    "Venezuela and the United States announce an oil agreement",
+    "A financial operator for Los Chapitos is arrested in Mexicali",
+    "Volkswagen cuts a production shift at its Puebla plant"
+   ]
+  },
+  {
+   "id": "es-MX-La agenda deportiva, sábado 29 de agosto",
+   "file": "podcast-daily-2026-08-29-morning-sport-es-MX.json",
+   "bytes": 5118,
+   "sha256": "76cbfd348f0910f8453f810ca5c886660b6d0181286589dc2ce80d148cc9e4da",
+   "date": "2026-08-29",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "La agenda deportiva, sábado 29 de agosto",
+   "title_en": "Today's sport, Saturday 29 August",
+   "headline_en": "The Mexico City marathon is run on Sunday",
+   "summary_en": [
+    "The Mexico City marathon is run on Sunday",
+    "Rafael Marquez names the coaching staff for Mexico's 2030 campaign"
+   ]
+  },
+  {
+   "id": "es-MX-El clima, sábado 29 de agosto",
+   "file": "podcast-daily-2026-08-29-morning-weather-es-MX.json",
+   "bytes": 6169,
+   "sha256": "7b76415f50b15f88b9b7b6fb9f98e9d852fff6adcf9765901a800c3747724d4f",
+   "date": "2026-08-29",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El clima, sábado 29 de agosto",
+   "title_en": "Today's weather, Saturday 29 August",
+   "headline_en": "The monsoon and tropical wave 33 keep rain over much of Mexico",
+   "summary_en": [
+    "The monsoon and tropical wave 33 keep rain over much of Mexico",
+    "Previsión para Ciudad de México, sábado 2026-08-29"
+   ]
+  }
+ ],
+ "content": "ddd7f9be7bccbace16a7da14ae44d1f20dd1a1f36acc7b41572a130ce5ac111c",
+ "rev": 1,
+ "updated": "2026-08-29T14:36:25.249Z"
+}

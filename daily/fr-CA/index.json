@@ -5,6 +5,47 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-CA-Le bulletin du matin, samedi 29 août",
+   "file": "podcast-daily-2026-08-29-morning-news-fr-CA.json",
+   "bytes": 8231,
+   "sha256": "69a63b8f225646a4cf678c9cd6f18bcdf7cce46b90ccb99f6f115556e3f7d55e",
+   "date": "2026-08-29",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin du matin, samedi 29 août",
+   "title_en": "The morning news, Saturday 29 August",
+   "headline_en": "Rescue teams comb the Nepal to Tibet border after the flood",
+   "summary_en": [
+    "Rescue teams comb the Nepal to Tibet border after the flood",
+    "A Russian drone hit a warehouse near Kyiv overnight",
+    "Canadians have not been accounted for after the flood in Nepal"
+   ]
+  },
+  {
+   "id": "fr-CA-Le bulletin météo, samedi 29 août",
+   "file": "podcast-daily-2026-08-29-morning-weather-fr-CA.json",
+   "bytes": 4923,
+   "sha256": "a9183d94ca37d8d7a707b2a74e969018c8c5ebcc6054842011d4b83aa4b40910",
+   "date": "2026-08-29",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin météo, samedi 29 août",
+   "title_en": "Today's weather, Saturday 29 August",
+   "headline_en": "Prévision pour Montréal, samedi 2026-08-29",
+   "summary_en": [
+    "Prévision pour Montréal, samedi 2026-08-29",
+    "Prévision pour Québec, samedi 2026-08-29"
+   ]
+  },
+  {
    "id": "fr-CA-Le bulletin du matin, vendredi 28 août",
    "file": "podcast-daily-2026-08-28-morning-news-fr-CA.json",
    "bytes": 9062,

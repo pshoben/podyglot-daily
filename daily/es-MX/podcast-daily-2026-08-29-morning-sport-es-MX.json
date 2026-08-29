@@ -1,0 +1,199 @@
+{
+ "title": "La agenda deportiva, sábado 29 de agosto",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-sport",
+   "wpm": 186,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-29",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "La agenda deportiva de este fin de semana.",
+   "en": "The sporting diary for this weekend.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Maratón de la Ciudad de México se corre este domingo treinta de agosto,",
+   "en": "The «Maratón de la Ciudad de México» is run on Sunday the thirtieth of August,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según El Economista y El Financiero.",
+   "en": "according to «El Economista» and «El Financiero».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La edición cuarenta y tres reunirá a unos treinta mil atletas.",
+   "en": "The forty-third edition will bring together some thirty thousand runners.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La ruta parte de Ciudad Universitaria y llega al Zócalo capitalino tras los cuarenta",
+   "en": "The route starts at «Ciudad Universitaria» and finishes at the «Zócalo» after the",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y dos kilómetros del recorrido.",
+   "en": "forty-two kilometres of the course.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los primeros contingentes saldrán desde las cinco cuarenta y cinco de la mañana.",
+   "en": "The first waves set off from a quarter to six in the morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Secretaría de Seguridad Ciudadana ya publicó las calles cerradas y las alternativas viales.",
+   "en": "The city security ministry has already published the road closures and the ways round them.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En los estadios, la selección mexicana ya tiene el cuerpo técnico que la guiará hacia",
+   "en": "Turning to football, Mexico now has the coaching staff who will take",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la Copa del Mundo de dos mil treinta,",
+   "en": "the team towards the twenty-thirty World Cup,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según La Jornada y El Economista.",
+   "en": "according to «La Jornada» and «El Economista».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El seleccionador Rafael Márquez confirmó a Andrés Guardado,",
+   "en": "The head coach «Rafael Márquez» has confirmed «Andrés Guardado»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Juan Manuel Lillo y Vidal Paloma como auxiliares técnicos.",
+   "en": "«Juan Manuel Lillo» and «Vidal Paloma» as his assistants.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Xabier Mancisidor asumirá la preparación de porteros y Pol Lorente mantendrá el área física.",
+   "en": "«Xabier Mancisidor» will take the goalkeepers and «Pol Lorente» keeps the fitness side.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El grupo debutará el veintiséis de septiembre en un amistoso ante Colombia,",
+   "en": "The staff take charge for the first time on the twenty-sixth of September in a friendly against Colombia,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y tres días después enfrentará a Perú.",
+   "en": "with Peru three days later.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esa es la agenda.",
+   "en": "That is the diary.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Saturday 29 August",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "The Mexico City marathon is run on Sunday",
+ "summary_en": [
+  "The Mexico City marathon is run on Sunday",
+  "Rafael Marquez names the coaching staff for Mexico's 2030 campaign"
+ ]
+}

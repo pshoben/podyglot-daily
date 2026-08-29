@@ -1,0 +1,290 @@
+{
+ "title": "Las noticias de la mañana, sábado 29 de agosto",
+ "dialect": "es-CL",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CL-daily-news",
+   "wpm": 205,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-29",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Sábado veintinueve de agosto, siete de la mañana.",
+   "en": "Saturday the twenty-ninth of August, seven in the morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las noticias de la mañana.",
+   "en": "The morning headlines.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los desaparecidos por las inundaciones en Nepal se acercan a los dos mil.",
+   "en": "The number missing in the Nepal floods is close to two thousand.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La desocupación en Chile llegó al nueve coma cinco por ciento.",
+   "en": "Unemployment in Chile has reached nine and a half per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y la justicia brasileña dejó en libertad vigilada a un chileno acusado de racismo.",
+   "en": "And a Brazilian court has freed a Chilean accused of racism under supervision.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Partimos con Nepal, donde la cifra de desaparecidos tras las inundaciones aumentó hasta",
+   "en": "We start with Nepal, where the number of people missing after the floods has risen",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "casi dos mil, según la Autoridad Nacional de Gestión y Reducción del Riesgo de Desastres.",
+   "en": "to almost two thousand, according to the national disaster management authority.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Entre las personas con paradero desconocido hay novecientos treinta y tres trabajadores de centrales hidroeléctricas",
+   "en": "Among those unaccounted for are nine hundred and thirty-three workers from hydroelectric plants and six hundred",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y seiscientos veintidós turistas extranjeros.",
+   "en": "and twenty-two foreign tourists.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El balance de muertos llegaba el viernes a quinientos treinta y ocho,",
+   "en": "The death toll stood at five hundred and thirty-eight on Friday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la mayoría se registró en el distrito de Chitwan.",
+   "en": "and most of the dead were in the «Chitwan» district.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las labores de búsqueda y rescate movilizaron a cerca de quince mil efectivos.",
+   "en": "Close to fifteen thousand personnel were sent in for the search and rescue.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos en Chile, la desocupación llegó al nueve coma cinco por ciento en el",
+   "en": "In other news, unemployment reached nine and a half per cent in the May",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "trimestre mayo julio, su mayor nivel en cinco años,",
+   "en": "to July quarter, its highest in five years,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según el Instituto Nacional de Estadísticas.",
+   "en": "according to the national statistics institute.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Con este dato se completan cuatro registros consecutivos sobre el nueve por ciento",
+   "en": "That makes four readings in a row above nine per cent",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y cuarenta y tres sobre el ocho.",
+   "en": "and forty-three above eight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El empleo anotó una caída por primera vez desde la pandemia.",
+   "en": "Employment fell for the first time since the pandemic.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El número de personas desocupadas aumentó un diez coma cuatro por ciento,",
+   "en": "The number of people out of work rose by ten point four per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la tasa fue mayor entre las mujeres.",
+   "en": "and the rate was higher among women.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En lo demás, la justicia brasileña sustituyó la prisión preventiva de un chileno acusado de",
+   "en": "Moving on, a Brazilian court has replaced the pre-trial detention of a Chilean accused of",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "racismo en Sao Paulo, según La Tercera y Ex-Ante.",
+   "en": "racism in «Sao Paulo», according to «La Tercera» and «Ex-Ante».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La jueza federal Fabiana Alves Rodrigues dispuso arraigo y tobillera electrónica.",
+   "en": "The federal judge «Fabiana Alves Rodrigues» ordered a travel ban and an electronic tag.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El acusado deberá presentarse en la sede judicial",
+   "en": "The accused must report to the court",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y asistir a todos los actos del proceso penal.",
+   "en": "and attend every stage of the criminal case.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo principal.",
+   "en": "That is the main of it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Saturday 29 August",
+ "edition": "morning",
+ "region": "es-CL",
+ "region_label": "Chile",
+ "headline_en": "The missing after the Nepal floods rise to nearly two thousand",
+ "summary_en": [
+  "The missing after the Nepal floods rise to nearly two thousand",
+  "Chilean unemployment reaches 9.5 per cent, its highest in five years",
+  "A Brazilian judge frees a Chilean accused of racism to electronic monitoring"
+ ]
+}

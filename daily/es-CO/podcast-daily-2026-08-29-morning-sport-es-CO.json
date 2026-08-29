@@ -1,0 +1,159 @@
+{
+ "title": "La jornada deportiva, sábado 29 de agosto",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-sport",
+   "wpm": 195,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-29",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "La jornada deportiva de este sábado.",
+   "en": "The sporting day this Saturday.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La IndyCar aclaró que hay negociaciones para correr en Barranquilla,",
+   "en": "«IndyCar» has said talks are under way about racing in «Barranquilla»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pero que nada está cerrado, según Semana.",
+   "en": "but that nothing is settled, according to «Semana».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El alcalde de Barranquilla, Alejandro Char,",
+   "en": "The mayor of «Barranquilla», «Alejandro Char»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "había confirmado que la categoría correrá en la ciudad en abril de dos mil veintiocho.",
+   "en": "had confirmed the series would race in the city in April 2028.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sería la primera vez que la IndyCar corre fuera de Estados Unidos o Canadá.",
+   "en": "It would be the first time «IndyCar» has raced outside the United States or Canada.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El trazado previsto mide cuatro coma tres kilómetros y pasa por el Malecón",
+   "en": "The planned circuit is four point three kilometres long and runs along the «Malecón» and",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la Vía Cuarenta.",
+   "en": "the «Vía 40».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El alcalde atribuyó el acuerdo a la intervención del expiloto Juan Pablo Montoya.",
+   "en": "The mayor put the agreement down to the part played by the former driver «Juan Pablo Montoya».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el fútbol colombiano, el uruguayo Franco Fagúndez, del Independiente Santa Fe,",
+   "en": "In Colombian football, the Uruguayan «Franco Fagúndez», of «Independiente Santa Fe»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "habló de la depresión que atravesó el año pasado.",
+   "en": "spoke about the depression he went through last year.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El delantero, de veintiséis años, dejó un mensaje sobre la salud mental de los futbolistas.",
+   "en": "The twenty-six-year-old forward left a message about mental health among footballers.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esa es la jornada.",
+   "en": "That is the sporting day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Saturday 29 August",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "IndyCar says the Barranquilla race is still under negotiation",
+ "summary_en": [
+  "IndyCar says the Barranquilla race is still under negotiation",
+  "A Santa Fe player speaks about his depression"
+ ]
+}

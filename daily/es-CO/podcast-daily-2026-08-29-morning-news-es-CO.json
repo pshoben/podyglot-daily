@@ -1,0 +1,320 @@
+{
+ "title": "La actualidad de la mañana, sábado 29 de agosto",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-29",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Sábado veintinueve de agosto, siete de la mañana.",
+   "en": "Saturday the twenty-ninth of August, seven in the morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La actualidad de la mañana.",
+   "en": "The morning round-up.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Nepal y China cuentan las víctimas de las inundaciones en su frontera.",
+   "en": "Nepal and China are counting the victims of the floods on their border.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un temblor de magnitud tres coma nueve sacudió el Chocó esta madrugada.",
+   "en": "An earthquake of magnitude three point nine shook «Chocó» in the early hours.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y Hacienda recorta veintiún coma nueve billones de pesos del gasto público.",
+   "en": "And the finance ministry is cutting twenty-one point nine trillion pesos from public spending.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Iniciamos con Nepal, donde las autoridades cuentan las víctimas de las inundaciones en la",
+   "en": "We start with Nepal, where the authorities are counting the victims of the floods on the",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "frontera con China.",
+   "en": "border with China.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El país elevó el balance a seiscientos veintiséis muertos y dos mil cuatrocientos veintiséis desaparecidos,",
+   "en": "The country has raised the toll to six hundred and twenty-six dead and two thousand four hundred and twenty-six missing,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según El Tiempo.",
+   "en": "according to «El Tiempo».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las autoridades siguen actualizando el número de víctimas del desastre.",
+   "en": "The authorities are still revising the number of victims of the disaster.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos en Colombia, un temblor de magnitud tres coma nueve sacudió el Chocó en la",
+   "en": "In other news, an earthquake of magnitude three point nine shook «Chocó» in the",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "madrugada de este sábado.",
+   "en": "early hours of Saturday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El epicentro estuvo en Medio San Juan, en Andagoya,",
+   "en": "The epicentre was at «Medio San Juan», in «Andagoya»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el sismo se sintió en varias ciudades del país.",
+   "en": "and the tremor was felt in several cities across the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El movimiento activó las alertas en los teléfonos móviles,",
+   "en": "It set off alerts on mobile phones,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el Servicio Geológico Colombiano entregó los detalles.",
+   "en": "and the Colombian geological service gave the details.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En otras noticias, los bomberos de Medellín atienden incendios forestales en el Cerro de las Tres Cruces,",
+   "en": "Moving on, firefighters in «Medellín» are tackling forest fires at the «Cerro de las Tres Cruces», «Rodeo",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Rodeo Alto, San Cristóbal y Santa Elena,",
+   "en": "Alto», «San Cristóbal» and «Santa Elena»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según El Colombiano y El Tiempo.",
+   "en": "according to «El Colombiano» and «El Tiempo».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El alcalde Federico Gutiérrez confirmó que el incendio de Santa Elena ya fue controlado",
+   "en": "The mayor, «Federico Gutiérrez», confirmed the «Santa Elena» fire had been brought under control",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y que los demás siguen activos.",
+   "en": "and that the others were still burning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "No se reportan lesionados, y las autoridades vigilan nuevos focos en el resto del país.",
+   "en": "No injuries have been reported, and the authorities are watching for new outbreaks elsewhere in the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de asunto, el ministro de Hacienda, Miguel Gómez,",
+   "en": "Turning to something else, the finance minister, «Miguel Gómez»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "anunció un recorte de veintiún coma nueve billones de pesos en el gasto público,",
+   "en": "announced a cut of twenty-one point nine trillion pesos in public spending,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según El Colombiano y Semana.",
+   "en": "according to «El Colombiano» and «Semana».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo dijo en el cierre de la Convención Bancaria,",
+   "en": "He said it at the close of the Banking Convention,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "donde presentó un panorama crítico de las finanzas del país.",
+   "en": "where he set out a critical picture of the country's finances.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Gobierno presentó además el que llama presupuesto de la verdad para dos mil veintisiete.",
+   "en": "The government also presented what it calls the budget of truth for 2027.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más importante.",
+   "en": "That is what matters most today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Saturday 29 August",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "Nepal and China are counting the victims of the border floods",
+ "summary_en": [
+  "Nepal and China are counting the victims of the border floods",
+  "A magnitude 3.9 earthquake shakes Choco early on Saturday",
+  "The finance minister announces a 21.9 trillion peso spending cut"
+ ]
+}
