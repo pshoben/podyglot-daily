@@ -5,6 +5,26 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-BE-Le temps chez nous, dimanche 30 août",
+   "file": "podcast-daily-2026-08-30-morning-weather-fr-BE.json",
+   "bytes": 5224,
+   "sha256": "7f82879075a846c356c7590708a6082a7d01352a1f68aa55b7814a47a4d4b785",
+   "date": "2026-08-30",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, dimanche 30 août",
+   "title_en": "Today's weather, Sunday 30 August",
+   "headline_en": "Prévision pour Bruxelles, dimanche 2026-08-30",
+   "summary_en": [
+    "Prévision pour Bruxelles, dimanche 2026-08-30",
+    "Prévision pour Liège, dimanche 2026-08-30"
+   ]
+  },
+  {
    "id": "fr-BE-Le temps chez nous, samedi 29 août",
    "file": "podcast-daily-2026-08-29-morning-weather-fr-BE.json",
    "bytes": 4762,

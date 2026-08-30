@@ -1,0 +1,71 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-AR",
+ "date": "2026-08-16",
+ "episodes": [
+  {
+   "id": "es-AR-Los resultados del día, domingo 16 de agosto",
+   "file": "podcast-daily-2026-08-16-evening-results-es-AR.json",
+   "bytes": 2658,
+   "sha256": "6f915a63f97fcd054c916617e29c6d2630f40a6890a77fa294b1e4f1e61019e9",
+   "date": "2026-08-16",
+   "edition": "evening",
+   "programme": "results",
+   "programme_order": null,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "Los resultados del día, domingo 16 de agosto",
+   "title_en": "Results, Sunday 16 August",
+   "headline_en": "Argentine matches at the Cincinnati Masters",
+   "summary_en": [
+    "Argentine matches at the Cincinnati Masters"
+   ]
+  },
+  {
+   "id": "es-AR-El noticiero de la tarde, domingo 16 de agosto",
+   "file": "podcast-daily-2026-08-16-news-es-AR.json",
+   "bytes": 11832,
+   "sha256": "5d59001a78587a1836e03ff2267b2b548a2d36c73965d4cc34096dd4cd5522ea",
+   "date": "2026-08-16",
+   "edition": "legacy",
+   "programme": "news",
+   "programme_order": null,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El noticiero de la tarde, domingo 16 de agosto",
+   "title_en": "The evening news, Sunday 16 August",
+   "headline_en": "Melconian warns on the dollar and the exchange-rate lag",
+   "summary_en": [
+    "Melconian warns on the dollar and the exchange-rate lag",
+    "Santilli receives the northern governors on tariff subsidies",
+    "Children's Day sales fall 2.5 per cent"
+   ]
+  },
+  {
+   "id": "es-AR-Los resultados, domingo 16 de agosto",
+   "file": "podcast-daily-2026-08-16-results-es-AR.json",
+   "bytes": 2648,
+   "sha256": "7cd5cbd268fbe8ac777c4f1a2e2d425e617d30d6327dc55e2c2920deabe614b6",
+   "date": "2026-08-16",
+   "edition": "legacy",
+   "programme": "results",
+   "programme_order": null,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "Los resultados, domingo 16 de agosto",
+   "title_en": "Results, Sunday 16 August",
+   "headline_en": "Argentine matches at the Cincinnati Masters",
+   "summary_en": [
+    "Argentine matches at the Cincinnati Masters"
+   ]
+  }
+ ],
+ "content": "2be8a830ca6eb0724d6c71f0cc727942a354f2fd8fad12dcd676d3dd9eeeadf5",
+ "rev": 2,
+ "updated": "2026-08-27T07:22:03.159Z",
+ "archived": true
+}

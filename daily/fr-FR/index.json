@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-FR-Le journal du matin, dimanche 30 août",
+   "file": "podcast-daily-2026-08-30-morning-news-fr-FR.json",
+   "bytes": 12055,
+   "sha256": "16120aa7df5dc4cea8e29df341d3c0a6af7c6dc80a2d32a4c9f67b6de963d66e",
+   "date": "2026-08-30",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, dimanche 30 août",
+   "title_en": "The morning news, Sunday 30 August",
+   "headline_en": "Heavy rain and rising water are holding up the rescue in Nepal",
+   "summary_en": [
+    "Heavy rain and rising water are holding up the rescue in Nepal",
+    "The Socialist Party closed its summer conference at Blois",
+    "Gunfire at a rave party in Switzerland leaves several casualties"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, dimanche 30 août",
+   "file": "podcast-daily-2026-08-30-morning-sport-fr-FR.json",
+   "bytes": 5076,
+   "sha256": "20d57ef8cd58c6c3c14c689761997706a9acfdbe755983466e166edb5ca62ad8",
+   "date": "2026-08-30",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, dimanche 30 août",
+   "title_en": "Today's sport, Sunday 30 August",
+   "headline_en": "Carlos Alcaraz returns at the US Open after four months out",
+   "summary_en": [
+    "Carlos Alcaraz returns at the US Open after four months out",
+    "The world number three is the defending champion in New York"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, dimanche 30 août",
+   "file": "podcast-daily-2026-08-30-morning-weather-fr-FR.json",
+   "bytes": 5041,
+   "sha256": "8cfb8e12fe154b3e7d46fe2e845a49f4ca9466c155ed34a0dd44128e8ab13acb",
+   "date": "2026-08-30",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, dimanche 30 août",
+   "title_en": "Today's weather, Sunday 30 August",
+   "headline_en": "Prévision pour Paris, dimanche 2026-08-30",
+   "summary_en": [
+    "Prévision pour Paris, dimanche 2026-08-30",
+    "Prévision pour Bordeaux, dimanche 2026-08-30"
+   ]
+  },
+  {
    "id": "fr-FR-Le journal du matin, samedi 29 août",
    "file": "podcast-daily-2026-08-29-morning-news-fr-FR.json",
    "bytes": 9346,
@@ -795,87 +856,6 @@
    "summary_en": [
     "Swimming, athletics and table tennis at the European championships",
     "At the European athletics championships in Birmingham, which ended on Sunday, France leave"
-   ]
-  },
-  {
-   "id": "fr-FR-Le journal du soir, dimanche 16 août",
-   "file": "podcast-daily-2026-08-16-news-fr-FR.json",
-   "bytes": 12450,
-   "sha256": "4aa91583f377778ad1498b29fa980f8cef849b1c2c1bbf80ec7f590ddf6b4b18",
-   "date": "2026-08-16",
-   "edition": "legacy",
-   "programme": "news",
-   "programme_order": null,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le journal du soir, dimanche 16 août",
-   "title_en": "The evening news, Sunday 16 August",
-   "headline_en": "Moscow region says it was hit by around 600 drones overnight",
-   "summary_en": [
-    "Moscow region says it was hit by around 600 drones overnight",
-    "Tax-office data breach: the Prime Minister convenes a crisis unit on Monday",
-    "Around 678,000 tax-office users affected by the breach"
-   ]
-  },
-  {
-   "id": "fr-FR-Les résultats, dimanche 16 août",
-   "file": "podcast-daily-2026-08-16-results-fr-FR.json",
-   "bytes": 4634,
-   "sha256": "d7d387f41097e6e043efb5044e3a6659d0a05122fc3fc4c150435265ad0f6ce8",
-   "date": "2026-08-16",
-   "edition": "legacy",
-   "programme": "results",
-   "programme_order": null,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Les résultats, dimanche 16 août",
-   "title_en": "Results, Sunday 16 August",
-   "headline_en": "Heats of the 400m freestyle at the European championships",
-   "summary_en": [
-    "Heats of the 400m freestyle at the European championships",
-    "The 200m butterfly at the European championships"
-   ]
-  },
-  {
-   "id": "fr-FR-Le sport, dimanche 16 août",
-   "file": "podcast-daily-2026-08-16-sport-fr-FR.json",
-   "bytes": 4449,
-   "sha256": "e653f5110262f5f47576d75bab39b166acf652cc29f867226795d055a0ea62cf",
-   "date": "2026-08-16",
-   "edition": "legacy",
-   "programme": "sport",
-   "programme_order": null,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le sport, dimanche 16 août",
-   "title_en": "Sport, Sunday 16 August",
-   "headline_en": "PSG meet Lens at Bollaert for the Trophee des champions, penalties if level",
-   "summary_en": [
-    "PSG meet Lens at Bollaert for the Trophee des champions, penalties if level",
-    "The medley relay closes the European championships on Sunday evening"
-   ]
-  },
-  {
-   "id": "fr-FR-La météo, dimanche 16 août",
-   "file": "podcast-daily-2026-08-16-weather-fr-FR.json",
-   "bytes": 6122,
-   "sha256": "eb879186f151fd3670e459e3943cab87a43fc476d4a80ac6672fbb68b0e2e1ad",
-   "date": "2026-08-16",
-   "edition": "legacy",
-   "programme": "weather",
-   "programme_order": null,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "La météo, dimanche 16 août",
-   "title_en": "The weather, Sunday 16 August",
-   "headline_en": "The heatwave retreats: six south-eastern departments stay on orange from 6am Monday",
-   "summary_en": [
-    "The heatwave retreats: six south-eastern departments stay on orange from 6am Monday",
-    "Air-pollution alert in the Moselle from the Belgian wildfire smoke"
    ]
   }
  ]

@@ -1,18 +1,18 @@
 {
  "schema": 1,
- "generated": "2026-08-29T14:36:25.249Z",
+ "generated": "2026-08-30T06:59:10.547Z",
  "channels": [
   {
    "dialect": "es-AR",
-   "updated": "2026-08-29T14:36:25.249Z",
-   "content": "4e7811abeb8be604686c7aca14c06b0fd3c0317c3177e4ef2b11e68b24f13937",
-   "days": 13,
-   "episodes": 33,
+   "updated": "2026-08-30T06:59:10.547Z",
+   "content": "a36bfb69f48e44a4080f062b0e28a2115fbb35ad8a3872e184399e2a24729b36",
+   "days": 12,
+   "episodes": 30,
    "latest_date": "2026-08-29",
-   "last_written": [
-    "2026-08-29"
+   "last_written": [],
+   "last_removed": [
+    "2026-08-16"
    ],
-   "last_removed": [],
    "bitmap": "daily/es-AR/bitmap.json"
   },
   {
@@ -22,82 +22,90 @@
    "days": 12,
    "episodes": 27,
    "latest_date": "2026-08-29",
-   "last_written": [
-    "2026-08-29"
-   ],
+   "last_written": [],
    "last_removed": [],
    "bitmap": "daily/es-CL/bitmap.json"
   },
   {
    "dialect": "es-CO",
-   "updated": "2026-08-29T14:36:25.249Z",
-   "content": "7c18425b660f68fa506dea787f04d33e07cf5560a01d386d037df28bb55ce2a7",
-   "days": 13,
-   "episodes": 32,
+   "updated": "2026-08-30T06:59:10.547Z",
+   "content": "5d14d320a689c49e4056dde5c368b22441d1791459afe17f8212e9bb26a9faf8",
+   "days": 12,
+   "episodes": 31,
    "latest_date": "2026-08-29",
-   "last_written": [
-    "2026-08-29"
+   "last_written": [],
+   "last_removed": [
+    "2026-08-16"
    ],
-   "last_removed": [],
    "bitmap": "daily/es-CO/bitmap.json"
   },
   {
    "dialect": "es-ES",
-   "updated": "2026-08-29T14:36:25.249Z",
-   "content": "2c785ce92fa485e8ce68aa2d8d48d9daf59aa2b4587781ea2784f0dd2ac38459",
+   "updated": "2026-08-30T06:59:10.547Z",
+   "content": "d1146429399eb7010bcc25c6c45a2144a7f92c98ca163d8e96ea9b1b9eb3cd9a",
    "days": 14,
    "episodes": 76,
-   "latest_date": "2026-08-29",
-   "last_written": [],
-   "last_removed": [],
+   "latest_date": "2026-08-30",
+   "last_written": [
+    "2026-08-30"
+   ],
+   "last_removed": [
+    "2026-08-16"
+   ],
    "bitmap": "daily/es-ES/bitmap.json"
   },
   {
    "dialect": "es-MX",
-   "updated": "2026-08-29T14:36:25.249Z",
-   "content": "fec2e7578230514cb676e6137ddb4d56444b5d701907d3e8487fae96ae6507b3",
-   "days": 13,
-   "episodes": 33,
+   "updated": "2026-08-30T06:59:10.547Z",
+   "content": "4c007e8072a67dc43a45f08ee13dae6180d3912cec90d925cfa9223f589e7087",
+   "days": 12,
+   "episodes": 30,
    "latest_date": "2026-08-29",
-   "last_written": [
-    "2026-08-29"
+   "last_written": [],
+   "last_removed": [
+    "2026-08-16"
    ],
-   "last_removed": [],
    "bitmap": "daily/es-MX/bitmap.json"
   },
   {
    "dialect": "fr-BE",
-   "updated": "2026-08-29T07:24:49.155Z",
-   "content": "0322f7057bdfefa176b8397e82fd16ab0b430c95fc8346a1387abce8ae31b352",
-   "days": 13,
-   "episodes": 34,
-   "latest_date": "2026-08-29",
-   "last_written": [],
+   "updated": "2026-08-30T06:59:10.547Z",
+   "content": "c1ea225f625076448a76b89df02dc6449d8de6b1dfa281932c4dd6c581559b19",
+   "days": 14,
+   "episodes": 35,
+   "latest_date": "2026-08-30",
+   "last_written": [
+    "2026-08-30"
+   ],
    "last_removed": [],
    "bitmap": "daily/fr-BE/bitmap.json"
   },
   {
    "dialect": "fr-CA",
-   "updated": "2026-08-29T14:36:25.249Z",
-   "content": "2db8fcd4f23295a87dca35b9b29097b761da70c233015cabaac5c439db7dd3aa",
-   "days": 13,
-   "episodes": 33,
+   "updated": "2026-08-30T06:59:10.547Z",
+   "content": "2a13fcc6ba6c8a448837256eca5fb742cd44c0a78e3def35f2d11f0e06be1d45",
+   "days": 12,
+   "episodes": 30,
    "latest_date": "2026-08-29",
-   "last_written": [
-    "2026-08-29"
+   "last_written": [],
+   "last_removed": [
+    "2026-08-16"
    ],
-   "last_removed": [],
    "bitmap": "daily/fr-CA/bitmap.json"
   },
   {
    "dialect": "fr-FR",
-   "updated": "2026-08-29T14:36:25.249Z",
-   "content": "18cf70306c177b3f6d651edba3442f67c3bf147b66b7843c825d2eb2ce2249b9",
+   "updated": "2026-08-30T06:59:10.547Z",
+   "content": "ea0761dc460e8786a6109feeec859712ddded2c804491982a9eba1ae524bc368",
    "days": 14,
-   "episodes": 43,
-   "latest_date": "2026-08-29",
-   "last_written": [],
-   "last_removed": [],
+   "episodes": 42,
+   "latest_date": "2026-08-30",
+   "last_written": [
+    "2026-08-30"
+   ],
+   "last_removed": [
+    "2026-08-16"
+   ],
    "bitmap": "daily/fr-FR/bitmap.json"
   }
  ]

@@ -1,0 +1,233 @@
+{
+ "title": "El tiempo, domingo 30 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather",
+   "wpm": 208,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-30",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "De norte a sur, el tiempo de hoy.",
+   "en": "From north to south, today's weather.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Madrid el cielo está despejado durante toda la jornada, según la Aemet.",
+   "en": "In «Madrid» the sky is clear all day, according to the «Aemet».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima llega a treinta y dos grados y la mínima se queda en diecisiete.",
+   "en": "The high reaches thirty-two degrees and the low stays at seventeen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento del sudoeste sopla entre quince y veinte kilómetros por hora.",
+   "en": "The south-westerly wind blows at between fifteen and twenty kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Barcelona, treinta y un grados de máxima y veintitrés de mínima,",
+   "en": "In «Barcelona», thirty-one degrees at the top and twenty-three at the bottom,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "también con el cielo despejado.",
+   "en": "with a clear sky too.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "No se espera lluvia,",
+   "en": "No rain is expected,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el viento del sur no pasa de quince kilómetros por hora.",
+   "en": "and the southerly wind does not get past fifteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ojo en el norte, donde Bilbao amanece muy nuboso y termina la jornada cubierto,",
+   "en": "Watch the north, where «Bilbao» starts very cloudy and ends the day overcast,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con lluvia escasa.",
+   "en": "with light rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí la probabilidad de precipitación es del cien por cien.",
+   "en": "There the chance of rain is one hundred per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima no pasa de veintisiete grados y la mínima queda en dieciséis.",
+   "en": "The high does not get past twenty-seven degrees and the low stays at sixteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento del noroeste alcanza los veinte kilómetros por hora.",
+   "en": "The north-westerly wind reaches twenty kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En A Coruña, intervalos nubosos y lluvia escasa por la mañana.",
+   "en": "In «A Coruña», cloudy spells and light rain in the morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación baja del sesenta por ciento al veinte por la tarde.",
+   "en": "The chance of rain falls from sixty per cent to twenty in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El termómetro se queda en veinticuatro grados, con dieciocho de mínima.",
+   "en": "The thermometer stays at twenty-four degrees, with eighteen at the bottom.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el cielo de València, ni una nube,",
+   "en": "Over «València», not a cloud,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con veintinueve grados y veinte de mínima.",
+   "en": "with twenty-nine degrees and twenty at the bottom.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento del sudeste llega a diez kilómetros por hora.",
+   "en": "The south-easterly wind gets to ten kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí el tiempo.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Sunday 30 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "España",
+ "accent": "Castilla",
+ "accent_label": "acento de Castilla",
+ "segment_order": 0,
+ "headline_en": "Predicción AEMET para Madrid (Madrid), 2026-08-30",
+ "summary_en": [
+  "Predicción AEMET para Madrid (Madrid), 2026-08-30",
+  "Predicción AEMET para Barcelona (Barcelona), 2026-08-30"
+ ]
+}

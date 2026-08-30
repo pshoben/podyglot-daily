@@ -2,7 +2,8 @@
  "schema": 1,
  "channel": "daily",
  "dialect": "es-CO",
- "date": "2026-08-16",
+ "base": "https://pshoben.github.io/podyglot-daily/archive/",
+ "archived_before": "2026-08-17",
  "episodes": [
   {
    "id": "es-CO-La actualidad del día, domingo 16 de agosto",
@@ -25,8 +26,5 @@
     "A soldier killed in a drone attack in Norte de Santander"
    ]
   }
- ],
- "content": "a78910f8564527db0976c888a84de85e3cc30ca3087ca704e80eb6b92e611301",
- "rev": 1,
- "updated": "2026-08-20T07:49:48.488Z"
+ ]
 }

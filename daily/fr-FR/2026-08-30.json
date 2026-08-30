@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-FR",
+ "date": "2026-08-30",
+ "episodes": [
+  {
+   "id": "fr-FR-Le journal du matin, dimanche 30 août",
+   "file": "podcast-daily-2026-08-30-morning-news-fr-FR.json",
+   "bytes": 12055,
+   "sha256": "16120aa7df5dc4cea8e29df341d3c0a6af7c6dc80a2d32a4c9f67b6de963d66e",
+   "date": "2026-08-30",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, dimanche 30 août",
+   "title_en": "The morning news, Sunday 30 August",
+   "headline_en": "Heavy rain and rising water are holding up the rescue in Nepal",
+   "summary_en": [
+    "Heavy rain and rising water are holding up the rescue in Nepal",
+    "The Socialist Party closed its summer conference at Blois",
+    "Gunfire at a rave party in Switzerland leaves several casualties"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, dimanche 30 août",
+   "file": "podcast-daily-2026-08-30-morning-sport-fr-FR.json",
+   "bytes": 5076,
+   "sha256": "20d57ef8cd58c6c3c14c689761997706a9acfdbe755983466e166edb5ca62ad8",
+   "date": "2026-08-30",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, dimanche 30 août",
+   "title_en": "Today's sport, Sunday 30 August",
+   "headline_en": "Carlos Alcaraz returns at the US Open after four months out",
+   "summary_en": [
+    "Carlos Alcaraz returns at the US Open after four months out",
+    "The world number three is the defending champion in New York"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, dimanche 30 août",
+   "file": "podcast-daily-2026-08-30-morning-weather-fr-FR.json",
+   "bytes": 5041,
+   "sha256": "8cfb8e12fe154b3e7d46fe2e845a49f4ca9466c155ed34a0dd44128e8ab13acb",
+   "date": "2026-08-30",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, dimanche 30 août",
+   "title_en": "Today's weather, Sunday 30 August",
+   "headline_en": "Prévision pour Paris, dimanche 2026-08-30",
+   "summary_en": [
+    "Prévision pour Paris, dimanche 2026-08-30",
+    "Prévision pour Bordeaux, dimanche 2026-08-30"
+   ]
+  }
+ ],
+ "content": "17422db587e3eae7d802033494d4f65e35ad244727e2cb62a31375b0cd7a1734",
+ "rev": 1,
+ "updated": "2026-08-30T06:59:10.547Z"
+}

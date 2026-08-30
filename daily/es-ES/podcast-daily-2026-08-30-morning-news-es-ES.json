@@ -1,0 +1,420 @@
+{
+ "title": "El informativo de la mañana, domingo 30 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-news",
+   "wpm": 208,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-30",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Domingo treinta de agosto, siete de la mañana en Madrid.",
+   "en": "Sunday the thirtieth of August, seven in the morning in «Madrid».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El informativo de la mañana.",
+   "en": "The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Nepal y el Tíbet, los balances oficiales de la catástrofe avanzan despacio.",
+   "en": "In Nepal and Tibet, the official counts from the disaster are coming through slowly.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En España, se cumple un mes de la crisis de Ceuta.",
+   "en": "In Spain, it is a month since the «Ceuta» crisis began.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y Delcy Rodríguez defiende el acuerdo petrolero con Estados Unidos.",
+   "en": "And «Delcy Rodríguez» defends the oil agreement with the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Abrimos con Nepal, donde los corrimientos de tierra y las inundaciones",
+   "en": "We open in Nepal, where landslides and flooding",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "devastaron el centro del país el miércoles.",
+   "en": "devastated the centre of the country on Wednesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según la crónica de ABC desde el pueblo de Bidur, en el distrito de Nuwakot,",
+   "en": "On ABC's report from the village of «Bidur», in the «Nuwakot» district,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el lodo se extiende hasta donde alcanza la vista.",
+   "en": "the mud runs as far as the eye can see.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según los balances oficiales de Nepal y de China,",
+   "en": "On the official counts from Nepal and from China,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "los muertos se cuentan entre más de seiscientos setenta y al menos setecientos cincuenta.",
+   "en": "the dead number between more than six hundred and seventy and at least seven hundred and fifty.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los desaparecidos van de casi dos mil quinientos a más de tres mil,",
+   "en": "The missing run from almost two thousand five hundred to more than three thousand,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y las cifras avanzan despacio.",
+   "en": "and the figures are coming through slowly.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el lado tibetano de la frontera,",
+   "en": "On the Tibetan side of the border,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la geografía extrema y el bloqueo de las comunicaciones dificultan reconstruir lo ocurrido.",
+   "en": "the extreme terrain and the communications blackout make it hard to piece together what happened.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un nuevo corrimiento ha formado allí otra represa natural,",
+   "en": "A fresh landslide has formed another natural dam there,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y los equipos de rescate han tenido que ser evacuados.",
+   "en": "and the rescue teams have had to be pulled out.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en España, este domingo se cumple un mes de la crisis migratoria de Ceuta.",
+   "en": "Here in Spain, this Sunday marks a month since the «Ceuta» migration crisis began.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La crisis permanece abierta, y la paciencia de los vecinos está al límite",
+   "en": "The crisis is still open, and local patience is at its limit",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tras un mes de promesas incumplidas.",
+   "en": "after a month of broken promises.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La convivencia multicultural histórica de la ciudad está siendo puesta a prueba.",
+   "en": "The city's long-standing mix of communities is being put to the test.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el resto de la actualidad,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la presidenta venezolana Delcy Rodríguez ha anunciado que el acuerdo petrolero con Estados Unidos tendrá",
+   "en": "the Venezuelan president «Delcy Rodríguez» has announced that the oil agreement with the United States will",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "una vigencia de veinticinco años.",
+   "en": "run for twenty-five years.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ha insistido en que Venezuela conserva la propiedad y la soberanía sobre sus recursos.",
+   "en": "She has insisted that Venezuela keeps ownership and sovereignty over its resources.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según la presidenta, Estados Unidos aportará capital,",
+   "en": "On the president's account, the United States will bring capital,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tecnología y capacidad operativa a una industria golpeada por las sanciones.",
+   "en": "technology and operating capacity to an industry battered by sanctions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de tema, en Islandia, con cerca del sesenta por ciento escrutado,",
+   "en": "Moving on, in Iceland, with about sixty per cent counted,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el voto favorable a la Unión Europea mantiene una ligera ventaja.",
+   "en": "the vote in favour of the European Union holds a narrow lead.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El voto contrario es mayoritario en las tres circunscripciones rurales,",
+   "en": "The vote against leads in the three rural constituencies,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el favorable se impone en las dos de Reikiavik.",
+   "en": "and the vote in favour wins the two «Reikiavik» ones.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La isla votó el sábado,",
+   "en": "The island voted on Saturday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en su última jornada de referéndum.",
+   "en": "on the last day of the referendum.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para terminar, la NASA tiene previsto lanzar hoy su telescopio",
+   "en": "And finally, the «NASA» plans to launch its «Nancy Grace Roman» space telescope today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "espacial Nancy Grace Roman. El observatorio despega esta tarde desde el Centro Espacial Kennedy, en Florida,",
+   "en": "The observatory lifts off this afternoon from the «Centro Espacial Kennedy», in Florida,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a bordo de un cohete Falcon Heavy.",
+   "en": "on a Falcon Heavy rocket.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Con un campo de visión al menos cien veces mayor que el del Hubble,",
+   "en": "With a field of view at least a hundred times wider than «Hubble»'s,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "buscará responder qué son la materia y la energía oscuras.",
+   "en": "it will try to answer what dark matter and dark energy are.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí lo esencial.",
+   "en": "That is the heart of the news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Sunday 30 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Landslides and flooding devastated central Nepal on Wednesday",
+ "summary_en": [
+  "Landslides and flooding devastated central Nepal on Wednesday",
+  "A month on, the Ceuta crisis is still open",
+  "Caracas says the oil deal with Washington will run twenty-five years"
+ ]
+}

@@ -1,0 +1,209 @@
+{
+ "title": "Le sport, dimanche 30 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-30",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le sport, ce dimanche matin.",
+   "en": "Sport, this Sunday morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À suivre aujourd'hui, l'US Open de tennis,",
+   "en": "Coming up today, the tennis at the US Open,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où Carlos Alcaraz retrouve la compétition à New York après plus de quatre mois d'arrêt.",
+   "en": "where «Carlos Alcaraz» returns to competition in New York after more than four months out.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Numéro trois mondial et tenant du titre,",
+   "en": "The world number three and defending champion,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "l'Espagnol n'avait pas rejoué depuis le tournoi de Barcelone, à la mi-avril,",
+   "en": "the Spaniard had not played since the tournament in «Barcelone» in mid-April,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "après une blessure au poignet droit.",
+   "en": "after an injury to his right wrist.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sur les terrains, la deuxième journée de Ligue un se poursuit ce dimanche.",
+   "en": "On the pitch, the second round of «Ligue un» continues this Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Stade Rennais reçoit Le Mans au Roazhon Park.",
+   "en": "«Stade Rennais» are at home to «Le Mans» at the «Roazhon Park».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au programme également, la neuvième étape de la Vuelta,",
+   "en": "Also on today, the ninth stage of the «Vuelta»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "entre Villajoyosa et l'Alto de Aitana Costa Blanca.",
+   "en": "between «Villajoyosa» and the «Alto de Aitana Costa Blanca».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le peloton s'élance à midi vingt-six,",
+   "en": "The riders set off at twenty-six minutes past twelve,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour une arrivée prévue en fin d'après-midi.",
+   "en": "with the finish due late in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Slovène Tadej Pogacar ne sera pas au départ.",
+   "en": "The Slovenian «Tadej Pogacar» will not be on the start line.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il souffre d'une commotion cérébrale et de plusieurs fractures,",
+   "en": "He has a concussion and several fractures,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à la clavicule gauche et à une vertèbre cervicale, et doit être opéré.",
+   "en": "to his left collarbone and to a neck vertebra, and needs surgery.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ses blessures devraient le priver des championnats du monde,",
+   "en": "His injuries are expected to keep him out of the world championships,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et mettre un terme à sa saison.",
+   "en": "and to end his season.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Sunday 30 August",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Carlos Alcaraz returns at the US Open after four months out",
+ "summary_en": [
+  "Carlos Alcaraz returns at the US Open after four months out",
+  "The world number three is the defending champion in New York"
+ ]
+}

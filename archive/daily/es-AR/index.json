@@ -2,7 +2,8 @@
  "schema": 1,
  "channel": "daily",
  "dialect": "es-AR",
- "date": "2026-08-16",
+ "base": "https://pshoben.github.io/podyglot-daily/archive/",
+ "archived_before": "2026-08-17",
  "episodes": [
   {
    "id": "es-AR-Los resultados del día, domingo 16 de agosto",
@@ -63,8 +64,5 @@
     "Argentine matches at the Cincinnati Masters"
    ]
   }
- ],
- "content": "2be8a830ca6eb0724d6c71f0cc727942a354f2fd8fad12dcd676d3dd9eeeadf5",
- "rev": 2,
- "updated": "2026-08-27T07:22:03.159Z"
+ ]
 }

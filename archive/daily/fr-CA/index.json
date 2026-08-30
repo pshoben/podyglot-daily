@@ -2,7 +2,8 @@
  "schema": 1,
  "channel": "daily",
  "dialect": "fr-CA",
- "date": "2026-08-16",
+ "base": "https://pshoben.github.io/podyglot-daily/archive/",
+ "archived_before": "2026-08-17",
  "episodes": [
   {
    "id": "fr-CA-Les résultats du jour, dimanche 16 août",
@@ -65,8 +66,5 @@
     "The 200m breaststroke at the Pan Pacific championships"
    ]
   }
- ],
- "content": "6d5c015a02463b2bb4a5b1c89e50979553b2ef138bcd2c889424fbf0670551b0",
- "rev": 2,
- "updated": "2026-08-27T07:22:03.159Z"
+ ]
 }

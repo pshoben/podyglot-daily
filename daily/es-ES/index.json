@@ -5,6 +5,107 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-ES-El informativo de la mañana, domingo 30 de agosto",
+   "file": "podcast-daily-2026-08-30-morning-news-es-ES.json",
+   "bytes": 10776,
+   "sha256": "bd47299304f0af050f1fd1549e6facbe68f4f5205fff51d0b129e9406b8c4f79",
+   "date": "2026-08-30",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, domingo 30 de agosto",
+   "title_en": "The morning news, Sunday 30 August",
+   "headline_en": "Landslides and flooding devastated central Nepal on Wednesday",
+   "summary_en": [
+    "Landslides and flooding devastated central Nepal on Wednesday",
+    "A month on, the Ceuta crisis is still open",
+    "Caracas says the oil deal with Washington will run twenty-five years"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, domingo 30 de agosto",
+   "file": "podcast-daily-2026-08-30-morning-sport-es-ES.json",
+   "bytes": 4893,
+   "sha256": "6ff49bb2f0e3469b02159b661eb393952bbe30f2c2cd9c36fe46cca382c6445d",
+   "date": "2026-08-30",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, domingo 30 de agosto",
+   "title_en": "Today's sport, Sunday 30 August",
+   "headline_en": "Real Madrid host Malaga at the Bernabeu in LaLiga round three",
+   "summary_en": [
+    "Real Madrid host Malaga at the Bernabeu in LaLiga round three",
+    "Deportivo host Valencia at Riazor after making peace with their supporters"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, domingo 30 de agosto",
+   "file": "podcast-daily-2026-08-30-morning-weather-es-ES.json",
+   "bytes": 5760,
+   "sha256": "548af59068b35eeb8b546a93d4c71544bbf412ec6cbf89a8620bf762704fe906",
+   "date": "2026-08-30",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, domingo 30 de agosto",
+   "title_en": "Today's weather, Sunday 30 August",
+   "headline_en": "Predicción AEMET para Madrid (Madrid), 2026-08-30",
+   "summary_en": [
+    "Predicción AEMET para Madrid (Madrid), 2026-08-30",
+    "Predicción AEMET para Barcelona (Barcelona), 2026-08-30"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, domingo 30 de agosto",
+   "file": "podcast-daily-2026-08-30-morning-weather-andalucia-es-ES.json",
+   "bytes": 3827,
+   "sha256": "83334cdcb25174e8b8b32250091d6908aac9c16fb2f202ac75869254fc7f49ab",
+   "date": "2026-08-30",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, domingo 30 de agosto",
+   "title_en": "Today's weather, Andalusia, Sunday 30 August",
+   "headline_en": "Predicción AEMET para Córdoba (Córdoba), 2026-08-30",
+   "summary_en": [
+    "Predicción AEMET para Córdoba (Córdoba), 2026-08-30",
+    "Predicción AEMET para Sevilla (Sevilla), 2026-08-30"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, domingo 30 de agosto",
+   "file": "podcast-daily-2026-08-30-morning-weather-canarias-es-ES.json",
+   "bytes": 3849,
+   "sha256": "05c2fafd4382820c189a3ca55bb36e41084581aa2171060540b2e26799523043",
+   "date": "2026-08-30",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, domingo 30 de agosto",
+   "title_en": "Today's weather, Canary Islands, Sunday 30 August",
+   "headline_en": "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-30",
+   "summary_en": [
+    "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-30",
+    "Predicción AEMET para Santa Cruz de Tenerife (Santa Cruz de Tenerife (Tenerife)), 2026-08-30"
+   ]
+  },
+  {
    "id": "es-ES-El informativo de la mañana, sábado 29 de agosto",
    "file": "podcast-daily-2026-08-29-morning-news-es-ES.json",
    "bytes": 10323,
@@ -1432,105 +1533,6 @@
    "summary_en": [
     "Espanyol against Levante in matchday one of LaLiga",
     "Espanyol against Levante in matchday one of LaLiga"
-   ]
-  },
-  {
-   "id": "es-ES-Los resultados, domingo 16 de agosto",
-   "file": "podcast-daily-2026-08-16-evening-results-es-ES.json",
-   "bytes": 3836,
-   "sha256": "2b0186a94265e8eb94b3d0c2e9b0792f1d8af359e1e61c2708b6ceefe11b9d34",
-   "date": "2026-08-16",
-   "edition": "evening",
-   "programme": "results",
-   "programme_order": null,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "Los resultados, domingo 16 de agosto",
-   "title_en": "Results, Sunday 16 August",
-   "headline_en": "The marathon at the European athletics championships",
-   "summary_en": [
-    "The marathon at the European athletics championships"
-   ]
-  },
-  {
-   "id": "es-ES-Las noticias de la tarde, domingo 16 de agosto",
-   "file": "podcast-daily-2026-08-16-news-es-ES.json",
-   "bytes": 12810,
-   "sha256": "fb1dca25c05534c93f14038d0c7c3c482a6d9da0f992f544b3fc9baa7882de19",
-   "date": "2026-08-16",
-   "edition": "legacy",
-   "programme": "news",
-   "programme_order": null,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "Las noticias de la tarde, domingo 16 de agosto",
-   "title_en": "The evening news, Sunday 16 August",
-   "headline_en": "Ukraine launches one of its largest drone attacks on Moscow in two years",
-   "summary_en": [
-    "Ukraine launches one of its largest drone attacks on Moscow in two years",
-    "The health minister denies a health-service collapse in Ceuta",
-    "A day without incidents at the Ceuta border under heavy security"
-   ]
-  },
-  {
-   "id": "es-ES-Los resultados, domingo 16 de agosto",
-   "file": "podcast-daily-2026-08-16-results-es-ES.json",
-   "bytes": 3835,
-   "sha256": "cc8ed8fa133fa4ea3a9fab1348d44a29e14dfc904ed9ef7f6f4bd9aafef8a8ab",
-   "date": "2026-08-16",
-   "edition": "legacy",
-   "programme": "results",
-   "programme_order": null,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "Los resultados, domingo 16 de agosto",
-   "title_en": "Results, Sunday 16 August",
-   "headline_en": "The marathon at the European athletics championships",
-   "summary_en": [
-    "The marathon at the European athletics championships"
-   ]
-  },
-  {
-   "id": "es-ES-Los deportes, domingo 16 de agosto",
-   "file": "podcast-daily-2026-08-16-sport-es-ES.json",
-   "bytes": 3868,
-   "sha256": "41b202d6e780faa61b660d0dea81d6e52fb5a06b65ea40ab59dc115c24c68158",
-   "date": "2026-08-16",
-   "edition": "legacy",
-   "programme": "sport",
-   "programme_order": null,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "Los deportes, domingo 16 de agosto",
-   "title_en": "Sport, Sunday 16 August",
-   "headline_en": "Racing Santander host Villarreal on their return to the first division",
-   "summary_en": [
-    "Racing Santander host Villarreal on their return to the first division",
-    "Real Madrid play their last pre-season friendly at Schalke"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo, domingo 16 de agosto",
-   "file": "podcast-daily-2026-08-16-weather-es-ES.json",
-   "bytes": 7544,
-   "sha256": "4e9d617acc58b023557dbf14ad7af80364d5888683e4ac09df76e1c145be9389",
-   "date": "2026-08-16",
-   "edition": "legacy",
-   "programme": "weather",
-   "programme_order": null,
-   "segment_order": 0,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo, domingo 16 de agosto",
-   "title_en": "The weather, Sunday 16 August",
-   "headline_en": "AEMET orange warnings for storms and rain in Catalonia this evening",
-   "summary_en": [
-    "AEMET orange warnings for storms and rain in Catalonia this evening",
-    "Orange warnings for rain and storms in Castellon and Teruel"
    ]
   }
  ]

@@ -1,0 +1,73 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-CA",
+ "date": "2026-08-16",
+ "episodes": [
+  {
+   "id": "fr-CA-Les résultats du jour, dimanche 16 août",
+   "file": "podcast-daily-2026-08-16-evening-results-fr-CA.json",
+   "bytes": 4600,
+   "sha256": "f2335d9f122bbfa9fb7bf01310977f48128ce81dfeee52a2857550c000e6ac69",
+   "date": "2026-08-16",
+   "edition": "evening",
+   "programme": "results",
+   "programme_order": null,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Les résultats du jour, dimanche 16 août",
+   "title_en": "Results, Sunday 16 August",
+   "headline_en": "Second round at the Cincinnati Masters",
+   "summary_en": [
+    "Second round at the Cincinnati Masters",
+    "The 200m breaststroke at the Pan Pacific championships"
+   ]
+  },
+  {
+   "id": "fr-CA-Le bulletin du soir, dimanche 16 août",
+   "file": "podcast-daily-2026-08-16-news-fr-CA.json",
+   "bytes": 12469,
+   "sha256": "cd9e7bea91cc1ce191637eef6017cc8538497776263ecc510451078616e735b4",
+   "date": "2026-08-16",
+   "edition": "legacy",
+   "programme": "news",
+   "programme_order": null,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin du soir, dimanche 16 août",
+   "title_en": "The evening news, Sunday 16 August",
+   "headline_en": "Kushner meets a Hamas delegation in Egypt as the US pushes its Gaza plan",
+   "summary_en": [
+    "Kushner meets a Hamas delegation in Egypt as the US pushes its Gaza plan",
+    "Strikes across Russia and Ukraine, with tolls still moving",
+    "Thousands still waiting for aid after Indonesia's earthquake"
+   ]
+  },
+  {
+   "id": "fr-CA-Les résultats, dimanche 16 août",
+   "file": "podcast-daily-2026-08-16-results-fr-CA.json",
+   "bytes": 4591,
+   "sha256": "c36898b2734d003ec93815241aac01e4671df5c6384f83d8778030159902dd0d",
+   "date": "2026-08-16",
+   "edition": "legacy",
+   "programme": "results",
+   "programme_order": null,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Les résultats, dimanche 16 août",
+   "title_en": "Results, Sunday 16 August",
+   "headline_en": "Second round at the Cincinnati Masters",
+   "summary_en": [
+    "Second round at the Cincinnati Masters",
+    "The 200m breaststroke at the Pan Pacific championships"
+   ]
+  }
+ ],
+ "content": "6d5c015a02463b2bb4a5b1c89e50979553b2ef138bcd2c889424fbf0670551b0",
+ "rev": 2,
+ "updated": "2026-08-27T07:22:03.159Z",
+ "archived": true
+}

@@ -2,7 +2,8 @@
  "schema": 1,
  "channel": "daily",
  "dialect": "es-ES",
- "date": "2026-08-16",
+ "base": "https://pshoben.github.io/podyglot-daily/archive/",
+ "archived_before": "2026-08-17",
  "episodes": [
   {
    "id": "es-ES-Los resultados, domingo 16 de agosto",
@@ -103,8 +104,5 @@
     "Orange warnings for rain and storms in Castellon and Teruel"
    ]
   }
- ],
- "content": "dcf105d9dcca5313db38b50dfba038d4b5a9ff50b6c3ca8215d55957f732dfb1",
- "rev": 2,
- "updated": "2026-08-27T07:22:03.159Z"
+ ]
 }

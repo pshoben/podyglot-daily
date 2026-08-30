@@ -2,7 +2,8 @@
  "schema": 1,
  "channel": "daily",
  "dialect": "fr-FR",
- "date": "2026-08-16",
+ "base": "https://pshoben.github.io/podyglot-daily/archive/",
+ "archived_before": "2026-08-17",
  "episodes": [
   {
    "id": "fr-FR-Le journal du soir, dimanche 16 août",
@@ -85,8 +86,5 @@
     "Air-pollution alert in the Moselle from the Belgian wildfire smoke"
    ]
   }
- ],
- "content": "d50dca5f6eb43fb53c79c5a211cab1069d345a06b5644e5ece725d349b0101a7",
- "rev": 2,
- "updated": "2026-08-27T07:22:03.159Z"
+ ]
 }

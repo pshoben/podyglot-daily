@@ -635,27 +635,6 @@
     "Previsión para Bogotá, mañana, martes 2026-08-18",
     "Previsión para Bogotá, miércoles 2026-08-19"
    ]
-  },
-  {
-   "id": "es-CO-La actualidad del día, domingo 16 de agosto",
-   "file": "podcast-daily-2026-08-16-news-es-CO.json",
-   "bytes": 12027,
-   "sha256": "ef6aadc30ffe804a9fd8b88ad8cf86f665b55c7180f7315770155346c90dded5",
-   "date": "2026-08-16",
-   "edition": "legacy",
-   "programme": "news",
-   "programme_order": null,
-   "segment_order": null,
-   "region": "es-CO",
-   "region_label": "Colombia",
-   "title": "La actualidad del día, domingo 16 de agosto",
-   "title_en": "The evening news, Sunday 16 August",
-   "headline_en": "Ecuador's president and first lady lose the child they were expecting",
-   "summary_en": [
-    "Ecuador's president and first lady lose the child they were expecting",
-    "Missing after the earthquake rises to 423",
-    "A soldier killed in a drone attack in Norte de Santander"
-   ]
   }
  ]
 }

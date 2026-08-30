@@ -1,0 +1,490 @@
+{
+ "title": "Le journal du matin, dimanche 30 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-30",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Dimanche trente août, sept heures à Paris. Le journal du matin.",
+   "en": "Sunday the thirtieth of August, seven o'clock in «Paris». The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au Népal et au Tibet, la montée des eaux complique les secours",
+   "en": "In Nepal and Tibet, rising water is making the rescue effort harder",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "après les crues meurtrières.",
+   "en": "after the deadly floods.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, le Parti socialiste referme son université d'été avant la primaire de la gauche.",
+   "en": "In France, the Socialist Party closes its summer conference ahead of the primary of the left.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et des coups de feu font plusieurs victimes en Suisse, en marge d'une rave-party.",
+   "en": "And gunfire leaves several casualties in Switzerland, at the edge of a rave party.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par le Népal,",
+   "en": "We start in Nepal,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où les opérations de secours sont rendues difficiles ce dimanche par de fortes pluies.",
+   "en": "where the rescue operations are being made harder this Sunday by heavy rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les autorités népalaises ont appelé les secouristes à la prudence,",
+   "en": "The Nepalese authorities have told rescue teams to take care,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en raison de la montée des eaux.",
+   "en": "because the water is still rising.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les coulées de boue avaient tout emporté mercredi dans des vallées himalayennes,",
+   "en": "The mudslides swept everything before them on Wednesday in Himalayan valleys,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à la frontière entre les deux pays.",
+   "en": "on the border between the two countries.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon un bilan encore provisoire des autorités népalaises et chinoises,",
+   "en": "On a toll from the Nepalese and Chinese authorities that is still provisional,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les crues ont fait sept cent cinquante morts et plus de trois mille disparus.",
+   "en": "the floods have killed seven hundred and fifty people and left more than three thousand missing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au Tibet, un glissement de terrain a formé un nouveau lac,",
+   "en": "In Tibet, a landslide has formed a new lake,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et les secouristes chinois ont été déplacés vers un lieu sûr.",
+   "en": "and Chinese rescue teams have been moved to a safe place.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, le Parti socialiste a refermé samedi, à Blois, son université d'été.",
+   "en": "In France, the Socialist Party closed its summer conference at «Blois» on Saturday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Olivier Faure, le premier secrétaire du parti,",
+   "en": "«Olivier Faure», the party's first secretary,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y a prononcé le discours de clôture,",
+   "en": "gave the closing speech there,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et a mis le cap sur la transformation écologique.",
+   "en": "and set his course by the green transition.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon Le Monde, Olivier Faure et Raphaël Glucksmann",
+   "en": "According to «Le Monde», «Olivier Faure» and «Raphaël Glucksmann»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sont les favoris de la primaire de la gauche.",
+   "en": "are the favourites in the primary of the left.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce scrutin, prévu en octobre,",
+   "en": "That vote, due in October,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "doit départager le camp social-démocrate.",
+   "en": "has to pick between the social democrats.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité, en Suisse,",
+   "en": "In other news, in Switzerland,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "des coups de feu ont fait plusieurs victimes cette nuit,",
+   "en": "gunfire left several casualties overnight,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "lors d'une rave-party à l'hippodrome d'Aarau,",
+   "en": "at a rave party at the «Aarau» racecourse,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans le nord du pays.",
+   "en": "in the north of the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La police n'a pas donné de détails sur le nombre de victimes",
+   "en": "The police have given no details on how many were hurt,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ni sur leur état de santé,",
+   "en": "nor on their condition,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et demande à la population d'éviter la zone.",
+   "en": "and are asking people to stay away from the area.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à autre chose, au Venezuela,",
+   "en": "Moving on, in Venezuela,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la présidente par intérim Delcy Rodriguez a affirmé que le pays",
+   "en": "the acting president «Delcy Rodriguez» has said the country",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "conservait la propriété et la souveraineté de son pétrole",
+   "en": "keeps ownership and sovereignty over its oil",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "après son accord avec les États-Unis.",
+   "en": "after its deal with the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le manque de détails sur ce texte a nourri de nombreuses rumeurs et spéculations,",
+   "en": "The lack of detail in the text has fed a great many rumours,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "rapporte Le Monde.",
+   "en": "«Le Monde» reports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre sujet maintenant, au Niger,",
+   "en": "Turning to something else, in Niger,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "une importante base militaire voisine de l'aéroport de Niamey",
+   "en": "a large military base next to «Niamey» airport",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a été reprise à des mutins samedi.",
+   "en": "was taken back from mutineers on Saturday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon une source diplomatique citée par l'Agence France-Presse,",
+   "en": "On a diplomatic source quoted by the «Agence France-Presse»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "l'opération a été menée par la garde présidentielle et par les hommes de l'Africa Corps.",
+   "en": "the operation was carried out by the presidential guard and by Africa Corps troops.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le régime militaire de Niamey a affirmé avoir repris le contrôle.",
+   "en": "The military government in «Niamey» has said it has regained control.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour finir, la traileuse française Blandine L'Hirondel a remporté samedi l'Ultra-Trail du Mont-Blanc, à Chamonix.",
+   "en": "And finally, the French trail runner «Blandine L'Hirondel» won the «Ultra-Trail du Mont-Blanc» at «Chamonix» on Saturday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle est la quatrième Française à s'imposer sur cette course,",
+   "en": "She is the fourth French woman to win that race,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dix ans après Caroline Chaverot.",
+   "en": "ten years after «Caroline Chaverot».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Sunday 30 August",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Heavy rain and rising water are holding up the rescue in Nepal",
+ "summary_en": [
+  "Heavy rain and rising water are holding up the rescue in Nepal",
+  "The Socialist Party closed its summer conference at Blois",
+  "Gunfire at a rave party in Switzerland leaves several casualties"
+ ]
+}

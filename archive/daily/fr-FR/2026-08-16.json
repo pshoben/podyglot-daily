@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-FR",
+ "date": "2026-08-16",
+ "episodes": [
+  {
+   "id": "fr-FR-Le journal du soir, dimanche 16 août",
+   "file": "podcast-daily-2026-08-16-news-fr-FR.json",
+   "bytes": 12450,
+   "sha256": "4aa91583f377778ad1498b29fa980f8cef849b1c2c1bbf80ec7f590ddf6b4b18",
+   "date": "2026-08-16",
+   "edition": "legacy",
+   "programme": "news",
+   "programme_order": null,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du soir, dimanche 16 août",
+   "title_en": "The evening news, Sunday 16 August",
+   "headline_en": "Moscow region says it was hit by around 600 drones overnight",
+   "summary_en": [
+    "Moscow region says it was hit by around 600 drones overnight",
+    "Tax-office data breach: the Prime Minister convenes a crisis unit on Monday",
+    "Around 678,000 tax-office users affected by the breach"
+   ]
+  },
+  {
+   "id": "fr-FR-Les résultats, dimanche 16 août",
+   "file": "podcast-daily-2026-08-16-results-fr-FR.json",
+   "bytes": 4634,
+   "sha256": "d7d387f41097e6e043efb5044e3a6659d0a05122fc3fc4c150435265ad0f6ce8",
+   "date": "2026-08-16",
+   "edition": "legacy",
+   "programme": "results",
+   "programme_order": null,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Les résultats, dimanche 16 août",
+   "title_en": "Results, Sunday 16 August",
+   "headline_en": "Heats of the 400m freestyle at the European championships",
+   "summary_en": [
+    "Heats of the 400m freestyle at the European championships",
+    "The 200m butterfly at the European championships"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, dimanche 16 août",
+   "file": "podcast-daily-2026-08-16-sport-fr-FR.json",
+   "bytes": 4449,
+   "sha256": "e653f5110262f5f47576d75bab39b166acf652cc29f867226795d055a0ea62cf",
+   "date": "2026-08-16",
+   "edition": "legacy",
+   "programme": "sport",
+   "programme_order": null,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, dimanche 16 août",
+   "title_en": "Sport, Sunday 16 August",
+   "headline_en": "PSG meet Lens at Bollaert for the Trophee des champions, penalties if level",
+   "summary_en": [
+    "PSG meet Lens at Bollaert for the Trophee des champions, penalties if level",
+    "The medley relay closes the European championships on Sunday evening"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, dimanche 16 août",
+   "file": "podcast-daily-2026-08-16-weather-fr-FR.json",
+   "bytes": 6122,
+   "sha256": "eb879186f151fd3670e459e3943cab87a43fc476d4a80ac6672fbb68b0e2e1ad",
+   "date": "2026-08-16",
+   "edition": "legacy",
+   "programme": "weather",
+   "programme_order": null,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, dimanche 16 août",
+   "title_en": "The weather, Sunday 16 August",
+   "headline_en": "The heatwave retreats: six south-eastern departments stay on orange from 6am Monday",
+   "summary_en": [
+    "The heatwave retreats: six south-eastern departments stay on orange from 6am Monday",
+    "Air-pollution alert in the Moselle from the Belgian wildfire smoke"
+   ]
+  }
+ ],
+ "content": "d50dca5f6eb43fb53c79c5a211cab1069d345a06b5644e5ece725d349b0101a7",
+ "rev": 2,
+ "updated": "2026-08-27T07:22:03.159Z",
+ "archived": true
+}

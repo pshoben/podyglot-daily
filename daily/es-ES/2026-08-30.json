@@ -1,0 +1,112 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-ES",
+ "date": "2026-08-30",
+ "episodes": [
+  {
+   "id": "es-ES-El informativo de la mañana, domingo 30 de agosto",
+   "file": "podcast-daily-2026-08-30-morning-news-es-ES.json",
+   "bytes": 10776,
+   "sha256": "bd47299304f0af050f1fd1549e6facbe68f4f5205fff51d0b129e9406b8c4f79",
+   "date": "2026-08-30",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, domingo 30 de agosto",
+   "title_en": "The morning news, Sunday 30 August",
+   "headline_en": "Landslides and flooding devastated central Nepal on Wednesday",
+   "summary_en": [
+    "Landslides and flooding devastated central Nepal on Wednesday",
+    "A month on, the Ceuta crisis is still open",
+    "Caracas says the oil deal with Washington will run twenty-five years"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, domingo 30 de agosto",
+   "file": "podcast-daily-2026-08-30-morning-sport-es-ES.json",
+   "bytes": 4893,
+   "sha256": "6ff49bb2f0e3469b02159b661eb393952bbe30f2c2cd9c36fe46cca382c6445d",
+   "date": "2026-08-30",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, domingo 30 de agosto",
+   "title_en": "Today's sport, Sunday 30 August",
+   "headline_en": "Real Madrid host Malaga at the Bernabeu in LaLiga round three",
+   "summary_en": [
+    "Real Madrid host Malaga at the Bernabeu in LaLiga round three",
+    "Deportivo host Valencia at Riazor after making peace with their supporters"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, domingo 30 de agosto",
+   "file": "podcast-daily-2026-08-30-morning-weather-es-ES.json",
+   "bytes": 5760,
+   "sha256": "548af59068b35eeb8b546a93d4c71544bbf412ec6cbf89a8620bf762704fe906",
+   "date": "2026-08-30",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, domingo 30 de agosto",
+   "title_en": "Today's weather, Sunday 30 August",
+   "headline_en": "Predicción AEMET para Madrid (Madrid), 2026-08-30",
+   "summary_en": [
+    "Predicción AEMET para Madrid (Madrid), 2026-08-30",
+    "Predicción AEMET para Barcelona (Barcelona), 2026-08-30"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, domingo 30 de agosto",
+   "file": "podcast-daily-2026-08-30-morning-weather-andalucia-es-ES.json",
+   "bytes": 3827,
+   "sha256": "83334cdcb25174e8b8b32250091d6908aac9c16fb2f202ac75869254fc7f49ab",
+   "date": "2026-08-30",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, domingo 30 de agosto",
+   "title_en": "Today's weather, Andalusia, Sunday 30 August",
+   "headline_en": "Predicción AEMET para Córdoba (Córdoba), 2026-08-30",
+   "summary_en": [
+    "Predicción AEMET para Córdoba (Córdoba), 2026-08-30",
+    "Predicción AEMET para Sevilla (Sevilla), 2026-08-30"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, domingo 30 de agosto",
+   "file": "podcast-daily-2026-08-30-morning-weather-canarias-es-ES.json",
+   "bytes": 3849,
+   "sha256": "05c2fafd4382820c189a3ca55bb36e41084581aa2171060540b2e26799523043",
+   "date": "2026-08-30",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, domingo 30 de agosto",
+   "title_en": "Today's weather, Canary Islands, Sunday 30 August",
+   "headline_en": "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-30",
+   "summary_en": [
+    "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-30",
+    "Predicción AEMET para Santa Cruz de Tenerife (Santa Cruz de Tenerife (Tenerife)), 2026-08-30"
+   ]
+  }
+ ],
+ "content": "51ce2ce53243886596d3fa61675b9baa4c867c930ef954713e7d40d1b42d5c29",
+ "rev": 1,
+ "updated": "2026-08-30T06:59:10.547Z"
+}

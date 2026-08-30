@@ -1,0 +1,209 @@
+{
+ "title": "Los deportes, domingo 30 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-sport",
+   "wpm": 208,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-30",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Los deportes, este domingo por la mañana.",
+   "en": "Sport, this Sunday morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hoy en la agenda, tres partidos de la tercera jornada de LaLiga.",
+   "en": "On today's list, three games from the third round of «LaLiga».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Real Madrid recibe al Málaga en el Santiago Bernabéu,",
+   "en": "«Real Madrid» are at home to «Málaga» at the «Santiago Bernabéu»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a las cinco de la tarde.",
+   "en": "at five in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es un horario poco habitual para un encuentro en el Bernabéu.",
+   "en": "That is an unusual kick-off time for a game at the «Bernabéu».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los malaguistas vuelven al estadio ocho años después,",
+   "en": "The «Málaga» side are back at the ground eight years on,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en su regreso a Primera División.",
+   "en": "after their return to the top flight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo que se juega, el Deportivo recibe al Valencia en Riazor,",
+   "en": "Also being played, «Deportivo» host «Valencia» at «Riazor»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a las siete y media.",
+   "en": "at half past seven.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es el segundo partido en casa del Dépor desde su vuelta a Primera División,",
+   "en": "It is «Dépor»'s second home game since coming back up,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "también ocho años después.",
+   "en": "also eight years on.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El club y sus peñas han firmado la paz,",
+   "en": "The club and its supporters' groups have made peace,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el estadio espera mejorar su ambiente.",
+   "en": "and the ground is hoping for a better atmosphere.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En los campos, el Celta recibe al Athletic en Balaídos,",
+   "en": "On the pitch tonight, «Celta» host «Athletic» at «Balaídos»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a las nueve y media de la noche.",
+   "en": "at half past nine.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y en el tenis, llega el US Open de Nueva York.",
+   "en": "And in the tennis, the US Open arrives in New York.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Carlos Alcaraz vuelve a la competición tras casi cinco meses de inactividad.",
+   "en": "«Carlos Alcaraz» returns to competition after almost five months out.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí los deportes.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Sunday 30 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Real Madrid host Malaga at the Bernabeu in LaLiga round three",
+ "summary_en": [
+  "Real Madrid host Malaga at the Bernabeu in LaLiga round three",
+  "Deportivo host Valencia at Riazor after making peace with their supporters"
+ ]
+}

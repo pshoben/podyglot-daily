@@ -1,0 +1,68 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-MX",
+ "base": "https://pshoben.github.io/podyglot-daily/archive/",
+ "archived_before": "2026-08-17",
+ "episodes": [
+  {
+   "id": "es-MX-Los marcadores, domingo 16 de agosto",
+   "file": "podcast-daily-2026-08-16-evening-results-es-MX.json",
+   "bytes": 3387,
+   "sha256": "6daea582e49339768e6d7f336dd8609cdb06677b666341a89891e68814805c70",
+   "date": "2026-08-16",
+   "edition": "evening",
+   "programme": "results",
+   "programme_order": null,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "Los marcadores, domingo 16 de agosto",
+   "title_en": "Results, Sunday 16 August",
+   "headline_en": "Monterrey against Ciudad Juarez in Liga MX",
+   "summary_en": [
+    "Monterrey against Ciudad Juarez in Liga MX"
+   ]
+  },
+  {
+   "id": "es-MX-El noticiario vespertino, domingo 16 de agosto",
+   "file": "podcast-daily-2026-08-16-news-es-MX.json",
+   "bytes": 12299,
+   "sha256": "2ef78ee31fcf82471084dd56c750020544d7f1f17456f28def5b3b47732b6f49",
+   "date": "2026-08-16",
+   "edition": "legacy",
+   "programme": "news",
+   "programme_order": null,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El noticiario vespertino, domingo 16 de agosto",
+   "title_en": "The evening news, Sunday 16 August",
+   "headline_en": "Indonesia's earthquake is the country's deadliest since 2022",
+   "summary_en": [
+    "Indonesia's earthquake is the country's deadliest since 2022",
+    "Migrants protest in Ceuta and demand asylum from Spain",
+    "US embassy: a visa is a privilege, not a right"
+   ]
+  },
+  {
+   "id": "es-MX-Los resultados, domingo 16 de agosto",
+   "file": "podcast-daily-2026-08-16-results-es-MX.json",
+   "bytes": 3386,
+   "sha256": "38e6e2c26b8eb319f5d5164190ac78aeb22cbd0665b341d17233839c367ed1e0",
+   "date": "2026-08-16",
+   "edition": "legacy",
+   "programme": "results",
+   "programme_order": null,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "Los resultados, domingo 16 de agosto",
+   "title_en": "Results, Sunday 16 August",
+   "headline_en": "Monterrey against Ciudad Juarez in Liga MX",
+   "summary_en": [
+    "Monterrey against Ciudad Juarez in Liga MX"
+   ]
+  }
+ ]
+}
