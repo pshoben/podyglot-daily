@@ -1,0 +1,280 @@
+{
+ "title": "Las noticias de la mañana, domingo 30 de agosto",
+ "dialect": "es-CL",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CL-daily-news",
+   "wpm": 205,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-30",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Domingo treinta de agosto, siete de la mañana.",
+   "en": "Sunday the thirtieth of August, seven in the morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las noticias de la mañana.",
+   "en": "This is the morning bulletin.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Venezuela y Estados Unidos fijan en veinticinco años su acuerdo petrolero.",
+   "en": "«Venezuela» and the United States set their oil agreement at twenty-five years.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y en Nepal, la búsqueda se concentra en los túneles de las centrales hidroeléctricas.",
+   "en": "And in Nepal, the search is closing in on the tunnels of the hydroelectric plants.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Partimos con Venezuela, donde la presidenta encargada, Delcy Rodríguez,",
+   "en": "We begin in «Venezuela», where the acting president, «Delcy Rodríguez»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "confirmó que el acuerdo petrolero con Estados Unidos será por veinticinco años.",
+   "en": "confirmed that the oil agreement with the United States will run for twenty-five years.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aseguró que el país mantendrá la soberanía sobre sus recursos.",
+   "en": "She said the country will keep sovereignty over its resources.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cifró en más de doscientos nueve mil millones de dólares",
+   "en": "She said the state would take more than two hundred and nine billion dollars",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "los ingresos que recibiría el Estado durante el proyecto.",
+   "en": "over the life of the project.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El acuerdo contempla el desarrollo de diecisiete campos y una producción superior a un millón y medio de barriles diarios.",
+   "en": "The agreement covers the development of seventeen fields and production above a million and a half barrels a day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El presidente estadounidense, Donald Trump,",
+   "en": "The American president, Donald Trump,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "aseguró que el pacto bajará el costo del combustible.",
+   "en": "said the pact will bring the cost of fuel down.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En lo demás, en Nepal,",
+   "en": "In other news, in Nepal,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según la Autoridad Nacional para la Reducción y Gestión del Riesgo de Desastres,",
+   "en": "on the national authority for disaster risk,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "los fallecidos por la riada llegan a setecientos sesenta y ocho.",
+   "en": "the number killed by the flood has reached seven hundred and sixty-eight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La misma autoridad cifra en dos mil quinientos dos las personas cuyo paradero se desconoce",
+   "en": "That same authority puts at two thousand five hundred and two the people",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en territorio nepalí.",
+   "en": "still unaccounted for on Nepalese soil.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En total se reportan tres mil desaparecidos por el desbordamiento del río Bhotekoshi.",
+   "en": "In all, three thousand are reported missing after the «Bhotekoshi» river broke its banks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los rescatistas perforan túneles de centrales hidroeléctricas para llegar a más de novecientos trabajadores.",
+   "en": "Rescue teams are drilling into the tunnels of hydroelectric plants to reach more than nine hundred workers.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El gobierno local estima que más de cien operarios",
+   "en": "The local government believes more than a hundred of them",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "podrían seguir con vida dentro de esos túneles.",
+   "en": "may still be alive inside those tunnels.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los esfuerzos se concentran en los emplazamientos Trishuli tres A y tres B.",
+   "en": "The effort is concentrated on the «Trishuli» three A and three B sites.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ayer el balance era de más de seiscientos muertos y dos mil desaparecidos.",
+   "en": "Yesterday the count stood at more than six hundred dead and two thousand missing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las labores de rescate avanzan de forma masiva en la región.",
+   "en": "The rescue work is going on across the region on a large scale.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo principal.",
+   "en": "That is what matters most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Sunday 30 August",
+ "edition": "morning",
+ "region": "es-CL",
+ "region_label": "Chile",
+ "headline_en": "Delcy Rodriguez sets the oil deal at twenty-five years",
+ "summary_en": [
+  "Delcy Rodriguez sets the oil deal at twenty-five years",
+  "Rescuers drill into flooded tunnels in Nepal",
+  "Nepal's flood toll reaches seven hundred and sixty-eight"
+ ]
+}

@@ -1,0 +1,199 @@
+{
+ "title": "El deporte, domingo 30 de agosto",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-sport",
+   "wpm": 195,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-30",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Hoy se juega por el tercer puesto en el hockey.",
+   "en": "Today they play for third place in the hockey.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los Leones enfrentan a Países Bajos,",
+   "en": "«Los Leones» face the Netherlands,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "uno de los anfitriones del torneo,",
+   "en": "one of the tournament's hosts,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el estadio Belfius Arena de Bélgica.",
+   "en": "at the «Belfius Arena» in Belgium.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El equipo argentino lo dirige Lucas Rey.",
+   "en": "The Argentine side are coached by «Lucas Rey».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El seleccionado masculino quiere igualar su mejor actuación en el torneo,",
+   "en": "The men's national side want to match their best run in the tournament,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la de dos mil catorce.",
+   "en": "back in 2014.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En las canchas de Madrid,",
+   "en": "On the pitches of Madrid,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Julián Álvarez volvió a entrenarse con el Atlético.",
+   "en": "«Julián Álvarez» has been back in training with «Atlético».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El delantero se reincorporó al trabajo colectivo tras una indisposición,",
+   "en": "The forward rejoined the group work after an illness,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a tres días del cierre del mercado.",
+   "en": "three days before the window closes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El martes cierra el libro de pases,",
+   "en": "The transfer book shuts on Tuesday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y quedarse en Madrid aparece como el escenario más probable.",
+   "en": "and staying in Madrid looks the likeliest outcome.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Arsenal mantiene el interés en una operación que rondaría los ciento cincuenta millones de euros.",
+   "en": "«Arsenal» keep their interest in a deal that would be worth around a hundred and fifty million euros.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Barcelona quedó descartado como destino.",
+   "en": "«Barcelona» has been ruled out as a destination.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El delantero cuenta con el respaldo del entrenador, Diego Simeone.",
+   "en": "The forward has the backing of his manager, «Diego Simeone».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es el deporte.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Sunday 30 August",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Los Leones play the Netherlands for third place",
+ "summary_en": [
+  "Los Leones play the Netherlands for third place",
+  "Julian Alvarez back in training as the window closes"
+ ]
+}

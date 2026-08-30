@@ -1,0 +1,219 @@
+{
+ "title": "El clima de hoy, domingo 30 de agosto",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-weather",
+   "wpm": 195,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-30",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Así amanece el cielo hoy,",
+   "en": "This is how the sky looks today,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y empezamos por el pacífico.",
+   "en": "and we start on the pacific side.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Más de diez horas de lluvia volvieron a inundar viviendas y vías en Quibdó.",
+   "en": "More than ten hours of rain have flooded homes and roads in «Quibdó» again.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las inundaciones agravan la situación que dejó el terremoto en esa ciudad.",
+   "en": "The flooding is making worse the situation the earthquake left in that city.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El alcantarillado de la capital chocoana cubre menos del treinta por ciento del casco urbano.",
+   "en": "The sewers of the «Chocó» capital cover less than thirty per cent of the built-up area.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Región por región, y según el modelo del Centro Europeo, el ECMWF,",
+   "en": "Region by region, and on the European Centre model, the «ECMWF»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Bogotá pasa el día con llovizna.",
+   "en": "«Bogotá» spends the day with drizzle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación en la capital es del cien por ciento.",
+   "en": "The chance of rain in the capital is a hundred per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las temperaturas van de trece a diecinueve grados.",
+   "en": "Temperatures run from thirteen to nineteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento máximo en la sabana es de doce kilómetros por hora.",
+   "en": "The strongest wind on the plateau is twelve kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Medellín el cielo también trae llovizna,",
+   "en": "In «Medellín» the sky also brings drizzle,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con una probabilidad del ochenta y cinco por ciento.",
+   "en": "with a chance of eighty-five per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los termómetros suben allí hasta veintinueve grados,",
+   "en": "The thermometers there climb to twenty-nine degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con una mínima de dieciocho.",
+   "en": "with a low of eighteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento no supera los ocho kilómetros por hora.",
+   "en": "The wind does not go above eight kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pendientes en Cali, con chubascos y una probabilidad de precipitación del cien por ciento.",
+   "en": "Keep an eye on «Cali», with showers and a hundred per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La ciudad se mueve entre veinte y veinticinco grados.",
+   "en": "The city moves between twenty and twenty-five degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento allí llega a cinco kilómetros por hora, menos que en Medellín.",
+   "en": "The wind there reaches five kilometres an hour, less than in «Medellín».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese es el clima.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Sunday 30 August",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "Ten hours of rain flood homes and roads in Quibdo",
+ "summary_en": [
+  "Ten hours of rain flood homes and roads in Quibdo",
+  "Drizzle all day in Bogota"
+ ]
+}

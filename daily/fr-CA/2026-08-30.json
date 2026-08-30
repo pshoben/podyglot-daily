@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-CA",
+ "date": "2026-08-30",
+ "episodes": [
+  {
+   "id": "fr-CA-Le bulletin du matin, dimanche 30 août",
+   "file": "podcast-daily-2026-08-30-morning-news-fr-CA.json",
+   "bytes": 9616,
+   "sha256": "3c24f75cedf4c676de3a128a17dd6179894fed8061b9c815089543f8594d9839",
+   "date": "2026-08-30",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin du matin, dimanche 30 août",
+   "title_en": "The morning news, Sunday 30 August",
+   "headline_en": "Rescue work inches forward in Nepal and China, four days on",
+   "summary_en": [
+    "Rescue work inches forward in Nepal and China, four days on",
+    "Quebec's election campaign reaches its fourth day",
+    "Shots fired at a rave at the Aarau racecourse in Switzerland"
+   ]
+  },
+  {
+   "id": "fr-CA-Le bulletin météo, dimanche 30 août",
+   "file": "podcast-daily-2026-08-30-morning-weather-fr-CA.json",
+   "bytes": 4646,
+   "sha256": "fb927cd01bd314125dec8b55d43570be81a0672a25dc50454fb6484c10f3bb1b",
+   "date": "2026-08-30",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin météo, dimanche 30 août",
+   "title_en": "Today's weather, Sunday 30 August",
+   "headline_en": "Heavy showers in Montreal, up to twenty-four degrees",
+   "summary_en": [
+    "Heavy showers in Montreal, up to twenty-four degrees",
+    "Rain in Quebec city through the day"
+   ]
+  }
+ ],
+ "content": "80a88e9363ec31c16c4bf25099f7438d4efb9347969025e2fc7a3f23953c1171",
+ "rev": 2,
+ "updated": "2026-08-30T14:15:26.343Z"
+}

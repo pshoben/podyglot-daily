@@ -1,0 +1,179 @@
+{
+ "title": "La agenda deportiva, domingo 30 de agosto",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-sport",
+   "wpm": 186,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-30",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lo que sigue hoy en la Ciudad de México es el maratón.",
+   "en": "What is coming up today in «Ciudad de México» is the marathon.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La edición cuarenta y tres se celebra este domingo,",
+   "en": "The forty-third running is held this Sunday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con alrededor de treinta mil atletas.",
+   "en": "with around thirty thousand athletes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La salida es en Ciudad Universitaria y la meta, en el Zócalo capitalino.",
+   "en": "The start is at «Ciudad Universitaria» and the finish is in the «Zócalo», in the middle of the city.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El recorrido es de cuarenta y dos kilómetros con ciento noventa y cinco metros.",
+   "en": "The course is forty-two kilometres and one hundred and ninety-five metres.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los primeros contingentes salen desde las cinco cuarenta y cinco de la mañana.",
+   "en": "The first waves set off from five forty-five in the morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La avenida Juárez forma parte de la ruta.",
+   "en": "«Avenida Juárez» is part of the route.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el ciclismo,",
+   "en": "In cycling,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el esloveno Tadej Pogacar será operado en los próximos días",
+   "en": "the Slovenian «Tadej Pogacar» will have surgery in the next few days",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tras una caída en la Vuelta a España.",
+   "en": "after a fall at the «Vuelta a España».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sufrió una fractura desplazada de clavícula,",
+   "en": "He has a displaced break of the collarbone,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "una lesión estable en la vértebra C7 y una conmoción cerebral.",
+   "en": "a stable injury to the «C7» vertebra and concussion.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su recuperación podría tardar de tres a cinco semanas.",
+   "en": "His recovery could take three to five weeks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Con eso, su presencia en el Mundial queda en duda.",
+   "en": "That leaves his place at the World Championship in doubt.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esa es la agenda.",
+   "en": "That is what is on.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Sunday 30 August",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "The Mexico City marathon is run this morning",
+ "summary_en": [
+  "The Mexico City marathon is run this morning",
+  "Pogacar faces surgery after a fall at the Vuelta"
+ ]
+}

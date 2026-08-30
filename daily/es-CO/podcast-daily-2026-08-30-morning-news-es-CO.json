@@ -1,0 +1,330 @@
+{
+ "title": "La actualidad de la mañana, domingo 30 de agosto",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-30",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Domingo treinta de agosto, siete de la mañana.",
+   "en": "Sunday the thirtieth of August, seven o'clock.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La actualidad de la mañana.",
+   "en": "Today's news, first thing.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Gobierno congela los precios de la gasolina y el ACPM durante septiembre.",
+   "en": "The government freezes the price of petrol and «ACPM» diesel through September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un bus y un camión chocan de frente",
+   "en": "A bus and a lorry collide head-on",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la vía entre La Pintada y Manizales.",
+   "en": "on the road between «La Pintada» and «Manizales».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el Ministerio de Salud pide a los hospitales prepararse para el Fenómeno del Niño.",
+   "en": "And the health ministry tells hospitals to get ready for «El Niño».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Iniciamos con los combustibles,",
+   "en": "We begin with fuel,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "donde el Gobierno anunció que los precios de referencia de la gasolina y el ACPM",
+   "en": "where the government has announced that reference prices for petrol and «ACPM»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "se mantendrán sin aumentos durante septiembre.",
+   "en": "will not go up during September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La medida fue informada por los ministerios de Hacienda y de Minas y Energía.",
+   "en": "The decision was announced by the finance ministry and the mines and energy ministry.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Busca aliviar a los hogares afectados,",
+   "en": "It is meant to ease things for households that were hit,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "contener los costos de transporte y facilitar el traslado de alimentos y de ayuda humanitaria.",
+   "en": "to hold down transport costs and to make it easier to move food and humanitarian aid.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según el balance oficial,",
+   "en": "On the official count,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el terremoto del diez de agosto dejó más de trescientos treinta muertos y más de cuatro mil cuatrocientas personas heridas.",
+   "en": "the earthquake of the tenth of August left more than three hundred and thirty people dead and more than four thousand four hundred injured.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El sismo también destruyó edificaciones en el occidente del país.",
+   "en": "The quake also destroyed buildings in the west of the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En otras noticias, un bus y un camión chocaron de frente",
+   "en": "In other news, a bus and a lorry crashed head-on",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el sábado por la tarde",
+   "en": "on Saturday afternoon",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la vía entre La Pintada y Manizales.",
+   "en": "on the road between «La Pintada» and «Manizales».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según el reporte preliminar, el accidente dejó tres personas muertas y varias heridas.",
+   "en": "On a preliminary report, the crash left three people dead and several injured.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El paso por esa vía quedó restringido.",
+   "en": "The road there has been partly closed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de asunto,",
+   "en": "Moving on,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el Ministerio de Salud estableció medidas para reforzar la preparación de los hospitales",
+   "en": "the health ministry has set out measures to make hospitals readier",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ante los efectos del Fenómeno del Niño.",
+   "en": "for the effects of «El Niño».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El llamado incluye la vigilancia de la calidad del agua.",
+   "en": "The call includes keeping watch on the quality of the water.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También pide acciones coordinadas para garantizar un abastecimiento seguro en las zonas de mayor riesgo.",
+   "en": "It also asks for co-ordinated action to guarantee safe supply in the areas most at risk.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otro tema del día,",
+   "en": "Turning to something else,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el presidente confirmó el sábado que el niño de siete años que le había pedido ayuda",
+   "en": "the president confirmed on Saturday that the seven-year-old boy who had asked him for help",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por su grave condición ya recibe atención.",
+   "en": "over his serious condition is now getting care.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Será atendido en la Fundación Cardiovascular de Bucaramanga.",
+   "en": "He will be treated at the «Fundación Cardiovascular» in «Bucaramanga».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más importante.",
+   "en": "That is the most important of it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Sunday 30 August",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "The government freezes petrol and diesel prices for September",
+ "summary_en": [
+  "The government freezes petrol and diesel prices for September",
+  "Three killed as a bus and a lorry collide near Manizales",
+  "Hospitals told to get ready for El Nino"
+ ]
+}

@@ -5,6 +5,47 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-CL-Las noticias de la mañana, domingo 30 de agosto",
+   "file": "podcast-daily-2026-08-30-morning-news-es-CL.json",
+   "bytes": 7371,
+   "sha256": "c4394dbfb54ff303ba5a50d41971edd656a02d73b5e481331172917c2543815a",
+   "date": "2026-08-30",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "Las noticias de la mañana, domingo 30 de agosto",
+   "title_en": "The morning news, Sunday 30 August",
+   "headline_en": "Delcy Rodriguez sets the oil deal at twenty-five years",
+   "summary_en": [
+    "Delcy Rodriguez sets the oil deal at twenty-five years",
+    "Rescuers drill into flooded tunnels in Nepal",
+    "Nepal's flood toll reaches seven hundred and sixty-eight"
+   ]
+  },
+  {
+   "id": "es-CL-El estado del tiempo, domingo 30 de agosto",
+   "file": "podcast-daily-2026-08-30-morning-weather-es-CL.json",
+   "bytes": 4878,
+   "sha256": "31cff87ca78bdfb60615357dbed486946f415ba62828bf5fa33a61a391d1e2fc",
+   "date": "2026-08-30",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "El estado del tiempo, domingo 30 de agosto",
+   "title_en": "Today's weather, Sunday 30 August",
+   "headline_en": "Drizzle all day in Santiago",
+   "summary_en": [
+    "Drizzle all day in Santiago",
+    "Cloud over Valparaiso, with little rain"
+   ]
+  },
+  {
    "id": "es-CL-Las noticias de la mañana, sábado 29 de agosto",
    "file": "podcast-daily-2026-08-29-morning-news-es-CL.json",
    "bytes": 7579,

@@ -1,0 +1,390 @@
+{
+ "title": "El noticiario matutino, domingo 30 de agosto",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-news",
+   "wpm": 186,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-30",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Domingo treinta de agosto, siete de la mañana. El noticiario matutino.",
+   "en": "Sunday the thirtieth of August, seven in the morning. The morning bulletin.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Venezuela y Estados Unidos cierran un acuerdo petrolero con veinticinco años de vigencia.",
+   "en": "«Venezuela» and the United States close an oil deal that will run for twenty-five years.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la frontera con Tamaulipas, la Defensa confirma la destrucción de tres drones de traficantes.",
+   "en": "On the «Tamaulipas» border, the Defence Ministry confirms three smugglers' drones were destroyed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y una madre buscadora resulta herida a balazos en Culiacán.",
+   "en": "And a searching mother is shot and wounded in «Culiacán».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Arrancamos con Venezuela, donde la presidenta interina, Delcy Rodríguez,",
+   "en": "We start in «Venezuela», where the acting president, «Delcy Rodríguez»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "detalló ayer los alcances del convenio energético firmado con Washington.",
+   "en": "set out yesterday what the energy deal signed with Washington covers.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Rodríguez aseguró que la propiedad del petróleo permanecerá en manos de los habitantes del país.",
+   "en": "«Rodríguez» said ownership of the oil will stay in the hands of the country's people.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El acuerdo tendrá veinticinco años de vigencia y contempla una producción superior a un millón y medio de barriles diarios.",
+   "en": "The deal will run for twenty-five years and provides for more than a million and a half barrels a day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También prevé el desarrollo de diecisiete campos petroleros venezolanos,",
+   "en": "It also covers the development of seventeen Venezuelan oil fields,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con un potencial de sesenta y cinco mil millones de barriles.",
+   "en": "with a potential of sixty-five billion barrels.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en México, la Secretaría de la Defensa Nacional confirmó que el ejército de Estados",
+   "en": "Here in Mexico, the Defence Ministry confirmed that the United States army",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Unidos destruyó tres drones en su propio territorio,",
+   "en": "destroyed three drones on its own territory,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "junto al estado de Tamaulipas.",
+   "en": "next to the state of «Tamaulipas».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los aparatos eran utilizados por grupos de traficantes de personas",
+   "en": "The aircraft were being used by people-smuggling groups",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para conocer los movimientos de las autoridades en la frontera.",
+   "en": "to track what the authorities were doing on the border.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Comando Norte empleó un sistema láser de alta energía para neutralizarlos.",
+   "en": "Northern Command used a high-energy laser system to bring them down.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En otros temas, en Culiacán,",
+   "en": "In other news, in «Culiacán»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la fundadora del colectivo Voces Unidas por la Vida, Alma Rosa Rojo Medina,",
+   "en": "the founder of the collective «Voces Unidas por la Vida», «Alma Rosa Rojo Medina»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y su hija resultaron heridas en un ataque a balazos,",
+   "en": "and her daughter were wounded in a shooting,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según informaron integrantes de la organización.",
+   "en": "according to members of the organisation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Fiscalía indaga si el ataque está relacionado con su labor como madre buscadora,",
+   "en": "The prosecutor's office is looking at whether the attack is linked to her work searching for the missing,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "e investiga una tentativa de feminicidio.",
+   "en": "and is investigating attempted femicide.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es el segundo atentado en su contra.",
+   "en": "It is the second attempt on her life.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasamos a otro asunto, en Ucrania,",
+   "en": "Moving on, in Ukraine,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "al menos treinta y siete personas murieron",
+   "en": "at least thirty-seven people were killed",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por un ataque ruso contra un depósito de armas en las afueras de Kiev,",
+   "en": "in a Russian attack on an arms depot on the edge of «Kiev»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "informó el jefe de la administración regional.",
+   "en": "the head of the regional administration said.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otras cuarenta y dos resultaron heridas,",
+   "en": "Another forty-two were hurt,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y las detonaciones posteriores de los proyectiles almacenados agravaron el desastre.",
+   "en": "and the shells stored there went off afterwards and made the disaster worse.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El sábado, Volodímir Zelenski llamó negligencia atroz al almacenamiento de municiones cerca de zonas residenciales.",
+   "en": "On Saturday, «Volodímir Zelenski» called the storing of munitions near homes appalling negligence.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otra noticia, en Nepal, según las autoridades del país,",
+   "en": "Turning to something else, in Nepal, according to the country's authorities,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el número de muertos por las inundaciones repentinas en Rasuwa",
+   "en": "the number killed by the flash floods in «Rasuwa»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "subió a seiscientos ochenta y dos.",
+   "en": "has risen to six hundred and eighty-two.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La búsqueda de tres mil quinientos cincuenta desaparecidos sigue en Nepal y en China.",
+   "en": "The search for three thousand five hundred and fifty missing people goes on in Nepal and in China.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los rescatistas recuperaron a más personas con vida en el cuarto día de las labores.",
+   "en": "Rescue teams brought more people out alive on the fourth day of the operation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más destacado.",
+   "en": "That is the pick of the news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Sunday 30 August",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "The Venezuela oil deal is set to run twenty-five years",
+ "summary_en": [
+  "The Venezuela oil deal is set to run twenty-five years",
+  "Mexico confirms three smugglers' drones destroyed at the border",
+  "A searching mother and her daughter shot in Culiacan"
+ ]
+}

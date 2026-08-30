@@ -1,0 +1,219 @@
+{
+ "title": "El clima, domingo 30 de agosto",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-weather",
+   "wpm": 186,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-30",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Por estados, hoy llueve en buena parte del país.",
+   "en": "State by state, it rains today over much of the country.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según El Economista y El Financiero,",
+   "en": "According to «El Economista» and «El Financiero»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el monzón mexicano permanece sobre el noroeste y varios sistemas dejan lluvias",
+   "en": "the Mexican monsoon is sitting over the northwest and several systems are bringing rain",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el norte, el occidente, el centro y el oriente.",
+   "en": "to the north, the west, the centre and the east.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sonora, Sinaloa, Coahuila, Veracruz y Oaxaca están entre los estados con más lluvia.",
+   "en": "«Sonora», «Sinaloa», «Coahuila», «Veracruz» and «Oaxaca» are among the states seeing most rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y ciudad por ciudad, según el modelo del Centro Europeo, el ECMWF,",
+   "en": "And city by city, on the European Centre model, the «ECMWF»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la Ciudad de México amanece con llovizna.",
+   "en": "«Ciudad de México» wakes up to drizzle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación en la capital es del cuarenta y nueve por ciento.",
+   "en": "The chance of rain in the capital is forty-nine per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima es de veintitrés grados y la mínima de trece.",
+   "en": "The high is twenty-three degrees and the low is thirteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento no pasa de nueve kilómetros por hora.",
+   "en": "The wind does not go above nine kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Guadalajara cae lluvia débil,",
+   "en": "In «Guadalajara» there is light rain,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la probabilidad sube al noventa y dos por ciento.",
+   "en": "and the chance rises to ninety-two per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La temperatura va de dieciséis a veintiséis grados.",
+   "en": "The temperature runs from sixteen to twenty-six degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento máximo es de siete kilómetros por hora.",
+   "en": "The strongest wind is seven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cuidado en Monterrey, donde la máxima llega a treinta y cuatro grados.",
+   "en": "Watch out in «Monterrey», where the high reaches thirty-four degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima no baja de veintitrés y el cielo trae llovizna.",
+   "en": "The low does not drop under twenty-three and the sky brings drizzle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación es del veintisiete por ciento, y el viento máximo,",
+   "en": "The chance of rain is twenty-seven per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de quince kilómetros por hora.",
+   "en": "and the strongest wind fifteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ahí está el panorama.",
+   "en": "There is the picture.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Sunday 30 August",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "Rain across much of Mexico today",
+ "summary_en": [
+  "Rain across much of Mexico today",
+  "Drizzle in Mexico City, up to twenty-three degrees"
+ ]
+}

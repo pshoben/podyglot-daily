@@ -1,0 +1,319 @@
+{
+ "title": "El noticiero de la mañana, domingo 30 de agosto",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-30",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Domingo treinta de agosto, siete de la mañana.",
+   "en": "Sunday the thirtieth of August, seven in the morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El noticiero de la mañana.",
+   "en": "The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Estados Unidos y Venezuela cerraron un pacto petrolero sobre diecisiete yacimientos.",
+   "en": "The United States and «Venezuela» have closed an oil pact covering seventeen fields.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y la Casa Rosada busca un acuerdo con el PRO,",
+   "en": "And the «Casa Rosada» is looking for a deal with the «PRO»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sin definiciones todavía para el dos mil veintisiete.",
+   "en": "with nothing settled yet for 2027.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos por Venezuela, donde el pacto anunciado por Donald Trump deja en manos de Washington",
+   "en": "We start in «Venezuela», where the pact announced by Donald Trump",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el control de sesenta y cinco mil millones de barriles de reservas.",
+   "en": "puts sixty-five billion barrels of reserves in Washington's hands.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El entendimiento abarca además el desarrollo de diecisiete yacimientos venezolanos.",
+   "en": "The understanding also covers the development of seventeen Venezuelan fields.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La presidenta interina venezolana destacó el acuerdo alcanzado con el gobierno de Trump.",
+   "en": "Venezuela's acting president welcomed the deal reached with the Trump government.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aseguró que abrirá una nueva etapa de inversiones, crecimiento y recuperación económica.",
+   "en": "She said it will open a new stage of investment, growth and economic recovery.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los yacimientos se explotarán en alianza con corporaciones privadas norteamericanas.",
+   "en": "The fields will be worked in alliance with North American private corporations.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El pacto llega en plena crisis energética global,",
+   "en": "The pact comes in the middle of a global energy crisis,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por las guerras de Irán y de Rusia.",
+   "en": "caused by the wars in Iran and Russia.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los analistas consultados por Clarín prevén que no habrá una baja inmediata en los precios.",
+   "en": "The analysts «Clarín» spoke to expect no immediate fall in prices.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esos mismos analistas coinciden en que el acuerdo busca un impacto electoral,",
+   "en": "Those same analysts agree the deal is aimed at the ballot box,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la antesala de las elecciones estadounidenses.",
+   "en": "in the run-up to the American elections.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Acá en la Argentina, la Casa Rosada busca un acuerdo",
+   "en": "Here in Argentina, the «Casa Rosada» is looking for a deal",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con el PRO de cara al dos mil veintisiete.",
+   "en": "with the «PRO» ahead of 2027.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El PRO reclama ordenar las candidaturas desde el territorio hacia arriba.",
+   "en": "The «PRO» wants candidacies settled from the districts upwards.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mesa política de las dos fuerzas volvió a reunirse esta semana,",
+   "en": "The political committee of the two sides met again this week,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y todavía no hay definiciones.",
+   "en": "and nothing has been settled.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las PASO no fueron suspendidas,",
+   "en": "The «PASO» primaries have not been suspended,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "porque el oficialismo no reúne los votos para hacerlo.",
+   "en": "because the government does not have the votes to do it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Gobierno pone el foco en la reelección del Presidente y busca",
+   "en": "The government is focusing on the President's re-election and is trying",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "no incomodar a los gobernadores en sus distritos.",
+   "en": "not to unsettle the governors in their own districts.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Diego Santilli y Luis Caputo son los interlocutores clave con las provincias.",
+   "en": "«Diego Santilli» and «Luis Caputo» are the key contacts with the provinces.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El peronismo enfrenta un desafío parecido,",
+   "en": "The Peronists face a similar problem,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y se entusiasma con recuperar terreno en Chaco, San Juan, Santa Fe y Chubut.",
+   "en": "and hope to win back ground in «Chaco», «San Juan», «Santa Fe» and «Chubut».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo central.",
+   "en": "That is the heart of it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Sunday 30 August",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "The Trump oil pact hands Washington Venezuelan reserves",
+ "summary_en": [
+  "The Trump oil pact hands Washington Venezuelan reserves",
+  "The Casa Rosada courts the PRO with 2027 unsettled"
+ ]
+}

@@ -1,0 +1,380 @@
+{
+ "title": "Le bulletin du matin, dimanche 30 août",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-news",
+   "wpm": 185,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-30",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Dimanche trente août, sept heures. Le bulletin du matin.",
+   "en": "Sunday the thirtieth of August, seven o'clock. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au Népal et en Chine, les secours cherchent des survivants, quatre jours après la crue.",
+   "en": "In «Népal» and China, rescue teams are looking for survivors, four days after the flood.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au Québec, la campagne électorale en est à sa quatrième journée.",
+   "en": "In «Québec», the election campaign has reached its fourth day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et la police suisse recherche les auteurs de coups de feu tirés près",
+   "en": "And Swiss police are looking for the people who fired shots",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'une fête techno.",
+   "en": "near a rave.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On débute avec l'Himalaya, où les opérations de secours progressent pas à pas ce dimanche,",
+   "en": "We start in the Himalayas, where the rescue work is moving step by step this Sunday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans des conditions périlleuses.",
+   "en": "in dangerous conditions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La crue a aussi causé des dégâts considérables.",
+   "en": "The flood also did very heavy damage.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les autorités népalaises ont annoncé dimanche avoir commencé à enterrer une partie des corps retrouvés.",
+   "en": "The Nepalese authorities said on Sunday that they had begun burying some of the bodies recovered.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon des bilans encore provisoires,",
+   "en": "On tolls that are still provisional,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la crue a fait plus de sept cent cinquante morts.",
+   "en": "the flood has killed more than seven hundred and fifty people.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Quelque trois mille personnes sont portées disparues,",
+   "en": "Some three thousand people are missing,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à la frontière entre le Népal et la Chine.",
+   "en": "on the border between «Népal» and China.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des Canadiens figurent parmi les personnes portées disparues.",
+   "en": "Canadians are among the people reported missing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Une personne d'origine canadienne portée disparue a été retrouvée saine et sauve.",
+   "en": "One person of Canadian origin who had been reported missing has been found safe.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans l'actualité d'ici, la campagne électorale québécoise en est à sa quatrième journée.",
+   "en": "In other news, the «Québec» election campaign has reached its fourth day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les chefs des cinq principaux partis sillonnent la province.",
+   "en": "The leaders of the five main parties are travelling across the province.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Coalition avenir Québec doit dévoiler son cadre financier ce matin.",
+   "en": "The «Coalition avenir Québec» is to set out its financial plan this morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le français, le logement et le soutien aux aînés",
+   "en": "French, housing and support for older people",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sont au menu des annonces des autres partis.",
+   "en": "are on the other parties' agenda.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On poursuit, en Suisse, des coups de feu ont été tirés en marge d'une fête",
+   "en": "Moving on, in Switzerland, shots were fired on the edge of a rave,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "techno, à l'hippodrome d'Aarau.",
+   "en": "at the «Aarau» racecourse.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon Radio-Canada, les tirs ont fait un mort et cinq blessés,",
+   "en": "«Radio-Canada» reports that the shots killed one person and injured five,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et les tireurs sont en fuite.",
+   "en": "and that the gunmen are still at large.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La fête annuelle rassemblait quelque trois mille cinq cents personnes.",
+   "en": "The annual party drew some three thousand five hundred people.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre nouvelle maintenant, en Ukraine,",
+   "en": "Turning to something else, in Ukraine,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "une frappe russe a visé un dépôt de munitions près de Kiev.",
+   "en": "a Russian strike hit an ammunition depot near «Kiev».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au moins trente-sept personnes ont été tuées,",
+   "en": "At least thirty-seven people were killed,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon un bilan donné samedi par les autorités ukrainiennes.",
+   "en": "on a toll given by Ukrainian authorities on Saturday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le président Volodymyr Zelensky a indiqué dimanche que le bilan était monté à trente-huit morts.",
+   "en": "President «Volodymyr Zelensky» said on Sunday that the toll had risen to thirty-eight dead.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les procureurs ukrainiens ont dit que l'endroit semblait stocker des objets explosifs.",
+   "en": "Ukrainian prosecutors said the site appeared to be storing explosive objects.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En terminant, la NASA a lancé dimanche le télescope spatial Roman.",
+   "en": "Elsewhere, «NASA» launched the Roman space telescope on Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'appareil doit dresser une cartographie du cosmos,",
+   "en": "The instrument is to draw up a map of the cosmos,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "une entreprise de plusieurs années.",
+   "en": "a job of several years.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est le portrait du jour.",
+   "en": "That is the picture of the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Sunday 30 August",
+ "edition": "morning",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "Rescue work inches forward in Nepal and China, four days on",
+ "summary_en": [
+  "Rescue work inches forward in Nepal and China, four days on",
+  "Quebec's election campaign reaches its fourth day",
+  "Shots fired at a rave at the Aarau racecourse in Switzerland"
+ ]
+}

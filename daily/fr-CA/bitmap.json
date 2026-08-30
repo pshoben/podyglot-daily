@@ -5,12 +5,13 @@
  "bits": 366,
  "encoding": "base62",
  "years": {
-  "2026": "00000000000000000000070ZLEBxZ1o7S2nTwTZHekrLvWsOJ9jmHUJPZLrdUO"
+  "2026": "000000000000000000000E85kaxGfroK0PeETuhDFbRAP2LjSe8hGs4fcaczlQ"
  },
  "revs": {
   "2026-08-22": 3,
   "2026-08-23": 3,
   "2026-08-25": 2,
-  "2026-08-26": 2
+  "2026-08-26": 2,
+  "2026-08-30": 2
  }
 }

@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-CO",
+ "date": "2026-08-30",
+ "episodes": [
+  {
+   "id": "es-CO-La actualidad de la mañana, domingo 30 de agosto",
+   "file": "podcast-daily-2026-08-30-morning-news-es-CO.json",
+   "bytes": 8262,
+   "sha256": "741679f65fd5187b6d46fdddea1b24fb6d6d91e3d8ea3531134aa8e460322bc5",
+   "date": "2026-08-30",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "La actualidad de la mañana, domingo 30 de agosto",
+   "title_en": "The morning news, Sunday 30 August",
+   "headline_en": "The government freezes petrol and diesel prices for September",
+   "summary_en": [
+    "The government freezes petrol and diesel prices for September",
+    "Three killed as a bus and a lorry collide near Manizales",
+    "Hospitals told to get ready for El Nino"
+   ]
+  },
+  {
+   "id": "es-CO-El clima de hoy, domingo 30 de agosto",
+   "file": "podcast-daily-2026-08-30-morning-weather-es-CO.json",
+   "bytes": 5361,
+   "sha256": "4b5dbc9aff7c7bff6a7509d4027e7c721a4b592ea9cc1e8aa3264a6d8f11ec71",
+   "date": "2026-08-30",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "El clima de hoy, domingo 30 de agosto",
+   "title_en": "Today's weather, Sunday 30 August",
+   "headline_en": "Ten hours of rain flood homes and roads in Quibdo",
+   "summary_en": [
+    "Ten hours of rain flood homes and roads in Quibdo",
+    "Drizzle all day in Bogota"
+   ]
+  }
+ ],
+ "content": "4dbb082e7dd6a40b00907c96d78239ecc82995f60ddc99d0ec19f68aac74f71d",
+ "rev": 2,
+ "updated": "2026-08-30T14:15:26.343Z"
+}

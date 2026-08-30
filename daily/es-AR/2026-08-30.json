@@ -1,0 +1,71 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-AR",
+ "date": "2026-08-30",
+ "episodes": [
+  {
+   "id": "es-AR-El noticiero de la mañana, domingo 30 de agosto",
+   "file": "podcast-daily-2026-08-30-morning-news-es-AR.json",
+   "bytes": 8117,
+   "sha256": "c39f9f61e67618335109978fbbfaaf6d87b952eaa5b226cdbb6f9867a0395b43",
+   "date": "2026-08-30",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El noticiero de la mañana, domingo 30 de agosto",
+   "title_en": "The morning news, Sunday 30 August",
+   "headline_en": "The Trump oil pact hands Washington Venezuelan reserves",
+   "summary_en": [
+    "The Trump oil pact hands Washington Venezuelan reserves",
+    "The Casa Rosada courts the PRO with 2027 unsettled"
+   ]
+  },
+  {
+   "id": "es-AR-El deporte, domingo 30 de agosto",
+   "file": "podcast-daily-2026-08-30-morning-sport-es-AR.json",
+   "bytes": 4613,
+   "sha256": "b033a3fa2c4dfb368f09c92621dfd741b3a268f66ccb0ac10d5b1c4999156b8e",
+   "date": "2026-08-30",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El deporte, domingo 30 de agosto",
+   "title_en": "Today's sport, Sunday 30 August",
+   "headline_en": "Los Leones play the Netherlands for third place",
+   "summary_en": [
+    "Los Leones play the Netherlands for third place",
+    "Julian Alvarez back in training as the window closes"
+   ]
+  },
+  {
+   "id": "es-AR-El pronóstico, domingo 30 de agosto",
+   "file": "podcast-daily-2026-08-30-morning-weather-es-AR.json",
+   "bytes": 4738,
+   "sha256": "d4c26137ee9df600448fce8fae22303732495f20923427947e84b43e134976b8",
+   "date": "2026-08-30",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El pronóstico, domingo 30 de agosto",
+   "title_en": "Today's weather, Sunday 30 August",
+   "headline_en": "A dry day in Buenos Aires, up to seventeen degrees",
+   "summary_en": [
+    "A dry day in Buenos Aires, up to seventeen degrees",
+    "Cordoba faces a seventy-three per cent chance of rain"
+   ]
+  }
+ ],
+ "content": "3aee7a127f7fe4f63c923847f37ebdb1fd40c9126e3fc35758ea373f625e3618",
+ "rev": 2,
+ "updated": "2026-08-30T14:15:26.343Z"
+}
