@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated": "2026-08-30T06:59:10.547Z",
+ "generated": "2026-08-30T11:57:18.798Z",
  "channels": [
   {
    "dialect": "es-AR",
@@ -10,9 +10,7 @@
    "episodes": 30,
    "latest_date": "2026-08-29",
    "last_written": [],
-   "last_removed": [
-    "2026-08-16"
-   ],
+   "last_removed": [],
    "bitmap": "daily/es-AR/bitmap.json"
   },
   {
@@ -34,9 +32,7 @@
    "episodes": 31,
    "latest_date": "2026-08-29",
    "last_written": [],
-   "last_removed": [
-    "2026-08-16"
-   ],
+   "last_removed": [],
    "bitmap": "daily/es-CO/bitmap.json"
   },
   {
@@ -46,12 +42,8 @@
    "days": 14,
    "episodes": 76,
    "latest_date": "2026-08-30",
-   "last_written": [
-    "2026-08-30"
-   ],
-   "last_removed": [
-    "2026-08-16"
-   ],
+   "last_written": [],
+   "last_removed": [],
    "bitmap": "daily/es-ES/bitmap.json"
   },
   {
@@ -62,21 +54,17 @@
    "episodes": 30,
    "latest_date": "2026-08-29",
    "last_written": [],
-   "last_removed": [
-    "2026-08-16"
-   ],
+   "last_removed": [],
    "bitmap": "daily/es-MX/bitmap.json"
   },
   {
    "dialect": "fr-BE",
-   "updated": "2026-08-30T06:59:10.547Z",
-   "content": "c1ea225f625076448a76b89df02dc6449d8de6b1dfa281932c4dd6c581559b19",
+   "updated": "2026-08-30T11:57:18.798Z",
+   "content": "c53e28abfd3be9ba449f1081c283ab6111dae315c2b755d99051bed655c24509",
    "days": 14,
-   "episodes": 35,
+   "episodes": 36,
    "latest_date": "2026-08-30",
-   "last_written": [
-    "2026-08-30"
-   ],
+   "last_written": [],
    "last_removed": [],
    "bitmap": "daily/fr-BE/bitmap.json"
   },
@@ -88,9 +76,7 @@
    "episodes": 30,
    "latest_date": "2026-08-29",
    "last_written": [],
-   "last_removed": [
-    "2026-08-16"
-   ],
+   "last_removed": [],
    "bitmap": "daily/fr-CA/bitmap.json"
   },
   {
@@ -100,12 +86,8 @@
    "days": 14,
    "episodes": 42,
    "latest_date": "2026-08-30",
-   "last_written": [
-    "2026-08-30"
-   ],
-   "last_removed": [
-    "2026-08-16"
-   ],
+   "last_written": [],
+   "last_removed": [],
    "bitmap": "daily/fr-FR/bitmap.json"
   }
  ]

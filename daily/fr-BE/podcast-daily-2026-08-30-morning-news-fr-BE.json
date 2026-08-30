@@ -1,0 +1,390 @@
+{
+ "title": "Le sept heures, dimanche 30 août",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-news",
+   "wpm": 222,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-30",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Dimanche trente août. Le sept heures.",
+   "en": "Sunday the thirtieth of August. The seven o'clock news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au Népal et au Tibet, les secouristes sont freinés par la crue.",
+   "en": "In Nepal and Tibet, rescue teams are being held up by the flood water.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et dans les Hautes Fagnes,",
+   "en": "And in the «Hautes Fagnes»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "l'incendie repart sous l'effet du vent.",
+   "en": "the fire is picking up again under the wind.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On ouvre avec le Népal,",
+   "en": "We start in Nepal,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où l'effondrement d'un glacier a provoqué une gigantesque coulée de boue.",
+   "en": "where a glacier collapse set off a huge mudslide.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les inondations ont frappé mercredi matin la frontière entre les deux pays.",
+   "en": "The floods hit the border between the two countries on Wednesday morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce dimanche, la montée des eaux complique les opérations de secours.",
+   "en": "This Sunday, the rising water is making the rescue work harder.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon des bilans encore provisoires,",
+   "en": "Provisional tolls put the dead",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les crues ont fait entre sept cent trente-quatre et sept cent cinquante morts.",
+   "en": "at between seven hundred and thirty-four and seven hundred and fifty.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le nombre de disparus est estimé",
+   "en": "The number missing is put",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "entre deux mille cinq cents et plus de trois mille.",
+   "en": "at between two thousand five hundred and more than three thousand.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ailleurs dans l'actu, des pompiers étrangers ont été rappelés dans les Hautes Fagnes.",
+   "en": "In other news, foreign firefighters have been called back to the «Hautes Fagnes».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les renforts internationaux ont à nouveau été mobilisés face à la reprise du feu.",
+   "en": "The international crews have been sent in once more as the fire picks up.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les difficultés se concentraient samedi sur les fronts nord et est.",
+   "en": "The hardest work on Saturday was on the northern and eastern fronts.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le sinistre a démarré il y a une quinzaine de jours.",
+   "en": "The fire started about a fortnight ago.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On enchaîne, en Islande,",
+   "en": "Moving on, in Iceland,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les électeurs ont rejeté une reprise des négociations d'adhésion",
+   "en": "voters have rejected reopening membership talks",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à l'Union européenne.",
+   "en": "with the European Union.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les résultats définitifs du référendum donnent le non à cinquante-deux virgule huit pour cent.",
+   "en": "The final referendum results give the no side fifty-two point eight per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le oui recueille quarante-sept virgule deux pour cent.",
+   "en": "The yes side takes forty-seven point two per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre dossier maintenant, en Suisse,",
+   "en": "Turning to something else, in Switzerland,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "des coups de feu ont fait un mort et cinq blessés",
+   "en": "gunfire killed one person and wounded five",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans la nuit de samedi à dimanche.",
+   "en": "overnight into Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les tirs ont eu lieu en marge d'une rave-party, à l'hippodrome d'Aarau,",
+   "en": "The shots were fired at the edge of a rave party, at the «Aarau» racecourse,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans le nord du pays.",
+   "en": "in the north of the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La police est mobilisée ce dimanche pour retrouver les auteurs.",
+   "en": "The police are out this Sunday looking for those responsible.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Chez nous toujours, onze enfants nés en Belgique",
+   "en": "Elsewhere, eleven children born in Belgium",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "seraient issus d'un même donneur de sperme néerlandais.",
+   "en": "are said to have come from the same Dutch sperm donor.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon le média public néerlandais NOS,",
+   "en": "According to the Dutch public broadcaster «NOS»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "cet homme a affirmé être le géniteur d'au moins cent nonante-neuf enfants.",
+   "en": "the man has said he fathered at least one hundred and ninety-nine children.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il l'a reconnu dans une lettre adressée aux parents.",
+   "en": "He admitted it in a letter written to the parents.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour terminer, la Belge Sarah Chaâri a décroché un nouveau titre mondial de taekwondo.",
+   "en": "And finally, the Belgian «Sarah Chaâri» has taken another world title in «taekwondo».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle s'impose aux championnats du monde,",
+   "en": "She wins at the world championships,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "organisés cette année en Chine.",
+   "en": "held this year in China.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà où nous en sommes.",
+   "en": "That is where things stand.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Sunday 30 August",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Rising water is hampering the rescue after the Himalayan floods",
+ "summary_en": [
+  "Rising water is hampering the rescue after the Himalayan floods",
+  "Foreign firefighters are back in the Fagnes as the fire picks up again",
+  "Provisional tolls put the dead at between 734 and 750"
+ ]
+}

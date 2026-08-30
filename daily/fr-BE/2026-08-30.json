@@ -5,6 +5,27 @@
  "date": "2026-08-30",
  "episodes": [
   {
+   "id": "fr-BE-Le sept heures, dimanche 30 août",
+   "file": "podcast-daily-2026-08-30-morning-news-fr-BE.json",
+   "bytes": 9464,
+   "sha256": "f37f279a28c333dfec22c2361f3f16c1c88ea81120f213ef251b35feeb41eb93",
+   "date": "2026-08-30",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, dimanche 30 août",
+   "title_en": "The morning news, Sunday 30 August",
+   "headline_en": "Rising water is hampering the rescue after the Himalayan floods",
+   "summary_en": [
+    "Rising water is hampering the rescue after the Himalayan floods",
+    "Foreign firefighters are back in the Fagnes as the fire picks up again",
+    "Provisional tolls put the dead at between 734 and 750"
+   ]
+  },
+  {
    "id": "fr-BE-Le temps chez nous, dimanche 30 août",
    "file": "podcast-daily-2026-08-30-morning-weather-fr-BE.json",
    "bytes": 5224,
@@ -25,7 +46,7 @@
    ]
   }
  ],
- "content": "2497df5eb596bc18b151aa12b32efb42437616eda837c3b0a9997008f0ff8d70",
- "rev": 1,
- "updated": "2026-08-30T06:59:10.547Z"
+ "content": "df05b78c7e1963e53bbe7eb45a501ea101f3608f12508a333273d7d6ab431fae",
+ "rev": 2,
+ "updated": "2026-08-30T11:57:18.798Z"
 }
