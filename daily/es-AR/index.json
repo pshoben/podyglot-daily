@@ -5,6 +5,47 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-AR-El noticiero de la mañana, lunes 31 de agosto",
+   "file": "podcast-daily-2026-08-31-morning-news-es-AR.json",
+   "bytes": 13100,
+   "sha256": "f64188cb75b84c3a5551cc857e40f02f3ec8601c8bfbb1949d7f6500943afb9a",
+   "date": "2026-08-31",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El noticiero de la mañana, lunes 31 de agosto",
+   "title_en": "The morning news, Monday 31 August",
+   "headline_en": "The United States bombed Iranian launchers at Larak and Tehran hit back",
+   "summary_en": [
+    "The United States bombed Iranian launchers at Larak and Tehran hit back",
+    "The government announced a pay rise for the armed and security forces",
+    "Milei starts a week of travel in Argentina and Chile"
+   ]
+  },
+  {
+   "id": "es-AR-El pronóstico, lunes 31 de agosto",
+   "file": "podcast-daily-2026-08-31-morning-weather-es-AR.json",
+   "bytes": 4815,
+   "sha256": "faddb0643632f6eb1978619caba8e4960e98aeebac5d7e0758c8934e474de165",
+   "date": "2026-08-31",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El pronóstico, lunes 31 de agosto",
+   "title_en": "Today's weather, Monday 31 August",
+   "headline_en": "Monday forecast for Buenos Aires, 31st August",
+   "summary_en": [
+    "Monday forecast for Buenos Aires, 31st August",
+    "Monday forecast for Córdoba, 31st August"
+   ]
+  },
+  {
    "id": "es-AR-El noticiero de la mañana, domingo 30 de agosto",
    "file": "podcast-daily-2026-08-30-morning-news-es-AR.json",
    "bytes": 8117,

@@ -1,0 +1,530 @@
+{
+ "title": "El noticiero de la mañana, lunes 31 de agosto",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-31",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lunes treinta y uno de agosto, siete de la mañana.",
+   "en": "Monday the thirty-first of August, seven in the morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El noticiero de la mañana.",
+   "en": "The morning newscast.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Teherán anunció que atacó bases estadounidenses en Jordania,",
+   "en": "Tehran said it had struck American bases in Jordan,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tras el bombardeo de Estados Unidos sobre la isla iraní de Larak.",
+   "en": "after the United States bombed the Iranian island of «Larak».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Acá en la Argentina, llega un aumento para los militares y las fuerzas de seguridad.",
+   "en": "Here in Argentina, a pay rise is coming for the armed and security forces.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos por Irán, donde, según medios semioficiales iraníes,",
+   "en": "We start with Iran,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "hubo explosiones cerca de la isla de Larak.",
+   "en": "where Iranian semi-official media reported explosions near the island of «Larak».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Washington atacó dos lanzadores de la Guardia Revolucionaria en esa isla,",
+   "en": "Washington hit two Revolutionary Guard launchers on that island,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el estrecho de Ormuz.",
+   "en": "in the strait of Hormuz.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Fue la primera acción militar estadounidense en semanas.",
+   "en": "It was the first American military action in weeks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Teherán confirmó muertos y heridos,",
+   "en": "Tehran confirmed dead and wounded,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la Guardia Revolucionaria habló de martirio y lesiones entre sus combatientes.",
+   "en": "and the Revolutionary Guard spoke of martyrdom and injuries among its fighters.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La respuesta llegó con misiles y drones contra bases estadounidenses en Jordania.",
+   "en": "The reply came with missiles and drones against American bases in Jordan.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Vamos a la Argentina, donde el Gobierno anunció una recomposición salarial para las Fuerzas Armadas",
+   "en": "To Argentina, where the government has announced a pay settlement for the armed forces",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y las fuerzas federales de seguridad.",
+   "en": "and the federal security forces.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El anuncio llega tras los reclamos por los salarios bajos.",
+   "en": "It follows complaints about low pay.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El incremento acumulado para las Fuerzas Armadas es del doce con",
+   "en": "The rise for the armed forces adds up to 12.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "veintidós por ciento entre septiembre y diciembre.",
+   "en": "22 per cent between September and December.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En seguridad habrá aumentos en el básico y nuevos suplementos según riesgo, destino y función.",
+   "en": "In the security forces there will be rises in basic pay and new supplements by risk, posting and role.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También en la agenda, el presidente Javier Milei arranca una semana de viajes y reuniones.",
+   "en": "Also in the diary, President «Javier Milei» begins a week of travel and meetings.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las actividades van de este treinta y uno de agosto al próximo cuatro de septiembre.",
+   "en": "His engagements run from today, the thirty-first of August, to the fourth of September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Presidente viajará a Chile, donde se encontrará con Kast,",
+   "en": "He travels to Chile, where he meets «Kast», and",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y a la provincia de Misiones.",
+   "en": "to the province of «Misiones».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El ministro de Economía, Luis Caputo,",
+   "en": "The Economy Minister, «Luis Caputo»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "viajó a Estados Unidos para exponer el programa económico en la reunión de ministros",
+   "en": "has flown to the United States to set out the economic programme at the",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "del G veinte.",
+   "en": "G20 ministers' meeting.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí se reunirá con el secretario del Tesoro, Scott Bessent.",
+   "en": "There he will meet the Treasury Secretary, «Scott Bessent».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo acompañan el titular del Banco Central, Santiago Bausili,",
+   "en": "He is travelling with the central bank governor, «Santiago Bausili»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el secretario de Política Económica, José Luis Daza.",
+   "en": "and the economic policy secretary, «José Luis Daza».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Nepal, las autoridades informaron que novecientas diecinueve personas murieron por las riadas,",
+   "en": "In Nepal, the authorities said 919 people died in the flash floods,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "los deslizamientos y las inundaciones.",
+   "en": "the landslides and the flooding.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En todo el país se recuperaron casi ochocientos cuerpos y restos humanos,",
+   "en": "Across the country nearly 800 bodies and human remains have been recovered,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y miles de personas siguen desaparecidas.",
+   "en": "and thousands of people are still missing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los equipos de rescate continúan la búsqueda mientras persisten las lluvias",
+   "en": "Rescue teams are still searching while the rain",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el riesgo de nuevas crecidas.",
+   "en": "and the risk of fresh floods go on.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el Gran Cañón, en Arizona,",
+   "en": "In the Grand Canyon, in Arizona,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "una inundación repentina dejó un muerto y excursionistas desaparecidos.",
+   "en": "a flash flood has left one man dead and walkers missing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cuerpo de un hombre de cuarenta",
+   "en": "The body of a man of",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y seis años fue recuperado cerca de Crystal Rapids, en el río Colorado.",
+   "en": "forty-six was recovered near Crystal Rapids, on the Colorado river.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El servicio del parque estimó unos quince desaparecidos,",
+   "en": "The park service put the missing at about fifteen,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y otro recuento da más de veinte.",
+   "en": "and another count gives more than twenty.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Más de sesenta personas fueron evacuadas,",
+   "en": "More than sixty people were evacuated,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y se anticipan más tormentas en la región.",
+   "en": "and more storms are forecast for the area.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para cerrar, Las Leonas volvieron al país con la Copa del Mundo.",
+   "en": "And to close, «Las Leonas» have come home with the World Cup.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El seleccionado llegó a Ezeiza antes de las seis, y lo recibieron familiares,",
+   "en": "The team landed at «Ezeiza» before six, and were met by families,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "amigos y fanáticos.",
+   "en": "friends and fans.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Más de doscientas personas coparon el hall del aeropuerto desde la madrugada,",
+   "en": "More than 200 people filled the airport hall from before dawn,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con banderas, camisetas y palos de hockey.",
+   "en": "with flags, shirts and hockey sticks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Majo Granatto apareció con el trofeo en la mano.",
+   "en": "«Majo Granatto» came out with the trophy in her hand.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo central.",
+   "en": "That is the heart of it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Monday 31 August",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "The United States bombed Iranian launchers at Larak and Tehran hit back",
+ "summary_en": [
+  "The United States bombed Iranian launchers at Larak and Tehran hit back",
+  "The government announced a pay rise for the armed and security forces",
+  "Milei starts a week of travel in Argentina and Chile"
+ ]
+}

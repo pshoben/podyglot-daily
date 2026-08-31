@@ -1,0 +1,219 @@
+{
+ "title": "El estado del tiempo, lunes 31 de agosto",
+ "dialect": "es-CL",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CL-daily-weather",
+   "wpm": 205,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-31",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Así estará el cielo hoy,",
+   "en": "This is how the sky looks today,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en tres ciudades del país.",
+   "en": "in three cities around the country.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Todo esto sale del modelo del Centro Europeo, el ECMWF.",
+   "en": "All of this comes from the European Centre model, the ECMWF.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Santiago pasa la jornada bajo llovizna.",
+   "en": "Santiago spends the day under drizzle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación en la capital llega al cien por ciento.",
+   "en": "The chance of rain in the capital reaches 100 per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las temperaturas se mueven entre nueve y diecisiete grados.",
+   "en": "Temperatures run between 9 and 17 degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento en la capital no supera los seis kilómetros por hora.",
+   "en": "The wind in the capital gets no further than 6 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De región en región, en Valparaíso también hay llovizna.",
+   "en": "Region by region, «Valparaíso» has drizzle too.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí la probabilidad baja al cincuenta y cinco por ciento,",
+   "en": "There the chance drops to 55 per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "bastante menos que en Santiago.",
+   "en": "a good deal less than in Santiago.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima es de diez grados y la máxima de diecinueve.",
+   "en": "The low is 10 degrees and the high 19.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento en el puerto llega a ocho kilómetros por hora.",
+   "en": "The wind in the port reaches 8 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Precaución en Concepción, donde cae lluvia débil durante el día.",
+   "en": "Take care in «Concepción», where light rain falls through the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad allí es del noventa y cuatro por ciento.",
+   "en": "The chance there is 94 per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima es de nueve grados y la máxima de quince,",
+   "en": "The low is 9 degrees and the high 15,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la más baja de las tres.",
+   "en": "the lowest of the three.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento sopla hasta dieciséis kilómetros por hora,",
+   "en": "The wind blows up to 16 kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el más fuerte de las tres ciudades.",
+   "en": "the strongest of the three cities.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese es el panorama.",
+   "en": "That is the picture.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Monday 31 August",
+ "edition": "morning",
+ "region": "es-CL",
+ "region_label": "Chile",
+ "headline_en": "Monday forecast for Santiago, 31st August",
+ "summary_en": [
+  "Monday forecast for Santiago, 31st August",
+  "Monday forecast for Valparaíso, 31st August"
+ ]
+}

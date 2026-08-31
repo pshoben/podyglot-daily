@@ -1,0 +1,420 @@
+{
+ "title": "Le bulletin du matin, lundi 31 août",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-news",
+   "wpm": 185,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-31",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lundi trente et un août, sept heures. Le bulletin du matin.",
+   "en": "Monday the thirty-first of August, seven o'clock. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les États-Unis ont frappé l'Iran dimanche,",
+   "en": "The United States struck Iran on Sunday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "leurs premières frappes en un mois.",
+   "en": "its first strikes in a month.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au pays, les électeurs de Chicoutimi-Le Fjord se prononcent aujourd'hui, dans une élection partielle fédérale.",
+   "en": "Here at home, voters in «Chicoutimi-Le Fjord» go to the polls today in a federal by-election.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On débute avec l'Iran, où les forces américaines ont visé dimanche des lance-roquettes dans",
+   "en": "We start with Iran, where American forces hit rocket launchers in the strait of",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le détroit d'Ormuz.",
+   "en": "Hormuz on Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les frappes ont porté sur l'île iranienne de Larak.",
+   "en": "The strikes were on the Iranian island of «Larak».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un responsable américain a présenté ces frappes comme la première opération militaire depuis un mois.",
+   "en": "An American official described them as the first military operation in a month.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle met fin à une accalmie dans une guerre intermittente qui dure depuis plus",
+   "en": "It ends a lull in an on-and-off war that has run for more",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de six mois.",
+   "en": "than six months.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Jusqu'à récemment, le gouvernement Trump disait vouloir privilégier la pression économique contre Téhéran.",
+   "en": "Until recently, the Trump administration had said it wanted to lean on economic pressure against Tehran.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans l'actualité d'ici, l'élection partielle fédérale dans Chicoutimi-Le Fjord se déroule aujourd'hui.",
+   "en": "In news from here, the federal by-election in «Chicoutimi-Le Fjord» is being held today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les électeurs de la circonscription choisissent la personne qui succédera à Richard Martel à la",
+   "en": "Voters in the riding are choosing who will succeed «Richard Martel» in the",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Chambre des communes.",
+   "en": "House of Commons.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Trois élections partielles fédérales sont prévues lundi, dont celle-là au Québec.",
+   "en": "Three federal by-elections are due on Monday, that one in «Québec».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sur la scène provinciale, la cheffe de la Coalition avenir Québec a dévoilé son",
+   "en": "In the provincial campaign, the leader of the «Coalition avenir Québec» set out her financial",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "cadre financier dimanche.",
+   "en": "plan on Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Christine Fréchette l'a présenté à Trois-Rivières,",
+   "en": "«Christine Fréchette» presented it at «Trois-Rivières»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "quelques jours seulement après le début de la campagne.",
+   "en": "only days into the campaign.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle promet de conjuguer investissements et prudence budgétaire.",
+   "en": "She promises to combine investment with careful budgeting.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il n'y aura pas d'allégement pour les particuliers avant le retour à l'équilibre budgétaire.",
+   "en": "There will be no tax relief for individuals before the budget is back in balance.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre nouvelle maintenant, au Népal,",
+   "en": "In other news, in Nepal,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où le bilan de la crue de mercredi s'est encore alourdi lundi,",
+   "en": "the toll from Wednesday's flood rose again on Monday, on counts that are",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après des décomptes provisoires.",
+   "en": "still provisional.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Plus de neuf cents personnes sont mortes,",
+   "en": "More than 900 people have died,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à la frontière avec la Chine.",
+   "en": "on the border with China.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des milliers de personnes sont portées disparues,",
+   "en": "Thousands of people are missing,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et les décomptes ne s'accordent pas sur leur nombre.",
+   "en": "and the counts do not agree on how many.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au Mexique, une voiture piégée a explosé devant un commissariat,",
+   "en": "In Mexico, a car bomb went off outside",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans la nuit de dimanche à lundi.",
+   "en": "a police station overnight on Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'explosion s'est produite à Ojocaliente,",
+   "en": "The blast happened at «Ojocaliente»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "une ville du centre du pays.",
+   "en": "a town in the centre of the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour finir, au large de Chypre du Nord,",
+   "en": "And finally, off Northern Cyprus,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les recherches se poursuivent après le naufrage d'un navire bondé, selon les autorités.",
+   "en": "searches are going on after a crowded boat sank, the authorities say.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Huit personnes sont mortes, et les décomptes donnent dix-sept ou dix-huit disparus.",
+   "en": "Eight people died, and the counts give seventeen or eighteen missing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les causes du naufrage restent à déterminer.",
+   "en": "What caused the sinking has still to be established.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon le premier ministre turc, cité par l'agence Anadolu,",
+   "en": "The Turkish prime minister, quoted by the «Anadolu» agency,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "cent soixante-douze personnes ont été secourues.",
+   "en": "said 172 people were rescued.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est le portrait du jour.",
+   "en": "That is the picture of the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Monday 31 August",
+ "edition": "morning",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "American forces struck Iran on Sunday, the first strikes in a month",
+ "summary_en": [
+  "American forces struck Iran on Sunday, the first strikes in a month",
+  "A federal by-election is held on Monday in Chicoutimi-Le Fjord",
+  "The CAQ set out its financial framework on Sunday at Trois-Rivieres"
+ ]
+}

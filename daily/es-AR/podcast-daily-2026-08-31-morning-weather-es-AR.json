@@ -1,0 +1,209 @@
+{
+ "title": "El pronóstico, lunes 31 de agosto",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-weather",
+   "wpm": 195,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-31",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Cómo viene el tiempo hoy,",
+   "en": "This is how the weather looks today,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en tres puntos del país.",
+   "en": "at three points around the country.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los números salen del modelo del Centro Europeo, el ECMWF.",
+   "en": "The numbers come from the European Centre model, the ECMWF.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la Ciudad de Buenos Aires el cielo está con llovizna.",
+   "en": "In the city of «Buenos Aires» the sky has drizzle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación en la Ciudad es del dieciocho por ciento.",
+   "en": "The chance of rain in the city is 18 per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las marcas se mueven entre once grados de mínima y dieciséis de máxima.",
+   "en": "Temperatures run between a low of 11 degrees and a high of 16.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento porteño llega a catorce kilómetros por hora.",
+   "en": "The city wind gets to 14 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Provincia por provincia, en Córdoba también hay llovizna.",
+   "en": "Province by province, «Córdoba» has drizzle too.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí la probabilidad sube al treinta y nueve por ciento,",
+   "en": "There the chance goes up to 39 per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "más del doble que en la Ciudad.",
+   "en": "more than twice the city's.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima es de once grados y la máxima trepa a veintidós.",
+   "en": "The low is 11 degrees and the high climbs to 22.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento se queda en trece kilómetros por hora.",
+   "en": "The wind stays at 13 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Atención en Mendoza con el viento,",
+   "en": "Watch the wind in «Mendoza»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que llega a diecisiete kilómetros por hora.",
+   "en": "which gets to 17 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es el más fuerte de los tres.",
+   "en": "That is the strongest of the three.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí el cielo tiene intervalos nubosos y la probabilidad de precipitación es nula.",
+   "en": "There the sky has cloudy spells and there is no chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima es de doce grados y la máxima de veintiuno.",
+   "en": "The low is 12 degrees and the high 21.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Así está el cielo.",
+   "en": "That is the sky today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Monday 31 August",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Monday forecast for Buenos Aires, 31st August",
+ "summary_en": [
+  "Monday forecast for Buenos Aires, 31st August",
+  "Monday forecast for Córdoba, 31st August"
+ ]
+}

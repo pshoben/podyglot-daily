@@ -1,0 +1,71 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-CO",
+ "date": "2026-08-31",
+ "episodes": [
+  {
+   "id": "es-CO-La actualidad de la mañana, lunes 31 de agosto",
+   "file": "podcast-daily-2026-08-31-morning-news-es-CO.json",
+   "bytes": 15079,
+   "sha256": "7b7d5ec0fd520f9dcff4af7b7efc9604e490cb2e60bc4c109d6a8dc40c95e447",
+   "date": "2026-08-31",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "La actualidad de la mañana, lunes 31 de agosto",
+   "title_en": "The morning news, Monday 31 August",
+   "headline_en": "Iran and the United States exchange attacks for the first time in a month",
+   "summary_en": [
+    "Iran and the United States exchange attacks for the first time in a month",
+    "De La Espriella announces an anti-corruption search bloc under his own office",
+    "The president apologised, on a judge's order, for the religious act at his inauguration"
+   ]
+  },
+  {
+   "id": "es-CO-La jornada deportiva, lunes 31 de agosto",
+   "file": "podcast-daily-2026-08-31-morning-sport-es-CO.json",
+   "bytes": 4363,
+   "sha256": "693ee598d4462b71fc2c2e35e8883b3bfbd74f0c81ba67db1f7d12f5440e327a",
+   "date": "2026-08-31",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "La jornada deportiva, lunes 31 de agosto",
+   "title_en": "Today's sport, Monday 31 August",
+   "headline_en": "Daniel Munoz leaves Crystal Palace for Nottingham Forest on a three-year deal",
+   "summary_en": [
+    "Daniel Munoz leaves Crystal Palace for Nottingham Forest on a three-year deal"
+   ]
+  },
+  {
+   "id": "es-CO-El clima de hoy, lunes 31 de agosto",
+   "file": "podcast-daily-2026-08-31-morning-weather-es-CO.json",
+   "bytes": 4687,
+   "sha256": "8ef0b2eb269b0c6b9dcb47b4c7b4270156499109ddf3d8b4bbc2849390914679",
+   "date": "2026-08-31",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "El clima de hoy, lunes 31 de agosto",
+   "title_en": "Today's weather, Monday 31 August",
+   "headline_en": "Monday forecast for Bogotá, 31st August",
+   "summary_en": [
+    "Monday forecast for Bogotá, 31st August",
+    "Monday forecast for Medellín, 31st August"
+   ]
+  }
+ ],
+ "content": "220c80317fdfd000c3cc96b59f2ec053401597107bca7df5b87dfa739b2d121e",
+ "rev": 1,
+ "updated": "2026-08-31T14:25:51.112Z"
+}

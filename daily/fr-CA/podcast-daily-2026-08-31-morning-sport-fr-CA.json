@@ -1,0 +1,169 @@
+{
+ "title": "Le sport d'ici, lundi 31 août",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-sport",
+   "wpm": 185,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-31",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le sport d'ici, ce lundi matin.",
+   "en": "Local sport, this Monday morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À l'horaire ce lundi, le tennis,",
+   "en": "On the bill this Monday, tennis,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec Félix Auger-Aliassime aux Internationaux des États-Unis.",
+   "en": "with «Félix Auger-Aliassime» at the US Open.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Québécois, troisième tête de série, entre en lice aujourd'hui.",
+   "en": "The Quebecer, seeded third, plays his opening match today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il n'a pas obtenu l'un des deux principaux stades pour ce match.",
+   "en": "He was not given one of the two main stadiums for it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au football américain maintenant.",
+   "en": "Now to American football.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aaron Donald a fait son retour au sein des Rams de Los Angeles, dimanche.",
+   "en": "«Aaron Donald» went back to the Los Angeles Rams on Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le joueur de ligne défensive met fin à une retraite de deux ans et demi.",
+   "en": "The defensive lineman is ending a retirement of two and a half years.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a trente-cinq ans, et il vise un autre Super Bowl.",
+   "en": "He is thirty-five, and he is after another Super Bowl.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sa décision est venue après plusieurs semaines de réflexion",
+   "en": "The decision came after several weeks of thinking it over",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et près de trois mois d'entraînement intensif.",
+   "en": "and nearly three months of hard training.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Donald avait dominé son poste sous l'uniforme des Rams,",
+   "en": "Donald had dominated his position in a Rams",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de deux mille quatorze jusqu'à sa retraite, au début de deux mille vingt-quatre.",
+   "en": "jersey from 2014 until he retired at the start of 2024.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est tout pour le sport.",
+   "en": "That is all for sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Monday 31 August",
+ "edition": "morning",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "Felix Auger-Aliassime is on Monday's bill, starting his US Open",
+ "summary_en": [
+  "Felix Auger-Aliassime is on Monday's bill, starting his US Open",
+  "Aaron Donald ends his retirement and rejoins the Los Angeles Rams"
+ ]
+}

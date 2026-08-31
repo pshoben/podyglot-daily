@@ -1,0 +1,199 @@
+{
+ "title": "El clima de hoy, lunes 31 de agosto",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-weather",
+   "wpm": 195,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-31",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Así amanece el cielo hoy,",
+   "en": "This is how the sky wakes today,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en tres ciudades del país.",
+   "en": "in three cities around the country.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las cifras vienen del modelo del Centro Europeo, el ECMWF.",
+   "en": "The figures come from the European Centre model, the ECMWF.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Bogotá el cielo está con llovizna.",
+   "en": "In «Bogotá» the sky has drizzle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación en la capital es del noventa y seis por ciento.",
+   "en": "The chance of rain in the capital is 96 per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima llega a veinte grados y la mínima baja a trece.",
+   "en": "The high reaches 20 degrees and the low drops to 13.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento en la capital alcanza los doce kilómetros por hora.",
+   "en": "The wind in the capital gets to 12 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Región por región, en Medellín también hay llovizna.",
+   "en": "Region by region, «Medellín» has drizzle too.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí la probabilidad es del setenta y cinco por ciento, menos que en Bogotá.",
+   "en": "There the chance is 75 per cent, less than in «Bogotá».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima sube a veintinueve grados y la mínima queda en dieciocho.",
+   "en": "The high climbs to 29 degrees and the low stays at 18.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento apenas llega a seis kilómetros por hora.",
+   "en": "The wind there barely reaches 6 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pendientes en Cali, donde la llovizna llega con noventa y seis por ciento de probabilidad,",
+   "en": "Keep an eye on «Cali», where the drizzle comes with a 96 per cent chance,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "igual que en la capital.",
+   "en": "the same as the capital's.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima allí es de veintiocho grados y la mínima de veintiuno.",
+   "en": "The high there is 28 degrees and the low 21.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es la mínima más alta de las tres ciudades.",
+   "en": "That is the highest low of the three cities.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento sopla hasta siete kilómetros por hora.",
+   "en": "The wind blows up to 7 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese es el clima.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Monday 31 August",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "Monday forecast for Bogotá, 31st August",
+ "summary_en": [
+  "Monday forecast for Bogotá, 31st August",
+  "Monday forecast for Medellín, 31st August"
+ ]
+}

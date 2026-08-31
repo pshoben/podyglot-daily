@@ -1,0 +1,178 @@
+{
+ "title": "La jornada deportiva, lunes 31 de agosto",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-sport",
+   "wpm": 195,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-31",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "La jornada deportiva, este lunes treinta y uno de agosto.",
+   "en": "The sport, this Monday the thirty-first of August.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo que trae el día, un colombiano cambia de club en Inglaterra.",
+   "en": "What the day brings: a Colombian changes clubs in England.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Daniel Muñoz fue anunciado este lunes como nuevo jugador del Nottingham Forest.",
+   "en": "«Daniel Muñoz» was announced on Monday as a «Nottingham Forest» player.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El lateral llega procedente del Crystal Palace,",
+   "en": "The full back arrives from Crystal Palace,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "donde cierra una etapa de dos años y medio.",
+   "en": "where he closes a spell of two and a half years.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Firmó un contrato por tres años,",
+   "en": "He has signed a three-year contract,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con opción de extenderlo por una temporada más.",
+   "en": "with the option of one more season.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El defensor antioqueño tiene treinta años y se queda en la Premier League.",
+   "en": "The defender, from «Antioquia», is thirty and stays in the Premier League.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el Nottingham Forest se encontrará con una plantilla dirigida por Oliver Glasner.",
+   "en": "At «Nottingham Forest» he joins a squad managed by «Oliver Glasner».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Muñoz dijo que le ilusiona el talento del plantel",
+   "en": "«Muñoz» said the talent in the squad excites him",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y que tiene ganas de saltar al campo.",
+   "en": "and that he cannot wait to get out on the pitch.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El club destacó su rendimiento durante sus años en la Premier League",
+   "en": "The club praised how he has played over his years in the Premier League",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y en competiciones internacionales.",
+   "en": "and in European competitions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su compatriota Gustavo Puerta también suena para llegar a la institución.",
+   "en": "His compatriot «Gustavo Puerta» is also being linked with the club.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esa es la jornada.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Monday 31 August",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "Daniel Munoz leaves Crystal Palace for Nottingham Forest on a three-year deal",
+ "summary_en": [
+  "Daniel Munoz leaves Crystal Palace for Nottingham Forest on a three-year deal"
+ ]
+}

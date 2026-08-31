@@ -1,0 +1,600 @@
+{
+ "title": "La actualidad de la mañana, lunes 31 de agosto",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-31",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lunes treinta y uno de agosto, siete de la mañana.",
+   "en": "Monday the thirty-first of August, seven in the morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La actualidad de la mañana.",
+   "en": "Today's news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Irán y Estados Unidos se atacaron mutuamente,",
+   "en": "Iran and the United States have attacked each other,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "algo que no ocurría desde hacía un mes.",
+   "en": "something that had not happened for a month.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y aquí, el presidente anunció un bloque de búsqueda contra la corrupción.",
+   "en": "And here, the president has announced a search bloc against corruption.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Iniciamos con Irán, donde el intercambio de ataques elevó la tensión en Oriente Medio.",
+   "en": "We start with Iran, where the exchange of attacks has raised the tension in the Middle East.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Teherán mantiene cerrado el estrecho de Ormuz,",
+   "en": "Tehran is keeping the strait of Hormuz closed,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y Washington persiste con un contrabloqueo naval contra puertos.",
+   "en": "and Washington is holding a naval counter-blockade against ports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El precio del petróleo se disparó más de dos por ciento tras el ataque estadounidense",
+   "en": "The price of oil jumped more than 2 per cent after the American attack",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "contra la isla iraní de Larak.",
+   "en": "on the Iranian island of «Larak».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Colombia, el presidente Abelardo De La Espriella anunció anoche la creación inmediata del Bloque",
+   "en": "In Colombia, President «Abelardo De La Espriella» announced last night the immediate creation of the",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de Búsqueda Anticorrupción.",
+   "en": "Anti-corruption Search Bloc.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cuerpo dependerá directamente del Despacho Presidencial.",
+   "en": "The body will report directly to the President's own office.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Articulará el trabajo de la Policía Judicial, los organismos de inteligencia,",
+   "en": "It will bring together the judicial police, the intelligence services,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la UIAF y la DIAN.",
+   "en": "the financial analysis unit and the tax and customs authority.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Contará además con el respaldo operativo de la Fiscalía,",
+   "en": "It will also have the operational backing of the «Fiscalía»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la Contraloría y la Procuraduría, y con cooperación internacional.",
+   "en": "the «Contraloría» and the «Procuraduría», and international cooperation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El alcalde de Medellín respaldó la iniciativa.",
+   "en": "The mayor of «Medellín» backed the plan.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la misma alocución, el Presidente cumplió un fallo de tutela del juez quinto laboral",
+   "en": "In the same address, the President complied with a court order from the fifth labour judge",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "del circuito de Bogotá.",
+   "en": "of the «Bogotá» circuit.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ofreció excusas por los actos religiosos del día de su posesión.",
+   "en": "He apologised for the religious acts on the day of his inauguration.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dijo que, aunque se identifica como creyente católico,",
+   "en": "He said that although he calls himself a Catholic believer,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "respeta la separación entre la Iglesia y el Estado.",
+   "en": "he respects the separation of Church and State.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También defendió su derecho personal a profesar su religión,",
+   "en": "He also defended his personal right to practise his religion,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y reconoció que la ceremonia pudo generar incomodidad u ofensa.",
+   "en": "and accepted that the ceremony could have caused discomfort or offence.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En otras noticias, más de veintiocho mil hectáreas agropecuarias han sido afectadas por los incendios",
+   "en": "In other news, more than 28,000 hectares of farmland have been hit by the",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el Tolima.",
+   "en": "fires in «Tolima».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Gobierno anunció subsidios para las personas afectadas.",
+   "en": "The government announced subsidies for those affected.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Buga hay emergencia por focos que se propagan rápidamente,",
+   "en": "There is an emergency in «Buga»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y las autoridades mantienen un monitoreo constante.",
+   "en": "where the fires are spreading fast and the authorities are watching them constantly.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También en el Tolima, grupos armados ilegales atacaron el domingo con drones cargados de",
+   "en": "Also in «Tolima», illegal armed groups attacked with drones loaded with explosives on",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "explosivos en Ataco.",
+   "en": "Sunday at «Ataco».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los artefactos alcanzaron un camión que transportaba uniformados de la Dirección de Carabineros",
+   "en": "The devices hit a truck carrying «Carabineros» officers and",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y luego la estación local de la Policía.",
+   "en": "then the local police station.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según información preliminar, el ataque dejó dos policías heridos.",
+   "en": "On early information, the attack left two police officers wounded.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las autoridades decretaron toque de queda durante tres noches consecutivas.",
+   "en": "The authorities imposed a curfew for three nights running.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Nepal, según informes oficiales aún muy provisionales,",
+   "en": "In Nepal, on official reports that are still very provisional,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el balance del alud del miércoles veintiséis de agosto se agravó de nuevo este lunes.",
+   "en": "the toll from the landslide of Wednesday the twenty-sixth of August worsened again on Monday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se han localizado novecientos diecinueve cadáveres.",
+   "en": "919 bodies have been found.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las autoridades de Nepal y China siguen sin noticias de cerca de cinco mil personas.",
+   "en": "The authorities in Nepal and China still have no news of about five thousand people.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los rescatistas todavía no logran llegar a un centenar de obreros que creen atrapados",
+   "en": "Rescuers still cannot reach around a hundred workers they believe are trapped",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en un túnel.",
+   "en": "in a tunnel.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De vuelta a la actualidad nacional,",
+   "en": "Back to the national news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el partido entre Deportivo Cali y Atlético Bucaramanga terminó abruptamente en el estadio Palmaseca.",
+   "en": "the match between «Deportivo Cali» and «Atlético Bucaramanga» ended abruptly at the «Palmaseca» stadium.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Varios hinchas ingresaron al terreno de juego y se enfrentaron con los policías.",
+   "en": "Fans came onto the pitch and clashed with police.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El árbitro dio por terminado el encuentro por seguridad,",
+   "en": "The referee ended the game on safety grounds,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y ahora se esperan las sanciones disciplinarias.",
+   "en": "and disciplinary rulings are now expected.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para cerrar, las tiendas de barrio",
+   "en": "And to close, corner shops",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y las panaderías siguen siendo uno de los motores de la economía popular.",
+   "en": "and bakeries remain one of the engines of the everyday economy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según la encuesta de micronegocios del Dane,",
+   "en": "On the «Dane» micro-business survey,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en dos mil veinticuatro alcanzaron treinta",
+   "en": "in 2024 they took 34.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y cuatro coma ocho billones de pesos en ventas.",
+   "en": "8 billion pesos in sales.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esos negocios ocuparon a setecientas sesenta y dos mil personas,",
+   "en": "Those businesses employed 762, 000 people,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "repartidas en más de medio millón de micronegocios.",
+   "en": "spread across more than half a million micro-businesses.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las tiendas de barrio concentran además el treinta",
+   "en": "Corner shops",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y siete por ciento de las ventas de consumo masivo del país.",
+   "en": "also account for 37 per cent of the country's mass-consumption sales.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más importante.",
+   "en": "That is what matters most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Monday 31 August",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "Iran and the United States exchange attacks for the first time in a month",
+ "summary_en": [
+  "Iran and the United States exchange attacks for the first time in a month",
+  "De La Espriella announces an anti-corruption search bloc under his own office",
+  "The president apologised, on a judge's order, for the religious act at his inauguration"
+ ]
+}

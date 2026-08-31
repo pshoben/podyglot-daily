@@ -5,6 +5,47 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-CL-Las noticias de la mañana, lunes 31 de agosto",
+   "file": "podcast-daily-2026-08-31-morning-news-es-CL.json",
+   "bytes": 8586,
+   "sha256": "349dbc057d0b225d2dddc52d88f08cfc8554d901c82325ec0a33fc6578d6cf0b",
+   "date": "2026-08-31",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "Las noticias de la mañana, lunes 31 de agosto",
+   "title_en": "The morning news, Monday 31 August",
+   "headline_en": "The United States hit Iranian launchers at Larak, Iran struck back, and oil rose",
+   "summary_en": [
+    "The United States hit Iranian launchers at Larak, Iran struck back, and oil rose",
+    "Kast goes to Magallanes amid the sovereignty impasse with Argentina",
+    "What Venezuela gains and gives up in the oil deal with the United States"
+   ]
+  },
+  {
+   "id": "es-CL-El estado del tiempo, lunes 31 de agosto",
+   "file": "podcast-daily-2026-08-31-morning-weather-es-CL.json",
+   "bytes": 5007,
+   "sha256": "5086d8b22e83fc4f264b2461c96f7668a8eefccb7e3a0ba62deae5805a602ce5",
+   "date": "2026-08-31",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "El estado del tiempo, lunes 31 de agosto",
+   "title_en": "Today's weather, Monday 31 August",
+   "headline_en": "Monday forecast for Santiago, 31st August",
+   "summary_en": [
+    "Monday forecast for Santiago, 31st August",
+    "Monday forecast for Valparaíso, 31st August"
+   ]
+  },
+  {
    "id": "es-CL-Las noticias de la mañana, domingo 30 de agosto",
    "file": "podcast-daily-2026-08-30-morning-news-es-CL.json",
    "bytes": 7371,

@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-CA-Le bulletin du matin, lundi 31 août",
+   "file": "podcast-daily-2026-08-31-morning-news-fr-CA.json",
+   "bytes": 10428,
+   "sha256": "3c30fcc3bd196817db9cfc67f7bcf43359364ba4f0b0e7172cd2a53762e46373",
+   "date": "2026-08-31",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin du matin, lundi 31 août",
+   "title_en": "The morning news, Monday 31 August",
+   "headline_en": "American forces struck Iran on Sunday, the first strikes in a month",
+   "summary_en": [
+    "American forces struck Iran on Sunday, the first strikes in a month",
+    "A federal by-election is held on Monday in Chicoutimi-Le Fjord",
+    "The CAQ set out its financial framework on Sunday at Trois-Rivieres"
+   ]
+  },
+  {
+   "id": "fr-CA-Le sport d'ici, lundi 31 août",
+   "file": "podcast-daily-2026-08-31-morning-sport-fr-CA.json",
+   "bytes": 4075,
+   "sha256": "f280952b45bb9749a394269d7db53dfdfe96645d4733044804298a11fe0d47c0",
+   "date": "2026-08-31",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le sport d'ici, lundi 31 août",
+   "title_en": "Today's sport, Monday 31 August",
+   "headline_en": "Felix Auger-Aliassime is on Monday's bill, starting his US Open",
+   "summary_en": [
+    "Felix Auger-Aliassime is on Monday's bill, starting his US Open",
+    "Aaron Donald ends his retirement and rejoins the Los Angeles Rams"
+   ]
+  },
+  {
+   "id": "fr-CA-Le bulletin météo, lundi 31 août",
+   "file": "podcast-daily-2026-08-31-morning-weather-fr-CA.json",
+   "bytes": 5027,
+   "sha256": "f6ef1b876245b98dd0d7a0686cffc30c73182c68c10a3f5f5b577e438718fa15",
+   "date": "2026-08-31",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin météo, lundi 31 août",
+   "title_en": "Today's weather, Monday 31 August",
+   "headline_en": "Monday forecast for Montréal, 31st August",
+   "summary_en": [
+    "Monday forecast for Montréal, 31st August",
+    "Monday forecast for Québec, 31st August"
+   ]
+  },
+  {
    "id": "fr-CA-Le bulletin du matin, dimanche 30 août",
    "file": "podcast-daily-2026-08-30-morning-news-fr-CA.json",
    "bytes": 9616,

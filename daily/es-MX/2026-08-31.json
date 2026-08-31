@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-MX",
+ "date": "2026-08-31",
+ "episodes": [
+  {
+   "id": "es-MX-El noticiario matutino, lunes 31 de agosto",
+   "file": "podcast-daily-2026-08-31-morning-news-es-MX.json",
+   "bytes": 9742,
+   "sha256": "f3211d936484c5033d840c117cab4864dcd56eed39a90f940f3674d53e5a7d86",
+   "date": "2026-08-31",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El noticiario matutino, lunes 31 de agosto",
+   "title_en": "The morning news, Monday 31 August",
+   "headline_en": "The United States struck Iran again and Tehran fired back at bases in Jordan",
+   "summary_en": [
+    "The United States struck Iran again and Tehran fired back at bases in Jordan",
+    "Morena picks Higinio Martinez to preside over the Senate, for ratification today",
+    "Sheinbaum sends Congress a national-security screen on foreign investment"
+   ]
+  },
+  {
+   "id": "es-MX-El clima, lunes 31 de agosto",
+   "file": "podcast-daily-2026-08-31-morning-weather-es-MX.json",
+   "bytes": 4954,
+   "sha256": "5c28467f396b884fe14dc67299fcb016b7625b43da53326dc58a76ae66196f6e",
+   "date": "2026-08-31",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El clima, lunes 31 de agosto",
+   "title_en": "Today's weather, Monday 31 August",
+   "headline_en": "Monday forecast for Ciudad de México, 31st August",
+   "summary_en": [
+    "Monday forecast for Ciudad de México, 31st August",
+    "Monday forecast for Guadalajara, 31st August"
+   ]
+  }
+ ],
+ "content": "aef914bc55fe1b3572b1c9a9815a8e0cc4cc101f39429d4facea00596b3b59e3",
+ "rev": 1,
+ "updated": "2026-08-31T14:25:51.112Z"
+}

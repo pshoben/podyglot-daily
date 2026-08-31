@@ -1,0 +1,219 @@
+{
+ "title": "Le bulletin météo, lundi 31 août",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-weather",
+   "wpm": 185,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-31",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Du côté du ciel, trois coins du Québec pour la journée d'aujourd'hui.",
+   "en": "A look at the sky, three corners of «Québec» for today.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les valeurs qui suivent viennent du modèle GEM d'Environnement Canada.",
+   "en": "The figures that follow come from Environment Canada's GEM model.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Montréal, le ciel reste couvert.",
+   "en": "In «Montréal», the sky stays overcast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le maximum attendu dans la métropole est de vingt-quatre degrés,",
+   "en": "The high expected in the city is 24 degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le minimum de douze degrés.",
+   "en": "and the low 12.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de précipitation y atteint vingt et un pour cent.",
+   "en": "The chance of rain there reaches 21 per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y souffle jusqu'à huit kilomètres par heure au plus fort.",
+   "en": "The wind there blows up to 8 kilometres an hour at its strongest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'une région québécoise à l'autre,",
+   "en": "From one part of the province to another,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la ville de Québec profite d'un ciel dégagé.",
+   "en": "«Québec» City has clear skies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La capitale monte à vingt-deux degrés,",
+   "en": "The capital climbs to 22 degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un minimum de huit degrés.",
+   "en": "with a low of 8.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de précipitation y est nulle.",
+   "en": "There is no chance of rain there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y atteint quinze kilomètres par heure, davantage qu'à Montréal.",
+   "en": "The wind there reaches 15 kilometres an hour, more than in «Montréal».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au Saguenay, le ciel est peu nuageux.",
+   "en": "In «Saguenay», the sky is lightly clouded.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le maximum y est de vingt et un degrés,",
+   "en": "The high there is 21 degrees, and the low 8,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le minimum de huit degrés, comme dans la capitale.",
+   "en": "the same as in the capital.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de précipitation y est nulle elle aussi.",
+   "en": "There is no chance of rain there either.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y monte jusqu'à treize kilomètres par heure.",
+   "en": "The wind there gets up to 13 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Habillez-vous en conséquence.",
+   "en": "Dress accordingly.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Monday 31 August",
+ "edition": "morning",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "Monday forecast for Montréal, 31st August",
+ "summary_en": [
+  "Monday forecast for Montréal, 31st August",
+  "Monday forecast for Québec, 31st August"
+ ]
+}

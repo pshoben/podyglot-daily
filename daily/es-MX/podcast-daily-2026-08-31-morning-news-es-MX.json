@@ -1,0 +1,370 @@
+{
+ "title": "El noticiario matutino, lunes 31 de agosto",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-news",
+   "wpm": 186,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-31",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lunes treinta y uno de agosto, siete de la mañana. El noticiario matutino.",
+   "en": "Monday the thirty-first of August, seven in the morning. The morning bulletin.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Estados Unidos volvió a atacar a Irán,",
+   "en": "The United States has struck Iran again,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y Teherán respondió con misiles contra instalaciones militares en Jordania.",
+   "en": "and Tehran has fired missiles at military installations in Jordan.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en México, Morena eligió a Higinio Martínez para presidir el Senado.",
+   "en": "Here in Mexico, «Morena» has picked «Higinio Martínez» to preside over the Senate.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Arrancamos con Irán, donde Estados Unidos lanzó fuego sobre la isla de Larak,",
+   "en": "We start with Iran, where the United States opened fire on the island of «Larak»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el estrecho de Ormuz.",
+   "en": "in the strait of Hormuz.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Centcom informó que bombardeó dos lanzadores iraníes en esa isla.",
+   "en": "«Centcom» said it had bombed two Iranian launchers on that island.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Era el primer ataque estadounidense en casi un mes.",
+   "en": "It was the first American attack in almost a month.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Teherán respondió con misiles contra instalaciones militares estadounidenses en Jordania.",
+   "en": "Tehran fired back with missiles at American military installations in Jordan.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El conflicto entre los dos países se prolonga ya por sexto mes.",
+   "en": "The conflict between the two countries is now in its sixth month.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el Senado, la bancada de Morena eligió ayer a Higinio Martínez Miranda para presidir",
+   "en": "In the Senate, «Morena»'s group chose «Higinio Martínez Miranda» yesterday to chair",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la mesa directiva.",
+   "en": "its governing board.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cargo debe ser ratificado hoy por el pleno de la Cámara Alta.",
+   "en": "The full upper house is due to confirm him today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La propuesta tendrá que ser respaldada por la oposición.",
+   "en": "The nomination will need the opposition's backing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En otros temas, la presidenta Claudia Sheinbaum envió al Congreso una iniciativa de reforma a",
+   "en": "In other news, President «Claudia Sheinbaum» has sent Congress a bill to amend",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la Ley de Inversión Extranjera.",
+   "en": "the Foreign Investment Law.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El texto plantea un esquema de escrutinio que impida la compra de empresas mexicanas",
+   "en": "It would set up a screening system to block the purchase of Mexican companies",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "cuando implique un riesgo para la seguridad nacional.",
+   "en": "where that carries a risk to national security.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También endurece el control de la inversión extranjera en sectores estratégicos.",
+   "en": "It also tightens control of foreign investment in strategic sectors.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En materia de comercio, el secretario de Economía, Marcelo Ebrard,",
+   "en": "On trade, the Economy Secretary, «Marcelo Ebrard»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "presentó los primeros resultados del cambio de aranceles.",
+   "en": "set out the first results of the tariff change.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La medida alcanza mil cuatrocientas sesenta",
+   "en": "The measure covers 1,463 product",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y tres fracciones de productos de países sin tratado comercial con México.",
+   "en": "lines from countries with no trade agreement with Mexico.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las importaciones chinas con arancel cayeron alrededor de veintiocho por ciento hasta mayo.",
+   "en": "Imports of tariffed Chinese goods were down about 28 per cent to May.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Zacatecas, un coche bomba estalló la noche del domingo frente a la comandancia de",
+   "en": "In «Zacatecas», a car bomb went off on Sunday night outside the public security",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguridad Pública de Ojocaliente, informaron las autoridades.",
+   "en": "headquarters in «Ojocaliente», the authorities said.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la cabecera municipal había una multitud reunida por la coronación de las fiestas patronales.",
+   "en": "A crowd had gathered in the town centre for the crowning of the local patron-saint festival.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los primeros balances de heridos no coinciden: siete en uno,",
+   "en": "The first counts of the injured do not agree: seven in one,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "al menos diecisiete en el otro.",
+   "en": "at least seventeen in the other.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para terminar, la Universidad Nacional Autónoma de México aceptará a dos mil aspirantes que",
+   "en": "And finally, the National Autonomous University of Mexico will take 2,000 applicants it",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "no fueron seleccionados.",
+   "en": "had not selected.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Son lugares de licenciatura para quienes desean entrar a otra carrera con vacantes.",
+   "en": "These are degree places for those who want to start another course that still has room.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sólo el treinta y ocho por ciento fue aceptado en las diez carreras más demandadas.",
+   "en": "Only 38 per cent were accepted on the ten most sought-after courses.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más destacado.",
+   "en": "That is the pick of the news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Monday 31 August",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "The United States struck Iran again and Tehran fired back at bases in Jordan",
+ "summary_en": [
+  "The United States struck Iran again and Tehran fired back at bases in Jordan",
+  "Morena picks Higinio Martinez to preside over the Senate, for ratification today",
+  "Sheinbaum sends Congress a national-security screen on foreign investment"
+ ]
+}

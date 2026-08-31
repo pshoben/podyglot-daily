@@ -1,0 +1,330 @@
+{
+ "title": "Las noticias de la mañana, lunes 31 de agosto",
+ "dialect": "es-CL",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CL-daily-news",
+   "wpm": 205,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-31",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lunes treinta y uno de agosto, siete de la mañana.",
+   "en": "Monday the thirty-first of August, seven in the morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las noticias de la mañana.",
+   "en": "The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Estados Unidos atacó lanzacohetes iraníes en la isla de Larak,",
+   "en": "The United States has hit Iranian rocket launchers on the island of «Larak»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "e Irán respondió contra bases en Jordania.",
+   "en": "and Iran has struck back at bases in Jordan.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Acá en Chile, el Presidente Kast viaja a Magallanes en medio de la",
+   "en": "Here in Chile, President «Kast» travels to «Magallanes» amid the tension",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tensión con Argentina.",
+   "en": "with Argentina.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Partimos con Irán, donde el ataque estadounidense cayó sobre la isla de Larak,",
+   "en": "We start with Iran, where the American attack fell on the island of «Larak»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el estrecho de Ormuz.",
+   "en": "in the strait of Hormuz.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese estrecho está en el golfo Pérsico.",
+   "en": "That strait lies in the Persian Gulf.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según medios persas, la respuesta iraní apuntó misiles contra posiciones militares estadounidenses en Jordania.",
+   "en": "Persian media reported that Iran's reply aimed missiles at American military positions in Jordan.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También se reportaron movimientos de fuerzas de Washington en bases del Golfo.",
+   "en": "Movements of Washington's forces at Gulf bases were also reported.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es una respuesta que amenaza con ampliar nuevamente el conflicto en Medio Oriente.",
+   "en": "It is a reply that threatens to widen the conflict in the Middle East again.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El precio del petróleo subió tras el ataque.",
+   "en": "The price of oil rose after the attack.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Acá en Chile, el Presidente Kast viajará este martes a Magallanes,",
+   "en": "Here in Chile, President «Kast» travels on Tuesday to «Magallanes»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "donde supervisará ejercicios de las Fuerzas Armadas.",
+   "en": "where he will oversee armed forces exercises.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El jueves tiene prevista una reunión con Javier Milei en Santiago.",
+   "en": "On Thursday he is due to meet «Javier Milei» in Santiago.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ambos hitos ocurren días después del impasse con Argentina por declaraciones del brigadier argentino Gustavo",
+   "en": "Both come days after the impasse with Argentina over remarks by the Argentine brigadier «Gustavo",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Valverde sobre la soberanía en el Estrecho de Magallanes.",
+   "en": "Valverde» about sovereignty in the Strait of Magellan.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Partido Socialista emplazó a Kast a exigirle a Milei una declaración formal de respeto",
+   "en": "The Socialist Party has called on «Kast» to demand a formal declaration from «Milei» of",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por la soberanía chilena.",
+   "en": "respect for Chilean sovereignty.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Comisión Política de la tienda opositora cuestionó además la participación del Mandatario en el",
+   "en": "The opposition party's political committee also questioned the President taking part in the «Foro de",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Foro de Madrid, que se realizará en Santiago.",
+   "en": "Madrid», which is to be held in Santiago.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En lo demás, el acuerdo petrolero entre Venezuela y Estados Unidos.",
+   "en": "In other news, the oil agreement between Venezuela and the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La presidenta encargada de Venezuela, Delcy Rodríguez,",
+   "en": "Venezuela's acting president, «Delcy Rodríguez»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "afirmó que abarca diecisiete campos estratégicos",
+   "en": "said it covers 17 strategic fields",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y aportará doscientos diez mil millones de dólares al Estado.",
+   "en": "and will bring the state 210 billion dollars.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Venezuela apuesta a recibir más de cien mil millones de dólares en inversiones",
+   "en": "Venezuela is banking on more than 100 billion dollars of investment",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y a volver a explotar a gran escala sus reservas de petróleo.",
+   "en": "and on working its oil reserves on a large scale again.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "A cambio, Estados Unidos obtiene una participación importante sobre parte de la producción durante décadas.",
+   "en": "In return, the United States gets a sizeable share of part of that production for decades.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo principal.",
+   "en": "Those are the main points.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Monday 31 August",
+ "edition": "morning",
+ "region": "es-CL",
+ "region_label": "Chile",
+ "headline_en": "The United States hit Iranian launchers at Larak, Iran struck back, and oil rose",
+ "summary_en": [
+  "The United States hit Iranian launchers at Larak, Iran struck back, and oil rose",
+  "Kast goes to Magallanes amid the sovereignty impasse with Argentina",
+  "What Venezuela gains and gives up in the oil deal with the United States"
+ ]
+}
