@@ -1,0 +1,219 @@
+{
+ "title": "Los deportes, lunes 31 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-sport",
+   "wpm": 208,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-31",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Los deportes, este lunes por la mañana.",
+   "en": "Sport, this Monday morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo que se juega estos días es el mercado de fichajes,",
+   "en": "The big story these days is the transfer window,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que cierra mañana a las once y cincuenta y nueve de la noche.",
+   "en": "which closes tomorrow at one minute to midnight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "A partir de ese momento,",
+   "en": "After that,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "los clubes de Primera y Segunda no podrán inscribir futbolistas",
+   "en": "clubs in the first and second divisions cannot register players",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "hasta dos mil veintisiete.",
+   "en": "until 2027.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el Atlético de Madrid,",
+   "en": "At «Atlético de Madrid»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el futuro del noruego Alexander Sorloth queda en duda",
+   "en": "the future of the Norwegian «Alexander Sorloth» is in doubt",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la recta final del mercado.",
+   "en": "in the closing stretch of the window.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En los campos, el Barcelona cierra el fichaje de Gabriel Jesus,",
+   "en": "On the pitch, Barcelona are completing the signing of «Gabriel Jesus»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que llega hoy a la ciudad desde el Arsenal.",
+   "en": "who arrives in the city today from Arsenal.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El brasileño será el sexto fichaje de la primera plantilla azulgrana este verano.",
+   "en": "The Brazilian will be the sixth signing for the first team squad this summer.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hoy en la agenda, Osasuna recibe al Getafe en El Sadar,",
+   "en": "Today, «Osasuna» host «Getafe» at «El Sadar»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la tercera jornada de LaLiga.",
+   "en": "in the third round of «LaLiga».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Si sale de titular, el portero del Getafe, David Soria,",
+   "en": "If he starts, the «Getafe» goalkeeper «David Soria» becomes the player with the most consecutive starts in the competition,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "será el jugador con más titularidades consecutivas de la competición, ciento noventa y tres.",
+   "en": "on a hundred and ninety-three.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Enfrente tendrá a Ante Budimir,",
+   "en": "Facing him will be «Ante Budimir»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el máximo artillero de Osasuna en Primera División.",
+   "en": "the leading scorer for «Osasuna» in the first division.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí los deportes.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Monday 31 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "The Spanish transfer window closes on Tuesday night",
+ "summary_en": [
+  "The Spanish transfer window closes on Tuesday night",
+  "Gabriel Jesus joins Barcelona from Arsenal"
+ ]
+}

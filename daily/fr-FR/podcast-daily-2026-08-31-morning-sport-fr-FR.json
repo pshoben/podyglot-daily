@@ -1,0 +1,189 @@
+{
+ "title": "Le sport, lundi 31 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-31",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le sport, ce lundi matin.",
+   "en": "Sport, this Monday morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À suivre aujourd'hui, l'US Open de tennis,",
+   "en": "Coming up today, the US Open tennis,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où Carlos Alcaraz retrouve la compétition à New York.",
+   "en": "where «Carlos Alcaraz» comes back to competition in New York.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Espagnol, tenant du titre, était absent du circuit depuis le tournoi de Barcelone,",
+   "en": "The Spaniard, the defending champion, had been off the tour since the «Barcelona» tournament in mid April,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à la mi-avril, après une blessure au poignet droit.",
+   "en": "after a right wrist injury.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Plus de quatre mois se sont écoulés,",
+   "en": "More than four months have passed,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et il affronte au premier tour le Russe Roman Safiullin.",
+   "en": "and he meets the Russian «Roman Safiullin» in the first round.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au programme également, Arthur Fils, en pleine confiance et débarrassé de ses blessures.",
+   "en": "Also today, «Arthur Fils», in confidence and clear of his injuries.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Français rencontre le Grec Stefanos Tsitsipas ce lundi, à dix-sept heures, heure française.",
+   "en": "The Frenchman meets the Greek «Stefanos Tsitsipas» on Monday, at five in the afternoon French time.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sur les terrains français, le mercato entre dans ses dernières heures.",
+   "en": "On the French football scene, the transfer window is in its final hours.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Marseille, le club aborde cette fin de marché sous pression, et sans recrue.",
+   "en": "At «Marseille», the club goes into the deadline under pressure, and without a signing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Enfin, le football international, où Michel Platini a estimé dimanche, sur Canal Plus,",
+   "en": "Finally, international football, where «Michel Platini» said on Sunday, on «Canal Plus»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que Gianni Infantino devait quitter la présidence de la FIFA.",
+   "en": "that «Gianni Infantino» should leave the presidency of FIFA.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le patron de la FIFA fait face à une contestation croissante de plusieurs confédérations.",
+   "en": "The head of FIFA faces growing opposition from several confederations.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle a suivi son projet, abandonné, d'ouvrir la Coupe du monde à des investisseurs privés.",
+   "en": "That opposition followed his abandoned plan to open the World Cup to private investors.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Monday 31 August",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Carlos Alcaraz returns at the US Open after four months out",
+ "summary_en": [
+  "Carlos Alcaraz returns at the US Open after four months out",
+  "Arthur Fils meets Stefanos Tsitsipas at the US Open"
+ ]
+}

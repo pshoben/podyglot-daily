@@ -3,8 +3,210 @@
  "channel": "daily",
  "dialect": "es-ES",
  "base": "https://pshoben.github.io/podyglot-daily/archive/",
- "archived_before": "2026-08-17",
+ "archived_before": "2026-08-18",
  "episodes": [
+  {
+   "id": "es-ES-El informativo de la mañana, lunes 17 de agosto",
+   "file": "podcast-daily-2026-08-17-morning-news-es-ES.json",
+   "bytes": 12396,
+   "sha256": "aaf37e033ca8736edc171c45acd6a72c9b6ed73f24d8f162acb1baad6244d5e1",
+   "date": "2026-08-17",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, lunes 17 de agosto",
+   "title_en": "The morning news, Monday 17 August",
+   "headline_en": "Trump reduces military exercises with South Korea",
+   "summary_en": [
+    "Trump reduces military exercises with South Korea",
+    "The exercises with Seoul start as planned, with reduced US participation",
+    "Three dead in a shooting in Isla Cristina, Huelva"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, lunes 17 de agosto",
+   "file": "podcast-daily-2026-08-17-morning-weather-es-ES.json",
+   "bytes": 5902,
+   "sha256": "591bb2d0a19fdb35116973ca7275c19457bbd4420467243f0ca7b3341cc824ea",
+   "date": "2026-08-17",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 1,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, lunes 17 de agosto",
+   "title_en": "Today's weather, Monday 17 August",
+   "headline_en": "Madrid 36 degrees, clear, UV 8",
+   "summary_en": [
+    "Madrid 36 degrees, clear, UV 8",
+    "AEMET has yellow warnings in force for storms today from 14:00 to 23:59 in Jaen and Cordob"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, lunes 17 de agosto",
+   "file": "podcast-daily-2026-08-17-morning-weather-andalucia-es-ES.json",
+   "bytes": 4510,
+   "sha256": "b86c54103c52a0f144b7d8e25568200053b9d0e5d372a4320fd85f4b410a0a34",
+   "date": "2026-08-17",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 1,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, lunes 17 de agosto",
+   "title_en": "Today's weather, Andalusia, Monday 17 August",
+   "headline_en": "Cordoba 39 degrees",
+   "summary_en": [
+    "Cordoba 39 degrees",
+    "Seville 37 degrees, 45 per cent chance of storms"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, lunes 17 de agosto",
+   "file": "podcast-daily-2026-08-17-morning-weather-canarias-es-ES.json",
+   "bytes": 4013,
+   "sha256": "ee189032eb407fb78ee30e7544d8e15c435d92ff4199c5533e5a6c9a6b1d5faf",
+   "date": "2026-08-17",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 1,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, lunes 17 de agosto",
+   "title_en": "Today's weather, Canary Islands, Monday 17 August",
+   "headline_en": "Las Palmas 27 degrees, northerly 25",
+   "summary_en": [
+    "Las Palmas 27 degrees, northerly 25",
+    "Santa Cruz de Tenerife 30 degrees, clear"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, lunes 17 de agosto",
+   "file": "podcast-daily-2026-08-17-morning-sport-es-ES.json",
+   "bytes": 5349,
+   "sha256": "154582ee040362e171243c9fa0bc51f9937b734b8a3a93aa265706f9176e1b89",
+   "date": "2026-08-17",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, lunes 17 de agosto",
+   "title_en": "Today's sport, Monday 17 August",
+   "headline_en": "Deportivo against Elche at Riazor tonight, matchday one",
+   "summary_en": [
+    "Deportivo against Elche at Riazor tonight, matchday one",
+    "Deportivo's return to the first division after eight years"
+   ]
+  },
+  {
+   "id": "es-ES-El informativo de la tarde, lunes 17 de agosto",
+   "file": "podcast-daily-2026-08-17-evening-news-es-ES.json",
+   "bytes": 12243,
+   "sha256": "19ac4a29c7f3c0bfed3e52be7c63e953cfec543f92c0ab3735d24b3a9df35dca",
+   "date": "2026-08-17",
+   "edition": "evening",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la tarde, lunes 17 de agosto",
+   "title_en": "The evening news, Monday 17 August",
+   "headline_en": "Morocco deepens military and tech alliance with the US amid the Ceuta crisis",
+   "summary_en": [
+    "Morocco deepens military and tech alliance with the US amid the Ceuta crisis",
+    "Ceuta crisis reveals Morocco's list of grievances towards Spain",
+    "Isla Cristina shooting: a pregnant woman and a minor among the three dead"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, lunes 17 de agosto",
+   "file": "podcast-daily-2026-08-17-evening-weather-es-ES.json",
+   "bytes": 5696,
+   "sha256": "950cf3a229ce17a16f77b5879c0d4cfe3a907827617fd4db3aa3924882b803e1",
+   "date": "2026-08-17",
+   "edition": "evening",
+   "programme": "weather",
+   "programme_order": 1,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, lunes 17 de agosto",
+   "title_en": "The forecast, Monday 17 August",
+   "headline_en": "Predicción AEMET para Madrid (Madrid), 2026-08-18",
+   "summary_en": [
+    "Predicción AEMET para Madrid (Madrid), 2026-08-18",
+    "Predicción AEMET para Madrid (Madrid), 2026-08-19"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, lunes 17 de agosto",
+   "file": "podcast-daily-2026-08-17-evening-weather-andalucia-es-ES.json",
+   "bytes": 5988,
+   "sha256": "888b0b261f37efb1b8cfc3df8d1a6cd6f210c455a9213985607f3cfadf1c2c55",
+   "date": "2026-08-17",
+   "edition": "evening",
+   "programme": "weather-andalucia",
+   "programme_order": 1,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, lunes 17 de agosto",
+   "title_en": "The forecast, Andalusia, Monday 17 August",
+   "headline_en": "Predicción AEMET para Córdoba (Córdoba), 2026-08-18",
+   "summary_en": [
+    "Predicción AEMET para Córdoba (Córdoba), 2026-08-18",
+    "Predicción AEMET para Córdoba (Córdoba), 2026-08-19"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, lunes 17 de agosto",
+   "file": "podcast-daily-2026-08-17-evening-weather-canarias-es-ES.json",
+   "bytes": 5974,
+   "sha256": "5bd6177321496d4ff1b6c1b77e7172fcdebf8e2c1fb9c66ebd7d5e193f8a47c7",
+   "date": "2026-08-17",
+   "edition": "evening",
+   "programme": "weather-canarias",
+   "programme_order": 1,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, lunes 17 de agosto",
+   "title_en": "The forecast, Canary Islands, Monday 17 August",
+   "headline_en": "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-18",
+   "summary_en": [
+    "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-18",
+    "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-19"
+   ]
+  },
+  {
+   "id": "es-ES-Los resultados, lunes 17 de agosto",
+   "file": "podcast-daily-2026-08-17-evening-results-es-ES.json",
+   "bytes": 4945,
+   "sha256": "7f80019ef38676a6bfa5256e141ec379f51a3d70a86c1423699ccbe2344c16d9",
+   "date": "2026-08-17",
+   "edition": "evening",
+   "programme": "results",
+   "programme_order": 3,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los resultados, lunes 17 de agosto",
+   "title_en": "Results, Monday 17 August",
+   "headline_en": "Espanyol against Levante in matchday one of LaLiga",
+   "summary_en": [
+    "Espanyol against Levante in matchday one of LaLiga",
+    "Espanyol against Levante in matchday one of LaLiga"
+   ]
+  },
   {
    "id": "es-ES-Los resultados, domingo 16 de agosto",
    "file": "podcast-daily-2026-08-16-evening-results-es-ES.json",

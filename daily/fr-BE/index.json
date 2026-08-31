@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-BE-Le sept heures, lundi 31 août",
+   "file": "podcast-daily-2026-08-31-morning-news-fr-BE.json",
+   "bytes": 9701,
+   "sha256": "8299235dfd63222582e998e06a3076c4b83213c4ace6e6af54eb4d51a6ef4b06",
+   "date": "2026-08-31",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, lundi 31 août",
+   "title_en": "The morning news, Monday 31 August",
+   "headline_en": "Strikes have resumed between the United States and Iran",
+   "summary_en": [
+    "Strikes have resumed between the United States and Iran",
+    "Belgian fixed energy tariffs are set to rise on Tuesday",
+    "A glacier collapse set off the Nepal and Tibet floods on Wednesday"
+   ]
+  },
+  {
+   "id": "fr-BE-Le sport chez nous, lundi 31 août",
+   "file": "podcast-daily-2026-08-31-morning-sport-fr-BE.json",
+   "bytes": 4125,
+   "sha256": "8c4650ecdabdc2805f95e6cd24fae3ca2854f4faed318930315e0cbfabfdf983",
+   "date": "2026-08-31",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sport chez nous, lundi 31 août",
+   "title_en": "Today's sport, Monday 31 August",
+   "headline_en": "Arthur Theate joins Bologna as the transfer window closes",
+   "summary_en": [
+    "Arthur Theate joins Bologna as the transfer window closes",
+    "The Belgian Cats have finished preparing for the World Cup"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, lundi 31 août",
+   "file": "podcast-daily-2026-08-31-morning-weather-fr-BE.json",
+   "bytes": 5556,
+   "sha256": "f59687a152f2eeccdda0d160128a07c66bcf3e6a5f8282cca3f7874d5e032c65",
+   "date": "2026-08-31",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, lundi 31 août",
+   "title_en": "Today's weather, Monday 31 August",
+   "headline_en": "Rain and wind on the last day of August in Belgium",
+   "summary_en": [
+    "Rain and wind on the last day of August in Belgium",
+    "Monday forecast for Bruxelles, 31st August"
+   ]
+  },
+  {
    "id": "fr-BE-Le sept heures, dimanche 30 août",
    "file": "podcast-daily-2026-08-30-morning-news-fr-BE.json",
    "bytes": 9464,
@@ -612,127 +673,6 @@
    "summary_en": [
     "Prévision pour Bruxelles, mardi 2026-08-18",
     "Prévision pour Liège, mardi 2026-08-18"
-   ]
-  },
-  {
-   "id": "fr-BE-Le sept heures, lundi 17 août",
-   "file": "podcast-daily-2026-08-17-morning-news-fr-BE.json",
-   "bytes": 12621,
-   "sha256": "cf21bb23164277861b4d52d71303b5734f660c74d57f33ca465545e8a72d866b",
-   "date": "2026-08-17",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le sept heures, lundi 17 août",
-   "title_en": "The morning news, Monday 17 August",
-   "headline_en": "The fire in the Landes in France is contained, half the evacuated residents go home",
-   "summary_en": [
-    "The fire in the Landes in France is contained, half the evacuated residents go home",
-    "Rain reaches the Hautes Fagnes fire, and the King visits the firefighters",
-    "Close to three thousand hectares burned since Friday"
-   ]
-  },
-  {
-   "id": "fr-BE-Le temps chez nous, lundi 17 août",
-   "file": "podcast-daily-2026-08-17-morning-weather-fr-BE.json",
-   "bytes": 5939,
-   "sha256": "5cabdf7ad141c10913984a1f94d8dd0e7304f1b9c441fddacdeca4c0989fa2d7",
-   "date": "2026-08-17",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le temps chez nous, lundi 17 août",
-   "title_en": "Today's weather, Monday 17 August",
-   "headline_en": "Cloud, showers and sunny spells today, nineteen to twenty six degrees",
-   "summary_en": [
-    "Cloud, showers and sunny spells today, nineteen to twenty six degrees",
-    "The heat and drought break: seasonal temperatures and rain return"
-   ]
-  },
-  {
-   "id": "fr-BE-Le sport chez nous, lundi 17 août",
-   "file": "podcast-daily-2026-08-17-morning-sport-fr-BE.json",
-   "bytes": 4869,
-   "sha256": "1fccc155797f6f4df331376677e99a858656f89ea3e1a3dc0989c9562de48afe",
-   "date": "2026-08-17",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le sport chez nous, lundi 17 août",
-   "title_en": "Today's sport, Monday 17 August",
-   "headline_en": "The Red Lions play Germany tonight at half past eight in Wavre",
-   "summary_en": [
-    "The Red Lions play Germany tonight at half past eight in Wavre",
-    "The hockey World Cup runs at the Belfius Hockey Arena until the thirtieth"
-   ]
-  },
-  {
-   "id": "fr-BE-Le dix-huit heures, lundi 17 août",
-   "file": "podcast-daily-2026-08-17-evening-news-fr-BE.json",
-   "bytes": 11516,
-   "sha256": "810269f0f555086799be5fbe70147efbc42dbd5bf8f7d20db09b68f20761ea7f",
-   "date": "2026-08-17",
-   "edition": "evening",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le dix-huit heures, lundi 17 août",
-   "title_en": "The evening news, Monday 17 August",
-   "headline_en": "EU foreign policy chief wants a third more Russian entities sanctioned",
-   "summary_en": [
-    "EU foreign policy chief wants a third more Russian entities sanctioned",
-    "Rain in the Fagnes; fire not advancing towards the German border; King visits",
-    "Cafe destroyed by fire on the square at Montigny-le-Tilleul"
-   ]
-  },
-  {
-   "id": "fr-BE-Le temps chez nous, lundi 17 août",
-   "file": "podcast-daily-2026-08-17-evening-weather-fr-BE.json",
-   "bytes": 6648,
-   "sha256": "67dfeaa1219b8eff3a1b3490766da58c4d37393e0e8c9332f6221933891a49a0",
-   "date": "2026-08-17",
-   "edition": "evening",
-   "programme": "weather",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le temps chez nous, lundi 17 août",
-   "title_en": "The forecast, Monday 17 August",
-   "headline_en": "Prévision pour Bruxelles, demain, mardi 2026-08-18",
-   "summary_en": [
-    "Prévision pour Bruxelles, demain, mardi 2026-08-18",
-    "Prévision pour Bruxelles, mercredi 2026-08-19"
-   ]
-  },
-  {
-   "id": "fr-BE-Les scores, lundi 17 août",
-   "file": "podcast-daily-2026-08-17-evening-results-fr-BE.json",
-   "bytes": 3608,
-   "sha256": "a4f3714c35150a205157e4f5c2c4ee03185eae622590df8c224df74ffb5515c5",
-   "date": "2026-08-17",
-   "edition": "evening",
-   "programme": "results",
-   "programme_order": 3,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Les scores, lundi 17 août",
-   "title_en": "Results, Monday 17 August",
-   "headline_en": "The Red Panthers at the home hockey World Cup in Wavre",
-   "summary_en": [
-    "The Red Panthers at the home hockey World Cup in Wavre"
    ]
   }
  ]

@@ -531,67 +531,6 @@
     "Forecast for Santiago, Tuesday 2026-08-18: high 18 degrees, low 5; cloudy sky; 0 per cent",
     "Forecast for Valparaiso, Tuesday 2026-08-18: high 21 degrees, low 9; clear sky; 0 per cent"
    ]
-  },
-  {
-   "id": "es-CL-Las noticias de la mañana, lunes 17 de agosto",
-   "file": "podcast-daily-2026-08-17-morning-news-es-CL.json",
-   "bytes": 13853,
-   "sha256": "f39576079726cfa091a402b91e8363c048aa6747b4d7ff690d4f1ec286789f2e",
-   "date": "2026-08-17",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "es-CL",
-   "region_label": "Chile",
-   "title": "Las noticias de la mañana, lunes 17 de agosto",
-   "title_en": "The morning news, Monday 17 August",
-   "headline_en": "Colombia asks Trump to suspend tariffs after the earthquake",
-   "summary_en": [
-    "Colombia asks Trump to suspend tariffs after the earthquake",
-    "Security reform goes to the Senate as Kast answers UDI reservations",
-    "RN president Balladares joins the reservations about the reform"
-   ]
-  },
-  {
-   "id": "es-CL-El estado del tiempo, lunes 17 de agosto",
-   "file": "podcast-daily-2026-08-17-morning-weather-es-CL.json",
-   "bytes": 4781,
-   "sha256": "366e213a7ba9f5b24115841b16b9440edf4c2d83ed55e4e1b19ce833193e944f",
-   "date": "2026-08-17",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "es-CL",
-   "region_label": "Chile",
-   "title": "El estado del tiempo, lunes 17 de agosto",
-   "title_en": "Today's weather, Monday 17 August",
-   "headline_en": "Santiago: 14 degrees",
-   "summary_en": [
-    "Santiago: 14 degrees",
-    "Valparaíso: 15 degrees"
-   ]
-  },
-  {
-   "id": "es-CL-El estado del tiempo, lunes 17 de agosto",
-   "file": "podcast-daily-2026-08-17-evening-weather-es-CL.json",
-   "bytes": 5792,
-   "sha256": "95269556290b97d83dbb097b8113b62a16d7110521042d2968ee6c6e00b60314",
-   "date": "2026-08-17",
-   "edition": "evening",
-   "programme": "weather",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "es-CL",
-   "region_label": "Chile",
-   "title": "El estado del tiempo, lunes 17 de agosto",
-   "title_en": "The forecast, Monday 17 August",
-   "headline_en": "Previsión para Santiago, mañana, martes 2026-08-18",
-   "summary_en": [
-    "Previsión para Santiago, mañana, martes 2026-08-18",
-    "Previsión para Santiago, miércoles 2026-08-19"
-   ]
   }
  ]
 }

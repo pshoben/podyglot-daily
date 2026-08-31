@@ -1,0 +1,380 @@
+{
+ "title": "Le sept heures, lundi 31 août",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-news",
+   "wpm": 222,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-31",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lundi trente et un août. Le sept heures.",
+   "en": "Monday the thirty-first of August. The seven o'clock news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les frappes ont repris entre les États-Unis et l'Iran, après un mois d'accalmie.",
+   "en": "Strikes have resumed between the United States and Iran, after a month of calm.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Chez nous, le tarif des contrats fixes d'énergie devrait grimper dès demain.",
+   "en": "Here at home, the tariff on fixed energy contracts is expected to rise from tomorrow.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On ouvre avec le Moyen-Orient,",
+   "en": "We start in the Middle East,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où les États-Unis ont frappé et où l'Iran a riposté.",
+   "en": "where the United States struck and Iran hit back.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est le premier échange de frappes depuis un mois dans cette guerre.",
+   "en": "It is the first exchange of strikes in that war for a month.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ailleurs dans l'actu, au Népal et au Tibet,",
+   "en": "In other news, in Nepal and Tibet,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "l'effondrement d'un glacier a provoqué mercredi matin une gigantesque coulée de boue.",
+   "en": "a glacier collapse set off a huge mudslide on Wednesday morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les inondations massives qui ont suivi ont frappé la frontière entre les deux pays.",
+   "en": "The massive flooding that followed hit the border between the two countries.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon l'autorité népalaise chargée des situations d'urgence,",
+   "en": "According to the Nepalese emergency authority,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le bilan provisoire est de neuf cent trois morts.",
+   "en": "the provisional toll is nine hundred and three dead.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La même autorité compte quatre mille deux cent quarante-sept disparus.",
+   "en": "The same authority counts four thousand two hundred and forty-seven people missing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les secours tentent de retrouver de nombreuses personnes, dans des conditions particulièrement périlleuses.",
+   "en": "Rescue teams are trying to find many of them, in very dangerous conditions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On enchaîne, aux États-Unis, une crue soudaine a frappé samedi le parc du Grand Canyon,",
+   "en": "Moving on, in the United States, a flash flood hit the Grand Canyon park on Saturday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans l'ouest du pays.",
+   "en": "in the west of the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les intempéries ont semé le chaos dans ce site naturel réputé.",
+   "en": "The storms caused chaos at that well-known natural site.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon le service des parcs nationaux américains, une quinzaine de personnes sont recherchées.",
+   "en": "The American National Park Service says about fifteen people are being sought.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le service demande au public de fournir des informations à leur sujet.",
+   "en": "The service is asking the public for any information about them.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre dossier maintenant, l'énergie, où les nouvelles grilles tarifaires s'annoncent plus élevées.",
+   "en": "Turning to something else, energy now, where the new price grids are coming in higher.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le tarif des contrats fixes devrait augmenter dès mardi,",
+   "en": "The tariff on fixed contracts is expected to rise from Tuesday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et les consommateurs ont quelques jours pour se protéger.",
+   "en": "and consumers have a few days to protect themselves.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Chez nous toujours, selon le parti flamand Anders,",
+   "en": "Elsewhere, according to the Flemish party «Anders»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la trêve parlementaire estivale ne devrait durer qu'un mois,",
+   "en": "the parliamentary summer recess should last only a month,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de la mi-juillet à la mi-août.",
+   "en": "from mid July to mid August.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour son président, Frédéric De Gucht,",
+   "en": "For its president, «Frédéric De Gucht»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le système actuel est d'un autre âge,",
+   "en": "the present system belongs to another age,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et une rentrée parlementaire à la mi-août serait plus appropriée.",
+   "en": "and a return to parliament in mid August would suit better.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La proposition vient du nord du pays,",
+   "en": "The proposal comes from the north of the country,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et la durée de la pause estivale des élus fait débat.",
+   "en": "and the length of the politicians' summer break is being argued over.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour terminer, l'ancien présentateur de la RTBF André Remy est décédé,",
+   "en": "And finally, the former «RTBF» presenter «André Remy» has died,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à l'âge de quatre-vingt-neuf ans.",
+   "en": "at the age of eighty-nine.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Journaliste sportif et animateur, il était aussi l'auteur du spectacle satirique Sois Belge et tais-toi.",
+   "en": "A sports journalist and presenter, he also wrote the satirical show «Sois Belge et tais-toi».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On lui doit également l'émission Feu vert,",
+   "en": "He presented «Feu vert» too,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et des premières parties de Jacques Brel.",
+   "en": "and opened for «Jacques Brel».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà où nous en sommes.",
+   "en": "That is where we stand.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Monday 31 August",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Strikes have resumed between the United States and Iran",
+ "summary_en": [
+  "Strikes have resumed between the United States and Iran",
+  "Belgian fixed energy tariffs are set to rise on Tuesday",
+  "A glacier collapse set off the Nepal and Tibet floods on Wednesday"
+ ]
+}

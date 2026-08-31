@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-FR",
+ "date": "2026-08-31",
+ "episodes": [
+  {
+   "id": "fr-FR-Le journal du matin, lundi 31 août",
+   "file": "podcast-daily-2026-08-31-morning-news-fr-FR.json",
+   "bytes": 12576,
+   "sha256": "b5388688103e844b8554a2595b9a558ba5c08303f010376c04e1af746bd7d1d8",
+   "date": "2026-08-31",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, lundi 31 août",
+   "title_en": "The morning news, Monday 31 August",
+   "headline_en": "The United States has struck Iran for the first time in a month",
+   "summary_en": [
+    "The United States has struck Iran for the first time in a month",
+    "From 1st September: sick leave capped at 31 days and a higher gas tariff",
+    "Iran says it has hit American military targets in Jordan and the Emirates"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, lundi 31 août",
+   "file": "podcast-daily-2026-08-31-morning-sport-fr-FR.json",
+   "bytes": 4971,
+   "sha256": "fb5fa0e8f675ea6c43811573b80b8ab5851c8ab5ea4a4f590ffc0de154d4e956",
+   "date": "2026-08-31",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, lundi 31 août",
+   "title_en": "Today's sport, Monday 31 August",
+   "headline_en": "Carlos Alcaraz returns at the US Open after four months out",
+   "summary_en": [
+    "Carlos Alcaraz returns at the US Open after four months out",
+    "Arthur Fils meets Stefanos Tsitsipas at the US Open"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, lundi 31 août",
+   "file": "podcast-daily-2026-08-31-morning-weather-fr-FR.json",
+   "bytes": 4982,
+   "sha256": "a57e946430308093c13ae91c92aa8132d58c81259a58fd0ed3142dbc1508dcd0",
+   "date": "2026-08-31",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, lundi 31 août",
+   "title_en": "Today's weather, Monday 31 August",
+   "headline_en": "Monday forecast for Paris, 31st August",
+   "summary_en": [
+    "Monday forecast for Paris, 31st August",
+    "Monday forecast for Bordeaux, 31st August"
+   ]
+  }
+ ],
+ "content": "64a98a7c80135f4e170a5c836616030024ab57d96c8c02247c39092da7dd9f3d",
+ "rev": 1,
+ "updated": "2026-08-31T08:04:18.905Z"
+}

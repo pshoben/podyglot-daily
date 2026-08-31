@@ -1,0 +1,360 @@
+{
+ "title": "El informativo de la mañana, lunes 31 de agosto",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-news",
+   "wpm": 208,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-31",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lunes treinta y uno de agosto.",
+   "en": "Monday the thirty-first of August.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El informativo de la mañana.",
+   "en": "The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Estados Unidos e Irán han intercambiado ataques,",
+   "en": "The United States and Iran have exchanged attacks,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "después de más de un mes sin hacerlo.",
+   "en": "after more than a month without doing so.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en España, centenares de inmigrantes esperan acogida en Ceuta.",
+   "en": "Here in Spain, hundreds of migrants are waiting to be taken in at «Ceuta».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Abrimos con Oriente Próximo, donde Washington bombardeó dos lanzaderas en la isla iraní de Larak.",
+   "en": "We start in the Middle East, where Washington bombed two launchers on the Iranian island of «Larak».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esa isla está en el estrecho de Ormuz,",
+   "en": "That island sits in the strait of Hormuz,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un paso estratégico del golfo Pérsico.",
+   "en": "a strategic passage in the Persian Gulf.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Teherán respondió con misiles sobre Jordania y con drones",
+   "en": "Tehran replied with missiles on Jordan and with drones",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sobre una base aérea en Emiratos Árabes Unidos.",
+   "en": "on an air base in the United Arab Emirates.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Ceuta, esos centenares de inmigrantes se afianzan en la playa del Trampolín.",
+   "en": "At «Ceuta», those hundreds of migrants have settled on the «playa del Trampolín».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La sensación de abandono crece tanto entre los ceutíes como entre los propios migrantes.",
+   "en": "A sense of abandonment is growing among the people of «Ceuta» and among the migrants themselves.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el resto de la actualidad, en Nepal,",
+   "en": "In other news, in Nepal,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "las autoridades han elevado a novecientos tres los muertos de la riada,",
+   "en": "the authorities have raised the flood death toll to nine hundred and three,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según un balance todavía provisional.",
+   "en": "on a count that is still provisional.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese mismo balance cifra en cuatro mil doscientos cuarenta y siete los desaparecidos.",
+   "en": "That same count puts the number missing at four thousand two hundred and forty-seven.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La autoridad nepalí de gestión de desastres calcula que más de novecientos trabajadores de proyectos",
+   "en": "The Nepalese disaster management authority reckons more than nine hundred workers on hydroelectric",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "hidroeléctricos podrían estar atrapados.",
+   "en": "projects may be trapped.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de tema, frente a la costa norte de Chipre,",
+   "en": "Moving on, off the northern coast of Cyprus,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un ferry con doscientas sesenta y siete personas a bordo",
+   "en": "a ferry with two hundred and sixty-seven people aboard",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "volcó y se hundió el domingo.",
+   "en": "capsized and sank on Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cubría la travesía entre Kyrenia y el puerto turco de Tasucu.",
+   "en": "It was on the crossing between «Kyrenia» and the Turkish port of «Tasucu».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según las últimas informaciones oficiales, el balance provisional es de al menos ocho muertos.",
+   "en": "The latest official word puts the provisional toll at eight dead or more.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El capitán y el resto de la tripulación han sido detenidos por las autoridades turcochipriotas.",
+   "en": "The captain and the rest of the crew have been detained by the Turkish Cypriot authorities.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otro asunto, el gigante chino de la moda rápida Shein",
+   "en": "Turning to something else, the Chinese fast fashion giant «Shein»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "saca mañana a bolsa una parte de sus acciones.",
+   "en": "floats part of its shares tomorrow.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aspiraba a arrebatar el trono a Inditex,",
+   "en": "It once aimed to take the crown from «Inditex»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pero su valoración se ha desinflado en los últimos años.",
+   "en": "but its valuation has come down over recent years.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para terminar, el piloto español Álex Palou se coronó el domingo campeón de la IndyCar",
+   "en": "Elsewhere, the Spanish driver «Álex Palou» took his fifth «IndyCar» title",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por quinta vez.",
+   "en": "on Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Son cuatro títulos consecutivos,",
+   "en": "That is four in a row,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y le consolidan entre los grandes de la historia de la categoría.",
+   "en": "and it sets him among the greats in the history of the series.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí lo esencial.",
+   "en": "That is the heart of the news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Monday 31 August",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "The United States and Iran have exchanged attacks for the first time in a month",
+ "summary_en": [
+  "The United States and Iran have exchanged attacks for the first time in a month",
+  "Hundreds of migrants are still waiting to be taken in at Ceuta",
+  "Iran replied with missiles on Jordan and drones on a base in the Emirates"
+ ]
+}

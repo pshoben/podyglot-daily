@@ -1,0 +1,229 @@
+{
+ "title": "Le temps chez nous, lundi 31 août",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-weather",
+   "wpm": 222,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-08-31",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le temps chez nous pour ce lundi,",
+   "en": "The weather here at home for this Monday,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de Bruxelles à Liège et Namur.",
+   "en": "from Brussels to «Liège» and «Namur».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Gare aux averses, le dernier jour d'août ne nous offre pas vraiment de répit.",
+   "en": "Watch out for showers: the last day of August gives us no real let-up.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La pluie et le vent sont au menu de cette journée.",
+   "en": "Rain and wind are what the day has in store.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au-dessus de nos têtes, selon le modèle du Centre européen, l'ECMWF,",
+   "en": "Overhead, on the European Centre model,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Bruxelles connaît de la bruine aujourd'hui.",
+   "en": "the «ECMWF», Brussels has drizzle today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le maximum y atteint dix-neuf degrés.",
+   "en": "The high there reaches nineteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le minimum de la journée est de quinze degrés dans la capitale.",
+   "en": "The low for the day is fifteen degrees in the capital.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de précipitation y est de cent pour cent.",
+   "en": "The chance of rain there is one hundred per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent bruxellois souffle jusqu'à vingt-six kilomètres par heure.",
+   "en": "The Brussels wind blows up to twenty-six kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'une région à l'autre, Liège reçoit de la pluie faible.",
+   "en": "From one region to the next, «Liège» gets light rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le thermomètre y monte lui aussi jusqu'à dix-neuf degrés.",
+   "en": "The thermometer there also climbs to nineteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le minimum liégeois est de seize degrés.",
+   "en": "The «Liège» low is sixteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La pluie y est donnée à cent pour cent elle aussi.",
+   "en": "Rain there is put at one hundred per cent as well.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent atteint trente kilomètres par heure du côté de la Cité ardente.",
+   "en": "The wind reaches thirty kilometres an hour around «Liège».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Namur, des averses, avec dix-neuf degrés au plus haut également.",
+   "en": "At «Namur», showers, with nineteen degrees at the top as well.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le minimum namurois est lui aussi de seize degrés.",
+   "en": "The «Namur» low is also sixteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cent pour cent de probabilité de précipitation également du côté namurois.",
+   "en": "One hundred per cent chance of rain around «Namur» too.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y monte jusqu'à vingt-huit kilomètres par heure.",
+   "en": "The wind there climbs to twenty-eight kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le temps chez nous.",
+   "en": "That is the weather here at home.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Monday 31 August",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Rain and wind on the last day of August in Belgium",
+ "summary_en": [
+  "Rain and wind on the last day of August in Belgium",
+  "Monday forecast for Bruxelles, 31st August"
+ ]
+}

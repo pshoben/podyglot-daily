@@ -2,7 +2,8 @@
  "schema": 1,
  "channel": "daily",
  "dialect": "fr-BE",
- "date": "2026-08-17",
+ "base": "https://pshoben.github.io/podyglot-daily/archive/",
+ "archived_before": "2026-08-18",
  "episodes": [
   {
    "id": "fr-BE-Le sept heures, lundi 17 août",
@@ -125,8 +126,5 @@
     "The Red Panthers at the home hockey World Cup in Wavre"
    ]
   }
- ],
- "content": "d0efbf3742f9fab21656af7c25994449d3df80872d4661388891bbdb7ca8b24a",
- "rev": 2,
- "updated": "2026-08-27T07:22:03.159Z"
+ ]
 }

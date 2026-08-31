@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-BE",
+ "date": "2026-08-31",
+ "episodes": [
+  {
+   "id": "fr-BE-Le sept heures, lundi 31 août",
+   "file": "podcast-daily-2026-08-31-morning-news-fr-BE.json",
+   "bytes": 9701,
+   "sha256": "8299235dfd63222582e998e06a3076c4b83213c4ace6e6af54eb4d51a6ef4b06",
+   "date": "2026-08-31",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, lundi 31 août",
+   "title_en": "The morning news, Monday 31 August",
+   "headline_en": "Strikes have resumed between the United States and Iran",
+   "summary_en": [
+    "Strikes have resumed between the United States and Iran",
+    "Belgian fixed energy tariffs are set to rise on Tuesday",
+    "A glacier collapse set off the Nepal and Tibet floods on Wednesday"
+   ]
+  },
+  {
+   "id": "fr-BE-Le sport chez nous, lundi 31 août",
+   "file": "podcast-daily-2026-08-31-morning-sport-fr-BE.json",
+   "bytes": 4125,
+   "sha256": "8c4650ecdabdc2805f95e6cd24fae3ca2854f4faed318930315e0cbfabfdf983",
+   "date": "2026-08-31",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sport chez nous, lundi 31 août",
+   "title_en": "Today's sport, Monday 31 August",
+   "headline_en": "Arthur Theate joins Bologna as the transfer window closes",
+   "summary_en": [
+    "Arthur Theate joins Bologna as the transfer window closes",
+    "The Belgian Cats have finished preparing for the World Cup"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, lundi 31 août",
+   "file": "podcast-daily-2026-08-31-morning-weather-fr-BE.json",
+   "bytes": 5556,
+   "sha256": "f59687a152f2eeccdda0d160128a07c66bcf3e6a5f8282cca3f7874d5e032c65",
+   "date": "2026-08-31",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, lundi 31 août",
+   "title_en": "Today's weather, Monday 31 August",
+   "headline_en": "Rain and wind on the last day of August in Belgium",
+   "summary_en": [
+    "Rain and wind on the last day of August in Belgium",
+    "Monday forecast for Bruxelles, 31st August"
+   ]
+  }
+ ],
+ "content": "faa36cbc3391413258a209af17d9887d34c85dcb33f22289bdd7f39df89242eb",
+ "rev": 1,
+ "updated": "2026-08-31T08:04:18.905Z"
+}

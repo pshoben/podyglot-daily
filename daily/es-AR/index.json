@@ -611,67 +611,6 @@
     "Forecast for Buenos Aires, Tuesday 2026-08-18: high 12 degrees, low 8; cloudy sky; 4 per c",
     "Forecast for Cordoba, Tuesday 2026-08-18: high 16 degrees, low 8; cloudy sky; 0 per cent c"
    ]
-  },
-  {
-   "id": "es-AR-El noticiero de la mañana, lunes 17 de agosto",
-   "file": "podcast-daily-2026-08-17-morning-news-es-AR.json",
-   "bytes": 12819,
-   "sha256": "ff2a2d32a816bfd794feb94851fe22cddbefcd4f3601725168ee974932035caa",
-   "date": "2026-08-17",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "es-AR",
-   "region_label": "Argentina",
-   "title": "El noticiero de la mañana, lunes 17 de agosto",
-   "title_en": "The morning news, Monday 17 August",
-   "headline_en": "Actress Hayden Panettiere dies at 36",
-   "summary_en": [
-    "Actress Hayden Panettiere dies at 36",
-    "Industry leads formal job losses, report warns of extreme fragility",
-    "Public holiday: how transport and services run today"
-   ]
-  },
-  {
-   "id": "es-AR-El pronóstico, lunes 17 de agosto",
-   "file": "podcast-daily-2026-08-17-morning-weather-es-AR.json",
-   "bytes": 4661,
-   "sha256": "18443627bf7c393aebcc7fe214b62e47c7875ae7e17048010a44e36619f6e77e",
-   "date": "2026-08-17",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "es-AR",
-   "region_label": "Argentina",
-   "title": "El pronóstico, lunes 17 de agosto",
-   "title_en": "Today's weather, Monday 17 August",
-   "headline_en": "Buenos Aires: 14 degrees",
-   "summary_en": [
-    "Buenos Aires: 14 degrees",
-    "Córdoba: 14 degrees"
-   ]
-  },
-  {
-   "id": "es-AR-El pronóstico, lunes 17 de agosto",
-   "file": "podcast-daily-2026-08-17-evening-weather-es-AR.json",
-   "bytes": 6269,
-   "sha256": "f86f4f474f0f1bf5625852612e2c5e914f5de9a83e4db77221686a33fac1816d",
-   "date": "2026-08-17",
-   "edition": "evening",
-   "programme": "weather",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "es-AR",
-   "region_label": "Argentina",
-   "title": "El pronóstico, lunes 17 de agosto",
-   "title_en": "The forecast, Monday 17 August",
-   "headline_en": "Previsión para Buenos Aires, mañana, martes 2026-08-18",
-   "summary_en": [
-    "Previsión para Buenos Aires, mañana, martes 2026-08-18",
-    "Previsión para Buenos Aires, miércoles 2026-08-19"
-   ]
   }
  ]
 }

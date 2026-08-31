@@ -1,0 +1,112 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-ES",
+ "date": "2026-08-31",
+ "episodes": [
+  {
+   "id": "es-ES-El informativo de la mañana, lunes 31 de agosto",
+   "file": "podcast-daily-2026-08-31-morning-news-es-ES.json",
+   "bytes": 9054,
+   "sha256": "7c20a260164d95960816c4bb9f40b1ae5a8e3bd3b764f68ce4133c832aa00854",
+   "date": "2026-08-31",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, lunes 31 de agosto",
+   "title_en": "The morning news, Monday 31 August",
+   "headline_en": "The United States and Iran have exchanged attacks for the first time in a month",
+   "summary_en": [
+    "The United States and Iran have exchanged attacks for the first time in a month",
+    "Hundreds of migrants are still waiting to be taken in at Ceuta",
+    "Iran replied with missiles on Jordan and drones on a base in the Emirates"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, lunes 31 de agosto",
+   "file": "podcast-daily-2026-08-31-morning-sport-es-ES.json",
+   "bytes": 5092,
+   "sha256": "29a18d159a640e92da941128646f9d62dd11d4f6825eb394e16c55bf2c79e7a2",
+   "date": "2026-08-31",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, lunes 31 de agosto",
+   "title_en": "Today's sport, Monday 31 August",
+   "headline_en": "The Spanish transfer window closes on Tuesday night",
+   "summary_en": [
+    "The Spanish transfer window closes on Tuesday night",
+    "Gabriel Jesus joins Barcelona from Arsenal"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, lunes 31 de agosto",
+   "file": "podcast-daily-2026-08-31-morning-weather-es-ES.json",
+   "bytes": 6465,
+   "sha256": "bf927b5e36af005deea4af13cc56f222e068e6da9b3614edd75cfa69c1d1192b",
+   "date": "2026-08-31",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, lunes 31 de agosto",
+   "title_en": "Today's weather, Monday 31 August",
+   "headline_en": "Monday AEMET forecast for Madrid, 31st August",
+   "summary_en": [
+    "Monday AEMET forecast for Madrid, 31st August",
+    "Monday AEMET forecast for Barcelona, 31st August"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, lunes 31 de agosto",
+   "file": "podcast-daily-2026-08-31-morning-weather-andalucia-es-ES.json",
+   "bytes": 3726,
+   "sha256": "f74ecdf7fcac1bf96a23162f7a34e0e393817547c9d84cab10a5ff9a06dd9efa",
+   "date": "2026-08-31",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, lunes 31 de agosto",
+   "title_en": "Today's weather, Andalusia, Monday 31 August",
+   "headline_en": "Monday AEMET forecast for Córdoba, 31st August",
+   "summary_en": [
+    "Monday AEMET forecast for Córdoba, 31st August",
+    "Monday AEMET forecast for Sevilla, 31st August"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, lunes 31 de agosto",
+   "file": "podcast-daily-2026-08-31-morning-weather-canarias-es-ES.json",
+   "bytes": 3763,
+   "sha256": "cef8b421f1eda20b596ac090b953939d953c94fb4b9f35f204238735fcfefb13",
+   "date": "2026-08-31",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, lunes 31 de agosto",
+   "title_en": "Today's weather, Canary Islands, Monday 31 August",
+   "headline_en": "Monday AEMET forecast for Las Palmas de Gran Canaria, 31st August",
+   "summary_en": [
+    "Monday AEMET forecast for Las Palmas de Gran Canaria, 31st August",
+    "Monday AEMET forecast for Santa Cruz de Tenerife, 31st August"
+   ]
+  }
+ ],
+ "content": "4c2391d8ccd3e4f2f874ad1dcd5efe40f8c8e09a1cc815f410346317d9fa94fe",
+ "rev": 1,
+ "updated": "2026-08-31T08:04:18.905Z"
+}

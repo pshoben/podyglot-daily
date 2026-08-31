@@ -1,0 +1,490 @@
+{
+ "title": "Le journal du matin, lundi 31 août",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-08-31",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lundi trente et un août, sept heures à Paris. Le journal du matin.",
+   "en": "Monday the thirty-first of August, seven o'clock in «Paris». The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les États-Unis ont frappé l'Iran, leurs premières frappes en un mois, et Téhéran a riposté.",
+   "en": "The United States has struck Iran, its first strikes in a month, and Tehran has hit back.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, la rentrée s'accompagne d'une série de changements au premier septembre.",
+   "en": "In France, the new school year comes with a set of changes on 1st September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par le Moyen-Orient,",
+   "en": "We start in the Middle East,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où les Américains ont visé dimanche des lanceurs iraniens sur l'île de Larak.",
+   "en": "where the Americans hit Iranian launchers on the island of «Larak» on Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cette île se trouve dans le détroit d'Ormuz,",
+   "en": "That island lies in the strait of Hormuz,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et ces frappes mettent fin à plusieurs semaines d'accalmie.",
+   "en": "and these strikes end several weeks of calm.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Iran a affirmé ce lundi avoir attaqué en représailles des installations militaires américaines",
+   "en": "Iran said on Monday that it had struck back at American military installations",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en Jordanie et aux Émirats arabes unis.",
+   "en": "in Jordan and the United Arab Emirates.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Washington resserre aussi la pression économique,",
+   "en": "Washington is tightening the economic pressure too,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec de nouvelles sanctions annoncées par le secrétaire au Trésor Scott Bessent.",
+   "en": "with new sanctions announced by the Treasury Secretary «Scott Bessent».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les ministres des Finances du G vingt, réunis en Caroline du Nord,",
+   "en": "The G20 finance ministers, meeting in North Carolina,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "font face à la pression américaine pour durcir les sanctions.",
+   "en": "are under American pressure to tighten the sanctions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité, au Népal et au Tibet,",
+   "en": "In other news, in Nepal and Tibet,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les coulées de boue de mercredi ont ravagé des vallées himalayennes.",
+   "en": "Wednesday's mudslides tore through Himalayan valleys.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon des bilans officiels encore provisoires, qui ne concordent pas,",
+   "en": "On official counts that are still provisional,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les inondations ont fait de neuf cent trois à neuf cent dix-neuf morts.",
+   "en": "and that do not agree, the floods have killed between 903 and 919 people.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le nombre de disparus va, selon ces mêmes bilans,",
+   "en": "The number missing runs,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de quatre mille deux cent quarante-sept à près de quatre mille huit cents.",
+   "en": "on those same counts, from 4,247 to nearly 4,800.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cinq jours plus tard, les secouristes travaillent dans des conditions périlleuses,",
+   "en": "Five days on, rescue teams are working in dangerous conditions,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "alors que les eaux montent de nouveau.",
+   "en": "as the water rises again.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, huit cent cinquante mille enseignants font leur rentrée.",
+   "en": "In France, 850,000 teachers are going back to school.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'interdiction du téléphone portable s'étend cette année aux lycées.",
+   "en": "The ban on mobile phones is being extended this year to senior schools.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au premier septembre,",
+   "en": "From 1st September,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la durée des arrêts de travail est plafonnée à trente et un jours.",
+   "en": "sick leave is capped at thirty-one days.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'indemnisation chômage baisse pour les salariés partis par rupture conventionnelle.",
+   "en": "Unemployment cover falls for employees who left their job by mutual agreement.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le tarif repère du gaz augmente de cinq virgule six pour cent,",
+   "en": "The benchmark gas price rises by 5.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour près de six millions de foyers.",
+   "en": "6 per cent, for nearly six million households.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À la même date, la facturation électronique devient obligatoire pour les entreprises.",
+   "en": "On the same date, electronic invoicing becomes compulsory for businesses.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Toujours en France, Olivier Faure a annoncé dimanche soir,",
+   "en": "Moving on, «Olivier Faure» announced on Sunday evening,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "au journal de vingt heures de TF un,",
+   "en": "on the «TF1» eight o'clock news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sa candidature à la primaire socialiste.",
+   "en": "that he is standing in the Socialist primary.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce scrutin est prévu en octobre,",
+   "en": "That vote is due in October,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le premier secrétaire du Parti socialiste y affrontera notamment l'eurodéputé Raphaël Glucksmann.",
+   "en": "and the Socialist Party's first secretary will face the European MP «Raphaël Glucksmann».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à autre chose, Sébastien Lecornu réunit ce lundi son gouvernement au grand complet,",
+   "en": "Turning to something else, «Sébastien Lecornu» is gathering his full government on Monday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en séminaire, pour préparer le budget deux mille vingt-sept.",
+   "en": "in a seminar, to prepare the 2027 budget.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce budget est menacé par les déficits et par le risque d'une censure au Parlement.",
+   "en": "That budget is threatened by deficits and by the risk of a censure motion in Parliament.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre sujet maintenant, dans le Pas-de-Calais, un adolescent de quatorze ans est mort dimanche soir,",
+   "en": "Elsewhere, in the «Pas-de-Calais», a boy of fourteen died on Sunday evening,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "percuté par un TER à un passage à niveau.",
+   "en": "hit by a regional train at a level crossing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'accident s'est produit à Rœux,",
+   "en": "The accident happened at «Rœux»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le jeune homme faisait partie d'un groupe de quatre jeunes qui se trouvaient près des voies.",
+   "en": "and he was one of a group of four young people who were near the tracks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour finir, le nageur Léon Marchand était l'invité du journal de vingt heures de France",
+   "en": "And finally, the swimmer «Léon Marchand» was the guest of the «France 2» eight o'clock news",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "deux, dimanche soir.",
+   "en": "on Sunday evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il y a parlé de son documentaire,",
+   "en": "He talked there about his documentary,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et a expliqué pourquoi il se tient pour l'instant à l'écart des prises de position politiques.",
+   "en": "and explained why he is keeping out of politics for now.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Monday 31 August",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "The United States has struck Iran for the first time in a month",
+ "summary_en": [
+  "The United States has struck Iran for the first time in a month",
+  "From 1st September: sick leave capped at 31 days and a higher gas tariff",
+  "Iran says it has hit American military targets in Jordan and the Emirates"
+ ]
+}

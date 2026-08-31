@@ -1,0 +1,169 @@
+{
+ "title": "Le sport chez nous, lundi 31 août",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-sport",
+   "wpm": 222,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-08-31",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le sport chez nous, ce lundi matin.",
+   "en": "Sport here at home, this Monday morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Du côté des clubs, le mercato entre dans ses tout derniers jours.",
+   "en": "Around the clubs, the transfer window is in its very last days.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Arthur Theate est arrivé à Bologne,",
+   "en": "«Arthur Theate» has arrived at Bologna,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et trois autres Diables rouges agitent cette fin de marché.",
+   "en": "and three other Belgium internationals are busy in the last of the window.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Fernandez-Pardo, Fofana et Raskin sont cités du côté de la Premier League.",
+   "en": "«Fernandez-Pardo», «Fofana» and «Raskin» are being linked with the Premier League.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce qui nous attend ensuite, du basket,",
+   "en": "Next up, basketball,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où les Belgian Cats ont bouclé leur préparation à Ostende, face au Japon.",
+   "en": "where the «Belgian Cats» have finished their preparation at Ostend, against Japan.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elles abordent maintenant la Coupe du monde féminine.",
+   "en": "They now go into the women's World Cup.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Enfin, le football international, où le patron de la FIFA, Gianni Infantino, doit partir.",
+   "en": "Finally, international football, where the head of FIFA, «Gianni Infantino», must go.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est ce qu'a estimé dimanche Michel Platini,",
+   "en": "That is what «Michel Platini» said on Sunday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sur la chaîne française Canal Plus.",
+   "en": "on the French channel «Canal Plus».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour l'ancien président de l'UEFA,",
+   "en": "For the former president of UEFA,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Gianni Infantino n'a pas respecté les règles du sport.",
+   "en": "«Gianni Infantino» has not respected the rules of the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport belge.",
+   "en": "That is Belgian sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Monday 31 August",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Arthur Theate joins Bologna as the transfer window closes",
+ "summary_en": [
+  "Arthur Theate joins Bologna as the transfer window closes",
+  "The Belgian Cats have finished preparing for the World Cup"
+ ]
+}

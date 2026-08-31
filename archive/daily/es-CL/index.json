@@ -2,7 +2,8 @@
  "schema": 1,
  "channel": "daily",
  "dialect": "es-CL",
- "date": "2026-08-17",
+ "base": "https://pshoben.github.io/podyglot-daily/archive/",
+ "archived_before": "2026-08-18",
  "episodes": [
   {
    "id": "es-CL-Las noticias de la mañana, lunes 17 de agosto",
@@ -65,8 +66,5 @@
     "Previsión para Santiago, miércoles 2026-08-19"
    ]
   }
- ],
- "content": "ea8c5a9747fc2fc6cbdc2c8b6b363517717da2ef4d4fc571ec2c47758c8cad2e",
- "rev": 1,
- "updated": "2026-08-20T07:49:48.488Z"
+ ]
 }
