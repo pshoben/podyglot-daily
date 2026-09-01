@@ -3,8 +3,68 @@
  "channel": "daily",
  "dialect": "es-AR",
  "base": "https://pshoben.github.io/podyglot-daily/archive/",
- "archived_before": "2026-08-18",
+ "archived_before": "2026-08-19",
  "episodes": [
+  {
+   "id": "es-AR-El noticiero de la mañana, martes 18 de agosto",
+   "file": "podcast-daily-2026-08-18-morning-news-es-AR.json",
+   "bytes": 12885,
+   "sha256": "d874f6812060ef686257aa02f86ea6ae9e8af931e5c415e7ea80debfd6019764",
+   "date": "2026-08-18",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El noticiero de la mañana, martes 18 de agosto",
+   "title_en": "The morning news, Tuesday 18 August",
+   "headline_en": "Fernando Cerimedo, a political consultant and former adviser to Milei, was detained in Bol",
+   "summary_en": [
+    "Fernando Cerimedo, a political consultant and former adviser to Milei, was detained in Bol",
+    "Javier Milei declared military secrecy over the Air Force weapons system, by Decree 735 of",
+    "A group of protesters dressed as Gandalf demonstrated against Peter Thiel outside his hous"
+   ]
+  },
+  {
+   "id": "es-AR-El deporte, martes 18 de agosto",
+   "file": "podcast-daily-2026-08-18-morning-sport-es-AR.json",
+   "bytes": 4338,
+   "sha256": "a0383ac63409aa098308f937cb6bfabe701dc9ed7c87814ac9af0c6d8cca6987",
+   "date": "2026-08-18",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El deporte, martes 18 de agosto",
+   "title_en": "Today's sport, Tuesday 18 August",
+   "headline_en": "Los Leones, the Argentine hockey side, face the Netherlands on Tuesday at 13:00 Argentine",
+   "summary_en": [
+    "Los Leones, the Argentine hockey side, face the Netherlands on Tuesday at 13:00 Argentine"
+   ]
+  },
+  {
+   "id": "es-AR-El pronóstico, martes 18 de agosto",
+   "file": "podcast-daily-2026-08-18-morning-weather-es-AR.json",
+   "bytes": 4962,
+   "sha256": "b415db640479b72ce445876bb95d3c115356db11a09f12fede50076ae574ebce",
+   "date": "2026-08-18",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El pronóstico, martes 18 de agosto",
+   "title_en": "Today's weather, Tuesday 18 August",
+   "headline_en": "Forecast for Buenos Aires, Tuesday 2026-08-18: high 12 degrees, low 8; cloudy sky; 4 per c",
+   "summary_en": [
+    "Forecast for Buenos Aires, Tuesday 2026-08-18: high 12 degrees, low 8; cloudy sky; 4 per c",
+    "Forecast for Cordoba, Tuesday 2026-08-18: high 16 degrees, low 8; cloudy sky; 0 per cent c"
+   ]
+  },
   {
    "id": "es-AR-El noticiero de la mañana, lunes 17 de agosto",
    "file": "podcast-daily-2026-08-17-morning-news-es-AR.json",

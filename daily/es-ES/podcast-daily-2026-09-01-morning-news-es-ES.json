@@ -1,0 +1,320 @@
+{
+ "title": "El informativo de la mañana, martes 1 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-news",
+   "wpm": 208,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-01",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Martes uno de septiembre, siete de la mañana en Madrid.",
+   "en": "Tuesday the first of September, seven in the morning in «Madrid».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El informativo de la mañana.",
+   "en": "The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El secretario del Ejército de Estados Unidos, Dan Driscoll, ha presentado su renuncia.",
+   "en": "The Secretary of the US Army, «Dan Driscoll», has resigned.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pedro Sánchez ha prometido una visita del Rey a Ceuta cuando se supere la crisis.",
+   "en": "«Pedro Sánchez» has promised a visit by the King to «Ceuta» once the crisis is over.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Abrimos con Washington, donde el máximo cargo civil del Ejército llevaba meses enfrentado con el",
+   "en": "We start in Washington, where the Army's most senior civilian had been at odds for months",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "secretario de Defensa, Pete Hegseth.",
+   "en": "with the Defense Secretary, «Pete Hegseth».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Driscoll había criticado abiertamente los despidos en la cúpula de las Fuerzas Armadas.",
+   "en": "«Driscoll» had openly criticised the sackings at the top of the armed forces.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos en España, el presidente ha situado esa visita para cuando se den las circunstancias,",
+   "en": "Back in Spain, the Prime Minister has put that visit at whenever the circumstances allow,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y ha admitido que habrá que coordinarla con el Gobierno.",
+   "en": "and accepted that it will have to be arranged with the Government.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ceuta ultima nuevas plazas de acogida,",
+   "en": "«Ceuta» is finishing off new reception places,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y las cifras que se manejan no coinciden.",
+   "en": "and the figures in circulation do not match.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según el Gobierno son seis mil camas,",
+   "en": "The Government puts it at six thousand beds,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para no trasladar a nadie a la península,",
+   "en": "so that nobody has to be moved to the mainland,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la ciudad autónoma habla ya de plazas para diez mil personas.",
+   "en": "while the city itself now talks of places for ten thousand people.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el resto de la actualidad, una mujer apuñaló a dos personas en Times Square,",
+   "en": "In other news, a woman stabbed two people in Times Square,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en Nueva York, y murió después por disparos de la policía.",
+   "en": "in New York, and was then shot dead by police.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Una de las dos víctimas murió a consecuencia de las heridas,",
+   "en": "One of the two victims died of her injuries,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la otra está estable.",
+   "en": "and the other is stable.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La policía neoyorquina conocía a la presunta autora por su historial de enfermedad mental.",
+   "en": "New York police knew the suspected attacker from a history of mental illness.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de tema, un jurado popular de Nevada ha encontrado culpable a Duane Davis del",
+   "en": "Moving on, a jury in Nevada has found «Duane Davis» guilty of the murder",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "asesinato del rapero Tupac Shakur.",
+   "en": "of the rapper «Tupac Shakur».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Al antiguo líder de una pandilla de Los Ángeles se le acusó de ordenar el",
+   "en": "The former leader of a Los Angeles gang was accused",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "asesinato del artista en septiembre de mil novecientos noventa y seis.",
+   "en": "of ordering the killing in September 1996.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Corresponde ahora al juez fijar la pena definitiva.",
+   "en": "It is now for the judge to set the final sentence.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para terminar, el Ministerio de Cultura se ha puesto en guardia ante la oleada de",
+   "en": "And finally, the Culture Ministry has gone on alert over the wave of",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "robos en museos.",
+   "en": "thefts from museums.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La policía ha pedido a las comunidades los datos de las instituciones con objetos de",
+   "en": "Police have asked the regions for details of the institutions holding gold,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "oro, plata o piedras preciosas.",
+   "en": "silver or precious stones.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí lo esencial.",
+   "en": "And those are the main stories this morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 1 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "The US Army Secretary has resigned",
+ "summary_en": [
+  "The US Army Secretary has resigned",
+  "Sanchez promises a royal visit to Ceuta once the crisis is over",
+  "New reception places in Ceuta, and the figures do not match"
+ ]
+}

@@ -5,6 +5,107 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-ES-El informativo de la mañana, martes 1 de septiembre",
+   "file": "podcast-daily-2026-09-01-morning-news-es-ES.json",
+   "bytes": 8053,
+   "sha256": "b66a62ade19b39f59b25bf005c6d0156271dd1cc1c12f922bd62d9c0b2a3d98c",
+   "date": "2026-09-01",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, martes 1 de septiembre",
+   "title_en": "The morning news, Tuesday 1 September",
+   "headline_en": "The US Army Secretary has resigned",
+   "summary_en": [
+    "The US Army Secretary has resigned",
+    "Sanchez promises a royal visit to Ceuta once the crisis is over",
+    "New reception places in Ceuta, and the figures do not match"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, martes 1 de septiembre",
+   "file": "podcast-daily-2026-09-01-morning-sport-es-ES.json",
+   "bytes": 4311,
+   "sha256": "a9a28411c8513cfc5196cd7e6f250b4d9e4c7dc6ce0619eaf3e79c8a370d9edd",
+   "date": "2026-09-01",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, martes 1 de septiembre",
+   "title_en": "Today's sport, Tuesday 1 September",
+   "headline_en": "Deadline day in the Spanish transfer market",
+   "summary_en": [
+    "Deadline day in the Spanish transfer market",
+    "Robert Moreno takes charge of South Korea"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, martes 1 de septiembre",
+   "file": "podcast-daily-2026-09-01-morning-weather-es-ES.json",
+   "bytes": 6342,
+   "sha256": "27b2161d68bb8d7996ae218aa7f3606922ac63cf8155074129b618bccc7e1685",
+   "date": "2026-09-01",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, martes 1 de septiembre",
+   "title_en": "Today's weather, Tuesday 1 September",
+   "headline_en": "Tuesday AEMET forecast for València, 1st September",
+   "summary_en": [
+    "Tuesday AEMET forecast for València, 1st September",
+    "Tuesday AEMET forecast for Madrid, 1st September"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, martes 1 de septiembre",
+   "file": "podcast-daily-2026-09-01-morning-weather-andalucia-es-ES.json",
+   "bytes": 4912,
+   "sha256": "980941fdb60b5755735f739a98734f4c345de11be76c643170f3027ee4ff1a91",
+   "date": "2026-09-01",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, martes 1 de septiembre",
+   "title_en": "Today's weather, Andalusia, Tuesday 1 September",
+   "headline_en": "Tuesday AEMET forecast for Córdoba, 1st September",
+   "summary_en": [
+    "Tuesday AEMET forecast for Córdoba, 1st September",
+    "Tuesday AEMET forecast for Sevilla, 1st September"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, martes 1 de septiembre",
+   "file": "podcast-daily-2026-09-01-morning-weather-canarias-es-ES.json",
+   "bytes": 4255,
+   "sha256": "7b9728f8b7b6e028655b41bebf4aca5438e1400d4c889ed3480aec56f97c0f34",
+   "date": "2026-09-01",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, martes 1 de septiembre",
+   "title_en": "Today's weather, Canary Islands, Tuesday 1 September",
+   "headline_en": "Tuesday AEMET forecast for Las Palmas de Gran Canaria, 1st September",
+   "summary_en": [
+    "Tuesday AEMET forecast for Las Palmas de Gran Canaria, 1st September",
+    "Tuesday AEMET forecast for Santa Cruz de Tenerife, 1st September"
+   ]
+  },
+  {
    "id": "es-ES-El informativo de la mañana, lunes 31 de agosto",
    "file": "podcast-daily-2026-08-31-morning-news-es-ES.json",
    "bytes": 9054,
@@ -1352,86 +1453,6 @@
    "headline_en": "Atletico de Madrid against Malaga in the Liga",
    "summary_en": [
     "Atletico de Madrid against Malaga in the Liga"
-   ]
-  },
-  {
-   "id": "es-ES-El informativo de la mañana, martes 18 de agosto",
-   "file": "podcast-daily-2026-08-18-morning-news-es-ES.json",
-   "bytes": 12346,
-   "sha256": "c970d38a07af2c2445451e8c03c4d0311eb1a493b4404853fb691647d1be5a80",
-   "date": "2026-08-18",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El informativo de la mañana, martes 18 de agosto",
-   "title_en": "The morning news, Tuesday 18 August",
-   "headline_en": "La Moncloa and Ceuta have agreed on spaces to steer the humanitarian crisis, while the PP",
-   "summary_en": [
-    "La Moncloa and Ceuta have agreed on spaces to steer the humanitarian crisis, while the PP",
-    "The biggest trial in the history of Meta has begun in California over addiction to social"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo, martes 18 de agosto",
-   "file": "podcast-daily-2026-08-18-morning-weather-es-ES.json",
-   "bytes": 5178,
-   "sha256": "71f8a28a1f2958cb8e623495a9d6552b91185452d331e16d189b0f6516641ceb",
-   "date": "2026-08-18",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": 0,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo, martes 18 de agosto",
-   "title_en": "Today's weather, Tuesday 18 August",
-   "headline_en": "Predicción AEMET para Madrid (Madrid), 2026-08-18",
-   "summary_en": [
-    "Predicción AEMET para Madrid (Madrid), 2026-08-18",
-    "Predicción AEMET para Sevilla (Sevilla), 2026-08-18"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo en Andalucía, martes 18 de agosto",
-   "file": "podcast-daily-2026-08-18-morning-weather-andalucia-es-ES.json",
-   "bytes": 4871,
-   "sha256": "975713ca1e806f93fd4cf8480c8fa1379500283ab2e972d7a3f4e2d698a1c69f",
-   "date": "2026-08-18",
-   "edition": "morning",
-   "programme": "weather-andalucia",
-   "programme_order": 3,
-   "segment_order": 1,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo en Andalucía, martes 18 de agosto",
-   "title_en": "Today's weather, Andalusia, Tuesday 18 August",
-   "headline_en": "Predicción AEMET para Córdoba (Córdoba), 2026-08-18",
-   "summary_en": [
-    "Predicción AEMET para Córdoba (Córdoba), 2026-08-18",
-    "Predicción AEMET para Sevilla (Sevilla), 2026-08-18"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo en Canarias, martes 18 de agosto",
-   "file": "podcast-daily-2026-08-18-morning-weather-canarias-es-ES.json",
-   "bytes": 4589,
-   "sha256": "73a69987eb02eb2a36f590f523c7b47e96b19ed2fddedb44ab981f8077ecc58e",
-   "date": "2026-08-18",
-   "edition": "morning",
-   "programme": "weather-canarias",
-   "programme_order": 4,
-   "segment_order": 2,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo en Canarias, martes 18 de agosto",
-   "title_en": "Today's weather, Canary Islands, Tuesday 18 August",
-   "headline_en": "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-18",
-   "summary_en": [
-    "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-18",
-    "Predicción AEMET para Santa Cruz de Tenerife (Santa Cruz de Tenerife (Tenerife)), 2026-08-18"
    ]
   }
  ]

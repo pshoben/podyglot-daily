@@ -1,0 +1,179 @@
+{
+ "title": "Le sport, mardi premier septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-01",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le sport, ce mardi matin.",
+   "en": "Sport, this Tuesday morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au programme, la dernière journée du mercato estival.",
+   "en": "Coming up, the last day of the summer transfer window.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le marché des transferts ferme ce mardi en France.",
+   "en": "The transfer market closes on Tuesday in France.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sur les terrains internationaux, Lionel Messi a mis un terme lundi à sa carrière avec",
+   "en": "On the international scene, «Lionel Messi» ended his career with the Argentina",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la sélection argentine.",
+   "en": "squad on Monday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'attaquant de trente-neuf ans s'arrête à deux cent sept sélections,",
+   "en": "The thirty-nine year old forward stops at two hundred and seven caps,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "vingt et un ans après ses débuts internationaux.",
+   "en": "twenty-one years after his first international.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À suivre aussi, la contestation qui vise le président de la FIFA, Gianni Infantino.",
+   "en": "Also in the diary, the challenge facing the «FIFA» president, «Gianni Infantino».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le projet, abandonné, d'ouvrir la Coupe du monde à des investisseurs privés en a été",
+   "en": "The abandoned plan to open the World Cup to private investors is",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le point de départ.",
+   "en": "where it started.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Joshua Kushner, principal investisseur de ce projet,",
+   "en": "«Joshua Kushner», the main investor behind that plan,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "s'est exprimé pour la première fois sur la controverse.",
+   "en": "has spoken about the row for the first time.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a déclaré qu'il ne se serait pas engagé s'il avait mesuré l'ampleur des réactions.",
+   "en": "He said he would not have got involved had he known how big the reaction would be.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a ajouté qu'il soutenait les motivations du projet.",
+   "en": "He added that he still backs what the project set out to do.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Tuesday 1 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "The summer transfer window closes in France on Tuesday",
+ "summary_en": [
+  "The summer transfer window closes in France on Tuesday",
+  "Lionel Messi retires from international football"
+ ]
+}

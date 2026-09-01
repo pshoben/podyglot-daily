@@ -1,0 +1,199 @@
+{
+ "title": "Le temps chez nous, mardi premier septembre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-weather",
+   "wpm": 222,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-01",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le temps chez nous pour ce mardi,",
+   "en": "The weather here at home for this Tuesday,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de Bruxelles à Liège et Namur.",
+   "en": "from Brussels to «Liège» and «Namur».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au-dessus de nos têtes, selon le modèle du Centre européen, l'ECMWF,",
+   "en": "Above our heads, on the European Centre model, the ECMWF,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de la bruine est attendue sur la capitale aujourd'hui.",
+   "en": "drizzle is expected over the capital today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le maximum bruxellois est de vingt et un degrés, et le minimum de quatorze.",
+   "en": "The Brussels high is twenty-one degrees, and the low fourteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de précipitation y atteint soixante-huit pour cent.",
+   "en": "The chance of rain there reaches sixty-eight per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent ne dépasse pas treize kilomètres par heure dans la capitale.",
+   "en": "The wind does not go above thirteen kilometres an hour in the capital.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'une région à l'autre, Liège reçoit elle aussi de la bruine.",
+   "en": "From one part of the country to another, «Liège» gets drizzle as well.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le thermomètre liégeois évolue également entre quatorze et vingt et un degrés.",
+   "en": "The temperature there also runs between fourteen and twenty-one degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité y descend un peu, à soixante-trois pour cent.",
+   "en": "The chance drops a little there, to sixty-three per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y souffle un peu plus fort,",
+   "en": "The wind blows a bit harder,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec seize kilomètres par heure.",
+   "en": "at sixteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Namur, le ciel reste simplement couvert.",
+   "en": "In «Namur», the sky simply stays overcast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les températures namuroises vont, elles aussi, de quatorze à vingt et un degrés.",
+   "en": "Temperatures there also run from fourteen to twenty-one degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de précipitation n'y est que de vingt pour cent.",
+   "en": "The chance of rain there is only twenty per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent namurois monte jusqu'à quinze kilomètres par heure.",
+   "en": "The «Namur» wind gets up to fifteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le temps chez nous.",
+   "en": "That is the weather here at home.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Tuesday 1 September",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Tuesday forecast for Bruxelles, 1st September",
+ "summary_en": [
+  "Tuesday forecast for Bruxelles, 1st September",
+  "Tuesday forecast for Liège, 1st September"
+ ]
+}

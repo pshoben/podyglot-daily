@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-FR",
+ "date": "2026-09-01",
+ "episodes": [
+  {
+   "id": "fr-FR-Le journal du matin, mardi premier septembre",
+   "file": "podcast-daily-2026-09-01-morning-news-fr-FR.json",
+   "bytes": 8697,
+   "sha256": "59f43b7d44b77799eda8095132d7a2f72fc36360acb1bd75bb3f2d165b61f5a1",
+   "date": "2026-09-01",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, mardi premier septembre",
+   "title_en": "The morning news, Tuesday 1 September",
+   "headline_en": "The Himalayan flood toll passes a thousand dead",
+   "summary_en": [
+    "The Himalayan flood toll passes a thousand dead",
+    "Former Prime Minister Edouard Balladur has died at 97",
+    "More than four thousand people are still missing in the Himalaya"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, mardi premier septembre",
+   "file": "podcast-daily-2026-09-01-morning-sport-fr-FR.json",
+   "bytes": 4363,
+   "sha256": "0e97957cfbb0437d212a4a80f8d7096110f4047db912001bfba3fff0eeacf1cc",
+   "date": "2026-09-01",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, mardi premier septembre",
+   "title_en": "Today's sport, Tuesday 1 September",
+   "headline_en": "The summer transfer window closes in France on Tuesday",
+   "summary_en": [
+    "The summer transfer window closes in France on Tuesday",
+    "Lionel Messi retires from international football"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, mardi premier septembre",
+   "file": "podcast-daily-2026-09-01-morning-weather-fr-FR.json",
+   "bytes": 4660,
+   "sha256": "40535809184bf889a942d3e5b26615026b16714f026ac7b0a2f6d83829ba4694",
+   "date": "2026-09-01",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, mardi premier septembre",
+   "title_en": "Today's weather, Tuesday 1 September",
+   "headline_en": "Tuesday forecast for Paris, 1st September",
+   "summary_en": [
+    "Tuesday forecast for Paris, 1st September",
+    "Tuesday forecast for Bordeaux, 1st September"
+   ]
+  }
+ ],
+ "content": "ff687c7778f9880354bc27656d8c5272318bb92e73dede1a9e9527d7a36a85d0",
+ "rev": 1,
+ "updated": "2026-09-01T08:31:47.617Z"
+}

@@ -3,8 +3,88 @@
  "channel": "daily",
  "dialect": "es-ES",
  "base": "https://pshoben.github.io/podyglot-daily/archive/",
- "archived_before": "2026-08-18",
+ "archived_before": "2026-08-19",
  "episodes": [
+  {
+   "id": "es-ES-El informativo de la mañana, martes 18 de agosto",
+   "file": "podcast-daily-2026-08-18-morning-news-es-ES.json",
+   "bytes": 12346,
+   "sha256": "c970d38a07af2c2445451e8c03c4d0311eb1a493b4404853fb691647d1be5a80",
+   "date": "2026-08-18",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, martes 18 de agosto",
+   "title_en": "The morning news, Tuesday 18 August",
+   "headline_en": "La Moncloa and Ceuta have agreed on spaces to steer the humanitarian crisis, while the PP",
+   "summary_en": [
+    "La Moncloa and Ceuta have agreed on spaces to steer the humanitarian crisis, while the PP",
+    "The biggest trial in the history of Meta has begun in California over addiction to social"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, martes 18 de agosto",
+   "file": "podcast-daily-2026-08-18-morning-weather-es-ES.json",
+   "bytes": 5178,
+   "sha256": "71f8a28a1f2958cb8e623495a9d6552b91185452d331e16d189b0f6516641ceb",
+   "date": "2026-08-18",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, martes 18 de agosto",
+   "title_en": "Today's weather, Tuesday 18 August",
+   "headline_en": "Predicción AEMET para Madrid (Madrid), 2026-08-18",
+   "summary_en": [
+    "Predicción AEMET para Madrid (Madrid), 2026-08-18",
+    "Predicción AEMET para Sevilla (Sevilla), 2026-08-18"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, martes 18 de agosto",
+   "file": "podcast-daily-2026-08-18-morning-weather-andalucia-es-ES.json",
+   "bytes": 4871,
+   "sha256": "975713ca1e806f93fd4cf8480c8fa1379500283ab2e972d7a3f4e2d698a1c69f",
+   "date": "2026-08-18",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, martes 18 de agosto",
+   "title_en": "Today's weather, Andalusia, Tuesday 18 August",
+   "headline_en": "Predicción AEMET para Córdoba (Córdoba), 2026-08-18",
+   "summary_en": [
+    "Predicción AEMET para Córdoba (Córdoba), 2026-08-18",
+    "Predicción AEMET para Sevilla (Sevilla), 2026-08-18"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, martes 18 de agosto",
+   "file": "podcast-daily-2026-08-18-morning-weather-canarias-es-ES.json",
+   "bytes": 4589,
+   "sha256": "73a69987eb02eb2a36f590f523c7b47e96b19ed2fddedb44ab981f8077ecc58e",
+   "date": "2026-08-18",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, martes 18 de agosto",
+   "title_en": "Today's weather, Canary Islands, Tuesday 18 August",
+   "headline_en": "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-18",
+   "summary_en": [
+    "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-18",
+    "Predicción AEMET para Santa Cruz de Tenerife (Santa Cruz de Tenerife (Tenerife)), 2026-08-18"
+   ]
+  },
   {
    "id": "es-ES-El informativo de la mañana, lunes 17 de agosto",
    "file": "podcast-daily-2026-08-17-morning-news-es-ES.json",

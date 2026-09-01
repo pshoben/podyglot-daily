@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-BE",
+ "date": "2026-09-01",
+ "episodes": [
+  {
+   "id": "fr-BE-Le sept heures, mardi premier septembre",
+   "file": "podcast-daily-2026-09-01-morning-news-fr-BE.json",
+   "bytes": 8676,
+   "sha256": "60b8d3eb1886320198e8f5d3f2d1b88fd93b0e6fcbeb43033964c9d0f65bb4e2",
+   "date": "2026-09-01",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, mardi premier septembre",
+   "title_en": "The morning news, Tuesday 1 September",
+   "headline_en": "The Himalayan flood toll passes a thousand dead",
+   "summary_en": [
+    "The Himalayan flood toll passes a thousand dead",
+    "Belgium's new Penal Code comes into force",
+    "More than four thousand people are still missing in the Himalaya"
+   ]
+  },
+  {
+   "id": "fr-BE-Le sport chez nous, mardi premier septembre",
+   "file": "podcast-daily-2026-09-01-morning-sport-fr-BE.json",
+   "bytes": 3997,
+   "sha256": "a02f01052746c388ac795fc460c5449b0c96d7cbce8fd0b48fcc271cac5eebe0",
+   "date": "2026-09-01",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sport chez nous, mardi premier septembre",
+   "title_en": "Today's sport, Tuesday 1 September",
+   "headline_en": "The summer transfer window closes in the biggest leagues",
+   "summary_en": [
+    "The summer transfer window closes in the biggest leagues",
+    "The Vuelta rides its tenth stage on Tuesday"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, mardi premier septembre",
+   "file": "podcast-daily-2026-09-01-morning-weather-fr-BE.json",
+   "bytes": 4881,
+   "sha256": "d596ce92f11ebeff1fbcd50e2db1e6c6f026f16659e0ffb2e44642809870d412",
+   "date": "2026-09-01",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, mardi premier septembre",
+   "title_en": "Today's weather, Tuesday 1 September",
+   "headline_en": "Tuesday forecast for Bruxelles, 1st September",
+   "summary_en": [
+    "Tuesday forecast for Bruxelles, 1st September",
+    "Tuesday forecast for Liège, 1st September"
+   ]
+  }
+ ],
+ "content": "4a7ded093a079fda90f0b3b52eae38777e0ed5b31ec7298fe371a90ba2c8bdf4",
+ "rev": 1,
+ "updated": "2026-09-01T08:31:47.617Z"
+}

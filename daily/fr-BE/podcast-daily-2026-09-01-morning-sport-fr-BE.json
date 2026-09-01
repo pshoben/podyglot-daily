@@ -1,0 +1,159 @@
+{
+ "title": "Le sport chez nous, mardi premier septembre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-sport",
+   "wpm": 222,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-01",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le sport chez nous, ce mardi matin.",
+   "en": "Sport here at home, this Tuesday morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Du côté des clubs, c'est le dernier jour du mercato estival.",
+   "en": "Over at the clubs, it is the last day of the summer transfer window.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le marché des transferts s'achève ce mardi dans les plus grands championnats.",
+   "en": "The transfer market closes on Tuesday in the biggest leagues.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La France, l'Italie et l'Allemagne ferment leurs portes les premières.",
+   "en": "France, Italy and Germany shut their doors first.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Belgique, elle, ferme le sien quelques jours plus tard.",
+   "en": "Belgium closes its own a few days later.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce sont donc les dernières heures pour boucler un transfert dans ces championnats.",
+   "en": "So these are the last hours to get a transfer done in those leagues.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En piste aujourd'hui, la dixième étape de la Vuelta, le Tour d'Espagne.",
+   "en": "Out on the road today, the tenth stage of the «Vuelta», the Tour of Spain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les quarante-sept premiers kilomètres ne présentent aucune difficulté répertoriée.",
+   "en": "The first forty-seven kilometres have no categorised climb on them.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le début de parcours ne sera pas plat pour autant.",
+   "en": "That does not make the opening of the stage flat.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le profil du jour est un terrain de jeu idéal pour les baroudeurs.",
+   "en": "The profile suits the riders who go up the road on their own.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce qui nous attend aussi, du football, du tennis, du basket et du hockey,",
+   "en": "Also in the diary, football, tennis, basketball and hockey,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à suivre en direct depuis la Belgique.",
+   "en": "all live from Belgium.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport belge.",
+   "en": "That is Belgian sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Tuesday 1 September",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "The summer transfer window closes in the biggest leagues",
+ "summary_en": [
+  "The summer transfer window closes in the biggest leagues",
+  "The Vuelta rides its tenth stage on Tuesday"
+ ]
+}

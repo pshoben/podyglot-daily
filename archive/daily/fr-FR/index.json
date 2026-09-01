@@ -3,8 +3,49 @@
  "channel": "daily",
  "dialect": "fr-FR",
  "base": "https://pshoben.github.io/podyglot-daily/archive/",
- "archived_before": "2026-08-18",
+ "archived_before": "2026-08-19",
  "episodes": [
+  {
+   "id": "fr-FR-Le journal du matin, mardi 18 août",
+   "file": "podcast-daily-2026-08-18-morning-news-fr-FR.json",
+   "bytes": 12247,
+   "sha256": "c0db49c216a0495afcf7bd8403a14e896c3a65da507c9da1e29f1bb9ead99963",
+   "date": "2026-08-18",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, mardi 18 août",
+   "title_en": "The morning news, Tuesday 18 August",
+   "headline_en": "Sophie Adenot becomes on Tuesday the first Frenchwoman to make a spacewalk, leaving the IS",
+   "summary_en": [
+    "Sophie Adenot becomes on Tuesday the first Frenchwoman to make a spacewalk, leaving the IS",
+    "Meteo-France lifted the orange heatwave warning in the last six departments on Tuesday, de",
+    "The school return allowance is paid on Tuesday to nearly three million low-income househol"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, mardi 18 août",
+   "file": "podcast-daily-2026-08-18-morning-weather-fr-FR.json",
+   "bytes": 5462,
+   "sha256": "9082fbff08c505112e3d3757f6b27bde3d4afab2586dccaaa3003b689443b07e",
+   "date": "2026-08-18",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, mardi 18 août",
+   "title_en": "Today's weather, Tuesday 18 August",
+   "headline_en": "Prévision pour Paris, mardi 2026-08-18",
+   "summary_en": [
+    "Prévision pour Paris, mardi 2026-08-18",
+    "Prévision pour Bordeaux, mardi 2026-08-18"
+   ]
+  },
   {
    "id": "fr-FR-Le journal du matin, lundi 17 août",
    "file": "podcast-daily-2026-08-17-morning-news-fr-FR.json",

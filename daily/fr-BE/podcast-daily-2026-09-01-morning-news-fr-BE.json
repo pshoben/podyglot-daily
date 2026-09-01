@@ -1,0 +1,350 @@
+{
+ "title": "Le sept heures, mardi premier septembre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-news",
+   "wpm": 222,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-01",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Mardi premier septembre. Le sept heures.",
+   "en": "Tuesday the first of September. The seven o'clock news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le bilan de la crue dans l'Himalaya dépasse les mille morts,",
+   "en": "The toll from the flood in the Himalaya has passed a thousand dead,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dont neuf cent quatre-vingt-sept au Népal, selon les autorités.",
+   "en": "987 of them in Nepal, according to the authorities.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le nouveau Code pénal entre en vigueur ce mardi.",
+   "en": "The new Penal Code comes into force on Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On ouvre avec le Népal et le Tibet,",
+   "en": "We open in Nepal and Tibet, where more than 4,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où plus de quatre mille quatre cents personnes sont toujours portées disparues,",
+   "en": "400 people are still missing,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon les mêmes sources officielles.",
+   "en": "on the same official figures.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Une gigantesque coulée de boue y a suivi l'effondrement d'un glacier, mercredi matin.",
+   "en": "A huge mudslide there followed the collapse of a glacier on Wednesday morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des inondations massives ont ensuite frappé la frontière entre les deux pays.",
+   "en": "Heavy flooding then hit the border between the two countries.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Chez nous, le nouveau Code pénal arrive après dix ans de travaux",
+   "en": "In Belgium, the new Penal Code arrives after ten years of work",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et un report décidé en avril dernier.",
+   "en": "and a postponement decided in April.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il succède à un texte dont la version d'origine remonte à cent soixante ans.",
+   "en": "It replaces a text whose first version dates back a hundred and sixty years.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La prison y est pensée comme un dernier recours plutôt que",
+   "en": "Prison is meant to be a last resort under it,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "comme la réponse par défaut.",
+   "en": "rather than the default answer.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Une échelle graduée de huit niveaux de peines a été mise au point.",
+   "en": "A graduated scale of eight levels of punishment has been drawn up.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'écocide fait par ailleurs son apparition parmi les infractions.",
+   "en": "Ecocide also appears among the offences.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ailleurs dans l'actu, Duane Davis, un ancien membre de gang,",
+   "en": "In other news, «Duane Davis», a former gang member,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a été reconnu coupable du meurtre de Tupac Shakur.",
+   "en": "has been found guilty of the murder of «Tupac Shakur».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le rappeur américain avait été tué par des tirs venus d'une Cadillac blanche,",
+   "en": "The American rapper was shot dead from a white «Cadillac»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à Las Vegas, en septembre mille neuf cent quatre-vingt-seize.",
+   "en": "in «Las Vegas» in September 1996.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On enchaîne, l'armée russe a mené une attaque massive de missiles",
+   "en": "Moving on, the Russian army carried out a massive missile",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et de drones de combat sur Kiev et sa région.",
+   "en": "and combat drone attack on Kyiv and the area around it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon les bilans publiés, qui ne concordent pas, cette attaque a fait entre quatre",
+   "en": "The published tolls do not agree: the attack killed between four",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et neuf morts.",
+   "en": "and nine people.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre dossier maintenant, Tim Cook cède ce mardi la direction d'Apple à John Ternus.",
+   "en": "Turning to something else, «Tim Cook» hands over the running of «Apple» to «John Ternus» on Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Américain s'en va après quinze ans à la tête du groupe,",
+   "en": "He is leaving after fifteen years at the top of the company,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et il a adressé lundi un message d'adieu aux salariés.",
+   "en": "and sent a farewell message to staff on Monday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour terminer, Heylen Warehouses et Audi ont conclu un accord pour l'acquisition du site d'Audi",
+   "en": "And finally, «Heylen Warehouses» and «Audi» have agreed a deal to buy the «Audi",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Brussels, à Forest.",
+   "en": "Brussels» site at «Forest».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La reconversion en parc d'activités urbain mixte doit permettre de créer trois mille",
+   "en": "Turning it into a mixed urban business park is meant to create three thousand",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "emplois à Bruxelles.",
+   "en": "jobs in Brussels.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà où nous en sommes.",
+   "en": "That is where we stand.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 1 September",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "The Himalayan flood toll passes a thousand dead",
+ "summary_en": [
+  "The Himalayan flood toll passes a thousand dead",
+  "Belgium's new Penal Code comes into force",
+  "More than four thousand people are still missing in the Himalaya"
+ ]
+}

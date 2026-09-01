@@ -1,0 +1,189 @@
+{
+ "title": "La météo, mardi premier septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-01",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "La météo de ce mardi en France, du nord au sud.",
+   "en": "The weather for this Tuesday in France, from north to south.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans la capitale, les modèles de Météo-France donnent un ciel couvert d'un bout à l'autre",
+   "en": "In the capital, the «Météo-France» models give an overcast sky from one end of the day",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de la journée.",
+   "en": "to the other.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le thermomètre ne dépasse pas vingt-quatre degrés à Paris cet après-midi.",
+   "en": "The temperature does not go above twenty-four degrees in «Paris» this afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le minimum de la journée y est de seize degrés.",
+   "en": "The low for the day there is sixteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y reste faible,",
+   "en": "The wind there stays light,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec onze kilomètres par heure au plus fort.",
+   "en": "at eleven kilometres an hour at its strongest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cap sur le Sud-Ouest, où Bordeaux garde la même grisaille aujourd'hui.",
+   "en": "Off to the south-west, where «Bordeaux» keeps the same grey all day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La température y monte jusqu'à vingt-six degrés dans l'après-midi.",
+   "en": "The temperature there climbs to twenty-six degrees in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle ne descend pas sous les quatorze degrés.",
+   "en": "It does not drop below fourteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y souffle jusqu'à treize kilomètres par heure.",
+   "en": "The wind there blows up to thirteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le long de la Méditerranée, Marseille passe aussi la journée sous les nuages.",
+   "en": "Along the Mediterranean, «Marseille» also spends the day under cloud.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le mercure y grimpe jusqu'à trente-deux degrés.",
+   "en": "The mercury there climbs to thirty-two degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il ne descend pas sous les vingt et un degrés dans la cité phocéenne.",
+   "en": "It does not drop below twenty-one degrees in the old port city.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y atteint vingt-huit kilomètres par heure au plus fort.",
+   "en": "The wind there reaches twenty-eight kilometres an hour at its strongest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo de ce mardi.",
+   "en": "That is the weather for this Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Tuesday 1 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Tuesday forecast for Paris, 1st September",
+ "summary_en": [
+  "Tuesday forecast for Paris, 1st September",
+  "Tuesday forecast for Bordeaux, 1st September"
+ ]
+}

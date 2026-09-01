@@ -513,65 +513,6 @@
     "Previsión para Santiago, mañana, jueves 2026-08-20",
     "Previsión para Valparaíso, mañana, jueves 2026-08-20"
    ]
-  },
-  {
-   "id": "es-CL-Las noticias de la mañana, martes 18 de agosto",
-   "file": "podcast-daily-2026-08-18-morning-news-es-CL.json",
-   "bytes": 7751,
-   "sha256": "9f364cba4c9c6dfd66ada616a4c0adc6f9677bb919a35082d23e096786003fcf",
-   "date": "2026-08-18",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "es-CL",
-   "region_label": "Chile",
-   "title": "Las noticias de la mañana, martes 18 de agosto",
-   "title_en": "The morning news, Tuesday 18 August",
-   "headline_en": "The government submitted to the Senate the constitutional reform on security in the Agenda",
-   "summary_en": [
-    "The government submitted to the Senate the constitutional reform on security in the Agenda",
-    "Trump published an image declaring the Strait of Hormuz new United States territory, and I"
-   ]
-  },
-  {
-   "id": "es-CL-El deporte de hoy, martes 18 de agosto",
-   "file": "podcast-daily-2026-08-18-morning-sport-es-CL.json",
-   "bytes": 4219,
-   "sha256": "ab5f54d4b109bd2d706a3b98935a03f8fa334be04de8964c556dbd6abfb924ce",
-   "date": "2026-08-18",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "es-CL",
-   "region_label": "Chile",
-   "title": "El deporte de hoy, martes 18 de agosto",
-   "title_en": "Today's sport, Tuesday 18 August",
-   "headline_en": "Universidad Catolica hosts Estudiantes de La Plata at 20:30 on Tuesday in the second leg o",
-   "summary_en": [
-    "Universidad Catolica hosts Estudiantes de La Plata at 20:30 on Tuesday in the second leg o"
-   ]
-  },
-  {
-   "id": "es-CL-El estado del tiempo, martes 18 de agosto",
-   "file": "podcast-daily-2026-08-18-morning-weather-es-CL.json",
-   "bytes": 4948,
-   "sha256": "3d675461e42e1d192e52ab77b1f70d60a19fb1ddd581fc54ae0d6943b7329b71",
-   "date": "2026-08-18",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "es-CL",
-   "region_label": "Chile",
-   "title": "El estado del tiempo, martes 18 de agosto",
-   "title_en": "Today's weather, Tuesday 18 August",
-   "headline_en": "Forecast for Santiago, Tuesday 2026-08-18: high 18 degrees, low 5; cloudy sky; 0 per cent",
-   "summary_en": [
-    "Forecast for Santiago, Tuesday 2026-08-18: high 18 degrees, low 5; cloudy sky; 0 per cent",
-    "Forecast for Valparaiso, Tuesday 2026-08-18: high 21 degrees, low 9; clear sky; 0 per cent"
-   ]
   }
  ]
 }

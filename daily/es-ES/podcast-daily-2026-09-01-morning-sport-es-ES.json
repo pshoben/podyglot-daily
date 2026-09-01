@@ -1,0 +1,179 @@
+{
+ "title": "Los deportes, martes 1 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-sport",
+   "wpm": 208,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-01",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Los deportes, este martes por la mañana.",
+   "en": "Sport, this Tuesday morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hoy en la agenda, el último día del mercado de fichajes de verano.",
+   "en": "On the diary today, the last day of the summer transfer window.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La ventana se cierra hoy, y los clubes trabajan a contrarreloj en las últimas horas.",
+   "en": "The window closes today, and clubs are working against the clock in the final hours.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En los campos internacionales, Robert Moreno es el nuevo seleccionador de Corea del Sur.",
+   "en": "Out in the international game, «Robert Moreno» is the new head coach of South Korea.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La federación surcoreana nombró este martes al técnico español como entrenador interino.",
+   "en": "The South Korean federation named the Spaniard as caretaker manager on Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Tendrá seis partidos para hacer méritos de cara a la Copa de Asia del",
+   "en": "He will have six matches to make his case ahead of next",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "año que viene.",
+   "en": "year's Asian Cup.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El banquillo estaba vacante desde la marcha de Hong Myung-bo,",
+   "en": "The job had been vacant since «Hong Myung-bo» left,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que renunció a finales de junio.",
+   "en": "having resigned at the end of June.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo que se juega en Argentina,",
+   "en": "What is at stake in Argentina,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la selección se queda sin Leo Messi.",
+   "en": "the national side is left without «Leo Messi».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El delantero anunció el lunes su retirada internacional,",
+   "en": "The forward announced his international retirement on Monday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "veintiún años después de su debut.",
+   "en": "twenty-one years after his debut.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La despedida se ha vivido allí con tristeza y con mensajes de agradecimiento.",
+   "en": "It has been taken there with sadness and with messages of thanks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí los deportes.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Tuesday 1 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Deadline day in the Spanish transfer market",
+ "summary_en": [
+  "Deadline day in the Spanish transfer market",
+  "Robert Moreno takes charge of South Korea"
+ ]
+}

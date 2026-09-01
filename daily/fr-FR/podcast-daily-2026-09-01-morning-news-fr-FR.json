@@ -1,0 +1,340 @@
+{
+ "title": "Le journal du matin, mardi premier septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-01",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Mardi premier septembre, sept heures à Paris. Le journal du matin.",
+   "en": "Tuesday the first of September, seven o'clock in «Paris». The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le bilan des inondations dans l'Himalaya dépasse le millier de morts,",
+   "en": "The death toll from the floods in the Himalaya has passed a thousand,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon des décomptes officiels encore provisoires.",
+   "en": "on official counts that are still provisional.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'ancien Premier ministre Édouard Balladur est mort lundi,",
+   "en": "The former Prime Minister «Édouard Balladur» died on Monday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à l'âge de quatre-vingt-dix-sept ans.",
+   "en": "at the age of ninety-seven.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par le Népal et le Tibet,",
+   "en": "We start in Nepal and Tibet,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "frappés mercredi dernier par une crue dévastatrice.",
+   "en": "hit last Wednesday by a devastating flood.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Quatre mille quatre cent soixante-deux personnes sont toujours portées disparues,",
+   "en": "4, 462 people are still missing,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon les autorités népalaises et chinoises.",
+   "en": "according to the Nepalese and Chinese authorities.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, Édouard Balladur avait dirigé le gouvernement de mars mille neuf cent quatre-vingt-treize à",
+   "en": "In France, «Édouard Balladur» led the government from March 1993",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "mai mille neuf cent quatre-vingt-quinze.",
+   "en": "to May 1995.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dernier chef de gouvernement de François Mitterrand,",
+   "en": "The last head of government under «François Mitterrand»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "il avait affronté Jacques Chirac à l'élection présidentielle de mille neuf cent quatre-vingt-quinze.",
+   "en": "he stood against «Jacques Chirac» at the 1995 presidential election.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les hommages se sont multipliés dans la classe politique,",
+   "en": "Tributes came in from across French politics,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de Nicolas Sarkozy à Emmanuel Macron et Marine Le Pen.",
+   "en": "from «Nicolas Sarkozy» to «Emmanuel Macron» and «Marine Le Pen».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité,",
+   "en": "In other news, 11.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "onze virgule six millions d'écoliers, de collégiens et de lycéens font leur rentrée ce mardi.",
+   "en": "6 million pupils, from primary school to senior school, go back on Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'interdiction du téléphone portable vaut désormais aussi pour les lycées.",
+   "en": "The mobile phone ban now covers senior schools too.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans certaines académies, la journée est perturbée par les suites d'une cyberattaque contre l'Éducation nationale.",
+   "en": "In some school authorities the day is disrupted by the aftermath of a cyberattack on the Education Ministry.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à autre chose, Donald Trump a menacé de bombarder durement l'Iran,",
+   "en": "Moving on, «Donald Trump» has threatened to bomb Iran hard,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "après la reprise des hostilités dans le détroit d'Ormuz.",
+   "en": "after the fighting started again in the strait of Hormuz.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les forces américaines ont annoncé des frappes contre deux lanceurs iraniens sur l'île de Larak.",
+   "en": "American forces announced strikes on two Iranian rocket launchers on the island of «Larak».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre sujet maintenant, neuf personnes ont été tuées à Kiev et dans sa région,",
+   "en": "Turning to something else, nine people were killed in Kyiv and the area around it,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans une attaque russe de missiles et de drones.",
+   "en": "in a Russian missile and drone attack.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon un responsable de l'administration militaire de la région,",
+   "en": "According to an official at the region's military administration,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "des installations civiles et des immeubles d'habitation ont été délibérément visés.",
+   "en": "homes and civilian sites were hit on purpose.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour finir, la compagnie ferroviaire privée Velvet a obtenu ce mardi sa licence d'exploitation sur",
+   "en": "And finally, the private rail company «Velvet» was cleared on Tuesday to operate on",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le réseau français.",
+   "en": "the French network.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle veut faire rouler des trains à grande vitesse entre Paris et Bordeaux,",
+   "en": "It wants to run high-speed trains between «Paris» and «Bordeaux»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Nantes et Rennes.",
+   "en": "«Nantes» and «Rennes».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 1 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "The Himalayan flood toll passes a thousand dead",
+ "summary_en": [
+  "The Himalayan flood toll passes a thousand dead",
+  "Former Prime Minister Edouard Balladur has died at 97",
+  "More than four thousand people are still missing in the Himalaya"
+ ]
+}

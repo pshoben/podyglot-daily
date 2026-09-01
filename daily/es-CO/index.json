@@ -614,67 +614,6 @@
     "Previsión para Bogotá, mañana, jueves 2026-08-20",
     "Previsión para Medellín, mañana, jueves 2026-08-20"
    ]
-  },
-  {
-   "id": "es-CO-La actualidad de la mañana, martes 18 de agosto",
-   "file": "podcast-daily-2026-08-18-morning-news-es-CO.json",
-   "bytes": 14022,
-   "sha256": "f9bd99031a50cb8ebf68504e98c6e828317c6f4bf4895543f575861b823386a3",
-   "date": "2026-08-18",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "es-CO",
-   "region_label": "Colombia",
-   "title": "La actualidad de la mañana, martes 18 de agosto",
-   "title_en": "The morning news, Tuesday 18 August",
-   "headline_en": "A magnitude 4.7 earthquake struck Granada, Spain, and its metropolitan area on Tuesday, la",
-   "summary_en": [
-    "A magnitude 4.7 earthquake struck Granada, Spain, and its metropolitan area on Tuesday, la",
-    "A week after the Choco earthquake the UNGRD balance stands at 304 dead and 4,548 injured,",
-    "President Abelardo De La Espriella announced the Vivienda Milagro plan after the earthquak"
-   ]
-  },
-  {
-   "id": "es-CO-La jornada deportiva, martes 18 de agosto",
-   "file": "podcast-daily-2026-08-18-morning-sport-es-CO.json",
-   "bytes": 4426,
-   "sha256": "c179af3b1b13b3cedf3ab82a484a3de8248e23d77dbafeb1af99b70b2d3a413a",
-   "date": "2026-08-18",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "es-CO",
-   "region_label": "Colombia",
-   "title": "La jornada deportiva, martes 18 de agosto",
-   "title_en": "Today's sport, Tuesday 18 August",
-   "headline_en": "Movistar confirmed that Nairo Quintana will not take part in the Vuelta a Espana 2026, des",
-   "summary_en": [
-    "Movistar confirmed that Nairo Quintana will not take part in the Vuelta a Espana 2026, des",
-    "Argentine Jose Maria Bazan, aged 54, joins Nestor Lorenzo's staff with the Colombia nation"
-   ]
-  },
-  {
-   "id": "es-CO-El clima de hoy, martes 18 de agosto",
-   "file": "podcast-daily-2026-08-18-morning-weather-es-CO.json",
-   "bytes": 5099,
-   "sha256": "c0f0020d3c59f353ea1cfe3b93a2ffa4e4ef626ff3a737d87a0e20d5d6cf4cd3",
-   "date": "2026-08-18",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "es-CO",
-   "region_label": "Colombia",
-   "title": "El clima de hoy, martes 18 de agosto",
-   "title_en": "Today's weather, Tuesday 18 August",
-   "headline_en": "Forecast for Bogota, Tuesday 2026-08-18: high 18 degrees, low 11; sky with drizzle; 90 per",
-   "summary_en": [
-    "Forecast for Bogota, Tuesday 2026-08-18: high 18 degrees, low 11; sky with drizzle; 90 per",
-    "Forecast for Medellin, Tuesday 2026-08-18: high 26 degrees, low 18; sky with drizzle; 81 p"
-   ]
   }
  ]
 }

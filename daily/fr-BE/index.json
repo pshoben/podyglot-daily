@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-BE-Le sept heures, mardi premier septembre",
+   "file": "podcast-daily-2026-09-01-morning-news-fr-BE.json",
+   "bytes": 8676,
+   "sha256": "60b8d3eb1886320198e8f5d3f2d1b88fd93b0e6fcbeb43033964c9d0f65bb4e2",
+   "date": "2026-09-01",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, mardi premier septembre",
+   "title_en": "The morning news, Tuesday 1 September",
+   "headline_en": "The Himalayan flood toll passes a thousand dead",
+   "summary_en": [
+    "The Himalayan flood toll passes a thousand dead",
+    "Belgium's new Penal Code comes into force",
+    "More than four thousand people are still missing in the Himalaya"
+   ]
+  },
+  {
+   "id": "fr-BE-Le sport chez nous, mardi premier septembre",
+   "file": "podcast-daily-2026-09-01-morning-sport-fr-BE.json",
+   "bytes": 3997,
+   "sha256": "a02f01052746c388ac795fc460c5449b0c96d7cbce8fd0b48fcc271cac5eebe0",
+   "date": "2026-09-01",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sport chez nous, mardi premier septembre",
+   "title_en": "Today's sport, Tuesday 1 September",
+   "headline_en": "The summer transfer window closes in the biggest leagues",
+   "summary_en": [
+    "The summer transfer window closes in the biggest leagues",
+    "The Vuelta rides its tenth stage on Tuesday"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, mardi premier septembre",
+   "file": "podcast-daily-2026-09-01-morning-weather-fr-BE.json",
+   "bytes": 4881,
+   "sha256": "d596ce92f11ebeff1fbcd50e2db1e6c6f026f16659e0ffb2e44642809870d412",
+   "date": "2026-09-01",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, mardi premier septembre",
+   "title_en": "Today's weather, Tuesday 1 September",
+   "headline_en": "Tuesday forecast for Bruxelles, 1st September",
+   "summary_en": [
+    "Tuesday forecast for Bruxelles, 1st September",
+    "Tuesday forecast for Liège, 1st September"
+   ]
+  },
+  {
    "id": "fr-BE-Le sept heures, lundi 31 août",
    "file": "podcast-daily-2026-08-31-morning-news-fr-BE.json",
    "bytes": 9701,
@@ -632,47 +693,6 @@
    "headline_en": "Belgium against Malaysia at the hockey World Cup in Wavre",
    "summary_en": [
     "Belgium against Malaysia at the hockey World Cup in Wavre"
-   ]
-  },
-  {
-   "id": "fr-BE-Le sept heures, mardi 18 août",
-   "file": "podcast-daily-2026-08-18-morning-news-fr-BE.json",
-   "bytes": 12025,
-   "sha256": "e6c72a837341602ac110f766468c262cab5ff6ffa7b0586211cacf4f21cd213e",
-   "date": "2026-08-18",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le sept heures, mardi 18 août",
-   "title_en": "The morning news, Tuesday 18 August",
-   "headline_en": "The Hautes Fagnes fire is still burning",
-   "summary_en": [
-    "The Hautes Fagnes fire is still burning",
-    "Hayden Panettiere was revived by emergency services just before her death, police confirme",
-    "A private helicopter crashed on Monday evening on the Greek island of Sifnos, killing thre"
-   ]
-  },
-  {
-   "id": "fr-BE-Le temps chez nous, mardi 18 août",
-   "file": "podcast-daily-2026-08-18-morning-weather-fr-BE.json",
-   "bytes": 4745,
-   "sha256": "685126af59545d49f97205b59b1ce7715f40038f78588e809f6b6d18fe091fd1",
-   "date": "2026-08-18",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le temps chez nous, mardi 18 août",
-   "title_en": "Today's weather, Tuesday 18 August",
-   "headline_en": "Prévision pour Bruxelles, mardi 2026-08-18",
-   "summary_en": [
-    "Prévision pour Bruxelles, mardi 2026-08-18",
-    "Prévision pour Liège, mardi 2026-08-18"
    ]
   }
  ]

@@ -3,8 +3,49 @@
  "channel": "daily",
  "dialect": "fr-CA",
  "base": "https://pshoben.github.io/podyglot-daily/archive/",
- "archived_before": "2026-08-18",
+ "archived_before": "2026-08-19",
  "episodes": [
+  {
+   "id": "fr-CA-Le bulletin du matin, mardi 18 août",
+   "file": "podcast-daily-2026-08-18-morning-news-fr-CA.json",
+   "bytes": 13537,
+   "sha256": "ab8a38c5b04925027eb3476d3e9af3a72f3062a301387c5ae56a06462e03c4ad",
+   "date": "2026-08-18",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin du matin, mardi 18 août",
+   "title_en": "The morning news, Tuesday 18 August",
+   "headline_en": "Lise Klaveness, president of the Norwegian football federation, said on Tuesday that FIFA'",
+   "summary_en": [
+    "Lise Klaveness, president of the Norwegian football federation, said on Tuesday that FIFA'",
+    "Paul St-Pierre Plamondon has given a formal commitment that a Parti quebecois government w",
+    "For weeks this summer a lead instructor at a Kawartha Lakes hockey camp was a man who had"
+   ]
+  },
+  {
+   "id": "fr-CA-Le bulletin météo, mardi 18 août",
+   "file": "podcast-daily-2026-08-18-morning-weather-fr-CA.json",
+   "bytes": 5209,
+   "sha256": "9a7f05bebe4f4559afac9cdf9b91a1506556ddc79bf1a714513ecfbf96f6996b",
+   "date": "2026-08-18",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin météo, mardi 18 août",
+   "title_en": "Today's weather, Tuesday 18 August",
+   "headline_en": "Forecast for Montreal, Tuesday 2026-08-18: high 27 degrees, low 18; overcast; 15 per cent",
+   "summary_en": [
+    "Forecast for Montreal, Tuesday 2026-08-18: high 27 degrees, low 18; overcast; 15 per cent",
+    "Forecast for Quebec City, Tuesday 2026-08-18: high 24 degrees, low 17; with drizzle; 6 per"
+   ]
+  },
   {
    "id": "fr-CA-Le bulletin du matin, lundi 17 août",
    "file": "podcast-daily-2026-08-17-morning-news-fr-CA.json",
