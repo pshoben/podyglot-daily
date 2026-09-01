@@ -1,0 +1,360 @@
+{
+ "title": "La actualidad de la mañana, martes 1 de septiembre",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-01",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Martes primero de septiembre, siete de la mañana.",
+   "en": "Tuesday the first of September, seven in the morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La actualidad de la mañana.",
+   "en": "The morning round-up.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Casa Blanca dio a conocer los términos del acuerdo petrolero",
+   "en": "The White House has set out the terms of the oil deal",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "entre Estados Unidos y Venezuela.",
+   "en": "between the United States and Venezuela.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en Colombia, un carro bomba estalló anoche",
+   "en": "Here in Colombia, a car bomb went off last night",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "junto a la estación de Policía de Los Patios, en Norte de Santander.",
+   "en": "beside the police station at «Los Patios», in «Norte de Santander».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Iniciamos con el acuerdo petrolero,",
+   "en": "We begin with the oil deal,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el que la compañía otorgó al Departamento de Estado el derecho de preferencia",
+   "en": "in which the company gave the State Department first refusal",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sobre el ochenta por ciento restante de su producción.",
+   "en": "on the remaining 80 per cent of its output.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Washington busca asegurar acceso a unos sesenta y cinco mil millones de barriles",
+   "en": "Washington is after access to some 65,000 million barrels",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en diecisiete yacimientos.",
+   "en": "across 17 fields.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El plan requiere cerca de cien mil millones de dólares en inversiones.",
+   "en": "The plan needs close to 100,000 million dollars of investment.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos en Colombia, el atentado dejó un muerto y once heridos, según las autoridades.",
+   "en": "In other news, the attack left one person dead and eleven injured, according to the authorities.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El presidente Abelardo De La Espriella convocó un consejo de seguridad con la cúpula militar,",
+   "en": "President «Abelardo De La Espriella» has called a security council with the military high command,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y dijo que perseguirá a los responsables con mano de hierro.",
+   "en": "and said he will go after those responsible with an iron hand.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Defensoría del Pueblo rechazó el ataque y recordó que el derecho humanitario",
+   "en": "The Ombudsman's office condemned the attack and said humanitarian law",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "no se hizo para legitimar objetivos.",
+   "en": "was not made to legitimise targets.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El hecho ocurrió justo un mes después del atentado",
+   "en": "It happened exactly a month after the attack",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "contra las instalaciones de la Policía en Cúcuta.",
+   "en": "on police premises in «Cúcuta».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En otras noticias, veinte integrantes de las disidencias de alias Iván Mordisco",
+   "en": "Moving on, twenty members of the «Iván Mordisco» dissident group",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "murieron en operaciones en el Guaviare,",
+   "en": "were killed in operations in «Guaviare»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según el Ministerio de Defensa.",
+   "en": "according to the defence ministry.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La cartera advirtió que el Estado no dará tregua,",
+   "en": "The ministry warned that the state will give no truce,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el presidente confirmó que un cabecilla fue dado de baja en el bombardeo.",
+   "en": "and the president confirmed that a leader was killed in the bombing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Save the Children cuestionó ese bombardeo tras la muerte de tres adolescentes en El Retorno.",
+   "en": "Save the Children questioned that bombing after three teenagers died at «El Retorno».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de asunto, la Gobernación del Tolima reporta trescientos treinta y dos incendios",
+   "en": "Turning to something else, the «Tolima» governor's office reports 332 fires",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "desde el primero de agosto.",
+   "en": "since the first of August.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Son cerca de cincuenta mil hectáreas afectadas,",
+   "en": "That is some 50, 000 hectares affected, 22,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "veintidós mil cabezas de ganado y veintiocho mil productores golpeados.",
+   "en": "000 head of cattle and 28, 000 farmers hit.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otro tema del día, Nequi empezó hoy a operar por su cuenta, separada de Bancolombia.",
+   "en": "Elsewhere, «Nequi» started trading on its own today, separated from «Bancolombia».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es ahora Nequi Sociedad Anónima Compañía de Financiamiento,",
+   "en": "It is now a finance company in its own right, «Nequi Sociedad Anónima",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "una nueva empresa del Grupo Cibest.",
+   "en": "Compañía de Financiamiento», inside «Grupo Cibest».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más importante.",
+   "en": "That is the most important of it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 1 September",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "The White House sets out the terms of the oil deal with Venezuela",
+ "summary_en": [
+  "The White House sets out the terms of the oil deal with Venezuela",
+  "A car bomb at the Los Patios police station kills one and wounds eleven",
+  "Washington is after 65,000 million barrels in seventeen fields"
+ ]
+}

@@ -1,0 +1,360 @@
+{
+ "title": "Le bulletin du matin, mardi premier septembre",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-news",
+   "wpm": 185,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-01",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Mardi premier septembre, sept heures. Le bulletin du matin.",
+   "en": "Tuesday the first of September, seven o'clock. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le bilan de la crue dans l'Himalaya dépasse le millier de morts,",
+   "en": "The death toll from the Himalayan flood has passed a thousand,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon le plus récent décompte des autorités.",
+   "en": "on the authorities' most recent count.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au pays, le Parti libéral a remporté les trois élections partielles fédérales de lundi.",
+   "en": "Here at home, the Liberal Party won all three of Monday's federal by-elections.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On débute avec le Népal et la Chine,",
+   "en": "We start in Nepal and China,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "frappés la semaine dernière par une crue dévastatrice.",
+   "en": "hit last week by a devastating flood.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les secouristes fouillent la boue et les décombres, à la recherche de survivants.",
+   "en": "Rescue teams are digging through mud and rubble, looking for survivors.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ottawa a déployé dix fonctionnaires sur le terrain au Népal,",
+   "en": "Ottawa has sent ten officials to Nepal,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon la ministre des Affaires étrangères, Anita Anand.",
+   "en": "according to the Foreign Affairs Minister, «Anita Anand».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ils viennent en aide aux Canadiens touchés,",
+   "en": "They are helping Canadians caught up in it,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le haut-commissaire adjoint du Canada en Inde est à Katmandou.",
+   "en": "and Canada's deputy high commissioner in India is in Kathmandu.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans l'actualité d'ici, les libéraux ont enlevé les trois circonscriptions en jeu, Chicoutimi-Le Fjord,",
+   "en": "In news from here, the Liberals took all three seats in play, «Chicoutimi-Le Fjord»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "North Vancouver-Capilano et Beaches-East York.",
+   "en": "«North Vancouver-Capilano» and Beaches-East York.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans Chicoutimi-Le Fjord, ils ont recueilli plus de la moitié des votes.",
+   "en": "In «Chicoutimi-Le Fjord» they took more than half the vote.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Daniel Gobeil a été élu à la Chambre des communes comme député de la circonscription.",
+   "en": "«Daniel Gobeil» was elected to the House of Commons as the member for the riding.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a devancé la candidate du Bloc québécois, Caroline Dubé,",
+   "en": "He finished ahead of the «Bloc québécois» candidate, «Caroline Dubé»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le conservateur Régis Gaudreault,",
+   "en": "and the Conservative «Régis Gaudreault»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans un comté arraché aux conservateurs.",
+   "en": "in a seat taken from the Conservatives.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On poursuit, le président iranien, Massoud Pezeshkian,",
+   "en": "Moving on, the Iranian president, «Massoud Pezeshkian»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a appelé mardi les États-Unis à respecter un traité",
+   "en": "called on the United States on Tuesday to respect a treaty",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "censé mettre fin à la guerre au Moyen-Orient.",
+   "en": "meant to end the war in the Middle East.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a dit que son pays renouerait avec ses engagements",
+   "en": "He said his country would go back to its commitments",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "si Washington revenait au protocole d'accord conclu en juin.",
+   "en": "if Washington returned to the agreement reached in June.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les pressions et les menaces américaines risquent de faire dérailler la voie diplomatique, a-t-il ajouté.",
+   "en": "American pressure and threats could derail diplomacy, he added.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre nouvelle maintenant,",
+   "en": "Turning to something else,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un jury de Las Vegas a reconnu Duane Davis coupable du meurtre du rappeur Tupac Shakur,",
+   "en": "a Las Vegas jury found «Duane Davis» guilty of murdering the rapper «Tupac Shakur»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "commis en mille neuf cent quatre-vingt-seize.",
+   "en": "back in 1996.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cet ancien membre d'un gang de Los Angeles connaîtra sa peine le treize octobre.",
+   "en": "The former Los Angeles gang member will be sentenced on the 13th of October.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En terminant, la Cour supérieure a donné raison au cardinal Marc Ouellet",
+   "en": "And finally, the Superior Court found for Cardinal «Marc Ouellet»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans son procès en diffamation.",
+   "en": "in his defamation case.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La femme qui l'accusait d'agression sexuelle devra lui verser cent mille dollars,",
+   "en": "The woman who had accused him of sexual assault must pay him a hundred thousand dollars,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour des allégations que le tribunal a jugées infondées.",
+   "en": "over allegations the court found were unfounded.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est le portrait du jour.",
+   "en": "That is the picture of the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 1 September",
+ "edition": "morning",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "The Himalayan flood toll passes a thousand dead",
+ "summary_en": [
+  "The Himalayan flood toll passes a thousand dead",
+  "The Liberals win all three federal by-elections",
+  "Ottawa sends ten officials to Nepal"
+ ]
+}

@@ -1,0 +1,370 @@
+{
+ "title": "El noticiario matutino, martes 1 de septiembre",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-news",
+   "wpm": 186,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-01",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Martes primero de septiembre, siete de la mañana. El noticiario matutino.",
+   "en": "Tuesday the first of September, seven in the morning. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Donald Trump amenazó ayer con golpear con fuerza a Irán,",
+   "en": "«Donald Trump» threatened yesterday to hit Iran hard,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "después de que los dos países reanudaron sus ataques.",
+   "en": "after the two countries started attacking each other again.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en México, la presidenta Claudia Sheinbaum",
+   "en": "Here in Mexico, President «Claudia Sheinbaum»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ofrece hoy el mensaje de su segundo Informe de gobierno.",
+   "en": "gives the address for her second annual report today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Arrancamos con Washington y Teherán,",
+   "en": "We start with Washington and Tehran,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "donde el mandatario estadounidense habló desde la Oficina Oval.",
+   "en": "where the American president spoke from the Oval Office.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dijo que los ataques no eran el regreso a una guerra a gran escala.",
+   "en": "He said the strikes were not a return to full-scale war.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El presidente iraní, Masoud Pezeshkian,",
+   "en": "Iran's president, «Masoud Pezeshkian», answered",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "respondió que continuar con la guerra no beneficia a la región ni a la humanidad.",
+   "en": "that carrying on with the war does no good to the region or to humanity.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aseguró que su país volverá de inmediato a sus compromisos",
+   "en": "He said his country would meet its commitments again straight away",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "si Estados Unidos regresa al acuerdo provisional firmado en junio.",
+   "en": "if the United States went back to the provisional agreement signed in June.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los precios del petróleo se encarecieron más de dos y medio por ciento en la última jornada de agosto,",
+   "en": "Oil prices rose by more than two and a half per cent on the last trading day of August,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por los ataques en torno al estrecho de Ormuz.",
+   "en": "because of the attacks around the Strait of «Ormuz».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En otros temas, el acto de la presidenta es hoy a las once de la mañana,",
+   "en": "In other news, the president's event is at eleven this morning,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en Palacio Nacional.",
+   "en": "at «Palacio Nacional».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La secretaria de Gobernación, Rosa Icela Rodríguez,",
+   "en": "The Interior Minister, «Rosa Icela Rodríguez»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "entregará el Informe al Congreso de la Unión por la tarde.",
+   "en": "will hand the report to Congress in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasamos a otro asunto, el Senado eligió ayer al morenista Higinio Martínez Miranda",
+   "en": "Moving on, the Senate yesterday chose «Higinio Martínez Miranda» of «Morena»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "como presidente de su mesa directiva.",
+   "en": "to chair its governing board.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El legislador mexiquense obtuvo ciento dieciséis votos a favor,",
+   "en": "The senator from «Estado de México» had a hundred and sixteen votes in favour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para el año legislativo que empieza hoy.",
+   "en": "for the legislative year that begins today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos en México, la presidenta extendió el acuerdo voluntario con los concesionarios de las gasolineras.",
+   "en": "Turning to something else, the president has extended the voluntary agreement with the petrol station owners.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La gasolina Magna se mantiene por debajo de veinticuatro pesos por litro,",
+   "en": "«Magna» petrol stays below 24 pesos a litre,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el diésel en un máximo de veintisiete pesos.",
+   "en": "and diesel at a ceiling of 27 pesos.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otra noticia, más de veintiocho millones de alumnos volvieron a las aulas el lunes.",
+   "en": "Elsewhere, more than 28 million pupils went back to the classroom on Monday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Secretaría de Educación Pública informó que, en una encuesta entre maestros,",
+   "en": "The education ministry said a survey of teachers",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el ochenta y uno por ciento está a favor de regular el uso del celular",
+   "en": "found 81 per cent in favour of rules on phone use",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en los salones.",
+   "en": "in class.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cerramos con otro tema, la Comisión Federal de Electricidad restableció el servicio al cien por",
+   "en": "And finally, the national electricity company has brought supply back to every user",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ciento en Yucatán, Quintana Roo, Campeche y Chiapas.",
+   "en": "in «Yucatán», «Quintana Roo», «Campeche» and «Chiapas».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El corte nocturno se debió a una afectación en dos líneas de transmisión,",
+   "en": "The overnight cut came from damage to two transmission lines,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que la empresa atribuye a vandalismo.",
+   "en": "which the company puts down to vandalism.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más destacado.",
+   "en": "That is what stands out today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 1 September",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "Trump threatens to hit Iran hard",
+ "summary_en": [
+  "Trump threatens to hit Iran hard",
+  "Sheinbaum delivers her second annual report today",
+  "Iran's president says he is looking for a peace deal"
+ ]
+}

@@ -1,0 +1,360 @@
+{
+ "title": "Las noticias de la mañana, martes 1 de septiembre",
+ "dialect": "es-CL",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CL-daily-news",
+   "wpm": 205,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-01",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Martes primero de septiembre, siete de la mañana.",
+   "en": "Tuesday the first of September, seven in the morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las noticias de la mañana.",
+   "en": "The morning news programme.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Donald Trump abrió la puerta a revisar el apoyo de Estados Unidos a la posición",
+   "en": "«Donald Trump» has opened the door to reviewing American support for the British position",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "británica sobre las islas Malvinas.",
+   "en": "on the «Islas Malvinas».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Acá en Chile, la actividad económica se contrajo un uno coma cinco por ciento en julio,",
+   "en": "Here in Chile, economic activity shrank by one and a half per cent in July,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según el Banco Central.",
+   "en": "according to the central bank.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Partimos con Washington,",
+   "en": "We begin in Washington,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "donde el mandatario estadounidense respondió a los periodistas en una rueda de prensa.",
+   "en": "where the American president was answering reporters at a press conference.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aseguró que siempre evalúa este tipo de posiciones,",
+   "en": "He said he always reviews positions of this kind,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y que esa es sólo una de muchas.",
+   "en": "and that this is only one of many.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos en Chile,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el Imacec de julio quedó en la parte más baja de las proyecciones.",
+   "en": "July's activity index came in at the bottom of the forecast range.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es la mayor caída desde marzo de dos mil veintitrés, según el Banco Central.",
+   "en": "It is the sharpest fall since March 2023, according to the central bank.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El instituto emisor atribuyó parte del mal desempeño a las condiciones climáticas adversas que afectaron a los sectores productivos,",
+   "en": "The bank put part of the poor showing down to bad weather that hit the productive sectors,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la minería está detrás de buena parte del retroceso.",
+   "en": "and mining is behind a good deal of the drop.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En lo demás, diputados de oposición reúnen firmas",
+   "en": "Moving on, opposition deputies are collecting signatures",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para crear una comisión investigadora por el caso Cerimedo.",
+   "en": "to set up a committee of inquiry into the «Cerimedo» case.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La instancia busca indagar eventuales mecanismos de contaminación digital de procesos electorales,",
+   "en": "It would look into possible digital interference in elections,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y esperan votarla esta semana.",
+   "en": "and they hope to have it voted this week.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Presidente Kast aseguró que conoce a Cerimedo pero que nunca lo contrató,",
+   "en": "President «Kast» said he knows «Cerimedo» but never hired him,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el timonel de la Unión Demócrata Independiente calificó de irresponsables esas vinculaciones.",
+   "en": "and the «UDI» leader called the linking of the two irresponsible.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasamos a otra cosa, Javier Milei llega al país para participar del Foro Madrid.",
+   "en": "Turning to something else, «Javier Milei» arrives in the country for the «Foro Madrid».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El jueves se reunirá con el Presidente Kast en La Moneda,",
+   "en": "On Thursday he meets President «Kast» at «La Moneda»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el tercer encuentro entre ambos en el último año.",
+   "en": "their third meeting in the past year.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La cita agudiza la presión parlamentaria por la soberanía del Estrecho de Magallanes,",
+   "en": "The visit sharpens the pressure in parliament over sovereignty of the Strait of Magellan,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la asistencia al foro genera cuestionamientos incluso entre parlamentarios del propio sector del Mandatario.",
+   "en": "and going to the forum is being questioned even by members of the president's own bloc.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otro punto, Lionel Messi anunció el lunes, en sus redes sociales,",
+   "en": "Elsewhere, «Lionel Messi» announced on Monday, on his social media,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "su retiro de la selección argentina.",
+   "en": "that he is leaving the Argentina national team.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Agradeció el cariño recibido durante sus veinte años",
+   "en": "He thanked the affection he was given over twenty years",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con la Albiceleste y dijo que de ahora en adelante alentará desde afuera.",
+   "en": "with the «Albiceleste», and said that from now on he will cheer from the outside.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El rosarino no continuará jugando en la selección trasandina,",
+   "en": "The «Rosario» man will not go on playing for Argentina,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y los medios argentinos lamentan la decisión.",
+   "en": "and the Argentine press is sorry to see him go.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo principal.",
+   "en": "That is the main news of the morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 1 September",
+ "edition": "morning",
+ "region": "es-CL",
+ "region_label": "Chile",
+ "headline_en": "Trump opens the door to reviewing the American position on the Malvinas",
+ "summary_en": [
+  "Trump opens the door to reviewing the American position on the Malvinas",
+  "Economic activity fell one and a half per cent in July",
+  "Deputies seek an inquiry into the Cerimedo case"
+ ]
+}

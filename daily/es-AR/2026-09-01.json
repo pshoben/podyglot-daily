@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-AR",
+ "date": "2026-09-01",
+ "episodes": [
+  {
+   "id": "es-AR-El noticiero de la mañana, martes 1 de septiembre",
+   "file": "podcast-daily-2026-09-01-morning-news-es-AR.json",
+   "bytes": 9312,
+   "sha256": "034b81672fcee612856c2aa093e8922cd431d3eaee4003892ccd80275990df54",
+   "date": "2026-09-01",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El noticiero de la mañana, martes 1 de septiembre",
+   "title_en": "The morning news, Tuesday 1 September",
+   "headline_en": "The Nepal flood toll passes a thousand",
+   "summary_en": [
+    "The Nepal flood toll passes a thousand",
+    "Trump opens the door to reviewing the American position on the Malvinas",
+    "Milei welcomes Trump's words on the islands"
+   ]
+  },
+  {
+   "id": "es-AR-El pronóstico, martes 1 de septiembre",
+   "file": "podcast-daily-2026-09-01-morning-weather-es-AR.json",
+   "bytes": 4726,
+   "sha256": "120dd902df176e63f9ead16a78bba0d8629a554eb6d8da2e05b5f4a9f4677fe3",
+   "date": "2026-09-01",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El pronóstico, martes 1 de septiembre",
+   "title_en": "Today's weather, Tuesday 1 September",
+   "headline_en": "Tuesday forecast for Buenos Aires, 1st September",
+   "summary_en": [
+    "Tuesday forecast for Buenos Aires, 1st September",
+    "Tuesday forecast for Córdoba, 1st September"
+   ]
+  }
+ ],
+ "content": "b96abc60fb406833aaf51e5a1f000fcd2fb083fcc9421e8a1d130a5cc9e5142f",
+ "rev": 1,
+ "updated": "2026-09-01T14:20:24.150Z"
+}

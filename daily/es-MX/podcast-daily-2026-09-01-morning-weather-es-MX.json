@@ -1,0 +1,199 @@
+{
+ "title": "El clima, martes 1 de septiembre",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-weather",
+   "wpm": 186,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-01",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Así viene el cielo en tres ciudades del país para hoy martes.",
+   "en": "This is how the sky looks in three cities today, Tuesday.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los datos son del modelo del Centro Europeo, el ECMWF.",
+   "en": "The figures come from the European Centre model, the ECMWF.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la Ciudad de México la jornada transcurre con llovizna.",
+   "en": "In Mexico City the day goes by with drizzle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima llega a veintidós grados y la mínima baja a catorce.",
+   "en": "The high reaches 22 degrees and the low drops to 14.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación es del noventa y seis por ciento.",
+   "en": "The chance of rain is 96 per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento apenas alcanza seis kilómetros por hora en el valle.",
+   "en": "The wind barely gets to 6 kilometres an hour in the valley.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por estados, Guadalajara espera chubascos a lo largo del día.",
+   "en": "State by state, «Guadalajara» is expecting showers through the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los termómetros tapatíos se mueven entre dieciséis y veintiséis grados.",
+   "en": "Temperatures there move between 16 and 26 degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad allí es del noventa y uno por ciento,",
+   "en": "The chance of rain is 91 per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "casi tan alta como en la capital.",
+   "en": "almost as high as in the capital.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cuidado en Monterrey, donde la máxima llega a treinta y siete grados.",
+   "en": "Watch out in «Monterrey», where the high reaches 37 degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima regiomontana no baja de veinticuatro grados,",
+   "en": "The low there does not fall below 24 degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y también se espera llovizna.",
+   "en": "and drizzle is expected too.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación cae al veinticuatro por ciento.",
+   "en": "The chance of rain comes down to 24 per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento sí sopla más fuerte,",
+   "en": "The wind does blow harder,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con veintiún kilómetros por hora.",
+   "en": "at 21 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ahí está el panorama.",
+   "en": "That is the picture.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Tuesday 1 September",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "Tuesday forecast for Ciudad de México, 1st September",
+ "summary_en": [
+  "Tuesday forecast for Ciudad de México, 1st September",
+  "Tuesday forecast for Guadalajara, 1st September"
+ ]
+}

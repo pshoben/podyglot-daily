@@ -5,6 +5,47 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-CL-Las noticias de la mañana, martes 1 de septiembre",
+   "file": "podcast-daily-2026-09-01-morning-news-es-CL.json",
+   "bytes": 9244,
+   "sha256": "089d6ba9898fa66f63eac6abb10934ca491266018624303a088ed13b5557530b",
+   "date": "2026-09-01",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "Las noticias de la mañana, martes 1 de septiembre",
+   "title_en": "The morning news, Tuesday 1 September",
+   "headline_en": "Trump opens the door to reviewing the American position on the Malvinas",
+   "summary_en": [
+    "Trump opens the door to reviewing the American position on the Malvinas",
+    "Economic activity fell one and a half per cent in July",
+    "Deputies seek an inquiry into the Cerimedo case"
+   ]
+  },
+  {
+   "id": "es-CL-El estado del tiempo, martes 1 de septiembre",
+   "file": "podcast-daily-2026-09-01-morning-weather-es-CL.json",
+   "bytes": 4591,
+   "sha256": "3ced9ac5228206ab487d5ba4aada611672f1b0b75c94ce7947da8842a28696a7",
+   "date": "2026-09-01",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "El estado del tiempo, martes 1 de septiembre",
+   "title_en": "Today's weather, Tuesday 1 September",
+   "headline_en": "Tuesday forecast for Concepción, 1st September",
+   "summary_en": [
+    "Tuesday forecast for Concepción, 1st September",
+    "Tuesday forecast for Santiago, 1st September"
+   ]
+  },
+  {
    "id": "es-CL-Las noticias de la mañana, lunes 31 de agosto",
    "file": "podcast-daily-2026-08-31-morning-news-es-CL.json",
    "bytes": 8586,

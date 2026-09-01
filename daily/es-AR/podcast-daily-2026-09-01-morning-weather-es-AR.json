@@ -1,0 +1,209 @@
+{
+ "title": "El pronóstico, martes 1 de septiembre",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-weather",
+   "wpm": 195,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-01",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Cómo viene el tiempo hoy martes,",
+   "en": "How the weather looks today, Tuesday,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en tres puntos del país.",
+   "en": "at three points around the country.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los valores salen del modelo del Centro Europeo, el ECMWF.",
+   "en": "The readings that follow are from the European Centre model, the ECMWF.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Buenos Aires el cielo está nuboso durante toda la jornada.",
+   "en": "In «Buenos Aires» the sky is cloudy all day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima se queda en dieciséis grados y la mínima en diez.",
+   "en": "The high stays at 16 degrees and the low at 10.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación es apenas del cuatro por ciento.",
+   "en": "The chance of rain is only 4 per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento llega a doce kilómetros por hora en la Ciudad.",
+   "en": "The wind reaches 12 kilometres an hour in the city.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Provincia por provincia, Córdoba amanece con cielo despejado.",
+   "en": "Province by province, «Córdoba» wakes up under clear skies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí la máxima trepa a veintidós grados,",
+   "en": "The high there climbs to 22 degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "seis más que en Buenos Aires,",
+   "en": "six more than in «Buenos Aires»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la mínima baja a once.",
+   "en": "and the low drops to 11.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "No se espera lluvia, y el viento alcanza catorce kilómetros por hora.",
+   "en": "No rain is expected, and the wind gets to 14 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Mendoza el cielo está poco nuboso.",
+   "en": "In «Mendoza» the sky is lightly clouded.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima también llega a veintidós grados,",
+   "en": "The high also reaches 22 degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pero la mínima cae a ocho.",
+   "en": "but the low falls to 8.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Tampoco se espera lluvia allí,",
+   "en": "No rain is expected there either,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el viento se queda en once kilómetros por hora.",
+   "en": "and the wind stays at 11 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Así está el cielo.",
+   "en": "That is how the sky looks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Tuesday 1 September",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Tuesday forecast for Buenos Aires, 1st September",
+ "summary_en": [
+  "Tuesday forecast for Buenos Aires, 1st September",
+  "Tuesday forecast for Córdoba, 1st September"
+ ]
+}

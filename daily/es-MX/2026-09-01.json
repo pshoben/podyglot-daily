@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-MX",
+ "date": "2026-09-01",
+ "episodes": [
+  {
+   "id": "es-MX-El noticiario matutino, martes 1 de septiembre",
+   "file": "podcast-daily-2026-09-01-morning-news-es-MX.json",
+   "bytes": 9368,
+   "sha256": "b0afe7ea4a698f25c325b707ca9e8b67e0cbd35ceb7e1792ad8af3adb6a2f0e7",
+   "date": "2026-09-01",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El noticiario matutino, martes 1 de septiembre",
+   "title_en": "The morning news, Tuesday 1 September",
+   "headline_en": "Trump threatens to hit Iran hard",
+   "summary_en": [
+    "Trump threatens to hit Iran hard",
+    "Sheinbaum delivers her second annual report today",
+    "Iran's president says he is looking for a peace deal"
+   ]
+  },
+  {
+   "id": "es-MX-La agenda deportiva, martes 1 de septiembre",
+   "file": "podcast-daily-2026-09-01-morning-sport-es-MX.json",
+   "bytes": 4219,
+   "sha256": "55db438cde1e9bacc6874779754062a2afee61492303dd64b54a2e60106bd05c",
+   "date": "2026-09-01",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "La agenda deportiva, martes 1 de septiembre",
+   "title_en": "Today's sport, Tuesday 1 September",
+   "headline_en": "Santiago Gimenez signs for Porto",
+   "summary_en": [
+    "Santiago Gimenez signs for Porto",
+    "Tickets for the NFL's return to Mexico go on sale on the 14th of September"
+   ]
+  },
+  {
+   "id": "es-MX-El clima, martes 1 de septiembre",
+   "file": "podcast-daily-2026-09-01-morning-weather-es-MX.json",
+   "bytes": 4686,
+   "sha256": "58f063c57ba58db738a9dedf457e489bb04c737b6a776486974a48f00349880d",
+   "date": "2026-09-01",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El clima, martes 1 de septiembre",
+   "title_en": "Today's weather, Tuesday 1 September",
+   "headline_en": "Tuesday forecast for Ciudad de México, 1st September",
+   "summary_en": [
+    "Tuesday forecast for Ciudad de México, 1st September",
+    "Tuesday forecast for Guadalajara, 1st September"
+   ]
+  }
+ ],
+ "content": "fa64ca992573e25490779d0f373419da87267f53e2b7beec0bca430e67f69a00",
+ "rev": 1,
+ "updated": "2026-09-01T14:20:24.150Z"
+}

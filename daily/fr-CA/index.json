@@ -5,6 +5,47 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-CA-Le bulletin du matin, mardi premier septembre",
+   "file": "podcast-daily-2026-09-01-morning-news-fr-CA.json",
+   "bytes": 9097,
+   "sha256": "ef364378ba8e6f2190876573b19146560f172ce4489c4eb3141fb405ba36ec84",
+   "date": "2026-09-01",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin du matin, mardi premier septembre",
+   "title_en": "The morning news, Tuesday 1 September",
+   "headline_en": "The Himalayan flood toll passes a thousand dead",
+   "summary_en": [
+    "The Himalayan flood toll passes a thousand dead",
+    "The Liberals win all three federal by-elections",
+    "Ottawa sends ten officials to Nepal"
+   ]
+  },
+  {
+   "id": "fr-CA-Le bulletin météo, mardi premier septembre",
+   "file": "podcast-daily-2026-09-01-morning-weather-fr-CA.json",
+   "bytes": 4968,
+   "sha256": "933833045fc6b59f2b199201a7ba3ce642ad6794bc5b9d09b21b17ceda423c06",
+   "date": "2026-09-01",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin météo, mardi premier septembre",
+   "title_en": "Today's weather, Tuesday 1 September",
+   "headline_en": "Tuesday forecast for Montréal, 1st September",
+   "summary_en": [
+    "Tuesday forecast for Montréal, 1st September",
+    "Tuesday forecast for Québec, 1st September"
+   ]
+  },
+  {
    "id": "fr-CA-Le bulletin du matin, lundi 31 août",
    "file": "podcast-daily-2026-08-31-morning-news-fr-CA.json",
    "bytes": 10428,

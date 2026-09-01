@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-CO",
+ "date": "2026-09-01",
+ "episodes": [
+  {
+   "id": "es-CO-La actualidad de la mañana, martes 1 de septiembre",
+   "file": "podcast-daily-2026-09-01-morning-news-es-CO.json",
+   "bytes": 9070,
+   "sha256": "beaf74a3abbb29d782c49fab15366f0124d173d36824e9e9d060a2eb20b72efe",
+   "date": "2026-09-01",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "La actualidad de la mañana, martes 1 de septiembre",
+   "title_en": "The morning news, Tuesday 1 September",
+   "headline_en": "The White House sets out the terms of the oil deal with Venezuela",
+   "summary_en": [
+    "The White House sets out the terms of the oil deal with Venezuela",
+    "A car bomb at the Los Patios police station kills one and wounds eleven",
+    "Washington is after 65,000 million barrels in seventeen fields"
+   ]
+  },
+  {
+   "id": "es-CO-La jornada deportiva, martes 1 de septiembre",
+   "file": "podcast-daily-2026-09-01-morning-sport-es-CO.json",
+   "bytes": 4323,
+   "sha256": "57537f5f70be7474854d8470b243f89e84ab376e4f3e35918d13fd991c5c9357",
+   "date": "2026-09-01",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "La jornada deportiva, martes 1 de septiembre",
+   "title_en": "Today's sport, Tuesday 1 September",
+   "headline_en": "Pogacar has surgery on his collarbone",
+   "summary_en": [
+    "Pogacar has surgery on his collarbone",
+    "Junior hunts a coach after Alfredo Arias leaves"
+   ]
+  },
+  {
+   "id": "es-CO-El clima de hoy, martes 1 de septiembre",
+   "file": "podcast-daily-2026-09-01-morning-weather-es-CO.json",
+   "bytes": 4500,
+   "sha256": "5c359a9187efd3f84f293709dd382809a96b8ce92a316b589f91f5b9f4c08e7d",
+   "date": "2026-09-01",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "El clima de hoy, martes 1 de septiembre",
+   "title_en": "Today's weather, Tuesday 1 September",
+   "headline_en": "Tuesday forecast for Cali, 1st September",
+   "summary_en": [
+    "Tuesday forecast for Cali, 1st September",
+    "Tuesday forecast for Bogotá, 1st September"
+   ]
+  }
+ ],
+ "content": "85a664712c99382a4c741695ebcd893bf5f2b85258f4c13e6b8f25292666bf8e",
+ "rev": 1,
+ "updated": "2026-09-01T14:20:24.150Z"
+}

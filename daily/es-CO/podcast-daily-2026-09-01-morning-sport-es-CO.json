@@ -1,0 +1,169 @@
+{
+ "title": "La jornada deportiva, martes 1 de septiembre",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-sport",
+   "wpm": 195,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-01",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "La jornada deportiva de este martes.",
+   "en": "The sports round for this Tuesday.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo que trae el día empieza en el ciclismo.",
+   "en": "What the day brings starts with cycling.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Tadej Pogacar fue operado el lunes de la clavícula que se fracturó",
+   "en": "«Tadej Pogacar» had surgery on Monday on the collarbone he broke",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "al caerse en la octava etapa de la Vuelta a España.",
+   "en": "when he came down on the eighth stage of the «Vuelta a España».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La intervención necesitó tornillos y placas para reconstruir el hueso.",
+   "en": "The operation needed screws and plates to rebuild the bone.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se recupera en Barcelona, y su presencia en el Mundial quedó en vilo.",
+   "en": "He is recovering in «Barcelona», and his place at the world championship is now in doubt.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En las canchas colombianas, el Junior de Barranquilla trabaja contrarreloj",
+   "en": "On Colombian pitches, «Junior de Barranquilla» is working against the clock",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para encontrar el reemplazo de Alfredo Arias.",
+   "en": "to find a replacement for «Alfredo Arias».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Viera no está cerrado, Bava se aleja y Gamero toma fuerza.",
+   "en": "«Viera» is not settled, «Bava» is drifting away and «Gamero» is gaining ground.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un técnico campeón se ofreció además para volver a dirigir al cuadro tiburón.",
+   "en": "A title-winning coach has also offered to come back and take charge of the club.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Rafael Dudamel estalló contra el director técnico del Bucaramanga, Pablo Peirano,",
+   "en": "«Rafael Dudamel» rounded on the «Bucaramanga» coach, «Pablo Peirano»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por los disturbios en el estadio de Palmaseca.",
+   "en": "over the disturbances at the «Palmaseca» stadium.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Peirano anunció que el Atlético Bucaramanga presentará una demanda por el partido.",
+   "en": "«Peirano» announced that «Atlético Bucaramanga» will lodge a formal complaint over the match.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esa es la jornada.",
+   "en": "That is the round.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Tuesday 1 September",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "Pogacar has surgery on his collarbone",
+ "summary_en": [
+  "Pogacar has surgery on his collarbone",
+  "Junior hunts a coach after Alfredo Arias leaves"
+ ]
+}

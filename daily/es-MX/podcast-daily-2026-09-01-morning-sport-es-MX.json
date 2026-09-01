@@ -1,0 +1,179 @@
+{
+ "title": "La agenda deportiva, martes 1 de septiembre",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-sport",
+   "wpm": 186,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-01",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "La agenda deportiva de este martes.",
+   "en": "The sports diary for this Tuesday.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos en Portugal, con un mexicano que estrena camiseta.",
+   "en": "We start in Portugal, with a Mexican in a new shirt.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Santiago Giménez firmó su traspaso al Porto,",
+   "en": "«Santiago Giménez» has signed for «Porto»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "cedido por el Milán italiano.",
+   "en": "on loan from «Milan» in Italy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El delantero se formó en las categorías inferiores del Cruz Azul.",
+   "en": "The striker came up through the «Cruz Azul» youth ranks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El movimiento se cerró en el límite del mercado de fichajes europeo,",
+   "en": "The move was done right on the deadline of the European transfer window,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el club ya lo presentó.",
+   "en": "and the club has already presented him.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En los estadios, la Liga Nacional de Futbol Americano vuelve a México.",
+   "en": "Over at the grounds, the National Football League is coming back to Mexico.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El partido entre los Vikingos de Minnesota y San Francisco",
+   "en": "The game between the «Minnesota» Vikings and San Francisco",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "se jugará en el Estadio Banorte, el veintidós de noviembre.",
+   "en": "will be played at the «Estadio Banorte», on the 22nd of November.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La banda mexicana The Warning tocará en el espectáculo de medio tiempo.",
+   "en": "The Mexican band The Warning will play the half-time show.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los boletos se podrán comprar en tres etapas,",
+   "en": "Tickets go on sale in three stages,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a partir del catorce de septiembre,",
+   "en": "from the 14th of September,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según informaron la liga y la plataforma Ticketmaster.",
+   "en": "the league and «Ticketmaster» said.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esa es la agenda.",
+   "en": "That is the diary.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Tuesday 1 September",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "Santiago Gimenez signs for Porto",
+ "summary_en": [
+  "Santiago Gimenez signs for Porto",
+  "Tickets for the NFL's return to Mexico go on sale on the 14th of September"
+ ]
+}

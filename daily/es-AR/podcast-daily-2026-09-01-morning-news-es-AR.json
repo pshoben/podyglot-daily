@@ -1,0 +1,370 @@
+{
+ "title": "El noticiero de la mañana, martes 1 de septiembre",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-01",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Martes primero de septiembre, siete de la mañana.",
+   "en": "Tuesday the first of September, seven in the morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El noticiero de la mañana.",
+   "en": "The morning bulletin.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El último recuento de las inundaciones en Nepal supera los mil muertos, según las autoridades.",
+   "en": "The latest count from the floods in Nepal is above a thousand dead, according to the authorities.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Acá en la Argentina, Donald Trump abrió la puerta",
+   "en": "Here in Argentina, «Donald Trump» has opened the door",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a revisar la postura de los Estados Unidos sobre las Islas Malvinas.",
+   "en": "to reviewing the American position on the «Islas Malvinas».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos por Nepal,",
+   "en": "We start in Nepal,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "donde las autoridades habían informado el lunes novecientos diecinueve fallecidos",
+   "en": "where the authorities had reported 919 dead on Monday",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por las riadas y los deslizamientos de tierra.",
+   "en": "from the flash floods and the landslides.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Casi cuatro mil quinientas personas siguen desaparecidas.",
+   "en": "Almost 4,500 people are still missing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos en la Argentina, el mandatario estadounidense dijo que su gobierno evaluaba quitarle su apoyo",
+   "en": "In other news, the American president said his government was weighing whether to withdraw its support",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a la posición británica sobre las islas.",
+   "en": "for the British position on the islands.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aseguró además que siempre revisa las posiciones de su gobierno.",
+   "en": "He also said he always reviews his government's positions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El presidente Javier Milei se hizo eco de esas declaraciones en una entrevista,",
+   "en": "President «Javier Milei» picked up on those remarks in an interview,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y hoy encabeza una reunión de Gabinete en la Casa Rosada.",
+   "en": "and today he chairs a cabinet meeting at the «Casa Rosada».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El canciller Pablo Quirno sostuvo que la Argentina no puede depender de nadie,",
+   "en": "The foreign minister, «Pablo Quirno», said Argentina cannot depend on anyone,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y que el conflicto por la soberanía no se define por terceros.",
+   "en": "and that the sovereignty dispute is not settled by outside powers.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También en la agenda, dirigentes peronistas y aliados firmaron una declaración conjunta",
+   "en": "Moving on, Peronist leaders and their allies have signed a joint declaration",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a cuatro años del ataque sufrido por la entonces vicepresidenta.",
+   "en": "four years on from the attack on the then vice-president.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El texto advierte sobre los discursos de odio, las noticias falsas y el lawfare.",
+   "en": "The text warns about hate speech, false news and «lawfare».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La concentración de esta tarde será desde las diecisiete frente a San José mil ciento once,",
+   "en": "This afternoon's rally starts at five outside «San José» 1111,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "donde Cristina Kirchner cumple arresto domiciliario,",
+   "en": "where «Cristina Kirchner» is under house arrest,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y hablará Máximo Kirchner.",
+   "en": "and «Máximo Kirchner» will speak.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de tema ahora,",
+   "en": "Turning to something else,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el agro liquidó dos mil setecientos cincuenta millones de dólares en agosto.",
+   "en": "farm exporters brought in 2,750 million dollars in August.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es un seis por ciento menos que en julio,",
+   "en": "That is 6 per cent less than in July,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y un treinta y tres por ciento superior al mismo mes de dos mil veinticinco.",
+   "en": "and 33 per cent above the same month in 2025.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En los primeros ocho meses del año,",
+   "en": "Over the first eight months of the year",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el complejo agroexportador acumula más de diecinueve mil millones de dólares.",
+   "en": "the farm export sector has brought in more than 19,000 million dollars.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otro tema, septiembre arrancó con aumentos en transporte, alquileres y prepagas.",
+   "en": "Elsewhere, September has opened with rises in transport, rents and private health cover.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los colectivos del área metropolitana subieron entre cuatro coma uno y cuatro coma tres por ciento,",
+   "en": "Buses in the «Buenos Aires» area went up by between 4.1 and 4.3 per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y los trenes un siete por ciento.",
+   "en": "and trains by 7 per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las facturas de luz suben en promedio uno coma setenta y cinco por ciento,",
+   "en": "Electricity bills rise by 1.75 per cent on average,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y las de gas uno coma cuarenta.",
+   "en": "and gas bills by 1.40.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo central.",
+   "en": "That is the heart of it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 1 September",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "The Nepal flood toll passes a thousand",
+ "summary_en": [
+  "The Nepal flood toll passes a thousand",
+  "Trump opens the door to reviewing the American position on the Malvinas",
+  "Milei welcomes Trump's words on the islands"
+ ]
+}

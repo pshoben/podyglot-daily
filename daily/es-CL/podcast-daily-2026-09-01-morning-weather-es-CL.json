@@ -1,0 +1,189 @@
+{
+ "title": "El estado del tiempo, martes 1 de septiembre",
+ "dialect": "es-CL",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CL-daily-weather",
+   "wpm": 205,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-01",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Así estará el cielo hoy martes en tres ciudades del país.",
+   "en": "This is how the sky will look today, Tuesday, in three cities around the country.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las cifras vienen del modelo del Centro Europeo, el ECMWF.",
+   "en": "These numbers are the European Centre model's, the ECMWF.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Precaución en Concepción, la única de las tres con lluvia en el pronóstico.",
+   "en": "Take care in «Concepción», the only one of the three with rain in the forecast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí se espera llovizna, con una probabilidad de precipitación del treinta y tres por ciento.",
+   "en": "Drizzle is expected there, with a 33 per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima se queda en dieciséis grados y la mínima en seis.",
+   "en": "The high stays at 16 degrees and the low at 6.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento llega a ocho kilómetros por hora.",
+   "en": "The wind reaches 8 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Santiago el cielo está nuboso,",
+   "en": "In «Santiago» the sky is cloudy,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pero sin lluvia a la vista.",
+   "en": "but there is no rain in sight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La capital sube hasta veinte grados y baja hasta seis, igual que Concepción.",
+   "en": "The capital climbs to 20 degrees and drops to 6, the same as «Concepción».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento se queda en seis kilómetros por hora,",
+   "en": "The wind stays at 6 kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el más flojo de las tres ciudades.",
+   "en": "the lightest of the three cities.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De región en región, Valparaíso tiene intervalos nubosos y la jornada más templada.",
+   "en": "Region by region, «Valparaíso» has broken cloud and the mildest day of the three.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima porteña alcanza veintitrés grados,",
+   "en": "The high on the coast reaches 23 degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con una mínima de ocho.",
+   "en": "with a low of 8.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Tampoco se espera lluvia, y el viento sopla hasta trece kilómetros por hora.",
+   "en": "No rain is expected there either, and the wind blows up to 13 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese es el panorama.",
+   "en": "That is the picture.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Tuesday 1 September",
+ "edition": "morning",
+ "region": "es-CL",
+ "region_label": "Chile",
+ "headline_en": "Tuesday forecast for Concepción, 1st September",
+ "summary_en": [
+  "Tuesday forecast for Concepción, 1st September",
+  "Tuesday forecast for Santiago, 1st September"
+ ]
+}

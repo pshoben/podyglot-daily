@@ -1,0 +1,189 @@
+{
+ "title": "El clima de hoy, martes 1 de septiembre",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-weather",
+   "wpm": 195,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-01",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Así amanece el cielo hoy martes en tres ciudades del país.",
+   "en": "This is how the sky looks today, Tuesday, in three cities around the country.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las cifras las entrega el modelo del Centro Europeo, el ECMWF.",
+   "en": "These readings are given by the European Centre model, the ECMWF.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pendientes en Cali, donde la probabilidad de precipitación es del cien por ciento.",
+   "en": "Keep an eye on «Cali», where the chance of rain is 100 per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se esperan chubascos durante el día,",
+   "en": "Showers are expected through the day,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con una máxima de veintiocho grados y una mínima de veinte.",
+   "en": "with a high of 28 degrees and a low of 20.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento es flojo, de siete kilómetros por hora.",
+   "en": "The wind is light, at 7 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Región por región, Bogotá también llega al cien por ciento de probabilidad, pero con llovizna.",
+   "en": "Region by region, «Bogotá» is also at 100 per cent, but with drizzle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La capital se queda en veinte grados de máxima y baja hasta diez,",
+   "en": "The capital stays at a high of 20 degrees and drops to 10,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la mínima más fría de las tres.",
+   "en": "the coldest low of the three.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí el viento sopla algo más,",
+   "en": "The wind there blows a little harder,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "hasta once kilómetros por hora.",
+   "en": "up to 11 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Medellín la llovizna es igual de probable, con un noventa y cinco por ciento.",
+   "en": "In «Medellín» drizzle is almost as likely, at 95 per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima también alcanza veintiocho grados,",
+   "en": "The high also reaches 28 degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la mínima se queda en dieciocho.",
+   "en": "and the low stays at 18.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento llega a ocho kilómetros por hora en el valle de Aburrá.",
+   "en": "The wind gets to 8 kilometres an hour in the «Aburrá» valley.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese es el clima.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Tuesday 1 September",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "Tuesday forecast for Cali, 1st September",
+ "summary_en": [
+  "Tuesday forecast for Cali, 1st September",
+  "Tuesday forecast for Bogotá, 1st September"
+ ]
+}
