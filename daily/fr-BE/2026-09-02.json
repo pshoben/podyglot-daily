@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-BE",
+ "date": "2026-09-02",
+ "episodes": [
+  {
+   "id": "fr-BE-Le sept heures, mercredi 2 septembre",
+   "file": "podcast-daily-2026-09-02-morning-news-fr-BE.json",
+   "bytes": 10432,
+   "sha256": "1e665d2bebc26a651a521f4746e14cf93bedf33ec3aedb2cbdfe3e889a2aa4ef",
+   "date": "2026-09-02",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, mercredi 2 septembre",
+   "title_en": "The morning news, Wednesday 2 September",
+   "headline_en": "The United States strikes Iran for a second time in days",
+   "summary_en": [
+    "The United States strikes Iran for a second time in days",
+    "Belgian teachers step up their protest campaign",
+    "Tehran says it has hit American targets in reply"
+   ]
+  },
+  {
+   "id": "fr-BE-Le sport chez nous, mercredi 2 septembre",
+   "file": "podcast-daily-2026-09-02-morning-sport-fr-BE.json",
+   "bytes": 5633,
+   "sha256": "82474aab203a8870d3fba14a731af7a6d7624446b6f4c62c8bcdc90e0015d320",
+   "date": "2026-09-02",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sport chez nous, mercredi 2 septembre",
+   "title_en": "Today's sport, Wednesday 2 September",
+   "headline_en": "Pro League midweek: Saint-Trond host Union Saint-Gilloise",
+   "summary_en": [
+    "Pro League midweek: Saint-Trond host Union Saint-Gilloise",
+    "Belgian moves as the transfer window shuts"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, mercredi 2 septembre",
+   "file": "podcast-daily-2026-09-02-morning-weather-fr-BE.json",
+   "bytes": 4995,
+   "sha256": "781bd18759cb40d2f1086ccbffc12e9876b23dec0f1122e064a0af437822238f",
+   "date": "2026-09-02",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, mercredi 2 septembre",
+   "title_en": "Today's weather, Wednesday 2 September",
+   "headline_en": "Wednesday forecast for Bruxelles, 2nd September",
+   "summary_en": [
+    "Wednesday forecast for Bruxelles, 2nd September",
+    "Wednesday forecast for Liège, 2nd September"
+   ]
+  }
+ ],
+ "content": "ab4ee22ebceac746df1cc48c875cd4c0b5b6e008a4de2430ae38c7628197dc3f",
+ "rev": 2,
+ "updated": "2026-09-02T06:50:27.628Z"
+}

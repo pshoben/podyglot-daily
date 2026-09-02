@@ -5,6 +5,47 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-FR-Le journal du matin, mercredi 2 septembre",
+   "file": "podcast-daily-2026-09-02-morning-news-fr-FR.json",
+   "bytes": 10088,
+   "sha256": "27c2a91c95073c81dc71dccab1f2f860fb4a694a95624584e7b2675b7a19ddfe",
+   "date": "2026-09-02",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, mercredi 2 septembre",
+   "title_en": "The morning news, Wednesday 2 September",
+   "headline_en": "The United States strikes Iran again and Iran hits back in the Gulf",
+   "summary_en": [
+    "The United States strikes Iran again and Iran hits back in the Gulf",
+    "Patrick Bruel calls off his tour of France",
+    "Tension in the Strait of Hormuz is the backdrop to the strikes"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, mercredi 2 septembre",
+   "file": "podcast-daily-2026-09-02-morning-weather-fr-FR.json",
+   "bytes": 4651,
+   "sha256": "2c3ab18363696eddf9a6e9425d126ab169a3734edcdde5cfa0e53f9a1a72f74a",
+   "date": "2026-09-02",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, mercredi 2 septembre",
+   "title_en": "Today's weather, Wednesday 2 September",
+   "headline_en": "Wednesday forecast for Paris, 2nd September",
+   "summary_en": [
+    "Wednesday forecast for Paris, 2nd September",
+    "Wednesday forecast for Bordeaux, 2nd September"
+   ]
+  },
+  {
    "id": "fr-FR-Le journal du matin, mardi premier septembre",
    "file": "podcast-daily-2026-09-01-morning-news-fr-FR.json",
    "bytes": 8697,
@@ -734,107 +775,6 @@
    "summary_en": [
     "Prévision pour Marseille, jeudi 2026-08-20",
     "Prévision pour Bordeaux, jeudi 2026-08-20"
-   ]
-  },
-  {
-   "id": "fr-FR-Le journal du matin, mercredi 19 août",
-   "file": "podcast-daily-2026-08-19-morning-news-fr-FR.json",
-   "bytes": 15397,
-   "sha256": "ac02216d8536fbce3b8e39a684ef1bd1510354fa0a9d241aabce053e50a015d6",
-   "date": "2026-08-19",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le journal du matin, mercredi 19 août",
-   "title_en": "The morning news, Wednesday 19 August",
-   "headline_en": "France will expel two Iranian diplomats posted in France. The French foreign minister anno",
-   "summary_en": [
-    "France will expel two Iranian diplomats posted in France. The French foreign minister anno",
-    "The law creating a right to assisted dying was promulgated by Emmanuel Macron and publishe",
-    "The law will not apply immediately. The government must still publish the necessary implem"
-   ]
-  },
-  {
-   "id": "fr-FR-Le sport, mercredi 19 août",
-   "file": "podcast-daily-2026-08-19-morning-sport-fr-FR.json",
-   "bytes": 5969,
-   "sha256": "33ff63d8a5f1c2c9087bfa546cd7b87e00193896631aa91a52c3deeef4b79085",
-   "date": "2026-08-19",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le sport, mercredi 19 août",
-   "title_en": "Today's sport, Wednesday 19 August",
-   "headline_en": "The world show jumping championships are being held in Germany, at Aachen. The France team",
-   "summary_en": [
-    "The world show jumping championships are being held in Germany, at Aachen. The France team",
-    "The first matchday of the 2026-2027 Ligue 1 season is being played this weekend. Le Mans F"
-   ]
-  },
-  {
-   "id": "fr-FR-La météo, mercredi 19 août",
-   "file": "podcast-daily-2026-08-19-morning-weather-fr-FR.json",
-   "bytes": 7616,
-   "sha256": "7760ae0a578b407f0683527c26413215a1bbcbf9ccb2ff2024e2eaf5f2e14bd1",
-   "date": "2026-08-19",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "La météo, mercredi 19 août",
-   "title_en": "Today's weather, Wednesday 19 August",
-   "headline_en": "Prévision pour Paris, mercredi 2026-08-19",
-   "summary_en": [
-    "Prévision pour Paris, mercredi 2026-08-19",
-    "Prévision pour Bordeaux, mercredi 2026-08-19"
-   ]
-  },
-  {
-   "id": "fr-FR-Le journal du soir, mercredi 19 août",
-   "file": "podcast-daily-2026-08-19-evening-news-fr-FR.json",
-   "bytes": 12989,
-   "sha256": "8a58519cc7dc8bef21472a3211ace3b75c8b63702311d0e5e73ec3eb1bcbe966",
-   "date": "2026-08-19",
-   "edition": "evening",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le journal du soir, mercredi 19 août",
-   "title_en": "The evening news, Wednesday 19 August",
-   "headline_en": "Prime minister Sebastien Lecornu asked on Wednesday the national information systems secur",
-   "summary_en": [
-    "Prime minister Sebastien Lecornu asked on Wednesday the national information systems secur",
-    "Public Health France announced on Wednesday that 1,243 excess deaths were recorded from 3",
-    "The law creating a right to assisted dying, validated by the Constitutional Council with s"
-   ]
-  },
-  {
-   "id": "fr-FR-Les résultats, mercredi 19 août",
-   "file": "podcast-daily-2026-08-19-evening-results-fr-FR.json",
-   "bytes": 3363,
-   "sha256": "81df8817655d70b43b3dbb035ec6a469bc71b59b7f1a6251ba4df4e34ce1c87c",
-   "date": "2026-08-19",
-   "edition": "evening",
-   "programme": "results",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Les résultats, mercredi 19 août",
-   "title_en": "Results, Wednesday 19 August",
-   "headline_en": "Fenerbahce against Lyon, Champions League playoff first leg",
-   "summary_en": [
-    "Fenerbahce against Lyon, Champions League playoff first leg"
    ]
   }
  ]

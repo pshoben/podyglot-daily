@@ -1,0 +1,400 @@
+{
+ "title": "Le sept heures, mercredi 2 septembre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-news",
+   "wpm": 222,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-02",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Mercredi deux septembre. Le sept heures.",
+   "en": "Wednesday the second of September. The seven o'clock news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les États-Unis ont frappé l'Iran pour la deuxième fois en quelques jours.",
+   "en": "The United States has struck Iran for the second time in a few days.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Belgique, le collectif d'enseignants Mars Attacks promet de nouvelles actions dans les",
+   "en": "In Belgium, the teachers' collective «Mars Attacks» is promising fresh action over",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "semaines à venir.",
+   "en": "the coming weeks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On ouvre avec l'Iran, où l'armée américaine a annoncé avoir achevé sa salve de frappes.",
+   "en": "We open in Iran, where the American army has said its round of strikes is over.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ces frappes ont visé des cibles du Corps des Gardiens de la Révolution iranien.",
+   "en": "The strikes hit targets belonging to Iran's Revolutionary Guard Corps.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elles sont intervenues malgré une mise en garde de Donald Trump contre toute",
+   "en": "They came despite a warning from «Donald Trump» against any move",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "opération de représailles.",
+   "en": "to hit back.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Téhéran a annoncé une riposte contre des cibles américaines",
+   "en": "Tehran says it has hit back at American targets",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et l'attaque de bases militaires dans plusieurs pays.",
+   "en": "and attacked military bases in several countries.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Chez nous, ce collectif d'enseignants s'est réuni mardi soir en assemblée générale à Liège.",
+   "en": "Here at home, that teachers' collective met on Tuesday evening at a general assembly in «Liège».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les quelque cent cinquante participants ont convenu d'amplifier leurs actions de protestation.",
+   "en": "The 150 or so people there agreed to step up their protest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le collectif rassemble des enseignants mobilisés contre les mesures d'économie adoptées par le gouvernement de",
+   "en": "The collective brings together teachers who have mobilised against the spending cuts brought in by the government of",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la Fédération Wallonie-Bruxelles.",
+   "en": "the Wallonia-Brussels Federation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un nouveau calendrier d'actions a été dévoilé pour les prochaines semaines.",
+   "en": "A new timetable of action was set out for the weeks ahead.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Chez nous toujours, l'été deux mille vingt-six est le plus chaud jamais enregistré en Belgique,",
+   "en": "Still at home, the summer of 2026 is the warmest ever recorded in Belgium, according to the IRM,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon l'IRM, l'Institut royal météorologique.",
+   "en": "the royal weather institute.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Marqué par trois vagues de chaleur,",
+   "en": "Marked by three heatwaves, it averaged 20.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "il affiche une moyenne de vingt virgule trois degrés, pour une normale de dix-sept virgule",
+   "en": "3 degrees, against a normal figure of 17.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "neuf.",
+   "en": "9.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est la première fois qu'une moyenne saisonnière dépasse vingt degrés dans le pays,",
+   "en": "It is the first time a seasonal average has gone above 20 degrees in Belgium,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où les relevés remontent à mille huit cent trente-trois.",
+   "en": "where records go back to 1833.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ailleurs dans l'actu, l'Allemagne a rendu la Russie responsable d'une attaque au drone contre",
+   "en": "Elsewhere in the news, Germany has held Russia responsible for a drone attack",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "l'aéroport de Leipzig.",
+   "en": "on «Leipzig» airport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'engin, chargé d'explosifs, avait visé début août une plateforme clé pour l'armée allemande,",
+   "en": "In early August the device, packed with explosives, had targeted a key hub for the German army,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "l'OTAN et l'aide logistique à l'Ukraine.",
+   "en": "for NATO and for supplies going to Ukraine.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Berlin a pris des mesures de rétorsion et fermé le dernier consulat russe du pays.",
+   "en": "Berlin has taken measures in return and closed the country's last Russian consulate.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'ambassadeur russe a prévenu que ces mesures ne seraient pas sans conséquences.",
+   "en": "The Russian ambassador has warned that those measures will not be without consequences.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ministre belge des Affaires étrangères, Maxime Prévot,",
+   "en": "Belgium's foreign minister, «Maxime Prévot»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a exprimé la totale solidarité de la Belgique avec l'Allemagne,",
+   "en": "said Belgium stood in full solidarity with Germany,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "évoquant un acte hostile extrêmement grave.",
+   "en": "calling it an extremely serious hostile act.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour terminer, le nouveau télescope spatial de la NASA a décollé",
+   "en": "Finally, NASA's new orbiting telescope lifted off",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le trente août du Kennedy Space Center, en Floride.",
+   "en": "on 30th August from the «Kennedy Space Center» in Florida.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Baptisé Roman, il part à la recherche de la matière noire et des exoplanètes.",
+   "en": "Named Roman, it is setting out in search of dark matter and exoplanets.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cette matière invisible représente vingt-sept pour cent du contenu de l'univers,",
+   "en": "That invisible matter makes up 27 per cent of what the universe contains,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le télescope pourrait écarter certaines hypothèses sur sa nature.",
+   "en": "and the telescope may rule out some of the theories about what it is.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà où nous en sommes.",
+   "en": "That is where we stand this Wednesday morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Wednesday 2 September",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "The United States strikes Iran for a second time in days",
+ "summary_en": [
+  "The United States strikes Iran for a second time in days",
+  "Belgian teachers step up their protest campaign",
+  "Tehran says it has hit American targets in reply"
+ ]
+}

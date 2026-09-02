@@ -1,0 +1,183 @@
+{
+ "title": "El tiempo en Canarias, miércoles 2 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-canarias",
+   "wpm": 208,
+   "rate_multiplier": 0.86,
+   "pitch_multiplier": 0.59
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-canarias",
+ "date": "2026-09-02",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "En las islas, el tiempo de hoy en Canarias.",
+   "en": "Out in the islands, today's weather in the «Canarias».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las Palmas de Gran Canaria se queda hoy en veintiocho grados,",
+   "en": "«Las Palmas de Gran Canaria» stays at twenty-eight degrees today,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con veinticuatro de mínima, según la Aemet.",
+   "en": "with twenty-four overnight, according to «AEMET».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo sigue nuboso durante toda la jornada y no se espera lluvia.",
+   "en": "The sky stays cloudy all day and no rain is expected.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento del norte alcanza allí los treinta kilómetros por hora,",
+   "en": "The northerly wind there reaches thirty kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el índice ultravioleta llega al nueve.",
+   "en": "and the ultraviolet index gets to nine.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Santa Cruz de Tenerife,",
+   "en": "In «Santa Cruz de Tenerife»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "treinta grados de máxima y veinticuatro de mínima.",
+   "en": "a high of thirty degrees and a low of twenty-four.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí hay intervalos nubosos, y la probabilidad de lluvia para el conjunto del día es",
+   "en": "There is broken cloud there, and the chance of rain across the",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "del cuarenta y cinco por ciento.",
+   "en": "day is forty-five per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por la tarde el cielo se despeja y esa probabilidad cae a cero.",
+   "en": "In the afternoon the sky clears and that chance falls to nothing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento del nordeste sopla a veinticinco kilómetros por hora y rola al norte,",
+   "en": "The north-easterly wind blows at twenty-five kilometres an hour and swings round to the north,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "hasta los treinta.",
+   "en": "up to thirty.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El índice ultravioleta alcanza el ocho en la capital tinerfeña.",
+   "en": "The ultraviolet index gets to eight in the Tenerife capital.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es Canarias.",
+   "en": "That is the «Canarias».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 4,
+ "handover": "junction",
+ "title_en": "Today's weather, Canary Islands, Wednesday 2 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Canarias",
+ "accent": "Canarias",
+ "accent_label": "acento de Canarias",
+ "segment_order": 2,
+ "headline_en": "Wednesday AEMET forecast for Las Palmas de Gran Canaria, 2nd September",
+ "summary_en": [
+  "Wednesday AEMET forecast for Las Palmas de Gran Canaria, 2nd September",
+  "Wednesday AEMET forecast for Santa Cruz de Tenerife, 2nd September"
+ ]
+}

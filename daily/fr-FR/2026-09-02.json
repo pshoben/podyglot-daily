@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-FR",
+ "date": "2026-09-02",
+ "episodes": [
+  {
+   "id": "fr-FR-Le journal du matin, mercredi 2 septembre",
+   "file": "podcast-daily-2026-09-02-morning-news-fr-FR.json",
+   "bytes": 10088,
+   "sha256": "27c2a91c95073c81dc71dccab1f2f860fb4a694a95624584e7b2675b7a19ddfe",
+   "date": "2026-09-02",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, mercredi 2 septembre",
+   "title_en": "The morning news, Wednesday 2 September",
+   "headline_en": "The United States strikes Iran again and Iran hits back in the Gulf",
+   "summary_en": [
+    "The United States strikes Iran again and Iran hits back in the Gulf",
+    "Patrick Bruel calls off his tour of France",
+    "Tension in the Strait of Hormuz is the backdrop to the strikes"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, mercredi 2 septembre",
+   "file": "podcast-daily-2026-09-02-morning-weather-fr-FR.json",
+   "bytes": 4651,
+   "sha256": "2c3ab18363696eddf9a6e9425d126ab169a3734edcdde5cfa0e53f9a1a72f74a",
+   "date": "2026-09-02",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, mercredi 2 septembre",
+   "title_en": "Today's weather, Wednesday 2 September",
+   "headline_en": "Wednesday forecast for Paris, 2nd September",
+   "summary_en": [
+    "Wednesday forecast for Paris, 2nd September",
+    "Wednesday forecast for Bordeaux, 2nd September"
+   ]
+  }
+ ],
+ "content": "54b0c43aecd777ccf49cff15ab58f3bb5b5ea3120ac32a627cc747dcbb39519b",
+ "rev": 1,
+ "updated": "2026-09-02T06:47:37.930Z"
+}

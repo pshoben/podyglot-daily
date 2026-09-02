@@ -3,8 +3,89 @@
  "channel": "daily",
  "dialect": "fr-BE",
  "base": "https://pshoben.github.io/podyglot-daily/archive/",
- "archived_before": "2026-08-19",
+ "archived_before": "2026-08-20",
  "episodes": [
+  {
+   "id": "fr-BE-Le sept heures, mercredi 19 août",
+   "file": "podcast-daily-2026-08-19-morning-news-fr-BE.json",
+   "bytes": 10934,
+   "sha256": "7e892ef730c8cfddb2f639389720a9ae120965e4769cb3695541b0b239349046",
+   "date": "2026-08-19",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, mercredi 19 août",
+   "title_en": "The morning news, Wednesday 19 August",
+   "headline_en": "The fire in the Hautes Fagnes has been encircled but is not yet under control, and the sit",
+   "summary_en": [
+    "The fire in the Hautes Fagnes has been encircled but is not yet under control, and the sit",
+    "Belgium's civil cooperation with Ukraine is intensifying. It covers the reintegration of v",
+    "Prince Laurent's paternity of Clement Vandenkerckhove has been established before a regist"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, mercredi 19 août",
+   "file": "podcast-daily-2026-08-19-morning-weather-fr-BE.json",
+   "bytes": 4876,
+   "sha256": "a38880e81080809bd855fc6c941ed40bdb3196358ea049a21d79adce263a34ec",
+   "date": "2026-08-19",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, mercredi 19 août",
+   "title_en": "Today's weather, Wednesday 19 August",
+   "headline_en": "Prévision pour Bruxelles, mercredi 2026-08-19",
+   "summary_en": [
+    "Prévision pour Bruxelles, mercredi 2026-08-19",
+    "Prévision pour Liège, mercredi 2026-08-19"
+   ]
+  },
+  {
+   "id": "fr-BE-Le dix-huit heures, mercredi 19 août",
+   "file": "podcast-daily-2026-08-19-evening-news-fr-BE.json",
+   "bytes": 8725,
+   "sha256": "d4c0459f7b624f6dec0e72731b96908850a63a4e5676d2265edc1f4af24b96ba",
+   "date": "2026-08-19",
+   "edition": "evening",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le dix-huit heures, mercredi 19 août",
+   "title_en": "The evening news, Wednesday 19 August",
+   "headline_en": "Violent storms broke on Wednesday at about half past six in the evening over several commu",
+   "summary_en": [
+    "Violent storms broke on Wednesday at about half past six in the evening over several commu",
+    "The secretary general of the United Nations, Antonio Guterres, unequivocally condemned on",
+    "The education minister Valerie Glatigny did not rule out on Wednesday, in an interview wit"
+   ]
+  },
+  {
+   "id": "fr-BE-Les scores, mercredi 19 août",
+   "file": "podcast-daily-2026-08-19-evening-results-fr-BE.json",
+   "bytes": 3418,
+   "sha256": "a702ce022d7e461223ed2e8a94bdce4a65513195c8d6ecce41cf225a5496d77a",
+   "date": "2026-08-19",
+   "edition": "evening",
+   "programme": "results",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Les scores, mercredi 19 août",
+   "title_en": "Results, Wednesday 19 August",
+   "headline_en": "Belgium against Malaysia at the hockey World Cup in Wavre",
+   "summary_en": [
+    "Belgium against Malaysia at the hockey World Cup in Wavre"
+   ]
+  },
   {
    "id": "fr-BE-Le sept heures, mardi 18 août",
    "file": "podcast-daily-2026-08-18-morning-news-fr-BE.json",

@@ -1,0 +1,380 @@
+{
+ "title": "El informativo de la mañana, miércoles 2 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-news",
+   "wpm": 208,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-02",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Miércoles dos de septiembre, siete de la mañana en Madrid.",
+   "en": "Wednesday the 2nd of September, seven in the morning in «Madrid».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El informativo de la mañana.",
+   "en": "The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Estados Unidos ha vuelto a bombardear Irán,",
+   "en": "The United States has bombed Iran again,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que ha respondido con misiles contra bases estadounidenses en Jordania.",
+   "en": "and Iran has answered with missiles against American bases in Jordan.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un informe de la Policía atribuye a fuerzas marroquíes la entrada masiva de",
+   "en": "A police report blames Moroccan forces for the mass entry of",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "inmigrantes en Ceuta.",
+   "en": "migrants into «Ceuta».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Abrimos con Irán, donde el bombardeo estadounidense del martes fue el segundo en menos de",
+   "en": "We start in Iran, where Tuesday's American bombing was the second in less",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "cuarenta y ocho horas, tras un mes sin agresiones cruzadas.",
+   "en": "than 48 hours, after a month with no strikes either way.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Donald Trump amenazó con ataques mucho mayores si Teherán respondía.",
+   "en": "«Donald Trump» threatened much heavier attacks if Tehran answered.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Guardia Revolucionaria afirmó después haber atacado con misiles balísticos la base estadounidense de Camp",
+   "en": "The Revolutionary Guard then said it had hit the American base of «Camp",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Titin, en el sur de Jordania.",
+   "en": "Titin», in southern Jordan, with ballistic missiles.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos en España, la Policía ha remitido a la Audiencia Nacional un informe que sitúa",
+   "en": "Back in Spain, the police have sent the «Audiencia Nacional» a report",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a gendarmes marroquíes guiando a los migrantes en Castillejo.",
+   "en": "saying Moroccan gendarmes guided the migrants at «Castillejo».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según ese informe, agentes de paisano les señalaron por dónde cruzar la frontera de El",
+   "en": "According to that report, plain-clothes officers showed them where to cross the border at «El",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Tarajal el treinta de julio.",
+   "en": "Tarajal» on 30th July.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El ministro del Interior, Fernando Grande-Marlaska,",
+   "en": "The Interior Minister, «Fernando Grande-Marlaska»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ha pedido por carta al director general de la Policía que verifique cuanto",
+   "en": "has written to the head of the police asking him to check that document as",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "antes ese documento.",
+   "en": "soon as possible.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Marlaska aseguró que desconocía la información entregada a la Audiencia Nacional.",
+   "en": "«Marlaska» said he had not known about the information handed to the «Audiencia Nacional».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el resto de la actualidad,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "hoy se celebran concentraciones en apoyo a Ceuta frente a los ayuntamientos de toda España.",
+   "en": "rallies in support of «Ceuta» are being held today outside town halls all over Spain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las ha convocado la presidenta de la Federación Española de Municipios y Provincias,",
+   "en": "They were called by the president of the Spanish Federation of Municipalities and Provinces,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y en Madrid coincidirán los líderes del Partido Popular y de Vox.",
+   "en": "and in «Madrid» the leaders of the People's Party and «Vox» will both be there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La convocatoria de la capital se mantiene como acto institucional,",
+   "en": "The one in the capital is going ahead as an official event,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "después de que la Delegación del Gobierno no la autorizara como manifestación.",
+   "en": "after the Government Delegation refused to authorise it as a demonstration.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de tema, un taxista murió el martes por la tarde por un disparo de",
+   "en": "Moving on, a taxi driver was shot dead on Tuesday",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "arma de fuego en Azpeitia, en Guipúzcoa.",
+   "en": "evening in «Azpeitia», in «Guipúzcoa».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Ertzaintza busca al autor de los disparos,",
+   "en": "The «Ertzaintza», the Basque police, are looking for the gunman,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que se marchó del lugar en un coche.",
+   "en": "who left the scene by car.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otro asunto, Donald Trump ha respondido que revisa todas sus posturas al ser preguntado por",
+   "en": "Turning to something else, «Donald Trump» said he keeps all his positions under review",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la soberanía de las islas Malvinas.",
+   "en": "when he was asked about sovereignty over the Falkland Islands.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El presidente argentino, Javier Milei,",
+   "en": "The Argentine president, «Javier Milei»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "celebró esas palabras y anunció un mensaje a su país sobre las islas.",
+   "en": "welcomed those words and announced a message to his country about the islands.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para terminar, el Festival de Cine de Venecia, la Mostra, se inaugura hoy.",
+   "en": "And finally, the Venice film festival, the «Mostra», opens today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí lo esencial.",
+   "en": "And that is where we leave it this morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Wednesday 2 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "The US bombs Iran again and Iran fires on bases in Jordan",
+ "summary_en": [
+  "The US bombs Iran again and Iran fires on bases in Jordan",
+  "A police report puts Moroccan agents behind the Ceuta crossing",
+  "Trump threatened bigger strikes if Tehran replied"
+ ]
+}

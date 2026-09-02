@@ -1,0 +1,219 @@
+{
+ "title": "Le sport chez nous, mercredi 2 septembre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-sport",
+   "wpm": 222,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-02",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le sport chez nous, ce mercredi matin.",
+   "en": "Sport in Belgium, this Wednesday morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Du côté des clubs, trois rencontres de Pro League se jouent en milieu de semaine.",
+   "en": "Over at the clubs, three «Pro League» games are being played in midweek.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Saint-Trond reçoit l'Union Saint-Gilloise ce mercredi à vingt heures trente.",
+   "en": "«Saint-Trond» host «Union Saint-Gilloise» this Wednesday at 8. 30 in the evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Jeudi, Anderlecht accueille Courtrai, et La Gantoise reçoit Louvain.",
+   "en": "On Thursday, «Anderlecht» are at home to «Courtrai», and «La Gantoise» to «Louvain».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ces matches rattrapent la troisième journée,",
+   "en": "These games make up the third round,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "décalée pour les clubs engagés dans les barrages européens.",
+   "en": "put back because the clubs involved were in the European play-offs.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le nouveau format à dix-huit équipes avait pourtant mis fin aux journées disputées en semaine.",
+   "en": "The new 18-team format had otherwise done away with midweek match days.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le marché des transferts s'est refermé mardi soir dans les plus grands championnats.",
+   "en": "The transfer market closed on Tuesday evening in the biggest leagues.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Malick Fofana quitte Lyon pour Sunderland,",
+   "en": "«Malick Fofana» leaves «Lyon» for «Sunderland»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où il s'engage pour cinq ans.",
+   "en": "where he signs for five years.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Matias Fernandez-Pardo a paraphé un contrat à long terme avec Newcastle United.",
+   "en": "«Matias Fernandez-Pardo» has put his name to a long-term contract with «Newcastle United».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lucas Stassin, lui, rejoint la Liga espagnole.",
+   "en": "«Lucas Stassin», meanwhile, is off to the Spanish league.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mohammed Fuseini quitte l'Union Saint-Gilloise et part en prêt à Derby County,",
+   "en": "«Mohammed Fuseini» leaves «Union Saint-Gilloise» on loan to «Derby County», in",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en deuxième division anglaise.",
+   "en": "the English second division.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce qui nous attend ensuite, la cinquantième édition du Mémorial Van Damme, vendredi.",
+   "en": "Also coming up, the 50th «Mémorial Van Damme», on Friday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le programme du meeting vient d'être dévoilé par sa directrice.",
+   "en": "The programme for the meet has just been set out by its director.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Paulien Couckuyt s'y alignera sur quatre cents mètres haies,",
+   "en": "«Paulien Couckuyt» will run there over 400 metres hurdles,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avant les Ultimate Championships de Budapest.",
+   "en": "before the «Ultimate Championships» in «Budapest».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport belge.",
+   "en": "That is Belgian sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Wednesday 2 September",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Pro League midweek: Saint-Trond host Union Saint-Gilloise",
+ "summary_en": [
+  "Pro League midweek: Saint-Trond host Union Saint-Gilloise",
+  "Belgian moves as the transfer window shuts"
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "title": "El tiempo en Andalucía, miércoles 2 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-andalucia",
+   "wpm": 208,
+   "rate_multiplier": 0.73,
+   "pitch_multiplier": 0.79
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-andalucia",
+ "date": "2026-09-02",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Tierra adentro, el tiempo de hoy en Andalucía.",
+   "en": "Inland, today's weather in «Andalucía».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Córdoba se va hoy a los cuarenta grados, con veinte de mínima, según la Aemet.",
+   "en": "«Córdoba» goes up to forty degrees today, with twenty overnight, according to «AEMET».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo está allí despejado todo el día, sin probabilidad de lluvia,",
+   "en": "The sky there is clear all day, with no chance of rain,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el viento del oeste sopla a diez kilómetros por hora.",
+   "en": "and the westerly wind blows at ten kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por el valle del Guadalquivir, Sevilla llega también a los cuarenta grados,",
+   "en": "Along the «Guadalquivir» valley, «Sevilla» also reaches forty degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con veintiuno de mínima.",
+   "en": "with twenty-one overnight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La jornada pasa allí poco nubosa",
+   "en": "The day there is lightly clouded",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el viento del oeste se queda en cinco kilómetros por hora.",
+   "en": "and the westerly wind stays at five kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El aviso por altas temperaturas es aquí de nivel naranja.",
+   "en": "The high-temperature warning here is at orange level.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Está en vigor desde la una de la tarde",
+   "en": "It runs from one in the",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y hasta las nueve de la noche en la campiña cordobesa",
+   "en": "afternoon until nine at night in the «Córdoba» and «Sevilla»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y en la campiña sevillana.",
+   "en": "countryside.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la costa, Málaga amanece muy nubosa y por la tarde queda poco nubosa.",
+   "en": "On the coast, «Málaga» starts the day heavily clouded and turns lightly clouded in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí la máxima se queda en treinta y un grados,",
+   "en": "The high there stays at thirty-one degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con veintitrés de mínima y viento del este a diez kilómetros por hora.",
+   "en": "with twenty-three overnight and an easterly wind at ten kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es Andalucía.",
+   "en": "That is «Andalucía».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 3,
+ "handover": "junction",
+ "title_en": "Today's weather, Andalusia, Wednesday 2 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Andalucía",
+ "accent": "Andalucía",
+ "accent_label": "acento de Andalucía",
+ "segment_order": 1,
+ "headline_en": "Wednesday AEMET forecast for Córdoba, 2nd September",
+ "summary_en": [
+  "Wednesday AEMET forecast for Córdoba, 2nd September",
+  "Wednesday AEMET forecast for Sevilla, 2nd September"
+ ]
+}

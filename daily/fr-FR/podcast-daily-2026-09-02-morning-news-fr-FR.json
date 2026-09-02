@@ -1,0 +1,400 @@
+{
+ "title": "Le journal du matin, mercredi 2 septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-02",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Mercredi deux septembre, sept heures à Paris. Le journal du matin.",
+   "en": "Wednesday the 2nd of September, seven o'clock in «Paris». The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les États-Unis ont de nouveau frappé l'Iran,",
+   "en": "The United States has struck Iran again,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qui a riposté contre des bases américaines dans le Golfe.",
+   "en": "and Iran has hit back at American bases in the Gulf.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, le chanteur Patrick Bruel a annulé sa tournée,",
+   "en": "In France, the singer «Patrick Bruel» has called off his tour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "après sa mise en examen dans plusieurs affaires de violences sexuelles.",
+   "en": "after being placed under formal investigation in several sexual violence cases.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par le Moyen-Orient,",
+   "en": "We start in the Middle East,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où l'armée américaine a mené une nouvelle salve de bombardements,",
+   "en": "where the American military carried out another round of bombing,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la deuxième en quelques jours.",
+   "en": "the second in a few days.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Iran a attaqué en réponse des bases militaires américaines dans plusieurs pays du Golfe.",
+   "en": "In reply, Iran attacked American military bases in several Gulf countries.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ces frappes sont intervenues sur fond de tensions dans le détroit d'Ormuz.",
+   "en": "The strikes came against a background of tension in the Strait of Hormuz.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon les médias d'État iraniens, au moins onze personnes ont été tuées.",
+   "en": "Iranian state media said at least eleven people were killed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sur les marchés, cette escalade entre Washington",
+   "en": "On the markets, this escalation between Washington",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et Téhéran a provoqué une envolée des prix du pétrole.",
+   "en": "and Tehran sent oil prices sharply higher.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, Patrick Bruel devait repartir en tournée au début du mois d'octobre.",
+   "en": "In France, «Patrick Bruel» was due to go back on tour at the start of October.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le chanteur clame son innocence,",
+   "en": "The singer says he is innocent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et son avocate a déclaré que cette renonciation n'était pas un aveu.",
+   "en": "and his lawyer said that giving up the tour was not an admission.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Plusieurs maires s'étaient opposés en août à sa venue dans leurs villes.",
+   "en": "Several mayors had objected in August to him coming to their towns.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'annulation a été saluée par des associations féministes.",
+   "en": "Feminist groups have welcomed the cancellation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le Rassemblement national a remis à l'ordre du jour l'interdiction du port du voile",
+   "en": "the «Rassemblement national» has put a ban on wearing the veil in public places back",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans l'espace public.",
+   "en": "on the agenda.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La proposition est critiquée de toutes parts,",
+   "en": "The proposal has been criticised from all sides,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "comme une atteinte à la liberté religieuse et sur son applicabilité par les policiers.",
+   "en": "as an attack on religious freedom and over how the police would apply it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le parti, lui, dit ne pas attaquer un symbole religieux.",
+   "en": "The party itself says it is not attacking a religious symbol.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre sujet maintenant, les fortes chaleurs",
+   "en": "Turning to something else, the heat",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et la sécheresse de cet été ont fortement perturbé les récoltes.",
+   "en": "and the drought of this summer have badly disrupted the harvests.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Face à des fruits et légumes plus petits,",
+   "en": "With fruit and vegetables coming out smaller,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la grande distribution assouplit ses critères sur leur aspect, pour soutenir les producteurs.",
+   "en": "the supermarkets are relaxing their standards on how produce looks, to support growers.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à autre chose,",
+   "en": "Moving on,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le Programme des Nations unies pour l'environnement a publié un rapport sur le climat.",
+   "en": "the United Nations Environment Programme has published a report on the climate.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le rapport juge inévitable le dépassement du seuil de un virgule cinq degré de réchauffement.",
+   "en": "The report finds that going past the one point five degree warming threshold is now unavoidable.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il demande de repenser la gouvernance climatique.",
+   "en": "It wants climate governance to be rethought.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le texte trace aussi une trajectoire pour repasser sous ce seuil avant la",
+   "en": "The text also maps out a path back below that threshold before the end",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "fin du siècle.",
+   "en": "of the century.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour finir, la tapisserie de Bayeux est exposée au British Museum, à Londres.",
+   "en": "And finally, the «Bayeux» Tapestry is on show at the British Museum in London.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Emmanuel Macron doit inaugurer l'exposition ce mercredi.",
+   "en": "«Emmanuel Macron» is due to open the exhibition on Wednesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Wednesday 2 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "The United States strikes Iran again and Iran hits back in the Gulf",
+ "summary_en": [
+  "The United States strikes Iran again and Iran hits back in the Gulf",
+  "Patrick Bruel calls off his tour of France",
+  "Tension in the Strait of Hormuz is the backdrop to the strikes"
+ ]
+}

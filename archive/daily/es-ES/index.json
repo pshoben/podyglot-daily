@@ -3,8 +3,149 @@
  "channel": "daily",
  "dialect": "es-ES",
  "base": "https://pshoben.github.io/podyglot-daily/archive/",
- "archived_before": "2026-08-19",
+ "archived_before": "2026-08-20",
  "episodes": [
+  {
+   "id": "es-ES-El informativo de la mañana, miércoles 19 de agosto",
+   "file": "podcast-daily-2026-08-19-morning-news-es-ES.json",
+   "bytes": 10871,
+   "sha256": "3572931f5537be24891d2c202731cd89c2adc8630aff25d81d1f7cc9c53dc9d3",
+   "date": "2026-08-19",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, miércoles 19 de agosto",
+   "title_en": "The morning news, Wednesday 19 August",
+   "headline_en": "At the start of its trial, Meta has denied having sought to hook children on Facebook and",
+   "summary_en": [
+    "At the start of its trial, Meta has denied having sought to hook children on Facebook and",
+    "Six earthquakes were recorded during the night in Granada, five of them felt by residents",
+    "A fire in Las Hurdes, in Caceres, has forced the mobilisation of the UME and the evacuatio"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, miércoles 19 de agosto",
+   "file": "podcast-daily-2026-08-19-morning-sport-es-ES.json",
+   "bytes": 4359,
+   "sha256": "b472b05a30d4bcbb282b58d55f71229b5e38bdbf2452415911e6fa540d64eff6",
+   "date": "2026-08-19",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, miércoles 19 de agosto",
+   "title_en": "Today's sport, Wednesday 19 August",
+   "headline_en": "The new LaLiga season is starting. The return of the Portuguese Jose Mourinho to Real Madr",
+   "summary_en": [
+    "The new LaLiga season is starting. The return of the Portuguese Jose Mourinho to Real Madr",
+    "Atletico de Madrid begin their season at the Metropolitano against Malaga, and the Andalus"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, miércoles 19 de agosto",
+   "file": "podcast-daily-2026-08-19-morning-weather-es-ES.json",
+   "bytes": 5208,
+   "sha256": "9e0cff7d62579c9e2357072b93454f0866acf7f036741b4b6571f8c50deaf7b0",
+   "date": "2026-08-19",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, miércoles 19 de agosto",
+   "title_en": "Today's weather, Wednesday 19 August",
+   "headline_en": "Predicción AEMET para Madrid (Madrid), 2026-08-19",
+   "summary_en": [
+    "Predicción AEMET para Madrid (Madrid), 2026-08-19",
+    "AEMET has issued an orange warning for rain and an orange warning for storms in the Pirine"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, miércoles 19 de agosto",
+   "file": "podcast-daily-2026-08-19-morning-weather-andalucia-es-ES.json",
+   "bytes": 3779,
+   "sha256": "d88a7d86ff0b8e30b7e1d9c6a807f392c3f105f19df40782acf4583dca88bb33",
+   "date": "2026-08-19",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, miércoles 19 de agosto",
+   "title_en": "Today's weather, Andalusia, Wednesday 19 August",
+   "headline_en": "Predicción AEMET para Málaga (Málaga), 2026-08-19",
+   "summary_en": [
+    "Predicción AEMET para Málaga (Málaga), 2026-08-19",
+    "Predicción AEMET para Córdoba (Córdoba), 2026-08-19"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, miércoles 19 de agosto",
+   "file": "podcast-daily-2026-08-19-morning-weather-canarias-es-ES.json",
+   "bytes": 3654,
+   "sha256": "e06d51d1eda62d50ca6dc30e98acef96a56d7f73960e564f0667bf686961a19c",
+   "date": "2026-08-19",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, miércoles 19 de agosto",
+   "title_en": "Today's weather, Canary Islands, Wednesday 19 August",
+   "headline_en": "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-19",
+   "summary_en": [
+    "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-19",
+    "Predicción AEMET para Santa Cruz de Tenerife (Santa Cruz de Tenerife (Tenerife)), 2026-08-19"
+   ]
+  },
+  {
+   "id": "es-ES-El informativo de la tarde, miércoles 19 de agosto",
+   "file": "podcast-daily-2026-08-19-evening-news-es-ES.json",
+   "bytes": 9924,
+   "sha256": "acdf456944d44d79e00432b33b564645042cbb05ab84de9e0d301150b7d385d6",
+   "date": "2026-08-19",
+   "edition": "evening",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la tarde, miércoles 19 de agosto",
+   "title_en": "The evening news, Wednesday 19 August",
+   "headline_en": "The government is working on the urgent transfer of the first 500 migrant girls out of Ceu",
+   "summary_en": [
+    "The government is working on the urgent transfer of the first 500 migrant girls out of Ceu",
+    "The new forest fire at Aldea del Fresno, in the Sierra Oeste of Madrid, is stabilised afte",
+    "The Guardia Civil confirmed the location of the weapons used by the hooded men in the shoo"
+   ]
+  },
+  {
+   "id": "es-ES-Los resultados, miércoles 19 de agosto",
+   "file": "podcast-daily-2026-08-19-evening-results-es-ES.json",
+   "bytes": 3608,
+   "sha256": "7ddf79e15b7ebad1c46f232d50378c231672cc2ced87856f72eda4cb9e4e04cf",
+   "date": "2026-08-19",
+   "edition": "evening",
+   "programme": "results",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los resultados, miércoles 19 de agosto",
+   "title_en": "Results, Wednesday 19 August",
+   "headline_en": "Atletico de Madrid against Malaga in the Liga",
+   "summary_en": [
+    "Atletico de Madrid against Malaga in the Liga"
+   ]
+  },
   {
    "id": "es-ES-El informativo de la mañana, martes 18 de agosto",
    "file": "podcast-daily-2026-08-18-morning-news-es-ES.json",

@@ -1,0 +1,229 @@
+{
+ "title": "Los deportes, miércoles 2 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-sport",
+   "wpm": 208,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-02",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Los deportes, este miércoles por la mañana.",
+   "en": "Sport, this Wednesday morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El mercado de fichajes de verano se cerró anoche en España,",
+   "en": "The summer transfer window closed last night in Spain,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la mayoría de los clubes de Primera dejó los deberes para el último día.",
+   "en": "and most first division clubs left their business to the last day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos por Dani Ceballos, que vuelve al Betis nueve temporadas después de marcharse",
+   "en": "We begin with «Dani Ceballos», who returns to «Betis» nine seasons after leaving",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "al Real Madrid.",
+   "en": "for «Real Madrid».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El centrocampista firmó por tres temporadas, hasta dos mil veintinueve,",
+   "en": "The midfielder signed for three seasons, to 2029,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el club lo hizo oficial pasada la una de la madrugada.",
+   "en": "and the club made it official after one in the morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Barcelona fichó a Gabriel Jesus, procedente del Arsenal,",
+   "en": "«Barcelona» signed «Gabriel Jesus» from «Arsenal» and registered him",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y lo inscribió con el nueve a un cuarto de hora del cierre.",
+   "en": "with the number nine a quarter of an hour before the deadline.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Sevilla ató en el último minuto la cesión de Youssouf Fofana,",
+   "en": "«Sevilla» tied up the loan of the France midfielder «Youssouf Fofana», who comes",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "internacional francés, que llega del Milan.",
+   "en": "from «Milan», in the last minute.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Deportivo de La Coruña se lleva cedidos a Marc Casadó, del Barcelona,",
+   "en": "«Deportivo de La Coruña» take «Marc Casadó», from «Barcelona», and «José María",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y a José María Giménez, del Atlético de Madrid.",
+   "en": "Giménez», from «Atlético de Madrid», on loan.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por Casadó, el club gallego tendrá una opción de compra de treinta millones de euros.",
+   "en": "For «Casadó», the Galician club will have an option to buy at 30 million euros.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En los campos ingleses, Enzo Fernández deja el Chelsea",
+   "en": "Out in the English game, «Enzo Fernández» leaves «Chelsea» and",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y ficha por el Manchester City por ciento cuarenta y cinco millones de euros.",
+   "en": "signs for «Manchester City» for 145 million euros.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y una baja en el Valencia,",
+   "en": "And one absence at «Valencia»: the",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el delantero Umar Sadiq estará más de dos meses fuera por una lesión",
+   "en": "forward «Umar Sadiq» will be out for more than two months with",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el isquiotibial.",
+   "en": "a hamstring injury.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí los deportes.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Wednesday 2 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "The summer transfer window closes in Spain",
+ "summary_en": [
+  "The summer transfer window closes in Spain",
+  "Dani Ceballos signs for Real Betis"
+ ]
+}

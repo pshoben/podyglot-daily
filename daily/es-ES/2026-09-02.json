@@ -1,0 +1,112 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-ES",
+ "date": "2026-09-02",
+ "episodes": [
+  {
+   "id": "es-ES-El informativo de la mañana, miércoles 2 de septiembre",
+   "file": "podcast-daily-2026-09-02-morning-news-es-ES.json",
+   "bytes": 9787,
+   "sha256": "ace1104ee0b5842eebfbb133d95757192a73f28e075121bc35abf92d1131e39d",
+   "date": "2026-09-02",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, miércoles 2 de septiembre",
+   "title_en": "The morning news, Wednesday 2 September",
+   "headline_en": "The US bombs Iran again and Iran fires on bases in Jordan",
+   "summary_en": [
+    "The US bombs Iran again and Iran fires on bases in Jordan",
+    "A police report puts Moroccan agents behind the Ceuta crossing",
+    "Trump threatened bigger strikes if Tehran replied"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, miércoles 2 de septiembre",
+   "file": "podcast-daily-2026-09-02-morning-sport-es-ES.json",
+   "bytes": 5645,
+   "sha256": "37589567f288ce614a35d60ecaff7357c7c712c156c01184b10d1d25865c1463",
+   "date": "2026-09-02",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, miércoles 2 de septiembre",
+   "title_en": "Today's sport, Wednesday 2 September",
+   "headline_en": "The summer transfer window closes in Spain",
+   "summary_en": [
+    "The summer transfer window closes in Spain",
+    "Dani Ceballos signs for Real Betis"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, miércoles 2 de septiembre",
+   "file": "podcast-daily-2026-09-02-morning-weather-es-ES.json",
+   "bytes": 5981,
+   "sha256": "9068383e0f27d8085e488f88b9466fe615ca21294c08e5204395a73cb2f05c18",
+   "date": "2026-09-02",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, miércoles 2 de septiembre",
+   "title_en": "Today's weather, Wednesday 2 September",
+   "headline_en": "AEMET heat warnings in five regions today",
+   "summary_en": [
+    "AEMET heat warnings in five regions today",
+    "A yellow heat warning across the Madrid region"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, miércoles 2 de septiembre",
+   "file": "podcast-daily-2026-09-02-morning-weather-andalucia-es-ES.json",
+   "bytes": 4745,
+   "sha256": "92990aa98e170d7973c4111bf6aac504a4a0cf9cb6a33b81025da31ee88e0d87",
+   "date": "2026-09-02",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, miércoles 2 de septiembre",
+   "title_en": "Today's weather, Andalusia, Wednesday 2 September",
+   "headline_en": "Wednesday AEMET forecast for Córdoba, 2nd September",
+   "summary_en": [
+    "Wednesday AEMET forecast for Córdoba, 2nd September",
+    "Wednesday AEMET forecast for Sevilla, 2nd September"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, miércoles 2 de septiembre",
+   "file": "podcast-daily-2026-09-02-morning-weather-canarias-es-ES.json",
+   "bytes": 4500,
+   "sha256": "d206865c15ec64d6740edb9aae73a26efe4880a10bedfd399349a4cd2111fb4b",
+   "date": "2026-09-02",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, miércoles 2 de septiembre",
+   "title_en": "Today's weather, Canary Islands, Wednesday 2 September",
+   "headline_en": "Wednesday AEMET forecast for Las Palmas de Gran Canaria, 2nd September",
+   "summary_en": [
+    "Wednesday AEMET forecast for Las Palmas de Gran Canaria, 2nd September",
+    "Wednesday AEMET forecast for Santa Cruz de Tenerife, 2nd September"
+   ]
+  }
+ ],
+ "content": "7cdaf72d572af0acdd00fedf6092ada145896da8ad425d627b8bd676d4d99368",
+ "rev": 1,
+ "updated": "2026-09-02T06:47:37.930Z"
+}

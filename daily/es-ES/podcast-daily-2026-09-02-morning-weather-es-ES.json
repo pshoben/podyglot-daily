@@ -1,0 +1,243 @@
+{
+ "title": "El tiempo, miércoles 2 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather",
+   "wpm": 208,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-02",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "De norte a sur, el tiempo de hoy en España.",
+   "en": "From north to south, today's weather in Spain.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Aemet ha activado hoy avisos por altas temperaturas en cinco comunidades:",
+   "en": "«AEMET» has put out high-temperature warnings today in five regions:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cataluña, Castilla-La Mancha, Extremadura, Madrid y Andalucía.",
+   "en": "«Cataluña», «Castilla-La Mancha», «Extremadura», «Madrid» and «Andalucía».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la Comunidad de Madrid el aviso es amarillo en las horas centrales del día,",
+   "en": "In the «Madrid» region the warning is yellow through the middle of the day,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con máximas de treinta y seis a treinta y siete grados fuera de la sierra.",
+   "en": "with highs of thirty-six to thirty-seven degrees away from the mountains.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la capital el cielo está despejado de la mañana a la noche,",
+   "en": "In the capital the sky is clear from morning to night,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sin probabilidad de lluvia.",
+   "en": "with no chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima llega a treinta y seis grados y la mínima se queda en veinte.",
+   "en": "The high reaches thirty-six degrees and the low stays at twenty.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento del sur sopla a cinco kilómetros por hora",
+   "en": "The southerly wind blows at five kilometres an hour",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y gira al oeste por la tarde.",
+   "en": "and turns westerly in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Barcelona, treinta y un grados de máxima y veinticuatro de mínima,",
+   "en": "In «Barcelona», a high of thirty-one degrees and a low of twenty-four,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "también con el cielo despejado.",
+   "en": "under a clear sky as well.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí el viento del este se mantiene en diez kilómetros por hora.",
+   "en": "The easterly wind there holds at ten kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En València el cielo se despeja por la tarde,",
+   "en": "In «València» the sky clears in the afternoon,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con treinta grados de máxima,",
+   "en": "with a high of thirty,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "veintiuno de mínima y viento del este a quince kilómetros por hora.",
+   "en": "a low of twenty-one and an easterly wind at fifteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el norte, Bilbao pasa la jornada poco nubosa,",
+   "en": "Up north, «Bilbao» spends the day lightly clouded,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con veintiocho grados de máxima y quince de mínima.",
+   "en": "with a high of twenty-eight degrees and a low of fifteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En A Coruña la máxima se queda en veintitrés grados y la mínima en dieciséis,",
+   "en": "In «A Coruña» the high stays at twenty-three degrees and the low at sixteen,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con viento del noroeste a quince kilómetros por hora.",
+   "en": "with a north-westerly wind at fifteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí el tiempo.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Wednesday 2 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "España",
+ "accent": "Castilla",
+ "accent_label": "acento de Castilla",
+ "segment_order": 0,
+ "headline_en": "AEMET heat warnings in five regions today",
+ "summary_en": [
+  "AEMET heat warnings in five regions today",
+  "A yellow heat warning across the Madrid region"
+ ]
+}
