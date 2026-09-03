@@ -1,0 +1,380 @@
+{
+ "title": "El informativo de la mañana, jueves 3 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-news",
+   "wpm": 208,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-03",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Jueves tres de septiembre, siete de la mañana en Madrid.",
+   "en": "Thursday the 3rd of September, seven in the morning in «Madrid».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El informativo de la mañana.",
+   "en": "The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Alemania atribuye a Rusia el ataque con drones que fracasó en Leipzig.",
+   "en": "Germany blames Russia for the drone attack that failed at «Leipzig» airport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pedro Sánchez comparece hoy en el Congreso por la crisis migratoria de Ceuta.",
+   "en": "«Pedro Sánchez» faces parliament today over the migration crisis in «Ceuta».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Abrimos con Alemania, que ha acusado formalmente a Rusia de aquel intento.",
+   "en": "We begin in Germany, which has formally accused Russia of that attempt.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El intento se produjo el cuatro de agosto.",
+   "en": "The attempt was made on 4th August.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El ministro del Interior alemán ve ahí un patrón de operaciones híbridas rusas.",
+   "en": "The German interior minister sees this as fitting a pattern of Russian hybrid operations.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Alemania cerrará además el centro cultural ruso de Berlín.",
+   "en": "Germany will also close the Russian cultural centre in Berlin.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en España, el presidente del Gobierno rinde cuentas por lo ocurrido en Ceuta.",
+   "en": "Here in Spain, the prime minister answers for what happened in «Ceuta».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Fue el treinta y el treinta y uno de julio,",
+   "en": "It was on the 30th and the 31st of July,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y entraron al menos setenta mil personas.",
+   "en": "and at least 70,000 people came across.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un informe policial remitido a la Audiencia Nacional apunta a agentes marroquíes.",
+   "en": "A police report sent to the «Audiencia Nacional» points to Moroccan officers.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Gobierno mantiene que no tiene pruebas de que Marruecos organizara el salto.",
+   "en": "The government maintains that it has no proof that Morocco organised the crossing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Miles de ciudadanos se concentraron ayer frente a los ayuntamientos de toda España.",
+   "en": "Thousands of people gathered outside town halls all over Spain yesterday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La convocatoria se hizo a través de la Federación Española de Municipios y Provincias.",
+   "en": "The rallies were called through the Spanish Federation of Municipalities and Provinces.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Contó con el respaldo del Partido Popular y de Vox.",
+   "en": "It had the backing of the People's Party and «Vox».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la concentración de Madrid coincidieron Alberto Núñez Feijóo y Santiago Abascal.",
+   "en": "At the «Madrid» rally, «Alberto Núñez Feijóo» and «Santiago Abascal» were both there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las cifras de asistencia no coinciden.",
+   "en": "The attendance counts do not agree.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Madrid fueron ciento cincuenta mil personas según el Ayuntamiento,",
+   "en": "In «Madrid» there were 150,000 people according to the city council,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y cincuenta mil según la Delegación del Gobierno.",
+   "en": "and 50,000 according to the government delegation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Frente al Congreso hubo enfrentamientos,",
+   "en": "Outside parliament there were clashes,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la Policía disolvió la concentración con cargas breves.",
+   "en": "and the police broke the crowd up with short baton charges.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el resto de la actualidad, la Organización Meteorológica Mundial espera un Niño muy intenso.",
+   "en": "In other news, the world weather body expects a very strong «El Niño».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El fenómeno alcanzará su máxima fuerza a finales de año.",
+   "en": "The phenomenon will reach its greatest strength at the end of the year.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y la organización da por casi seguro que dure hasta febrero de dos mil veintisiete.",
+   "en": "And it is almost certain to last until February 2027, the organisation says.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de tema, el futbolista del Real Madrid Raúl Asencio ha sido condenado por conducir",
+   "en": "Moving on, the «Real Madrid» footballer «Raúl Asencio» has been convicted of drink-driving",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ebrio en Gran Canaria.",
+   "en": "in «Gran Canaria».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La sentencia es una multa de catorce mil cuatrocientos euros más ocho meses sin carné.",
+   "en": "The sentence is a 14,400 euro fine plus eight months without a licence.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otro asunto, la Mostra de Venecia se inauguró con Ink.",
+   "en": "Turning to something else,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es una película sobre el nacimiento del tabloide The Sun.",
+   "en": "the Venice film festival has opened with Ink. It is a film about the birth of the tabloid The Sun.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "George Clooney recibió allí el León de Oro honorífico.",
+   "en": "«George Clooney» was given an honorary Golden Lion there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para terminar, esta noche llega a Antena 3 la serie Las hijas de la criada.",
+   "en": "Elsewhere, tonight «Antena 3» shows the series «Las hijas de la criada».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Está basada en la novela de Sonsoles Ónega que ganó",
+   "en": "It is based on the novel by «Sonsoles Ónega» that won",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el Premio Planeta de dos mil veintitrés.",
+   "en": "the «Premio Planeta» in 2023.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí lo esencial.",
+   "en": "And that is where the news stands this morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Thursday 3 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Germany blames Russia for the failed drone attack on Leipzig airport",
+ "summary_en": [
+  "Germany blames Russia for the failed drone attack on Leipzig airport",
+  "Sanchez appears before Congress over the Ceuta border crossing",
+  "A police report puts Moroccan officers at the July border crossing"
+ ]
+}

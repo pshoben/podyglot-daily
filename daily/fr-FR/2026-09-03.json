@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-FR",
+ "date": "2026-09-03",
+ "episodes": [
+  {
+   "id": "fr-FR-Le journal du matin, jeudi 3 septembre",
+   "file": "podcast-daily-2026-09-03-morning-news-fr-FR.json",
+   "bytes": 8261,
+   "sha256": "2cb161475204767bb72322b0375556ee9e80156c43f1e60be12946fa18fd51ab",
+   "date": "2026-09-03",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, jeudi 3 septembre",
+   "title_en": "The morning news, Thursday 3 September",
+   "headline_en": "American bombing of Iran resumes after a month of calm",
+   "summary_en": [
+    "American bombing of Iran resumes after a month of calm",
+    "Bodies of four members of one family found in Haute-Saone",
+    "Iran hits back at American bases in the Gulf"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, jeudi 3 septembre",
+   "file": "podcast-daily-2026-09-03-morning-sport-fr-FR.json",
+   "bytes": 3995,
+   "sha256": "9e313e60ffd71a5006d8fd09d54261399c7ff3de52a3de0ed79bd5840b0cc3ff",
+   "date": "2026-09-03",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, jeudi 3 septembre",
+   "title_en": "Today's sport, Thursday 3 September",
+   "headline_en": "Toulouse against Lille opens the third round of Ligue 1",
+   "summary_en": [
+    "Toulouse against Lille opens the third round of Ligue 1",
+    "Isack Hadjar misses Sunday's Italian Grand Prix"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, jeudi 3 septembre",
+   "file": "podcast-daily-2026-09-03-morning-weather-fr-FR.json",
+   "bytes": 4800,
+   "sha256": "b8215d2a37e8a0519a07c1a6394f74994b39c62b09b5afed194d9f9655064704",
+   "date": "2026-09-03",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, jeudi 3 septembre",
+   "title_en": "Today's weather, Thursday 3 September",
+   "headline_en": "Thursday forecast for Paris, 3rd September",
+   "summary_en": [
+    "Thursday forecast for Paris, 3rd September",
+    "Thursday forecast for Bordeaux, 3rd September"
+   ]
+  }
+ ],
+ "content": "85bfacfcdc29fc8d097f456b7cd6d96c0e56e8e70b59b60ddc9acb885636ed9b",
+ "rev": 2,
+ "updated": "2026-09-03T07:48:58.012Z"
+}

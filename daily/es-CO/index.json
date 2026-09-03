@@ -532,67 +532,6 @@
     "The forecast for Bogotá for Friday 21 August 2026 is a maximum of 19 degrees and a minimum",
     "The forecast for Medellín for Friday 21 August 2026 is a maximum of 29 degrees and a minim"
    ]
-  },
-  {
-   "id": "es-CO-La actualidad de la mañana, jueves 20 de agosto",
-   "file": "podcast-daily-2026-08-20-morning-news-es-CO.json",
-   "bytes": 13149,
-   "sha256": "25341fc3371ecf645dc0b00df3fb81868d26fd923b93e4753d3ecb54bc7bf017",
-   "date": "2026-08-20",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "es-CO",
-   "region_label": "Colombia",
-   "title": "La actualidad de la mañana, jueves 20 de agosto",
-   "title_en": "The morning news, Thursday 20 August",
-   "headline_en": "The government of Abelardo De La Espriella officially declared the State of Economic, Soci",
-   "summary_en": [
-    "The government of Abelardo De La Espriella officially declared the State of Economic, Soci",
-    "The latest report from the UNGRD, cut off at 6:30 in the morning of 20 August, says the ea",
-    "The government of Israel announced on Thursday 20 August 2026 that Colombia and Israel wil"
-   ]
-  },
-  {
-   "id": "es-CO-La jornada deportiva, jueves 20 de agosto",
-   "file": "podcast-daily-2026-08-20-morning-sport-es-CO.json",
-   "bytes": 7550,
-   "sha256": "15281075728bc36df197f85c8d902876f1c98ec5d71bbe4b70a08b972490148e",
-   "date": "2026-08-20",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "es-CO",
-   "region_label": "Colombia",
-   "title": "La jornada deportiva, jueves 20 de agosto",
-   "title_en": "Today's sport, Thursday 20 August",
-   "headline_en": "A global coalition of supporters is demanding the resignation of Gianni Infantino as presi",
-   "summary_en": [
-    "A global coalition of supporters is demanding the resignation of Gianni Infantino as presi",
-    "Max Verstappen has renewed his contract with the Austrian team Red Bull until 2030. The Du"
-   ]
-  },
-  {
-   "id": "es-CO-El clima de hoy, jueves 20 de agosto",
-   "file": "podcast-daily-2026-08-20-morning-weather-es-CO.json",
-   "bytes": 4771,
-   "sha256": "94889f9adfe9e8c213e14df1be66d8a6ac1b242adbe174c9b197bd9ce4551eab",
-   "date": "2026-08-20",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "es-CO",
-   "region_label": "Colombia",
-   "title": "El clima de hoy, jueves 20 de agosto",
-   "title_en": "Today's weather, Thursday 20 August",
-   "headline_en": "Previsión para Bogotá, jueves 2026-08-20",
-   "summary_en": [
-    "Previsión para Bogotá, jueves 2026-08-20",
-    "Previsión para Cali, jueves 2026-08-20"
-   ]
   }
  ]
 }

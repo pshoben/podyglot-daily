@@ -1,0 +1,179 @@
+{
+ "title": "Los deportes, jueves 3 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-sport",
+   "wpm": 208,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-03",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Hoy en la agenda, el fútbol.",
+   "en": "Today in sport, the football.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El mercado de fichajes ya está cerrado,",
+   "en": "The transfer window is closed now,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y las plantillas no se moverán hasta enero.",
+   "en": "and squads will not change until January.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Real Sociedad recibe esta noche al Celta en Anoeta, en un partido de LaLiga.",
+   "en": "«Real Sociedad» host «Celta» at «Anoeta» tonight, in a «LaLiga» match.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El encuentro empieza a las nueve.",
+   "en": "Kick-off is at nine.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El técnico de la Real, Pellegrino Matarazzo, cumple sanción.",
+   "en": "The «Real Sociedad» coach, «Pellegrino Matarazzo», is serving a suspension.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los dos últimos fichajes de la Real, Fort y Sarr, entran en la convocatoria.",
+   "en": "The club's two most recent signings, «Fort» and «Sarr», are in the squad.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Jon Pacheco vuelve a quedarse fuera de la lista.",
+   "en": "«Jon Pacheco» is left out again.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la lista del Celta está Driouech.",
+   "en": "«Driouech» is in the «Celta» squad.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el Betis, el presidente Ángel Haro ha negado que el club",
+   "en": "At «Betis», the president «Ángel Haro» has denied that the club",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "empujara a Pablo García a salir.",
+   "en": "pushed «Pablo García» out.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su traspaso al Racing de Santander se hizo a petición del propio futbolista.",
+   "en": "His transfer to «Racing de Santander» was made at the player's own request.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dani Ceballos, en cambio, ya se ha entrenado con sus nuevos compañeros.",
+   "en": "«Dani Ceballos», on the other hand, has already trained with his new teammates.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aterrizó a primera hora y se fue directo a la ciudad deportiva.",
+   "en": "He landed first thing and went straight to the training ground.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí los deportes.",
+   "en": "And that is where we leave the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Thursday 3 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Real Sociedad host Celta at Anoeta on Thursday night",
+ "summary_en": [
+  "Real Sociedad host Celta at Anoeta on Thursday night",
+  "Fort and Sarr are named in the Real Sociedad squad"
+ ]
+}

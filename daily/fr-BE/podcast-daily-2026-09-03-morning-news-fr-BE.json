@@ -1,0 +1,400 @@
+{
+ "title": "Le sept heures, jeudi 3 septembre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-news",
+   "wpm": 222,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-03",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Jeudi trois septembre. Le sept heures.",
+   "en": "Thursday 3rd September. The seven o'clock news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Koweït a été visé par des missiles et des drones iraniens.",
+   "en": "Kuwait has been hit by Iranian missiles and drones.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Chez nous,",
+   "en": "Here at home,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la surmortalité liée aux vagues de chaleur de cet été approche les trois mille décès,",
+   "en": "excess deaths from this summer's heatwaves are approaching three thousand,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon Sciensano.",
+   "en": "according to «Sciensano».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On ouvre avec le Koweït, dont la défense antiaérienne fait face à des attaques hostiles,",
+   "en": "We open in Kuwait, where the air defences are dealing with hostile",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après la RTBF.",
+   "en": "attacks, «RTBF» reports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Vif fait état d'une nouvelle attaque iranienne dans le Golfe,",
+   "en": "«Le Vif» reports a fresh Iranian attack in the Gulf,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en réplique aux bombardements américains.",
+   "en": "in reply to American bombing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'institut de santé publique Sciensano a publié mercredi le bilan des trois vagues de chaleur.",
+   "en": "The public health institute «Sciensano» published its count of the three heatwaves on Wednesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les chiffres de surmortalité ont été revus à la hausse.",
+   "en": "The excess death figures have been revised upwards.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ces vagues de chaleur",
+   "en": "Those heatwaves",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ont coûté la vie à deux mille neuf cent trente-cinq personnes au total.",
+   "en": "have cost the lives of 2,935 people in all.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La vague du quatre au dix-sept juillet",
+   "en": "The heatwave that ran from 4th to 17th July",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a fait cinq cent trente-cinq décès de plus que prévu.",
+   "en": "left 535 more deaths than expected.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ailleurs dans l'actu, des milliers de personnes se sont réunies mercredi dans plusieurs villes d'Espagne.",
+   "en": "In other news, thousands of people gathered on Wednesday in several Spanish cities.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elles ont réaffirmé le caractère espagnol de Ceuta, une enclave sur le continent africain.",
+   "en": "They restated that «Ceuta», an enclave on the African continent, is Spanish.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ces rassemblements interviennent après un afflux de migrants marocains fin juillet dans la cité méditerranéenne.",
+   "en": "The rallies come after an influx of Moroccan migrants into the Mediterranean city at the end of July.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les célébrations annuelles de Ceuta, qui se tiennent chaque deux septembre,",
+   "en": "The annual celebrations in «Ceuta», held every 2nd September,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ont pris une tournure inhabituelle.",
+   "en": "took an unusual turn.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On enchaîne, la cigarette n'a pas quitté les cours de récréation.",
+   "en": "Moving on, the cigarette has not left the school playground.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est le constat d'une étude de l'UCLouvain,",
+   "en": "That is the finding of a study by «UCLouvain»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "financée par la Fondation contre le Cancer.",
+   "en": "paid for by the «Fondation contre le Cancer».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Fumer est pourtant interdit dans les écoles de la Fédération Wallonie-Bruxelles depuis vingt ans.",
+   "en": "Smoking has been banned in schools in the Wallonia-Brussels Federation for twenty years.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre dossier maintenant,",
+   "en": "Turning to something else,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les partis de la coalition fédérale peinent à s'entendre sur de nouvelles taxes.",
+   "en": "the parties in the federal coalition are struggling to agree on new taxes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le gouvernement doit trouver dix milliards d'euros d'économies supplémentaires, selon Le Vif.",
+   "en": "The government has to find 10 billion euros of further savings, according to «Le Vif».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le président du MR, Georges-Louis Bouchez,",
+   "en": "The leader of the MR, «Georges-Louis Bouchez»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a répété mercredi son opposition à une hausse de la TVA.",
+   "en": "repeated on Wednesday that he is against a rise in VAT.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Chez nous toujours, des scientifiques belges sont associés à la mission européenne BepiColombo,",
+   "en": "Back home, Belgian scientists are involved in the European «BepiColombo» mission,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon La Libre.",
+   "en": "«La Libre» reports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cette mission vit un moment crucial ce jeudi,",
+   "en": "The mission reaches a crucial moment this Thursday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avant de rejoindre l'orbite de Mercure.",
+   "en": "before going into orbit around Mercury.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'engin de quatre tonnes a parcouru plus de dix milliards de kilomètres",
+   "en": "The four-tonne craft has covered more than 10 billion kilometres",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "depuis octobre deux mille dix-huit.",
+   "en": "since October 2018.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mercure reste une planète très peu explorée.",
+   "en": "Mercury is a planet that has barely been explored.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà où nous en sommes.",
+   "en": "And that is where things stand this Thursday morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Thursday 3 September",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Kuwait targeted by Iranian missiles and drones",
+ "summary_en": [
+  "Kuwait targeted by Iranian missiles and drones",
+  "Sciensano counts close to 3,000 excess deaths over the summer",
+  "Thousands rally across Spain over Ceuta"
+ ]
+}

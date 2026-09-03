@@ -1,0 +1,159 @@
+{
+ "title": "Le sport, jeudi 3 septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-03",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Au programme ce jeudi, le championnat de France de football entame sa troisième journée.",
+   "en": "Coming up this Thursday, the French football league starts its third round.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est Toulouse qui reçoit Lille,",
+   "en": "«Toulouse» are at home to «Lille»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans le match d'ouverture de cette journée.",
+   "en": "in the match that opens the round.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Formule un, le pilote français Isack Hadjar",
+   "en": "In Formula One, the French driver «Isack Hadjar»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ne prendra pas le départ du Grand Prix d'Italie, dimanche.",
+   "en": "will not start the Italian «Grand Prix» on Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le jeune pilote de Red Bull n'est pas suffisamment remis de sa blessure au poignet.",
+   "en": "The young Red Bull driver has not recovered enough from his wrist injury.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il avait déjà manqué le Grand Prix des Pays-Bas, à la fin du mois d'août.",
+   "en": "He had already missed the Dutch «Grand Prix» at the end of August.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sur les terrains argentins maintenant, la prochaine journée de compétition sera interrompue.",
+   "en": "On Argentine pitches now, the next round of fixtures is going to be interrupted.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Toutes les rencontres s'arrêteront à la dixième minute,",
+   "en": "Every match will stop on ten minutes,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en hommage à Lionel Messi.",
+   "en": "in tribute to «Lionel Messi».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La fédération argentine de football veut ainsi saluer son numéro dix.",
+   "en": "The Argentine football association wants to salute its number ten that way.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le joueur a annoncé la fin de sa carrière internationale il y a trois jours.",
+   "en": "The player announced the end of his international career three days ago.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport.",
+   "en": "And that is the sport for this morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Thursday 3 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Toulouse against Lille opens the third round of Ligue 1",
+ "summary_en": [
+  "Toulouse against Lille opens the third round of Ligue 1",
+  "Isack Hadjar misses Sunday's Italian Grand Prix"
+ ]
+}

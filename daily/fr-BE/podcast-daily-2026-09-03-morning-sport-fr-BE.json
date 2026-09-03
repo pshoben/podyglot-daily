@@ -1,0 +1,219 @@
+{
+ "title": "Le sport chez nous, jeudi 3 septembre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-sport",
+   "wpm": 222,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-03",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le marché des transferts s'est refermé mardi soir dans la plupart des grands championnats,",
+   "en": "The transfer market closed on Tuesday evening in most of the big leagues,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "mais il reste ouvert en Belgique.",
+   "en": "but it is open in Belgium.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce jeudi est la dernière journée du mercato, selon la DH.",
+   "en": "Thursday is the last day of the window, according to «DH».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Charleroi, la journée devrait être calme,",
+   "en": "At «Charleroi» the day should be a quiet one,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec l'officialisation de l'arrivée de Gaku Nawata.",
+   "en": "with «Gaku Nawata»'s arrival to be confirmed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seul le prêt sortant de Séverin Nioule devrait un peu l'agiter.",
+   "en": "Only the outgoing loan of «Séverin Nioule» looks likely to stir it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce qui nous attend,",
+   "en": "Coming up,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les Belgian Cats disputent vendredi leur premier match de la Coupe du monde.",
+   "en": "the «Belgian Cats» play their first match at the World Cup on Friday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Leur génération dorée est à son apogée,",
+   "en": "Their golden generation is at its peak,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et elles visent les trois premières places d'un Mondial.",
+   "en": "and they are aiming for the top three at a World Cup.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour cela, elles devront retrouver le niveau affiché en Chine au mois de mars.",
+   "en": "To do that, they will have to find the level they showed in China in March.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En piste aujourd'hui, le Tour d'Espagne aborde sa douzième étape.",
+   "en": "In action today, the Tour of Spain reaches its twelfth stage.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'après la RTBF, la Vuelta s'attaque au Calar Alto.",
+   "en": "On «RTBF»'s account, the «Vuelta» takes on «Calar Alto».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Du côté des clubs, Anderlecht a bouclé deux renforts de dernière minute.",
+   "en": "Over at the clubs, «Anderlecht» have wrapped up two late signings.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Andrew Omobamidele, défenseur central de vingt-quatre ans,",
+   "en": "«Andrew Omobamidele», a 24-year-old centre-back,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "arrive jusqu'en fin de saison.",
+   "en": "comes in until the end of the season.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Thelo Aasgaard a signé lui aussi,",
+   "en": "«Thelo Aasgaard» has signed too,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en prêt jusqu'en fin de saison.",
+   "en": "on loan until the end of the season.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est tout pour le sport belge.",
+   "en": "That is all from Belgian sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Thursday 3 September",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Last day of the Belgian transfer window",
+ "summary_en": [
+  "Last day of the Belgian transfer window",
+  "Belgian Cats open their World Cup on Friday"
+ ]
+}

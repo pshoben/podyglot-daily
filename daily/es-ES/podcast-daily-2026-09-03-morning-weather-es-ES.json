@@ -1,0 +1,233 @@
+{
+ "title": "El tiempo, jueves 3 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather",
+   "wpm": 208,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-03",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "De norte a sur, empezamos por el calor de hoy.",
+   "en": "From north to south, we start with today's heat.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Aemet espera nuevos ascensos de temperatura en toda la Península.",
+   "en": "«Aemet» expects further rises in temperature across the whole peninsula.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En los valles del Guadalquivir y del Guadiana se llegará a los cuarenta grados.",
+   "en": "In the «Guadalquivir» and «Guadiana» valleys they will reach 40 degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la Comunidad de Madrid hay aviso amarillo por altas temperaturas en las horas centrales.",
+   "en": "In the «Comunidad de Madrid» there is a yellow heat warning for the middle of the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La capital pasa el día despejada y sin probabilidad de lluvia.",
+   "en": "The capital spends the day clear and with no chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento sopla del suroeste,",
+   "en": "The wind comes from the south-west,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "entre diez y quince kilómetros por hora.",
+   "en": "between 10 and 15 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima sube hasta los treinta y siete grados y la mínima se queda en veintiuno.",
+   "en": "The high climbs to 37 degrees and the low stays at 21.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Barcelona, treinta y dos grados de máxima y veinticinco de mínima,",
+   "en": "In «Barcelona», a high of 32 degrees and a low of 25,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "también con cielo despejado.",
+   "en": "with a clear sky too.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí el viento del sur alcanza los quince kilómetros por hora.",
+   "en": "There the southerly wind reaches 15 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En València el cielo se mantiene poco nuboso,",
+   "en": "In «València» there is a little cloud through the day,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con viento del sureste a diez kilómetros por hora.",
+   "en": "with a south-easterly wind at 10 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima es de treinta y un grados y la mínima de veintitrés.",
+   "en": "The high is 31 degrees and the low 23.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el norte, Bilbao se mueve entre los quince y los treinta y dos grados.",
+   "en": "Up north, «Bilbao» moves between 15 and 32 degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo se despeja allí por la tarde.",
+   "en": "The sky clears there in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En A Coruña la máxima no pasa de veinticinco grados y la mínima baja a catorce.",
+   "en": "In «A Coruña» the high does not go past 25 degrees and the low drops to 14.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento del noroeste sopla a diez kilómetros por hora,",
+   "en": "The north-westerly wind blows at 10 kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el índice ultravioleta llega al seis.",
+   "en": "and the ultraviolet index reaches 6.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí el tiempo.",
+   "en": "And that is the weather across Spain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Thursday 3 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "España",
+ "accent": "Castilla",
+ "accent_label": "acento de Castilla",
+ "segment_order": 0,
+ "headline_en": "Aemet expects temperatures to rise again across the peninsula on Thursday",
+ "summary_en": [
+  "Aemet expects temperatures to rise again across the peninsula on Thursday",
+  "A yellow heat warning is in force across the Community of Madrid"
+ ]
+}

@@ -1,0 +1,163 @@
+{
+ "title": "El tiempo en Canarias, jueves 3 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-canarias",
+   "wpm": 208,
+   "rate_multiplier": 0.86,
+   "pitch_multiplier": 0.59
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-canarias",
+ "date": "2026-09-03",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "En las islas, así se presenta el día de hoy.",
+   "en": "Out in the islands, this is how the day looks.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las temperaturas se mantienen o suben ligeramente en todo el archipiélago.",
+   "en": "Temperatures are holding steady or rising a little across the archipelago.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el sur de Gran Canaria se pueden superar los treinta y cinco grados.",
+   "en": "In the south of «Gran Canaria» they can go past 35 degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Las Palmas de Gran Canaria,",
+   "en": "In «Las Palmas de Gran Canaria»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "veintiocho grados de máxima y veintitrés de mínima.",
+   "en": "a high of 28 degrees and a low of 23.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo está nuboso, y por la tarde queda poco nuboso, sin probabilidad de lluvia.",
+   "en": "The sky is cloudy, and the cloud thins in the afternoon, with no chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento del norte sopla allí a veinticinco kilómetros por hora,",
+   "en": "The northerly wind blows there at 25 kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el índice ultravioleta llega al nueve.",
+   "en": "and the ultraviolet index reaches 9.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Santa Cruz de Tenerife,",
+   "en": "In «Santa Cruz de Tenerife»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "treinta grados de máxima y veintitrés de mínima, con cielo despejado.",
+   "en": "a high of 30 degrees and a low of 23, with a clear sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento del este alcanza allí los treinta kilómetros por hora.",
+   "en": "The easterly wind there reaches 30 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El índice ultravioleta llega al nueve también en la capital tinerfeña.",
+   "en": "The ultraviolet index reaches 9 in the Tenerife capital too.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es Canarias.",
+   "en": "That is «Canarias».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 4,
+ "handover": "junction",
+ "title_en": "Today's weather, Canary Islands, Thursday 3 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Canarias",
+ "accent": "Canarias",
+ "accent_label": "acento de Canarias",
+ "segment_order": 2,
+ "headline_en": "Temperatures hold steady or rise slightly in the Canaries",
+ "summary_en": [
+  "Temperatures hold steady or rise slightly in the Canaries",
+  "Thursday AEMET forecast for Las Palmas de Gran Canaria, 3rd September"
+ ]
+}

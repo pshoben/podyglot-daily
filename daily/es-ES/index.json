@@ -5,6 +5,107 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-ES-El informativo de la mañana, jueves 3 de septiembre",
+   "file": "podcast-daily-2026-09-03-morning-news-es-ES.json",
+   "bytes": 10015,
+   "sha256": "59082a72e029a1f0b40adbef48069a27b9689b40e4fc60a76be8a57cd3f9b1bd",
+   "date": "2026-09-03",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, jueves 3 de septiembre",
+   "title_en": "The morning news, Thursday 3 September",
+   "headline_en": "Germany blames Russia for the failed drone attack on Leipzig airport",
+   "summary_en": [
+    "Germany blames Russia for the failed drone attack on Leipzig airport",
+    "Sanchez appears before Congress over the Ceuta border crossing",
+    "A police report puts Moroccan officers at the July border crossing"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, jueves 3 de septiembre",
+   "file": "podcast-daily-2026-09-03-morning-sport-es-ES.json",
+   "bytes": 4331,
+   "sha256": "078c531012d50241fcea36fdb64657c55881d8e6d668435cd0126c581c27c469",
+   "date": "2026-09-03",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, jueves 3 de septiembre",
+   "title_en": "Today's sport, Thursday 3 September",
+   "headline_en": "Real Sociedad host Celta at Anoeta on Thursday night",
+   "summary_en": [
+    "Real Sociedad host Celta at Anoeta on Thursday night",
+    "Fort and Sarr are named in the Real Sociedad squad"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, jueves 3 de septiembre",
+   "file": "podcast-daily-2026-09-03-morning-weather-es-ES.json",
+   "bytes": 5810,
+   "sha256": "e617e184bb9e8617f88d42f33dbfea37b5051fc9983034582f919294c7b8ff73",
+   "date": "2026-09-03",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, jueves 3 de septiembre",
+   "title_en": "Today's weather, Thursday 3 September",
+   "headline_en": "Aemet expects temperatures to rise again across the peninsula on Thursday",
+   "summary_en": [
+    "Aemet expects temperatures to rise again across the peninsula on Thursday",
+    "A yellow heat warning is in force across the Community of Madrid"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, jueves 3 de septiembre",
+   "file": "podcast-daily-2026-09-03-morning-weather-andalucia-es-ES.json",
+   "bytes": 4282,
+   "sha256": "b97b68812fdace3cf09436f6e7ad80114dad5d67a427e59c1491e1bc709d63e7",
+   "date": "2026-09-03",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, jueves 3 de septiembre",
+   "title_en": "Today's weather, Andalusia, Thursday 3 September",
+   "headline_en": "Thursday AEMET forecast for Córdoba, 3rd September",
+   "summary_en": [
+    "Thursday AEMET forecast for Córdoba, 3rd September",
+    "Thursday AEMET forecast for Sevilla, 3rd September"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, jueves 3 de septiembre",
+   "file": "podcast-daily-2026-09-03-morning-weather-canarias-es-ES.json",
+   "bytes": 4050,
+   "sha256": "819a493aa2598494d416a7adae804c7dab8cfed2f03bfd4e8040e69672040b84",
+   "date": "2026-09-03",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, jueves 3 de septiembre",
+   "title_en": "Today's weather, Canary Islands, Thursday 3 September",
+   "headline_en": "Temperatures hold steady or rise slightly in the Canaries",
+   "summary_en": [
+    "Temperatures hold steady or rise slightly in the Canaries",
+    "Thursday AEMET forecast for Las Palmas de Gran Canaria, 3rd September"
+   ]
+  },
+  {
    "id": "es-ES-El informativo de la mañana, miércoles 2 de septiembre",
    "file": "podcast-daily-2026-09-02-morning-news-es-ES.json",
    "bytes": 9787,
@@ -1313,106 +1414,6 @@
    "summary_en": [
     "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-21",
     "Predicción AEMET para Santa Cruz de Tenerife (Santa Cruz de Tenerife (Tenerife)), 2026-08-21"
-   ]
-  },
-  {
-   "id": "es-ES-El informativo de la mañana, jueves 20 de agosto",
-   "file": "podcast-daily-2026-08-20-morning-news-es-ES.json",
-   "bytes": 12434,
-   "sha256": "ae32cb4e738be906cc5355a37e059b4b1dad74536aa7689c7133a9c332da4d93",
-   "date": "2026-08-20",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El informativo de la mañana, jueves 20 de agosto",
-   "title_en": "The morning news, Thursday 20 August",
-   "headline_en": "The National Police deployed a major operation on Thursday on the Trampolin beach in Ceuta",
-   "summary_en": [
-    "The National Police deployed a major operation on Thursday on the Trampolin beach in Ceuta",
-    "The fire in Las Hurdes has burned almost 4,000 hectares and is keeping 2,000 residents eva",
-    "China has sentenced Xu Jiayin, the founder of the property giant Evergrande, to life impri"
-   ]
-  },
-  {
-   "id": "es-ES-Los deportes, jueves 20 de agosto",
-   "file": "podcast-daily-2026-08-20-morning-sport-es-ES.json",
-   "bytes": 3951,
-   "sha256": "4110e029fc48a54d3d2aabb23dc945a228909700cc29bdc0673605c766b264cc",
-   "date": "2026-08-20",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "Los deportes, jueves 20 de agosto",
-   "title_en": "Today's sport, Thursday 20 August",
-   "headline_en": "A big match at the Metropolitano: Atletico host Villarreal, while Real Madrid and Barcelon",
-   "summary_en": [
-    "A big match at the Metropolitano: Atletico host Villarreal, while Real Madrid and Barcelon"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo, jueves 20 de agosto",
-   "file": "podcast-daily-2026-08-20-morning-weather-es-ES.json",
-   "bytes": 7805,
-   "sha256": "3c38973ff8154cb4b18af8fbeb2e9567a8e388034a89921462f3b8a0d4a259aa",
-   "date": "2026-08-20",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": 0,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo, jueves 20 de agosto",
-   "title_en": "Today's weather, Thursday 20 August",
-   "headline_en": "Predicción AEMET para Madrid (Madrid), 2026-08-20",
-   "summary_en": [
-    "Predicción AEMET para Madrid (Madrid), 2026-08-20",
-    "Predicción AEMET para Málaga (Málaga), 2026-08-20"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo en Andalucía, jueves 20 de agosto",
-   "file": "podcast-daily-2026-08-20-morning-weather-andalucia-es-ES.json",
-   "bytes": 5283,
-   "sha256": "b1902fd1ac9c3461b1dfa49a57cbf017590defb7d0607cfeb2cbeadf7672894b",
-   "date": "2026-08-20",
-   "edition": "morning",
-   "programme": "weather-andalucia",
-   "programme_order": 3,
-   "segment_order": 1,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo en Andalucía, jueves 20 de agosto",
-   "title_en": "Today's weather, Andalusia, Thursday 20 August",
-   "headline_en": "Predicción AEMET para Sevilla (Sevilla), 2026-08-20",
-   "summary_en": [
-    "Predicción AEMET para Sevilla (Sevilla), 2026-08-20",
-    "Predicción AEMET para Málaga (Málaga), 2026-08-20"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo en Canarias, jueves 20 de agosto",
-   "file": "podcast-daily-2026-08-20-morning-weather-canarias-es-ES.json",
-   "bytes": 4690,
-   "sha256": "81e5a06134367f1593e579d75e85762ad9a1553d9fc166aaef16eeea514c8aab",
-   "date": "2026-08-20",
-   "edition": "morning",
-   "programme": "weather-canarias",
-   "programme_order": 4,
-   "segment_order": 2,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo en Canarias, jueves 20 de agosto",
-   "title_en": "Today's weather, Canary Islands, Thursday 20 August",
-   "headline_en": "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-20",
-   "summary_en": [
-    "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-20",
-    "Predicción AEMET para Santa Cruz de Tenerife (Santa Cruz de Tenerife (Tenerife)), 2026-08-20"
    ]
   }
  ]

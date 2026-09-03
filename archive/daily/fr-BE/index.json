@@ -3,8 +3,69 @@
  "channel": "daily",
  "dialect": "fr-BE",
  "base": "https://pshoben.github.io/podyglot-daily/archive/",
- "archived_before": "2026-08-20",
+ "archived_before": "2026-08-21",
  "episodes": [
+  {
+   "id": "fr-BE-Le sept heures, jeudi 20 août",
+   "file": "podcast-daily-2026-08-20-morning-news-fr-BE.json",
+   "bytes": 10699,
+   "sha256": "1c1205ac314cf587a5903b51096fc5d20c277f9ca155e0c22a84cf1a40b8768b",
+   "date": "2026-08-20",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, jeudi 20 août",
+   "title_en": "The morning news, Thursday 20 August",
+   "headline_en": "The fire that has been raging in the Hautes Fagnes for several days and has destroyed abou",
+   "summary_en": [
+    "The fire that has been raging in the Hautes Fagnes for several days and has destroyed abou",
+    "Banners several metres long were put up on Wednesday morning at the various entrances to t",
+    "The Kinepolis group recorded record results in the first half, according to its half-year"
+   ]
+  },
+  {
+   "id": "fr-BE-Le sport chez nous, jeudi 20 août",
+   "file": "podcast-daily-2026-08-20-morning-sport-fr-BE.json",
+   "bytes": 5553,
+   "sha256": "98a1a3a54973103b065c0d8d980b4cc07c6c48f5a97b7684475151405636ea05",
+   "date": "2026-08-20",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sport chez nous, jeudi 20 août",
+   "title_en": "Today's sport, Thursday 20 August",
+   "headline_en": "Belgian clubs are in Europe this evening: Kairat Almaty against Anderlecht, and Saint-Tron",
+   "summary_en": [
+    "Belgian clubs are in Europe this evening: Kairat Almaty against Anderlecht, and Saint-Tron",
+    "AC Milan has made official the arrival of Diego Moreira. The Belgian is joining the Italia"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, jeudi 20 août",
+   "file": "podcast-daily-2026-08-20-morning-weather-fr-BE.json",
+   "bytes": 6271,
+   "sha256": "c4f8681f384379155f14144fefd15bf8d5905ced42b7ad43ef7b8b7bd452050e",
+   "date": "2026-08-20",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, jeudi 20 août",
+   "title_en": "Today's weather, Thursday 20 August",
+   "headline_en": "Prévision pour Bruxelles, jeudi 2026-08-20",
+   "summary_en": [
+    "Prévision pour Bruxelles, jeudi 2026-08-20",
+    "Prévision pour Namur, jeudi 2026-08-20"
+   ]
+  },
   {
    "id": "fr-BE-Le sept heures, mercredi 19 août",
    "file": "podcast-daily-2026-08-19-morning-news-fr-BE.json",

@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-BE",
+ "date": "2026-09-03",
+ "episodes": [
+  {
+   "id": "fr-BE-Le sept heures, jeudi 3 septembre",
+   "file": "podcast-daily-2026-09-03-morning-news-fr-BE.json",
+   "bytes": 9912,
+   "sha256": "04454440f707fdc45555aa5cfcb8cc56b60a2466d4f52b80c08c83064f1c1b29",
+   "date": "2026-09-03",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, jeudi 3 septembre",
+   "title_en": "The morning news, Thursday 3 September",
+   "headline_en": "Kuwait targeted by Iranian missiles and drones",
+   "summary_en": [
+    "Kuwait targeted by Iranian missiles and drones",
+    "Sciensano counts close to 3,000 excess deaths over the summer",
+    "Thousands rally across Spain over Ceuta"
+   ]
+  },
+  {
+   "id": "fr-BE-Le sport chez nous, jeudi 3 septembre",
+   "file": "podcast-daily-2026-09-03-morning-sport-fr-BE.json",
+   "bytes": 5244,
+   "sha256": "63ba2a2afea696d4ec524581413baea8668c0097c44cbe71b5a5260e7644294b",
+   "date": "2026-09-03",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sport chez nous, jeudi 3 septembre",
+   "title_en": "Today's sport, Thursday 3 September",
+   "headline_en": "Last day of the Belgian transfer window",
+   "summary_en": [
+    "Last day of the Belgian transfer window",
+    "Belgian Cats open their World Cup on Friday"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, jeudi 3 septembre",
+   "file": "podcast-daily-2026-09-03-morning-weather-fr-BE.json",
+   "bytes": 5074,
+   "sha256": "d76a69861fa6b41038debee9c70aad0f8fd12936114126ee81b8b4aeab9d5e69",
+   "date": "2026-09-03",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, jeudi 3 septembre",
+   "title_en": "Today's weather, Thursday 3 September",
+   "headline_en": "Thursday in Belgium: cloudy, very mild, rain and gusts",
+   "summary_en": [
+    "Thursday in Belgium: cloudy, very mild, rain and gusts",
+    "Thursday forecast for Brussels, 3rd September"
+   ]
+  }
+ ],
+ "content": "5a54455694f24574c02c6a1d08d96c1632b54772991f787cec7b2bb5ab0a3953",
+ "rev": 2,
+ "updated": "2026-09-03T07:48:58.012Z"
+}

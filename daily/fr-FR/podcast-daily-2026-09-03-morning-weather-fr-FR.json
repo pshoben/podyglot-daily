@@ -1,0 +1,199 @@
+{
+ "title": "La météo, jeudi 3 septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-03",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le ciel, les températures et le vent pour aujourd'hui,",
+   "en": "The sky, the temperatures and the wind for today,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans trois grandes villes du pays.",
+   "en": "in three of the country's big cities.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon les modèles de Météo-France,",
+   "en": "According to the «Météo-France» models,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le ciel reste couvert au-dessus de la capitale.",
+   "en": "the sky stays overcast above the capital.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Paris, la température maximale de la journée atteint vingt-six degrés.",
+   "en": "In «Paris», the high for the day reaches twenty-six degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le minimum, lui, descend jusqu'à dix-huit degrés.",
+   "en": "The low drops to eighteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent souffle au plus fort à quatorze kilomètres par heure.",
+   "en": "The wind blows at fourteen kilometres an hour at its strongest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Plus au sud-ouest, à Bordeaux, le ciel reste bouché lui aussi.",
+   "en": "Further south-west, in «Bordeaux», the cloud is just as thick.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La température y monte jusqu'à trente degrés.",
+   "en": "The temperature there climbs to thirty degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle ne redescend pas sous les seize degrés.",
+   "en": "It does not fall back below sixteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent n'y dépasse pas dix kilomètres par heure.",
+   "en": "The wind there does not go above ten kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sur le littoral méditerranéen, Marseille reste elle aussi dans le gris.",
+   "en": "On the Mediterranean coast, «Marseille» is under grey skies as well.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La température y grimpe jusqu'à trente-deux degrés.",
+   "en": "The temperature there gets up to thirty-two degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le minimum de la journée y est de vingt-deux degrés.",
+   "en": "The low for the day there is twenty-two degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et le vent y monte jusqu'à vingt-six kilomètres par heure.",
+   "en": "And the wind there gets up to twenty-six kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Entre Paris et Marseille, l'écart sur les maximales atteint six degrés.",
+   "en": "Between «Paris» and «Marseille», the gap in the highs comes to six degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo.",
+   "en": "That is the picture for today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Thursday 3 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Thursday forecast for Paris, 3rd September",
+ "summary_en": [
+  "Thursday forecast for Paris, 3rd September",
+  "Thursday forecast for Bordeaux, 3rd September"
+ ]
+}

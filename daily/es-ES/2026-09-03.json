@@ -1,0 +1,112 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-ES",
+ "date": "2026-09-03",
+ "episodes": [
+  {
+   "id": "es-ES-El informativo de la mañana, jueves 3 de septiembre",
+   "file": "podcast-daily-2026-09-03-morning-news-es-ES.json",
+   "bytes": 10015,
+   "sha256": "59082a72e029a1f0b40adbef48069a27b9689b40e4fc60a76be8a57cd3f9b1bd",
+   "date": "2026-09-03",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, jueves 3 de septiembre",
+   "title_en": "The morning news, Thursday 3 September",
+   "headline_en": "Germany blames Russia for the failed drone attack on Leipzig airport",
+   "summary_en": [
+    "Germany blames Russia for the failed drone attack on Leipzig airport",
+    "Sanchez appears before Congress over the Ceuta border crossing",
+    "A police report puts Moroccan officers at the July border crossing"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, jueves 3 de septiembre",
+   "file": "podcast-daily-2026-09-03-morning-sport-es-ES.json",
+   "bytes": 4331,
+   "sha256": "078c531012d50241fcea36fdb64657c55881d8e6d668435cd0126c581c27c469",
+   "date": "2026-09-03",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, jueves 3 de septiembre",
+   "title_en": "Today's sport, Thursday 3 September",
+   "headline_en": "Real Sociedad host Celta at Anoeta on Thursday night",
+   "summary_en": [
+    "Real Sociedad host Celta at Anoeta on Thursday night",
+    "Fort and Sarr are named in the Real Sociedad squad"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, jueves 3 de septiembre",
+   "file": "podcast-daily-2026-09-03-morning-weather-es-ES.json",
+   "bytes": 5810,
+   "sha256": "e617e184bb9e8617f88d42f33dbfea37b5051fc9983034582f919294c7b8ff73",
+   "date": "2026-09-03",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, jueves 3 de septiembre",
+   "title_en": "Today's weather, Thursday 3 September",
+   "headline_en": "Aemet expects temperatures to rise again across the peninsula on Thursday",
+   "summary_en": [
+    "Aemet expects temperatures to rise again across the peninsula on Thursday",
+    "A yellow heat warning is in force across the Community of Madrid"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, jueves 3 de septiembre",
+   "file": "podcast-daily-2026-09-03-morning-weather-andalucia-es-ES.json",
+   "bytes": 4282,
+   "sha256": "b97b68812fdace3cf09436f6e7ad80114dad5d67a427e59c1491e1bc709d63e7",
+   "date": "2026-09-03",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, jueves 3 de septiembre",
+   "title_en": "Today's weather, Andalusia, Thursday 3 September",
+   "headline_en": "Thursday AEMET forecast for Córdoba, 3rd September",
+   "summary_en": [
+    "Thursday AEMET forecast for Córdoba, 3rd September",
+    "Thursday AEMET forecast for Sevilla, 3rd September"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, jueves 3 de septiembre",
+   "file": "podcast-daily-2026-09-03-morning-weather-canarias-es-ES.json",
+   "bytes": 4050,
+   "sha256": "819a493aa2598494d416a7adae804c7dab8cfed2f03bfd4e8040e69672040b84",
+   "date": "2026-09-03",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, jueves 3 de septiembre",
+   "title_en": "Today's weather, Canary Islands, Thursday 3 September",
+   "headline_en": "Temperatures hold steady or rise slightly in the Canaries",
+   "summary_en": [
+    "Temperatures hold steady or rise slightly in the Canaries",
+    "Thursday AEMET forecast for Las Palmas de Gran Canaria, 3rd September"
+   ]
+  }
+ ],
+ "content": "628eabb2ea60e8f5b3159c6f61d2e6bd5943eeb49fb25bb5ed316c38d52e9db0",
+ "rev": 2,
+ "updated": "2026-09-03T07:48:58.012Z"
+}

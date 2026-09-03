@@ -1,0 +1,209 @@
+{
+ "title": "Le temps chez nous, jeudi 3 septembre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-weather",
+   "wpm": 222,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-03",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Au-dessus de nos têtes aujourd'hui, un ciel souvent nuageux et très doux, selon la RTBF.",
+   "en": "Above our heads today, a sky that is often cloudy and very mild, according to «RTBF».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce matin, le ciel est assez couvert du littoral à Bruxelles, avec quelques gouttes possibles.",
+   "en": "This morning the sky is fairly overcast from the coast to Brussels, with the chance of a few drops.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'après La Libre, la pluie et la grisaille marqueront la journée.",
+   "en": "«La Libre» has rain and grey skies through the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des rafales sont attendues jusqu'à soixante kilomètres par heure.",
+   "en": "Gusts of up to 60 kilometres an hour are expected.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La douceur tient bon malgré ce ciel chargé,",
+   "en": "The mild air holds despite all that cloud,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec des maxima entre dix-huit et vingt-quatre degrés.",
+   "en": "with highs between 18 and 24 degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon le modèle du Centre européen, l'ECMWF,",
+   "en": "On the European Centre model, the ECMWF,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de la bruine est prévue sur Bruxelles.",
+   "en": "drizzle is forecast over Brussels.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La capitale plafonne à vingt-deux degrés,",
+   "en": "The capital tops out at 22 degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour un minimum de dix-sept.",
+   "en": "with a low of 17.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le risque de pluie y grimpe à quatre-vingt-dix-sept pour cent.",
+   "en": "The chance of rain there climbs to 97 per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'une région à l'autre,",
+   "en": "From one part of the country to another,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Liège garde la même bruine et le même maximum de vingt-deux degrés.",
+   "en": "«Liège» keeps the same drizzle and the same high of 22 degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le minimum liégeois descend à seize degrés,",
+   "en": "The «Liège» low drops to 16 degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec une probabilité de pluie de quatre-vingt-seize pour cent.",
+   "en": "with a 96 per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Namur, le thermomètre oscille entre seize et vingt-deux degrés.",
+   "en": "In «Namur», the thermometer swings between 16 and 22 degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les chances d'y voir tomber la pluie atteignent quatre-vingt-quatorze pour cent.",
+   "en": "The chance of rain there reaches 94 per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le temps chez nous.",
+   "en": "That is the weather here at home.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Thursday 3 September",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Thursday in Belgium: cloudy, very mild, rain and gusts",
+ "summary_en": [
+  "Thursday in Belgium: cloudy, very mild, rain and gusts",
+  "Thursday forecast for Brussels, 3rd September"
+ ]
+}

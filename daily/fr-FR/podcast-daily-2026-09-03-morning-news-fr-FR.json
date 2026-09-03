@@ -1,0 +1,330 @@
+{
+ "title": "Le journal du matin, jeudi 3 septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-03",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Jeudi trois septembre, sept heures à Paris. Le journal du matin.",
+   "en": "Thursday the 3rd of September, seven o'clock in «Paris». The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les bombardements américains sur l'Iran ont repris, après un mois d'accalmie.",
+   "en": "American bombing of Iran has started again, after a month of calm.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, les corps de quatre membres d'une même famille ont été découverts en Haute-Saône.",
+   "en": "In France, the bodies of four members of one family have been found in «Haute-Saône».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par le Moyen-Orient,",
+   "en": "We start in the Middle East,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où les hostilités ont redémarré dimanche.",
+   "en": "where the fighting picked up again on Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Iran a répliqué en visant des bases américaines dans le Golfe.",
+   "en": "Iran has hit back at American bases in the Gulf.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ces frappes sont une réponse aux opérations militaires menées par Washington.",
+   "en": "These strikes are a reply to the military operations carried out by Washington.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, la découverte a eu lieu mercredi soir,",
+   "en": "In France, the discovery was made on Wednesday evening,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans la commune de Gy.",
+   "en": "in the village of «Gy».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les corps se trouvaient sur un terrain occupé par des caravanes.",
+   "en": "The bodies were on a plot of land where caravans were parked.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Deux jeunes enfants figurent parmi les quatre membres de la famille.",
+   "en": "Two young children are among the four members of the family.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Jean-Luc Mélenchon a reconnu avoir changé d'avis sur le port du voile.",
+   "en": "«Jean-Luc Mélenchon» has admitted changing his mind about the wearing of the veil.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le fondateur de La France insoumise s'y était opposé par le passé.",
+   "en": "The founder of «La France insoumise» had been against it in the past.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à autre chose,",
+   "en": "Moving on,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le ministère de la Transition écologique a été visé par une cyberattaque.",
+   "en": "the ecological transition ministry has been hit by a cyberattack.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Plusieurs de ses sites sont restés inaccessibles mercredi.",
+   "en": "Several of its websites were down on Wednesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre sujet maintenant, l'Organisation météorologique mondiale a alerté sur l'intensité du phénomène El Niño.",
+   "en": "Turning to something else, the World Meteorological Organization has warned about the strength of «El Niño».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon son bulletin trimestriel publié ce jeudi,",
+   "en": "In its quarterly bulletin, published on Thursday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Niño est désormais bien installé.",
+   "en": "it says «El Niño» is now well established.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il doit se prolonger jusqu'en février deux mille vingt-sept,",
+   "en": "It is due to last until February 2027,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec des effets dans de nombreuses régions du monde.",
+   "en": "with effects in many parts of the world.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Deux ouragans et une tempête tropicale traversent d'ailleurs le Pacifique au même moment.",
+   "en": "Two hurricanes and a tropical storm are also crossing the Pacific at the same time.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour finir, les deux réalisateurs français détenus au Togo ont obtenu une liberté provisoire.",
+   "en": "And finally, the two French film-makers held in «Togo» have been granted provisional release.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ils sont autorisés à quitter le pays,",
+   "en": "They are allowed to leave the country,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a annoncé le ministère des Affaires étrangères.",
+   "en": "the French foreign ministry said.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les deux hommes avaient été arrêtés fin juillet,",
+   "en": "The two men were arrested at the end of July,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pendant le tournage d'une émission de télévision.",
+   "en": "while filming a television programme.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ils doivent rentrer en France ce jeudi.",
+   "en": "They are due back in France on Thursday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is the main news this morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Thursday 3 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "American bombing of Iran resumes after a month of calm",
+ "summary_en": [
+  "American bombing of Iran resumes after a month of calm",
+  "Bodies of four members of one family found in Haute-Saone",
+  "Iran hits back at American bases in the Gulf"
+ ]
+}

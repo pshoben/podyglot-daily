@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-FR-Le journal du matin, jeudi 3 septembre",
+   "file": "podcast-daily-2026-09-03-morning-news-fr-FR.json",
+   "bytes": 8261,
+   "sha256": "2cb161475204767bb72322b0375556ee9e80156c43f1e60be12946fa18fd51ab",
+   "date": "2026-09-03",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, jeudi 3 septembre",
+   "title_en": "The morning news, Thursday 3 September",
+   "headline_en": "American bombing of Iran resumes after a month of calm",
+   "summary_en": [
+    "American bombing of Iran resumes after a month of calm",
+    "Bodies of four members of one family found in Haute-Saone",
+    "Iran hits back at American bases in the Gulf"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, jeudi 3 septembre",
+   "file": "podcast-daily-2026-09-03-morning-sport-fr-FR.json",
+   "bytes": 3995,
+   "sha256": "9e313e60ffd71a5006d8fd09d54261399c7ff3de52a3de0ed79bd5840b0cc3ff",
+   "date": "2026-09-03",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, jeudi 3 septembre",
+   "title_en": "Today's sport, Thursday 3 September",
+   "headline_en": "Toulouse against Lille opens the third round of Ligue 1",
+   "summary_en": [
+    "Toulouse against Lille opens the third round of Ligue 1",
+    "Isack Hadjar misses Sunday's Italian Grand Prix"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, jeudi 3 septembre",
+   "file": "podcast-daily-2026-09-03-morning-weather-fr-FR.json",
+   "bytes": 4800,
+   "sha256": "b8215d2a37e8a0519a07c1a6394f74994b39c62b09b5afed194d9f9655064704",
+   "date": "2026-09-03",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, jeudi 3 septembre",
+   "title_en": "Today's weather, Thursday 3 September",
+   "headline_en": "Thursday forecast for Paris, 3rd September",
+   "summary_en": [
+    "Thursday forecast for Paris, 3rd September",
+    "Thursday forecast for Bordeaux, 3rd September"
+   ]
+  },
+  {
    "id": "fr-FR-Le journal du matin, mercredi 2 septembre",
    "file": "podcast-daily-2026-09-02-morning-news-fr-FR.json",
    "bytes": 10088,
@@ -714,67 +775,6 @@
    "summary_en": [
     "The Var and the Alpes-Maritimes remain on orange alert for storms and for rain and floodin",
     "Prévision pour Paris, vendredi 2026-08-21"
-   ]
-  },
-  {
-   "id": "fr-FR-Le journal du matin, jeudi 20 août",
-   "file": "podcast-daily-2026-08-20-morning-news-fr-FR.json",
-   "bytes": 13372,
-   "sha256": "e6d06989b175378f02d2a9aa2029f0d730354ef2aac9741227f6105baf12de0b",
-   "date": "2026-08-20",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le journal du matin, jeudi 20 août",
-   "title_en": "The morning news, Thursday 20 August",
-   "headline_en": "According to a decree published on Thursday in the Journal officiel, the former prime mini",
-   "summary_en": [
-    "According to a decree published on Thursday in the Journal officiel, the former prime mini",
-    "Prime minister Sebastien Lecornu asked the national agency for information systems securit",
-    "With 1,243 excess deaths recorded from 3 to 22 July, the second heatwave of the summer of"
-   ]
-  },
-  {
-   "id": "fr-FR-Le sport, jeudi 20 août",
-   "file": "podcast-daily-2026-08-20-morning-sport-fr-FR.json",
-   "bytes": 7328,
-   "sha256": "c91c8b248aa2d63410ca22de7be010af87e1a1bc37a8bdecdfde7879edbdd602",
-   "date": "2026-08-20",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le sport, jeudi 20 août",
-   "title_en": "Today's sport, Thursday 20 August",
-   "headline_en": "The French championship starts again on Friday, with a duel between Olympique de Marseille",
-   "summary_en": [
-    "The French championship starts again on Friday, with a duel between Olympique de Marseille",
-    "Because of the state of the pitch at the Parc des Princes, the match between Paris Saint-G"
-   ]
-  },
-  {
-   "id": "fr-FR-La météo, jeudi 20 août",
-   "file": "podcast-daily-2026-08-20-morning-weather-fr-FR.json",
-   "bytes": 5191,
-   "sha256": "21bcfbf4b569f293b5bddd4d67cb9e7eee0d1260f4876d6f5b485986ea91d624",
-   "date": "2026-08-20",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "La météo, jeudi 20 août",
-   "title_en": "Today's weather, Thursday 20 August",
-   "headline_en": "Prévision pour Marseille, jeudi 2026-08-20",
-   "summary_en": [
-    "Prévision pour Marseille, jeudi 2026-08-20",
-    "Prévision pour Bordeaux, jeudi 2026-08-20"
    ]
   }
  ]
