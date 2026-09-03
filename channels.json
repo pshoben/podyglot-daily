@@ -44,8 +44,8 @@
    "channel": "daily",
    "dialect": "es-MX",
    "index": "daily/es-MX/index.json",
-   "episodes": 25,
-   "latest_date": "2026-09-01",
+   "episodes": 28,
+   "latest_date": "2026-09-03",
    "archived": 16,
    "archive": "archive/daily/es-MX/index.json"
   },
@@ -62,8 +62,8 @@
    "channel": "daily",
    "dialect": "fr-CA",
    "index": "daily/fr-CA/index.json",
-   "episodes": 24,
-   "latest_date": "2026-09-01",
+   "episodes": 26,
+   "latest_date": "2026-09-03",
    "archived": 16,
    "archive": "archive/daily/fr-CA/index.json"
   },

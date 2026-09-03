@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-CA",
+ "date": "2026-09-03",
+ "episodes": [
+  {
+   "id": "fr-CA-Le bulletin du matin, jeudi 3 septembre",
+   "file": "podcast-daily-2026-09-03-morning-news-fr-CA.json",
+   "bytes": 8175,
+   "sha256": "bbe69996e07a4d84b9d76c61b7aef5405bf41e2c045ee6b32a803e8a0e18c89a",
+   "date": "2026-09-03",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin du matin, jeudi 3 septembre",
+   "title_en": "The morning news, Thursday 3 September",
+   "headline_en": "Gloria Steinem, a leading figure of American feminism, has died at 92",
+   "summary_en": [
+    "Gloria Steinem, a leading figure of American feminism, has died at 92",
+    "Storms across Greater Toronto brought flooding, downed trees and power cuts",
+    "She spent decades campaigning against the inequalities women face"
+   ]
+  },
+  {
+   "id": "fr-CA-Le bulletin météo, jeudi 3 septembre",
+   "file": "podcast-daily-2026-09-03-morning-weather-fr-CA.json",
+   "bytes": 5249,
+   "sha256": "320c6f29eb08ca20001d715dc756c5583e3fd83ce22a0d1abea975b23df2a8e1",
+   "date": "2026-09-03",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin météo, jeudi 3 septembre",
+   "title_en": "Today's weather, Thursday 3 September",
+   "headline_en": "Thursday forecast for Montréal, 3rd September",
+   "summary_en": [
+    "Thursday forecast for Montréal, 3rd September",
+    "Thursday forecast for Québec, 3rd September"
+   ]
+  }
+ ],
+ "content": "93c131640e7b297dd9973b9c1b64ca2226f1877ca30b1f3225f4af9258766962",
+ "rev": 1,
+ "updated": "2026-09-03T23:48:15.683Z"
+}

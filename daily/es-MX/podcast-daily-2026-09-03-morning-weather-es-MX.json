@@ -1,0 +1,189 @@
+{
+ "title": "El clima, jueves 3 de septiembre",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-weather",
+   "wpm": 186,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-03",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Así viene el cielo en tres ciudades del país para hoy jueves.",
+   "en": "Here is the sky in three cities of the country for today, Thursday.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los datos son del modelo del Centro Europeo, el ECMWF.",
+   "en": "The figures come from the European Centre model, the ECMWF.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la Ciudad de México la jornada transcurre con llovizna.",
+   "en": "In «Ciudad de México» the day goes by with drizzle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima llega a veinticuatro grados y la mínima baja a catorce.",
+   "en": "The high reaches twenty-four degrees and the low drops to fourteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación es del noventa y dos por ciento.",
+   "en": "The chance of rain is ninety-two per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento apenas alcanza cinco kilómetros por hora en el valle.",
+   "en": "The wind barely reaches five kilometres an hour in the valley.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por estados, Guadalajara también amanece con llovizna.",
+   "en": "Around the states, «Guadalajara» also wakes up to drizzle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los termómetros tapatíos se mueven entre dieciséis y veintiséis grados.",
+   "en": "Thermometers in the city move between sixteen and twenty-six degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ahí la probabilidad de precipitación sube al noventa y seis por ciento.",
+   "en": "There the chance of rain climbs to ninety-six per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento se queda igualmente en cinco kilómetros por hora.",
+   "en": "The wind stays at five kilometres an hour as well.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cuidado en Monterrey, donde el termómetro llega a treinta y nueve grados.",
+   "en": "Take care in «Monterrey», where the thermometer reaches thirty-nine degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima regiomontana se queda en veintiséis grados, con cielo nuboso.",
+   "en": "The low there stays at twenty-six degrees, under a cloudy sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación baja al catorce por ciento.",
+   "en": "The chance of rain drops to fourteen per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento sopla hasta veintiséis kilómetros por hora,",
+   "en": "The wind blows up to twenty-six kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el más fuerte de las tres ciudades.",
+   "en": "the strongest of the three cities.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Así se ve el día.",
+   "en": "That is how the day looks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Thursday 3 September",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "Thursday forecast for Ciudad de México, 3rd September",
+ "summary_en": [
+  "Thursday forecast for Ciudad de México, 3rd September",
+  "Thursday forecast for Guadalajara, 3rd September"
+ ]
+}

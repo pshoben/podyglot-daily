@@ -1,0 +1,179 @@
+{
+ "title": "La agenda deportiva, jueves 3 de septiembre",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-sport",
+   "wpm": 186,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-03",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "La agenda deportiva de este jueves.",
+   "en": "The sports diary for this Thursday.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos con la Leagues Cup,",
+   "en": "We start with the «Leagues Cup»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que ya tiene definida su final.",
+   "en": "which now has its final set.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Monterrey y Toluca la disputarán el domingo.",
+   "en": "«Monterrey» and «Toluca» will play it on Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según La Jornada, es la primera vez que la final",
+   "en": "«La Jornada» says it is the first time the final",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "enfrenta a dos equipos de la Liga MX bajo el formato actual.",
+   "en": "has put two «Liga MX» sides against each other under the current format.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En los estadios, la Liga Nacional de Futbol Americano estudia traer más partidos a México.",
+   "en": "At the stadiums, the National Football League is looking at bringing more games to Mexico.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La liga no descarta que el país reciba",
+   "en": "The league is not ruling out the country hosting",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "más encuentros de temporada regular en los próximos años.",
+   "en": "more regular season matches in the years ahead.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "México es su principal mercado fuera de Estados Unidos.",
+   "en": "Mexico is its biggest market outside the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su regreso está previsto con el duelo",
+   "en": "Its return is set for the match",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "entre los Vikingos de Minnesota y los Cuarenta y Nueves de San Francisco, en el Estadio Banorte.",
+   "en": "between the «Minnesota» Vikings and the San Francisco 49ers, at the «Estadio Banorte».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La liga anunció su vuelta al país por tres años,",
+   "en": "The league announced it is coming back to the country for three years,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "entre este año y dos mil veintiocho.",
+   "en": "between this year and two thousand and twenty-eight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esa es la agenda.",
+   "en": "That is the diary.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Thursday 3 September",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "Monterrey and Toluca meet in the Leagues Cup final on Sunday",
+ "summary_en": [
+  "Monterrey and Toluca meet in the Leagues Cup final on Sunday",
+  "The NFL is weighing more regular season games in Mexico"
+ ]
+}

@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-MX-El noticiario matutino, jueves 3 de septiembre",
+   "file": "podcast-daily-2026-09-03-morning-news-es-MX.json",
+   "bytes": 7528,
+   "sha256": "e103e9cf541fa99bdaf7b92a1aaebc76ef4f9f8767d008f6a9363018079673ba",
+   "date": "2026-09-03",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El noticiario matutino, jueves 3 de septiembre",
+   "title_en": "The morning news, Thursday 3 September",
+   "headline_en": "Venezuela signs eight major agreements with foreign oil companies",
+   "summary_en": [
+    "Venezuela signs eight major agreements with foreign oil companies",
+    "The producer Luis de Llano has been detained in the Sasha Sokol case",
+    "Pemex is looking for new contract arrangements to bring in private investment"
+   ]
+  },
+  {
+   "id": "es-MX-La agenda deportiva, jueves 3 de septiembre",
+   "file": "podcast-daily-2026-09-03-morning-sport-es-MX.json",
+   "bytes": 4305,
+   "sha256": "bb3e0d72e673a7b39bffb298340186a65c627aeea4250219e7c42ec1709369de",
+   "date": "2026-09-03",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "La agenda deportiva, jueves 3 de septiembre",
+   "title_en": "Today's sport, Thursday 3 September",
+   "headline_en": "Monterrey and Toluca meet in the Leagues Cup final on Sunday",
+   "summary_en": [
+    "Monterrey and Toluca meet in the Leagues Cup final on Sunday",
+    "The NFL is weighing more regular season games in Mexico"
+   ]
+  },
+  {
+   "id": "es-MX-El clima, jueves 3 de septiembre",
+   "file": "podcast-daily-2026-09-03-morning-weather-es-MX.json",
+   "bytes": 4744,
+   "sha256": "09820c227ad0ed00b08ea5731c1de5c7cc599ff3dc720e641765e2846495ba10",
+   "date": "2026-09-03",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El clima, jueves 3 de septiembre",
+   "title_en": "Today's weather, Thursday 3 September",
+   "headline_en": "Thursday forecast for Ciudad de México, 3rd September",
+   "summary_en": [
+    "Thursday forecast for Ciudad de México, 3rd September",
+    "Thursday forecast for Guadalajara, 3rd September"
+   ]
+  },
+  {
    "id": "es-MX-El noticiario matutino, martes 1 de septiembre",
    "file": "podcast-daily-2026-09-01-morning-news-es-MX.json",
    "bytes": 9368,

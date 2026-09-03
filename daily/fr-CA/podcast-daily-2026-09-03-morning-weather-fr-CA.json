@@ -1,0 +1,219 @@
+{
+ "title": "Le bulletin météo, jeudi 3 septembre",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-weather",
+   "wpm": 185,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-03",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Du côté du ciel, trois coins du Québec pour la journée d'aujourd'hui.",
+   "en": "As for the sky, three corners of «Québec» for today.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les valeurs qui suivent viennent du modèle GEM d'Environnement Canada.",
+   "en": "The figures that follow come from Environment Canada's GEM model.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Montréal, la journée se passe sous les averses.",
+   "en": "In «Montréal», the day goes by under showers.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le maximum attendu dans la métropole est de vingt-six degrés,",
+   "en": "The high expected in the city is twenty-six degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le minimum de dix-neuf degrés.",
+   "en": "and the low nineteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de précipitation y atteint quatre-vingt-quatorze pour cent.",
+   "en": "The chance of rain there reaches ninety-four per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y souffle jusqu'à dix-neuf kilomètres par heure au plus fort.",
+   "en": "The wind there blows up to nineteen kilometres an hour at its strongest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'une région québécoise à l'autre, la ville de Québec connaît elle aussi des averses.",
+   "en": "Across the province, «Québec» City is under showers as well.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La capitale monte à vingt-deux degrés,",
+   "en": "The capital climbs to twenty-two degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un minimum de quinze degrés.",
+   "en": "with a low of fifteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de précipitation y est de cent pour cent.",
+   "en": "The chance of rain there is one hundred per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y atteint treize kilomètres par heure, moins qu'à Montréal.",
+   "en": "The wind there reaches thirteen kilometres an hour, less than in «Montréal».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au Saguenay, c'est de la pluie qui est attendue.",
+   "en": "In the «Saguenay», it is rain that is expected.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le maximum y est de dix-neuf degrés,",
+   "en": "The high there is nineteen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le minimum de quatorze degrés.",
+   "en": "and the low fourteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de précipitation y atteint quatre-vingt-douze pour cent.",
+   "en": "The chance of rain there reaches ninety-two per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y monte jusqu'à vingt-quatre kilomètres par heure,",
+   "en": "The wind there climbs to twenty-four kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le plus fort des trois.",
+   "en": "the strongest of the three.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Habillez-vous en conséquence.",
+   "en": "Dress accordingly.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Thursday 3 September",
+ "edition": "morning",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "Thursday forecast for Montréal, 3rd September",
+ "summary_en": [
+  "Thursday forecast for Montréal, 3rd September",
+  "Thursday forecast for Québec, 3rd September"
+ ]
+}

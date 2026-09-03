@@ -1,0 +1,280 @@
+{
+ "title": "El noticiario matutino, jueves 3 de septiembre",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-news",
+   "wpm": 186,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-03",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Jueves tres de septiembre, siete de la mañana. El noticiario matutino.",
+   "en": "Thursday the third of September, seven in the morning. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Venezuela firmó ocho acuerdos millonarios con petroleras extranjeras.",
+   "en": "Venezuela has signed eight major agreements with foreign oil companies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en México, el productor Luis de Llano fue detenido por el caso Sasha Sokol.",
+   "en": "Here in Mexico, the producer «Luis de Llano» has been detained over the «Sasha Sokol» case.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Arrancamos con Caracas, donde el gobierno venezolano",
+   "en": "We start in «Caracas», where the Venezuelan government",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "firmó esos ocho acuerdos con empresas como Chevron y ENI.",
+   "en": "signed those eight agreements with companies such as Chevron and «ENI».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El acto lo encabezaron la presidenta encargada de Venezuela, Delcy Rodríguez,",
+   "en": "The event was led by Venezuela's acting president, «Delcy Rodríguez»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el secretario de Energía de Estados Unidos, Chris Wright.",
+   "en": "and the United States energy secretary, Chris Wright.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Chevron consiguió nuevas áreas",
+   "en": "Chevron won new areas",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para sus operaciones en el país y mejores condiciones para sus empresas conjuntas.",
+   "en": "for its operations in the country and better terms for its joint ventures.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo detuvieron elementos de la Secretaría de Seguridad Ciudadana de la capital.",
+   "en": "He was picked up by officers of the capital's public security department.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las autoridades lo acusan de incumplir la sentencia dictada en el caso de Sasha Sokol.",
+   "en": "The authorities accuse him of failing to comply with the sentence handed down in the «Sasha Sokol» case.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El arresto administrativo es una medida de apremio ante su negativa a cumplir esa sentencia.",
+   "en": "The administrative arrest is a measure to compel him, after he refused to comply with that sentence.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En otros temas, Pemex busca nuevos esquemas contractuales para atraer inversión privada.",
+   "en": "In other news, «Pemex» is looking for new contract arrangements to bring in private investment.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La empresa quiere ampliar la participación privada más allá de los contratos mixtos,",
+   "en": "The company wants to widen private involvement beyond its mixed contracts,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dijo su director general, Juan Carlos Carpio.",
+   "en": "its director general «Juan Carlos Carpio» said.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La meta es acelerar su plan estratégico y modernizar su cadena productiva.",
+   "en": "The aim is to speed up its strategic plan and modernise its production chain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasamos a otro asunto, el secretario de Relaciones Exteriores, Roberto Velasco,",
+   "en": "Moving on, the foreign minister, «Roberto Velasco»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "viajará a China el siete de septiembre.",
+   "en": "will travel to China on the seventh of September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se trata de una visita de trabajo",
+   "en": "It is a working visit,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para fortalecer el diálogo político y la agenda de cooperación.",
+   "en": "to strengthen political dialogue and the cooperation agenda.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otra noticia, la Comisión de Hacienda de la Cámara de Diputados plantea aplicar el impuesto",
+   "en": "Turning to something else, the finance committee of the Chamber of Deputies is proposing to apply",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "especial a las bebidas alcohólicas.",
+   "en": "the special duty to alcoholic drinks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La propuesta va de sesenta centavos a un peso por unidad,",
+   "en": "The proposal runs from sixty centavos to one peso a unit,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dentro del paquete económico de dos mil veintisiete.",
+   "en": "within the budget package for two thousand and twenty-seven.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más destacado.",
+   "en": "That is the news that matters most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Thursday 3 September",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "Venezuela signs eight major agreements with foreign oil companies",
+ "summary_en": [
+  "Venezuela signs eight major agreements with foreign oil companies",
+  "The producer Luis de Llano has been detained in the Sasha Sokol case",
+  "Pemex is looking for new contract arrangements to bring in private investment"
+ ]
+}

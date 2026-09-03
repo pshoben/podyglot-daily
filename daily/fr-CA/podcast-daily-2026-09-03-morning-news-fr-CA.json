@@ -1,0 +1,310 @@
+{
+ "title": "Le bulletin du matin, jeudi 3 septembre",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-news",
+   "wpm": 185,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-03",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Jeudi trois septembre, sept heures. Le bulletin du matin.",
+   "en": "Thursday the third of September, seven o'clock. The morning bulletin.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La journaliste américaine Gloria Steinem, figure majeure du féminisme,",
+   "en": "The American journalist «Gloria Steinem»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "est morte à quatre-vingt-douze ans.",
+   "en": "a leading figure of feminism, has died at ninety-two.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et le Grand Toronto se relève d'une nuit de violents orages.",
+   "en": "And Greater «Toronto» is picking itself up after a night of violent storms.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On débute avec Gloria Steinem, journaliste et essayiste américaine,",
+   "en": "We start with «Gloria Steinem», the American journalist and essayist,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "morte mercredi à l'âge de quatre-vingt-douze ans.",
+   "en": "who died on Wednesday at the age of ninety-two.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sa fondation en a fait l'annonce jeudi.",
+   "en": "Her foundation announced it on Thursday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autrice et militante, elle est devenue l'une des grandes voix du mouvement féministe américain.",
+   "en": "An author and campaigner, she became one of the leading voices of the American feminist movement.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle a dénoncé sans relâche les inégalités subies par les femmes.",
+   "en": "She never stopped calling out the inequalities women face.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au pays, le Grand Toronto et la région élargie du Golden Horseshoe",
+   "en": "Here in Canada, Greater «Toronto» and the wider «Golden Horseshoe»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ont été balayés par de violents orages mercredi.",
+   "en": "were swept by violent storms on Wednesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les orages ont causé des inondations, abattu des arbres et provoqué des pannes de courant.",
+   "en": "The storms caused flooding, brought down trees and cut the power.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans l'actualité d'ici, les cols bleus de Montréal tiendront sept journées de grève,",
+   "en": "In other news, Montreal's blue-collar workers will hold seven days of strike action,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "du vingt-deux au vingt-huit septembre.",
+   "en": "from the twenty-second to the twenty-eighth of September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La grève tombera en plein coeur des Championnats du monde de cyclisme sur route.",
+   "en": "The strike falls right in the middle of the road cycling world championships.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon La Presse, c'est le rendez-vous sportif le plus important à Montréal",
+   "en": "«La Presse» calls it the biggest sporting event in Montreal",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "depuis les Jeux de mille neuf cent soixante-seize.",
+   "en": "since the Games of nineteen seventy-six.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On poursuit, l'Iran a de nouveau visé jeudi des cibles militaires américaines",
+   "en": "Moving on, Iran again struck American military targets",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "au Koweït et aux Émirats arabes unis.",
+   "en": "in Kuwait and the United Arab Emirates on Thursday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des bases de l'armée américaine y ont notamment été visées.",
+   "en": "American army bases there were among the targets.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Téhéran a agi en faisant fi des menaces de Donald Trump.",
+   "en": "Tehran acted in defiance of threats from «Donald Trump».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre nouvelle maintenant, selon l'autorité népalaise chargée de la gestion des situations d'urgence,",
+   "en": "Turning to something else, according to the Nepalese emergency management authority,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le bilan de la crue dans l'Himalaya s'est aggravé.",
+   "en": "the toll from the Himalayan flood has risen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il atteint mille deux cent cinquante-deux morts et quatre mille deux cent seize disparus au Népal.",
+   "en": "It stands at one thousand two hundred and fifty-two dead and four thousand two hundred and sixteen missing in Nepal.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce bilan reste provisoire.",
+   "en": "That toll is still provisional.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En terminant, un citoyen canadien porté disparu au Népal a été retrouvé sain et sauf.",
+   "en": "And finally, a Canadian reported missing in Nepal has been found safe and well.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La ministre des Affaires étrangères, Anita Anand, en a fait l'annonce.",
+   "en": "The foreign minister, «Anita Anand», announced it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est le portrait du jour.",
+   "en": "That is the picture today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Thursday 3 September",
+ "edition": "morning",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "Gloria Steinem, a leading figure of American feminism, has died at 92",
+ "summary_en": [
+  "Gloria Steinem, a leading figure of American feminism, has died at 92",
+  "Storms across Greater Toronto brought flooding, downed trees and power cuts",
+  "She spent decades campaigning against the inequalities women face"
+ ]
+}
