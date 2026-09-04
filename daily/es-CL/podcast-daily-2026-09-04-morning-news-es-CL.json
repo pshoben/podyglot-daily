@@ -1,0 +1,310 @@
+{
+ "title": "Las noticias de la mañana, viernes 4 de septiembre",
+ "dialect": "es-CL",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CL-daily-news",
+   "wpm": 205,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-04",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Viernes cuatro de septiembre, siete de la mañana.",
+   "en": "Friday the fourth of September, seven in the morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las noticias de la mañana.",
+   "en": "The morning's news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se descubrió un plan para atentar contra la vida del alcalde de San Bernardo.",
+   "en": "A plot to kill the mayor of «San Bernardo» has been uncovered.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y la oposición fustigó los dichos de Javier Milei sobre Allende en un foro",
+   "en": "And the opposition tore into «Javier Milei»'s remarks about «Allende», at a forum",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "realizado en Santiago.",
+   "en": "held in «Santiago».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Partimos con el alcalde Christopher White, jefe comunal de San Bernardo.",
+   "en": "We start with the mayor, «Christopher White», who runs «San Bernardo».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Este jueves fue el propio Presidente Kast",
+   "en": "On Thursday it was President «Kast» himself",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "quien llegó hasta la comuna a reunirse con él.",
+   "en": "who went to the town to meet him.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El alcalde valoró el respaldo del Gobierno y agradeció a la Fiscalía,",
+   "en": "The mayor welcomed the government's backing and thanked the prosecution service,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a Carabineros y a la Policía de Investigaciones.",
+   "en": "the «Carabineros» and the investigations police.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Destacó el tremendo esfuerzo que hacen diariamente, según sus palabras.",
+   "en": "He praised the tremendous effort they make every day, in his own words.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En paralelo, un grupo de alcaldes se reunió con el ministro para pedir medidas.",
+   "en": "At the same time, a group of mayors met the minister to ask for measures.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El caso eleva la presión sobre el Gobierno por la protección a las autoridades.",
+   "en": "The case raises the pressure on the government over protection for elected officials.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En lo demás, el foro Democracia Siempre se realizó en Santiago,",
+   "en": "In other news, the «Democracia Siempre» forum was held in «Santiago»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en respuesta al Foro de Madrid.",
+   "en": "in response to the «Foro de Madrid».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En esa cita, los partidos de oposición abogaron",
+   "en": "At that gathering, opposition parties argued",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por la defensa de la democracia y los derechos humanos.",
+   "en": "for the defence of democracy and human rights.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La oposición fustigó los dichos del presidente argentino",
+   "en": "The opposition tore into the Argentine president's remarks",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sobre Allende y pidió explicaciones al Presidente Kast.",
+   "en": "about «Allende» and asked President «Kast» to explain himself.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La actividad reunió a sectores opositores en paralelo a la cita de ultraderecha,",
+   "en": "The event drew opposition figures at the same time as the far-right gathering,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "donde participaron Kast y Milei.",
+   "en": "which «Kast» and «Milei» both attended.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La exministra Camila Vallejo cuestionó el tono del evento y advirtió sobre una posible involución democrática.",
+   "en": "The former minister «Camila Vallejo» questioned the tone of the event and warned of a possible backsliding of democracy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasamos a otra cosa, Camilo Escalona, expresidente del Senado y del Partido Socialista,",
+   "en": "Moving on, «Camilo Escalona», former president of the Senate and of the Socialist Party,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tuvo un fuerte deterioro de salud.",
+   "en": "has deteriorated seriously in health.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ocurrió la noche del miércoles,",
+   "en": "It happened on Wednesday night,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tras varias semanas internado en la Clínica Indisa.",
+   "en": "after several weeks in the «Clínica Indisa».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta la clínica llegaron el sacerdote Fernando Montes y el capellán evangélico de La Moneda.",
+   "en": "The priest «Fernando Montes» and the evangelical chaplain of «La Moneda» came to the clinic.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo principal.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Friday 4 September",
+ "edition": "morning",
+ "region": "es-CL",
+ "region_label": "Chile",
+ "headline_en": "A foiled plot against the mayor of San Bernardo raises pressure over protection for officials",
+ "summary_en": [
+  "A foiled plot against the mayor of San Bernardo raises pressure over protection for officials",
+  "Opposition parties criticise Milei's remarks on Allende at a rival forum",
+  "The former Senate president Camilo Escalona has deteriorated seriously in hospital"
+ ]
+}

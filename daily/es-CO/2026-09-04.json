@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-CO",
+ "date": "2026-09-04",
+ "episodes": [
+  {
+   "id": "es-CO-La actualidad de la mañana, viernes 4 de septiembre",
+   "file": "podcast-daily-2026-09-04-morning-news-es-CO.json",
+   "bytes": 9219,
+   "sha256": "76a7c329a53d3092e93bf21c0d9989dc308324077eb0ad0ac8a12e4e067d9a48",
+   "date": "2026-09-04",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "La actualidad de la mañana, viernes 4 de septiembre",
+   "title_en": "The morning news, Friday 4 September",
+   "headline_en": "Milei announces a decree on sanctions over the Malvinas waters",
+   "summary_en": [
+    "Milei announces a decree on sanctions over the Malvinas waters",
+    "Former governor Kiko Gómez moved to another prison after a cell search",
+    "Mancuso gives evidence in the Uribe massacres inquiry"
+   ]
+  },
+  {
+   "id": "es-CO-El clima de hoy, viernes 4 de septiembre",
+   "file": "podcast-daily-2026-09-04-morning-weather-es-CO.json",
+   "bytes": 5023,
+   "sha256": "d54f0a57028c36f13aafcf29959606b271548b06b17ab31afbd944780952e9bf",
+   "date": "2026-09-04",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "El clima de hoy, viernes 4 de septiembre",
+   "title_en": "Today's weather, Friday 4 September",
+   "headline_en": "Friday forecast for Bogotá, 4th September",
+   "summary_en": [
+    "Friday forecast for Bogotá, 4th September",
+    "Friday forecast for Cali, 4th September"
+   ]
+  }
+ ],
+ "content": "85c701e5003de6c58a8a8ddf7cf551f25edcf1b7cd866909b49346b9f4f94ac1",
+ "rev": 1,
+ "updated": "2026-09-04T19:18:42.229Z"
+}

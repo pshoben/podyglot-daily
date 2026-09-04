@@ -1,0 +1,169 @@
+{
+ "title": "El deporte, viernes 4 de septiembre",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-sport",
+   "wpm": 195,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-04",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El deporte de este viernes.",
+   "en": "The sport this Friday.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hoy se juega en Flushing Meadows un cruce entre argentinos.",
+   "en": "Today at «Flushing Meadows» two Argentines meet each other.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mariano Navone y Tomás Etcheverry se enfrentan en el US Open.",
+   "en": "«Mariano Navone» and «Tomás Etcheverry» face each other at the US Open.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El que gane jugará la cuarta ronda del torneo.",
+   "en": "Whoever wins will play in the fourth round of the tournament.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Será una jornada colmada de estrellas en el complejo neoyorquino.",
+   "en": "It will be a day packed with big names at the New York complex.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo que viene esta tarde llega desde Italia,",
+   "en": "This afternoon takes us to Italy,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con el Gran Premio en Monza.",
+   "en": "and the Grand Prix at «Monza».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La actividad arranca hoy con los entrenamientos libres en el Autódromo Nacional.",
+   "en": "Things get going today with free practice at the national circuit.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se extenderá entre este viernes y el próximo domingo.",
+   "en": "It runs from this Friday through to Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Franco Colapinto estrena allí el paquete de actualizaciones de su Alpine.",
+   "en": "«Franco Colapinto» brings out the upgrade package on his Alpine there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El piloto argentino vuelve a Monza,",
+   "en": "The Argentine driver returns to «Monza»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "donde debutó hace dos años en la Fórmula Uno.",
+   "en": "where he made his Formula One debut two years ago.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La actividad se transmitirá en vivo por Fox Sports y por Disney Plus.",
+   "en": "It will be shown live on Fox Sports and on «Disney Plus».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es el deporte.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Friday 4 September",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "US Open: Navone plays Etcheverry in an all-Argentine tie",
+ "summary_en": [
+  "US Open: Navone plays Etcheverry in an all-Argentine tie",
+  "Formula One at Monza: practice today, with Colapinto in an upgraded Alpine"
+ ]
+}

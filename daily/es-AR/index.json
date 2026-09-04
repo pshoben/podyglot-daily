@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-AR-El noticiero de la mañana, viernes 4 de septiembre",
+   "file": "podcast-daily-2026-09-04-morning-news-es-AR.json",
+   "bytes": 8557,
+   "sha256": "83f20ada71db05f4f438a2c1948ae6872a71f3bae962b2e9596735049aa022ed",
+   "date": "2026-09-04",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El noticiero de la mañana, viernes 4 de septiembre",
+   "title_en": "The morning news, Friday 4 September",
+   "headline_en": "Milei announces Malvinas oil sanctions, a naval base and a security council",
+   "summary_en": [
+    "Milei announces Malvinas oil sanctions, a naval base and a security council",
+    "London answers that the islands are British because the islanders choose it",
+    "The government publishes the Malvinas oil decree in the Boletín Oficial"
+   ]
+  },
+  {
+   "id": "es-AR-El deporte, viernes 4 de septiembre",
+   "file": "podcast-daily-2026-09-04-morning-sport-es-AR.json",
+   "bytes": 4071,
+   "sha256": "0e6e1735ae02a9fc4dcf27e463fe8b747d153611dc8a94c5762f17fda8269768",
+   "date": "2026-09-04",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El deporte, viernes 4 de septiembre",
+   "title_en": "Today's sport, Friday 4 September",
+   "headline_en": "US Open: Navone plays Etcheverry in an all-Argentine tie",
+   "summary_en": [
+    "US Open: Navone plays Etcheverry in an all-Argentine tie",
+    "Formula One at Monza: practice today, with Colapinto in an upgraded Alpine"
+   ]
+  },
+  {
+   "id": "es-AR-El pronóstico, viernes 4 de septiembre",
+   "file": "podcast-daily-2026-09-04-morning-weather-es-AR.json",
+   "bytes": 5577,
+   "sha256": "9523baf031709f611a82b2ac983b221711844d9c901b51fa12bd7ef00ca7bb35",
+   "date": "2026-09-04",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El pronóstico, viernes 4 de septiembre",
+   "title_en": "Today's weather, Friday 4 September",
+   "headline_en": "Yellow alert for wind and extreme cold, and a cool dry day in Buenos Aires",
+   "summary_en": [
+    "Yellow alert for wind and extreme cold, and a cool dry day in Buenos Aires",
+    "Friday forecast for Buenos Aires, 4th September"
+   ]
+  },
+  {
    "id": "es-AR-El noticiero de la mañana, martes 1 de septiembre",
    "file": "podcast-daily-2026-09-01-morning-news-es-AR.json",
    "bytes": 9312,

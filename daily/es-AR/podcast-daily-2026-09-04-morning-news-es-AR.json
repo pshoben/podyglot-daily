@@ -1,0 +1,340 @@
+{
+ "title": "El noticiero de la mañana, viernes 4 de septiembre",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-04",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Viernes cuatro de septiembre, siete de la mañana.",
+   "en": "Friday the fourth of September, seven in the morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El noticiero de la mañana.",
+   "en": "The morning news programme.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En cadena nacional, Javier Milei anunció sanciones más duras contra las empresas que extraen",
+   "en": "On a national broadcast, «Javier Milei» announced tougher penalties for the companies drilling for oil",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "petróleo en Malvinas.",
+   "en": "in the «Malvinas».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el Reino Unido respondió que las islas son británicas porque sus habitantes",
+   "en": "And the United Kingdom answered that the islands are British because the people who live",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "así lo eligen.",
+   "en": "there choose to be.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos por la cadena nacional,",
+   "en": "We start with that broadcast,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que el Presidente grabó acompañado por su gabinete.",
+   "en": "which the President recorded alongside his cabinet.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sostuvo que el Reino Unido está en condiciones de extraer el petróleo que yace",
+   "en": "He said the United Kingdom is in a position to take the oil lying",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "bajo mar argentino, y que no lo va a permitir.",
+   "en": "under Argentine waters, and that he will not allow it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pocas horas después del discurso,",
+   "en": "A few hours after the speech,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la medida quedó ratificada en el Boletín Oficial.",
+   "en": "the measure was confirmed in the official gazette.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El decreto ochocientos sesenta y ocho introduce modificaciones",
+   "en": "Decree eight hundred and sixty-eight changes",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la aplicación de la ley veintiséis mil seiscientos cincuenta y nueve.",
+   "en": "how law twenty-six thousand six hundred and fifty-nine is applied.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esa ley establece las condiciones",
+   "en": "That law sets the terms",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para la exploración y explotación de hidrocarburos en la plataforma continental.",
+   "en": "for exploring and drilling for hydrocarbons on the continental shelf.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Desde Londres, la respuesta llegó del ministro de Defensa, Wes Streeting.",
+   "en": "From London, the answer came from the defence secretary, Wes Streeting.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El canciller Pablo Quirno defendió el paquete de medidas tras el discurso.",
+   "en": "The foreign minister, «Pablo Quirno», defended the package of measures after the speech.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dijo que las empresas van a tener que decidir",
+   "en": "He said companies will have to decide",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "si siguen operando en una zona en disputa.",
+   "en": "whether to keep working in a disputed area.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El proyecto en cuestión se llama Sea Lion,",
+   "en": "The project at the centre of it is called Sea Lion,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y lo impulsan la israelí Navitas y la británica Rockhopper.",
+   "en": "run by the Israeli firm «Navitas» and the British firm «Rockhopper».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Contempla una inversión de mil ochocientos millones de dólares.",
+   "en": "It involves an investment of one thousand eight hundred million dollars.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según La Nación, pocos medios británicos se hicieron eco del discurso apenas terminado,",
+   "en": "According to «La Nación», few British outlets picked the speech up as soon as it ended,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por la diferencia horaria.",
+   "en": "because of the time difference.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sky News consideró que el Presidente no aportó nada nuevo.",
+   "en": "Sky News reckoned the President had added nothing new.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También en la agenda, avanzan los preparativos para la visita del papa León catorce.",
+   "en": "In other news, preparations are moving ahead for the visit of Pope Leo the fourteenth.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Córdoba, el gobernador Martín Llaryora encabezó una reunión",
+   "en": "In «Córdoba», the governor «Martín Llaryora» led a meeting",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con el cardenal Ángel Rossi y el intendente Daniel Passerini.",
+   "en": "with Cardinal «Ángel Rossi» and the mayor «Daniel Passerini».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Pontífice estará en el país del ocho al once de noviembre.",
+   "en": "The Pontiff will be in the country from the eighth to the eleventh of November.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo central.",
+   "en": "That is the heart of it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Friday 4 September",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Milei announces Malvinas oil sanctions, a naval base and a security council",
+ "summary_en": [
+  "Milei announces Malvinas oil sanctions, a naval base and a security council",
+  "London answers that the islands are British because the islanders choose it",
+  "The government publishes the Malvinas oil decree in the Boletín Oficial"
+ ]
+}

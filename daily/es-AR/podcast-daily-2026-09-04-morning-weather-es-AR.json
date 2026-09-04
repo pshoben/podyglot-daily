@@ -1,0 +1,219 @@
+{
+ "title": "El pronóstico, viernes 4 de septiembre",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-weather",
+   "wpm": 195,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-04",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Cómo viene el tiempo hoy viernes, con la alerta primero.",
+   "en": "Here is the weather today, Friday, starting with the warning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según el Servicio Meteorológico Nacional,",
+   "en": "According to the national weather service,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "hay alerta amarilla por vientos y frío extremo en varias provincias.",
+   "en": "there is a yellow warning for winds and extreme cold across several provinces.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según el mismo servicio, hay además posible caída de granizo y actividad eléctrica.",
+   "en": "According to the same service, there could also be hail and thunder and lightning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la Ciudad de Buenos Aires y el conurbano,",
+   "en": "In the city of «Buenos Aires» and the areas around it,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el mismo servicio prevé una jornada fresca y estable.",
+   "en": "the same service expects a cool, settled day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según el organismo, no hay probabilidades de lluvia y las temperaturas bajan de a poco.",
+   "en": "According to the service, there is no chance of rain and temperatures are easing back gradually.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Provincia por provincia, los números que siguen son del modelo del Centro Europeo, el ECMWF.",
+   "en": "Province by province, the figures that follow come from the European Centre model, the ECMWF.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Buenos Aires la máxima llega a diecisiete grados y la mínima baja a siete.",
+   "en": "In «Buenos Aires» the high reaches seventeen degrees and the low drops to seven.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo se mantiene poco nuboso y el viento sopla hasta catorce kilómetros por hora.",
+   "en": "The sky stays mostly clear and the wind blows up to fourteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Córdoba la máxima trepa a diecinueve grados,",
+   "en": "In «Córdoba» the high climbs to nineteen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con una mínima de nueve.",
+   "en": "with a low of nine.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí también el cielo está poco nuboso,",
+   "en": "There too the sky is mostly clear,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el viento se queda en ocho kilómetros por hora.",
+   "en": "and the wind stays at eight kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Mendoza la máxima es igualmente de diecinueve grados,",
+   "en": "In «Mendoza» the high is also nineteen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con una mínima de ocho.",
+   "en": "with a low of eight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo cordillerano presenta intervalos nubosos y el viento llega a doce kilómetros por hora.",
+   "en": "The sky by the mountains is broken cloud and the wind reaches twelve kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En los tres puntos la probabilidad de precipitación es nula.",
+   "en": "At all three the chance of rain is nil.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Así está el cielo.",
+   "en": "That is how the sky looks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Friday 4 September",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Yellow alert for wind and extreme cold, and a cool dry day in Buenos Aires",
+ "summary_en": [
+  "Yellow alert for wind and extreme cold, and a cool dry day in Buenos Aires",
+  "Friday forecast for Buenos Aires, 4th September"
+ ]
+}

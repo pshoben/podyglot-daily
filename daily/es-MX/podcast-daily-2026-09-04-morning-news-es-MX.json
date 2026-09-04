@@ -1,0 +1,290 @@
+{
+ "title": "El noticiario matutino, viernes 4 de septiembre",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-news",
+   "wpm": 186,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-04",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Viernes cuatro de septiembre, siete de la mañana. El noticiario matutino.",
+   "en": "Friday the fourth of September, seven in the morning. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un plan israelí propone expulsar de la Franja de Gaza a casi dos millones de palestinos.",
+   "en": "An Israeli plan proposes expelling almost two million Palestinians from the «Gaza» Strip.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en México, ciento treinta y cinco médicos enfermaron por un brote de salmonela.",
+   "en": "Here in Mexico, a hundred and thirty-five doctors have fallen ill in a salmonella outbreak.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Arrancamos con Israel, donde el ministro de Seguridad Nacional presentó ayer ese proyecto.",
+   "en": "We start in Israel, where the national security minister presented that plan yesterday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Itamar Ben Gvir plantea enviar al extranjero a los habitantes de la Franja.",
+   "en": "«Itamar Ben Gvir» proposes sending the Strip's residents abroad.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El propio plan la presenta como una salida voluntaria.",
+   "en": "The plan itself presents that as a voluntary departure.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En otros temas, el brote se detectó",
+   "en": "In other news, the outbreak was found",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el Hospital General de México, en la capital.",
+   "en": "at the «Hospital General de México», in the capital.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los afectados son médicos residentes y de alta especialidad, informó el propio hospital.",
+   "en": "Those affected are resident and specialist doctors, the hospital itself said.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La misma institución apunta a los alimentos del comedor subrogado como posible origen.",
+   "en": "The same body points to food from the subcontracted canteen as a possible source.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ya se abrió una investigación epidemiológica y sanitaria para determinar las causas.",
+   "en": "An epidemiological and health investigation has already been opened to find the causes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasamos a otro asunto, choferes de transporte de carga bloquearon ayer la garita comercial",
+   "en": "Moving on, lorry drivers blocked the commercial crossing",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "entre Mexicali y Calexico.",
+   "en": "between «Mexicali» and «Calexico» yesterday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La protesta es por el retiro de visas a operadores mexicanos.",
+   "en": "The protest is over visas withdrawn from Mexican drivers.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según La Jornada, el gobierno estadounidense retiró la visa a diecisiete choferes.",
+   "en": "According to «La Jornada», the United States government withdrew visas from seventeen drivers.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otra noticia, México registró en julio su mayor superávit comercial con Estados Unidos.",
+   "en": "Turning to something else, Mexico had its largest trade surplus with the United States in July.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo informó la Oficina del Censo del Departamento de Comercio estadounidense.",
+   "en": "The United States Commerce Department's Census Bureau reported it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "México también aumentó su participación en el mercado estadounidense.",
+   "en": "Mexico also increased its share in the American market.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos en México, el gobierno enviará el Paquete Económico al Congreso el nueve de septiembre.",
+   "en": "Still in Mexico, the government will send its budget package to Congress on the ninth of September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Entre sus propuestas tributarias está rastrear el impuesto especial de los combustibles.",
+   "en": "Among its tax proposals is tracing the special duty on fuels.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La presidenta Claudia Sheinbaum adelantó que la medida busca frenar el huachicol fiscal.",
+   "en": "President «Claudia Sheinbaum» said the measure is meant to curb fuel-tax fraud.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cerramos con otro tema, el chile en nogada llegó a las mesas del Centro Histórico.",
+   "en": "And finally, «chile en nogada» has arrived on tables in the historic centre.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Participan restaurantes, cafeterías, fondas y locales de mercados públicos.",
+   "en": "Restaurants, cafes, cheap eateries and public market stalls are taking part.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El festival del platillo tricolor concluirá el veintiséis de septiembre.",
+   "en": "The tricolour dish festival ends on the twenty-sixth of September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los chefs prevén aumentar sus ventas al menos treinta por ciento.",
+   "en": "Chefs expect their sales to rise by at least thirty per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más destacado.",
+   "en": "That is what stands out most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Friday 4 September",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "Israeli minister presents a plan to expel Palestinians from Gaza",
+ "summary_en": [
+  "Israeli minister presents a plan to expel Palestinians from Gaza",
+  "Salmonella outbreak at the Hospital General de México affects 135 doctors",
+  "Lorry drivers block the Mexicali to Calexico crossing over withdrawn visas"
+ ]
+}

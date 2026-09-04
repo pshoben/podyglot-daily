@@ -1,0 +1,31 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-CA",
+ "date": "2026-09-04",
+ "episodes": [
+  {
+   "id": "fr-CA-Le bulletin météo, vendredi 4 septembre",
+   "file": "podcast-daily-2026-09-04-morning-weather-fr-CA.json",
+   "bytes": 5407,
+   "sha256": "3fc28d91e534282afba09cf9da91f2df910d1e67b8a3f0599cc7022292003f8a",
+   "date": "2026-09-04",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin météo, vendredi 4 septembre",
+   "title_en": "Today's weather, Friday 4 September",
+   "headline_en": "Friday forecast for Montréal, 4th September",
+   "summary_en": [
+    "Friday forecast for Montréal, 4th September",
+    "Friday forecast for Québec, 4th September"
+   ]
+  }
+ ],
+ "content": "47cbc07de2b8198120c04986315d18cf9050a67444c2588249f4a77415666446",
+ "rev": 1,
+ "updated": "2026-09-04T19:18:42.229Z"
+}

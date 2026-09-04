@@ -1,0 +1,350 @@
+{
+ "title": "La actualidad de la mañana, viernes 4 de septiembre",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-04",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Viernes cuatro de septiembre. La actualidad de la mañana.",
+   "en": "Friday the 4th of September. The morning news round-up.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Javier Milei anunció acciones para defender la soberanía argentina sobre las Islas Malvinas.",
+   "en": "«Javier Milei» has announced measures to defend Argentine sovereignty over the «Islas Malvinas».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el Inpec trasladó de cárcel al exgobernador de La Guajira Kiko Gómez,",
+   "en": "And the prison service «Inpec» has moved «Kiko Gómez», the former governor of «La Guajira», to another jail",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tras una requisa en su celda.",
+   "en": "after a search of his cell.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Iniciamos con ese anuncio, que el presidente argentino hizo en cadena nacional.",
+   "en": "We begin with that announcement, which the Argentine president made in a broadcast to the nation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según La República, el anuncio incluye un decreto",
+   "en": "According to «La República», it includes a decree",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para acelerar las sanciones a las empresas que operan en aguas cercanas a las islas.",
+   "en": "to speed up sanctions on companies working in the waters near the islands.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en Colombia, la requisa en la celda de La Picota",
+   "en": "Here in Colombia, the cell search at «La Picota»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la ordenó el presidente Abelardo De La Espriella.",
+   "en": "was ordered by President «Abelardo De La Espriella».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El operativo se hizo tras revelarse intimidaciones",
+   "en": "The operation came after reports of intimidation",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "contra la Sala Plena de la Corte Suprema de Justicia.",
+   "en": "against the full bench of the Supreme Court.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El presidente confirmó el registro y dijo que en la celda encontraron un celular.",
+   "en": "The president confirmed the search and said a mobile phone had been found in the cell.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El exgobernador fue llevado luego a la cárcel de Picaleña, en Ibagué.",
+   "en": "The former governor was then taken to «Picaleña» prison, in «Ibagué».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Gómez negó cualquier vínculo con el ataque a tiros contra la Procuraduría,",
+   "en": "«Gómez» denied any link to the shooting at the «Procuraduría»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y su abogado pidió respetar la presunción de inocencia.",
+   "en": "and his lawyer asked for his presumption of innocence to be respected.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En otras noticias, el exjefe paramilitar Salvatore Mancuso",
+   "en": "In other news, the former paramilitary commander «Salvatore Mancuso»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "rindió declaración bajo juramento ante la Fiscalía, en Montería.",
+   "en": "gave evidence under oath to prosecutors in «Montería».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sobre la masacre de El Aro,",
+   "en": "On the «El Aro» massacre,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "respondió que no le consta que el entonces gobernador de Antioquia, Álvaro Uribe, la hubiera ordenado.",
+   "en": "he answered that he had no direct knowledge that «Álvaro Uribe», then governor of «Antioquia», had ordered it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Colombiano precisó que Uribe debe comparecer este viernes,",
+   "en": "«El Colombiano» says «Uribe» is due this Friday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a las nueve de la mañana, en la Fiscalía en Bogotá.",
+   "en": "at nine in the morning, at the prosecutors' office in «Bogotá».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de asunto, según El Tiempo,",
+   "en": "Moving on, according to «El Tiempo»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la Fiscalía y la DEA capturaron en Manizales a un supuesto cabecilla del Tren de Aragua.",
+   "en": "the «Fiscalía» and the «DEA» have captured an alleged leader of the «Tren de Aragua» gang in «Manizales».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El diario agregó que fue detenido junto a otro hombre,",
+   "en": "The paper added that he was held along with another man,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y que los dos son requeridos en extradición.",
+   "en": "and that both are wanted for extradition.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para finalizar, el Ministerio de Minas y Energía",
+   "en": "And finally, the mines and energy ministry",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "derogó las diez resoluciones que delimitaban los Distritos Mineros Especiales.",
+   "en": "has repealed the ten resolutions that set out the Special Mining Districts.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La ministra Nohemí Arboleda sostuvo que esos distritos",
+   "en": "The minister, «Nohemí Arboleda», said the districts",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "terminaron usándose para sustituir la minería y frenar la inversión.",
+   "en": "had ended up being used to replace mining and to hold back investment.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La República informó que la derogatoria influye en ciento diecinueve municipios,",
+   "en": "«La República» reports that the repeal reaches 119 municipalities,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en un área de diez coma cuatro millones de hectáreas.",
+   "en": "over an area of 10.4 million hectares.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más importante.",
+   "en": "That is what matters most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Friday 4 September",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "Milei announces a decree on sanctions over the Malvinas waters",
+ "summary_en": [
+  "Milei announces a decree on sanctions over the Malvinas waters",
+  "Former governor Kiko Gómez moved to another prison after a cell search",
+  "Mancuso gives evidence in the Uribe massacres inquiry"
+ ]
+}
