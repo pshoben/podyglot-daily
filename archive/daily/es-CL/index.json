@@ -3,8 +3,28 @@
  "channel": "daily",
  "dialect": "es-CL",
  "base": "https://pshoben.github.io/podyglot-daily/archive/",
- "archived_before": "2026-08-21",
+ "archived_before": "2026-08-22",
  "episodes": [
+  {
+   "id": "es-CL-El estado del tiempo, viernes 21 de agosto",
+   "file": "podcast-daily-2026-08-21-morning-weather-es-CL.json",
+   "bytes": 5135,
+   "sha256": "6bbea975f2e7e219ed851c08648d602b2010ae5167f5f5d62b50ef6bf7b05726",
+   "date": "2026-08-21",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "El estado del tiempo, viernes 21 de agosto",
+   "title_en": "Today's weather, Friday 21 August",
+   "headline_en": "The forecast for Santiago for Friday 21 August 2026 is a maximum of 22 degrees and a minim",
+   "summary_en": [
+    "The forecast for Santiago for Friday 21 August 2026 is a maximum of 22 degrees and a minim",
+    "The forecast for Valparaíso for Friday 21 August 2026 is a maximum of 28 degrees and a min"
+   ]
+  },
   {
    "id": "es-CL-Las noticias de la mañana, jueves 20 de agosto",
    "file": "podcast-daily-2026-08-20-morning-news-es-CL.json",

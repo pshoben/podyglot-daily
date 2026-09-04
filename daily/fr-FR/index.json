@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-FR-Le journal du matin, vendredi 4 septembre",
+   "file": "podcast-daily-2026-09-04-morning-news-fr-FR.json",
+   "bytes": 8647,
+   "sha256": "56ceea26f47b8f7dea1407c54fba3d56b51581579c84c71be93699f6b7534813",
+   "date": "2026-09-04",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, vendredi 4 septembre",
+   "title_en": "The morning news, Friday 4 September",
+   "headline_en": "Two workers pulled out alive from a flooded tunnel in Nepal",
+   "summary_en": [
+    "Two workers pulled out alive from a flooded tunnel in Nepal",
+    "Emergency aid plan for French farming due on Friday morning",
+    "Rescuers digging for a week at tunnels buried by the Nepal flood"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, vendredi 4 septembre",
+   "file": "podcast-daily-2026-09-04-morning-sport-fr-FR.json",
+   "bytes": 4367,
+   "sha256": "42ffc82a8ab75b5196d500b83f7508f4e74f1b0439d7c0a264eeba3b9a9a6e7a",
+   "date": "2026-09-04",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, vendredi 4 septembre",
+   "title_en": "Today's sport, Friday 4 September",
+   "headline_en": "PSG host Monaco on Friday evening in the Ligue 1 third round",
+   "summary_en": [
+    "PSG host Monaco on Friday evening in the Ligue 1 third round",
+    "The Starligue handball season starts on Friday with play-offs added"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, vendredi 4 septembre",
+   "file": "podcast-daily-2026-09-04-morning-weather-fr-FR.json",
+   "bytes": 4923,
+   "sha256": "f778f05992b5700faf01f1fd320897f85d1addb63b6a8022f2adc38fc6e0cacd",
+   "date": "2026-09-04",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, vendredi 4 septembre",
+   "title_en": "Today's weather, Friday 4 September",
+   "headline_en": "Friday forecast for Paris, 4th September",
+   "summary_en": [
+    "Friday forecast for Paris, 4th September",
+    "Friday forecast for Bordeaux, 4th September"
+   ]
+  },
+  {
    "id": "fr-FR-Le journal du matin, jeudi 3 septembre",
    "file": "podcast-daily-2026-09-03-morning-news-fr-FR.json",
    "bytes": 8261,
@@ -714,67 +775,6 @@
    "headline_en": "According to Meteo-France models, overcast skies for Saturday with highs of 23 in Paris and 28 in Marseille and Bordeaux",
    "summary_en": [
     "According to Meteo-France models, overcast skies for Saturday with highs of 23 in Paris and 28 in Marseille and Bordeaux"
-   ]
-  },
-  {
-   "id": "fr-FR-Le journal du matin, vendredi 21 août",
-   "file": "podcast-daily-2026-08-21-morning-news-fr-FR.json",
-   "bytes": 9726,
-   "sha256": "9ef1203b19254fe9e916afb1d2fff43119d532015e65e5473841a871ffc180ac",
-   "date": "2026-08-21",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le journal du matin, vendredi 21 août",
-   "title_en": "The morning news, Friday 21 August",
-   "headline_en": "A violent fire destroyed a residential building and a restaurant during the night from Thu",
-   "summary_en": [
-    "A violent fire destroyed a residential building and a restaurant during the night from Thu",
-    "The French astronaut Sophie Adenot will carry out a second spacewalk on Tuesday 25 August,",
-    "Eight people died in the crash of an aircraft chartered by a civilian contractor in Alaska"
-   ]
-  },
-  {
-   "id": "fr-FR-Le sport, vendredi 21 août",
-   "file": "podcast-daily-2026-08-21-morning-sport-fr-FR.json",
-   "bytes": 5679,
-   "sha256": "76e61fe61c4415aede8daac21a932a790ea9ea875d0f9d0af79ec331df1cc456",
-   "date": "2026-08-21",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le sport, vendredi 21 août",
-   "title_en": "Today's sport, Friday 21 August",
-   "headline_en": "Ligue 1 starts again on Friday evening. Marseille receives Strasbourg at a quarter to nine",
-   "summary_en": [
-    "Ligue 1 starts again on Friday evening. Marseille receives Strasbourg at a quarter to nine",
-    "The French rider Julian Alaphilippe, twice world champion in 2020 and 2021, is putting an"
-   ]
-  },
-  {
-   "id": "fr-FR-La météo, vendredi 21 août",
-   "file": "podcast-daily-2026-08-21-morning-weather-fr-FR.json",
-   "bytes": 5404,
-   "sha256": "fa6e38b3a9f2a5befdf17d7f32ace56a683d1c207c36c318171e9946e5af7d64",
-   "date": "2026-08-21",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "La météo, vendredi 21 août",
-   "title_en": "Today's weather, Friday 21 August",
-   "headline_en": "The Var and the Alpes-Maritimes remain on orange alert for storms and for rain and floodin",
-   "summary_en": [
-    "The Var and the Alpes-Maritimes remain on orange alert for storms and for rain and floodin",
-    "Prévision pour Paris, vendredi 2026-08-21"
    ]
   }
  ]

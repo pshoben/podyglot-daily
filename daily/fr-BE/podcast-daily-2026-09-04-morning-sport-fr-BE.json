@@ -1,0 +1,179 @@
+{
+ "title": "Le sport chez nous, vendredi 4 septembre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-sport",
+   "wpm": 222,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-04",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "En piste aujourd'hui, les Belgian Cats entrent dans leur Coupe du monde de basket.",
+   "en": "In action today, the «Belgian Cats» begin their basketball World Cup.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le tournoi démarre ce vendredi à Berlin,",
+   "en": "The tournament starts this Friday in Berlin,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et la Turquie se dresse d'emblée devant elles.",
+   "en": "and Turkey stands in their way straight away.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon la RTBF, ce premier match se joue sous haute tension.",
+   "en": "According to «RTBF», this first match is a tense one.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La capitaine belge Emma Meesseman évolue au Fenerbahçe depuis quatre saisons.",
+   "en": "The Belgian captain «Emma Meesseman» has played for «Fenerbahçe» for four seasons.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour elle, cette rencontre face aux Turques sera forcément une affaire personnelle.",
+   "en": "For her, this meeting with the Turkish side is bound to be personal.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Du côté des clubs, le mercato s'est refermé jeudi soir à minuit en Belgique.",
+   "en": "Over at the clubs, the transfer window shut at midnight on Thursday in Belgium.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Arthur Vermeeren revient à l'Antwerp,",
+   "en": "«Arthur Vermeeren» is going back to «Antwerp»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le club qui l'a formé, d'après la DH.",
+   "en": "the club that brought him up, «DH» reports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Diable rouge rentre après deux saisons et demie à l'étranger.",
+   "en": "The Red Devil comes home after two and a half seasons abroad.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il arrive en prêt d'un an, sans option d'achat.",
+   "en": "He arrives on a one-year loan, with no option to buy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce qui nous attend, le Mémorial Ivo Van Damme vit sa cinquantième édition ce soir.",
+   "en": "Coming up, the «Mémorial Ivo Van Damme» holds its fiftieth meeting tonight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon la DH, le Suédois Armand Duplantis y retrouve le Grec Emmanouil Karalis.",
+   "en": "«DH» has the Swede «Armand Duplantis» meeting the Greek «Emmanouil Karalis» there again.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour Duplantis, c'est une compétition historique, qui mérite de grandes performances.",
+   "en": "For «Duplantis», it is a historic meeting that deserves big performances.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est tout pour le sport belge.",
+   "en": "That is all for Belgian sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Friday 4 September",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Belgian Cats open their World Cup against Turkey in Berlin",
+ "summary_en": [
+  "Belgian Cats open their World Cup against Turkey in Berlin",
+  "Belgian transfer window shuts, Vermeeren back at Antwerp"
+ ]
+}

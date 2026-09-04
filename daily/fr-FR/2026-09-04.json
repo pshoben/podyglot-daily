@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-FR",
+ "date": "2026-09-04",
+ "episodes": [
+  {
+   "id": "fr-FR-Le journal du matin, vendredi 4 septembre",
+   "file": "podcast-daily-2026-09-04-morning-news-fr-FR.json",
+   "bytes": 8647,
+   "sha256": "56ceea26f47b8f7dea1407c54fba3d56b51581579c84c71be93699f6b7534813",
+   "date": "2026-09-04",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, vendredi 4 septembre",
+   "title_en": "The morning news, Friday 4 September",
+   "headline_en": "Two workers pulled out alive from a flooded tunnel in Nepal",
+   "summary_en": [
+    "Two workers pulled out alive from a flooded tunnel in Nepal",
+    "Emergency aid plan for French farming due on Friday morning",
+    "Rescuers digging for a week at tunnels buried by the Nepal flood"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, vendredi 4 septembre",
+   "file": "podcast-daily-2026-09-04-morning-sport-fr-FR.json",
+   "bytes": 4367,
+   "sha256": "42ffc82a8ab75b5196d500b83f7508f4e74f1b0439d7c0a264eeba3b9a9a6e7a",
+   "date": "2026-09-04",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, vendredi 4 septembre",
+   "title_en": "Today's sport, Friday 4 September",
+   "headline_en": "PSG host Monaco on Friday evening in the Ligue 1 third round",
+   "summary_en": [
+    "PSG host Monaco on Friday evening in the Ligue 1 third round",
+    "The Starligue handball season starts on Friday with play-offs added"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, vendredi 4 septembre",
+   "file": "podcast-daily-2026-09-04-morning-weather-fr-FR.json",
+   "bytes": 4923,
+   "sha256": "f778f05992b5700faf01f1fd320897f85d1addb63b6a8022f2adc38fc6e0cacd",
+   "date": "2026-09-04",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, vendredi 4 septembre",
+   "title_en": "Today's weather, Friday 4 September",
+   "headline_en": "Friday forecast for Paris, 4th September",
+   "summary_en": [
+    "Friday forecast for Paris, 4th September",
+    "Friday forecast for Bordeaux, 4th September"
+   ]
+  }
+ ],
+ "content": "bf05cdb4e2c7ebc7c03cd503cfa9c25d9a174b3b8e38474c8dbc3d62209398b8",
+ "rev": 1,
+ "updated": "2026-09-04T07:39:53.934Z"
+}

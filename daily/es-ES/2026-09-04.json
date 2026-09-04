@@ -1,0 +1,112 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-ES",
+ "date": "2026-09-04",
+ "episodes": [
+  {
+   "id": "es-ES-El informativo de la mañana, viernes 4 de septiembre",
+   "file": "podcast-daily-2026-09-04-morning-news-es-ES.json",
+   "bytes": 12077,
+   "sha256": "d88b8ff7b6cae7604cd68626dbb8d04962caf1c4cdc240d75dd2eb3d51260734",
+   "date": "2026-09-04",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, viernes 4 de septiembre",
+   "title_en": "The morning news, Friday 4 September",
+   "headline_en": "Volkswagen approves another fifty thousand job cuts, with Seat's future undecided",
+   "summary_en": [
+    "Volkswagen approves another fifty thousand job cuts, with Seat's future undecided",
+    "Sanchez opens the door to Moroccan involvement being proven over Ceuta",
+    "Volkswagen's supervisory board approves the Plan Futuro 2030 restructuring"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, viernes 4 de septiembre",
+   "file": "podcast-daily-2026-09-04-morning-sport-es-ES.json",
+   "bytes": 3751,
+   "sha256": "484660a8305a7ee2776067f0490abfefb4a72ae1d55d4f92c375bc4334fb1c87",
+   "date": "2026-09-04",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, viernes 4 de septiembre",
+   "title_en": "Today's sport, Friday 4 September",
+   "headline_en": "Betis host Real Madrid in LaLiga today",
+   "summary_en": [
+    "Betis host Real Madrid in LaLiga today",
+    "The match is played at La Cartuja in Seville"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, viernes 4 de septiembre",
+   "file": "podcast-daily-2026-09-04-morning-weather-es-ES.json",
+   "bytes": 7683,
+   "sha256": "53c9b76ba2427cc0f5dd7f8ef73a323e2da973eea967fa77392191bb0bf6980f",
+   "date": "2026-09-04",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, viernes 4 de septiembre",
+   "title_en": "Today's weather, Friday 4 September",
+   "headline_en": "Aemet has high-temperature warnings out in fifteen communities today",
+   "summary_en": [
+    "Aemet has high-temperature warnings out in fifteen communities today",
+    "A stable day with cloud building from the south-west"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, viernes 4 de septiembre",
+   "file": "podcast-daily-2026-09-04-morning-weather-andalucia-es-ES.json",
+   "bytes": 4050,
+   "sha256": "a63695bff6b1b286eeaf250052a48e9e265282f8f906d41171c103dbf3820569",
+   "date": "2026-09-04",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, viernes 4 de septiembre",
+   "title_en": "Today's weather, Andalusia, Friday 4 September",
+   "headline_en": "An orange heat warning covers the Cordoba and Seville campinas",
+   "summary_en": [
+    "An orange heat warning covers the Cordoba and Seville campinas",
+    "Friday AEMET forecast for Córdoba, 4th September"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, viernes 4 de septiembre",
+   "file": "podcast-daily-2026-09-04-morning-weather-canarias-es-ES.json",
+   "bytes": 3831,
+   "sha256": "a675d0f2c663c493f5594a96be38420365417deaf5421c46bb0d63c5d128cd3f",
+   "date": "2026-09-04",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, viernes 4 de septiembre",
+   "title_en": "Today's weather, Canary Islands, Friday 4 September",
+   "headline_en": "Temperatures rise in the Canary Islands today",
+   "summary_en": [
+    "Temperatures rise in the Canary Islands today",
+    "Friday AEMET forecast for Las Palmas de Gran Canaria, 4th September"
+   ]
+  }
+ ],
+ "content": "dafff99b9ded51447b60d68caa3380fb7fb2190f95bc7661f0599d5987210b4c",
+ "rev": 1,
+ "updated": "2026-09-04T07:39:53.934Z"
+}

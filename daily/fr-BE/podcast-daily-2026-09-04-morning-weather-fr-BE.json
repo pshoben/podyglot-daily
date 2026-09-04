@@ -1,0 +1,239 @@
+{
+ "title": "Le temps chez nous, vendredi 4 septembre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-weather",
+   "wpm": 222,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-04",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Au-dessus de nos têtes aujourd'hui, beaucoup de nuages et seulement quelques éclaircies locales.",
+   "en": "Above our heads today, a lot of cloud and only a few local bright spells.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est ce qu'attend l'Institut royal météorologique pour ce vendredi, d'après la DH.",
+   "en": "That is what the «Institut royal météorologique» expects for this Friday, «DH» reports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon ses prévisions, le temps restera d'abord généralement sec.",
+   "en": "On that forecast, the weather will stay generally dry at first.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Une zone de pluie traversera ensuite le pays,",
+   "en": "A band of rain will then cross the country,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "du nord-ouest vers le sud-est.",
+   "en": "from the north-west to the south-east.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle arrivera dans le courant de l'après-midi,",
+   "en": "It arrives during the afternoon,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et les maxima grimperont jusqu'à vingt-six degrés.",
+   "en": "and highs will climb to as much as 26 degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce matin, la RTBF voit un ciel souvent nuageux à couvert, avec quelques bruines possibles.",
+   "en": "This morning «RTBF» has a sky that is often cloudy to overcast, with the odd spot of drizzle possible.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La journée sera aussi assez venteuse sur tout le pays.",
+   "en": "The day will also be fairly windy across the whole country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon le modèle du Centre européen, l'ECMWF,",
+   "en": "On the European Centre model, the ECMWF,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Bruxelles plafonne à vingt-deux degrés.",
+   "en": "Brussels tops out at 22 degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le minimum y descend à dix-huit degrés, avec de la bruine annoncée.",
+   "en": "The low there drops to 18 degrees, with drizzle forecast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de pluie s'élève à quatre-vingt-dix pour cent sur la capitale.",
+   "en": "The chance of rain stands at 90 per cent over the capital.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y monte à vingt-huit kilomètres par heure.",
+   "en": "The wind there gets up to 28 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'une région à l'autre, Liège culmine à vingt-quatre degrés pour un minimum de dix-huit.",
+   "en": "From one part of the country to another, «Liège» peaks at 24 degrees with a low of 18.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le risque de pluie y passe à quatre-vingt-seize pour cent.",
+   "en": "The chance of rain there rises to 96 per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y souffle jusqu'à vingt-neuf kilomètres par heure.",
+   "en": "The wind there blows at up to 29 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Namur, même maximum de vingt-quatre degrés et même minimum de dix-huit.",
+   "en": "In «Namur», the same high of 24 degrees and the same low of 18.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La ville affiche quatre-vingt-dix pour cent de risque de pluie.",
+   "en": "The city shows a 90 per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y atteint lui aussi vingt-neuf kilomètres par heure.",
+   "en": "The wind there reaches 29 kilometres an hour too.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le temps chez nous.",
+   "en": "That is the weather here at home.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Friday 4 September",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Cloudy and breezy across Belgium, rain crossing in the afternoon",
+ "summary_en": [
+  "Cloudy and breezy across Belgium, rain crossing in the afternoon",
+  "Friday forecast for Brussels, 4th September"
+ ]
+}

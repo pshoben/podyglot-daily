@@ -1,0 +1,149 @@
+{
+ "title": "Los deportes, viernes 4 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-sport",
+   "wpm": 208,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-04",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Hoy en la agenda, el Betis recibe al Real Madrid en un partido de LaLiga.",
+   "en": "On the agenda today, «Betis» host «Real Madrid» in a «LaLiga» match.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El encuentro se juega en el estadio de La Cartuja, en Sevilla.",
+   "en": "The match is played at «La Cartuja», in «Sevilla».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Real Madrid llega a la cita sevillana con José Mourinho en el banquillo.",
+   "en": "«Real Madrid» arrive in «Sevilla» with «José Mourinho» in the dugout.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En San Mamés, el Athletic recibe mañana al Atlético de Madrid.",
+   "en": "At «San Mamés», «Athletic» host «Atlético de Madrid» tomorrow.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el ciclismo, la Vuelta a España corre hoy su decimotercera etapa.",
+   "en": "In the cycling, the «Vuelta a España» rides its thirteenth stage today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El recorrido de la jornada tiene tres ascensiones, en otro día de calor.",
+   "en": "The route has three climbs, on another hot day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el mercado de fichajes,",
+   "en": "In the transfer market,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "las grandes ligas europeas ya han cerrado sus puertas hasta enero.",
+   "en": "the big European leagues have already shut up shop until January.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Portugal, en cambio, la ventana se cierra hoy.",
+   "en": "In Portugal, though, the window closes today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Espanyol presentó ayer en el RCDE Stadium a sus dos últimos fichajes.",
+   "en": "«Espanyol» presented their last two signings at the «RCDE Stadium» yesterday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Son Bryan Zaragoza y el lateral derecho Andoni Gorosabel.",
+   "en": "They are «Bryan Zaragoza» and the right-back «Andoni Gorosabel».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí los deportes.",
+   "en": "And that is where we leave the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Friday 4 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Betis host Real Madrid in LaLiga today",
+ "summary_en": [
+  "Betis host Real Madrid in LaLiga today",
+  "The match is played at La Cartuja in Seville"
+ ]
+}

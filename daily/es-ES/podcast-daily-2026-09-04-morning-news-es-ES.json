@@ -1,0 +1,480 @@
+{
+ "title": "El informativo de la mañana, viernes 4 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-news",
+   "wpm": 208,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-04",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Viernes cuatro de septiembre, siete de la mañana en Madrid.",
+   "en": "Friday the 4th of September, seven in the morning in «Madrid».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El informativo de la mañana.",
+   "en": "The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Volkswagen aprueba un recorte de otros cincuenta mil empleos y deja sin definir",
+   "en": "«Volkswagen» approves another fifty thousand job cuts and leaves",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el futuro de Seat.",
+   "en": "the future of «Seat» undecided.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pedro Sánchez abre la puerta a que se demuestre la implicación de Marruecos",
+   "en": "«Pedro Sánchez» opens the door to proof of Morocco's involvement",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la crisis de Ceuta.",
+   "en": "in the «Ceuta» crisis.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Abrimos con Alemania.",
+   "en": "We begin in Germany.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El consejo de supervisión de Volkswagen aprobó ayer por unanimidad",
+   "en": "«Volkswagen»'s supervisory board approved yesterday, unanimously,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el llamado Plan Futuro dos mil treinta.",
+   "en": "the restructuring it calls «Plan Futuro 2030».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El programa recorta unos cincuenta mil empleos más en todo el mundo.",
+   "en": "The plan cuts around fifty thousand more jobs worldwide.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se suman a los cincuenta mil despidos ya aprobados con anterioridad.",
+   "en": "They come on top of the fifty thousand redundancies already approved.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El comunicado difundido tras la reunión no aclara el futuro de Seat.",
+   "en": "The statement issued after the meeting does not clear up the future of «Seat».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Tampoco confirma que la marca española vaya a desaparecer.",
+   "en": "Nor does it confirm that the Spanish brand is going to disappear.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seat se creó hace setenta y seis años en Barcelona.",
+   "en": "«Seat» was created seventy-six years ago in «Barcelona».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en España, Pedro Sánchez acudió ayer al Congreso",
+   "en": "Here in Spain, «Pedro Sánchez» went before parliament yesterday",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para responder por la gestión de la crisis de Ceuta.",
+   "en": "to answer for his handling of the «Ceuta» crisis.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El presidente insistió en exculpar a Marruecos de la avalancha de finales de julio.",
+   "en": "The prime minister again cleared Morocco of blame for the crossing at the end of July.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Gobierno mantiene que sin pruebas no puede desatar un conflicto incontrolable.",
+   "en": "The government holds that without proof it cannot set off a conflict it could not control.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pero Sánchez abrió la puerta a que las investigaciones lleguen a demostrar la implicación marroquí.",
+   "en": "But «Sánchez» opened the door to the investigations proving Moroccan involvement.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Advirtió de que, si eso ocurre,",
+   "en": "He warned that if that happens,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "España actuará con total contundencia.",
+   "en": "Spain will act with the utmost firmness.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La dirección del Partido Popular estudia cómo actuar contra el presidente",
+   "en": "The People's Party leadership is looking at how to move against the prime minister",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por no atender las alertas,",
+   "en": "for ignoring the alerts,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con la vista puesta en los tribunales.",
+   "en": "with the courts in mind.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el resto de la actualidad, el presidente de Argentina, Javier Milei,",
+   "en": "In other news, the president of Argentina, «Javier Milei»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "anunció sanciones contra las empresas que exploten recursos",
+   "en": "has announced sanctions against companies extracting resources",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en torno a las Malvinas sin autorización argentina.",
+   "en": "around the «Malvinas» without Argentine permission.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Milei sostuvo que las islas son argentinas por historia y por derecho.",
+   "en": "«Milei» said the islands are Argentine by history and by right.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El presidente argentino avisó al Reino Unido de que no tolerará",
+   "en": "The Argentine president warned the United Kingdom that he will not tolerate",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "los planes para extraer el petróleo de esas aguas.",
+   "en": "plans to extract the oil in those waters.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de tema, el Consejo de Política Fiscal y Financiera",
+   "en": "Moving on, the Fiscal and Financial Policy Council",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "se reúne hoy en Hacienda para aprobar la reforma de la financiación autonómica.",
+   "en": "meets at the finance ministry today to approve the reform of regional funding.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Comunidad de Madrid no asiste,",
+   "en": "The «Madrid» region is not attending,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y pidió a las demás autonomías del Partido Popular que hicieran lo mismo.",
+   "en": "and it asked the other People's Party regions to stay away.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "No la han seguido, y otras comunidades del Partido Popular sí acuden a la reunión.",
+   "en": "They have not followed it, and other People's Party regions are going to the meeting.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otro asunto, una niña de once años murió ayer en Alzira, en Valencia,",
+   "en": "Turning to something else, an eleven-year-old girl died yesterday in «Alzira», in «Valencia»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "al caerle encima un pilar de una construcción,",
+   "en": "when a pillar from a building came down on her,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según los servicios de urgencias.",
+   "en": "according to the emergency services.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su hermano, de nueve años, resultó herido con varios traumatismos.",
+   "en": "Her nine-year-old brother was hurt, with several injuries.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para terminar, llega a las salas Cronos,",
+   "en": "And finally, «Cronos» reaches cinemas,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la película de Fernando González Molina",
+   "en": "the film by «Fernando González Molina»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sobre los atentados yihadistas de dos mil diecisiete.",
+   "en": "about the jihadist attacks of 2017.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Reconstruye el atropello masivo de las Ramblas de Barcelona, en agosto de aquel año,",
+   "en": "It reconstructs the vehicle attack on «Las Ramblas» in «Barcelona» in August of that year,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el ataque de Cambrils.",
+   "en": "and what happened at «Cambrils».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí lo esencial.",
+   "en": "And that is where the news stands this morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Friday 4 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Volkswagen approves another fifty thousand job cuts, with Seat's future undecided",
+ "summary_en": [
+  "Volkswagen approves another fifty thousand job cuts, with Seat's future undecided",
+  "Sanchez opens the door to Moroccan involvement being proven over Ceuta",
+  "Volkswagen's supervisory board approves the Plan Futuro 2030 restructuring"
+ ]
+}

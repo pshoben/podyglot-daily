@@ -473,67 +473,6 @@
    "summary_en": [
     "According to Environnement Canada: Today's GEM forecast for Montreal, Quebec City and Sagu"
    ]
-  },
-  {
-   "id": "fr-CA-Le bulletin du matin, vendredi 21 août",
-   "file": "podcast-daily-2026-08-21-morning-news-fr-CA.json",
-   "bytes": 8308,
-   "sha256": "91f86763cbd82b151e4853b97063ee0c431f6be93c450f3f9243df92a2625c8c",
-   "date": "2026-08-21",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-CA",
-   "region_label": "Québec",
-   "title": "Le bulletin du matin, vendredi 21 août",
-   "title_en": "The morning news, Friday 21 August",
-   "headline_en": "Parti Quebecois leader Paul St-Pierre Plamondon says abolishing Sante Quebec would save th",
-   "summary_en": [
-    "Parti Quebecois leader Paul St-Pierre Plamondon says abolishing Sante Quebec would save th",
-    "A teenager described by police as an extremist, who was planning an attack on a school wit",
-    "An attack took place at the Nanaksar Gurdwara temple in northeast Edmonton on Friday morni"
-   ]
-  },
-  {
-   "id": "fr-CA-Le sport d'ici, vendredi 21 août",
-   "file": "podcast-daily-2026-08-21-morning-sport-fr-CA.json",
-   "bytes": 4452,
-   "sha256": "450cf27aca77d0420213bb19a24b22d7506e19ff234c87633c9c2d883c359285",
-   "date": "2026-08-21",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "fr-CA",
-   "region_label": "Québec",
-   "title": "Le sport d'ici, vendredi 21 août",
-   "title_en": "Today's sport, Friday 21 August",
-   "headline_en": "World number one Jannik Sinner withdrew on Friday from the United States Open because of a",
-   "summary_en": [
-    "World number one Jannik Sinner withdrew on Friday from the United States Open because of a",
-    "FIFA announced on Friday that the Argentine midfielder Leandro Paredes has been suspended"
-   ]
-  },
-  {
-   "id": "fr-CA-Le bulletin météo, vendredi 21 août",
-   "file": "podcast-daily-2026-08-21-morning-weather-fr-CA.json",
-   "bytes": 5110,
-   "sha256": "f13ab327e341686df9ddcf326a5aa5f7066ff022e54c2e43824f106709871ce1",
-   "date": "2026-08-21",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-CA",
-   "region_label": "Québec",
-   "title": "Le bulletin météo, vendredi 21 août",
-   "title_en": "Today's weather, Friday 21 August",
-   "headline_en": "The forecast for Montréal for Friday 21 August 2026 is a maximum of 25 degrees and a minim",
-   "summary_en": [
-    "The forecast for Montréal for Friday 21 August 2026 is a maximum of 25 degrees and a minim",
-    "The forecast for Québec for Friday 21 August 2026 is a maximum of 24 degrees and a minimum"
-   ]
   }
  ]
 }

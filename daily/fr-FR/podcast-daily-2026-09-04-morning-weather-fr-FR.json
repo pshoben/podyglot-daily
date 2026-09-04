@@ -1,0 +1,209 @@
+{
+ "title": "La météo, vendredi 4 septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-04",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le point sur le ciel,",
+   "en": "An update on the sky,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les températures et le vent, ce matin.",
+   "en": "the temperatures and the wind, this morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon les modèles de Météo-France,",
+   "en": "According to the «Météo-France» models,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la capitale reste aujourd'hui sous un ciel couvert.",
+   "en": "the capital stays under an overcast sky today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Paris, le thermomètre monte jusqu'à vingt-sept degrés.",
+   "en": "In «Paris», the thermometer climbs to twenty-seven degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il ne redescend pas sous les vingt degrés.",
+   "en": "It does not drop back below twenty degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y souffle au plus fort à dix-huit kilomètres par heure.",
+   "en": "The wind there blows at eighteen kilometres an hour at its strongest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le Sud-Ouest, Bordeaux passe elle aussi la journée sous les nuages.",
+   "en": "In the south-west, «Bordeaux» spends the day under cloud as well.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La température y atteint trente-six degrés.",
+   "en": "The temperature there reaches thirty-six degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle retombe à dix-huit degrés au plus bas.",
+   "en": "It falls back to eighteen degrees at its lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y monte lui aussi à dix-huit kilomètres par heure.",
+   "en": "The wind there also gets up to eighteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sur le pourtour méditerranéen, le ciel de Marseille reste couvert lui aussi.",
+   "en": "Along the Mediterranean, the sky over «Marseille» stays overcast as well.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le mercure y plafonne à vingt-huit degrés.",
+   "en": "The mercury there tops out at twenty-eight degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le minimum de la journée n'y descend qu'à vingt-quatre degrés.",
+   "en": "The low for the day only drops to twenty-four degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y reste limité à douze kilomètres par heure.",
+   "en": "The wind there stays down at twelve kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Entre Bordeaux et la capitale,",
+   "en": "Between «Bordeaux» and the capital,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "l'écart sur les maximales atteint neuf degrés.",
+   "en": "the gap in the highs comes to nine degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo.",
+   "en": "That is the picture for today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Friday 4 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Friday forecast for Paris, 4th September",
+ "summary_en": [
+  "Friday forecast for Paris, 4th September",
+  "Friday forecast for Bordeaux, 4th September"
+ ]
+}

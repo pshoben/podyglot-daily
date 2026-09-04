@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-BE",
+ "date": "2026-09-04",
+ "episodes": [
+  {
+   "id": "fr-BE-Le sept heures, vendredi 4 septembre",
+   "file": "podcast-daily-2026-09-04-morning-news-fr-BE.json",
+   "bytes": 8168,
+   "sha256": "8af7f24e4c0e333764ab61c37d54dc31ef101122c0ab92f5239b13374f9c2207",
+   "date": "2026-09-04",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, vendredi 4 septembre",
+   "title_en": "The morning news, Friday 4 September",
+   "headline_en": "Volkswagen board approves 50,000 more job cuts by 2030",
+   "summary_en": [
+    "Volkswagen board approves 50,000 more job cuts by 2030",
+    "More Belgians working past 66, drawn by the pension bonus",
+    "De Wever in Mumbai as Belgium and India sign defence deals"
+   ]
+  },
+  {
+   "id": "fr-BE-Le sport chez nous, vendredi 4 septembre",
+   "file": "podcast-daily-2026-09-04-morning-sport-fr-BE.json",
+   "bytes": 4676,
+   "sha256": "c582111cf9487b32be8ba21e16f9c233044183db4e7132f2c22ce43eae68cf62",
+   "date": "2026-09-04",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sport chez nous, vendredi 4 septembre",
+   "title_en": "Today's sport, Friday 4 September",
+   "headline_en": "Belgian Cats open their World Cup against Turkey in Berlin",
+   "summary_en": [
+    "Belgian Cats open their World Cup against Turkey in Berlin",
+    "Belgian transfer window shuts, Vermeeren back at Antwerp"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, vendredi 4 septembre",
+   "file": "podcast-daily-2026-09-04-morning-weather-fr-BE.json",
+   "bytes": 6086,
+   "sha256": "21a76e8f0bf59ce52e5af9adf3a7c649251713b4a76f1ebc0784740a13e14365",
+   "date": "2026-09-04",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, vendredi 4 septembre",
+   "title_en": "Today's weather, Friday 4 September",
+   "headline_en": "Cloudy and breezy across Belgium, rain crossing in the afternoon",
+   "summary_en": [
+    "Cloudy and breezy across Belgium, rain crossing in the afternoon",
+    "Friday forecast for Brussels, 4th September"
+   ]
+  }
+ ],
+ "content": "2e46dcd0cc69d0159cf3893a466529e149fd6d374fc8b7b9b8a46d4639049d44",
+ "rev": 1,
+ "updated": "2026-09-04T07:39:53.934Z"
+}

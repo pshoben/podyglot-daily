@@ -1,0 +1,300 @@
+{
+ "title": "Le sept heures, vendredi 4 septembre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-news",
+   "wpm": 222,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-04",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Vendredi quatre septembre. Le sept heures.",
+   "en": "Friday 4th September. The seven o'clock news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon La Libre, Volkswagen supprime cinquante mille postes de plus dans le monde.",
+   "en": "According to «La Libre», «Volkswagen» is cutting fifty thousand more posts worldwide.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le bonus pension fait travailler de plus en plus de Belges après soixante-six ans.",
+   "en": "The pension bonus is keeping more and more Belgians in work past sixty-six.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On ouvre avec le constructeur automobile,",
+   "en": "We open with the carmaker,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dont le conseil de surveillance a tranché à l'unanimité.",
+   "en": "whose supervisory board approved it unanimously.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le plan étale ces suppressions jusqu'en deux mille trente.",
+   "en": "The plan spreads those cuts out to 2030.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour la RTBF, c'est la plus vaste restructuration jamais menée par le groupe.",
+   "en": "For «RTBF», it is the biggest shake-up the group has ever carried out.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Vif ajoute que le total sur cinq ans grimpe ainsi à cent mille postes.",
+   "en": "«Le Vif» adds that this takes the five-year total to a hundred thousand posts.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Chez nous, deux virgule zéro trois pour cent des travailleurs avaient soixante-six ans et plus.",
+   "en": "Here at home, two point nought three per cent of workers were sixty-six or over.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce chiffre couvre les six premiers mois de l'année, selon la RTBF.",
+   "en": "That figure covers the first six months of the year, according to «RTBF».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La DH chiffre à vingt-quatre virgule quatre pour cent la hausse des retraités au travail.",
+   "en": "«DH» puts the rise in pensioners going back to work at twenty-four point four per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le nouveau bonus pension est entré en vigueur avec effet rétroactif au premier janvier.",
+   "en": "The new pension bonus came into force backdated to 1st January.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ailleurs dans l'actu, le Premier ministre Bart De Wever poursuit son déplacement en Inde.",
+   "en": "In other news, the prime minister «Bart De Wever» is continuing his trip to India.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il visite ce vendredi la bourse du diamant de Mumbai.",
+   "en": "He visits the «Mumbai» diamond exchange this Friday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'après La Libre, les deux pays ont conclu un contrat reprenant dix accords.",
+   "en": "«La Libre» says the two countries have signed a contract covering ten agreements.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ces accords portent principalement sur des armes et des équipements de défense.",
+   "en": "Those agreements are mainly about weapons and defence equipment.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Vif rappelle que les deux pays veulent doubler leur commerce bilatéral d'ici cinq ans.",
+   "en": "«Le Vif» points out that the two countries want to double their trade within five years.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On enchaîne, des habitants du quartier Aumale ont interpellé le conseil communal d'Anderlecht.",
+   "en": "Moving on, people living in the «Aumale» district have taken their case to «Anderlecht» council.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ils sont venus jeudi soir dénoncer la dégradation de la sécurité et de la salubrité.",
+   "en": "They came on Thursday evening to complain about the decline in safety and cleanliness.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un point de deal s'est installé dans le quartier depuis deux mille quatorze.",
+   "en": "A drug dealing spot has been running in the district since 2014.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ils réclament des mesures urgentes, coordonnées et visibles,",
+   "en": "They are asking for urgent, joined-up and visible action,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "face à une situation devenue intenable.",
+   "en": "faced with a situation that has become unbearable.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour terminer, les secours népalais ont extrait vivants deux ouvriers d'un tunnel.",
+   "en": "And finally, rescuers in «Nepal» have pulled two workers alive out of a tunnel.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le sauvetage a eu lieu ce vendredi,",
+   "en": "The rescue happened on Friday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "neuf jours après une crue dévastatrice dans l'Himalaya.",
+   "en": "nine days after a devastating flood in the Himalayas.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le tunnel se trouve dans le nord du pays, ont annoncé deux ministres népalais.",
+   "en": "The tunnel is in the north of the country, two Nepalese ministers announced.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà où nous en sommes.",
+   "en": "And that is where things stand.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Friday 4 September",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Volkswagen board approves 50,000 more job cuts by 2030",
+ "summary_en": [
+  "Volkswagen board approves 50,000 more job cuts by 2030",
+  "More Belgians working past 66, drawn by the pension bonus",
+  "De Wever in Mumbai as Belgium and India sign defence deals"
+ ]
+}

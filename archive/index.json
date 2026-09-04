@@ -1,48 +1,48 @@
 {
  "schema": 1,
  "base": "https://pshoben.github.io/podyglot-daily/archive/",
- "generated": "2026-09-03T23:48:15.683Z",
- "archived_before": "2026-08-21",
+ "generated": "2026-09-04T07:39:53.934Z",
+ "archived_before": "2026-08-22",
  "live_window_days": 14,
  "channels": [
   {
    "dialect": "es-AR",
-   "episodes": 16,
+   "episodes": 17,
    "index": "daily/es-AR/index.json"
   },
   {
    "dialect": "es-CL",
-   "episodes": 12,
+   "episodes": 13,
    "index": "daily/es-CL/index.json"
   },
   {
    "dialect": "es-CO",
-   "episodes": 14,
+   "episodes": 16,
    "index": "daily/es-CO/index.json"
   },
   {
    "dialect": "es-ES",
-   "episodes": 31,
+   "episodes": 36,
    "index": "daily/es-ES/index.json"
   },
   {
    "dialect": "es-MX",
-   "episodes": 16,
+   "episodes": 18,
    "index": "daily/es-MX/index.json"
   },
   {
    "dialect": "fr-BE",
-   "episodes": 15,
+   "episodes": 18,
    "index": "daily/fr-BE/index.json"
   },
   {
    "dialect": "fr-CA",
-   "episodes": 16,
+   "episodes": 19,
    "index": "daily/fr-CA/index.json"
   },
   {
    "dialect": "fr-FR",
-   "episodes": 19,
+   "episodes": 22,
    "index": "daily/fr-FR/index.json"
   }
  ]

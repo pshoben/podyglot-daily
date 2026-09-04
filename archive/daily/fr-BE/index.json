@@ -3,8 +3,69 @@
  "channel": "daily",
  "dialect": "fr-BE",
  "base": "https://pshoben.github.io/podyglot-daily/archive/",
- "archived_before": "2026-08-21",
+ "archived_before": "2026-08-22",
  "episodes": [
+  {
+   "id": "fr-BE-Le sept heures, vendredi 21 août",
+   "file": "podcast-daily-2026-08-21-morning-news-fr-BE.json",
+   "bytes": 9454,
+   "sha256": "a0a412fade40019731d52fae2ec55285e8afbbd80c8e700e1887b3fd23f6c9bd",
+   "date": "2026-08-21",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, vendredi 21 août",
+   "title_en": "The morning news, Friday 21 August",
+   "headline_en": "The situation of the fire in the Hautes Fagnes continues to develop favourably. Around a h",
+   "summary_en": [
+    "The situation of the fire in the Hautes Fagnes continues to develop favourably. Around a h",
+    "Sebastien Pierret is the new presenter of the half past seven evening news on the RTBF. He",
+    "The American car maker Tesla plans to put its electric articulated lorry, the Semi, on sal"
+   ]
+  },
+  {
+   "id": "fr-BE-Le sport chez nous, vendredi 21 août",
+   "file": "podcast-daily-2026-08-21-morning-sport-fr-BE.json",
+   "bytes": 5552,
+   "sha256": "82e0f1376806b1f068ea570a4ed859499ef62dc888faddaa76cb6ba0e90e3b49",
+   "date": "2026-08-21",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sport chez nous, vendredi 21 août",
+   "title_en": "Today's sport, Friday 21 August",
+   "headline_en": "The Tour of Spain starts on Saturday. Wout van Aert will be there wearing a helmet in trib",
+   "summary_en": [
+    "The Tour of Spain starts on Saturday. Wout van Aert will be there wearing a helmet in trib",
+    "The Red Lions face Australia at the hockey World Cup. They are not yet reassured and say t"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, vendredi 21 août",
+   "file": "podcast-daily-2026-08-21-morning-weather-fr-BE.json",
+   "bytes": 4858,
+   "sha256": "fd4ca86d6bd261bf3fa45a8c55040d272561a0cbfa9056cfa108d2067ced4e66",
+   "date": "2026-08-21",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, vendredi 21 août",
+   "title_en": "Today's weather, Friday 21 August",
+   "headline_en": "Showers will punctuate the day on Friday, drifting in from the coast and bringing one stor",
+   "summary_en": [
+    "Showers will punctuate the day on Friday, drifting in from the coast and bringing one stor",
+    "Prévision pour Bruxelles, vendredi 2026-08-21"
+   ]
+  },
   {
    "id": "fr-BE-Le sept heures, jeudi 20 août",
    "file": "podcast-daily-2026-08-20-morning-news-fr-BE.json",

@@ -5,6 +5,107 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-ES-El informativo de la mañana, viernes 4 de septiembre",
+   "file": "podcast-daily-2026-09-04-morning-news-es-ES.json",
+   "bytes": 12077,
+   "sha256": "d88b8ff7b6cae7604cd68626dbb8d04962caf1c4cdc240d75dd2eb3d51260734",
+   "date": "2026-09-04",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, viernes 4 de septiembre",
+   "title_en": "The morning news, Friday 4 September",
+   "headline_en": "Volkswagen approves another fifty thousand job cuts, with Seat's future undecided",
+   "summary_en": [
+    "Volkswagen approves another fifty thousand job cuts, with Seat's future undecided",
+    "Sanchez opens the door to Moroccan involvement being proven over Ceuta",
+    "Volkswagen's supervisory board approves the Plan Futuro 2030 restructuring"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, viernes 4 de septiembre",
+   "file": "podcast-daily-2026-09-04-morning-sport-es-ES.json",
+   "bytes": 3751,
+   "sha256": "484660a8305a7ee2776067f0490abfefb4a72ae1d55d4f92c375bc4334fb1c87",
+   "date": "2026-09-04",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, viernes 4 de septiembre",
+   "title_en": "Today's sport, Friday 4 September",
+   "headline_en": "Betis host Real Madrid in LaLiga today",
+   "summary_en": [
+    "Betis host Real Madrid in LaLiga today",
+    "The match is played at La Cartuja in Seville"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, viernes 4 de septiembre",
+   "file": "podcast-daily-2026-09-04-morning-weather-es-ES.json",
+   "bytes": 7683,
+   "sha256": "53c9b76ba2427cc0f5dd7f8ef73a323e2da973eea967fa77392191bb0bf6980f",
+   "date": "2026-09-04",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, viernes 4 de septiembre",
+   "title_en": "Today's weather, Friday 4 September",
+   "headline_en": "Aemet has high-temperature warnings out in fifteen communities today",
+   "summary_en": [
+    "Aemet has high-temperature warnings out in fifteen communities today",
+    "A stable day with cloud building from the south-west"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, viernes 4 de septiembre",
+   "file": "podcast-daily-2026-09-04-morning-weather-andalucia-es-ES.json",
+   "bytes": 4050,
+   "sha256": "a63695bff6b1b286eeaf250052a48e9e265282f8f906d41171c103dbf3820569",
+   "date": "2026-09-04",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, viernes 4 de septiembre",
+   "title_en": "Today's weather, Andalusia, Friday 4 September",
+   "headline_en": "An orange heat warning covers the Cordoba and Seville campinas",
+   "summary_en": [
+    "An orange heat warning covers the Cordoba and Seville campinas",
+    "Friday AEMET forecast for Córdoba, 4th September"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, viernes 4 de septiembre",
+   "file": "podcast-daily-2026-09-04-morning-weather-canarias-es-ES.json",
+   "bytes": 3831,
+   "sha256": "a675d0f2c663c493f5594a96be38420365417deaf5421c46bb0d63c5d128cd3f",
+   "date": "2026-09-04",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, viernes 4 de septiembre",
+   "title_en": "Today's weather, Canary Islands, Friday 4 September",
+   "headline_en": "Temperatures rise in the Canary Islands today",
+   "summary_en": [
+    "Temperatures rise in the Canary Islands today",
+    "Friday AEMET forecast for Las Palmas de Gran Canaria, 4th September"
+   ]
+  },
+  {
    "id": "es-ES-El informativo de la mañana, jueves 3 de septiembre",
    "file": "podcast-daily-2026-09-03-morning-news-es-ES.json",
    "bytes": 10015,
@@ -1313,107 +1414,6 @@
    "headline_en": "According to AEMET, AEMET municipal forecasts for Las Palmas, Santa Cruz de Tenerife on 22 August 2026",
    "summary_en": [
     "According to AEMET, AEMET municipal forecasts for Las Palmas, Santa Cruz de Tenerife on 22 August 2026"
-   ]
-  },
-  {
-   "id": "es-ES-El informativo de la mañana, viernes 21 de agosto",
-   "file": "podcast-daily-2026-08-21-morning-news-es-ES.json",
-   "bytes": 10539,
-   "sha256": "338b2e469d8d7d85b17e45030c84ede73dd0e5b7f6b6ae469862e5facc47f3a1",
-   "date": "2026-08-21",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El informativo de la mañana, viernes 21 de agosto",
-   "title_en": "The morning news, Friday 21 August",
-   "headline_en": "The central government has applied its first plan to put order into Ceuta, opening two tem",
-   "summary_en": [
-    "The central government has applied its first plan to put order into Ceuta, opening two tem",
-    "The chief prosecutor for minors, Teresa Gisbert, has rejected the proposal of the Partido",
-    "A forest fire started by a lightning strike is advancing towards the Sierra Calderona. The"
-   ]
-  },
-  {
-   "id": "es-ES-Los deportes, viernes 21 de agosto",
-   "file": "podcast-daily-2026-08-21-morning-sport-es-ES.json",
-   "bytes": 5998,
-   "sha256": "1478660063976d68c55c7c956896274c3d61a7d8b717baadb80a577b2d8ee925",
-   "date": "2026-08-21",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "Los deportes, viernes 21 de agosto",
-   "title_en": "Today's sport, Friday 21 August",
-   "headline_en": "Espanyol receive Real Madrid in LaLiga. Jose Mourinho, the Real Madrid coach, gives his pr",
-   "summary_en": [
-    "Espanyol receive Real Madrid in LaLiga. Jose Mourinho, the Real Madrid coach, gives his pr",
-    "The Vuelta a Espana begins, and Tadej Pogacar starts as the undisputed favourite on his re"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo, viernes 21 de agosto",
-   "file": "podcast-daily-2026-08-21-morning-weather-es-ES.json",
-   "bytes": 5297,
-   "sha256": "6abf1f189f10dca6c8e0912bfff51d4e24d9001f8b96a4747aeb209cb0c2db90",
-   "date": "2026-08-21",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": 0,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo, viernes 21 de agosto",
-   "title_en": "Today's weather, Friday 21 August",
-   "headline_en": "The stormy spell continues on Friday with very heavy rain and a further fall in temperatur",
-   "summary_en": [
-    "The stormy spell continues on Friday with very heavy rain and a further fall in temperatur",
-    "Predicción AEMET para Madrid (Madrid), 2026-08-21"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo en Andalucía, viernes 21 de agosto",
-   "file": "podcast-daily-2026-08-21-morning-weather-andalucia-es-ES.json",
-   "bytes": 5129,
-   "sha256": "e8156824e8933845ab4f58b82ec1e30436a4936cb0e304d4af74fa2c8da61c3a",
-   "date": "2026-08-21",
-   "edition": "morning",
-   "programme": "weather-andalucia",
-   "programme_order": 3,
-   "segment_order": 1,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo en Andalucía, viernes 21 de agosto",
-   "title_en": "Today's weather, Andalusia, Friday 21 August",
-   "headline_en": "Predicción AEMET para Sevilla (Sevilla), 2026-08-21",
-   "summary_en": [
-    "Predicción AEMET para Sevilla (Sevilla), 2026-08-21",
-    "Predicción AEMET para Málaga (Málaga), 2026-08-21"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo en Canarias, viernes 21 de agosto",
-   "file": "podcast-daily-2026-08-21-morning-weather-canarias-es-ES.json",
-   "bytes": 4629,
-   "sha256": "ba74e540c0090cca2532b42bc016006902d7eb46d0d14585df92152f2726c546",
-   "date": "2026-08-21",
-   "edition": "morning",
-   "programme": "weather-canarias",
-   "programme_order": 4,
-   "segment_order": 2,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo en Canarias, viernes 21 de agosto",
-   "title_en": "Today's weather, Canary Islands, Friday 21 August",
-   "headline_en": "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-21",
-   "summary_en": [
-    "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-21",
-    "Predicción AEMET para Santa Cruz de Tenerife (Santa Cruz de Tenerife (Tenerife)), 2026-08-21"
    ]
   }
  ]

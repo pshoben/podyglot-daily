@@ -1,0 +1,333 @@
+{
+ "title": "El tiempo, viernes 4 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather",
+   "wpm": 208,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-04",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "De norte a sur, la Aemet espera hoy temperaturas significativamente elevadas",
+   "en": "From north to south, «Aemet» expects significantly high temperatures",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la mayor parte de la Península.",
+   "en": "over most of the peninsula today.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La agencia tiene activados avisos por altas temperaturas en quince comunidades.",
+   "en": "The agency has heat warnings out in fifteen regions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La jornada es estable,",
+   "en": "The day is a settled one,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "aunque la nubosidad media y alta aumenta a lo largo del día.",
+   "en": "though medium and high cloud builds as it goes on.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los valores más altos se esperan",
+   "en": "The highest readings are expected",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el valle del Ebro y en las depresiones del nordeste.",
+   "en": "in the «Ebro» valley and in the north-eastern basins.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí se podrían superar los cuarenta grados.",
+   "en": "Forty degrees could be passed there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la Comunidad de Madrid hay aviso naranja por altas temperaturas",
+   "en": "In the «Comunidad de Madrid» there is an orange heat warning",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en las horas centrales del día.",
+   "en": "for the middle of the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las máximas rondan los treinta y nueve grados,",
+   "en": "Highs are around 39 degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y en algunos puntos se pueden alcanzar los cuarenta.",
+   "en": "and at some points they can reach 40.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la capital, la previsión da",
+   "en": "In the capital, the forecast gives",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "treinta y ocho grados de máxima y veintidós de mínima.",
+   "en": "a high of 38 degrees and a low of 22.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo queda poco nuboso,",
+   "en": "The sky stays lightly clouded,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con viento del sur a cinco kilómetros por hora y sin probabilidad de lluvia.",
+   "en": "with a southerly wind at 5 kilometres an hour and no chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Barcelona, treinta y tres grados de máxima y veinticinco de mínima,",
+   "en": "In «Barcelona», a high of 33 degrees and a low of 25,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "también con poca nube.",
+   "en": "with little cloud there too.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí el viento del sur alcanza los quince kilómetros por hora.",
+   "en": "The southerly wind reaches 15 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En València el cielo está despejado,",
+   "en": "In «València» the sky is clear,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con treinta y dos grados de máxima y veintidós de mínima.",
+   "en": "with a high of 32 degrees and a low of 22.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento del sureste se queda en quince kilómetros por hora.",
+   "en": "The south-easterly wind stays at 15 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Bilbao la máxima sube hasta los treinta y cinco grados,",
+   "en": "In «Bilbao» the high climbs to 35 degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la mínima baja a dieciséis.",
+   "en": "and the low drops to 16.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo se va cubriendo allí por la tarde.",
+   "en": "The sky clouds over there in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En A Coruña la máxima no pasa de veinticuatro grados y la mínima",
+   "en": "In «A Coruña» the high does not go past 24 degrees and the low",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "se queda en dieciocho.",
+   "en": "stays at 18.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento del noroeste sopla a quince kilómetros por hora,",
+   "en": "The north-westerly wind blows at 15 kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el índice ultravioleta llega al seis.",
+   "en": "and the ultraviolet index reaches 6.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí el tiempo.",
+   "en": "And that is the weather across Spain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Friday 4 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "España",
+ "accent": "Castilla",
+ "accent_label": "acento de Castilla",
+ "segment_order": 0,
+ "headline_en": "Aemet has high-temperature warnings out in fifteen communities today",
+ "summary_en": [
+  "Aemet has high-temperature warnings out in fifteen communities today",
+  "A stable day with cloud building from the south-west"
+ ]
+}

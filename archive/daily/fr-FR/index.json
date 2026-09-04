@@ -3,8 +3,69 @@
  "channel": "daily",
  "dialect": "fr-FR",
  "base": "https://pshoben.github.io/podyglot-daily/archive/",
- "archived_before": "2026-08-21",
+ "archived_before": "2026-08-22",
  "episodes": [
+  {
+   "id": "fr-FR-Le journal du matin, vendredi 21 août",
+   "file": "podcast-daily-2026-08-21-morning-news-fr-FR.json",
+   "bytes": 9726,
+   "sha256": "9ef1203b19254fe9e916afb1d2fff43119d532015e65e5473841a871ffc180ac",
+   "date": "2026-08-21",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, vendredi 21 août",
+   "title_en": "The morning news, Friday 21 August",
+   "headline_en": "A violent fire destroyed a residential building and a restaurant during the night from Thu",
+   "summary_en": [
+    "A violent fire destroyed a residential building and a restaurant during the night from Thu",
+    "The French astronaut Sophie Adenot will carry out a second spacewalk on Tuesday 25 August,",
+    "Eight people died in the crash of an aircraft chartered by a civilian contractor in Alaska"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, vendredi 21 août",
+   "file": "podcast-daily-2026-08-21-morning-sport-fr-FR.json",
+   "bytes": 5679,
+   "sha256": "76e61fe61c4415aede8daac21a932a790ea9ea875d0f9d0af79ec331df1cc456",
+   "date": "2026-08-21",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, vendredi 21 août",
+   "title_en": "Today's sport, Friday 21 August",
+   "headline_en": "Ligue 1 starts again on Friday evening. Marseille receives Strasbourg at a quarter to nine",
+   "summary_en": [
+    "Ligue 1 starts again on Friday evening. Marseille receives Strasbourg at a quarter to nine",
+    "The French rider Julian Alaphilippe, twice world champion in 2020 and 2021, is putting an"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, vendredi 21 août",
+   "file": "podcast-daily-2026-08-21-morning-weather-fr-FR.json",
+   "bytes": 5404,
+   "sha256": "fa6e38b3a9f2a5befdf17d7f32ace56a683d1c207c36c318171e9946e5af7d64",
+   "date": "2026-08-21",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, vendredi 21 août",
+   "title_en": "Today's weather, Friday 21 August",
+   "headline_en": "The Var and the Alpes-Maritimes remain on orange alert for storms and for rain and floodin",
+   "summary_en": [
+    "The Var and the Alpes-Maritimes remain on orange alert for storms and for rain and floodin",
+    "Prévision pour Paris, vendredi 2026-08-21"
+   ]
+  },
   {
    "id": "fr-FR-Le journal du matin, jeudi 20 août",
    "file": "podcast-daily-2026-08-20-morning-news-fr-FR.json",

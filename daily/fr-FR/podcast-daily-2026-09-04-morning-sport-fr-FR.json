@@ -1,0 +1,179 @@
+{
+ "title": "Le sport, vendredi 4 septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-04",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Au programme ce vendredi, la troisième journée du championnat de France de football se poursuit.",
+   "en": "Coming up this Friday, the third round of the French football championship carries on.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Paris Saint-Germain reçoit Monaco au Parc des Princes, en soirée.",
+   "en": "«Paris Saint-Germain» are at home to «Monaco» at the «Parc des Princes», in the evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le coup d'envoi est fixé à vingt et une heures cinq.",
+   "en": "Kick-off is set for five minutes past nine.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le handball lance sa saison le même soir, avec la Daikin Starligue.",
+   "en": "Handball starts its season the same evening, with the «Daikin Starligue».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle s'ouvre sur un duel entre Chambéry et Paris.",
+   "en": "It opens with «Chambéry» against «Paris».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des play-offs y sont instaurés dès cette saison,",
+   "en": "Play-offs come in this season,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à l'issue de la phase de championnat.",
+   "en": "at the end of the league phase.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Du côté du basket, les Bleues entrent dans leur Coupe du monde.",
+   "en": "Over in basketball, the France women's team go into their World Cup.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elles affrontent la Hongrie pour leur premier match.",
+   "en": "They face «Hungary» in their first game.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La compétition se tient à Berlin,",
+   "en": "The tournament is held in Berlin,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "du quatre au treize septembre.",
+   "en": "from the 4th to the 13th of September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À suivre aujourd'hui aussi, la treizième étape du Tour d'Espagne.",
+   "en": "Also to follow today, the thirteenth stage of the Tour of Spain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le peloton relie Almuñécar à Loja,",
+   "en": "The peloton rides from «Almuñécar» to «Loja»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sur un peu plus de cent quatre-vingt-douze kilomètres.",
+   "en": "over a little more than a hundred and ninety-two kilometres.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport.",
+   "en": "And that is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Friday 4 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "PSG host Monaco on Friday evening in the Ligue 1 third round",
+ "summary_en": [
+  "PSG host Monaco on Friday evening in the Ligue 1 third round",
+  "The Starligue handball season starts on Friday with play-offs added"
+ ]
+}

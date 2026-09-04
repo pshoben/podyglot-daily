@@ -1,0 +1,330 @@
+{
+ "title": "Le journal du matin, vendredi 4 septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-04",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Vendredi quatre septembre, sept heures à Paris. Le journal du matin.",
+   "en": "Friday the 4th of September, seven o'clock in «Paris». The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au Népal, deux ouvriers ont été extraits vivants d'un tunnel,",
+   "en": "In Nepal, two workers have been brought out of a tunnel alive,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "une semaine après la crue.",
+   "en": "a week after the flood.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, le gouvernement dévoile ce matin ses premières aides pour les agriculteurs.",
+   "en": "In France, the government sets out its first aid measures for farmers this morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par le Népal,",
+   "en": "We start in Nepal,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où des dizaines de sauveteurs creusent sans relâche depuis une semaine.",
+   "en": "where dozens of rescuers have been digging without a break for a week.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ils dégagent plusieurs tunnels ensevelis,",
+   "en": "They are clearing several buried tunnels,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sur des chantiers de centrales hydroélectriques et de barrages.",
+   "en": "at hydroelectric plants and dams under construction.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les secours ont réussi à sauver deux hommes",
+   "en": "Rescuers have managed to save two men",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "piégés dans un tunnel du nord du pays.",
+   "en": "trapped in a tunnel in the north of the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ils y étaient retenus prisonniers depuis la crue du vingt-six août.",
+   "en": "They had been held there since the flood of the 26th of August.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, la ministre Annie Genevard présente un plan d'urgence pour le secteur agricole.",
+   "en": "In France, the minister «Annie Genevard» is presenting an emergency plan for the farming sector.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ces premières mesures visent les exploitants en grande difficulté à cause de la sécheresse.",
+   "en": "These first measures are aimed at growers in serious difficulty because of the drought.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité, la Conférence nationale du handicap se réunit ce vendredi.",
+   "en": "In other news, the national disability conference is meeting this Friday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle doit définir les grands chantiers du secteur.",
+   "en": "It is to set out the sector's main projects.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le président de la République s'exprime à la mi-journée, en clôture de ce rendez-vous.",
+   "en": "The President of the Republic speaks at midday, to close the event.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à autre chose, François Bayrou comparaît à partir de mercredi",
+   "en": "Moving on, «François Bayrou» is to appear from Wednesday",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "devant la cour d'appel de Paris.",
+   "en": "before the court of appeal in «Paris».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le dossier porte sur les assistants d'eurodéputés du MoDem.",
+   "en": "The case concerns the «MoDem» party's European Parliament assistants.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le leader centriste avait été relaxé en première instance.",
+   "en": "The centrist leader was cleared at first instance.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Son parti et ses coprévenus, eux, avaient été lourdement condamnés pour détournement de fonds.",
+   "en": "His party and his co-defendants were given heavy sentences for the misuse of funds.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre sujet maintenant, en Allemagne,",
+   "en": "Turning to something else, in Germany,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "deux installations électriques ont été prises pour cible mardi.",
+   "en": "two electricity sites were targeted on Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elles ont subi des tirs d'engins volants artisanaux, près de Cologne et de Berlin.",
+   "en": "They came under fire from home-made flying devices, near Cologne and Berlin.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il s'agit des derniers actes de sabotage présumés visant les infrastructures critiques du pays.",
+   "en": "These are the latest suspected acts of sabotage against the country's critical infrastructure.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les autorités s'interrogent sur une implication étrangère ou sur celle de mouvances d'extrême gauche.",
+   "en": "The authorities are asking whether a foreign power or far-left groups were involved.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour finir, la société japonaise Toei Animation dément",
+   "en": "And finally, the Japanese company «Toei Animation» denies",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avoir accordé une licence pour un parc Dragon Ball.",
+   "en": "any licensing deal for a Dragon Ball park.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce projet en région parisienne circulait depuis plusieurs mois.",
+   "en": "Talk of this project in the «Paris» region had been going round for months.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is where the main news stands.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Friday 4 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Two workers pulled out alive from a flooded tunnel in Nepal",
+ "summary_en": [
+  "Two workers pulled out alive from a flooded tunnel in Nepal",
+  "Emergency aid plan for French farming due on Friday morning",
+  "Rescuers digging for a week at tunnels buried by the Nepal flood"
+ ]
+}
