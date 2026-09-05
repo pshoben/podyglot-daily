@@ -1,0 +1,340 @@
+{
+ "title": "Las noticias de la mañana, sábado 5 de septiembre",
+ "dialect": "es-CL",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CL-daily-news",
+   "wpm": 205,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-05",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Sábado cinco de septiembre. Las noticias de la mañana.",
+   "en": "Saturday the fifth of September. The morning's news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La oposición chilena y parte de la derecha",
+   "en": "The Chilean opposition and part of the right",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "condenan los dichos de Javier Milei sobre Allende.",
+   "en": "condemn «Javier Milei»'s remarks about «Allende».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Murió Camilo Escalona, figura histórica del socialismo chileno.",
+   "en": "«Camilo Escalona», a defining figure of Chilean socialism, has died.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según La Tercera, el presidente argentino se refirió a Allende en términos peyorativos.",
+   "en": "According to «La Tercera», the Argentine president spoke of «Allende» in disparaging terms.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Republicanos y libertarios, en cambio,",
+   "en": "«Republicanos» and libertarians, by contrast,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "respaldaron al líder de La Libertad Avanza.",
+   "en": "backed the leader of «La Libertad Avanza».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Radio Universidad de Chile recogió el rechazo de la exministra Fernández, nieta de Allende.",
+   "en": "«Radio Universidad de Chile» carried the objections of a former minister, «Fernández», a granddaughter of «Allende».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Afirmó que Milei elogió el derrocamiento y normalizó la ruptura institucional.",
+   "en": "She said «Milei» had praised the overthrow and normalised the breakdown of institutions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En paralelo, Chile y Argentina firmaron una declaración conjunta de los presidentes Kast y Milei.",
+   "en": "Alongside that, Chile and Argentina have signed a joint declaration by presidents «Kast» and «Milei».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Tercera añadió que ambos gobiernos",
+   "en": "«La Tercera» added that both governments",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "reafirmaron la soberanía chilena sobre todo el Estrecho de Magallanes.",
+   "en": "reaffirmed Chilean sovereignty over the whole Strait of Magellan.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Horas después, el canciller argentino Pablo Quirno describió a su país como bioceánico.",
+   "en": "Hours later the Argentine foreign minister, «Pablo Quirno», described his own country as bioceanic.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Acá en Chile, Camilo Escalona falleció este viernes,",
+   "en": "Here in Chile, «Camilo Escalona» died on Friday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a los setenta y un años.",
+   "en": "at the age of seventy-one.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Llevaba un tiempo hospitalizado, tras el diagnóstico de una enfermedad agresiva.",
+   "en": "He had been in hospital for some time, after being diagnosed with an aggressive illness.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Presidió el Senado y marcó la historia del Partido Socialista en las últimas cuatro décadas.",
+   "en": "He presided over the Senate and shaped the Socialist Party's history over the last four decades.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ocupaba además el cargo de secretario general de esa colectividad, según el mismo diario.",
+   "en": "He was also that party's secretary general, according to the same paper.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su vida política recorrió la Unidad Popular,",
+   "en": "His political life ran through the «Unidad Popular»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la dictadura y el retorno a la democracia.",
+   "en": "the dictatorship and the return to democracy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su rápido ascenso en las juventudes socialistas terminó de forma abrupta tras el golpe.",
+   "en": "His rapid rise in the socialist youth wing came to an abrupt end after the coup.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasó el exilio en Cuba y en Alemania Oriental,",
+   "en": "He spent his exile in Cuba and East Germany,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "antes de volver clandestinamente al país.",
+   "en": "before returning to the country in secret.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ex-Ante cuenta que en sus meses finales se reconcilió con antiguos adversarios políticos.",
+   "en": "«Ex-Ante» reports that in his final months he was reconciled with old political adversaries.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Presidente Kast, que habló de veredas políticas opuestas,",
+   "en": "President «Kast», who spoke of opposite political sides,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "fue de los últimos en visitarlo.",
+   "en": "was among the last to visit him.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En lo demás, el alcalde de San Bernardo quedó en la mira del crimen organizado.",
+   "en": "In other news, the mayor of «San Bernardo» has become a target of organised crime.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ex-Ante y Radio Universidad de Chile informaron del plan frustrado contra Christopher White.",
+   "en": "«Ex-Ante» and «Radio Universidad de Chile» reported the foiled plot against «Christopher White».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Entre los motivos estarían los operativos municipales contra el narcotráfico.",
+   "en": "The municipality's operations against drug trafficking are said to be among the motives.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "A ello se suma su ofensiva contra el comercio ambulante y para recuperar plazas.",
+   "en": "Added to that is its campaign against street trading and to win back public squares.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo principal.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Saturday 5 September",
+ "edition": "morning",
+ "region": "es-CL",
+ "region_label": "Chile",
+ "headline_en": "Chile's opposition and part of the right condemn Milei's remarks about Allende",
+ "summary_en": [
+  "Chile's opposition and part of the right condemn Milei's remarks about Allende",
+  "Camilo Escalona, a defining figure of Chilean socialism, has died",
+  "Chile and Argentina sign a joint declaration on the Strait of Magellan"
+ ]
+}

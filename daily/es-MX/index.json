@@ -5,6 +5,47 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-MX-El noticiario matutino, sábado 5 de septiembre",
+   "file": "podcast-daily-2026-09-05-morning-news-es-MX.json",
+   "bytes": 7741,
+   "sha256": "bd2586c358510c259b8b35eb4e572c9ac27b74996f682c838663a877f19e4491",
+   "date": "2026-09-05",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El noticiario matutino, sábado 5 de septiembre",
+   "title_en": "The morning news, Saturday 5 September",
+   "headline_en": "Trump renews his threat to halt trade over Federal Reserve rates",
+   "summary_en": [
+    "Trump renews his threat to halt trade over Federal Reserve rates",
+    "Morena federal deputy Zenyazen Escobar Garcia is found dead in Veracruz",
+    "Sheinbaum asks the attorney general to report on Escobar Garcia's death"
+   ]
+  },
+  {
+   "id": "es-MX-El clima, sábado 5 de septiembre",
+   "file": "podcast-daily-2026-09-05-morning-weather-es-MX.json",
+   "bytes": 5261,
+   "sha256": "d78f9a63ff23e3f2a57c90d69412b778237a48065fb076e8d9f1287ae9ae9228",
+   "date": "2026-09-05",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El clima, sábado 5 de septiembre",
+   "title_en": "Today's weather, Saturday 5 September",
+   "headline_en": "Saturday forecast for Monterrey, 5th September",
+   "summary_en": [
+    "Saturday forecast for Monterrey, 5th September",
+    "Saturday forecast for Ciudad de México, 5th September"
+   ]
+  },
+  {
    "id": "es-MX-El noticiario matutino, viernes 4 de septiembre",
    "file": "podcast-daily-2026-09-04-morning-news-es-MX.json",
    "bytes": 8153,

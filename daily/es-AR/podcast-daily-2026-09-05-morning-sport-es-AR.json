@@ -1,0 +1,219 @@
+{
+ "title": "El deporte, sábado 5 de septiembre",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-sport",
+   "wpm": 195,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-05",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Hoy se juega en Mendoza el test match de rugby entre los Pumas y Australia.",
+   "en": "Today «Mendoza» hosts the rugby test match between «los Pumas» and Australia.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El seleccionado argentino recibe a los Wallabies en el estadio Malvinas Argentinas.",
+   "en": "Argentina's national side are at home to the Wallabies at the «estadio Malvinas Argentinas».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El partido empieza a las dieciocho y va en vivo por ESPN dos.",
+   "en": "The match starts at six in the evening and is live on «ESPN 2».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hay cuatro cambios respecto del último equipo titular, según Clarín.",
+   "en": "There are four changes from the last starting side, according to «Clarín».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y dos jugadores esperan en el banco para debutar en el seleccionado.",
+   "en": "And two players are waiting on the bench to make their debut for the national team.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Nicolás Roger usará la camiseta diez,",
+   "en": "«Nicolás Roger» will wear the number ten shirt,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con la confianza del entrenador.",
+   "en": "and has the coach's confidence.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En las canchas, el fútbol lleva a Boca hasta Mendoza, frente a Gimnasia.",
+   "en": "On the pitch, football also takes «Boca» to «Mendoza», to face «Gimnasia».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese partido arranca una hora y media antes del inicio del rugby.",
+   "en": "That match kicks off an hour and a half before the rugby.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El operativo de seguridad reúne a casi mil personas en la ciudad.",
+   "en": "The security operation involves nearly a thousand people across the city.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la Fórmula Uno, hoy se corre la clasificación del Gran Premio de Italia.",
+   "en": "In Formula One, qualifying for the Italian Grand Prix is run today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La cita es en Monza,",
+   "en": "It all happens at «Monza»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por la fecha quince del calendario.",
+   "en": "in round fifteen on the calendar.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El argentino Franco Colapinto estará en pista.",
+   "en": "The Argentine driver «Franco Colapinto» will be out on track.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el fútbol, Carlos Tévez acordó con Juan Román Riquelme el uso de la Bombonera.",
+   "en": "In football, «Carlos Tévez» has agreed with «Juan Román Riquelme» to use the «Bombonera».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Será para su partido despedida,",
+   "en": "It is for his farewell match,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que para Clarín sería en diciembre.",
+   "en": "which «Clarín» puts in December.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La fecha y la lista de invitados todavía no están confirmadas.",
+   "en": "The date and the guest list are not yet confirmed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es el deporte.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Saturday 5 September",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Los Pumas host Australia in a rugby test match in Mendoza",
+ "summary_en": [
+  "Los Pumas host Australia in a rugby test match in Mendoza",
+  "Boca face Gimnasia in Mendoza, football before the rugby"
+ ]
+}

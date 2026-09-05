@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-CL",
+ "date": "2026-09-05",
+ "episodes": [
+  {
+   "id": "es-CL-Las noticias de la mañana, sábado 5 de septiembre",
+   "file": "podcast-daily-2026-09-05-morning-news-es-CL.json",
+   "bytes": 9217,
+   "sha256": "c999d7446bddb150d6e70f9c76d22bc36bf99d22fe55199af80a1b03a2d889ad",
+   "date": "2026-09-05",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "Las noticias de la mañana, sábado 5 de septiembre",
+   "title_en": "The morning news, Saturday 5 September",
+   "headline_en": "Chile's opposition and part of the right condemn Milei's remarks about Allende",
+   "summary_en": [
+    "Chile's opposition and part of the right condemn Milei's remarks about Allende",
+    "Camilo Escalona, a defining figure of Chilean socialism, has died",
+    "Chile and Argentina sign a joint declaration on the Strait of Magellan"
+   ]
+  },
+  {
+   "id": "es-CL-El estado del tiempo, sábado 5 de septiembre",
+   "file": "podcast-daily-2026-09-05-morning-weather-es-CL.json",
+   "bytes": 5057,
+   "sha256": "be3b2a63c27e840d26c2388f7c3e0d6eeac528deb55aae5be3b43da660f38b70",
+   "date": "2026-09-05",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "El estado del tiempo, sábado 5 de septiembre",
+   "title_en": "Today's weather, Saturday 5 September",
+   "headline_en": "Saturday forecast for Santiago, 5th September",
+   "summary_en": [
+    "Saturday forecast for Santiago, 5th September",
+    "Saturday forecast for Valparaíso, 5th September"
+   ]
+  }
+ ],
+ "content": "960d28ab8496c74c4a8d01939fc29b86e122831c692da9ed70ffe14971d4239d",
+ "rev": 1,
+ "updated": "2026-09-05T12:24:30.671Z"
+}

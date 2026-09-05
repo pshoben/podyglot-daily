@@ -1,0 +1,239 @@
+{
+ "title": "El clima de hoy, sábado 5 de septiembre",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-weather",
+   "wpm": 195,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-05",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Pendientes en los incendios forestales,",
+   "en": "Keep an eye on the forest fires,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con alertas vigentes en el país.",
+   "en": "with alerts in force around the country.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según el Ideam, hay ciento cincuenta y nueve municipios en alerta.",
+   "en": "According to «Ideam», 159 municipalities are on alert.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La República citó ese informe,",
+   "en": "«La República» quoted that report,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que pone en alerta roja a siete municipios del Tolima.",
+   "en": "which puts seven municipalities in «Tolima» on red alert.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Cundinamarca los incendios dejan mil quinientas doce hectáreas quemadas, según Semana.",
+   "en": "In «Cundinamarca» the fires have burned 1,512 hectares, according to «Semana».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las cifras de las ciudades esta mañana salen del modelo del Centro Europeo, el ECMWF.",
+   "en": "This morning's figures for the cities come from the European Centre model, the ECMWF.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Bogotá el cielo trae llovizna,",
+   "en": "In «Bogotá» the sky brings drizzle,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con una probabilidad del cincuenta y uno por ciento.",
+   "en": "with a fifty-one per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima se queda en veintiún grados y la mínima cae a once.",
+   "en": "The high stays at twenty-one degrees and the low drops to eleven.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento bogotano no pasa de trece kilómetros por hora.",
+   "en": "The wind in «Bogotá» does not go above thirteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Medellín también hay llovizna,",
+   "en": "In «Medellín» there is drizzle as well,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "aunque la probabilidad baja al veintisiete por ciento.",
+   "en": "although the chance falls to twenty-seven per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima antioqueña alcanza veintiocho grados y la mínima, diecisiete.",
+   "en": "The high in «Antioquia» climbs to twenty-eight degrees and the low, seventeen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento sopla hasta dieciséis kilómetros por hora,",
+   "en": "The wind blows up to sixteen kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tres más que en la capital.",
+   "en": "three more than in the capital.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Cali la llovizna es mucho más probable, con ochenta y siete por ciento.",
+   "en": "In «Cali» drizzle is far more likely, at eighty-seven per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima vallecaucana repite los veintiocho grados.",
+   "en": "The high in «Valle del Cauca» is twenty-eight degrees again.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima marca veintiún grados,",
+   "en": "The low sits at twenty-one degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el viento apenas llega a siete kilómetros por hora.",
+   "en": "and the wind barely reaches seven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese es el clima.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Saturday 5 September",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "Ideam puts 159 municipalities under a forest fire alert",
+ "summary_en": [
+  "Ideam puts 159 municipalities under a forest fire alert",
+  "Saturday forecast for Bogotá, 5th September"
+ ]
+}

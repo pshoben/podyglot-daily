@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-CO-La actualidad de la mañana, sábado 5 de septiembre",
+   "file": "podcast-daily-2026-09-05-morning-news-es-CO.json",
+   "bytes": 8076,
+   "sha256": "07fd5e08ef306c5f2cc400e2a532c9e2f61efec3199fc85fa2c693b3308ffdd8",
+   "date": "2026-09-05",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "La actualidad de la mañana, sábado 5 de septiembre",
+   "title_en": "The morning news, Saturday 5 September",
+   "headline_en": "Colombian businessman Jaime Gilinski signs a 25-year Venezuelan oil block deal",
+   "summary_en": [
+    "Colombian businessman Jaime Gilinski signs a 25-year Venezuelan oil block deal",
+    "Drone swarm attacks a Colombian army battalion at Ocaña",
+    "Two soldiers dead in the Ocaña attack, El Tiempo and Semana report"
+   ]
+  },
+  {
+   "id": "es-CO-La jornada deportiva, sábado 5 de septiembre",
+   "file": "podcast-daily-2026-09-05-morning-sport-es-CO.json",
+   "bytes": 4718,
+   "sha256": "cb171344c033f2ad7adc621398190b6e3765a7374095df8154a711263b331b64",
+   "date": "2026-09-05",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "La jornada deportiva, sábado 5 de septiembre",
+   "title_en": "Today's sport, Saturday 5 September",
+   "headline_en": "Atlético Nacional and América de Cali meet in a Miami football friendly",
+   "summary_en": [
+    "Atlético Nacional and América de Cali meet in a Miami football friendly",
+    "Alberto Gamero back in charge at football club Millonarios"
+   ]
+  },
+  {
+   "id": "es-CO-El clima de hoy, sábado 5 de septiembre",
+   "file": "podcast-daily-2026-09-05-morning-weather-es-CO.json",
+   "bytes": 5777,
+   "sha256": "b14caf66c5e47cd5f6fe6bb9424bb96508111ad0bf3c840e51f92524356d0c62",
+   "date": "2026-09-05",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "El clima de hoy, sábado 5 de septiembre",
+   "title_en": "Today's weather, Saturday 5 September",
+   "headline_en": "Ideam puts 159 municipalities under a forest fire alert",
+   "summary_en": [
+    "Ideam puts 159 municipalities under a forest fire alert",
+    "Saturday forecast for Bogotá, 5th September"
+   ]
+  },
+  {
    "id": "es-CO-La actualidad de la mañana, viernes 4 de septiembre",
    "file": "podcast-daily-2026-09-04-morning-news-es-CO.json",
    "bytes": 9219,

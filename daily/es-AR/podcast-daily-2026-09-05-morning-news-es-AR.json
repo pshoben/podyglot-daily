@@ -1,0 +1,360 @@
+{
+ "title": "El noticiero de la mañana, sábado 5 de septiembre",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-05",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Sábado cinco de septiembre, siete de la mañana.",
+   "en": "Saturday the fifth of September, seven in the morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El noticiero de la mañana.",
+   "en": "The morning news programme.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las Naciones Unidas dejaron atrás la proyección de Mercator y adoptaron un nuevo mapa del mundo.",
+   "en": "The United Nations has left the «Mercator» projection behind and adopted a new map of the world.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el Gobierno argentino abrió un proceso sancionatorio por las operaciones petroleras en las Malvinas.",
+   "en": "And the Argentine government has opened a sanctions process over the oil operations in the «Malvinas».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos por la Asamblea General,",
+   "en": "We start with the General Assembly,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que respaldó por amplia mayoría una propuesta africana.",
+   "en": "which backed an African proposal by a wide margin.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La proyección de Mercator agranda de manera artificial algunos territorios.",
+   "en": "The «Mercator» projection makes some territories artificially bigger.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El nuevo mapa se llama Equal Earth y busca corregir esas distorsiones.",
+   "en": "The new map is called «Equal Earth», and it sets out to correct those distortions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Estados Unidos fue el único país que votó en contra.",
+   "en": "The United States was the only country to vote against.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Acá en la Argentina, el proceso apunta a la actividad petrolera sin autorización.",
+   "en": "Here in Argentina, the process targets oil work carried out without permission.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se apoya en la ley veintiséis mil seiscientos cincuenta y nueve.",
+   "en": "It rests on law twenty-six thousand six hundred and fifty-nine.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es la misma norma que el Gobierno quiere reformar para endurecer las sanciones.",
+   "en": "It is the same law the government wants to reform to toughen the sanctions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Clarín y Ámbito cuentan cuarenta y cinco personas y empresas alcanzadas.",
+   "en": "«Clarín» and «Ámbito» count forty-five people and companies affected.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Figuran empresas y accionistas del Reino Unido,",
+   "en": "They include companies and shareholders from the United Kingdom,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de Estados Unidos y de Israel, entre otros.",
+   "en": "the United States and Israel, among others.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El gobernador bonaerense, Axel Kicillof,",
+   "en": "The governor of «Buenos Aires» province, «Axel Kicillof»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "criticó el mensaje en cadena de Javier Milei.",
+   "en": "criticised «Javier Milei»'s address to the nation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Escribió en la red social X que la Patria no se vende ni se actúa.",
+   "en": "He wrote on the social network X that the homeland is not for sale and is not something to be acted out.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el Reino Unido, Boris Johnson pidió enviar refuerzos militares a las Malvinas.",
+   "en": "In the United Kingdom, «Boris Johnson» called for military reinforcements to be sent to the «Malvinas».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El ex primer ministro lo planteó en una columna donde criticó al presidente argentino.",
+   "en": "The former prime minister set it out in a column critical of the Argentine President.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También en la agenda, el mandatario habló ante empresarios y defendió su política fiscal.",
+   "en": "In other news, the President spoke to business leaders and defended his fiscal policy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Fue durante su discurso en el Instituto Argentino de Ejecutivos de Finanzas.",
+   "en": "It came during his speech at the «Instituto Argentino de Ejecutivos de Finanzas».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dijo que no va a flexibilizar el rumbo económico por las elecciones del año próximo.",
+   "en": "He said he will not soften his economic course because of next year's elections.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de tema ahora, hubo una explosión en un cuartel militar de Bolivia, según Clarín.",
+   "en": "Moving on, there has been an explosion at an army barracks in «Bolivia», according to «Clarín».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El estallido fue en Viacha,",
+   "en": "The blast was at «Viacha»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en un centro de mantenimiento del ejército.",
+   "en": "at an army maintenance centre.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Murieron dos personas, y los heridos van de cincuenta y nueve a ochenta y uno.",
+   "en": "Two people were killed, and the injured are put at anywhere from fifty-nine to eighty-one.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La cifra de heridos es todavía provisoria,",
+   "en": "The number of injured is still provisional,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y buscan a siete personas entre los escombros.",
+   "en": "and seven people are being looked for in the rubble.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para el final, el jefe de gobierno porteño se reunió con el nuncio apostólico.",
+   "en": "And finally, the head of the «Buenos Aires» city government met the apostolic nuncio.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Jorge Macri le transmitió su intención de encontrarse con el papa León catorce.",
+   "en": "«Jorge Macri» told him he wants to meet Pope Leo the fourteenth.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Quiere entregarle la llave de la ciudad durante su visita de noviembre.",
+   "en": "He wants to give him the key to the city during his visit in November.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo central.",
+   "en": "That is the heart of it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Saturday 5 September",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "The UN drops the Mercator projection for a new world map",
+ "summary_en": [
+  "The UN drops the Mercator projection for a new world map",
+  "Argentina opens a sanctions process over Malvinas oil operations",
+  "Kicillof criticises Milei's broadcast on the Malvinas"
+ ]
+}

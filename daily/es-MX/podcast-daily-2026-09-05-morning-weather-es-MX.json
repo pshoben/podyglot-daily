@@ -1,0 +1,229 @@
+{
+ "title": "El clima, sábado 5 de septiembre",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-weather",
+   "wpm": 186,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-05",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Así viene el cielo de hoy, ciudad por ciudad.",
+   "en": "Here is the sky today, city by city.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las cifras salen del modelo del Centro Europeo, el ECMWF.",
+   "en": "The numbers come from the European Centre's model, the ECMWF.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cuidado en Monterrey, donde ese modelo anticipa tormenta.",
+   "en": "Take care in «Monterrey», where that model expects a thunderstorm.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación llega al noventa y nueve por ciento.",
+   "en": "The chance of rain reaches ninety-nine per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima regiomontana sube a treinta y cuatro grados.",
+   "en": "The high in «Monterrey» climbs to thirty-four degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima no baja de veintiséis.",
+   "en": "The low does not drop below twenty-six.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento sopla hasta quince kilómetros por hora.",
+   "en": "The wind blows at up to fifteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Bajamos al centro del país,",
+   "en": "We move down to the centre of the country,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "donde la Ciudad de México se queda con llovizna.",
+   "en": "where «Ciudad de México» sits under drizzle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima capitalina toca veinticuatro grados.",
+   "en": "The high in the capital touches twenty-four degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima cae a catorce.",
+   "en": "The low falls to fourteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La lluvia tiene cincuenta y siete por ciento de probabilidad.",
+   "en": "Rain carries a fifty-seven per cent chance.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El aire se mantiene en siete kilómetros por hora.",
+   "en": "The air stays at seven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el occidente del país,",
+   "en": "In the west of the country,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Guadalajara comparte ese mismo cielo con llovizna.",
+   "en": "«Guadalajara» shares that same drizzly sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima tapatía marca veintiocho grados.",
+   "en": "The high in «Guadalajara» gets to twenty-eight degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima se queda en diecisiete.",
+   "en": "The low sits at seventeen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de lluvia desciende a treinta y tres por ciento.",
+   "en": "The chance of rain comes down to thirty-three per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento repite esos siete kilómetros por hora.",
+   "en": "The wind holds those same seven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ahí está el panorama.",
+   "en": "There you have the picture.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Saturday 5 September",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "Saturday forecast for Monterrey, 5th September",
+ "summary_en": [
+  "Saturday forecast for Monterrey, 5th September",
+  "Saturday forecast for Ciudad de México, 5th September"
+ ]
+}

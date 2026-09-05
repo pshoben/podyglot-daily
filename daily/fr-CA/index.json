@@ -5,6 +5,26 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-CA-Le bulletin météo, samedi 5 septembre",
+   "file": "podcast-daily-2026-09-05-morning-weather-fr-CA.json",
+   "bytes": 5160,
+   "sha256": "847c64a969df980224822d4a3cd223d2e7d3a7544e2e0c6e5febedf87952a337",
+   "date": "2026-09-05",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin météo, samedi 5 septembre",
+   "title_en": "Today's weather, Saturday 5 September",
+   "headline_en": "Saturday forecast for Montréal, 5th September",
+   "summary_en": [
+    "Saturday forecast for Montréal, 5th September",
+    "Saturday forecast for Québec, 5th September"
+   ]
+  },
+  {
    "id": "fr-CA-Le bulletin météo, vendredi 4 septembre",
    "file": "podcast-daily-2026-09-04-morning-weather-fr-CA.json",
    "bytes": 5407,

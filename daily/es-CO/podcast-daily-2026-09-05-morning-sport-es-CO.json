@@ -1,0 +1,189 @@
+{
+ "title": "La jornada deportiva, sábado 5 de septiembre",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-sport",
+   "wpm": 195,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-05",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Hoy se enfrentan en el fútbol Atlético Nacional y América de Cali.",
+   "en": "Today's football brings «Atlético Nacional» against «América de Cali».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El amistoso se juega en Miami, según El Colombiano.",
+   "en": "The friendly is being played in «Miami», according to «El Colombiano».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Arranca a las seis y media de la tarde, hora de Colombia.",
+   "en": "It kicks off at half past six in the evening, Colombian time.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Semana adelantó que ese clásico no se verá por Win Sports.",
+   "en": "«Semana» says this classic fixture will not be shown on «Win Sports».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los promotores exigieron al menos el ochenta por ciento de las figuras de cada club.",
+   "en": "The promoters required at least eighty per cent of each club's leading players.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Nacional lleva a sus principales jugadores,",
+   "en": "«Nacional» is taking its main players,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "entre ellos Franco Armani y Edwin Cardona.",
+   "en": "among them «Franco Armani» and «Edwin Cardona».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El lunes recibirá al Deportivo Cali por los octavos de final, a partido único.",
+   "en": "On Monday it hosts «Deportivo Cali» in the last sixteen, over a single match.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El ganador de esa llave avanzará a los cuartos de final.",
+   "en": "The winner of that tie will go through to the quarter-finals.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Millonarios hay cambio de técnico:",
+   "en": "There is a change of coach at «Millonarios»:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Alberto Gamero regresó al club.",
+   "en": "«Alberto Gamero» is back at the club.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Tiempo detalló que fue confirmado el jueves,",
+   "en": "«El Tiempo» says he was confirmed on Thursday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en reemplazo de Fabián Bustos.",
+   "en": "in place of «Fabián Bustos».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El técnico ya empezó los entrenamientos con la plantilla.",
+   "en": "The coach has already started training sessions with the squad.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Semana contó que su primera charla con el plantel se volvió viral.",
+   "en": "«Semana» reports that his first talk to the players has gone viral.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esa es la jornada.",
+   "en": "That is the day in sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Saturday 5 September",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "Atlético Nacional and América de Cali meet in a Miami football friendly",
+ "summary_en": [
+  "Atlético Nacional and América de Cali meet in a Miami football friendly",
+  "Alberto Gamero back in charge at football club Millonarios"
+ ]
+}

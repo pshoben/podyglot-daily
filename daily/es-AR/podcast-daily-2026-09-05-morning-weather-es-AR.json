@@ -1,0 +1,239 @@
+{
+ "title": "El pronóstico, sábado 5 de septiembre",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-weather",
+   "wpm": 195,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-05",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Cómo viene el tiempo para hoy, con las alertas primero.",
+   "en": "The outlook for today, with the warnings first.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según el Servicio Meteorológico Nacional,",
+   "en": "According to the national weather service,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "hay alerta amarilla por vientos, nevadas y Zonda.",
+   "en": "there is a yellow alert for winds, snow and the «Zonda».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El aviso rige para hoy y alcanza a varias provincias.",
+   "en": "The warning is in force today and covers several provinces.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El organismo advirtió además sobre posible caída de granizo y actividad eléctrica.",
+   "en": "The service also warned of possible hail, thunder and lightning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y avanza un frente de aire antártico, según La Nación.",
+   "en": "And a front of Antarctic air is on its way, according to «La Nación».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Llegará con fuertes heladas, sensación térmica muy baja, inestabilidad y lluvias.",
+   "en": "It will arrive with hard frosts, a very low wind chill, unsettled weather and rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Perfil marca un brusco descenso térmico en la Ciudad de Buenos Aires y el conurbano.",
+   "en": "«Perfil» notes a sharp drop in temperature in the city of «Buenos Aires» and the areas around it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ciudad por ciudad, los números vienen del modelo del Centro Europeo, el ECMWF.",
+   "en": "City by city, the figures come from the European Centre model, the ECMWF.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Buenos Aires la máxima llega a doce grados y la mínima baja a seis.",
+   "en": "In «Buenos Aires» the high reaches twelve degrees and the low drops to six.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo está poco nuboso,",
+   "en": "The sky is mostly clear,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con un dos por ciento de probabilidad de precipitación.",
+   "en": "with a two per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento sopla hasta veinte kilómetros por hora.",
+   "en": "The wind blows at up to twenty kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Córdoba la máxima trepa a catorce grados,",
+   "en": "In «Córdoba» the high climbs to fourteen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con una mínima de ocho.",
+   "en": "with a low of eight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí predominan las nubes y la precipitación queda en cero por ciento.",
+   "en": "There the cloud takes over, and the chance of rain stays at zero per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento no pasa de diecinueve kilómetros por hora.",
+   "en": "The wind goes no higher than nineteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Mendoza la máxima toca los diez grados y la mínima cae a dos.",
+   "en": "In «Mendoza» the high touches ten degrees and the low falls to two.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se espera llovizna, con un setenta y ocho por ciento de probabilidad de precipitación.",
+   "en": "Drizzle is expected, with a seventy-eight per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento alcanza los diecinueve kilómetros por hora.",
+   "en": "The wind peaks at nineteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Así está el cielo.",
+   "en": "That is how the sky looks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Saturday 5 September",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Yellow alert for wind, snow and Zonda across several provinces",
+ "summary_en": [
+  "Yellow alert for wind, snow and Zonda across several provinces",
+  "Polar air brings a sharp drop in temperature to Buenos Aires"
+ ]
+}

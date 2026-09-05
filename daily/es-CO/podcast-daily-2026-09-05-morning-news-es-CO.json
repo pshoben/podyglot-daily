@@ -1,0 +1,280 @@
+{
+ "title": "La actualidad de la mañana, sábado 5 de septiembre",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-05",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Sábado cinco de septiembre. La actualidad de la mañana.",
+   "en": "Saturday the 5th of September. The morning news round-up.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Venezuela, el empresario Jaime Gilinski firmó un acuerdo para operar un bloque petrolero.",
+   "en": "In «Venezuela», the businessman «Jaime Gilinski» has signed a deal to run an oil block.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y un enjambre de drones atacó anoche el batallón del Ejército en Ocaña.",
+   "en": "And a swarm of drones attacked the army battalion at «Ocaña» last night.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Iniciamos con ese acuerdo, que Gilinski firmó con la presidenta de Venezuela, Delcy Rodríguez.",
+   "en": "We begin with that deal, which «Gilinski» signed with Venezuela's president, «Delcy Rodríguez».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según El Tiempo, el contrato es por veinticinco años y cubre el bloque Bare.",
+   "en": "According to «El Tiempo», the contract runs for twenty-five years and covers the «Bare» block.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo firmaron Pdvsa y la empresa Beta Resources, según La República.",
+   "en": "«Pdvsa» and the firm «Beta Resources» signed it, according to «La República».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En ese momento, Venezuela invitó a los empresarios colombianos a invertir en su país.",
+   "en": "At that moment, «Venezuela» invited Colombian business leaders to invest there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Semana informó que la invitación llegó tras el acuerdo con el Grupo Gilinski.",
+   "en": "«Semana» reports that the invitation came after the deal with the «Grupo Gilinski».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en Colombia, el ataque contra el batallón se atribuye al Eln.",
+   "en": "Here in Colombia, the attack on the battalion is being blamed on the «Eln».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Colombiano precisó que empezó hacia las siete y media de la noche.",
+   "en": "«El Colombiano» says it began at about half past seven at night.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El diario describió drones con explosivos,",
+   "en": "The paper described drones carrying explosives,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ráfagas de fusil y artefactos no convencionales.",
+   "en": "rifle fire and unconventional devices.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un helicóptero de la Fuerza Aeroespacial resultó impactado durante el hostigamiento.",
+   "en": "A Colombian Aerospace Force helicopter was hit during the assault.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De acuerdo con El Tiempo y Semana, hay dos militares muertos y cinco heridos.",
+   "en": "«El Tiempo» and «Semana» both say two soldiers are dead and five injured.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El presidente Abelardo De La Espriella le respondió al Eln: \"Se van a arrepentir\".",
+   "en": "President «Abelardo De La Espriella» answered the «Eln»: \"They are going to regret this\".",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Colombiano vinculó el ataque con la captura de alias Firu, presunto francotirador del Eln.",
+   "en": "«El Colombiano» has linked the attack to the capture of «alias Firu», an alleged «Eln» sniper.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La captura la anunció el jefe de Estado,",
+   "en": "The capture was announced by the head of state,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y se dio en Ocaña con la Policía.",
+   "en": "and was made at «Ocaña» with the police.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Tiempo agregó que Firu está señalado de planear un atentado contra el mandatario.",
+   "en": "«El Tiempo» added that «Firu» is accused of planning an attack on the president.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En otras noticias, el presidente advirtió a gobernadores y alcaldes en la cumbre de Mompox.",
+   "en": "In other news, the president warned governors and mayors at the summit in «Mompox».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les dijo que ninguno puede adelantar por su cuenta contactos clandestinos con estructuras terroristas.",
+   "en": "He told them that none may open secret contacts with terrorist groups on their own.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Semana y El Colombiano recogieron el mensaje al gobernador de Nariño: queda advertido.",
+   "en": "«Semana» and «El Colombiano» both carried his message to the governor of «Nariño»: he has been warned.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para finalizar, María Consuelo Araújo asumió como embajadora de Colombia en Estados Unidos.",
+   "en": "And finally, «María Consuelo Araújo» has taken office as Colombia's ambassador to the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La República reportó que Mauricio Gaona quedó como representante ante las Naciones Unidas.",
+   "en": "«La República» reports that «Mauricio Gaona» becomes the country's representative to the United Nations.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más importante.",
+   "en": "That is what matters most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Saturday 5 September",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "Colombian businessman Jaime Gilinski signs a 25-year Venezuelan oil block deal",
+ "summary_en": [
+  "Colombian businessman Jaime Gilinski signs a 25-year Venezuelan oil block deal",
+  "Drone swarm attacks a Colombian army battalion at Ocaña",
+  "Two soldiers dead in the Ocaña attack, El Tiempo and Semana report"
+ ]
+}

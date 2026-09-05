@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-AR-El noticiero de la mañana, sábado 5 de septiembre",
+   "file": "podcast-daily-2026-09-05-morning-news-es-AR.json",
+   "bytes": 9680,
+   "sha256": "c7e258a5b3b3d6889ac6d25c748974fcf8188edf4749ea7bb4488464bad12a91",
+   "date": "2026-09-05",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El noticiero de la mañana, sábado 5 de septiembre",
+   "title_en": "The morning news, Saturday 5 September",
+   "headline_en": "The UN drops the Mercator projection for a new world map",
+   "summary_en": [
+    "The UN drops the Mercator projection for a new world map",
+    "Argentina opens a sanctions process over Malvinas oil operations",
+    "Kicillof criticises Milei's broadcast on the Malvinas"
+   ]
+  },
+  {
+   "id": "es-AR-El deporte, sábado 5 de septiembre",
+   "file": "podcast-daily-2026-09-05-morning-sport-es-AR.json",
+   "bytes": 5487,
+   "sha256": "05f01a7be7adc74c1d5f891d97a164649c4c9207402dad0ddac5ad05ca288062",
+   "date": "2026-09-05",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El deporte, sábado 5 de septiembre",
+   "title_en": "Today's sport, Saturday 5 September",
+   "headline_en": "Los Pumas host Australia in a rugby test match in Mendoza",
+   "summary_en": [
+    "Los Pumas host Australia in a rugby test match in Mendoza",
+    "Boca face Gimnasia in Mendoza, football before the rugby"
+   ]
+  },
+  {
+   "id": "es-AR-El pronóstico, sábado 5 de septiembre",
+   "file": "podcast-daily-2026-09-05-morning-weather-es-AR.json",
+   "bytes": 6041,
+   "sha256": "d1f287e2b1a8e48332198b765dd50e4ae98dd88600d69307537a88c57693408d",
+   "date": "2026-09-05",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El pronóstico, sábado 5 de septiembre",
+   "title_en": "Today's weather, Saturday 5 September",
+   "headline_en": "Yellow alert for wind, snow and Zonda across several provinces",
+   "summary_en": [
+    "Yellow alert for wind, snow and Zonda across several provinces",
+    "Polar air brings a sharp drop in temperature to Buenos Aires"
+   ]
+  },
+  {
    "id": "es-AR-El noticiero de la mañana, viernes 4 de septiembre",
    "file": "podcast-daily-2026-09-04-morning-news-es-AR.json",
    "bytes": 8557,
