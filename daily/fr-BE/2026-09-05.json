@@ -1,0 +1,70 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-BE",
+ "date": "2026-09-05",
+ "episodes": [
+  {
+   "id": "fr-BE-Le sept heures, samedi 5 septembre",
+   "file": "podcast-daily-2026-09-05-morning-news-fr-BE.json",
+   "bytes": 7546,
+   "sha256": "9f6ed13df73b127445471b064d51f81096590594b1fb25ab28c32ddb79a24115",
+   "date": "2026-09-05",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, samedi 5 septembre",
+   "title_en": "The morning news, Saturday 5 September",
+   "headline_en": "Argentina hardens its line on the Falklands claim",
+   "summary_en": [
+    "Argentina hardens its line on the Falklands claim",
+    "MR draws its red line on VAT before the federal budget talks"
+   ]
+  },
+  {
+   "id": "fr-BE-Le sport chez nous, samedi 5 septembre",
+   "file": "podcast-daily-2026-09-05-morning-sport-fr-BE.json",
+   "bytes": 3943,
+   "sha256": "f430c6a0a3f41cf80ca84ed3a5fd8f310062777268df6d91dc980aad690c19e0",
+   "date": "2026-09-05",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sport chez nous, samedi 5 septembre",
+   "title_en": "Today's sport, Saturday 5 September",
+   "headline_en": "Belgian Cats in group C at the basketball World Cup in Berlin",
+   "summary_en": [
+    "Belgian Cats in group C at the basketball World Cup in Berlin"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, samedi 5 septembre",
+   "file": "podcast-daily-2026-09-05-morning-weather-fr-BE.json",
+   "bytes": 4918,
+   "sha256": "2627ef8a5c5591ace75db34d222417c3f69e39624839821790cde4a6701b5fc3",
+   "date": "2026-09-05",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, samedi 5 septembre",
+   "title_en": "Today's weather, Saturday 5 September",
+   "headline_en": "Saturday forecast for Bruxelles, 5th September",
+   "summary_en": [
+    "Saturday forecast for Bruxelles, 5th September",
+    "Saturday forecast for Liège, 5th September"
+   ]
+  }
+ ],
+ "content": "8abed6ba711a9b1e431e308d429a648b03159b33a890188ca8df2bb19f730eff",
+ "rev": 1,
+ "updated": "2026-09-05T06:51:26.326Z"
+}

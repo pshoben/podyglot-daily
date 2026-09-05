@@ -1,0 +1,263 @@
+{
+ "title": "El tiempo, sábado 5 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather",
+   "wpm": 208,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-05",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El aviso naranja de la Aemet por altas temperaturas",
+   "en": "«Aemet»'s orange warning for high temperatures",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "cubre hoy Navarra, el norte y el centro de Aragón.",
+   "en": "covers «Navarra» and the north and centre of «Aragón» today.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También el interior de Cataluña,",
+   "en": "It reaches inland «Cataluña» too,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con cuarenta grados en Lleida.",
+   "en": "with 40 degrees in «Lleida».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Zaragoza la previsión apunta a cuarenta y un grados.",
+   "en": "In «Zaragoza» the forecast points to 41 degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El aviso amarillo se extiende a Extremadura,",
+   "en": "The yellow warning extends to «Extremadura»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Castilla y León y la Comunidad Valenciana, entre otras.",
+   "en": "«Castilla y León» and the «Comunidad Valenciana», among others.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Galicia y Asturias suman aviso por lluvias y tormentas desde las cuatro de la tarde.",
+   "en": "«Galicia» and «Asturias» add a warning for rain and storms from four in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la Comunidad de Madrid el nivel es amarillo,",
+   "en": "In the «Comunidad de Madrid» the level is yellow,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en las horas centrales del día.",
+   "en": "for the middle of the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las máximas van allí de los treinta y cinco a los treinta y nueve grados.",
+   "en": "Highs there run from 35 to 39 degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la capital, la máxima marca treinta y seis grados, con intervalos nubosos.",
+   "en": "In the capital the high reads 36 degrees, under broken cloud.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima no baja de veintiséis,",
+   "en": "The low does not fall below 26,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con viento del suroeste a quince kilómetros por hora.",
+   "en": "with a south-westerly wind at 15 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Barcelona amanece despejada, con treinta y tres grados y una mínima de veinticinco.",
+   "en": "«Barcelona» wakes to a clear sky, with 33 degrees and a low of 25.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En València dominan las nubes altas y no se espera lluvia.",
+   "en": "In «València» high cloud dominates and no rain is expected.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El termómetro sube hasta treinta y dos grados,",
+   "en": "The temperature climbs to 32 degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con una mínima de veintitrés.",
+   "en": "with a low of 23.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Bilbao oscila entre los diecisiete y los treinta y uno, con nubes y claros.",
+   "en": "«Bilbao» ranges from 17 to 31, with cloud and clear spells.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En A Coruña el día empieza nuboso y despeja por la tarde.",
+   "en": "In «A Coruña» the day starts cloudy and clears in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima se detiene en treinta grados,",
+   "en": "The high stops at 30 degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con diez kilómetros por hora de viento del noroeste.",
+   "en": "and the wind is north-westerly at 10 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí el tiempo.",
+   "en": "That's it for the national forecast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Saturday 5 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "España",
+ "accent": "Castilla",
+ "accent_label": "acento de Castilla",
+ "segment_order": 0,
+ "headline_en": "An orange heat warning covers Navarre, Aragon and inland Catalonia",
+ "summary_en": [
+  "An orange heat warning covers Navarre, Aragon and inland Catalonia",
+  "Yellow heat warnings reach Extremadura, Castile and Leon and other regions"
+ ]
+}

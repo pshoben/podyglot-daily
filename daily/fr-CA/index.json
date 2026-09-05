@@ -453,46 +453,6 @@
     "Montreal today: heavy showers, with a high of 25 degrees",
     "Quebec City today: showers, with a high of 20 degrees"
    ]
-  },
-  {
-   "id": "fr-CA-Le bulletin du matin, samedi 22 août",
-   "file": "podcast-daily-2026-08-22-morning-news-fr-CA.json",
-   "bytes": 13286,
-   "sha256": "8959b257e31cb35f79357e17644883e9b1fb97d082a98d6ed91de2ddf083d18c",
-   "date": "2026-08-22",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-CA",
-   "region_label": "Québec",
-   "title": "Le bulletin du matin, samedi 22 août",
-   "title_en": "The morning news, Saturday 22 August",
-   "headline_en": "A United States federal judge ruled unlawful the visa freeze imposed in January on seventy",
-   "summary_en": [
-    "A United States federal judge ruled unlawful the visa freeze imposed in January on seventy",
-    "Trade talks between Ottawa and Washington failed, a new round of fifty per cent United Sta",
-    "The national monument to LGBTQ+ people was inaugurated in Ottawa, commemorating the thousa"
-   ]
-  },
-  {
-   "id": "fr-CA-Le bulletin météo, samedi 22 août",
-   "file": "podcast-daily-2026-08-22-morning-weather-fr-CA.json",
-   "bytes": 6453,
-   "sha256": "3c509a6e66b9032b3435c527e370d2c550070fc70bc14939b008b831f95f9f8d",
-   "date": "2026-08-22",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-CA",
-   "region_label": "Québec",
-   "title": "Le bulletin météo, samedi 22 août",
-   "title_en": "Today's weather, Saturday 22 August",
-   "headline_en": "According to Environnement Canada: Today's GEM forecast for Montreal, Quebec City and Sagu",
-   "summary_en": [
-    "According to Environnement Canada: Today's GEM forecast for Montreal, Quebec City and Sagu"
-   ]
   }
  ]
 }

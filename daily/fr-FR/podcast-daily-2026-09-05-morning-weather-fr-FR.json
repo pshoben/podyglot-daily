@@ -1,0 +1,219 @@
+{
+ "title": "La météo, samedi 5 septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-05",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Prudence dans le sud du pays aujourd'hui,",
+   "en": "Take care in the south of the country today,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où sept départements sont en vigilance orange canicule.",
+   "en": "where seven departments are on an orange heatwave alert.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Ardèche, l'Aude, la Drôme, le Gard et l'Hérault y étaient déjà depuis vendredi midi.",
+   "en": "The «Ardèche», the «Aude», the «Drôme», the «Gard» and the «Hérault» had been on alert since Friday midday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les Pyrénées-Orientales les ont rejoints,",
+   "en": "The «Pyrénées-Orientales» have joined them,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le Vaucluse s'y ajoute ce samedi.",
+   "en": "and the «Vaucluse» is added this Saturday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon les modèles de Météo-France,",
+   "en": "According to the «Météo-France» models,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Marseille grimpe à trente-cinq degrés, sous un ciel couvert.",
+   "en": "«Marseille» climbs to thirty-five degrees, under an overcast sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le thermomètre marseillais ne descend pas sous vingt-deux degrés.",
+   "en": "The «Marseille» thermometer does not drop below twenty-two degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y souffle jusqu'à vingt-quatre kilomètres par heure.",
+   "en": "The wind there blows at up to twenty-four kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Bordeaux, le maximum de la journée s'établit à trente-deux degrés.",
+   "en": "In «Bordeaux», the day's high settles at thirty-two degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le minimum bordelais redescend à vingt degrés.",
+   "en": "The «Bordeaux» low comes back down to twenty degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y reste limité à onze kilomètres par heure.",
+   "en": "The wind there is held to eleven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Paris, le mercure s'arrête à vingt-cinq degrés.",
+   "en": "In «Paris», the mercury stops at twenty-five degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dix-sept degrés au minimum dans la capitale.",
+   "en": "Seventeen degrees at the lowest in the capital.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ciel y est couvert,",
+   "en": "The sky there is overcast,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent atteint quatorze kilomètres par heure.",
+   "en": "and the wind reaches fourteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dix degrés séparent la maximale parisienne de celle de Marseille.",
+   "en": "There are ten degrees between the «Paris» high and the «Marseille» high.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Entre ces deux villes, l'écart sur les minimums est de cinq degrés.",
+   "en": "Between those two cities, the gap in the lows is five degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo.",
+   "en": "That is the weather picture.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Saturday 5 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Seven southern departments under an orange heatwave warning",
+ "summary_en": [
+  "Seven southern departments under an orange heatwave warning",
+  "Saturday forecast for Marseille, 5th September"
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-FR",
+ "date": "2026-09-05",
+ "episodes": [
+  {
+   "id": "fr-FR-Le journal du matin, samedi 5 septembre",
+   "file": "podcast-daily-2026-09-05-morning-news-fr-FR.json",
+   "bytes": 7632,
+   "sha256": "3cb8476c354670a0f5bf17412c82af0abf921e28e1e8b6fe2d25aa94b8d9e4d1",
+   "date": "2026-09-05",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, samedi 5 septembre",
+   "title_en": "The morning news, Saturday 5 September",
+   "headline_en": "Trump says his envoys are on their way to Moscow and Kyiv",
+   "summary_en": [
+    "Trump says his envoys are on their way to Moscow and Kyiv",
+    "France Inter journalists protest at a Valeurs actuelles columnist",
+    "US judge declares a mistrial after the jury cannot agree"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, samedi 5 septembre",
+   "file": "podcast-daily-2026-09-05-morning-sport-fr-FR.json",
+   "bytes": 5030,
+   "sha256": "49a0683ebd2ff3f36b85c2b0c457056836fea5287736a4cc571f5e54df8e915d",
+   "date": "2026-09-05",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, samedi 5 septembre",
+   "title_en": "Today's sport, Saturday 5 September",
+   "headline_en": "UFC in Paris, with nine French fighters on the card",
+   "summary_en": [
+    "UFC in Paris, with nine French fighters on the card",
+    "French handball clubs open their European season"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, samedi 5 septembre",
+   "file": "podcast-daily-2026-09-05-morning-weather-fr-FR.json",
+   "bytes": 5387,
+   "sha256": "ff56414a14179842b7019fc85b30e73a01654e834b5b2c30137e462a597a8218",
+   "date": "2026-09-05",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, samedi 5 septembre",
+   "title_en": "Today's weather, Saturday 5 September",
+   "headline_en": "Seven southern departments under an orange heatwave warning",
+   "summary_en": [
+    "Seven southern departments under an orange heatwave warning",
+    "Saturday forecast for Marseille, 5th September"
+   ]
+  }
+ ],
+ "content": "3ca1e63ccd023655ca71047436599d59b1264df0de76cd0c5dc83c99516ab26c",
+ "rev": 1,
+ "updated": "2026-09-05T06:51:26.326Z"
+}

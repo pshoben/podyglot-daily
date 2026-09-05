@@ -471,66 +471,6 @@
     "A yellow warning for extreme cold covers Buenos Aires city and five provinces",
     "Buenos Aires today: cloudy, with a high of 11 degrees"
    ]
-  },
-  {
-   "id": "es-AR-El noticiero de la mañana, sábado 22 de agosto",
-   "file": "podcast-daily-2026-08-22-morning-news-es-AR.json",
-   "bytes": 11271,
-   "sha256": "847130bd450a3532e9b188864874ae56889cba1317579e4239bfd005ca7df4ea",
-   "date": "2026-08-22",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "es-AR",
-   "region_label": "Argentina",
-   "title": "El noticiero de la mañana, sábado 22 de agosto",
-   "title_en": "The morning news, Saturday 22 August",
-   "headline_en": "The United States imposed fifty per cent tariffs on Canadian goods and Mark Carney promise",
-   "summary_en": [
-    "The United States imposed fifty per cent tariffs on Canadian goods and Mark Carney promise",
-    "A Bolivian court ordered a hundred and eighty days of pre-trial detention for Fernando Cer",
-    "Northern governors are asking that the agreement with the national government on benefits"
-   ]
-  },
-  {
-   "id": "es-AR-El deporte, sábado 22 de agosto",
-   "file": "podcast-daily-2026-08-22-morning-sport-es-AR.json",
-   "bytes": 4893,
-   "sha256": "fb5bb5eda58aa503b590e68190f97050d3e24483931161f173f39587050bff87",
-   "date": "2026-08-22",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "es-AR",
-   "region_label": "Argentina",
-   "title": "El deporte, sábado 22 de agosto",
-   "title_en": "Today's sport, Saturday 22 August",
-   "headline_en": "The sixth round of the Clausura tournament is being played with dates, times and referees",
-   "summary_en": [
-    "The sixth round of the Clausura tournament is being played with dates, times and referees",
-    "Aston Villa manager Unai Emery confirmed that Argentina goalkeeper Emiliano Martinez asked"
-   ]
-  },
-  {
-   "id": "es-AR-El pronóstico, sábado 22 de agosto",
-   "file": "podcast-daily-2026-08-22-morning-weather-es-AR.json",
-   "bytes": 6121,
-   "sha256": "333733921ff2233726773e18e214e1e1e181ef964f3e933a3c5de073e8639fc6",
-   "date": "2026-08-22",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "es-AR",
-   "region_label": "Argentina",
-   "title": "El pronóstico, sábado 22 de agosto",
-   "title_en": "Today's weather, Saturday 22 August",
-   "headline_en": "Today's ECMWF forecast for Cordoba, Mendoza and Buenos Aires: highs of fifteen, fifteen an",
-   "summary_en": [
-    "Today's ECMWF forecast for Cordoba, Mendoza and Buenos Aires: highs of fifteen, fifteen an"
-   ]
   }
  ]
 }

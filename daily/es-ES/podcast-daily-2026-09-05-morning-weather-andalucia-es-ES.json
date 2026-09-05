@@ -1,0 +1,153 @@
+{
+ "title": "El tiempo en Andalucía, sábado 5 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-andalucia",
+   "wpm": 208,
+   "rate_multiplier": 0.73,
+   "pitch_multiplier": 0.79
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-andalucia",
+ "date": "2026-09-05",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Tierra adentro, la Aemet mantiene hoy el aviso amarillo por calor.",
+   "en": "Inland, «Aemet» is keeping a yellow heat warning in force today.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Rige entre la una de la tarde y las nueve de la noche.",
+   "en": "It runs from one in the afternoon until nine at night.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Córdoba llega a treinta y nueve grados bajo un cielo muy nuboso.",
+   "en": "«Córdoba» gets to 39 degrees under a heavily clouded sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima cae hasta veintiuno,",
+   "en": "The low falls to 21,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con un veinticinco por ciento de probabilidad de lluvia.",
+   "en": "with a 25 per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por el valle, Sevilla arranca el día con nubes y lluvia escasa.",
+   "en": "Down the valley, «Sevilla» starts the day with cloud and light rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de lluvia alcanza el ochenta y cinco por ciento,",
+   "en": "The chance of rain reaches 85 per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y cede al treinta y cinco por la tarde.",
+   "en": "easing to 35 in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí se esperan treinta y siete grados de máxima y veinticuatro de mínima.",
+   "en": "Highs there are expected at 37 degrees, with a low of 24.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la costa, Málaga se queda en treinta y tres, con veintidós de mínima.",
+   "en": "On the coast, «Málaga» stays at 33, with a low of 22.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento del sur no pasa de cinco kilómetros por hora, bajo nubes altas.",
+   "en": "The southerly wind goes no higher than 5 kilometres an hour, under high cloud.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es Andalucía.",
+   "en": "So that's «Andalucía».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 3,
+ "handover": "junction",
+ "title_en": "Today's weather, Andalusia, Saturday 5 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Andalucía",
+ "accent": "Andalucía",
+ "accent_label": "acento de Andalucía",
+ "segment_order": 1,
+ "headline_en": "A yellow heat warning covers Andalusia in the middle of the day",
+ "summary_en": [
+  "A yellow heat warning covers Andalusia in the middle of the day",
+  "Saturday AEMET forecast for Córdoba, 5th September"
+ ]
+}

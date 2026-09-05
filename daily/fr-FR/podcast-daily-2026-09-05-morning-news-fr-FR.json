@@ -1,0 +1,280 @@
+{
+ "title": "Le journal du matin, samedi 5 septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-05",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Samedi cinq septembre, sept heures à Paris. Le journal du matin.",
+   "en": "Saturday the 5th of September, seven o'clock in «Paris». The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Donald Trump a affirmé vendredi que ses émissaires se rendent à Moscou et à Kiev.",
+   "en": "Donald Trump said on Friday that his envoys are on their way to Moscow and Kyiv.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des journalistes de France Inter se mobilisent contre l'arrivée du chroniqueur Charles Sapin.",
+   "en": "Journalists at «France Inter» are up in arms over the arrival of the columnist «Charles Sapin».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par cette déclaration du président américain.",
+   "en": "We start with that statement from the American president.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ses deux émissaires sont Jared Kushner et Steve Witkoff.",
+   "en": "His two envoys are «Jared Kushner» and «Steve Witkoff».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ils doivent s'entretenir avec Vladimir Poutine et Volodymyr Zelensky.",
+   "en": "They are to hold talks with Vladimir Putin and «Volodymyr Zelensky».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce sera leur première visite à Kiev depuis le retour de Donald Trump au pouvoir.",
+   "en": "It will be their first visit to Kyiv since Donald Trump came back to power.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le plan qu'ils portent vise, selon le président américain,",
+   "en": "The plan they are carrying is meant, the American president says,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à mettre fin à la guerre.",
+   "en": "to bring the war to an end.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, Charles Sapin est directeur adjoint de la rédaction de l'hebdomadaire Valeurs actuelles.",
+   "en": "In France, «Charles Sapin» is deputy editor of the weekly «Valeurs actuelles».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Son arrivée sur France Inter provoque la protestation",
+   "en": "His arrival at «France Inter» has brought protests",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'une partie des journalistes de la station publique.",
+   "en": "from some of the public station's journalists.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon Le Figaro, ces salariés font pression sur la direction pour faire interdire le chroniqueur.",
+   "en": "According to «Le Figaro», staff are pressing management to have the columnist banned.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les syndicats de Radio France ont déposé un préavis de grève",
+   "en": "Radio France unions have filed a strike notice",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour le dimanche treize et le lundi quatorze septembre.",
+   "en": "for Sunday the 13th and Monday the 14th of September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité, aux États-Unis,",
+   "en": "In other news, a judge in the United",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un juge a annulé le procès d'une femme accusée du meurtre de ses trois enfants.",
+   "en": "States has declared a mistrial in the case of a woman accused of murdering her three children.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les jurés ne sont pas parvenus à s'entendre sur un verdict.",
+   "en": "The jury could not agree on a verdict.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Onze d'entre eux étaient favorables à l'acquittement pour irresponsabilité pénale, et un s'y opposait.",
+   "en": "Eleven of them were for acquittal on grounds of insanity, and one was against.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'unanimité des jurés est requise dans les procès pénaux américains.",
+   "en": "American criminal trials require the jury to be unanimous.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'accusée pourra éventuellement être jugée à nouveau.",
+   "en": "The accused may yet be tried again.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour finir, au Royaume-Uni, le président du Rassemblement national était vendredi l'invité de Nigel Farage.",
+   "en": "And finally, in the United Kingdom, the president of the «Rassemblement National» was «Nigel Farage»'s guest on Friday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Jordan Bardella a participé, à Birmingham, au congrès annuel du parti Reform UK.",
+   "en": "«Jordan Bardella» went to Birmingham for the «Reform UK» party's annual conference.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les deux hommes y ont signé un protocole d'accord pour lutter contre l'immigration illégale.",
+   "en": "The two men signed a memorandum of understanding there on fighting illegal immigration.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is where the main news stands.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Saturday 5 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Trump says his envoys are on their way to Moscow and Kyiv",
+ "summary_en": [
+  "Trump says his envoys are on their way to Moscow and Kyiv",
+  "France Inter journalists protest at a Valeurs actuelles columnist",
+  "US judge declares a mistrial after the jury cannot agree"
+ ]
+}

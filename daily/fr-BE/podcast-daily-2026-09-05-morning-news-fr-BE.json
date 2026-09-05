@@ -1,0 +1,309 @@
+{
+ "title": "Le sept heures, samedi 5 septembre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-news",
+   "wpm": 222,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-05",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Samedi cinq septembre. Le sept heures.",
+   "en": "Saturday 5th September. The seven o'clock news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon la RTBF, le bras de fer autour des îles Malouines est relancé.",
+   "en": "According to «RTBF», the tug of war over the Falkland Islands has flared up again.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le gouvernement fédéral prépare son conclave budgétaire,",
+   "en": "The federal government is getting ready for its budget talks,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le MR pose déjà ses limites.",
+   "en": "and the MR is already drawing its red lines.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On ouvre avec l'Argentine, dont le président Javier Milei s'est exprimé jeudi.",
+   "en": "We open with Argentina, whose president «Javier Milei» spoke on Thursday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Libre écrit qu'il a invoqué des vents favorables",
+   "en": "«La Libre» writes that he invoked favourable winds",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à la revendication historique de son pays.",
+   "en": "for his country's historic claim.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est la cause la plus sacrée, a-t-il déclaré.",
+   "en": "It is the most sacred cause, he said.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le président argentin a aussi annoncé des sanctions durcies pour tout projet pétrolier",
+   "en": "The Argentine president also announced tougher sanctions on any oil project",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "autour de l'archipel.",
+   "en": "around the islands.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le même journal décrit un chef d'État dopé par le soutien perçu de Donald Trump.",
+   "en": "The same paper describes a leader buoyed by «Donald Trump»'s perceived support.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La RTBF rappelle qu'en juillet dernier,",
+   "en": "«RTBF» recalls that back in July,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "des joueurs argentins avaient déployé une banderole sur une pelouse.",
+   "en": "Argentine players unfurled a banner on a pitch.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On pouvait y lire que les Malouines sont argentines.",
+   "en": "It read that the Falklands are Argentine.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre dossier maintenant, ce conclave budgétaire attend le gouvernement de Bart De Wever,",
+   "en": "Another matter now, those budget talks await «Bart De Wever»'s government",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à la fin du mois.",
+   "en": "at the end of the month.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'après La Libre, le vice-Premier ministre MR David Clarinval y rejette toute hausse d'impôt.",
+   "en": "«La Libre» reports that the MR deputy prime minister «David Clarinval» is ruling out any tax rise.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sans surprise pour le journal,",
+   "en": "Unsurprisingly, the paper says,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le libéral veut aussi réduire le train de vie de l'État.",
+   "en": "he also wants to cut the state's running costs.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour le MR, a-t-il averti,",
+   "en": "An attack on VAT, he warned,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "une attaque sur la TVA est inacceptable.",
+   "en": "is unacceptable for the MR.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Vif chiffre la tâche:",
+   "en": "«Le Vif» puts a figure on the job:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le gouvernement fédéral doit retrouver les milliards qu'il a abandonnés au fil de l'année.",
+   "en": "the federal government has to find the billions it gave up over the year.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'abandon d'écotaxes et de la hausse de la TVA en représente par exemple deux virgule",
+   "en": "Dropping eco-taxes and the VAT rise, for example,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sept milliards d'euros.",
+   "en": "accounts for 2.7 billion euros.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Vif cite encore une taxe sur les billets d'avion et des accises sur le gaz naturel.",
+   "en": "«Le Vif» goes on to list a tax on plane tickets and excise duties on natural gas.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les raisons de ce trou budgétaire sont aussi environnementales, écrit-il.",
+   "en": "The reasons for that budget hole are environmental too, it writes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà où nous en sommes.",
+   "en": "And that is where things stand.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Saturday 5 September",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Argentina hardens its line on the Falklands claim",
+ "summary_en": [
+  "Argentina hardens its line on the Falklands claim",
+  "MR draws its red line on VAT before the federal budget talks"
+ ]
+}

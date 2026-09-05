@@ -1,0 +1,300 @@
+{
+ "title": "El informativo de la mañana, sábado 5 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-news",
+   "wpm": 208,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-05",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Sábado cinco de septiembre, siete en punto.",
+   "en": "Saturday the 5th of September, seven o'clock.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El informativo de la mañana.",
+   "en": "The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Consejo de Política Fiscal y Financiera aprueba la nueva financiación autonómica,",
+   "en": "The Fiscal and Financial Policy Council approves the new regional financing,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con solo dos comunidades a favor.",
+   "en": "with only two regions in favour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y la Audiencia Nacional examina la entrada masiva de migrantes en Ceuta.",
+   "en": "And the «Audiencia Nacional» is examining the mass entry of migrants into «Ceuta».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Abrimos con la financiación autonómica.",
+   "en": "We begin with regional financing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según La Vanguardia y El País,",
+   "en": "According to «La Vanguardia» and «El País»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el consejo aprobó ayer la reforma del modelo.",
+   "en": "the council approved the reform of the model yesterday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cataluña y Canarias fueron las dos únicas comunidades que votaron a favor.",
+   "en": "«Cataluña» and «Canarias» were the only two regions that voted in favour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El resto no respaldó el texto,",
+   "en": "The rest did not back the text,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "incluidas las dos socialistas del régimen común, Asturias y Castilla-La Mancha.",
+   "en": "including the two socialist regions in the common system, «Asturias» and «Castilla-La Mancha».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hacienda ofrece a las autonomías veintiún mil millones de euros más.",
+   "en": "The finance ministry is offering the regions 21 billion euros more.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La reforma pasará después por el Consejo de Ministros y de ahí al Congreso.",
+   "en": "The reform then goes to the Council of Ministers and from there to parliament.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí su aprobación no está asegurada,",
+   "en": "There its approval is not assured,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el Gobierno tiene la vista puesta en Junts.",
+   "en": "and the government has its eye on «Junts».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el resto de la actualidad, la crisis de Ceuta pasa por la Audiencia Nacional.",
+   "en": "In other news, the «Ceuta» crisis goes before the «Audiencia Nacional».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Al frente está la jueza María Tardón.",
+   "en": "Judge «María Tardón» is the one handling it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Fiscalía apoya que ese tribunal investigue lo ocurrido.",
+   "en": "The public prosecutor's office is in favour of that court investigating what happened.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de tema, el Ministerio de Industria",
+   "en": "Moving on, the industry ministry",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "media en la huelga de Airbus y empuja a los sindicatos a cerrarla.",
+   "en": "is mediating in the «Airbus» strike and pressing the unions to end it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El ministro Jordi Hereu anunció ayer un principio de acuerdo con los sindicatos mayoritarios.",
+   "en": "The minister «Jordi Hereu» announced an outline agreement with the main unions yesterday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los paros en la compañía acumulaban ayer treinta y cinco días.",
+   "en": "As of yesterday the stoppages at the company had run for 35 days.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otro asunto, Carla Toscano deja su acta de concejala en el Ayuntamiento de Madrid.",
+   "en": "Turning to something else, «Carla Toscano» is giving up her seat on «Madrid» city council.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo hace después de su expulsión de Vox.",
+   "en": "She does so after being expelled from «Vox».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para terminar, la princesa Leonor estudiará en la Universidad Carlos III de Madrid.",
+   "en": "And finally, Princess «Leonor» will study at the «Carlos III» University in «Madrid».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su padre, el Rey, se matriculó en Derecho en la Autónoma.",
+   "en": "Her father, the King, enrolled in law at the «Autónoma» university.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí lo esencial.",
+   "en": "That's the main news, then.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Saturday 5 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Spain's regional financing reform is approved with only two regions in favour",
+ "summary_en": [
+  "Spain's regional financing reform is approved with only two regions in favour",
+  "An Audiencia Nacional judge is examining the mass entry into Ceuta",
+  "Catalonia and the Canary Islands were the only regions to back the model"
+ ]
+}

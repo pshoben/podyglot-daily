@@ -3,8 +3,48 @@
  "channel": "daily",
  "dialect": "es-CL",
  "base": "https://pshoben.github.io/podyglot-daily/archive/",
- "archived_before": "2026-08-22",
+ "archived_before": "2026-08-23",
  "episodes": [
+  {
+   "id": "es-CL-Las noticias de la mañana, sábado 22 de agosto",
+   "file": "podcast-daily-2026-08-22-morning-news-es-CL.json",
+   "bytes": 8362,
+   "sha256": "24f7dd47329c66fdb80da71a43b476bd8a2762b15e5436522a52e89944689028",
+   "date": "2026-08-22",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "Las noticias de la mañana, sábado 22 de agosto",
+   "title_en": "The morning news, Saturday 22 August",
+   "headline_en": "Michelle Bachelet's UN Secretary-General candidacy took six votes against in the Security",
+   "summary_en": [
+    "Michelle Bachelet's UN Secretary-General candidacy took six votes against in the Security",
+    "The Kast government's constitutional security reform is dominating debate, with academics",
+    "Foreign minister Francisco Perez Mackenna closed a visit to the port of Shanghai, touring"
+   ]
+  },
+  {
+   "id": "es-CL-El estado del tiempo, sábado 22 de agosto",
+   "file": "podcast-daily-2026-08-22-morning-weather-es-CL.json",
+   "bytes": 6465,
+   "sha256": "83cf1b70432d1138edc05a6e4e643592ef9c1604f6e54fddc9f81b00efac4bb4",
+   "date": "2026-08-22",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "El estado del tiempo, sábado 22 de agosto",
+   "title_en": "Today's weather, Saturday 22 August",
+   "headline_en": "Today's ECMWF forecast for Valparaiso, Santiago and Concepcion: highs of twenty-eight, twe",
+   "summary_en": [
+    "Today's ECMWF forecast for Valparaiso, Santiago and Concepcion: highs of twenty-eight, twe"
+   ]
+  },
   {
    "id": "es-CL-El estado del tiempo, viernes 21 de agosto",
    "file": "podcast-daily-2026-08-21-morning-weather-es-CL.json",

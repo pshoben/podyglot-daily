@@ -1,0 +1,209 @@
+{
+ "title": "Le sport, samedi 5 septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-05",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Ce samedi, l'UFC tient son événement parisien à Bercy.",
+   "en": "This Saturday, the UFC holds its Paris event at «Bercy».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Neuf combattants français figurent sur cette affiche.",
+   "en": "Nine French fighters are on the bill.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Farès Ziam y affronte Axel Sola,",
+   "en": "«Farès Ziam» takes on «Axel Sola»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un Niçois de vingt-huit ans,",
+   "en": "a twenty-eight-year-old from «Nice»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "chez les poids légers français.",
+   "en": "in an all-French lightweight bout.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au programme, le handball français ouvre ses compétitions européennes.",
+   "en": "Coming up, French handball is opening its European season.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Douze clubs, masculins et féminins,",
+   "en": "Twelve clubs, men's and women's,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sont engagés en Ligue des champions et en Ligue européenne.",
+   "en": "are entered in the Champions League and the European League.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Leur diffusion a été assurée à la dernière minute,",
+   "en": "Their coverage was secured at the last minute,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "par beIN Sports et la plateforme de la fédération.",
+   "en": "by «beIN Sports» and the federation's own platform.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Metz, de son côté, se déplace à Storhamar, en Norvège, à dix-huit heures.",
+   "en": "«Metz», meanwhile, travel to «Storhamar» in Norway, at six in the evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À suivre aujourd'hui, le rugby,",
+   "en": "Also to follow today, rugby,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec Toulon qui lance sa saison face à Bayonne, à dix-neuf heures cinq.",
+   "en": "with «Toulon» beginning their season against «Bayonne», at five past seven tonight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le RC Vannes, lui, s'apprête à retrouver le Top 14",
+   "en": "«RC Vannes» are about to return to the «Top 14»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un effectif bien plus fourni qu'il y a deux ans.",
+   "en": "with a much deeper squad than two years ago.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sur les terrains, l'Afrique du Sud et la Nouvelle-Zélande se retrouvent à dix-sept heures dix.",
+   "en": "Out on the pitch, South Africa and New Zealand meet again at ten past five this afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les Springboks compteront sur le pied de Cheslin Kolbe.",
+   "en": "The Springboks will be counting on the boot of «Cheslin Kolbe».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport.",
+   "en": "And that is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Saturday 5 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "UFC in Paris, with nine French fighters on the card",
+ "summary_en": [
+  "UFC in Paris, with nine French fighters on the card",
+  "French handball clubs open their European season"
+ ]
+}

@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-FR-Le journal du matin, samedi 5 septembre",
+   "file": "podcast-daily-2026-09-05-morning-news-fr-FR.json",
+   "bytes": 7632,
+   "sha256": "3cb8476c354670a0f5bf17412c82af0abf921e28e1e8b6fe2d25aa94b8d9e4d1",
+   "date": "2026-09-05",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, samedi 5 septembre",
+   "title_en": "The morning news, Saturday 5 September",
+   "headline_en": "Trump says his envoys are on their way to Moscow and Kyiv",
+   "summary_en": [
+    "Trump says his envoys are on their way to Moscow and Kyiv",
+    "France Inter journalists protest at a Valeurs actuelles columnist",
+    "US judge declares a mistrial after the jury cannot agree"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, samedi 5 septembre",
+   "file": "podcast-daily-2026-09-05-morning-sport-fr-FR.json",
+   "bytes": 5030,
+   "sha256": "49a0683ebd2ff3f36b85c2b0c457056836fea5287736a4cc571f5e54df8e915d",
+   "date": "2026-09-05",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, samedi 5 septembre",
+   "title_en": "Today's sport, Saturday 5 September",
+   "headline_en": "UFC in Paris, with nine French fighters on the card",
+   "summary_en": [
+    "UFC in Paris, with nine French fighters on the card",
+    "French handball clubs open their European season"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, samedi 5 septembre",
+   "file": "podcast-daily-2026-09-05-morning-weather-fr-FR.json",
+   "bytes": 5387,
+   "sha256": "ff56414a14179842b7019fc85b30e73a01654e834b5b2c30137e462a597a8218",
+   "date": "2026-09-05",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, samedi 5 septembre",
+   "title_en": "Today's weather, Saturday 5 September",
+   "headline_en": "Seven southern departments under an orange heatwave warning",
+   "summary_en": [
+    "Seven southern departments under an orange heatwave warning",
+    "Saturday forecast for Marseille, 5th September"
+   ]
+  },
+  {
    "id": "fr-FR-Le journal du matin, vendredi 4 septembre",
    "file": "podcast-daily-2026-09-04-morning-news-fr-FR.json",
    "bytes": 8647,
@@ -715,66 +776,6 @@
    "summary_en": [
     "Paris today: overcast, with a high of 25 degrees",
     "Marseille today: scattered cloud, with a high of 29 degrees"
-   ]
-  },
-  {
-   "id": "fr-FR-Le journal du matin, samedi 22 août",
-   "file": "podcast-daily-2026-08-22-morning-news-fr-FR.json",
-   "bytes": 13632,
-   "sha256": "da1af84a23c89c2f973f6d257ad9ea8810ebeff2fa9a454176dc7c9937a23a46",
-   "date": "2026-08-22",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le journal du matin, samedi 22 août",
-   "title_en": "The morning news, Saturday 22 August",
-   "headline_en": "A Russian drone strike on a shopping centre in Kryvyi Rih killed at least sixteen people and injured around a hundred and thirty",
-   "summary_en": [
-    "A Russian drone strike on a shopping centre in Kryvyi Rih killed at least sixteen people and injured around a hundred and thirty",
-    "The Greens hold their summer conference in Grenoble and La France insoumise its summer school, opening the political new season",
-    "New American tariffs of fifty per cent on a range of Canadian products came into force on Saturday after no deal was reached"
-   ]
-  },
-  {
-   "id": "fr-FR-Le sport, samedi 22 août",
-   "file": "podcast-daily-2026-08-22-morning-sport-fr-FR.json",
-   "bytes": 6273,
-   "sha256": "b0b857a5c05a68c4b22bf5007e4f41b6742d9c81f5b2d77950fd0e6573bd9c21",
-   "date": "2026-08-22",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le sport, samedi 22 août",
-   "title_en": "Today's sport, Saturday 22 August",
-   "headline_en": "The Vuelta starts on Saturday in Monaco with a nine kilometre individual time trial, and runs to 13 September",
-   "summary_en": [
-    "The Vuelta starts on Saturday in Monaco with a nine kilometre individual time trial, and runs to 13 September",
-    "Lens host Auxerre at Bollaert in the opening round of Ligue 1"
-   ]
-  },
-  {
-   "id": "fr-FR-La météo, samedi 22 août",
-   "file": "podcast-daily-2026-08-22-morning-weather-fr-FR.json",
-   "bytes": 5746,
-   "sha256": "847c9b7342f8692a319ae956c791b74127d5b818e5a06649068ca4df2febd9d8",
-   "date": "2026-08-22",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "La météo, samedi 22 août",
-   "title_en": "Today's weather, Saturday 22 August",
-   "headline_en": "According to Meteo-France models, overcast skies for Saturday with highs of 23 in Paris and 28 in Marseille and Bordeaux",
-   "summary_en": [
-    "According to Meteo-France models, overcast skies for Saturday with highs of 23 in Paris and 28 in Marseille and Bordeaux"
    ]
   }
  ]

@@ -1,0 +1,168 @@
+{
+ "title": "Le sport chez nous, samedi 5 septembre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-sport",
+   "wpm": 222,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-05",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Ce qui nous attend,",
+   "en": "On the agenda,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les Belgian Cats et la suite de leur Coupe du monde de basket.",
+   "en": "the «Belgian Cats» and the rest of their basketball World Cup.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le tournoi se joue à Berlin,",
+   "en": "The tournament is being played in Berlin,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et la Belgique y dispute le groupe C.",
+   "en": "and Belgium is in group C.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La DH précise que la première place de ce groupe se jouera lundi matin,",
+   "en": "«DH» says top spot in that group will be decided on Monday morning,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "face à l'Australie.",
+   "en": "against Australia.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cette première place qualifie directement pour les quarts de finale.",
+   "en": "That top spot goes straight through to the quarter-finals.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Libre a annoncé leur entrée en lice pour vendredi, à dix-sept heures trente,",
+   "en": "«La Libre» had their opening game down for Friday, at half past five,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "face à la Turquie.",
+   "en": "against Turkey.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Julie Allemand s'était confiée avant d'affronter une équipe qu'elle connaît très bien.",
+   "en": "«Julie Allemand» had opened up before facing a side she knows very well.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au micro de la RTBF,",
+   "en": "Speaking to «RTBF», the playmaker",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la meneuse liégeoise se dit très fatiguée depuis son retour avec les Cats.",
+   "en": "from «Liège» says she is very tired since coming back with the Cats.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est dur, dit-elle, mais elle donne tout pour le pays.",
+   "en": "It is hard, she says, but she gives everything for the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On s'arrête là pour le sport belge.",
+   "en": "We leave Belgian sport there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Saturday 5 September",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Belgian Cats in group C at the basketball World Cup in Berlin",
+ "summary_en": [
+  "Belgian Cats in group C at the basketball World Cup in Berlin"
+ ]
+}

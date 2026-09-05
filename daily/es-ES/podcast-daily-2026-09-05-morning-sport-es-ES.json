@@ -1,0 +1,159 @@
+{
+ "title": "Los deportes, sábado 5 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-sport",
+   "wpm": 208,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-05",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Hoy en la agenda, el Athletic recibe al Atlético de Madrid en San Mamés.",
+   "en": "On the agenda today, «Athletic» host «Atlético de Madrid» at «San Mamés».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El partido empieza a las cuatro y cuarto de la tarde.",
+   "en": "The match starts at a quarter past four in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En los campos, el Villarreal espera al Deportivo.",
+   "en": "Elsewhere on the pitch, «Villarreal» are at home to «Deportivo».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese encuentro arranca a las nueve de la noche.",
+   "en": "That one kicks off at nine in the evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El entrenador del Deportivo, Antonio Hidalgo, repitió ayer que el objetivo es la permanencia.",
+   "en": "«Deportivo»'s coach, «Antonio Hidalgo», said again yesterday that the objective is staying up.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El club ha cerrado diez fichajes en este mercado.",
+   "en": "The club have made ten signings in this window.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Entre ellos, Josema Giménez y Marc Casadó.",
+   "en": "Among them, «Josema Giménez» and «Marc Casadó».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y en la carretera, la Vuelta a España afronta hoy su decimocuarta etapa.",
+   "en": "And out on the road, the «Vuelta a España» rides its fourteenth stage today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La jornada sale de Jaén y termina en el alto de la Sierra de la Pandera.",
+   "en": "The day leaves «Jaén» and finishes at the top of the «Sierra de la Pandera».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El puerto mide once coma ocho kilómetros,",
+   "en": "The climb runs 11.8 kilometres,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con una pendiente media del siete coma tres por ciento.",
+   "en": "at an average gradient of 7.3 per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el tramo final se superan rampas del trece por ciento.",
+   "en": "On the last stretch the ramps go above 13 per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí los deportes.",
+   "en": "And we leave the sport there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Saturday 5 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Athletic host Atletico at San Mames",
+ "summary_en": [
+  "Athletic host Atletico at San Mames",
+  "Villarreal host Deportivo in the evening"
+ ]
+}

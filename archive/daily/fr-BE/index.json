@@ -3,8 +3,47 @@
  "channel": "daily",
  "dialect": "fr-BE",
  "base": "https://pshoben.github.io/podyglot-daily/archive/",
- "archived_before": "2026-08-22",
+ "archived_before": "2026-08-23",
  "episodes": [
+  {
+   "id": "fr-BE-Le sport chez nous, samedi 22 août",
+   "file": "podcast-daily-2026-08-22-morning-sport-fr-BE.json",
+   "bytes": 4448,
+   "sha256": "2c1ca857c5d3706ea265e75202768cdb03f2e468dac05a1e65f36afa0b398e6a",
+   "date": "2026-08-22",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sport chez nous, samedi 22 août",
+   "title_en": "Today's sport, Saturday 22 August",
+   "headline_en": "Charleroi host Mechelen, the Renewi Tour reaches stage four and the hockey World Cup continues",
+   "summary_en": [
+    "Charleroi host Mechelen, the Renewi Tour reaches stage four and the hockey World Cup continues",
+    "Wout van Aert starts the Vuelta with the red jersey as a target, according to team-mate Daan Soete"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, samedi 22 août",
+   "file": "podcast-daily-2026-08-22-morning-weather-fr-BE.json",
+   "bytes": 4848,
+   "sha256": "7a9fc09e534c5af2b762df525a4508d10939548eb9b7e3c3565d54b803c99195",
+   "date": "2026-08-22",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, samedi 22 août",
+   "title_en": "Today's weather, Saturday 22 August",
+   "headline_en": "According to the ECMWF model, drizzle and highs of 18 to 19 degrees across Belgium on Saturday, with rain probability from 82 to 95 per cent",
+   "summary_en": [
+    "According to the ECMWF model, drizzle and highs of 18 to 19 degrees across Belgium on Saturday, with rain probability from 82 to 95 per cent"
+   ]
+  },
   {
    "id": "fr-BE-Le sept heures, vendredi 21 août",
    "file": "podcast-daily-2026-08-21-morning-news-fr-BE.json",
