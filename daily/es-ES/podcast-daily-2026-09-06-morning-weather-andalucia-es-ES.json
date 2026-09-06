@@ -1,0 +1,163 @@
+{
+ "title": "El tiempo en Andalucía, domingo 6 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-andalucia",
+   "wpm": 208,
+   "rate_multiplier": 0.73,
+   "pitch_multiplier": 0.79
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-andalucia",
+ "date": "2026-09-06",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Por el valle,",
+   "en": "Down the valley,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el aviso naranja de la Aemet cubre hoy dos campiñas por altas temperaturas.",
+   "en": "«Aemet»'s orange warning covers two stretches of countryside today for high temperatures.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Son la campiña cordobesa y la campiña sevillana.",
+   "en": "They are the «Córdoba» countryside and the «Sevilla» countryside.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empieza a la una de la tarde y termina a las nueve de la noche.",
+   "en": "It starts at one in the afternoon and ends at nine at night.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo de Córdoba está despejado todo el día.",
+   "en": "The sky over «Córdoba» is clear all day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima alcanza los treinta y nueve grados y la mínima veinte.",
+   "en": "The high reaches 39 degrees and the low 20.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sevilla repite esos treinta y nueve grados,",
+   "en": "«Sevilla» matches those 39 degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "también bajo un cielo despejado.",
+   "en": "also under a clear sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima, veintitrés grados, y el viento del este a diez kilómetros por hora.",
+   "en": "The low, 23 degrees, and an easterly wind at 10 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Málaga, ya en la costa,",
+   "en": "«Málaga», down on the coast,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "se detiene en treinta y dos grados de máxima.",
+   "en": "tops out at 32 degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La nube es poca y la probabilidad de lluvia, cero.",
+   "en": "There is little cloud and the chance of rain is zero.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es Andalucía.",
+   "en": "That is «Andalucía».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 3,
+ "handover": "junction",
+ "title_en": "Today's weather, Andalusia, Sunday 6 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Andalucía",
+ "accent": "Andalucía",
+ "accent_label": "acento de Andalucía",
+ "segment_order": 1,
+ "headline_en": "AEMET has an orange heat warning out for the Cordoba and Seville countryside this afternoon",
+ "summary_en": [
+  "AEMET has an orange heat warning out for the Cordoba and Seville countryside this afternoon",
+  "Sunday AEMET forecast for Córdoba, 6th September"
+ ]
+}

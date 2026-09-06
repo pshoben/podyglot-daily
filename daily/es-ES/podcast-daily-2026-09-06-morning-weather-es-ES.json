@@ -1,0 +1,213 @@
+{
+ "title": "El tiempo, domingo 6 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather",
+   "wpm": 208,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-06",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Según la Aemet, hay aviso amarillo por tormentas en el suroccidente de Asturias.",
+   "en": "According to «Aemet», there is a yellow thunderstorm warning out for the south-west of «Asturias».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Está en vigor de cinco a ocho de la mañana.",
+   "en": "It runs from five to eight this morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En A Coruña el día arranca muy nuboso y por la tarde afloja a nuboso.",
+   "en": "In «A Coruña» the day starts mostly cloudy and eases to cloudy in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima es de veinticinco grados y la mínima de diecinueve.",
+   "en": "The high is 25 degrees and the low 19.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Bilbao la máxima sube hoy hasta los treinta y siete grados, bajo cielo nuboso.",
+   "en": "In «Bilbao» the high climbs today to 37 degrees, under a cloudy sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se espera allí lluvia escasa,",
+   "en": "Light rain is expected there,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con un sesenta y cinco por ciento de probabilidad.",
+   "en": "with a 65 per cent chance of it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima cae a veinte grados,",
+   "en": "The low falls to 20 degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el viento del noroeste llega a quince kilómetros por hora.",
+   "en": "and the north-westerly wind gets up to 15 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Madrid el cielo abre por la tarde,",
+   "en": "In «Madrid» the sky opens up in the afternoon,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tras una mañana de intervalos nubosos.",
+   "en": "after a morning of broken cloud.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Treinta y seis grados de máxima y veinticuatro de mínima.",
+   "en": "36 degrees for the high and 24 for the low.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de lluvia baja del veinticinco al cinco por ciento.",
+   "en": "The chance of rain drops from 25 to 5 per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En València las nubes altas cubren todo el día.",
+   "en": "In «València» high cloud covers the whole day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima se instala en treinta y cinco grados y la mínima en veintidós.",
+   "en": "The high settles at 35 degrees and the low at 22.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Barcelona tiene el cielo poco nuboso y ninguna probabilidad de lluvia.",
+   "en": "«Barcelona» has a mostly clear sky and no chance of rain at all.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El termómetro no pasa de treinta y dos grados, con veinticinco de mínima.",
+   "en": "The thermometer goes no higher than 32 degrees, with a low of 25.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí el tiempo.",
+   "en": "That's it for the national forecast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Sunday 6 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "España",
+ "accent": "Castilla",
+ "accent_label": "acento de Castilla",
+ "segment_order": 0,
+ "headline_en": "AEMET has a yellow thunderstorm warning out for south-western Asturias this morning",
+ "summary_en": [
+  "AEMET has a yellow thunderstorm warning out for south-western Asturias this morning",
+  "Sunday AEMET forecast for A Coruña, 6th September"
+ ]
+}

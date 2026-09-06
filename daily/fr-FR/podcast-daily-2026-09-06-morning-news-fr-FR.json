@@ -1,0 +1,320 @@
+{
+ "title": "Le journal du matin, dimanche 6 septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-06",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Dimanche six septembre, sept heures à Paris. Le journal du matin.",
+   "en": "Sunday the 6th of September, seven o'clock in «Paris». The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les deux émissaires de Donald Trump sont attendus aujourd'hui à Kiev.",
+   "en": "Donald Trump's two envoys are expected in Kyiv today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, les pompiers luttent contre un incendie dans les Pyrénées-Atlantiques.",
+   "en": "In France, firefighters are fighting a fire in the «Pyrénées-Atlantiques».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par la Russie,",
+   "en": "We start in Russia,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où Steve Witkoff et Jared Kushner ont rencontré samedi Vladimir Poutine.",
+   "en": "where «Steve Witkoff» and «Jared Kushner» met Vladimir Putin on Saturday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les deux hommes apportaient une proposition pour tenter de mettre fin au conflit.",
+   "en": "The two men were bringing a proposal to try to end the conflict.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon Le Monde, aucune percée n'a été annoncée après trois heures d'entretien.",
+   "en": "According to «Le Monde», no breakthrough was announced after three hours of talks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aucun des deux ne s'était rendu dans la capitale ukrainienne",
+   "en": "Neither of them had been to the Ukrainian capital",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "depuis le début de leur médiation.",
+   "en": "since their mediation began.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En vallée d'Aspe, le feu a débuté le deux septembre.",
+   "en": "In the «vallée d'Aspe», the fire started on the 2nd of September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'accès est difficile, et les pompiers ont allumé des contre-feux pour freiner les flammes.",
+   "en": "Access is difficult, and firefighters have lit counter-fires to slow the flames.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un hélicoptère Chinook a été engagé sur la zone.",
+   "en": "A Chinook helicopter has been brought in over the area.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent a compliqué la situation hier.",
+   "en": "The wind made things more difficult yesterday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à autre chose,",
+   "en": "Moving on,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les corps des deux marins du chalutier Maranello ont été retrouvés samedi.",
+   "en": "the bodies of the two crewmen from the trawler «Maranello» were found on Saturday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le parquet de Saint-Brieuc l'a annoncé,",
+   "en": "The «Saint-Brieuc» prosecutor's office announced it,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "après plusieurs jours de recherches difficiles.",
+   "en": "after several days of a difficult search.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le chalutier avait coulé le vingt-neuf août, au sud de l'Angleterre.",
+   "en": "The trawler had gone down on the 29th of August, south of England.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les plongeurs ont remonté les corps au large de Plymouth,",
+   "en": "Divers brought the bodies up off Plymouth,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à la faveur d'une accalmie.",
+   "en": "during a lull in the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre sujet maintenant, la Saxe-Anhalt vote ce dimanche.",
+   "en": "Turning to something else, Saxony-Anhalt votes this Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est un scrutin régional, dans ce Land de l'est de l'Allemagne.",
+   "en": "It is a regional election, in that state in the east of Germany.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans les sondages,",
+   "en": "In the polls,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le parti d'extrême droite AfD y est donné autour de quarante pour cent.",
+   "en": "the far-right «AfD» is on about forty per cent there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour finir, trois candidats à la présidentielle ont fait campagne",
+   "en": "And finally, three presidential candidates were out campaigning",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "samedi à la braderie de Lille.",
+   "en": "at the «braderie» in «Lille» on Saturday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Gabriel Attal, Jean-Luc Mélenchon et Marine Tondelier ont exposé leurs programmes.",
+   "en": "«Gabriel Attal», «Jean-Luc Mélenchon» and «Marine Tondelier» set out their programmes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Deux millions de visiteurs étaient attendus dans la ville.",
+   "en": "Two million visitors were expected in the city.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is where the main news stands.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Sunday 6 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Trump's envoys Witkoff and Kushner due in Kyiv after Saturday's Moscow talks",
+ "summary_en": [
+  "Trump's envoys Witkoff and Kushner due in Kyiv after Saturday's Moscow talks",
+  "Counter-fires and a Chinook helicopter against the Aspe valley wildfire in the Pyrenees",
+  "Le Monde reports no breakthrough after Putin's three-hour Kremlin meeting with Trump's envoys"
+ ]
+}

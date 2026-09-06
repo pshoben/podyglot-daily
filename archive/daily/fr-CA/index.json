@@ -3,8 +3,49 @@
  "channel": "daily",
  "dialect": "fr-CA",
  "base": "https://pshoben.github.io/podyglot-daily/archive/",
- "archived_before": "2026-08-23",
+ "archived_before": "2026-08-24",
  "episodes": [
+  {
+   "id": "fr-CA-Le bulletin du matin, dimanche 23 août",
+   "file": "podcast-daily-2026-08-23-morning-news-fr-CA.json",
+   "bytes": 9411,
+   "sha256": "7d2dc3d24fb48cfcfef4af8d444d3d2c1eb6680889c4fe4bcf9c8641f0a277ec",
+   "date": "2026-08-23",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin du matin, dimanche 23 août",
+   "title_en": "The morning news, Sunday 23 August",
+   "headline_en": "Zelensky rejects wartime elections, calling a vote a tsunami that would fracture Ukraine",
+   "summary_en": [
+    "Zelensky rejects wartime elections, calling a vote a tsunami that would fracture Ukraine",
+    "Washington warns Canada a trade conflict would be devastating after Carney's counter-tariffs",
+    "Three Palestinians killed by Israeli strikes in central Gaza, the civil defence says"
+   ]
+  },
+  {
+   "id": "fr-CA-Le bulletin météo, dimanche 23 août",
+   "file": "podcast-daily-2026-08-23-morning-weather-fr-CA.json",
+   "bytes": 4888,
+   "sha256": "62d0e6003a212eca7737045f1dee36f32cf71a258364488a492a1fc196050713",
+   "date": "2026-08-23",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin météo, dimanche 23 août",
+   "title_en": "Today's weather, Sunday 23 August",
+   "headline_en": "Montreal today: heavy showers, with a high of 25 degrees",
+   "summary_en": [
+    "Montreal today: heavy showers, with a high of 25 degrees",
+    "Quebec City today: showers, with a high of 20 degrees"
+   ]
+  },
   {
    "id": "fr-CA-Le bulletin du matin, samedi 22 août",
    "file": "podcast-daily-2026-08-22-morning-news-fr-CA.json",

@@ -1,0 +1,112 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-ES",
+ "date": "2026-09-06",
+ "episodes": [
+  {
+   "id": "es-ES-El informativo de la mañana, domingo 6 de septiembre",
+   "file": "podcast-daily-2026-09-06-morning-news-es-ES.json",
+   "bytes": 9676,
+   "sha256": "508adc706a40ab8478a31c0869df9e0c6da3fb74df2008079144d2a287df91de",
+   "date": "2026-09-06",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, domingo 6 de septiembre",
+   "title_en": "The morning news, Sunday 6 September",
+   "headline_en": "Germany's Saxony-Anhalt votes in a regional election with the far-right AfD ahead in the polls",
+   "summary_en": [
+    "Germany's Saxony-Anhalt votes in a regional election with the far-right AfD ahead in the polls",
+    "Spain's government will declassify the Ceuta reports to back its case that nobody was warned",
+    "Spanish opposition leader Alberto Nunez Feijoo takes his party's case on Ceuta to European capitals"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, domingo 6 de septiembre",
+   "file": "podcast-daily-2026-09-06-morning-sport-es-ES.json",
+   "bytes": 5277,
+   "sha256": "1e43432038e5bee60adc2c65c13eb91e563f048a1bed04c1e5b78932e1651d37",
+   "date": "2026-09-06",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, domingo 6 de septiembre",
+   "title_en": "Today's sport, Sunday 6 September",
+   "headline_en": "Valencia host Barcelona at Mestalla in Spain's top football division",
+   "summary_en": [
+    "Valencia host Barcelona at Mestalla in Spain's top football division",
+    "Barcelona's last league visit to the old Mestalla football ground"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, domingo 6 de septiembre",
+   "file": "podcast-daily-2026-09-06-morning-weather-es-ES.json",
+   "bytes": 5279,
+   "sha256": "87f4227f68665b9acaa91b12066281c5c448af1e2ca45f89c6e58d88763933a0",
+   "date": "2026-09-06",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, domingo 6 de septiembre",
+   "title_en": "Today's weather, Sunday 6 September",
+   "headline_en": "AEMET has a yellow thunderstorm warning out for south-western Asturias this morning",
+   "summary_en": [
+    "AEMET has a yellow thunderstorm warning out for south-western Asturias this morning",
+    "Sunday AEMET forecast for A Coruña, 6th September"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, domingo 6 de septiembre",
+   "file": "podcast-daily-2026-09-06-morning-weather-andalucia-es-ES.json",
+   "bytes": 3930,
+   "sha256": "336ea240cc5a869e3cd1c86fe61f8b302135778b3511e72a718b66c55fb24b76",
+   "date": "2026-09-06",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, domingo 6 de septiembre",
+   "title_en": "Today's weather, Andalusia, Sunday 6 September",
+   "headline_en": "AEMET has an orange heat warning out for the Cordoba and Seville countryside this afternoon",
+   "summary_en": [
+    "AEMET has an orange heat warning out for the Cordoba and Seville countryside this afternoon",
+    "Sunday AEMET forecast for Córdoba, 6th September"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, domingo 6 de septiembre",
+   "file": "podcast-daily-2026-09-06-morning-weather-canarias-es-ES.json",
+   "bytes": 3725,
+   "sha256": "678ed158f236e3ff7410d5a9241d85f3203225716f340014524c66a6c03da18d",
+   "date": "2026-09-06",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, domingo 6 de septiembre",
+   "title_en": "Today's weather, Canary Islands, Sunday 6 September",
+   "headline_en": "Sunday AEMET forecast for Las Palmas de Gran Canaria, 6th September",
+   "summary_en": [
+    "Sunday AEMET forecast for Las Palmas de Gran Canaria, 6th September",
+    "Sunday AEMET forecast for Santa Cruz de Tenerife, 6th September"
+   ]
+  }
+ ],
+ "content": "c8f8f34469c8f3d65786f7f047dfa78f2bf50044eac2cd0119fb0883bd3cb497",
+ "rev": 1,
+ "updated": "2026-09-06T06:41:33.444Z"
+}

@@ -1,0 +1,159 @@
+{
+ "title": "Le sport, dimanche 6 septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-06",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Au programme ce soir,",
+   "en": "Coming up tonight,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "du football: Marseille reçoit le Paris FC en Ligue 1.",
+   "en": "football: «Marseille» are at home to «Paris FC» in «Ligue 1».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le match débute à vingt heures quarante-cinq.",
+   "en": "The match starts at a quarter to nine in the evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Paris FC en est à sa deuxième saison dans l'élite.",
+   "en": "«Paris FC» are in their second season in the top flight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce déplacement à Marseille est son premier gros test.",
+   "en": "This trip to «Marseille» is their first big test.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le mercato est terminé, et le staff marseillais peut capitaliser sur son effectif.",
+   "en": "The transfer window has closed, and the «Marseille» staff can build on the squad they have.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'entraîneur Bruno Genesio cherche à faire baisser la pression.",
+   "en": "The manager, «Bruno Genesio», is trying to take the pressure down.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sur les terrains, Lens retrouve jeudi la Ligue des champions, à Prague, face au Slavia.",
+   "en": "Out on the pitch, «Lens» go back into the Champions League on Thursday, in «Prague», against «Slavia».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Deux titulaires majeurs sont à l'infirmerie avant ce match.",
+   "en": "Two key first-team players are in the treatment room before that match.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À suivre aujourd'hui, le Grand Prix d'Italie de Formule 1.",
+   "en": "Also to follow today, the Italian «Grand Prix» in Formula One.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est la treizième manche de la saison deux mille vingt-six.",
+   "en": "It is the thirteenth round of the 2026 season.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La course est diffusée en direct à quatorze heures cinquante-cinq, sur Canal Plus.",
+   "en": "The race is shown live at five to three in the afternoon, on «Canal Plus».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport.",
+   "en": "And that is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Sunday 6 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Football: Marseille host Paris FC in Ligue 1 on Sunday evening",
+ "summary_en": [
+  "Football: Marseille host Paris FC in Ligue 1 on Sunday evening",
+  "Football: Lens travel to Slavia Prague in the Champions League on Thursday, two first-team players out injured"
+ ]
+}

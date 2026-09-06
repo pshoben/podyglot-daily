@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-FR-Le journal du matin, dimanche 6 septembre",
+   "file": "podcast-daily-2026-09-06-morning-news-fr-FR.json",
+   "bytes": 8086,
+   "sha256": "2b25937dacc25765f1b2b57221f542b1e153c9033a09aefa827f67e447897fb4",
+   "date": "2026-09-06",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, dimanche 6 septembre",
+   "title_en": "The morning news, Sunday 6 September",
+   "headline_en": "Trump's envoys Witkoff and Kushner due in Kyiv after Saturday's Moscow talks",
+   "summary_en": [
+    "Trump's envoys Witkoff and Kushner due in Kyiv after Saturday's Moscow talks",
+    "Counter-fires and a Chinook helicopter against the Aspe valley wildfire in the Pyrenees",
+    "Le Monde reports no breakthrough after Putin's three-hour Kremlin meeting with Trump's envoys"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, dimanche 6 septembre",
+   "file": "podcast-daily-2026-09-06-morning-sport-fr-FR.json",
+   "bytes": 4113,
+   "sha256": "b34c8510dae1a381096708cf45ec690655d67d82bc6606fca7ba375e67fc9789",
+   "date": "2026-09-06",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, dimanche 6 septembre",
+   "title_en": "Today's sport, Sunday 6 September",
+   "headline_en": "Football: Marseille host Paris FC in Ligue 1 on Sunday evening",
+   "summary_en": [
+    "Football: Marseille host Paris FC in Ligue 1 on Sunday evening",
+    "Football: Lens travel to Slavia Prague in the Champions League on Thursday, two first-team players out injured"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, dimanche 6 septembre",
+   "file": "podcast-daily-2026-09-06-morning-weather-fr-FR.json",
+   "bytes": 4919,
+   "sha256": "2a7b761ca0db17f59a828167563e362358d0794a088208ce8019eb8b005ccafd",
+   "date": "2026-09-06",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, dimanche 6 septembre",
+   "title_en": "Today's weather, Sunday 6 September",
+   "headline_en": "Meteo-France keeps six departments on orange heatwave alert, mainly in the south",
+   "summary_en": [
+    "Meteo-France keeps six departments on orange heatwave alert, mainly in the south",
+    "Sunday forecast for Bordeaux, 6th September"
+   ]
+  },
+  {
    "id": "fr-FR-Le journal du matin, samedi 5 septembre",
    "file": "podcast-daily-2026-09-05-morning-news-fr-FR.json",
    "bytes": 7632,
@@ -715,67 +776,6 @@
    "summary_en": [
     "Sixteen departments on orange thunderstorm alert from Monday afternoon",
     "Storms leave about 7,500 homes without power in the south-west"
-   ]
-  },
-  {
-   "id": "fr-FR-Le journal du matin, dimanche 23 août",
-   "file": "podcast-daily-2026-08-23-morning-news-fr-FR.json",
-   "bytes": 11925,
-   "sha256": "388322b1a3906776c3d0a36b1c9bb699c3fa43588d9dc45027ebfd0542acdb56",
-   "date": "2026-08-23",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le journal du matin, dimanche 23 août",
-   "title_en": "The morning news, Sunday 23 August",
-   "headline_en": "Zelensky says wartime elections would be a huge risk and would fracture Ukraine",
-   "summary_en": [
-    "Zelensky says wartime elections would be a huge risk and would fracture Ukraine",
-    "301 drowning deaths in France since 19th June, up 14 per cent on last year",
-    "Melenchon promises to censure the 2027 budget as the political new season opens"
-   ]
-  },
-  {
-   "id": "fr-FR-Le sport, dimanche 23 août",
-   "file": "podcast-daily-2026-08-23-morning-sport-fr-FR.json",
-   "bytes": 4543,
-   "sha256": "b21afcf36203810712ef6b84defe3824c76c20a3490d54615ee1aedc64ea4be5",
-   "date": "2026-08-23",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le sport, dimanche 23 août",
-   "title_en": "Today's sport, Sunday 23 August",
-   "headline_en": "France play Serbia in Orleans in the basketball World Cup build-up",
-   "summary_en": [
-    "France play Serbia in Orleans in the basketball World Cup build-up",
-    "Arthur Fils plays the Cincinnati Masters 1000 final on Sunday"
-   ]
-  },
-  {
-   "id": "fr-FR-La météo, dimanche 23 août",
-   "file": "podcast-daily-2026-08-23-morning-weather-fr-FR.json",
-   "bytes": 4672,
-   "sha256": "ec2177fef5f31525e3784196cbd003d4de74b116b4d99c30e795b78347948aad",
-   "date": "2026-08-23",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "La météo, dimanche 23 août",
-   "title_en": "Today's weather, Sunday 23 August",
-   "headline_en": "Paris today: overcast, with a high of 25 degrees",
-   "summary_en": [
-    "Paris today: overcast, with a high of 25 degrees",
-    "Marseille today: scattered cloud, with a high of 29 degrees"
    ]
   }
  ]

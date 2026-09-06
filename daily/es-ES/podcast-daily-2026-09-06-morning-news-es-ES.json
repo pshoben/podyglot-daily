@@ -1,0 +1,380 @@
+{
+ "title": "El informativo de la mañana, domingo 6 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-news",
+   "wpm": 208,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-06",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Domingo seis de septiembre, siete de la mañana.",
+   "en": "Sunday the 6th of September, seven in the morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El informativo de la mañana.",
+   "en": "The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sajonia-Anhalt vota hoy, con la ultraderecha alemana por delante en los sondeos.",
+   "en": "«Sajonia-Anhalt» votes today, with the German far right ahead in the polls.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el Gobierno de Pedro Sánchez desclasificará",
+   "en": "And «Pedro Sánchez»'s government will declassify",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "los informes de los días de la entrada masiva en Ceuta.",
+   "en": "the reports from the days of the mass entry into «Ceuta».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Nos vamos hasta Alemania.",
+   "en": "We go now to Germany.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sajonia-Anhalt, en el este del país,",
+   "en": "«Sajonia-Anhalt», in the east of the country,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "celebra hoy sus elecciones regionales.",
+   "en": "holds its regional elections today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según ABC, las encuestas dan a Alternativa para Alemania",
+   "en": "According to «ABC», the polls give «Alternativa para Alemania»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "más del cuarenta por ciento de los votos.",
+   "en": "more than 40 per cent of the vote.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su programa promete retirar el asilo a los ucranianos como refugiados de guerra.",
+   "en": "Its programme promises to withdraw asylum from Ukrainians as war refugees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y pide el fin de las sanciones europeas a Rusia y la vuelta del gas ruso.",
+   "en": "And it calls for an end to Europe's sanctions on Russia and the return of Russian gas.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en España, el Gobierno desclasificará todos los informes de aquellos días en Ceuta.",
+   "en": "Here in Spain, the government will declassify all the reports from those days in «Ceuta».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pedro Sánchez lo anunció en el Congreso,",
+   "en": "«Pedro Sánchez» announced it in parliament,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "donde compareció el jueves por la crisis de Ceuta.",
+   "en": "where he appeared on Thursday over the «Ceuta» crisis.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El País adelanta que la entrega llegará este martes.",
+   "en": "«El País» says the handover comes this Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Con esos documentos, el Ejecutivo quiere demostrar que no hubo avisos previos.",
+   "en": "With those documents, the cabinet wants to show there were no warnings beforehand.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El presidente defendió su gestión y evitó acusar a Marruecos sin pruebas.",
+   "en": "The prime minister defended his handling of it and avoided accusing Morocco without proof.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos en España,",
+   "en": "Still in Spain,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el líder del Partido Popular ha llevado la crisis de Ceuta a las capitales europeas.",
+   "en": "the People's Party leader has taken the «Ceuta» crisis to European capitals.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ABC cuenta que Alberto Núñez Feijóo habló directamente con varios primeros ministros.",
+   "en": "«ABC» says «Alberto Núñez Feijóo» spoke directly to several prime ministers.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El País añade que José María Aznar le aconsejó ser contundente con Marruecos.",
+   "en": "«El País» adds that «José María Aznar» advised him to be firm with Morocco.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La dirección del partido avisa de que la relación con Marruecos cambiará",
+   "en": "The party leadership warns that the relationship with Morocco will change",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "si llega al Gobierno.",
+   "en": "if it reaches government.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el resto de la actualidad,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Vanguardia informa sobre el origen de la entrada en Ceuta.",
+   "en": "«La Vanguardia» reports on where the entry into «Ceuta» came from.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para la policía fronteriza,",
+   "en": "For the border police,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "una entrada tan masiva no se puede deber al azar ni a la difusión espontánea.",
+   "en": "an entry on that scale cannot be down to chance or to spontaneous spread.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Gobierno enmarca lo ocurrido en los mensajes difundidos por las nuevas tecnologías.",
+   "en": "The government puts what happened down to the messages spread through the new technologies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Moncloa cree que hay un responsable,",
+   "en": "«Moncloa» believes someone is responsible,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pero aún no sabe quién es.",
+   "en": "but does not yet know who.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para terminar, la princesa Leonor empieza mañana la universidad.",
+   "en": "And finally, Princess «Leonor» starts university tomorrow.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Estudiará Ciencias Políticas en la Universidad Carlos III de Madrid.",
+   "en": "She will study political science at the «Carlos III» University in «Madrid».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El objetivo es mantener la normalidad y que siga siendo una alumna más.",
+   "en": "The aim is to keep things normal and for her to remain just another student.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí lo esencial.",
+   "en": "That's the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Sunday 6 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Germany's Saxony-Anhalt votes in a regional election with the far-right AfD ahead in the polls",
+ "summary_en": [
+  "Germany's Saxony-Anhalt votes in a regional election with the far-right AfD ahead in the polls",
+  "Spain's government will declassify the Ceuta reports to back its case that nobody was warned",
+  "Spanish opposition leader Alberto Nunez Feijoo takes his party's case on Ceuta to European capitals"
+ ]
+}

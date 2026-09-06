@@ -1,0 +1,199 @@
+{
+ "title": "La météo, dimanche 6 septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-06",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Six départements sont maintenus ce dimanche en vigilance orange pour la canicule, selon Météo-France.",
+   "en": "Six departments are being kept on an orange heatwave alert this Sunday, «Météo-France» says.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est le sud du pays qui est le plus concerné par cette vague de chaleur.",
+   "en": "It is the south of the country that is most affected by this hot spell.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'après les modèles de Météo-France, la journée bordelaise oscille aujourd'hui entre vingt-quatre et trente-six degrés.",
+   "en": "The «Météo-France» models put «Bordeaux» between twenty-four and thirty-six degrees today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ciel reste couvert au-dessus de la ville,",
+   "en": "The sky stays overcast above the city,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent ne dépasse pas quinze kilomètres par heure.",
+   "en": "and the wind does not get past fifteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Marseille reste elle aussi sous les nuages,",
+   "en": "«Marseille» also stays under cloud,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un maximum de trente degrés.",
+   "en": "with a high of thirty degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le minimum marseillais est de vingt-trois degrés,",
+   "en": "The «Marseille» low is twenty-three degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent culmine à quatorze kilomètres par heure.",
+   "en": "and the wind peaks at fourteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Paris, le maximum de la journée ne va pas au-delà de vingt-neuf degrés.",
+   "en": "In «Paris», the day's high goes no further than twenty-nine degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le thermomètre parisien tombe jusqu'à quinze degrés,",
+   "en": "The «Paris» thermometer falls as low as fifteen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sous un ciel également couvert.",
+   "en": "under a sky that is overcast too.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent se limite à douze kilomètres par heure dans la capitale.",
+   "en": "The wind is held to twelve kilometres an hour in the capital.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Bordeaux comme à Marseille,",
+   "en": "In «Bordeaux» as in «Marseille»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le minimum ne descend pas sous vingt-trois degrés,",
+   "en": "the low stays at twenty-three degrees or above;",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "contre quinze degrés à Paris.",
+   "en": "in «Paris» it is fifteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo.",
+   "en": "And that is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Sunday 6 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Meteo-France keeps six departments on orange heatwave alert, mainly in the south",
+ "summary_en": [
+  "Meteo-France keeps six departments on orange heatwave alert, mainly in the south",
+  "Sunday forecast for Bordeaux, 6th September"
+ ]
+}

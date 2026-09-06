@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-BE-Le sept heures, dimanche 6 septembre",
+   "file": "podcast-daily-2026-09-06-morning-news-fr-BE.json",
+   "bytes": 7250,
+   "sha256": "bfda64ae390567ffdede9d1343ae60bfa7755cf08c2d643a5f667f7c1c608d7a",
+   "date": "2026-09-06",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, dimanche 6 septembre",
+   "title_en": "The morning news, Sunday 6 September",
+   "headline_en": "Putin receives Trump's envoys in Moscow",
+   "summary_en": [
+    "Putin receives Trump's envoys in Moscow",
+    "Iran promises harsher reprisals after US strikes on tankers",
+    "Trump's envoys due in Kyiv on Sunday"
+   ]
+  },
+  {
+   "id": "fr-BE-Le sport chez nous, dimanche 6 septembre",
+   "file": "podcast-daily-2026-09-06-morning-sport-fr-BE.json",
+   "bytes": 4145,
+   "sha256": "ba077337532ae8afd03e843fc0edc4334c77b735749f7debfc839483ee65c180",
+   "date": "2026-09-06",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sport chez nous, dimanche 6 septembre",
+   "title_en": "Today's sport, Sunday 6 September",
+   "headline_en": "Cycling: the Vuelta's 15th stage is cut short by the heat",
+   "summary_en": [
+    "Cycling: the Vuelta's 15th stage is cut short by the heat",
+    "Basketball: the Belgian Cats meet Puerto Rico at the World Cup"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, dimanche 6 septembre",
+   "file": "podcast-daily-2026-09-06-morning-weather-fr-BE.json",
+   "bytes": 4912,
+   "sha256": "c44a740bd13390796c767857851144e1149ff54e2a8c4efff605c6fcdd5a44f4",
+   "date": "2026-09-06",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, dimanche 6 septembre",
+   "title_en": "Today's weather, Sunday 6 September",
+   "headline_en": "Sunday forecast for Bruxelles, 6th September",
+   "summary_en": [
+    "Sunday forecast for Bruxelles, 6th September",
+    "Sunday forecast for Liège, 6th September"
+   ]
+  },
+  {
    "id": "fr-BE-Le sept heures, samedi 5 septembre",
    "file": "podcast-daily-2026-09-05-morning-news-fr-BE.json",
    "bytes": 7546,
@@ -652,47 +713,6 @@
    "summary_en": [
     "Brussels today: overcast, with a high of 21 degrees",
     "Liege today: overcast, with a high of 21 degrees"
-   ]
-  },
-  {
-   "id": "fr-BE-Le sept heures, dimanche 23 août",
-   "file": "podcast-daily-2026-08-23-morning-news-fr-BE.json",
-   "bytes": 7979,
-   "sha256": "5bf0b89732565e03b568f254610c5c4e77e93aeb3f3ad5cc65ff35dddc48aee4",
-   "date": "2026-08-23",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le sept heures, dimanche 23 août",
-   "title_en": "The morning news, Sunday 23 August",
-   "headline_en": "Zelensky says wartime elections would endanger Ukraine and fracture the country",
-   "summary_en": [
-    "Zelensky says wartime elections would endanger Ukraine and fracture the country",
-    "The Hautes Fagnes fire flared up again overnight, with smoke building",
-    "Only two thirds of foreign drivers fined in Belgium actually pay"
-   ]
-  },
-  {
-   "id": "fr-BE-Le temps chez nous, dimanche 23 août",
-   "file": "podcast-daily-2026-08-23-morning-weather-fr-BE.json",
-   "bytes": 4677,
-   "sha256": "83d10d216c1b39ed335715bfc2faa12800dd253826e2ddd7a23434c9eed04077",
-   "date": "2026-08-23",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le temps chez nous, dimanche 23 août",
-   "title_en": "Today's weather, Sunday 23 August",
-   "headline_en": "Brussels today: drizzle, between ten and nineteen degrees",
-   "summary_en": [
-    "Brussels today: drizzle, between ten and nineteen degrees",
-    "Liege today: overcast, between ten and nineteen degrees"
    ]
   }
  ]

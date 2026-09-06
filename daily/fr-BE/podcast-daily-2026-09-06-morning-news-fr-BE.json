@@ -1,0 +1,270 @@
+{
+ "title": "Le sept heures, dimanche 6 septembre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-news",
+   "wpm": 222,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-06",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Dimanche six septembre. Le sept heures.",
+   "en": "Sunday 6th September. The seven o'clock news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Vladimir Poutine a reçu les émissaires de Donald Trump.",
+   "en": "Vladimir Putin has received «Donald Trump»'s envoys.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'armée américaine dit avoir frappé trois pétroliers iraniens.",
+   "en": "The American military says it struck three Iranian tankers.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On ouvre avec la Russie, où les émissaires américains sont arrivés samedi à Moscou.",
+   "en": "We open with Russia, where the American envoys arrived in Moscow on Saturday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il s'agit de Steve Witkoff et de Jared Kushner, écrit La Libre.",
+   "en": "They are «Steve Witkoff» and «Jared Kushner», «La Libre» writes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Donald Trump a dit qu'ils portaient une proposition pour mettre fin à la guerre.",
+   "en": "«Donald Trump» said they were carrying a proposal to end the war.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le journal ajoute que le président russe s'est dit confiant.",
+   "en": "The paper adds that the Russian president said he was confident.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'entretien a duré trois heures, note Le Vif.",
+   "en": "The talks ran for three hours, «Le Vif» notes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'après la RTBF, les deux hommes se rendent ensuite à Kiev, ce dimanche.",
+   "en": "According to «RTBF», the two men travel on to Kyiv this Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Chez 7sur7, la Maison Blanche parle de plans substantiels pour arrêter la guerre.",
+   "en": "Over at «7sur7», the White House is talking about substantial plans to stop the war.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ailleurs dans l'actu, l'armée iranienne a promis samedi des représailles plus dures.",
+   "en": "In other news, the Iranian army promised on Saturday harsher reprisals.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon la DH, elles viseraient les bâtiments de guerre américains.",
+   "en": "«DH» says they would be aimed at American warships.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La condition, c'est que Washington poursuive ses frappes contre des navires iraniens.",
+   "en": "The condition is that Washington keeps up its strikes on Iranian ships.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La RTBF rapporte que l'Iran dit avoir déjà attaqué des pétroliers liés aux États-Unis.",
+   "en": "«RTBF» reports that Iran says it has already attacked tankers linked to the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour terminer, des élections régionales se tiennent aujourd'hui en Saxe-Anhalt, en Allemagne.",
+   "en": "Lastly, a regional election is being held today in Saxony-Anhalt, in Germany.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Libre présente le parti Alternative pour l'Allemagne comme le grand favori de ces élections.",
+   "en": "«La Libre» has the Alternative for Germany party as the big favourite in that election.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Vif décrit un petit Land de l'est du pays.",
+   "en": "«Le Vif» describes a small Land in the east of the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le scrutin y est très disputé.",
+   "en": "The vote there is closely fought.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le magazine écrit aussi que l'extrême droite pourrait arriver au pouvoir dans une région allemande.",
+   "en": "The magazine goes on to say the far right could come to power in a German region.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce serait une première depuis la fin du nazisme.",
+   "en": "That would be a first since the end of Nazism.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "7sur7 met notamment en avant des divisions persistantes entre l'Est et l'Ouest.",
+   "en": "«7sur7» points in particular to lasting divisions between East and West.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est le constat de la chargée du gouvernement fédéral pour l'Est, Elisabeth Kaiser.",
+   "en": "That is the assessment of the federal government's commissioner for the east, «Elisabeth Kaiser».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La réunification allemande remonte à près de quarante ans.",
+   "en": "German reunification was nearly forty years ago.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà où nous en sommes.",
+   "en": "And that is where things stand.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Sunday 6 September",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Putin receives Trump's envoys in Moscow",
+ "summary_en": [
+  "Putin receives Trump's envoys in Moscow",
+  "Iran promises harsher reprisals after US strikes on tankers",
+  "Trump's envoys due in Kyiv on Sunday"
+ ]
+}

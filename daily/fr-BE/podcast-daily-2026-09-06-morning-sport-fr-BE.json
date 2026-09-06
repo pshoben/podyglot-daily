@@ -1,0 +1,159 @@
+{
+ "title": "Le sport chez nous, dimanche 6 septembre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-sport",
+   "wpm": 222,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-06",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "En piste aujourd'hui, le cyclisme, avec la quinzième étape du Tour d'Espagne.",
+   "en": "In action today, cycling, with the fifteenth stage of the Tour of Spain.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La RTBF signale un parcours raccourci à cause de la chaleur.",
+   "en": "«RTBF» says the route has been shortened because of the heat.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On pourrait atteindre les quarante degrés sur les routes de la Vuelta.",
+   "en": "Temperatures could reach 40 degrees on the «Vuelta» roads.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Deux côtes répertoriées figurent aussi au programme du jour.",
+   "en": "Two categorised climbs also feature today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La première arrive après vingt kilomètres.",
+   "en": "The first comes after 20 kilometres.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La DH ajoute que les organisateurs ont annoncé samedi l'activation d'un protocole.",
+   "en": "«DH» adds that the organisers announced on Saturday that a protocol had been triggered.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il est prévu pour les conditions météorologiques extrêmes.",
+   "en": "It is meant for extreme weather conditions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le parcours compte quatre-vingts kilomètres de moins, précise le journal.",
+   "en": "The route is 80 kilometres shorter, the paper says.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le basket maintenant, les Belgian Cats affrontent Porto Rico cet après-midi.",
+   "en": "Basketball now, and the «Belgian Cats» face Puerto Rico this afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La DH écrit qu'elles poursuivent là leur parcours au Mondial.",
+   "en": "«DH» writes that this is where their World Cup run carries on.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Leur entraîneur Mike Thibault dit aborder ce match comme le premier.",
+   "en": "Their coach «Mike Thibault» says he is approaching this game like the first one.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon la RTBF, il reste deux matches à la Belgique dans le groupe C.",
+   "en": "According to «RTBF», Belgium has two games left in group C.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On s'arrête là pour le sport belge.",
+   "en": "We leave Belgian sport there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Sunday 6 September",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Cycling: the Vuelta's 15th stage is cut short by the heat",
+ "summary_en": [
+  "Cycling: the Vuelta's 15th stage is cut short by the heat",
+  "Basketball: the Belgian Cats meet Puerto Rico at the World Cup"
+ ]
+}

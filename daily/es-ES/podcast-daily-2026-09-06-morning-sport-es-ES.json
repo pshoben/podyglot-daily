@@ -1,0 +1,219 @@
+{
+ "title": "Los deportes, domingo 6 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-sport",
+   "wpm": 208,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-06",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lo que se juega hoy en el fútbol español.",
+   "en": "What is on today in Spanish football.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Valencia recibe al Barcelona en Mestalla,",
+   "en": "«Valencia» host «Barcelona» at «Mestalla»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a las cuatro y cuarto de la tarde.",
+   "en": "at a quarter past four this afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Barcelona se despide hoy de Mestalla en la Liga.",
+   "en": "«Barcelona» say goodbye to «Mestalla» in the league today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su primer partido en ese campo se jugó en mil novecientos veinticinco.",
+   "en": "Their first match on that ground was played in 1925.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "AS apunta que solo en su propio estadio ha jugado más veces el equipo azulgrana.",
+   "en": "«AS» notes that the only ground where the club has played more often is its own.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Rodri, el gran fichaje del verano,",
+   "en": "«Rodri», the big signing of the summer,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "podría debutar allí como titular.",
+   "en": "could make his first start there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Si juega, el centrocampista llegará a cien partidos en la Liga española.",
+   "en": "If he plays, the midfielder reaches a hundred matches in the Spanish league.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La duda del Barcelona es Lamine Yamal,",
+   "en": "«Lamine Yamal» is a doubt for «Barcelona»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pendiente de si entra en el once.",
+   "en": "with his place in the starting line-up still to be settled.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En los campos, el Alavés recibe al Osasuna en Mendizorroza, en la cuarta jornada.",
+   "en": "Elsewhere on the pitch, «Alavés» host «Osasuna» at «Mendizorroza» in the fourth round.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se juega a las seis y media de la tarde.",
+   "en": "Kick-off is at half past six this afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Málaga vuelve a La Rosaleda, esta vez ante el Levante.",
+   "en": "«Málaga» are back at «La Rosaleda», this time against «Levante».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es su segundo partido en casa desde el regreso a Primera División.",
+   "en": "It is their second home match since coming back up to the top flight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el Sevilla visita al Espanyol en el RCDE Stadium,",
+   "en": "And «Sevilla» visit «Espanyol» at the «RCDE Stadium»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a las nueve de la noche.",
+   "en": "at nine tonight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Sevilla ha convocado a veinticuatro jugadores.",
+   "en": "«Sevilla» have named twenty-four players.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí los deportes.",
+   "en": "That's the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Sunday 6 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Valencia host Barcelona at Mestalla in Spain's top football division",
+ "summary_en": [
+  "Valencia host Barcelona at Mestalla in Spain's top football division",
+  "Barcelona's last league visit to the old Mestalla football ground"
+ ]
+}

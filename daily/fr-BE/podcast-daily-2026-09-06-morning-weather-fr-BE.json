@@ -1,0 +1,219 @@
+{
+ "title": "Le temps chez nous, dimanche 6 septembre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-weather",
+   "wpm": 222,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-06",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le modèle du Centre européen, l'ECMWF,",
+   "en": "The European Centre model, the ECMWF,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "place Bruxelles sous un ciel couvert.",
+   "en": "has Brussels under an overcast sky.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le maximum est attendu à vingt-quatre degrés,",
+   "en": "The high is expected to reach 24 degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec douze degrés au plus bas.",
+   "en": "with 12 degrees at the lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le risque de pluie se limite aujourd'hui à deux pour cent.",
+   "en": "The risk of rain today goes no higher than 2 per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent ne dépasse pas neuf kilomètres par heure.",
+   "en": "The wind tops out at 9 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Liège, la probabilité de pluie tombe même à zéro pour cent.",
+   "en": "In «Liège», the chance of rain drops all the way to zero per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le maximum est identique à celui de la capitale, vingt-quatre degrés.",
+   "en": "The high is the same as the capital's, 24 degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Onze degrés pour le minimum,",
+   "en": "Eleven degrees for the low,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un de moins que sur Bruxelles.",
+   "en": "one less than in Brussels.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y faiblit encore,",
+   "en": "The wind eases further there,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à huit kilomètres par heure.",
+   "en": "to 8 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ciel, lui, reste couvert.",
+   "en": "As for the sky, it stays overcast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Namur prend un degré de plus, à vingt-cinq degrés.",
+   "en": "«Namur» is a degree warmer, at 25 degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le minimum s'aligne sur celui de Liège, onze degrés.",
+   "en": "The low lines up with the one in «Liège», 11 degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le risque de pluie revient à deux pour cent, comme sur Bruxelles.",
+   "en": "The risk of rain is back at 2 per cent, as in Brussels.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent s'établit à douze kilomètres par heure.",
+   "en": "The wind settles at 12 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ciel couvert également au-dessus de Namur.",
+   "en": "An overcast sky above «Namur» too.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le temps chez nous.",
+   "en": "That is the weather here at home.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Sunday 6 September",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Sunday forecast for Bruxelles, 6th September",
+ "summary_en": [
+  "Sunday forecast for Bruxelles, 6th September",
+  "Sunday forecast for Liège, 6th September"
+ ]
+}

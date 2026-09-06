@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-FR",
+ "date": "2026-09-06",
+ "episodes": [
+  {
+   "id": "fr-FR-Le journal du matin, dimanche 6 septembre",
+   "file": "podcast-daily-2026-09-06-morning-news-fr-FR.json",
+   "bytes": 8086,
+   "sha256": "2b25937dacc25765f1b2b57221f542b1e153c9033a09aefa827f67e447897fb4",
+   "date": "2026-09-06",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, dimanche 6 septembre",
+   "title_en": "The morning news, Sunday 6 September",
+   "headline_en": "Trump's envoys Witkoff and Kushner due in Kyiv after Saturday's Moscow talks",
+   "summary_en": [
+    "Trump's envoys Witkoff and Kushner due in Kyiv after Saturday's Moscow talks",
+    "Counter-fires and a Chinook helicopter against the Aspe valley wildfire in the Pyrenees",
+    "Le Monde reports no breakthrough after Putin's three-hour Kremlin meeting with Trump's envoys"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, dimanche 6 septembre",
+   "file": "podcast-daily-2026-09-06-morning-sport-fr-FR.json",
+   "bytes": 4113,
+   "sha256": "b34c8510dae1a381096708cf45ec690655d67d82bc6606fca7ba375e67fc9789",
+   "date": "2026-09-06",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, dimanche 6 septembre",
+   "title_en": "Today's sport, Sunday 6 September",
+   "headline_en": "Football: Marseille host Paris FC in Ligue 1 on Sunday evening",
+   "summary_en": [
+    "Football: Marseille host Paris FC in Ligue 1 on Sunday evening",
+    "Football: Lens travel to Slavia Prague in the Champions League on Thursday, two first-team players out injured"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, dimanche 6 septembre",
+   "file": "podcast-daily-2026-09-06-morning-weather-fr-FR.json",
+   "bytes": 4919,
+   "sha256": "2a7b761ca0db17f59a828167563e362358d0794a088208ce8019eb8b005ccafd",
+   "date": "2026-09-06",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, dimanche 6 septembre",
+   "title_en": "Today's weather, Sunday 6 September",
+   "headline_en": "Meteo-France keeps six departments on orange heatwave alert, mainly in the south",
+   "summary_en": [
+    "Meteo-France keeps six departments on orange heatwave alert, mainly in the south",
+    "Sunday forecast for Bordeaux, 6th September"
+   ]
+  }
+ ],
+ "content": "616dc9ed3aaf45ed3bc6e8e38f8851abedb50346b71bde37c71ec331c1b89c48",
+ "rev": 1,
+ "updated": "2026-09-06T06:41:33.444Z"
+}

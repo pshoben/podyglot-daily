@@ -1,0 +1,153 @@
+{
+ "title": "El tiempo en Canarias, domingo 6 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-canarias",
+   "wpm": 208,
+   "rate_multiplier": 0.86,
+   "pitch_multiplier": 0.59
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-canarias",
+ "date": "2026-09-06",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Con el alisio, Las Palmas de Gran Canaria tiene hoy viento del norte.",
+   "en": "With the trade wind, «Las Palmas de Gran Canaria» has a northerly today.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sopla a treinta y cinco kilómetros por hora.",
+   "en": "It blows at 35 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Aemet cifra la máxima en veintiocho grados y la mínima en veinticuatro.",
+   "en": "«Aemet» puts the high at 28 degrees and the low at 24.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Las Palmas domina el cielo muy nuboso,",
+   "en": "«Las Palmas» is mostly cloudy,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con un veinte por ciento de probabilidad de lluvia.",
+   "en": "with a 20 per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por la tarde esa probabilidad se reduce al quince por ciento.",
+   "en": "In the afternoon that chance comes down to 15 per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Santa Cruz de Tenerife no hay ni una nube, ni lluvia prevista.",
+   "en": "In «Santa Cruz de Tenerife» there is not a cloud, and no rain forecast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí se esperan treinta y un grados de máxima,",
+   "en": "There, 31 degrees is the high,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y otra vez veinticuatro de mínima.",
+   "en": "and 24 again for the low.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento del norte gira al noroeste y alcanza los cuarenta kilómetros por hora.",
+   "en": "The northerly wind turns north-westerly and reaches 40 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El índice ultravioleta marca nueve.",
+   "en": "The ultraviolet index reads nine.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es Canarias.",
+   "en": "That is «Canarias».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 4,
+ "handover": "junction",
+ "title_en": "Today's weather, Canary Islands, Sunday 6 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Canarias",
+ "accent": "Canarias",
+ "accent_label": "acento de Canarias",
+ "segment_order": 2,
+ "headline_en": "Sunday AEMET forecast for Las Palmas de Gran Canaria, 6th September",
+ "summary_en": [
+  "Sunday AEMET forecast for Las Palmas de Gran Canaria, 6th September",
+  "Sunday AEMET forecast for Santa Cruz de Tenerife, 6th September"
+ ]
+}
