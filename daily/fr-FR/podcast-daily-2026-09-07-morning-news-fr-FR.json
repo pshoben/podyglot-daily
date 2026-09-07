@@ -1,0 +1,360 @@
+{
+ "title": "Le journal du matin, lundi 7 septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-07",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Sept heures à Paris, ce lundi sept septembre. Le journal du matin.",
+   "en": "Seven o'clock in «Paris», this Monday the 7th of September. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Allemagne, l'extrême droite remporte l'élection régionale de Saxe-Anhalt.",
+   "en": "In Germany, the far right wins the regional election in Saxony-Anhalt.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et à Paris, le procès de l'assassinat de l'ancien rugbyman Federico Martín Aramburú s'ouvre aujourd'hui.",
+   "en": "And in «Paris», the trial over the killing of the former rugby player «Federico Martín Aramburú» opens today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le détail, et d'abord la Saxe-Anhalt,",
+   "en": "The detail, and first Saxony-Anhalt,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où le scrutin se tenait dimanche.",
+   "en": "where the vote was held on Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est un Land de l'ancienne Allemagne de l'Est.",
+   "en": "It is a state in the former East Germany.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le parti Alternative für Deutschland, fondé en deux mille treize,",
+   "en": "The «Alternative für Deutschland» party, founded in 2013,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y signe le meilleur résultat de son histoire.",
+   "en": "records the best result in its history.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon les premières estimations, il recueille environ quarante-quatre pour cent des voix.",
+   "en": "According to the first estimates, it takes about forty-four per cent of the vote.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le parti du chancelier Friedrich Merz, lui, subit un revers.",
+   "en": "Chancellor «Friedrich Merz»'s party, meanwhile, suffers a setback.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il n'est pas certain, à ce stade,",
+   "en": "It is not certain, at this stage,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que l'extrême droite puisse gouverner la région.",
+   "en": "that the far right will be able to govern the region.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, l'ancien international argentin avait été tué par balles à Paris.",
+   "en": "In France, the former Argentina international had been shot dead in «Paris».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'était le dix-neuf mars deux mille vingt-deux, boulevard Saint-Germain, après une bagarre.",
+   "en": "It was on the 19th of March 2022, on the boulevard «Saint-Germain», after a brawl.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'audience se tient devant la cour d'assises de Paris et doit durer plusieurs semaines.",
+   "en": "The hearing is at the «Paris» assize court and is due to run for several weeks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Deux militants d'ultradroite figurent parmi les accusés.",
+   "en": "Two ultra-right activists are among the accused.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Toujours en France.",
+   "en": "Still in France.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Une proposition de loi contre les violences sexistes et sexuelles arrive à l'Assemblée nationale.",
+   "en": "A bill against sexist and sexual violence has reached the National Assembly.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les députés l'examinent en commission.",
+   "en": "MPs are examining it in committee.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le texte vise à réformer la protection des femmes et des enfants.",
+   "en": "The text aims to reform the protection of women and children.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre sujet maintenant, en Ukraine,",
+   "en": "Turning to something else, in Ukraine,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les deux émissaires de Donald Trump ont quitté Kiev.",
+   "en": "Donald Trump's two envoys have left Kyiv.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Steve Witkoff et Jared Kushner y avaient mené des pourparlers avec Volodymyr Zelensky.",
+   "en": "«Steve Witkoff» and «Jared Kushner» had held talks there with «Volodymyr Zelensky».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'était au lendemain de leur rencontre avec Vladimir Poutine.",
+   "en": "It was the day after their meeting with Vladimir Putin.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ils ont présenté de nouvelles propositions pour tenter de trouver un accord.",
+   "en": "They put forward new proposals to try to reach an agreement.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon un responsable ukrainien, ces propositions sont plus efficaces.",
+   "en": "According to a Ukrainian official, those proposals are more effective.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à autre chose, l'Organisation météorologique mondiale alerte sur la qualité de l'air.",
+   "en": "Moving on, the World Meteorological Organization is warning about air quality.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle met en cause la multiplication des feux de forêt et des vagues de chaleur.",
+   "en": "It points to the rising number of forest fires and heatwaves.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les conséquences sanitaires sont, selon elle, largement sous-estimées.",
+   "en": "The health consequences, it says, are largely underestimated.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Une dernière information, le ZEvent a bouclé sa dixième et dernière édition.",
+   "en": "One last item, the «ZEvent» has closed its tenth and final edition.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce marathon caritatif de streamers existe depuis deux mille seize.",
+   "en": "This charity marathon by streamers has been running since 2016.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a récolté plus de trente-deux millions d'euros de dons.",
+   "en": "It has raised more than thirty-two million euros in donations.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is where the main news stands.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Monday 7 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "The far-right AfD wins the regional election in Saxony-Anhalt, its best result yet",
+ "summary_en": [
+  "The far-right AfD wins the regional election in Saxony-Anhalt, its best result yet",
+  "The trial over the killing of rugby player Federico Martin Aramburu opens in Paris",
+  "First estimates put the AfD at around 44 percent of the vote in Saxony-Anhalt"
+ ]
+}

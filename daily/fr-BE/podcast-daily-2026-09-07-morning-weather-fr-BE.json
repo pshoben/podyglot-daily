@@ -1,0 +1,189 @@
+{
+ "title": "Le temps chez nous, lundi 7 septembre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-weather",
+   "wpm": 222,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-07",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Éclaircies et champs nuageux vont se partager le ciel aujourd'hui,",
+   "en": "Sunny spells and cloud fields will share the sky today,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon les prévisions de l'Institut royal météorologique.",
+   "en": "on the «Institut royal météorologique» forecast.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le modèle du Centre européen, l'ECMWF,",
+   "en": "The European Centre model, the ECMWF,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pousse Namur jusqu'à vingt-neuf degrés.",
+   "en": "pushes «Namur» up to 29 degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le minimum namurois ne descend pas plus bas que dix-huit degrés.",
+   "en": "The low in «Namur» does not drop below 18 degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La pluie n'est donnée qu'à huit pour cent de probabilité sur la ville.",
+   "en": "Rain is given only an 8 per cent chance over the city.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y monte jusqu'à dix-huit kilomètres par heure dans la journée.",
+   "en": "The wind there gets up to 18 kilometres an hour during the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Liège partage très exactement les mêmes valeurs, vingt-neuf et dix-huit degrés.",
+   "en": "«Liège» has exactly the same numbers, 29 degrees and 18.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le risque de pluie y descend d'un point, à sept pour cent.",
+   "en": "The chance of rain there drops a point, to 7 per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent liégeois plafonne un peu plus bas,",
+   "en": "The «Liège» wind tops out a little lower,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à dix-sept kilomètres par heure.",
+   "en": "at 17 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Bruxelles, le maximum de la journée s'arrête à vingt-sept degrés.",
+   "en": "In Brussels, the high for the day stops at 27 degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le minimum bruxellois, lui, tombe à dix-sept degrés.",
+   "en": "The Brussels low falls to 17 degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sur la capitale, la probabilité de pluie se limite à quatre pour cent.",
+   "en": "Over the capital, the chance of rain is held to 4 per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y atteint également dix-sept kilomètres par heure.",
+   "en": "The wind there also reaches 17 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le temps chez nous.",
+   "en": "That is the weather here at home.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Monday 7 September",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Monday forecast for Belgium from the IRM: sunny spells and cloud fields",
+ "summary_en": [
+  "Monday forecast for Belgium from the IRM: sunny spells and cloud fields",
+  "Monday forecast for Namur, 7th September"
+ ]
+}

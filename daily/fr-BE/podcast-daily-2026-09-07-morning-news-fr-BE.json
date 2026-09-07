@@ -1,0 +1,400 @@
+{
+ "title": "Le sept heures, lundi 7 septembre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-news",
+   "wpm": 222,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-07",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lundi sept septembre. Le sept heures.",
+   "en": "Monday 7th September. The seven o'clock news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Alternative pour l'Allemagne écrase le scrutin régional en Saxe-Anhalt.",
+   "en": "Alternative for Germany sweeps the regional election in Saxony-Anhalt.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les prisons belges entrent dans cinq jours de grève.",
+   "en": "Belgian prisons are going into five days of strike action.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On ouvre avec l'Allemagne, où le dépouillement s'est achevé vers trois heures du matin.",
+   "en": "We open with Germany, where counting finished at around three in the morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le parti d'extrême droite rassemble quarante-trois virgule huit pour cent des voix en Saxe-Anhalt,",
+   "en": "The far-right party takes 43.8 per cent of the vote in Saxony-Anhalt,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon la RTBF.",
+   "en": "according to «RTBF».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est un score historique,",
+   "en": "That is a historic score,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "mais il ne suffit pas à la majorité absolue au parlement régional.",
+   "en": "but it is not enough for an absolute majority in the regional parliament.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Alternative pour l'Allemagne devra donc trouver des alliés.",
+   "en": "Alternative for Germany will therefore have to find allies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On enchaîne, le front commun syndical du personnel pénitentiaire a lancé son action dimanche soir.",
+   "en": "Moving on, the joint prison staff unions began their action on Sunday evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle a démarré à vingt-deux heures, d'après 7sur7.",
+   "en": "It started at ten o'clock at night, «7sur7» reports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle doit se terminer vendredi onze septembre à la même heure.",
+   "en": "It is due to end on Friday 11th September at the same time.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les syndicats dénoncent la surpopulation carcérale,",
+   "en": "The unions point to prison overcrowding,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le manque de personnel et l'insalubrité.",
+   "en": "staff shortages and squalid conditions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ils réclament des réponses concrètes,",
+   "en": "They are asking for concrete answers,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec l'impression de se répéter.",
+   "en": "with the feeling that they are repeating themselves.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ailleurs dans l'actu, le gouvernement fédéral fait sa rentrée cette semaine.",
+   "en": "In other news, the federal government goes back to work this week.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mardi, Bart De Wever rencontre la Première ministre italienne Giorgia Meloni, note 7sur7.",
+   "en": "On Tuesday, «Bart De Wever» meets the Italian prime minister «Giorgia Meloni», «7sur7» notes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il entamera ensuite des réunions bilatérales sur une trajectoire budgétaire pluriannuelle.",
+   "en": "He will then start bilateral meetings on a multi-year budget path.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Libre cite encore la privatisation partielle de Belfius et le survol de Bruxelles.",
+   "en": "«La Libre» also lists selling off part of «Belfius» and the flights over Brussels.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les étudiants coincés à Gaza figurent aussi au programme.",
+   "en": "The students stranded in «Gaza» are on the agenda too.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le MR tenait sa rentrée politique dimanche,",
+   "en": "«MR» held its political return on Sunday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "au pied du Lion de Waterloo, rapporte la RTBF.",
+   "en": "at the foot of the Lion of «Waterloo», «RTBF» reports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour Georges-Louis Bouchez, refuser l'impôt est une nécessité pour le pays.",
+   "en": "For «Georges-Louis Bouchez», refusing tax is a necessity for the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre dossier maintenant, la guerre en Ukraine,",
+   "en": "Another story now, the war in Ukraine,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et une navette diplomatique sans percée.",
+   "en": "and shuttle diplomacy with no breakthrough.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les émissaires de Donald Trump,",
+   "en": "The envoys sent by «Donald Trump»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Steve Witkoff et Jared Kushner,",
+   "en": "«Steve Witkoff» and «Jared Kushner»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "se sont rendus à Moscou puis à Kiev.",
+   "en": "went to Moscow and then Kyiv.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La compagnie ferroviaire a annoncé le départ de leur train spécial.",
+   "en": "The rail company said their special train had left.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Kiev, les discussions portaient sur la fin de la guerre, écrit Le Vif.",
+   "en": "In Kyiv, the talks were about bringing the war to an end, «Le Vif» writes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon La Libre, Volodymyr Zelensky a estimé que la guerre continuerait cet hiver.",
+   "en": "According to «La Libre», «Volodymyr Zelensky» judged that the war would go on this winter.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a mis en cause l'absence de volonté russe de négocier directement avec lui.",
+   "en": "He blamed the lack of Russian willingness to negotiate directly with him.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour terminer, un avion-cargo d'Amazon est sorti de piste à l'aéroport de Miami, aux États-Unis.",
+   "en": "Lastly, an Amazon cargo plane ran off the runway at Miami airport, in the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a percuté des véhicules et pris feu dimanche, en début d'après-midi.",
+   "en": "It hit vehicles and caught fire on Sunday, in the early afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Libre chiffre le bilan à cinq morts et cinq blessés.",
+   "en": "«La Libre» puts the toll at five dead and five injured.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà où nous en sommes.",
+   "en": "And that is where things stand.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Monday 7 September",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "AfD wins the Saxony-Anhalt regional election in Germany but falls short of a majority",
+ "summary_en": [
+  "AfD wins the Saxony-Anhalt regional election in Germany but falls short of a majority",
+  "Belgian prison staff begin a five-day strike over overcrowding and staffing",
+  "Belgium's federal government returns to work with the budget on the table"
+ ]
+}

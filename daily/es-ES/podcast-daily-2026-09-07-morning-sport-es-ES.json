@@ -1,0 +1,149 @@
+{
+ "title": "Los deportes, lunes 7 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-sport",
+   "wpm": 208,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-07",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "En los campos, fútbol de Segunda División:",
+   "en": "Out on the pitches, second division football:",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el Sabadell recibe hoy al Córdoba en la Nova Creu Alta.",
+   "en": "«Sabadell» host «Córdoba» today at the «Nova Creu Alta».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El encuentro empieza a las ocho y media de la tarde.",
+   "en": "The match kicks off at half past eight in the evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para el conjunto cordobés, dirigido por Iván Ania,",
+   "en": "For «Córdoba», under their coach «Iván Ania»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "es la cuarta cita de la temporada.",
+   "en": "it is the fourth outing of the season.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El partido coincide con el último día de la Fiesta Mayor de Sabadell.",
+   "en": "The game falls on the last day of «Sabadell»'s «Fiesta Mayor».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Comité Técnico de Árbitros ha designado al valenciano Juan Manuel Gordillo Escamilla.",
+   "en": "The referees' committee has put «Juan Manuel Gordillo Escamilla», from Valencia, in charge.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y mañana arranca la fase de liga de la Liga de Campeones.",
+   "en": "And tomorrow the league phase of the Champions League begins.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Inter de Milán visita al Real Madrid en la primera jornada.",
+   "en": "«Inter» of Milan visit «Real Madrid» on the opening matchday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es el estreno europeo de los dos equipos en esta temporada.",
+   "en": "It is the European season opener for both sides.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El conjunto italiano llega tras anunciar el domingo la renovación de una de sus promesas.",
+   "en": "The Italian club arrive after announcing the contract renewal of one of their prospects on Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí los deportes.",
+   "en": "That's it for sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Monday 7 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Football: Sabadell host Cordoba at the Nova Creu Alta in Spain's second division",
+ "summary_en": [
+  "Football: Sabadell host Cordoba at the Nova Creu Alta in Spain's second division",
+  "Football: Real Madrid host Inter on the opening matchday of the Champions League"
+ ]
+}

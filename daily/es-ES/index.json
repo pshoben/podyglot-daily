@@ -5,6 +5,107 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-ES-El informativo de la mañana, lunes 7 de septiembre",
+   "file": "podcast-daily-2026-09-07-morning-news-es-ES.json",
+   "bytes": 8614,
+   "sha256": "9dbb5d66e0cb783812bf18f09b0a6f4d612c4acd231b170227412ed8c663dab9",
+   "date": "2026-09-07",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, lunes 7 de septiembre",
+   "title_en": "The morning news, Monday 7 September",
+   "headline_en": "The far-right AfD wins the regional election in Germany's Saxony-Anhalt",
+   "summary_en": [
+    "The far-right AfD wins the regional election in Germany's Saxony-Anhalt",
+    "Schools in Ceuta go back on the 8th of September after the migration crisis",
+    "Exit polls give the German far-right AfD around 44 per cent in Saxony-Anhalt"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, lunes 7 de septiembre",
+   "file": "podcast-daily-2026-09-07-morning-sport-es-ES.json",
+   "bytes": 3837,
+   "sha256": "7fb47ccc33a25a0bf8d2dc8bf62e7d3321d9da6f12e425b089e1bbcdeb81e5b3",
+   "date": "2026-09-07",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, lunes 7 de septiembre",
+   "title_en": "Today's sport, Monday 7 September",
+   "headline_en": "Football: Sabadell host Cordoba at the Nova Creu Alta in Spain's second division",
+   "summary_en": [
+    "Football: Sabadell host Cordoba at the Nova Creu Alta in Spain's second division",
+    "Football: Real Madrid host Inter on the opening matchday of the Champions League"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, lunes 7 de septiembre",
+   "file": "podcast-daily-2026-09-07-morning-weather-es-ES.json",
+   "bytes": 5725,
+   "sha256": "cebf2a3e043b4899824c0a85424e0f4774865763b90dfd215e837afbc2400df9",
+   "date": "2026-09-07",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, lunes 7 de septiembre",
+   "title_en": "Today's weather, Monday 7 September",
+   "headline_en": "A Coruña, AEMET's Monday forecast: mostly cloudy with light rain, high 24 degrees, low 18",
+   "summary_en": [
+    "A Coruña, AEMET's Monday forecast: mostly cloudy with light rain, high 24 degrees, low 18",
+    "Bilbao, AEMET's Monday forecast: cloudy with light rain, high 29 degrees, low 18"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, lunes 7 de septiembre",
+   "file": "podcast-daily-2026-09-07-morning-weather-andalucia-es-ES.json",
+   "bytes": 4071,
+   "sha256": "b2b15f9f79955052853160072c19c034e227a00d745d64b08241e023bd0d38ff",
+   "date": "2026-09-07",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, lunes 7 de septiembre",
+   "title_en": "Today's weather, Andalusia, Monday 7 September",
+   "headline_en": "Córdoba, AEMET's Monday forecast: clear all day, high 41 degrees, low 20",
+   "summary_en": [
+    "Córdoba, AEMET's Monday forecast: clear all day, high 41 degrees, low 20",
+    "Sevilla, AEMET's Monday forecast: mostly clear, high 40 degrees, low 24"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, lunes 7 de septiembre",
+   "file": "podcast-daily-2026-09-07-morning-weather-canarias-es-ES.json",
+   "bytes": 4051,
+   "sha256": "b0d2a0c6710cb2e1fdd40aa3c9eb1952e1fe9722f4fe92443de7455393ff7f5e",
+   "date": "2026-09-07",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, lunes 7 de septiembre",
+   "title_en": "Today's weather, Canary Islands, Monday 7 September",
+   "headline_en": "Santa Cruz de Tenerife, AEMET's Monday forecast: broken cloud, high 32 degrees, low 24",
+   "summary_en": [
+    "Santa Cruz de Tenerife, AEMET's Monday forecast: broken cloud, high 32 degrees, low 24",
+    "Las Palmas de Gran Canaria, AEMET's Monday forecast: overcast, high 27 degrees, low 24"
+   ]
+  },
+  {
    "id": "es-ES-El informativo de la mañana, domingo 6 de septiembre",
    "file": "podcast-daily-2026-09-06-morning-news-es-ES.json",
    "bytes": 9676,
@@ -1315,107 +1416,6 @@
    "summary_en": [
     "Las Palmas today: heavy cloud, high of 27 degrees",
     "Santa Cruz de Tenerife today: mostly clear, high of 30 degrees"
-   ]
-  },
-  {
-   "id": "es-ES-El informativo de la mañana, lunes 24 de agosto",
-   "file": "podcast-daily-2026-08-24-morning-news-es-ES.json",
-   "bytes": 10340,
-   "sha256": "b73ecd3a903dd3c4cd0197a8ad0f04fb3053425046c0b0da0d925230211b9078",
-   "date": "2026-08-24",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El informativo de la mañana, lunes 24 de agosto",
-   "title_en": "The morning news, Monday 24 August",
-   "headline_en": "Ministers begin appearing before Congress over the Ceuta crisis",
-   "summary_en": [
-    "Ministers begin appearing before Congress over the Ceuta crisis",
-    "Feijoo asks for confinement in Ceuta, and the health ministry refuses",
-    "The Norwegian palace says King Harald's health has worsened"
-   ]
-  },
-  {
-   "id": "es-ES-Los deportes, lunes 24 de agosto",
-   "file": "podcast-daily-2026-08-24-morning-sport-es-ES.json",
-   "bytes": 4564,
-   "sha256": "3fe9d23c4857d7e1fc1887e1510a05c18a80c89b514ec247a0896af610ac9020",
-   "date": "2026-08-24",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "Los deportes, lunes 24 de agosto",
-   "title_en": "Today's sport, Monday 24 August",
-   "headline_en": "Malaga host Deportivo at La Rosaleda on Monday in round two of LaLiga",
-   "summary_en": [
-    "Malaga host Deportivo at La Rosaleda on Monday in round two of LaLiga",
-    "Malaga's first top-flight home match at La Rosaleda in years"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo, lunes 24 de agosto",
-   "file": "podcast-daily-2026-08-24-morning-weather-es-ES.json",
-   "bytes": 7307,
-   "sha256": "49088f47a6dd8426b308690dc2424002029a22d0362a1785d02de1b4a9617a37",
-   "date": "2026-08-24",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": 0,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo, lunes 24 de agosto",
-   "title_en": "Today's weather, Monday 24 August",
-   "headline_en": "A borrasca west of Portugal leaves an unstable Monday over much of Spain",
-   "summary_en": [
-    "A borrasca west of Portugal leaves an unstable Monday over much of Spain",
-    "Orange rain and storm warnings from noon in Aragon and Catalonia"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo en Andalucía, lunes 24 de agosto",
-   "file": "podcast-daily-2026-08-24-morning-weather-andalucia-es-ES.json",
-   "bytes": 5599,
-   "sha256": "5fe723d735ce8066e687ad888cf0b807834637ec7229d2db0810e02803172cab",
-   "date": "2026-08-24",
-   "edition": "morning",
-   "programme": "weather-andalucia",
-   "programme_order": 3,
-   "segment_order": 1,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo en Andalucía, lunes 24 de agosto",
-   "title_en": "Today's weather, Andalusia, Monday 24 August",
-   "headline_en": "Cordoba today: cloudy with rain, high of 31 degrees",
-   "summary_en": [
-    "Cordoba today: cloudy with rain, high of 31 degrees",
-    "Seville today: heavy cloud with rain, high of 29 degrees"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo en Canarias, lunes 24 de agosto",
-   "file": "podcast-daily-2026-08-24-morning-weather-canarias-es-ES.json",
-   "bytes": 5303,
-   "sha256": "004da16555ccdc9335c119d08c2aaa7e23109572cf54bffa9778c78ea6c1f717",
-   "date": "2026-08-24",
-   "edition": "morning",
-   "programme": "weather-canarias",
-   "programme_order": 4,
-   "segment_order": 2,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo en Canarias, lunes 24 de agosto",
-   "title_en": "Today's weather, Canary Islands, Monday 24 August",
-   "headline_en": "Las Palmas today: cloudy with light rain, high of 28 degrees",
-   "summary_en": [
-    "Las Palmas today: cloudy with light rain, high of 28 degrees",
-    "Santa Cruz de Tenerife today: clearing later, high of 31 degrees"
    ]
   }
  ]

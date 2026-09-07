@@ -1,0 +1,112 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-ES",
+ "date": "2026-09-07",
+ "episodes": [
+  {
+   "id": "es-ES-El informativo de la mañana, lunes 7 de septiembre",
+   "file": "podcast-daily-2026-09-07-morning-news-es-ES.json",
+   "bytes": 8614,
+   "sha256": "9dbb5d66e0cb783812bf18f09b0a6f4d612c4acd231b170227412ed8c663dab9",
+   "date": "2026-09-07",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, lunes 7 de septiembre",
+   "title_en": "The morning news, Monday 7 September",
+   "headline_en": "The far-right AfD wins the regional election in Germany's Saxony-Anhalt",
+   "summary_en": [
+    "The far-right AfD wins the regional election in Germany's Saxony-Anhalt",
+    "Schools in Ceuta go back on the 8th of September after the migration crisis",
+    "Exit polls give the German far-right AfD around 44 per cent in Saxony-Anhalt"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, lunes 7 de septiembre",
+   "file": "podcast-daily-2026-09-07-morning-sport-es-ES.json",
+   "bytes": 3837,
+   "sha256": "7fb47ccc33a25a0bf8d2dc8bf62e7d3321d9da6f12e425b089e1bbcdeb81e5b3",
+   "date": "2026-09-07",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, lunes 7 de septiembre",
+   "title_en": "Today's sport, Monday 7 September",
+   "headline_en": "Football: Sabadell host Cordoba at the Nova Creu Alta in Spain's second division",
+   "summary_en": [
+    "Football: Sabadell host Cordoba at the Nova Creu Alta in Spain's second division",
+    "Football: Real Madrid host Inter on the opening matchday of the Champions League"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, lunes 7 de septiembre",
+   "file": "podcast-daily-2026-09-07-morning-weather-es-ES.json",
+   "bytes": 5725,
+   "sha256": "cebf2a3e043b4899824c0a85424e0f4774865763b90dfd215e837afbc2400df9",
+   "date": "2026-09-07",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, lunes 7 de septiembre",
+   "title_en": "Today's weather, Monday 7 September",
+   "headline_en": "A Coruña, AEMET's Monday forecast: mostly cloudy with light rain, high 24 degrees, low 18",
+   "summary_en": [
+    "A Coruña, AEMET's Monday forecast: mostly cloudy with light rain, high 24 degrees, low 18",
+    "Bilbao, AEMET's Monday forecast: cloudy with light rain, high 29 degrees, low 18"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, lunes 7 de septiembre",
+   "file": "podcast-daily-2026-09-07-morning-weather-andalucia-es-ES.json",
+   "bytes": 4071,
+   "sha256": "b2b15f9f79955052853160072c19c034e227a00d745d64b08241e023bd0d38ff",
+   "date": "2026-09-07",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, lunes 7 de septiembre",
+   "title_en": "Today's weather, Andalusia, Monday 7 September",
+   "headline_en": "Córdoba, AEMET's Monday forecast: clear all day, high 41 degrees, low 20",
+   "summary_en": [
+    "Córdoba, AEMET's Monday forecast: clear all day, high 41 degrees, low 20",
+    "Sevilla, AEMET's Monday forecast: mostly clear, high 40 degrees, low 24"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, lunes 7 de septiembre",
+   "file": "podcast-daily-2026-09-07-morning-weather-canarias-es-ES.json",
+   "bytes": 4051,
+   "sha256": "b0d2a0c6710cb2e1fdd40aa3c9eb1952e1fe9722f4fe92443de7455393ff7f5e",
+   "date": "2026-09-07",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, lunes 7 de septiembre",
+   "title_en": "Today's weather, Canary Islands, Monday 7 September",
+   "headline_en": "Santa Cruz de Tenerife, AEMET's Monday forecast: broken cloud, high 32 degrees, low 24",
+   "summary_en": [
+    "Santa Cruz de Tenerife, AEMET's Monday forecast: broken cloud, high 32 degrees, low 24",
+    "Las Palmas de Gran Canaria, AEMET's Monday forecast: overcast, high 27 degrees, low 24"
+   ]
+  }
+ ],
+ "content": "1c3c4c457959654a2872524257156360b86a6702bff5b11f5902aa3550f40ed4",
+ "rev": 1,
+ "updated": "2026-09-07T06:29:44.883Z"
+}

@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-FR",
+ "date": "2026-09-07",
+ "episodes": [
+  {
+   "id": "fr-FR-Le journal du matin, lundi 7 septembre",
+   "file": "podcast-daily-2026-09-07-morning-news-fr-FR.json",
+   "bytes": 9503,
+   "sha256": "d4914d0941b1feec1a721440e8ac5f466b7a539db7009c57d862298ef5fe2fa9",
+   "date": "2026-09-07",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, lundi 7 septembre",
+   "title_en": "The morning news, Monday 7 September",
+   "headline_en": "The far-right AfD wins the regional election in Saxony-Anhalt, its best result yet",
+   "summary_en": [
+    "The far-right AfD wins the regional election in Saxony-Anhalt, its best result yet",
+    "The trial over the killing of rugby player Federico Martin Aramburu opens in Paris",
+    "First estimates put the AfD at around 44 percent of the vote in Saxony-Anhalt"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, lundi 7 septembre",
+   "file": "podcast-daily-2026-09-07-morning-weather-fr-FR.json",
+   "bytes": 4914,
+   "sha256": "cd2008e570234e49cef98cd8749b0bb31efc597aeb7f6061d0f458bcb09d710f",
+   "date": "2026-09-07",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, lundi 7 septembre",
+   "title_en": "Today's weather, Monday 7 September",
+   "headline_en": "Six south-eastern departments stay on orange heatwave alert on Monday",
+   "summary_en": [
+    "Six south-eastern departments stay on orange heatwave alert on Monday",
+    "Monday forecast for Marseille: scattered cloud, a high of 30 degrees"
+   ]
+  }
+ ],
+ "content": "6130e4dfe6680a2fb1b931538da8a2a8137fc24158a90e0f22080010593ea0cc",
+ "rev": 1,
+ "updated": "2026-09-07T06:29:44.883Z"
+}

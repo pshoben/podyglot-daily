@@ -1,0 +1,340 @@
+{
+ "title": "El informativo de la mañana, lunes 7 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-news",
+   "wpm": 208,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-07",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lunes siete de septiembre. El informativo de la mañana.",
+   "en": "Monday the 7th of September. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La ultraderecha alemana arrasa en las elecciones regionales de Sajonia-Anhalt.",
+   "en": "The German far right sweeps the regional election in «Sajonia-Anhalt».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y Ceuta afronta mañana su vuelta a las aulas,",
+   "en": "And «Ceuta» goes back to school tomorrow,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tras la crisis migratoria del verano.",
+   "en": "after the summer's migration crisis.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Abrimos con las elecciones alemanas.",
+   "en": "We open with the German elections.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Alternativa para Alemania ganó ayer con holgura en el Estado de Sajonia-Anhalt,",
+   "en": "«Alternativa para Alemania» won comfortably yesterday in the state of «Sajonia-Anhalt»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el este del país.",
+   "en": "in the east of the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según los sondeos a pie de urna,",
+   "en": "According to the exit polls,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la formación de ultraderecha obtiene alrededor del cuarenta y cuatro por ciento de los votos.",
+   "en": "the far-right party takes around 44 per cent of the vote.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Unión Cristianodemócrata del canciller Friedrich Merz se desploma.",
+   "en": "The Christian Democratic Union of Chancellor «Friedrich Merz» collapses.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las estimaciones de escaños dejan a los democristianos en dieciséis diputados.",
+   "en": "The seat estimates leave the Christian Democrats on 16 seats.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "A la espera del recuento final,",
+   "en": "With the final count still to come,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "no está claro si la ultraderecha podrá gobernar en solitario.",
+   "en": "it is not clear whether the far right can govern alone.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en España, los niños ceutíes retoman las clases el ocho de septiembre.",
+   "en": "Here in Spain, the children of «Ceuta» go back to class on the 8th of September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Muchos padres no quieren que sus hijos vayan solos a clase.",
+   "en": "Many parents do not want their children walking to school on their own.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y algunas familias ya han comunicado que no llevarán a sus niños.",
+   "en": "And some families have already said they will not take them.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de tema, en Estados Unidos,",
+   "en": "Turning to something else, in the United States,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un avión de carga de Amazon",
+   "en": "an Amazon cargo plane",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "se salió ayer de la pista en el aeropuerto internacional de Miami.",
+   "en": "ran off the runway yesterday at «Miami» international airport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La aeronave chocó contra varios vehículos y se incendió.",
+   "en": "The aircraft hit several vehicles and caught fire.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según las autoridades, al menos cinco personas murieron y otras cinco resultaron heridas.",
+   "en": "The authorities say at least five people were killed and another five hurt.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El accidente interrumpió el servicio en el aeródromo.",
+   "en": "The crash interrupted flights at the airport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para terminar, los dos ex directivos de Plus Ultra",
+   "en": "And finally, the two former executives of «Plus Ultra»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "declaran hoy y mañana en la Audiencia Nacional.",
+   "en": "give evidence today and tomorrow at the «Audiencia Nacional».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El juez investiga al expresidente del Gobierno",
+   "en": "The judge is investigating the former prime minister",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "José Luis Rodríguez Zapatero por el rescate de la aerolínea.",
+   "en": "«José Luis Rodríguez Zapatero» over the airline's rescue.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los dos ratificarán ante el juez su voluntad de colaborar con la Justicia.",
+   "en": "The two of them will confirm to the judge that they are willing to work with the courts.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En dos escritos, ambos aseguraron que la compañía pagó",
+   "en": "In two written statements, both said the company paid",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "elevadas cantidades de dinero a un empresario por la presunta mediación de Zapatero.",
+   "en": "large sums of money to a businessman for «Zapatero»'s alleged mediation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El País añade que reconocen que no saben en quién influyó.",
+   "en": "«El País» adds that they acknowledge they do not know who he influenced.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí lo esencial.",
+   "en": "That's the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Monday 7 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "The far-right AfD wins the regional election in Germany's Saxony-Anhalt",
+ "summary_en": [
+  "The far-right AfD wins the regional election in Germany's Saxony-Anhalt",
+  "Schools in Ceuta go back on the 8th of September after the migration crisis",
+  "Exit polls give the German far-right AfD around 44 per cent in Saxony-Anhalt"
+ ]
+}

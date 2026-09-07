@@ -1,0 +1,173 @@
+{
+ "title": "El tiempo en Canarias, lunes 7 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-canarias",
+   "wpm": 208,
+   "rate_multiplier": 0.86,
+   "pitch_multiplier": 0.59
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-canarias",
+ "date": "2026-09-07",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "En las islas, Santa Cruz de Tenerife",
+   "en": "Out on the islands, «Santa Cruz de Tenerife»",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pasa hoy la jornada con intervalos nubosos, según la Aemet.",
+   "en": "spends the day under broken cloud, «Aemet» says.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima es de treinta y dos grados y la mínima de veinticuatro.",
+   "en": "The high is 32 degrees and the low 24.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Apenas un diez por ciento de probabilidad de lluvia.",
+   "en": "Barely a 10 per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Con el alisio, el viento del norte corre a veinticinco kilómetros por hora.",
+   "en": "With the trade wind, the northerly runs at 25 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El índice ultravioleta se coloca en el ocho.",
+   "en": "The ultraviolet index comes in at 8.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Las Palmas de Gran Canaria",
+   "en": "In «Las Palmas de Gran Canaria»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el cielo está cubierto de la mañana a la noche.",
+   "en": "the sky is overcast from morning to night.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Veinticuatro grados otra vez de mínima,",
+   "en": "24 degrees again for the low,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y una máxima de veintisiete.",
+   "en": "and a high of 27.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La lluvia ronda el veinte por ciento y el viento del norte",
+   "en": "Rain is around 20 per cent and the northerly wind",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "aprieta a treinta kilómetros por hora.",
+   "en": "gets up to 30 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí el ultravioleta toca el nueve.",
+   "en": "There the ultraviolet hits 9.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es Canarias.",
+   "en": "That is «Canarias».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 4,
+ "handover": "junction",
+ "title_en": "Today's weather, Canary Islands, Monday 7 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Canarias",
+ "accent": "Canarias",
+ "accent_label": "acento de Canarias",
+ "segment_order": 2,
+ "headline_en": "Santa Cruz de Tenerife, AEMET's Monday forecast: broken cloud, high 32 degrees, low 24",
+ "summary_en": [
+  "Santa Cruz de Tenerife, AEMET's Monday forecast: broken cloud, high 32 degrees, low 24",
+  "Las Palmas de Gran Canaria, AEMET's Monday forecast: overcast, high 27 degrees, low 24"
+ ]
+}

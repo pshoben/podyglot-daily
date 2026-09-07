@@ -1,0 +1,199 @@
+{
+ "title": "La météo, lundi 7 septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-07",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Prudence en Ardèche, dans l'Aude, la Drôme, le Gard, l'Hérault et le Vaucluse.",
+   "en": "Take care in the «Ardèche», the «Aude», the «Drôme», the «Gard», the «Hérault» and the «Vaucluse».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ces six départements du Sud-Est du pays sont en vigilance orange canicule aujourd'hui, selon Météo-France.",
+   "en": "Those six departments in the south-east of the country are on an orange heatwave alert today, «Météo-France» says.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ailleurs, et d'après ses modèles,",
+   "en": "Elsewhere, and according to its models,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Marseille passe la journée entre vingt-cinq et trente degrés.",
+   "en": "«Marseille» spends the day between twenty-five and thirty degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Quelques nuages épars au-dessus de la ville,",
+   "en": "A few scattered clouds above the city,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et un vent qui ne franchit pas les dix kilomètres par heure.",
+   "en": "and a wind that does not get above ten kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Bordeaux, le thermomètre évolue entre vingt-deux et trente et un degrés.",
+   "en": "In «Bordeaux», the thermometer moves between twenty-two and thirty-one degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ciel bordelais reste couvert,",
+   "en": "The «Bordeaux» sky stays overcast,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent y souffle jusqu'à quinze kilomètres par heure.",
+   "en": "and the wind there blows up to fifteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Paris, on attend vingt-sept degrés au plus haut,",
+   "en": "In «Paris», twenty-seven degrees are expected at the highest,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et vingt et un degrés au plus bas.",
+   "en": "and twenty-one degrees at the lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ciel de la capitale est couvert lui aussi,",
+   "en": "The sky over the capital is overcast too,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un vent de seize kilomètres par heure.",
+   "en": "with a wind of sixteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La vigilance orange, elle, court sur l'ensemble de la journée.",
+   "en": "The orange alert runs across the whole of the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle était déjà en vigueur hier,",
+   "en": "It was already in force yesterday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans ces mêmes six départements.",
+   "en": "in those same six departments.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo.",
+   "en": "And that is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Monday 7 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Six south-eastern departments stay on orange heatwave alert on Monday",
+ "summary_en": [
+  "Six south-eastern departments stay on orange heatwave alert on Monday",
+  "Monday forecast for Marseille: scattered cloud, a high of 30 degrees"
+ ]
+}

@@ -1,0 +1,173 @@
+{
+ "title": "El tiempo en Andalucía, lunes 7 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-andalucia",
+   "wpm": 208,
+   "rate_multiplier": 0.73,
+   "pitch_multiplier": 0.79
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-andalucia",
+ "date": "2026-09-07",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Cuarenta y un grados marca hoy Córdoba, según la Aemet,",
+   "en": "«Córdoba» reads 41 degrees today, «Aemet» says,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "bajo un cielo despejado todo el día.",
+   "en": "under a clear sky all day long.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima baja hasta veinte,",
+   "en": "The low comes down to 20,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con diez kilómetros por hora de viento del oeste.",
+   "en": "with a westerly wind at 10 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El índice ultravioleta se eleva hasta el siete.",
+   "en": "The ultraviolet index rises to 7.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por el valle, un grado menos en Sevilla:",
+   "en": "Along the valley, a degree less in «Sevilla»:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "cuarenta de máxima y veinticuatro de mínima.",
+   "en": "40 for the high and 24 for the low.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sevilla tiene el cielo poco nuboso y no se espera lluvia.",
+   "en": "«Sevilla» has a mostly clear sky, and no rain is expected.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento del suroeste",
+   "en": "The south-westerly wind",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "arranca a cinco kilómetros por hora y por la tarde alcanza los veinte.",
+   "en": "starts at 5 kilometres an hour and reaches 20 in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la costa, Málaga se detiene",
+   "en": "On the coast, «Málaga» stops",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en treinta y dos grados, con veintidós de mínima.",
+   "en": "at 32 degrees, with a low of 22.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí tampoco hay nubes, con viento del sur a quince kilómetros por hora.",
+   "en": "There is no cloud there either, with a southerly wind at 15 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es Andalucía.",
+   "en": "That is «Andalucía».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 3,
+ "handover": "junction",
+ "title_en": "Today's weather, Andalusia, Monday 7 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Andalucía",
+ "accent": "Andalucía",
+ "accent_label": "acento de Andalucía",
+ "segment_order": 1,
+ "headline_en": "Córdoba, AEMET's Monday forecast: clear all day, high 41 degrees, low 20",
+ "summary_en": [
+  "Córdoba, AEMET's Monday forecast: clear all day, high 41 degrees, low 20",
+  "Sevilla, AEMET's Monday forecast: mostly clear, high 40 degrees, low 24"
+ ]
+}

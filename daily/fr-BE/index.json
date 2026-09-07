@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-BE-Le sept heures, lundi 7 septembre",
+   "file": "podcast-daily-2026-09-07-morning-news-fr-BE.json",
+   "bytes": 10322,
+   "sha256": "a50f1f66fb60e8e3ff31083d79094f4a35af0bfcadcc7bd2fe34b91fa0d3f92b",
+   "date": "2026-09-07",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, lundi 7 septembre",
+   "title_en": "The morning news, Monday 7 September",
+   "headline_en": "AfD wins the Saxony-Anhalt regional election in Germany but falls short of a majority",
+   "summary_en": [
+    "AfD wins the Saxony-Anhalt regional election in Germany but falls short of a majority",
+    "Belgian prison staff begin a five-day strike over overcrowding and staffing",
+    "Belgium's federal government returns to work with the budget on the table"
+   ]
+  },
+  {
+   "id": "fr-BE-Le sport chez nous, lundi 7 septembre",
+   "file": "podcast-daily-2026-09-07-morning-sport-fr-BE.json",
+   "bytes": 4292,
+   "sha256": "f36744cd9051407bfe157374cdda9ee9ff52cb5366d2ac99a5b5cd854587da28",
+   "date": "2026-09-07",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sport chez nous, lundi 7 septembre",
+   "title_en": "Today's sport, Monday 7 September",
+   "headline_en": "Belgian Cats face Australia today at the basketball World Cup, a quarter-final place at stake",
+   "summary_en": [
+    "Belgian Cats face Australia today at the basketball World Cup, a quarter-final place at stake",
+    "Emma Meesseman calls the Belgian Cats' basketball World Cup scheduling irresponsible"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, lundi 7 septembre",
+   "file": "podcast-daily-2026-09-07-morning-weather-fr-BE.json",
+   "bytes": 4635,
+   "sha256": "78d285f8ab67d7e97fa33bf1680e76133fc2a17d8ff6718b9186b46b72fb8a11",
+   "date": "2026-09-07",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, lundi 7 septembre",
+   "title_en": "Today's weather, Monday 7 September",
+   "headline_en": "Monday forecast for Belgium from the IRM: sunny spells and cloud fields",
+   "summary_en": [
+    "Monday forecast for Belgium from the IRM: sunny spells and cloud fields",
+    "Monday forecast for Namur, 7th September"
+   ]
+  },
+  {
    "id": "fr-BE-Le sept heures, dimanche 6 septembre",
    "file": "podcast-daily-2026-09-06-morning-news-fr-BE.json",
    "bytes": 7250,
@@ -672,47 +733,6 @@
    "summary_en": [
     "The IRM: changeable to very cloudy, showers in the south-east, highs of 17 to 25",
     "Brussels today: overcast, a high of 24 and no rain forecast"
-   ]
-  },
-  {
-   "id": "fr-BE-Le sept heures, lundi 24 août",
-   "file": "podcast-daily-2026-08-24-morning-news-fr-BE.json",
-   "bytes": 13449,
-   "sha256": "04195429a75d867dea7fdab018c8ef24453c9d93994cead99b912ccc9f8b4bd7",
-   "date": "2026-08-24",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le sept heures, lundi 24 août",
-   "title_en": "The morning news, Monday 24 August",
-   "headline_en": "Schools in Wallonia and Brussels go back amid teacher protests",
-   "summary_en": [
-    "Schools in Wallonia and Brussels go back amid teacher protests",
-    "Glatigny says there will be no further savings in education before 2029",
-    "The EU announces a new 6.1 billion euro tranche of military aid to Ukraine"
-   ]
-  },
-  {
-   "id": "fr-BE-Le temps chez nous, lundi 24 août",
-   "file": "podcast-daily-2026-08-24-morning-weather-fr-BE.json",
-   "bytes": 6184,
-   "sha256": "a393cded98861efd6d8de428fdfd88f9b07455e0617f1ed35fa520a0942c2107",
-   "date": "2026-08-24",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le temps chez nous, lundi 24 août",
-   "title_en": "Today's weather, Monday 24 August",
-   "headline_en": "Brussels today: overcast, with a high of 21 degrees",
-   "summary_en": [
-    "Brussels today: overcast, with a high of 21 degrees",
-    "Liege today: overcast, with a high of 21 degrees"
    ]
   }
  ]

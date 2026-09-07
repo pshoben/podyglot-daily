@@ -1,0 +1,159 @@
+{
+ "title": "Le sport chez nous, lundi 7 septembre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-sport",
+   "wpm": 222,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-07",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Ce qui nous attend ce lundi, un rendez-vous décisif pour les Belgian Cats.",
+   "en": "Coming up this Monday, a decisive game for the «Belgian Cats».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Belgique affronte l'Australie à onze heures trente,",
+   "en": "Belgium play Australia at half past eleven this morning,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à la Coupe du monde de basket.",
+   "en": "at the basketball World Cup.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le tournoi se joue à Berlin,",
+   "en": "The tournament is being played in Berlin,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et une qualification directe pour les quarts de finale est en jeu.",
+   "en": "and a direct place in the quarter-finals is at stake.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les joueuses n'auront eu que seize heures de repos avant cette rencontre, précise la DH.",
+   "en": "The players get just sixteen hours of rest before it, «DH» points out.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon la RTBF, le calendrier des Cats est ultra serré à cette Coupe du monde.",
+   "en": "According to «RTBF», the Belgian squad has an extremely tight schedule at this World Cup.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La capitaine Emma Meesseman a jugé irresponsable la programmation de ce dernier match.",
+   "en": "Captain «Emma Meesseman» called the scheduling of this last game irresponsible.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Du côté du tennis, Alexander Blockx dispute son huitième de finale à l'US Open.",
+   "en": "Over in tennis, «Alexander Blockx» plays his US Open last-16 tie.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Anversois défie l'Argentin Cerundolo sur le court Arthur Ashe.",
+   "en": "The player from «Antwerp» takes on the Argentine «Cerundolo» on the «Arthur Ashe» court.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Son entraîneur Ruben Bemelmans est impressionné par l'évolution de son poulain.",
+   "en": "His coach «Ruben Bemelmans» is impressed by the progress he has made.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'ancien joueur Steve Darcis s'attendait à de grandes choses, d'après la RTBF.",
+   "en": "Former player «Steve Darcis» was expecting big things, «RTBF» reports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est tout pour le sport belge.",
+   "en": "That rounds off Belgian sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Monday 7 September",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Belgian Cats face Australia today at the basketball World Cup, a quarter-final place at stake",
+ "summary_en": [
+  "Belgian Cats face Australia today at the basketball World Cup, a quarter-final place at stake",
+  "Emma Meesseman calls the Belgian Cats' basketball World Cup scheduling irresponsible"
+ ]
+}

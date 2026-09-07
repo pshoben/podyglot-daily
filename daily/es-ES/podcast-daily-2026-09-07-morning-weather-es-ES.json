@@ -1,0 +1,243 @@
+{
+ "title": "El tiempo, lunes 7 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather",
+   "wpm": 208,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-07",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Ojo en el noroeste,",
+   "en": "An eye on the north-west,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la Aemet da hoy en A Coruña",
+   "en": "where «Aemet» today gives «A Coruña»",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un noventa y cinco por ciento de probabilidad de lluvia.",
+   "en": "a 95 per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Domina el cielo muy nuboso con lluvia escasa,",
+   "en": "A mostly cloudy sky with light rain dominates,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y por la tarde afloja a nuboso.",
+   "en": "easing to cloudy in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima se queda en veinticuatro grados y la mínima en dieciocho.",
+   "en": "The high stays at 24 degrees and the low at 18.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento del noroeste sopla allí a diez kilómetros por hora.",
+   "en": "The north-westerly wind blows there at 10 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Bilbao la probabilidad de lluvia",
+   "en": "In «Bilbao» the chance of rain",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "se sitúa en el sesenta por ciento y desaparece por la tarde.",
+   "en": "stands at 60 per cent and disappears in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El termómetro sube hasta veintinueve grados, con dieciocho de mínima.",
+   "en": "The thermometer climbs to 29 degrees, with a low of 18.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Madrid, en cambio, el cielo queda despejado del amanecer al anochecer.",
+   "en": "In «Madrid», by contrast, the sky stays clear from dawn to dusk.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La capital se planta en los treinta y seis grados, con veintiuno de mínima.",
+   "en": "The capital sits at 36 degrees, with a low of 21.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "No hay probabilidad de lluvia,",
+   "en": "There is no chance of rain,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el índice ultravioleta llega al siete.",
+   "en": "and the ultraviolet index reaches 7.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "València comparte ese cielo despejado,",
+   "en": "«València» shares that clear sky,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con treinta y cuatro grados y veintidós de mínima.",
+   "en": "with 34 degrees and a low of 22.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento del sureste se mantiene en quince kilómetros por hora.",
+   "en": "The south-easterly wind holds at 15 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Barcelona no pasa de treinta y dos grados,",
+   "en": "«Barcelona» goes no higher than 32 degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la mínima no baja de veintiséis.",
+   "en": "and the low does not drop below 26.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Poco nuboso, con viento del este a diez kilómetros por hora.",
+   "en": "Mostly clear, with an easterly wind at 10 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí el tiempo.",
+   "en": "That's it for the national forecast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Monday 7 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "España",
+ "accent": "Castilla",
+ "accent_label": "acento de Castilla",
+ "segment_order": 0,
+ "headline_en": "A Coruña, AEMET's Monday forecast: mostly cloudy with light rain, high 24 degrees, low 18",
+ "summary_en": [
+  "A Coruña, AEMET's Monday forecast: mostly cloudy with light rain, high 24 degrees, low 18",
+  "Bilbao, AEMET's Monday forecast: cloudy with light rain, high 29 degrees, low 18"
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-BE",
+ "date": "2026-09-07",
+ "episodes": [
+  {
+   "id": "fr-BE-Le sept heures, lundi 7 septembre",
+   "file": "podcast-daily-2026-09-07-morning-news-fr-BE.json",
+   "bytes": 10322,
+   "sha256": "a50f1f66fb60e8e3ff31083d79094f4a35af0bfcadcc7bd2fe34b91fa0d3f92b",
+   "date": "2026-09-07",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, lundi 7 septembre",
+   "title_en": "The morning news, Monday 7 September",
+   "headline_en": "AfD wins the Saxony-Anhalt regional election in Germany but falls short of a majority",
+   "summary_en": [
+    "AfD wins the Saxony-Anhalt regional election in Germany but falls short of a majority",
+    "Belgian prison staff begin a five-day strike over overcrowding and staffing",
+    "Belgium's federal government returns to work with the budget on the table"
+   ]
+  },
+  {
+   "id": "fr-BE-Le sport chez nous, lundi 7 septembre",
+   "file": "podcast-daily-2026-09-07-morning-sport-fr-BE.json",
+   "bytes": 4292,
+   "sha256": "f36744cd9051407bfe157374cdda9ee9ff52cb5366d2ac99a5b5cd854587da28",
+   "date": "2026-09-07",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sport chez nous, lundi 7 septembre",
+   "title_en": "Today's sport, Monday 7 September",
+   "headline_en": "Belgian Cats face Australia today at the basketball World Cup, a quarter-final place at stake",
+   "summary_en": [
+    "Belgian Cats face Australia today at the basketball World Cup, a quarter-final place at stake",
+    "Emma Meesseman calls the Belgian Cats' basketball World Cup scheduling irresponsible"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, lundi 7 septembre",
+   "file": "podcast-daily-2026-09-07-morning-weather-fr-BE.json",
+   "bytes": 4635,
+   "sha256": "78d285f8ab67d7e97fa33bf1680e76133fc2a17d8ff6718b9186b46b72fb8a11",
+   "date": "2026-09-07",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, lundi 7 septembre",
+   "title_en": "Today's weather, Monday 7 September",
+   "headline_en": "Monday forecast for Belgium from the IRM: sunny spells and cloud fields",
+   "summary_en": [
+    "Monday forecast for Belgium from the IRM: sunny spells and cloud fields",
+    "Monday forecast for Namur, 7th September"
+   ]
+  }
+ ],
+ "content": "645b8c38f7f6e97fb9a65d524c99a5a6488c3b820ce4b9c2f38daea8180158c5",
+ "rev": 1,
+ "updated": "2026-09-07T06:29:44.883Z"
+}
