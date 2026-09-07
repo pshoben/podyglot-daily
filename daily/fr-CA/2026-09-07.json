@@ -1,0 +1,31 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-CA",
+ "date": "2026-09-07",
+ "episodes": [
+  {
+   "id": "fr-CA-Le bulletin météo, lundi 7 septembre",
+   "file": "podcast-daily-2026-09-07-morning-weather-fr-CA.json",
+   "bytes": 5121,
+   "sha256": "404b25b10dc908b0693b8676d1ac3abd7b1abfd4115ae58c325a729ce7603e17",
+   "date": "2026-09-07",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin météo, lundi 7 septembre",
+   "title_en": "Today's weather, Monday 7 September",
+   "headline_en": "Overcast in Montréal, with a high of 26 degrees and no rain expected",
+   "summary_en": [
+    "Overcast in Montréal, with a high of 26 degrees and no rain expected",
+    "Québec City: overcast, 25 degrees and a 19 per cent chance of rain"
+   ]
+  }
+ ],
+ "content": "7ead1b81a8f2968ab7c80c0f46c80fa8da3236ec74f5c50c570084f27f4a8271",
+ "rev": 1,
+ "updated": "2026-09-07T13:00:01.008Z"
+}

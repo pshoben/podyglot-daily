@@ -1,0 +1,179 @@
+{
+ "title": "El clima, lunes 7 de septiembre",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-weather",
+   "wpm": 186,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-07",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El clima de hoy lunes, ciudad por ciudad.",
+   "en": "Today's weather, this Monday, city by city.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los números que siguen vienen del modelo del Centro Europeo, el ECMWF.",
+   "en": "The figures that follow come from the European Centre model, the «ECMWF».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la Ciudad de México la jornada viene con cielo de chubascos.",
+   "en": "In «Ciudad de México» the day comes with showery skies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación llega hasta el noventa y ocho por ciento.",
+   "en": "The chance of rain reaches ninety-eight per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima capitalina se queda en veintiún grados y la mínima, en catorce.",
+   "en": "The city's high stays at twenty-one degrees and the low at fourteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el valle el viento no pasa de tres kilómetros por hora.",
+   "en": "In the valley the wind goes no higher than three kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por estados, Guadalajara comparte hoy ese mismo cielo de chubascos.",
+   "en": "Around the states, «Guadalajara» shares that same showery sky today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su probabilidad de precipitación es del noventa y seis por ciento.",
+   "en": "Its chance of rain is ninety-six per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los termómetros tapatíos van de dieciséis a veintinueve grados.",
+   "en": "Thermometers in «Guadalajara» run from sixteen to twenty-nine degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento sube a ocho kilómetros por hora.",
+   "en": "The wind rises to eight kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el norte, el termómetro de Monterrey trepa hasta los treinta y cuatro grados.",
+   "en": "In the north, the thermometer in «Monterrey» climbs to thirty-four degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima regiomontana no baja de los veintidós grados.",
+   "en": "The low in «Monterrey» does not drop below twenty-two degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo trae llovizna, y la probabilidad de lluvia cae al veintisiete por ciento.",
+   "en": "The sky brings drizzle, and the chance of rain falls to twenty-seven per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento alcanza catorce kilómetros por hora.",
+   "en": "The wind tops out at fourteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ahí está el panorama.",
+   "en": "That is the picture.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Monday 7 September",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "The ECMWF model has Ciudad de México showery, a 98 per cent chance of rain, 14 to 21 degrees",
+ "summary_en": [
+  "The ECMWF model has Ciudad de México showery, a 98 per cent chance of rain, 14 to 21 degrees",
+  "Showers over Guadalajara, where the day runs from 16 to 29 degrees"
+ ]
+}

@@ -5,6 +5,47 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-CO-La actualidad de la mañana, lunes 7 de septiembre",
+   "file": "podcast-daily-2026-09-07-morning-news-es-CO.json",
+   "bytes": 12439,
+   "sha256": "cf52897e89e54aebb8b435c54462487e527329c30adc3ca16f08134aef1d634a",
+   "date": "2026-09-07",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "La actualidad de la mañana, lunes 7 de septiembre",
+   "title_en": "The morning news, Monday 7 September",
+   "headline_en": "US Secretary of State Marco Rubio meets President De La Espriella in Barranquilla on Tuesday",
+   "summary_en": [
+    "US Secretary of State Marco Rubio meets President De La Espriella in Barranquilla on Tuesday",
+    "About 40,000 Colombian traffic-camera tickets may have been issued irregularly, a government review finds",
+    "Roy Barreras quits politics and medicine to devote himself to literature"
+   ]
+  },
+  {
+   "id": "es-CO-El clima de hoy, lunes 7 de septiembre",
+   "file": "podcast-daily-2026-09-07-morning-weather-es-CO.json",
+   "bytes": 6402,
+   "sha256": "315f345339764dbc7b4f64f6bd0bbac29bd394fa7b05097b599124f04e498eed",
+   "date": "2026-09-07",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "El clima de hoy, lunes 7 de septiembre",
+   "title_en": "Today's weather, Monday 7 September",
+   "headline_en": "Ideam records 38 degrees or more in six Colombian towns, and lows below three degrees at Paipa",
+   "summary_en": [
+    "Ideam records 38 degrees or more in six Colombian towns, and lows below three degrees at Paipa",
+    "Bogotá: drizzle, a 94 per cent chance of rain and a high of 19 degrees"
+   ]
+  },
+  {
    "id": "es-CO-La actualidad de la mañana, sábado 5 de septiembre",
    "file": "podcast-daily-2026-09-05-morning-news-es-CO.json",
    "bytes": 8076,

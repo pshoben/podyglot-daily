@@ -1,0 +1,410 @@
+{
+ "title": "El noticiario matutino, lunes 7 de septiembre",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-news",
+   "wpm": 186,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-07",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lunes siete de septiembre, siete de la mañana. El noticiario matutino.",
+   "en": "Monday the seventh of September, seven in the morning. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Estados Unidos admite que todavía puede no haber un acuerdo nuclear con Irán.",
+   "en": "The United States admits there may still be no nuclear deal with Iran.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en México, una explosión de pirotecnia",
+   "en": "Here in Mexico, a fireworks explosion",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dejó muertos y heridos en una fiesta patronal del Estado de México.",
+   "en": "has left people dead and injured at a village festival in the «Estado de México».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Arrancamos con Irán, y con la admisión del secretario de Energía de Estados Unidos,",
+   "en": "We start with Iran, and with an admission by the United States Energy Secretary,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Chris Wright.",
+   "en": "Chris Wright.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Wright admitió que puede que no haya un acuerdo nuclear con la república islámica todavía.",
+   "en": "Wright admitted that there may be no nuclear deal with the Islamic republic yet.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El presidente del Parlamento iraní, Mohammad Baqer Qalibaf,",
+   "en": "The speaker of the Iranian parliament, «Mohammad Baqer Qalibaf»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "lanzó una advertencia a Estados Unidos.",
+   "en": "issued a warning to the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dijo que cualquier nueva agresión de Washington tendrá una respuesta más rápida, intensa y dolorosa.",
+   "en": "He said any fresh attack by Washington would meet a faster, more intense and more painful response.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según El Financiero, Irán está cerca de imponer nuevas restricciones en el estrecho de Ormuz.",
+   "en": "According to «El Financiero», Iran is close to imposing new restrictions on the Strait of Hormuz.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasamos a otro asunto, la explosión ocurrió",
+   "en": "Turning to something else, the explosion happened",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "durante la fiesta patronal de Nuestra Señora de la Luz.",
+   "en": "during the festival of «Nuestra Señora de la Luz».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Fue en la comunidad de Santa María Canchesdá,",
+   "en": "It was in the community of «Santa María Canchesdá»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el municipio de Temascalcingo.",
+   "en": "in the municipality of «Temascalcingo».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según La Jornada y Reforma,",
+   "en": "According to «La Jornada» and «Reforma»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el saldo es de al menos diez muertos y ochenta y un heridos.",
+   "en": "the toll is at least ten dead and eighty-one injured.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Jornada agrega que entre los fallecidos hay dos menores y que cinco heridos",
+   "en": "«La Jornada» adds that two of the dead were minors and that five of the injured",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "fueron reportados graves.",
+   "en": "were reported to be in a serious condition.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En otros temas, la Secretaría de Salud anunció una revisión de los servicios de alimentación.",
+   "en": "In other news, the health ministry has announced a review of catering services.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La revisión abarca todo el sistema público de salud,",
+   "en": "The review covers the whole public health system,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "incluidos hospitales del Seguro Social, del IMSS Bienestar y de Pemex.",
+   "en": "including hospitals run by the «Seguro Social», «IMSS Bienestar» and «Pemex».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El objetivo, según Reforma, es evitar más contagios por bacterias.",
+   "en": "The aim, according to «Reforma», is to prevent further bacterial infections.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos en México, donde la presidenta Claudia Sheinbaum",
+   "en": "Staying in Mexico, President «Claudia Sheinbaum»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "habló en Monterrey sobre Estados Unidos.",
+   "en": "spoke in «Monterrey» about the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Enfatizó que su gobierno aspira a mantener una buena relación",
+   "en": "She stressed that her government hopes to keep a good relationship",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con la administración de Donald Trump.",
+   "en": "with the Trump administration.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También afirmó que el tren de pasajeros entre la Ciudad de México,",
+   "en": "She also said the passenger railway between «Ciudad de México»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Monterrey y Nuevo Laredo quedará concluido antes de que termine el sexenio.",
+   "en": "«Monterrey» and «Nuevo Laredo» will be finished before her six-year term ends.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otra noticia, el sistema de alertamiento celular tendrá una alerta máxima",
+   "en": "More news: the mobile phone alert system will get a top-level alert",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para fenómenos naturales que no sean sismos.",
+   "en": "for natural events that are not earthquakes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Comisión Reguladora de Telecomunicaciones la incorporará a partir del último trimestre del año.",
+   "en": "The telecommunications regulator will bring it in from the last quarter of the year.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cerramos con otro tema, una estudiante ecuatoriana de doctorado",
+   "en": "And finally, an Ecuadorian doctoral student",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "fue localizada con vida en la capital.",
+   "en": "has been found alive in the capital.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ocurrió en Huipulco, en la alcaldía Tlalpan,",
+   "en": "It happened in «Huipulco», in the «Tlalpan» borough,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "después de que una persona alertó sobre su paradero.",
+   "en": "after someone reported where she was.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su familia lo dio a conocer en un comunicado.",
+   "en": "Her family made it known in a statement.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más destacado.",
+   "en": "That is what stands out most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Monday 7 September",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "The United States and Iran harden their positions over the nuclear deal",
+ "summary_en": [
+  "The United States and Iran harden their positions over the nuclear deal",
+  "A fireworks explosion hits a village festival in the State of Mexico",
+  "La Jornada and Reforma put the State of Mexico blast toll at 10 dead and 81 hurt"
+ ]
+}

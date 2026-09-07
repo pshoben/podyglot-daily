@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-MX",
+ "date": "2026-09-07",
+ "episodes": [
+  {
+   "id": "es-MX-El noticiario matutino, lunes 7 de septiembre",
+   "file": "podcast-daily-2026-09-07-morning-news-es-MX.json",
+   "bytes": 10541,
+   "sha256": "e269f1895630de2db223a2e58499d05c8bb0ecd3334f11a8f84590317ab49f3c",
+   "date": "2026-09-07",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El noticiario matutino, lunes 7 de septiembre",
+   "title_en": "The morning news, Monday 7 September",
+   "headline_en": "The United States and Iran harden their positions over the nuclear deal",
+   "summary_en": [
+    "The United States and Iran harden their positions over the nuclear deal",
+    "A fireworks explosion hits a village festival in the State of Mexico",
+    "La Jornada and Reforma put the State of Mexico blast toll at 10 dead and 81 hurt"
+   ]
+  },
+  {
+   "id": "es-MX-El clima, lunes 7 de septiembre",
+   "file": "podcast-daily-2026-09-07-morning-weather-es-MX.json",
+   "bytes": 4658,
+   "sha256": "53ccb2c2ea91a3f5a1c88c258687408a683acfd25cc0602dc6affd4ba46e04b3",
+   "date": "2026-09-07",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El clima, lunes 7 de septiembre",
+   "title_en": "Today's weather, Monday 7 September",
+   "headline_en": "The ECMWF model has Ciudad de México showery, a 98 per cent chance of rain, 14 to 21 degrees",
+   "summary_en": [
+    "The ECMWF model has Ciudad de México showery, a 98 per cent chance of rain, 14 to 21 degrees",
+    "Showers over Guadalajara, where the day runs from 16 to 29 degrees"
+   ]
+  }
+ ],
+ "content": "8061edaa0b8557cbe5041d99f72b789d66d8bd37c019f51ed0edb4f4c602ccc8",
+ "rev": 1,
+ "updated": "2026-09-07T13:00:01.008Z"
+}

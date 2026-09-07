@@ -5,6 +5,47 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-CL-Las noticias de la mañana, lunes 7 de septiembre",
+   "file": "podcast-daily-2026-09-07-morning-news-es-CL.json",
+   "bytes": 8122,
+   "sha256": "72083687c996bdbe97bfc52dd2009325da82f4087cea97b941e469df3178ca4f",
+   "date": "2026-09-07",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "Las noticias de la mañana, lunes 7 de septiembre",
+   "title_en": "The morning news, Monday 7 September",
+   "headline_en": "German far right wins the Saxony-Anhalt regional election",
+   "summary_en": [
+    "German far right wins the Saxony-Anhalt regional election",
+    "Cadem poll on how Chileans now see Argentina",
+    "The AfD, the far-right party behind the eastern German result"
+   ]
+  },
+  {
+   "id": "es-CL-El estado del tiempo, lunes 7 de septiembre",
+   "file": "podcast-daily-2026-09-07-morning-weather-es-CL.json",
+   "bytes": 4784,
+   "sha256": "ef131cd85394caadc6934a91878714d8896e1131c0cffcc851b6eece50c48c42",
+   "date": "2026-09-07",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "El estado del tiempo, lunes 7 de septiembre",
+   "title_en": "Today's weather, Monday 7 September",
+   "headline_en": "Cloudy over Santiago, a high of 18 and no rain",
+   "summary_en": [
+    "Cloudy over Santiago, a high of 18 and no rain",
+    "Valparaíso cloudy too, a high of 16 and a low of 2"
+   ]
+  },
+  {
    "id": "es-CL-Las noticias de la mañana, sábado 5 de septiembre",
    "file": "podcast-daily-2026-09-05-morning-news-es-CL.json",
    "bytes": 9217,

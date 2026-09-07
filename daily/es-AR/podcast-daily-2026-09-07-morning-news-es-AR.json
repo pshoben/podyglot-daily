@@ -1,0 +1,480 @@
+{
+ "title": "El noticiero de la mañana, lunes 7 de septiembre",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-07",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lunes siete de septiembre, siete de la mañana.",
+   "en": "Monday the seventh of September, seven in the morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El noticiero de la mañana.",
+   "en": "The morning news programme.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un avión de carga de Amazon se despistó en el aeropuerto de Miami.",
+   "en": "An «Amazon» cargo plane ran off the runway at «Miami» airport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el Gobierno argentino reglamentó por decreto el nuevo Régimen Penal Juvenil.",
+   "en": "And the Argentine government has brought in the new juvenile justice regime by decree.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos por Estados Unidos, donde la aeronave chocó contra varios vehículos y se incendió.",
+   "en": "We start in the United States, where the aircraft hit several vehicles and caught fire.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Murieron al menos cinco personas,",
+   "en": "At least five people died,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según La Nación y Perfil.",
+   "en": "according to «La Nación» and «Perfil».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El despiste ocurrió cerca de las dos de la tarde, hora local, según La Nación.",
+   "en": "The plane went off the runway at around two in the afternoon, local time, according to «La Nación».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El diario precisó que era un Boeing 767-300.",
+   "en": "The paper said it was a «Boeing 767-300».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El avión había despegado desde San Juan, en Puerto Rico.",
+   "en": "The plane had taken off from «San Juan», in Puerto Rico.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Clarín informó que, para la Administración Federal de Aviación,",
+   "en": "«Clarín» reported that, for the Federal Aviation Administration,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "era un avión de la empresa Amazon.",
+   "en": "it was an «Amazon» aircraft.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El accidente provocó demoras y la suspensión temporal de las operaciones en la terminal.",
+   "en": "The crash caused delays and a temporary halt to operations at the terminal.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ámbito precisó que la aeronave realizaba vuelos para Amazon y para DHL.",
+   "en": "«Ámbito» said the aircraft flew for both «Amazon» and «DHL».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Perfil describió el despliegue de bomberos y de equipos de rescate en el lugar.",
+   "en": "«Perfil» described the fire crews and rescue teams sent to the scene.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y La Nación contó que Amazon se refirió al accidente mediante un comunicado.",
+   "en": "And «La Nación» said «Amazon» addressed the crash in a statement.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos en la Argentina, con el decreto que el Gobierno publicó esta madrugada.",
+   "en": "Still in Argentina, and the decree the government published in the early hours.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La medida reglamenta el Régimen Penal Juvenil y lleva el número ochocientos setenta y cinco.",
+   "en": "The measure brings in the juvenile justice regime and is numbered eight hundred and seventy-five.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se publicó en el Boletín Oficial, según Clarín.",
+   "en": "It appeared in the official gazette, according to «Clarín».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El diario precisó que llegó dos días después de que la ley entrara en vigencia.",
+   "en": "The paper said it came two days after the law itself took effect.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esa ley fijó nuevas reglas para adolescentes de entre catorce y dieciocho años.",
+   "en": "That law set new rules for adolescents between fourteen and eighteen years old.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se aplica a los que están imputados por delitos.",
+   "en": "It applies to those charged with offences.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Perfil agregó que el decreto define cómo se designarán los supervisores encargados del seguimiento.",
+   "en": "«Perfil» added that the decree sets out how the supervisors who follow them will be appointed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y qué nuevas organizaciones se van a ocupar de aplicarlo.",
+   "en": "And which new organisations will handle putting it into practice.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de tema ahora, el peronismo ganó la elección en Marcos Juárez, en Córdoba.",
+   "en": "Moving on, and the peronists have won the election in «Marcos Juárez», in «Córdoba».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Nación informó que el ganador superó el cuarenta y cinco por ciento.",
+   "en": "«La Nación» reported that the winner passed forty-five per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El mismo diario contó que la oferta no peronista se atomizó y cayó derrotada.",
+   "en": "The same paper said the non-peronist field splintered and was beaten.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Clarín describió al distrito cordobés",
+   "en": "«Clarín» called the district",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "como el kilómetro cero de la llegada de Mauricio Macri al poder.",
+   "en": "in «Córdoba» the kilometre zero of «Mauricio Macri»'s rise to power.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El intendente electo es un exfuncionario del actual gobernador, Llaryora.",
+   "en": "The incoming mayor is a former official of the current governor, «Llaryora».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otro tema. La oposición mantiene la sesión convocada para este miércoles en Diputados.",
+   "en": "Another story. The opposition is holding the sitting called for this Wednesday in the lower house.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se van a discutir la morosidad y la emergencia en discapacidad, según La Nación.",
+   "en": "Debt arrears and the disability emergency are on the agenda, according to «La Nación».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El diario contó que el oficialismo habilitó un cronograma de trabajo.",
+   "en": "The paper said the governing side cleared a work timetable.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los bloques críticos calificaron esa maniobra de dilatoria.",
+   "en": "Critical blocs called that manoeuvre a delaying tactic.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el Gobierno apunta a los gobernadores cercanos para desactivar el debate del miércoles.",
+   "en": "And the government is working on friendly governors to defuse Wednesday's debate.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Clarín señaló que Unión por la Patria se enfoca en esa sesión.",
+   "en": "«Clarín» noted that «Unión por la Patria» is focused on that sitting.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También lo hacen otros bloques no oficialistas.",
+   "en": "So are the other opposition blocs.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para el final, el Presidente encabeza hoy una reunión de Gabinete.",
+   "en": "And finally, the President chairs a cabinet meeting today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según Ámbito, el encuentro apunta al Presupuesto de dos mil veintisiete y al Súper RIGI.",
+   "en": "According to «Ámbito», the meeting has the 2027 budget and the «Súper RIGI» in its sights.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El mandatario busca alinear con sus ministros los objetivos estratégicos del plan de Gobierno.",
+   "en": "He wants to line up the strategic aims of the government plan with his ministers.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por la tarde recibirá a ejecutivos de Tesla y de DayOne Data.",
+   "en": "In the afternoon he will receive executives from «Tesla» and «DayOne Data».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Perfil suma que los ministros también van a tratar temas de Malvinas.",
+   "en": "«Perfil» adds that the ministers will also take up «Malvinas» matters.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y que después habrá una audiencia especial para un perro detector de narcóticos.",
+   "en": "And that afterwards there is a special audience for a narcotics detection dog.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El animal se retira de la Policía Federal.",
+   "en": "The animal is retiring from the federal police.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo central.",
+   "en": "That is the heart of it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Monday 7 September",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Amazon cargo plane runs off the runway at Miami airport and catches fire",
+ "summary_en": [
+  "Amazon cargo plane runs off the runway at Miami airport and catches fire",
+  "Argentina's government publishes the decree that puts the new juvenile justice law into effect",
+  "At least five people died in the Miami cargo plane crash, two Argentine dailies report"
+ ]
+}

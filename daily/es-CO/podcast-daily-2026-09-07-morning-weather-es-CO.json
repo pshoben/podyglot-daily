@@ -1,0 +1,249 @@
+{
+ "title": "El clima de hoy, lunes 7 de septiembre",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-weather",
+   "wpm": 195,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-07",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El calor volvió a marcar registros elevados en distintas regiones del país.",
+   "en": "The heat again pushed readings up in different parts of the country.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según El Colombiano, el último informe del Ideam",
+   "en": "According to «El Colombiano», «Ideam»'s latest report",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "registró seis municipios con treinta y ocho grados o más.",
+   "en": "recorded six towns at thirty-eight degrees or more.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El registro más alto fue de treinta y nueve coma seis grados en Saldaña, Tolima.",
+   "en": "The highest reading was thirty-nine point six degrees at «Saldaña», in «Tolima».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El instituto aclaró que esas cifras corresponden a donde están sus estaciones,",
+   "en": "The institute made clear those figures are for where its weather stations sit,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y que no representan necesariamente las condiciones del centro urbano.",
+   "en": "and need not match conditions in the town itself.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Semana informó que el Ideam también reportó temperaturas inusualmente bajas,",
+   "en": "«Semana» reported that «Ideam» also logged unusually low temperatures,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con Paipa por debajo de los tres grados.",
+   "en": "with «Paipa» below three degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El pronóstico de hoy para Bogotá, Cali y Medellín",
+   "en": "Today's forecast for «Bogotá», «Cali» and «Medellín»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "lo emite el modelo del Centro Europeo, el ECMWF.",
+   "en": "comes from the European Centre model, the ECMWF.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Bogotá el cielo trae llovizna,",
+   "en": "In «Bogotá» the sky brings drizzle,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con una probabilidad de precipitación del noventa y cuatro por ciento.",
+   "en": "with a ninety-four per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima capitalina se queda en diecinueve grados y la mínima cae a once.",
+   "en": "The capital's high stays at nineteen degrees and the low drops to eleven.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí el viento no pasa de nueve kilómetros por hora.",
+   "en": "There the wind gets no further than nine kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Cali también hay llovizna,",
+   "en": "In «Cali» there is drizzle too,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la probabilidad de precipitación es del noventa y cinco por ciento.",
+   "en": "and the chance of rain is ninety-five per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima vallecaucana llega a veintinueve grados y la mínima, a veintiuno.",
+   "en": "The high there reaches twenty-nine degrees and the low twenty-one.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento apenas alcanza seis kilómetros por hora.",
+   "en": "The wind barely gets to six kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Medellín tiene llovizna en el cielo y una probabilidad de precipitación del treinta y siete por ciento.",
+   "en": "«Medellín» has drizzle in the sky and a thirty-seven per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima antioqueña marca veintiocho grados y la mínima, dieciséis.",
+   "en": "The «Antioquia» high is twenty-eight degrees and the low sixteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento llega hasta doce kilómetros por hora.",
+   "en": "The wind gets up to twelve kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese es el clima.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Monday 7 September",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "Ideam records 38 degrees or more in six Colombian towns, and lows below three degrees at Paipa",
+ "summary_en": [
+  "Ideam records 38 degrees or more in six Colombian towns, and lows below three degrees at Paipa",
+  "Bogotá: drizzle, a 94 per cent chance of rain and a high of 19 degrees"
+ ]
+}

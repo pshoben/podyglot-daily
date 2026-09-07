@@ -5,6 +5,47 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-AR-El noticiero de la mañana, lunes 7 de septiembre",
+   "file": "podcast-daily-2026-09-07-morning-news-es-AR.json",
+   "bytes": 13097,
+   "sha256": "a255abf74fefc46139e35a4f257c605965a10e850f8327c16ae26bbfe35495b2",
+   "date": "2026-09-07",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El noticiero de la mañana, lunes 7 de septiembre",
+   "title_en": "The morning news, Monday 7 September",
+   "headline_en": "Amazon cargo plane runs off the runway at Miami airport and catches fire",
+   "summary_en": [
+    "Amazon cargo plane runs off the runway at Miami airport and catches fire",
+    "Argentina's government publishes the decree that puts the new juvenile justice law into effect",
+    "At least five people died in the Miami cargo plane crash, two Argentine dailies report"
+   ]
+  },
+  {
+   "id": "es-AR-El pronóstico, lunes 7 de septiembre",
+   "file": "podcast-daily-2026-09-07-morning-weather-es-AR.json",
+   "bytes": 6026,
+   "sha256": "e1cbeda362ac163cf06658e83842e7cb899d1d8b9cc5a340c308e7de852525d2",
+   "date": "2026-09-07",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El pronóstico, lunes 7 de septiembre",
+   "title_en": "Today's weather, Monday 7 September",
+   "headline_en": "Argentina's weather service: yellow alert for extreme cold, wind and Zonda, and a high of 14 in Buenos Aires",
+   "summary_en": [
+    "Argentina's weather service: yellow alert for extreme cold, wind and Zonda, and a high of 14 in Buenos Aires",
+    "The European model gives Buenos Aires broken cloud, a high of 12 and a low of 4, and no rain"
+   ]
+  },
+  {
    "id": "es-AR-El noticiero de la mañana, sábado 5 de septiembre",
    "file": "podcast-daily-2026-09-05-morning-news-es-AR.json",
    "bytes": 9680,

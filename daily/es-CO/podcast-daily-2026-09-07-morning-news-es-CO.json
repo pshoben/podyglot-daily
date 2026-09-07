@@ -1,0 +1,490 @@
+{
+ "title": "La actualidad de la mañana, lunes 7 de septiembre",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-07",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lunes siete de septiembre. La actualidad de la mañana.",
+   "en": "Monday the 7th of September. The morning news round-up.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El secretario de Estado de Estados Unidos, Marco Rubio,",
+   "en": "The United States Secretary of State, «Marco Rubio»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "estará mañana martes en Barranquilla.",
+   "en": "will be in «Barranquilla» tomorrow, Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y la revisión nacional de las fotomultas ya tiene sus primeros resultados.",
+   "en": "And the national review of Colombia's traffic cameras has its first results.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Iniciamos con esa visita, que según La República",
+   "en": "We begin with that visit, which «La República» says",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "incluye una reunión con el presidente Abelardo De La Espriella.",
+   "en": "includes a meeting with President «Abelardo De La Espriella».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Colombiano precisó que la visita hace parte de una gira por la región.",
+   "en": "«El Colombiano» said the visit is part of a tour of the region.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según el portavoz del Departamento de Estado, Thomas Pigott,",
+   "en": "According to the State Department spokesman, «Thomas Pigott»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "esa gira va del ocho al diez de septiembre.",
+   "en": "that tour runs from the 8th to the 10th of September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Además de Colombia, Rubio visitará Ecuador y Perú.",
+   "en": "As well as Colombia, «Rubio» will visit Ecuador and Peru.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Secretaría de Estado mencionó, entre los temas,",
+   "en": "The State Department listed, among the subjects,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el apoyo estadounidense tras el terremoto de agosto, el narcoterrorismo y el comercio.",
+   "en": "American help after the August earthquake, narcoterrorism and trade.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La República agregó que la delegación colombiana le planteó suspender temporalmente los aranceles.",
+   "en": "«La República» adds that the Colombian delegation asked him to suspend tariffs for a time.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos en Colombia, donde el presidente ordenó revisar todas las fotomultas del país.",
+   "en": "Still in Colombia, the president has ordered a review of every traffic camera in the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según La República,",
+   "en": "According to «La República»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "cerca de cuarenta mil órdenes de comparendo podrían haberse impuesto de manera irregular.",
+   "en": "about 40,000 tickets may have been issued irregularly.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los dispositivos estaban autorizados, pero no registraban oficialmente el inicio de su operación.",
+   "en": "The devices were authorised, but had not officially registered the start of their operation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Tiempo añadió que la revisión detectó, además,",
+   "en": "«El Tiempo» added that the review",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "doce dispositivos con la autorización en trámite de revocatoria.",
+   "en": "also found 12 devices whose authorisation is in the process of being revoked.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otro tema del día, Roy Barreras anunció su retiro definitivo de la política.",
+   "en": "Another subject today, «Roy Barreras» has announced he is leaving politics for good.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El médico, exsenador y excandidato presidencial lo escribió en su cuenta de X,",
+   "en": "The doctor, former senator and former presidential candidate wrote it on his X account,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según El Colombiano.",
+   "en": "«El Colombiano» says.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dijo que deja también la medicina y que se dedicará a la literatura:",
+   "en": "He said he is giving up medicine too and will turn to literature: \"I'll leave you in peace.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "\"Los dejo descansar\".",
+   "en": "\"",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Tiempo recordó que el anuncio llega",
+   "en": "«El Tiempo» recalled that the announcement follows",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tras culminar una maestría en Literatura en la Universidad de Salamanca.",
+   "en": "a master's in Literature at the University of «Salamanca».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de asunto, murió el pastor,",
+   "en": "Changing the subject, the pastor,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "escritor y periodista Darío Silva-Silva.",
+   "en": "writer and journalist «Darío Silva-Silva» has died.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La iglesia Casa Sobre la Roca, que él fundó,",
+   "en": "The «Casa Sobre la Roca» church, which he founded,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "confirmó su muerte la noche del domingo.",
+   "en": "confirmed his death on Sunday night.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La República repasó su trayectoria como ministro del evangelio, misionero, predicador y periodista.",
+   "en": "«La República» went back over his working life as a minister of the gospel, missionary, preacher and journalist.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Semana recogió la reacción del presidente,",
+   "en": "«Semana» carried the president's reaction,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que lo llamó un hombre de fe.",
+   "en": "in which he called him a man of faith.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En otras noticias,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "seis temblores de magnitudes tres y cuatro se sintieron en el país el domingo.",
+   "en": "six tremors of magnitude 3 and 4 were felt around the country on Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Servicio Geológico Colombiano reportó",
+   "en": "The «Servicio Geológico Colombiano» reported",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un sismo de más de cuatro grados cerca del volcán Puracé.",
+   "en": "a tremor above magnitude 4 near the «Puracé» volcano.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Tiempo precisó que el más fuerte ocurrió en Totoró, Cauca,",
+   "en": "«El Tiempo» said the strongest was at «Totoró», in «Cauca»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y se sintió en Popayán y Cali.",
+   "en": "and was felt in «Popayán» and «Cali».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para finalizar,",
+   "en": "And finally,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un miembro de la Legión Francesa que estaba secuestrado en Nariño escapó de sus captores.",
+   "en": "a member of the French Legion held hostage in «Nariño» has escaped his captors.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Semana identificó a sus captores como las disidencias de las Farc.",
+   "en": "«Semana» identified his captors as the «Farc» dissidents.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Tiempo agregó que la fuga ocurrió hace varios días.",
+   "en": "«El Tiempo» added that the escape happened several days ago.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Llegó por sus propios medios a una estación de Policía.",
+   "en": "He reached a police station under his own steam.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El secuestro se había producido el cinco de agosto.",
+   "en": "He had been kidnapped on the 5th of August.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más importante.",
+   "en": "That is what matters most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Monday 7 September",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "US Secretary of State Marco Rubio meets President De La Espriella in Barranquilla on Tuesday",
+ "summary_en": [
+  "US Secretary of State Marco Rubio meets President De La Espriella in Barranquilla on Tuesday",
+  "About 40,000 Colombian traffic-camera tickets may have been issued irregularly, a government review finds",
+  "Roy Barreras quits politics and medicine to devote himself to literature"
+ ]
+}

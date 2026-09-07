@@ -1,0 +1,320 @@
+{
+ "title": "Las noticias de la mañana, lunes 7 de septiembre",
+ "dialect": "es-CL",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CL-daily-news",
+   "wpm": 205,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-07",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lunes siete de septiembre. Las noticias de la mañana.",
+   "en": "Monday 7th September. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La ultraderecha alemana ganó la elección regional de Sajonia-Anhalt.",
+   "en": "The German far right has won the regional election in «Sajonia-Anhalt».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el cuarenta por ciento de los consultados ve a Argentina",
+   "en": "And 40 percent of those asked see Argentina as an enemy,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "como un enemigo, según Cadem.",
+   "en": "according to «Cadem».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Partimos con Alemania, donde este domingo se votó en el estado de Sajonia-Anhalt.",
+   "en": "We start with Germany, where the state of «Sajonia-Anhalt» voted on Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es un estado del este del país,",
+   "en": "It is a state in the east of the country,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y allí se impuso Alternativa por Alemania.",
+   "en": "and «Alternativa por Alemania» came out on top.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La AfD es un partido de extrema derecha.",
+   "en": "The «AfD» is a far-right party.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según La Tercera, los resultados oficiales le daban treinta y nueve escaños.",
+   "en": "According to «La Tercera», the official results gave it 39 seats.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mayoría absoluta estaba en cuarenta y dos,",
+   "en": "An absolute majority was 42,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el partido no la alcanzó.",
+   "en": "and the party did not get there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aun así, quedó a un paso de obtener por primera vez un gobierno regional.",
+   "en": "Even so, it came within one step of holding a regional government for the first time.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ex-Ante lo describe como la mayor victoria de la extrema derecha",
+   "en": "«Ex-Ante» calls it the far right's biggest win",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en una región alemana desde el fin de la Segunda Guerra.",
+   "en": "in a German region since the end of the Second World War.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Tercera agregó que el partido terminó muy por delante de su rival más cercano.",
+   "en": "«La Tercera» added that the party finished well ahead of its nearest rival.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos en Chile, con la encuesta Cadem sobre la relación con Argentina.",
+   "en": "Back home in Chile, and a «Cadem» poll on relations with Argentina.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El sondeo se hizo tras las recientes diferencias",
+   "en": "The poll was taken after recent differences",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con el país vecino por el extremo austral.",
+   "en": "with the neighbouring country over the far south.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los cuestionamientos apuntan al Estrecho de Magallanes.",
+   "en": "The questions raised are about the Strait of Magellan.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un cuarenta por ciento de los encuestados considera a Argentina un enemigo de Chile.",
+   "en": "40 percent of those surveyed consider Argentina an enemy of Chile.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ex-Ante añade que un treinta y seis por ciento la considera un país aliado.",
+   "en": "«Ex-Ante» adds that 36 percent consider Argentina an allied country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un setenta y uno por ciento estima que el vecino no respeta la soberanía chilena.",
+   "en": "71 percent think their neighbour does not respect Chile's sovereignty.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese mismo grupo le atribuye pretensiones territoriales sobre el Estrecho de Magallanes.",
+   "en": "That same group says Argentina has territorial claims on the Strait of Magellan.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El manejo del Presidente Kast en esa controversia también entró en la encuesta.",
+   "en": "President «Kast»'s handling of the row was also put to people in the poll.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Tercera precisó que un cuarenta y siete por ciento lo evalúa negativamente.",
+   "en": "«La Tercera» reports that 47 percent rate it badly.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Radio Universidad de Chile informó que la reacción frente a Argentina",
+   "en": "«Radio Universidad de Chile» reports that the response to Argentina",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "puso en cuestión al Gobierno.",
+   "en": "left the government under fire.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Políticos y académicos apuntan a una improvisación diplomática.",
+   "en": "Politicians and academics say the diplomacy has been made up as it goes along.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo principal.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Monday 7 September",
+ "edition": "morning",
+ "region": "es-CL",
+ "region_label": "Chile",
+ "headline_en": "German far right wins the Saxony-Anhalt regional election",
+ "summary_en": [
+  "German far right wins the Saxony-Anhalt regional election",
+  "Cadem poll on how Chileans now see Argentina",
+  "The AfD, the far-right party behind the eastern German result"
+ ]
+}

@@ -1,0 +1,199 @@
+{
+ "title": "El estado del tiempo, lunes 7 de septiembre",
+ "dialect": "es-CL",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CL-daily-weather",
+   "wpm": 205,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-07",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Así estará el cielo hoy lunes,",
+   "en": "Here is the sky today, Monday,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según el modelo del Centro Europeo, el ECMWF.",
+   "en": "according to the European Centre model, the «ECMWF».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la capital el cielo se mantiene nuboso.",
+   "en": "In the capital the sky stays cloudy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Santiago sube hasta dieciocho grados de máxima y baja a cinco de mínima.",
+   "en": "«Santiago» climbs to 18 degrees at its warmest and drops to 5 at its coldest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento no supera los diez kilómetros por hora.",
+   "en": "The wind gets no higher than 10 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación es de cero por ciento.",
+   "en": "The chance of rain is zero percent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Vamos ahora a Valparaíso, con ese mismo cielo nuboso.",
+   "en": "Now to «Valparaíso», with that same cloudy sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima porteña alcanza los dieciséis grados.",
+   "en": "The high in the port city reaches 16 degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima, en cambio, cae hasta dos grados, tres menos que en Santiago.",
+   "en": "The low, though, falls to 2 degrees, three below «Santiago».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento sopla en la costa hasta trece kilómetros por hora.",
+   "en": "On the coast the wind blows at up to 13 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y la probabilidad de lluvia vuelve a ser cero.",
+   "en": "And the chance of rain is zero there too.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Más al sur, Concepción tiene el cielo despejado.",
+   "en": "Further south, «Concepción» has clear skies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima penquista se queda en quince grados y la mínima en siete.",
+   "en": "The high there stops at 15 degrees and the low at 7.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Concepción el viento llega a once kilómetros por hora.",
+   "en": "In «Concepción» the wind reaches 11 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y allí el pronóstico repite ese cero por ciento.",
+   "en": "And the forecast there repeats that same zero percent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Entre las tres ciudades, las máximas se mueven entre quince y dieciocho grados.",
+   "en": "Across the three cities, the highs run from 15 to 18 degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese es el panorama.",
+   "en": "That is the picture.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Monday 7 September",
+ "edition": "morning",
+ "region": "es-CL",
+ "region_label": "Chile",
+ "headline_en": "Cloudy over Santiago, a high of 18 and no rain",
+ "summary_en": [
+  "Cloudy over Santiago, a high of 18 and no rain",
+  "Valparaíso cloudy too, a high of 16 and a low of 2"
+ ]
+}

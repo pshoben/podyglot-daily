@@ -1,0 +1,209 @@
+{
+ "title": "Le bulletin météo, lundi 7 septembre",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-weather",
+   "wpm": 185,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-07",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le tour du ciel québécois, pour la journée d'aujourd'hui.",
+   "en": "Here is a look at the sky over «Québec», for today.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon le modèle GEM d'Environnement Canada,",
+   "en": "According to Environment Canada's GEM model,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le ciel sera couvert à Montréal.",
+   "en": "the sky will be overcast in «Montréal».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ciel couvert également sur la ville de Québec.",
+   "en": "Overcast too over «Québec» City.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et c'est le même ciel couvert au Saguenay.",
+   "en": "And it is the same overcast sky in the «Saguenay».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Passons aux maximums, avec vingt-six degrés attendus à Montréal.",
+   "en": "On to the highs, with twenty-six degrees expected in «Montréal».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le mercure plafonne à vingt-cinq degrés à Québec.",
+   "en": "The mercury tops out at twenty-five degrees in «Québec» City.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et à vingt-quatre degrés au Saguenay.",
+   "en": "And at twenty-four degrees in the «Saguenay».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Du côté des minimums, Montréal descend à quatorze degrés.",
+   "en": "As for the lows, «Montréal» drops to fourteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Onze degrés à Québec.",
+   "en": "Eleven degrees in «Québec» City.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et le Saguenay, douze degrés au plus bas.",
+   "en": "And the «Saguenay», twelve degrees at its lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Montréal, la probabilité de précipitation s'établit à zéro pour cent.",
+   "en": "In «Montréal», the chance of rain stands at zero per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle atteint dix-neuf pour cent sur la ville de Québec.",
+   "en": "It reaches nineteen per cent over «Québec» City.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et elle est de vingt-quatre pour cent au Saguenay.",
+   "en": "And it is twenty-four per cent in the «Saguenay».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Reste le vent, qui souffle jusqu'à quatorze kilomètres par heure à Montréal.",
+   "en": "That leaves the wind, blowing up to fourteen kilometres an hour in «Montréal».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Jusqu'à dix-sept kilomètres par heure à Québec.",
+   "en": "Up to seventeen kilometres an hour in «Québec» City.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et jusqu'à dix-neuf kilomètres par heure au Saguenay.",
+   "en": "And up to nineteen kilometres an hour in the «Saguenay».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà le ciel de ce lundi sept septembre.",
+   "en": "That is the sky for this Monday the seventh of September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Monday 7 September",
+ "edition": "morning",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "Overcast in Montréal, with a high of 26 degrees and no rain expected",
+ "summary_en": [
+  "Overcast in Montréal, with a high of 26 degrees and no rain expected",
+  "Québec City: overcast, 25 degrees and a 19 per cent chance of rain"
+ ]
+}

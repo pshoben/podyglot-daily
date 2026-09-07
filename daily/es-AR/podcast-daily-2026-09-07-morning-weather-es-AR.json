@@ -1,0 +1,239 @@
+{
+ "title": "El pronóstico, lunes 7 de septiembre",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-weather",
+   "wpm": 195,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-07",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Cómo viene el tiempo hoy:",
+   "en": "The outlook today:",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "primero la alerta, después las tres ciudades.",
+   "en": "the alert first, then the three cities.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según el Servicio Meteorológico Nacional,",
+   "en": "According to the national weather service,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "rige una alerta amarilla por frío extremo, vientos y Zonda.",
+   "en": "a yellow alert is in force for extreme cold, wind and the «Zonda».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El aviso corre para este lunes siete de septiembre.",
+   "en": "The warning runs for this Monday the seventh of September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El organismo advirtió que las temperaturas pueden ser peligrosas para los grupos de riesgo.",
+   "en": "The agency warned that the temperatures can be dangerous for at-risk groups.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para la Ciudad de Buenos Aires,",
+   "en": "For the city of «Buenos Aires»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el servicio ubica la máxima en catorce grados.",
+   "en": "the service puts the high at fourteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ciudad por ciudad, los números que siguen tienen otra fuente.",
+   "en": "City by city, the figures that follow have a different source.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Salen del modelo del Centro Europeo, el ECMWF.",
+   "en": "They are from the European Centre model, the ECMWF.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Buenos Aires ese modelo marca doce grados de máxima y cuatro de mínima.",
+   "en": "In «Buenos Aires» that model has twelve degrees for the high and four for the low.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo queda con intervalos nubosos y la probabilidad de precipitación es cero.",
+   "en": "The sky stays broken and the chance of rain is zero.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento máximo llega a quince kilómetros por hora.",
+   "en": "The strongest wind reaches fifteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Córdoba la máxima trepa a quince grados y la mínima baja a cinco.",
+   "en": "In «Córdoba» the high climbs to fifteen degrees and the low drops to five.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí el cielo está nuboso y la probabilidad de precipitación también es cero.",
+   "en": "There the sky is cloudy and the chance of rain is zero as well.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento máximo alcanza los veinticuatro kilómetros por hora.",
+   "en": "The strongest wind gets to twenty-four kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Mendoza la máxima es igualmente de quince grados,",
+   "en": "In «Mendoza» the high is fifteen degrees too,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con una mínima de un grado.",
+   "en": "with a low of one.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo se mantiene poco nuboso y la probabilidad de precipitación vuelve a ser cero.",
+   "en": "The sky stays mostly clear and the chance of rain is zero again.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento máximo no pasa de nueve kilómetros por hora.",
+   "en": "The strongest wind goes no higher than nine kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Así está el cielo.",
+   "en": "That is how the sky looks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Monday 7 September",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Argentina's weather service: yellow alert for extreme cold, wind and Zonda, and a high of 14 in Buenos Aires",
+ "summary_en": [
+  "Argentina's weather service: yellow alert for extreme cold, wind and Zonda, and a high of 14 in Buenos Aires",
+  "The European model gives Buenos Aires broken cloud, a high of 12 and a low of 4, and no rain"
+ ]
+}
