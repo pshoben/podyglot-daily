@@ -1,0 +1,112 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-ES",
+ "date": "2026-09-08",
+ "episodes": [
+  {
+   "id": "es-ES-El informativo de la mañana, martes 8 de septiembre",
+   "file": "podcast-daily-2026-09-08-morning-news-es-ES.json",
+   "bytes": 10948,
+   "sha256": "86945bb069dd3f49ec6ea993e88e4320ddb536199018a2e5719500f361422681",
+   "date": "2026-09-08",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, martes 8 de septiembre",
+   "title_en": "The morning news, Tuesday 8 September",
+   "headline_en": "Germany's far right is a step from leading a state government, with the left-populist Sahra Wagenknecht Alliance offering to make it possible",
+   "summary_en": [
+    "Germany's far right is a step from leading a state government, with the left-populist Sahra Wagenknecht Alliance offering to make it possible",
+    "The OECD publishes its PISA results today, and Spanish education is measured again",
+    "The party holding the key in Saxony-Anhalt is a pro-Russian split from the German left"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, martes 8 de septiembre",
+   "file": "podcast-daily-2026-09-08-morning-sport-es-ES.json",
+   "bytes": 4599,
+   "sha256": "129665a11ee4ef7c8f365434510d7b1c0796e20eba56d28e03ae1bc737d75dbf",
+   "date": "2026-09-08",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, martes 8 de septiembre",
+   "title_en": "Today's sport, Tuesday 8 September",
+   "headline_en": "Football: Real Madrid host Inter at the Bernabeu on the opening night of the Champions League",
+   "summary_en": [
+    "Football: Real Madrid host Inter at the Bernabeu on the opening night of the Champions League",
+    "Football: Mourinho takes a European match on the Madrid bench thirteen years on, against his old club"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, martes 8 de septiembre",
+   "file": "podcast-daily-2026-09-08-morning-weather-es-ES.json",
+   "bytes": 7382,
+   "sha256": "327250d7ab7e6fd690be4b30c10833f2ee7c1409f1b082bdf8c7bf6c74dbf154",
+   "date": "2026-09-08",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, martes 8 de septiembre",
+   "title_en": "Today's weather, Tuesday 8 September",
+   "headline_en": "AEMET: a front reaches the north-west today, with heavy rain in Galicia and the west of the Cantabrian coast",
+   "summary_en": [
+    "AEMET: a front reaches the north-west today, with heavy rain in Galicia and the west of the Cantabrian coast",
+    "AEMET has yellow rain warnings out today for Asturias and the Lugo mountains"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, martes 8 de septiembre",
+   "file": "podcast-daily-2026-09-08-morning-weather-andalucia-es-ES.json",
+   "bytes": 5064,
+   "sha256": "68f8b92e61432c9fa45e8ec7181ba289f6b7ad618563e4f968756250c394e0f5",
+   "date": "2026-09-08",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, martes 8 de septiembre",
+   "title_en": "Today's weather, Andalusia, Tuesday 8 September",
+   "headline_en": "Córdoba, AEMET's Tuesday forecast: mostly clear, high 39 degrees, low 21",
+   "summary_en": [
+    "Córdoba, AEMET's Tuesday forecast: mostly clear, high 39 degrees, low 21",
+    "Sevilla, AEMET's Tuesday forecast: mostly clear, high 39 degrees, low 22"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, martes 8 de septiembre",
+   "file": "podcast-daily-2026-09-08-morning-weather-canarias-es-ES.json",
+   "bytes": 4955,
+   "sha256": "ec57dcfbcf33d49de493062491f9a9a5aeb4daec50acf5f51a6fed2f2289570a",
+   "date": "2026-09-08",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, martes 8 de septiembre",
+   "title_en": "Today's weather, Canary Islands, Tuesday 8 September",
+   "headline_en": "AEMET has an orange heat warning over most of Gran Canaria for the whole of the daytime",
+   "summary_en": [
+    "AEMET has an orange heat warning over most of Gran Canaria for the whole of the daytime",
+    "AEMET has yellow heat warnings out over three zones of Tenerife today"
+   ]
+  }
+ ],
+ "content": "b4a5eeec8196c4ddc731d7963bcad2414a1839fa6ee5fd05b6a5fb298666576a",
+ "rev": 1,
+ "updated": "2026-09-08T06:35:27.906Z"
+}

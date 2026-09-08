@@ -1,0 +1,203 @@
+{
+ "title": "El tiempo en Canarias, martes 8 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-canarias",
+   "wpm": 208,
+   "rate_multiplier": 0.86,
+   "pitch_multiplier": 0.59
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-canarias",
+ "date": "2026-09-08",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El este, el sur y el oeste de Gran Canaria",
+   "en": "The east, the south and the west of «Gran Canaria»",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "están hoy en aviso naranja por altas temperaturas,",
+   "en": "are under an orange warning for high temperatures today,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según la Aemet.",
+   "en": "«Aemet» says.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Está en vigor desde las diez de la mañana",
+   "en": "It runs from ten in the morning",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "hasta el final de la tarde.",
+   "en": "until the end of the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el norte de la isla y en las cumbres el aviso baja a amarillo.",
+   "en": "In the north of the island and up on the summits the warning drops to yellow.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Tenerife hay aviso amarillo por calor en el norte,",
+   "en": "On «Tenerife» there is a yellow heat warning in the north,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el área metropolitana y en el este, el sur y el oeste.",
+   "en": "in the metropolitan area and in the east, the south and the west.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Veintinueve grados en Las Palmas de Gran Canaria, y la mínima, veinticuatro.",
+   "en": "29 degrees in «Las Palmas de Gran Canaria», and the low is 24.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Intervalos nubosos y un treinta y cinco por ciento de probabilidad de lluvia.",
+   "en": "Broken cloud, and a 35 per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El ultravioleta toca el nueve,",
+   "en": "The ultraviolet index touches 9,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el alisio sopla del norte a veinticinco kilómetros por hora.",
+   "en": "and the trade wind blows from the north at 25 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Santa Cruz de Tenerife pasa el día con el cielo despejado,",
+   "en": "«Santa Cruz de Tenerife» spends the day under a clear sky,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "treinta y dos grados y veinticuatro de mínima.",
+   "en": "32 degrees and a low of 24.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sin probabilidad de lluvia, con viento del este, que alcanza los veinticinco kilómetros por hora,",
+   "en": "No chance of rain, with an easterly wind that gets up to 25 kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y un ultravioleta de ocho.",
+   "en": "and an ultraviolet index of 8.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es Canarias.",
+   "en": "That is «Canarias».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 4,
+ "handover": "junction",
+ "title_en": "Today's weather, Canary Islands, Tuesday 8 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Canarias",
+ "accent": "Canarias",
+ "accent_label": "acento de Canarias",
+ "segment_order": 2,
+ "headline_en": "AEMET has an orange heat warning over most of Gran Canaria for the whole of the daytime",
+ "summary_en": [
+  "AEMET has an orange heat warning over most of Gran Canaria for the whole of the daytime",
+  "AEMET has yellow heat warnings out over three zones of Tenerife today"
+ ]
+}

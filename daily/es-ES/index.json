@@ -5,6 +5,107 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-ES-El informativo de la mañana, martes 8 de septiembre",
+   "file": "podcast-daily-2026-09-08-morning-news-es-ES.json",
+   "bytes": 10948,
+   "sha256": "86945bb069dd3f49ec6ea993e88e4320ddb536199018a2e5719500f361422681",
+   "date": "2026-09-08",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, martes 8 de septiembre",
+   "title_en": "The morning news, Tuesday 8 September",
+   "headline_en": "Germany's far right is a step from leading a state government, with the left-populist Sahra Wagenknecht Alliance offering to make it possible",
+   "summary_en": [
+    "Germany's far right is a step from leading a state government, with the left-populist Sahra Wagenknecht Alliance offering to make it possible",
+    "The OECD publishes its PISA results today, and Spanish education is measured again",
+    "The party holding the key in Saxony-Anhalt is a pro-Russian split from the German left"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, martes 8 de septiembre",
+   "file": "podcast-daily-2026-09-08-morning-sport-es-ES.json",
+   "bytes": 4599,
+   "sha256": "129665a11ee4ef7c8f365434510d7b1c0796e20eba56d28e03ae1bc737d75dbf",
+   "date": "2026-09-08",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, martes 8 de septiembre",
+   "title_en": "Today's sport, Tuesday 8 September",
+   "headline_en": "Football: Real Madrid host Inter at the Bernabeu on the opening night of the Champions League",
+   "summary_en": [
+    "Football: Real Madrid host Inter at the Bernabeu on the opening night of the Champions League",
+    "Football: Mourinho takes a European match on the Madrid bench thirteen years on, against his old club"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, martes 8 de septiembre",
+   "file": "podcast-daily-2026-09-08-morning-weather-es-ES.json",
+   "bytes": 7382,
+   "sha256": "327250d7ab7e6fd690be4b30c10833f2ee7c1409f1b082bdf8c7bf6c74dbf154",
+   "date": "2026-09-08",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, martes 8 de septiembre",
+   "title_en": "Today's weather, Tuesday 8 September",
+   "headline_en": "AEMET: a front reaches the north-west today, with heavy rain in Galicia and the west of the Cantabrian coast",
+   "summary_en": [
+    "AEMET: a front reaches the north-west today, with heavy rain in Galicia and the west of the Cantabrian coast",
+    "AEMET has yellow rain warnings out today for Asturias and the Lugo mountains"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, martes 8 de septiembre",
+   "file": "podcast-daily-2026-09-08-morning-weather-andalucia-es-ES.json",
+   "bytes": 5064,
+   "sha256": "68f8b92e61432c9fa45e8ec7181ba289f6b7ad618563e4f968756250c394e0f5",
+   "date": "2026-09-08",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, martes 8 de septiembre",
+   "title_en": "Today's weather, Andalusia, Tuesday 8 September",
+   "headline_en": "Córdoba, AEMET's Tuesday forecast: mostly clear, high 39 degrees, low 21",
+   "summary_en": [
+    "Córdoba, AEMET's Tuesday forecast: mostly clear, high 39 degrees, low 21",
+    "Sevilla, AEMET's Tuesday forecast: mostly clear, high 39 degrees, low 22"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, martes 8 de septiembre",
+   "file": "podcast-daily-2026-09-08-morning-weather-canarias-es-ES.json",
+   "bytes": 4955,
+   "sha256": "ec57dcfbcf33d49de493062491f9a9a5aeb4daec50acf5f51a6fed2f2289570a",
+   "date": "2026-09-08",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, martes 8 de septiembre",
+   "title_en": "Today's weather, Canary Islands, Tuesday 8 September",
+   "headline_en": "AEMET has an orange heat warning over most of Gran Canaria for the whole of the daytime",
+   "summary_en": [
+    "AEMET has an orange heat warning over most of Gran Canaria for the whole of the daytime",
+    "AEMET has yellow heat warnings out over three zones of Tenerife today"
+   ]
+  },
+  {
    "id": "es-ES-El informativo de la mañana, lunes 7 de septiembre",
    "file": "podcast-daily-2026-09-07-morning-news-es-ES.json",
    "bytes": 8614,
@@ -1315,107 +1416,6 @@
    "summary_en": [
     "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-26",
     "Predicción AEMET para Santa Cruz de Tenerife (Santa Cruz de Tenerife (Tenerife)), 2026-08-26"
-   ]
-  },
-  {
-   "id": "es-ES-El informativo de la mañana, martes 25 de agosto",
-   "file": "podcast-daily-2026-08-25-morning-news-es-ES.json",
-   "bytes": 11233,
-   "sha256": "6000e4910523f1e0cd1b17d1604a25c62518cb7419ae22743bca1e556d8761f3",
-   "date": "2026-08-25",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El informativo de la mañana, martes 25 de agosto",
-   "title_en": "The morning news, Tuesday 25 August",
-   "headline_en": "The US Supreme Court lifts the block on Trump's postal voting order",
-   "summary_en": [
-    "The US Supreme Court lifts the block on Trump's postal voting order",
-    "The Government creates a single command for Ceuta and puts minister Torres in charge",
-    "Garamendi will run the CEOE for a third term after nobody stood against him"
-   ]
-  },
-  {
-   "id": "es-ES-Los deportes, martes 25 de agosto",
-   "file": "podcast-daily-2026-08-25-morning-sport-es-ES.json",
-   "bytes": 4508,
-   "sha256": "3ce419e7cbcef79bc26fecb975d49acaf0dd29757b2e77776dc520ba11103dc6",
-   "date": "2026-08-25",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "Los deportes, martes 25 de agosto",
-   "title_en": "Today's sport, Tuesday 25 August",
-   "headline_en": "Barcelona all but give up on signing Julian Alvarez",
-   "summary_en": [
-    "Barcelona all but give up on signing Julian Alvarez",
-    "Valencia host Betis at Mestalla in the postponed opening-day fixture"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo, martes 25 de agosto",
-   "file": "podcast-daily-2026-08-25-morning-weather-es-ES.json",
-   "bytes": 6167,
-   "sha256": "30e9c38dc8c98304ac560ff4f32904acb0ccd88a183be7c5b41bd9bed66df949",
-   "date": "2026-08-25",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": 0,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo, martes 25 de agosto",
-   "title_en": "Today's weather, Tuesday 25 August",
-   "headline_en": "AEMET: a calmer Tuesday, but strong storms stay over Asturias and Galicia",
-   "summary_en": [
-    "AEMET: a calmer Tuesday, but strong storms stay over Asturias and Galicia",
-    "Madrid: a fresh start, up to 30 degrees inland, and no warnings in force"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo en Andalucía, martes 25 de agosto",
-   "file": "podcast-daily-2026-08-25-morning-weather-andalucia-es-ES.json",
-   "bytes": 5038,
-   "sha256": "1d0c8aca9de1e8cf8af6b187ffd817c4b668c214bcd53b37fc9174f607028996",
-   "date": "2026-08-25",
-   "edition": "morning",
-   "programme": "weather-andalucia",
-   "programme_order": 3,
-   "segment_order": 1,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo en Andalucía, martes 25 de agosto",
-   "title_en": "Today's weather, Andalusia, Tuesday 25 August",
-   "headline_en": "Cordoba today: cloudy spells then clear, high of 33 degrees",
-   "summary_en": [
-    "Cordoba today: cloudy spells then clear, high of 33 degrees",
-    "Seville today: mostly clear then clear, high of 31 degrees"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo en Canarias, martes 25 de agosto",
-   "file": "podcast-daily-2026-08-25-morning-weather-canarias-es-ES.json",
-   "bytes": 4569,
-   "sha256": "b7ab9ff2ad1bf41872faf47a36115bdc20dc0e25c8405d70553ee3c69259e968",
-   "date": "2026-08-25",
-   "edition": "morning",
-   "programme": "weather-canarias",
-   "programme_order": 4,
-   "segment_order": 2,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo en Canarias, martes 25 de agosto",
-   "title_en": "Today's weather, Canary Islands, Tuesday 25 August",
-   "headline_en": "Las Palmas today: heavy cloud, high of 27 degrees",
-   "summary_en": [
-    "Las Palmas today: heavy cloud, high of 27 degrees",
-    "Santa Cruz de Tenerife today: mostly clear, high of 30 degrees"
    ]
   }
  ]

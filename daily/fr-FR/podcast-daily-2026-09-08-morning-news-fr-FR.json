@@ -1,0 +1,350 @@
+{
+ "title": "Le journal du matin, mardi 8 septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-08",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Il est sept heures à Paris, en ce mardi huit septembre. Le journal du matin.",
+   "en": "Seven o'clock in «Paris», this Tuesday the 8th of September. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Ukraine, la Russie a repris cette nuit ses frappes sur Kiev.",
+   "en": "In Ukraine, Russia has resumed its strikes on «Kyiv» overnight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et les pompiers français entrent en grève à partir d'aujourd'hui.",
+   "en": "And French firefighters go on strike from today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par la capitale ukrainienne,",
+   "en": "We start with the Ukrainian capital,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où de fortes explosions ont été entendues tôt ce matin.",
+   "en": "where loud explosions were heard early this morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'administration militaire a fait état d'une attaque de missiles.",
+   "en": "The military administration reported a missile attack.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon Sud Ouest, ces frappes suivent une suspension de trois jours.",
+   "en": "According to «Sud Ouest», those strikes follow a three-day suspension.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cette trêve coïncidait avec une visite inédite d'émissaires américains.",
+   "en": "That pause coincided with an unprecedented visit by American envoys.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Volodymyr Zelensky a évoqué la possibilité d'une nouvelle session de négociations trilatérales.",
+   "en": "«Volodymyr Zelensky» has raised the possibility of a new session of three-way talks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a affirmé que la Russie s'était dite prête à négocier, rapporte France Télévisions.",
+   "en": "He said Russia had declared itself ready to negotiate, «France Télévisions» reports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'après Ouest-France, le procureur général ukrainien a annoncé sa démission.",
+   "en": "«Ouest-France» reports that Ukraine's prosecutor general has announced his resignation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il est accusé d'appartenance à un réseau payé pour protéger des centres d'appels frauduleux.",
+   "en": "He is accused of belonging to a network paid to protect fraudulent call centres.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, l'intersyndicale des pompiers a déposé un préavis de grève nationale.",
+   "en": "In France, the firefighters' inter-union has filed notice of a national strike.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon RFI, le mouvement court du huit septembre au vingt octobre.",
+   "en": "According to «RFI», the action runs from the 8th of September to the 20th of October.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il intervient après les incendies historiques de l'été.",
+   "en": "It comes after the summer's historic wildfires.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'intersyndicale dénonce le manque de moyens et de recrutements.",
+   "en": "The inter-union complains of a lack of resources and of recruitment.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Monde relève que des réquisitions sont possibles.",
+   "en": "«Le Monde» notes that requisitions are possible.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le mouvement ne devrait donc pas peser sur les secours.",
+   "en": "So the action should not weigh on the emergency services.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les pompiers professionnels comptent déployer banderoles et messages sur les camions.",
+   "en": "Professional firefighters plan to put banners and messages on their trucks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité, le procès de quatorze passeurs présumés s'ouvre aujourd'hui à Paris.",
+   "en": "In other news, the trial of fourteen suspected people smugglers opens today in «Paris».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Télégramme rappelle que la justice française les juge après un naufrage dans la Manche.",
+   "en": "«Le Télégramme» recalls that the French courts are trying them after a sinking in the Channel.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce naufrage a fait trente et un morts ou disparus, dont un enfant.",
+   "en": "That sinking left thirty-one people dead or missing, one of them a child.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En novembre deux mille vingt et un, l'embarcation avait sombré entre la France et l'Angleterre.",
+   "en": "In November 2021, the boat had gone down between France and England.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Libération ajoute que les militaires mis en cause pour non-assistance font l'objet d'une procédure distincte.",
+   "en": "«Libération» adds that the servicemen accused of failing to help face a separate case.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à autre chose,",
+   "en": "Moving on,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le Canada applique depuis ce mardi des surtaxes sur des produits américains.",
+   "en": "Canada has been applying surtaxes on American products since this Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sud Ouest écrit qu'elles répondent aux droits de douane imposés par Washington.",
+   "en": "«Sud Ouest» writes that they answer the customs duties imposed by Washington.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour finir, la société française d'intelligence artificielle Mistral AI",
+   "en": "And finally, the French artificial intelligence company «Mistral AI»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "signe sa plus grosse levée de fonds.",
+   "en": "seals its biggest fundraising.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'après Le Figaro, cette levée valorise l'entreprise à plus de vingt et un milliards d'euros.",
+   "en": "According to «Le Figaro», that fundraising values the company at more than twenty-one billion euros.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Samsung entre à son capital, aux côtés d'autres investisseurs.",
+   "en": "«Samsung» is entering its capital, alongside other investors.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is where the main news stands.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 8 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Russia resumes strikes on Kyiv overnight, after a three-day pause",
+ "summary_en": [
+  "Russia resumes strikes on Kyiv overnight, after a three-day pause",
+  "French firefighters begin a national strike over resources, running to 20 October",
+  "Zelensky says Russia signalled to Trump's envoys that it is ready to negotiate"
+ ]
+}

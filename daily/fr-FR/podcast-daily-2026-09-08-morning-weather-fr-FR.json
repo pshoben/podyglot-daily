@@ -1,0 +1,189 @@
+{
+ "title": "La météo, mardi 8 septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-08",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Côté ciel, et d'après les modèles de Météo-France,",
+   "en": "As for the sky, and according to the «Météo-France» models,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le temps est couvert à Marseille.",
+   "en": "the weather is overcast in «Marseille».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le maximum y est attendu à vingt-huit degrés,",
+   "en": "The high there is expected at twenty-eight degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le minimum à vingt-trois degrés.",
+   "en": "and the low at twenty-three degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent marseillais monte aujourd'hui jusqu'à quinze kilomètres par heure.",
+   "en": "The wind in «Marseille» climbs today to fifteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Bordeaux, le mercure se tient entre dix-huit et vingt-six degrés.",
+   "en": "In «Bordeaux», the mercury holds between eighteen and twenty-six degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De la bruine est annoncée au-dessus de la ville dans la journée.",
+   "en": "Drizzle is forecast above the city during the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent bordelais plafonne à dix-huit kilomètres par heure.",
+   "en": "The wind in «Bordeaux» tops out at eighteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Paris affiche les mêmes vingt-six degrés que Bordeaux,",
+   "en": "«Paris» shows the same twenty-six degrees as «Bordeaux»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un minimum de dix-huit degrés.",
+   "en": "with a low of eighteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La capitale connaît elle aussi de la bruine,",
+   "en": "The capital has drizzle too,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent y est plus soutenu qu'à Bordeaux.",
+   "en": "and the wind there is stronger than in «Bordeaux».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent parisien pointe à vingt-huit kilomètres par heure.",
+   "en": "The wind in «Paris» peaks at twenty-eight kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le minimum marseillais, lui, dépasse de cinq degrés ceux de Bordeaux et de Paris.",
+   "en": "The low in «Marseille», meanwhile, is five degrees above those in «Bordeaux» and «Paris».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On compte treize kilomètres par heure de vent de plus à Paris qu'à Marseille.",
+   "en": "«Paris» has thirteen kilometres an hour more wind than «Marseille».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo.",
+   "en": "And that is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Tuesday 8 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Marseille stays overcast, with a high of 28 degrees and a low of 23",
+ "summary_en": [
+  "Marseille stays overcast, with a high of 28 degrees and a low of 23",
+  "Drizzle over Bordeaux, where the day runs between 18 and 26 degrees"
+ ]
+}

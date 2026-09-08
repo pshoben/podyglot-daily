@@ -1,0 +1,213 @@
+{
+ "title": "El tiempo en Andalucía, martes 8 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-andalucia",
+   "wpm": 208,
+   "rate_multiplier": 0.73,
+   "pitch_multiplier": 0.79
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-andalucia",
+ "date": "2026-09-08",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Tierra adentro el calor no afloja:",
+   "en": "Inland the heat does not ease:",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la Aemet da hoy treinta y nueve grados en Córdoba.",
+   "en": "«Aemet» gives «Córdoba» 39 degrees today.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima baja hasta veintiuno,",
+   "en": "The low comes down to 21,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con cielo poco nuboso y un índice ultravioleta de siete.",
+   "en": "with a mostly clear sky and an ultraviolet index of 7.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por el valle, Sevilla marca los mismos treinta y nueve grados, con veintidós de mínima.",
+   "en": "Along the valley, «Sevilla» reads the same 39 degrees, with a low of 22.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También allí el cielo queda poco nuboso,",
+   "en": "There too the sky stays mostly clear,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con el mismo siete de ultravioleta,",
+   "en": "with the same 7 for ultraviolet,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el viento del oeste alcanza los veinticinco kilómetros por hora por la tarde.",
+   "en": "and the westerly wind gets up to 25 kilometres an hour in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hay aviso amarillo por altas temperaturas",
+   "en": "There is a yellow warning for high temperatures",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la campiña sevillana y en la cordobesa,",
+   "en": "over the farmland of «Sevilla» and «Córdoba»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según la Aemet.",
+   "en": "«Aemet» says.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El aviso alcanza también al valle del Guadalquivir de Jaén y al litoral de Huelva,",
+   "en": "The warning also covers the «Guadalquivir» valley of «Jaén» and the coast of «Huelva»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en las horas centrales del día.",
+   "en": "through the middle of the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la costa, la máxima de Málaga es de treinta y tres grados,",
+   "en": "On the coast, the high in «Málaga» is 33 degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con una mínima de veinticuatro.",
+   "en": "with a low of 24.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empieza nuboso y por la tarde el cielo se abre,",
+   "en": "It starts cloudy and the sky opens up in the afternoon,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con viento del sureste a quince kilómetros por hora.",
+   "en": "with a south-easterly wind at 15 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es Andalucía.",
+   "en": "That is «Andalucía».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 3,
+ "handover": "junction",
+ "title_en": "Today's weather, Andalusia, Tuesday 8 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Andalucía",
+ "accent": "Andalucía",
+ "accent_label": "acento de Andalucía",
+ "segment_order": 1,
+ "headline_en": "Córdoba, AEMET's Tuesday forecast: mostly clear, high 39 degrees, low 21",
+ "summary_en": [
+  "Córdoba, AEMET's Tuesday forecast: mostly clear, high 39 degrees, low 21",
+  "Sevilla, AEMET's Tuesday forecast: mostly clear, high 39 degrees, low 22"
+ ]
+}

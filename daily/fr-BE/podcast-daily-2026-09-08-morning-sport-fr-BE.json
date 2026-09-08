@@ -1,0 +1,148 @@
+{
+ "title": "Le sport chez nous, mardi 8 septembre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-sport",
+   "wpm": 222,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-08",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Du côté des clubs, le football belge retrouve la Ligue des champions ce mardi.",
+   "en": "Over at the clubs, Belgian football is back in the Champions League this Tuesday.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon la RTBF, le Club de Bruges accueille Aston Villa.",
+   "en": "According to «RTBF», «Club Bruges» host Aston Villa.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le coup d'envoi est prévu à dix-huit heures quarante-cinq.",
+   "en": "Kick-off is set for a quarter to seven in the evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les Brugeois entament là leur rentrée européenne.",
+   "en": "The «Bruges» players start their European season there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La RTBF avance quatre raisons d'y croire pour le club.",
+   "en": "«RTBF» puts forward four reasons for the club to believe.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour Aston Villa, c'est le premier match de la compétition, écrit 7sur7.",
+   "en": "For Aston Villa, it is their first game in the competition, «7sur7» writes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'entraîneur espagnol Unai Emery en a parlé lundi en conférence de presse,",
+   "en": "The Spanish manager «Unai Emery» talked about it on Monday at a press conference,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec beaucoup de détermination.",
+   "en": "with a lot of determination.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le site note un début de saison délicat en Premier League, avec un groupe remanié.",
+   "en": "The site points to a delicate start to the season in the Premier League, with a reshuffled squad.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un nouveau test important nous attend ici demain, disait-il lundi.",
+   "en": "An important new test awaits us here tomorrow, he said on Monday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aston Villa dit aussi avoir tiré les enseignements de ses duels précédents avec Bruges.",
+   "en": "Aston Villa also say they have taken the lessons of their previous ties with «Bruges».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On s'arrête là pour le sport belge.",
+   "en": "We leave Belgian sport there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Tuesday 8 September",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Football: Club Bruges open their Champions League campaign at home to Aston Villa this evening",
+ "summary_en": [
+  "Football: Club Bruges open their Champions League campaign at home to Aston Villa this evening"
+ ]
+}

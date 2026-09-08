@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-FR-Le journal du matin, mardi 8 septembre",
+   "file": "podcast-daily-2026-09-08-morning-news-fr-FR.json",
+   "bytes": 9698,
+   "sha256": "54ee1c65808da45eb785cb2eb647945c3b53d7f414164268fa51ade854ef9593",
+   "date": "2026-09-08",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, mardi 8 septembre",
+   "title_en": "The morning news, Tuesday 8 September",
+   "headline_en": "Russia resumes strikes on Kyiv overnight, after a three-day pause",
+   "summary_en": [
+    "Russia resumes strikes on Kyiv overnight, after a three-day pause",
+    "French firefighters begin a national strike over resources, running to 20 October",
+    "Zelensky says Russia signalled to Trump's envoys that it is ready to negotiate"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, mardi 8 septembre",
+   "file": "podcast-daily-2026-09-08-morning-sport-fr-FR.json",
+   "bytes": 4577,
+   "sha256": "1a89aa4441b47e0034fcfe91797b2b24fa58f4b96d3ddbc84bc958485ead60d0",
+   "date": "2026-09-08",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, mardi 8 septembre",
+   "title_en": "Today's sport, Tuesday 8 September",
+   "headline_en": "Football: the Champions League league phase opens, with PSG, Lille and Lens for France",
+   "summary_en": [
+    "Football: the Champions League league phase opens, with PSG, Lille and Lens for France",
+    "Paris Saint-Germain, winners of the last two Champions Leagues, go for a third in a row"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, mardi 8 septembre",
+   "file": "podcast-daily-2026-09-08-morning-weather-fr-FR.json",
+   "bytes": 4697,
+   "sha256": "51d3ebaba5814e674b4bee0dc03edac043b1e498ec1f9d30221c1337bf809826",
+   "date": "2026-09-08",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, mardi 8 septembre",
+   "title_en": "Today's weather, Tuesday 8 September",
+   "headline_en": "Marseille stays overcast, with a high of 28 degrees and a low of 23",
+   "summary_en": [
+    "Marseille stays overcast, with a high of 28 degrees and a low of 23",
+    "Drizzle over Bordeaux, where the day runs between 18 and 26 degrees"
+   ]
+  },
+  {
    "id": "fr-FR-Le journal du matin, lundi 7 septembre",
    "file": "podcast-daily-2026-09-07-morning-news-fr-FR.json",
    "bytes": 9503,
@@ -715,67 +776,6 @@
    "summary_en": [
     "Twelve departments on orange alert for storms this evening",
     "Prévision pour Paris, mercredi 2026-08-26"
-   ]
-  },
-  {
-   "id": "fr-FR-Le journal du matin, mardi 25 août",
-   "file": "podcast-daily-2026-08-25-morning-news-fr-FR.json",
-   "bytes": 12897,
-   "sha256": "0072501a1d48e5196e62a62ebe0ac0da68e4ffceb3953d8ae5a7f4328d99da97",
-   "date": "2026-08-25",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le journal du matin, mardi 25 août",
-   "title_en": "The morning news, Tuesday 25 August",
-   "headline_en": "The United States takes Syria off its list of state sponsors of terrorism",
-   "summary_en": [
-    "The United States takes Syria off its list of state sponsors of terrorism",
-    "A tornado wrecks the village of Pomas in the Aude",
-    "The Socialists and Place publique sign off the rules of their primary"
-   ]
-  },
-  {
-   "id": "fr-FR-Le sport, mardi 25 août",
-   "file": "podcast-daily-2026-08-25-morning-sport-fr-FR.json",
-   "bytes": 5023,
-   "sha256": "834c01fb51e01a53585235ae15d1033bfb391399dcc057a4b10704dccf138fd4",
-   "date": "2026-08-25",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le sport, mardi 25 août",
-   "title_en": "Today's sport, Tuesday 25 August",
-   "headline_en": "Stage four of the Vuelta, starting and finishing in Andorra la Vella",
-   "summary_en": [
-    "Stage four of the Vuelta, starting and finishing in Andorra la Vella",
-    "The rugby league publishes what each professional club is paid, for the first time"
-   ]
-  },
-  {
-   "id": "fr-FR-La météo, mardi 25 août",
-   "file": "podcast-daily-2026-08-25-morning-weather-fr-FR.json",
-   "bytes": 4857,
-   "sha256": "1b865f1ccd1205ec802df7ac659fb57c7fd8e3b4f955afe76dc06fb08fe98863",
-   "date": "2026-08-25",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "La météo, mardi 25 août",
-   "title_en": "Today's weather, Tuesday 25 August",
-   "headline_en": "Paris today: drizzle, with a high of 28 degrees",
-   "summary_en": [
-    "Paris today: drizzle, with a high of 28 degrees",
-    "Bordeaux today: rain, with a high of 28 degrees"
    ]
   }
  ]

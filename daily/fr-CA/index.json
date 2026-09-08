@@ -411,47 +411,6 @@
     "Prévision pour Montréal, mercredi 2026-08-26",
     "Prévision pour Québec, mercredi 2026-08-26"
    ]
-  },
-  {
-   "id": "fr-CA-Le bulletin du matin, mardi 25 août",
-   "file": "podcast-daily-2026-08-25-morning-news-fr-CA.json",
-   "bytes": 11546,
-   "sha256": "16990478a345bcb3c16ec9ab5df04ba8ba147d43cdc539dff87984e427159e1d",
-   "date": "2026-08-25",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-CA",
-   "region_label": "Québec",
-   "title": "Le bulletin du matin, mardi 25 août",
-   "title_en": "The morning news, Tuesday 25 August",
-   "headline_en": "Trump says he is considering renaming Lake Ontario",
-   "summary_en": [
-    "Trump says he is considering renaming Lake Ontario",
-    "A ground marshaller dies after being struck by a plane at Montreal-Trudeau",
-    "Ottawa sets out the detail of its retaliatory tariffs"
-   ]
-  },
-  {
-   "id": "fr-CA-Le bulletin météo, mardi 25 août",
-   "file": "podcast-daily-2026-08-25-morning-weather-fr-CA.json",
-   "bytes": 5063,
-   "sha256": "04ee9ca31d8917796774285ad5456b669a7739babc9ce55b089e1d09caa18ff3",
-   "date": "2026-08-25",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-CA",
-   "region_label": "Québec",
-   "title": "Le bulletin météo, mardi 25 août",
-   "title_en": "Today's weather, Tuesday 25 August",
-   "headline_en": "Prévision pour Montréal, mardi 2026-08-25",
-   "summary_en": [
-    "Prévision pour Montréal, mardi 2026-08-25",
-    "Prévision pour Québec, mardi 2026-08-25"
-   ]
   }
  ]
 }

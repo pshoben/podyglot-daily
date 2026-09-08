@@ -1,0 +1,179 @@
+{
+ "title": "Le sport, mardi 8 septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-08",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Sur les terrains aujourd'hui, le football,",
+   "en": "Out on the pitch today, football,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec l'ouverture de la Ligue des champions.",
+   "en": "with the opening of the Champions League.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon L'Équipe, trois clubs français y sont engagés:",
+   "en": "According to «L'Équipe», three French clubs are involved:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le Paris Saint-Germain, Lille et Lens.",
+   "en": "«Paris Saint-Germain», «Lille» and «Lens».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Vainqueur des deux dernières éditions,",
+   "en": "Winners of the last two editions,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le club parisien vise un troisième titre consécutif.",
+   "en": "the «Paris» club are going for a third title in a row.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au stade du Dragon, le FC Porto reçoit Manchester City à vingt et une heures.",
+   "en": "At the «Estádio do Dragão», «FC Porto» host «Manchester City» at nine in the evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À la même heure, l'Inter Milan se déplace chez le Real Madrid.",
+   "en": "At the same time, «Inter Milan» travel to «Real Madrid».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "France Télévisions rapporte que Lille lance sa campagne à domicile, face au Betis.",
+   "en": "«France Télévisions» reports that «Lille» start their campaign at home, against «Betis».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au programme, le cyclisme: le Tour d'Espagne repart aujourd'hui après une journée de repos.",
+   "en": "Coming up, cycling: the Tour of Spain sets off again today after a rest day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon Ouest-France, la seizième étape part de Cortegana.",
+   "en": "According to «Ouest-France», the sixteenth stage starts from «Cortegana».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle court sur un peu plus de cent quatre-vingts kilomètres.",
+   "en": "It runs over a little more than one hundred and eighty kilometres.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le parcours est descendant, et devrait convenir à une arrivée au sprint.",
+   "en": "The route is downhill, and should suit a sprint finish.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le peloton entame sa dernière semaine de course.",
+   "en": "The peloton begins its last week of racing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport.",
+   "en": "And that is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Tuesday 8 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Football: the Champions League league phase opens, with PSG, Lille and Lens for France",
+ "summary_en": [
+  "Football: the Champions League league phase opens, with PSG, Lille and Lens for France",
+  "Paris Saint-Germain, winners of the last two Champions Leagues, go for a third in a row"
+ ]
+}

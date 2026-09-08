@@ -1,0 +1,71 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-BE",
+ "date": "2026-09-08",
+ "episodes": [
+  {
+   "id": "fr-BE-Le sept heures, mardi 8 septembre",
+   "file": "podcast-daily-2026-09-08-morning-news-fr-BE.json",
+   "bytes": 9801,
+   "sha256": "39045129ed16b5e2b2a2579d9dea8741400cf2735e9a93216720a1fa598589f8",
+   "date": "2026-09-08",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, mardi 8 septembre",
+   "title_en": "The morning news, Tuesday 8 September",
+   "headline_en": "Russia resumes air attacks on Kyiv as the three-day pause around the American visit ends",
+   "summary_en": [
+    "Russia resumes air attacks on Kyiv as the three-day pause around the American visit ends",
+    "PISA: scores fall in science, maths and reading, but French-speaking Belgium gains on its neighbours",
+    "At least two dead and seven injured in the overnight strikes on Kyiv, local military authorities say"
+   ]
+  },
+  {
+   "id": "fr-BE-Le sport chez nous, mardi 8 septembre",
+   "file": "podcast-daily-2026-09-08-morning-sport-fr-BE.json",
+   "bytes": 3929,
+   "sha256": "b10b1e3e48c9112d02179f3c0cf398643afaf3d517b60d9e3b86148f8fdc34e6",
+   "date": "2026-09-08",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sport chez nous, mardi 8 septembre",
+   "title_en": "Today's sport, Tuesday 8 September",
+   "headline_en": "Football: Club Bruges open their Champions League campaign at home to Aston Villa this evening",
+   "summary_en": [
+    "Football: Club Bruges open their Champions League campaign at home to Aston Villa this evening"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, mardi 8 septembre",
+   "file": "podcast-daily-2026-09-08-morning-weather-fr-BE.json",
+   "bytes": 4993,
+   "sha256": "d3c2190bf7195a09299a1e05f744760388705ccfa0352e9c78312d99733d8790",
+   "date": "2026-09-08",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, mardi 8 septembre",
+   "title_en": "Today's weather, Tuesday 8 September",
+   "headline_en": "Brussels under drizzle, 22 degrees at best and rain 86 per cent likely",
+   "summary_en": [
+    "Brussels under drizzle, 22 degrees at best and rain 86 per cent likely",
+    "Light rain over Namur, up to 24 degrees, rain 84 per cent likely"
+   ]
+  }
+ ],
+ "content": "57bb117c2bb9a387585d21ffb786a6a0aacf7441cb9452bcb5b3f465a8810985",
+ "rev": 1,
+ "updated": "2026-09-08T06:35:27.906Z"
+}

@@ -1,0 +1,179 @@
+{
+ "title": "Los deportes, martes 8 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-sport",
+   "wpm": 208,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-08",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Hoy en la agenda, la Liga de Campeones vuelve al Santiago Bernabéu.",
+   "en": "On today's agenda, the Champions League is back at the «Santiago Bernabéu».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Real Madrid recibe esta noche al Inter de Milán,",
+   "en": "«Real Madrid» host «Inter» of Milan tonight,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la primera jornada de la fase de liga.",
+   "en": "on the opening matchday of the league phase.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mundo Deportivo sitúa el saque inicial a las nueve de la noche.",
+   "en": "«Mundo Deportivo» puts the kick-off at nine in the evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "José Mourinho dirige un partido europeo en el banquillo del Real Madrid trece años después.",
+   "en": "«José Mourinho» takes a European match on the «Real Madrid» bench thirteen years on.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y lo hace ante el Inter,",
+   "en": "And he does it against «Inter»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "su rival de esta noche y uno de los grandes clubes de su carrera.",
+   "en": "his opponent tonight and one of the big clubs of his career.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Veintiún años después, el Real Betis vuelve a la Liga de Campeones.",
+   "en": "Twenty-one years on, «Real Betis» are back in the Champions League.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El conjunto andaluz se estrena a domicilio, ante el Lille.",
+   "en": "The Andalusian club start away from home, at «Lille».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dani Ceballos ha viajado a Lille,",
+   "en": "«Dani Ceballos» has travelled to «Lille»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "entre las caras nuevas del proyecto europeo.",
+   "en": "among the new faces of the European project.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Manuel Pellegrini se ha mostrado orgulloso de debutar con el Betis en el torneo.",
+   "en": "«Manuel Pellegrini» has said he is proud to make his Champions League debut with «Betis».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ya lo disputó con el Villarreal y el Manchester City, entre otros.",
+   "en": "He has already played in it with «Villarreal» and «Manchester City», among others.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y ha advertido de los peligros que entraña.",
+   "en": "And he has warned about the dangers it carries.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí los deportes.",
+   "en": "That's it for sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Tuesday 8 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Football: Real Madrid host Inter at the Bernabeu on the opening night of the Champions League",
+ "summary_en": [
+  "Football: Real Madrid host Inter at the Bernabeu on the opening night of the Champions League",
+  "Football: Mourinho takes a European match on the Madrid bench thirteen years on, against his old club"
+ ]
+}

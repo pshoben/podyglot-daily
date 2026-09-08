@@ -3,8 +3,69 @@
  "channel": "daily",
  "dialect": "fr-BE",
  "base": "https://pshoben.github.io/podyglot-daily/archive/",
- "archived_before": "2026-08-25",
+ "archived_before": "2026-08-26",
  "episodes": [
+  {
+   "id": "fr-BE-Le sept heures, mardi 25 août",
+   "file": "podcast-daily-2026-08-25-morning-news-fr-BE.json",
+   "bytes": 8663,
+   "sha256": "fe9f22c2d79cea99e319d1571bf8ca465ea8063cf5d1f0d6552b5c1650d02b1a",
+   "date": "2026-08-25",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, mardi 25 août",
+   "title_en": "The morning news, Tuesday 25 August",
+   "headline_en": "A third suspect drone found near Leipzig airport, and Berlin suspects Russia",
+   "summary_en": [
+    "A third suspect drone found near Leipzig airport, and Berlin suspects Russia",
+    "Shots fired in Saint-Gilles for a third night running",
+    "Bitcoin back above 80,000 dollars for the first time since May"
+   ]
+  },
+  {
+   "id": "fr-BE-Le sport chez nous, mardi 25 août",
+   "file": "podcast-daily-2026-08-25-morning-sport-fr-BE.json",
+   "bytes": 4260,
+   "sha256": "841813d0e31d1332b8e585b3de8ac8672bdf36c0fc62a1d744d98e75113bd0fc",
+   "date": "2026-08-25",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sport chez nous, mardi 25 août",
+   "title_en": "Today's sport, Tuesday 25 August",
+   "headline_en": "The Vuelta's third stage called off, and the hotel that took the peloton in",
+   "summary_en": [
+    "The Vuelta's third stage called off, and the hotel that took the peloton in",
+    "Nathan Saliba leaves Anderlecht for Spain"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, mardi 25 août",
+   "file": "podcast-daily-2026-08-25-morning-weather-fr-BE.json",
+   "bytes": 5406,
+   "sha256": "1edc5b3e670a6afbb915b5bb6635a23530f5cb1dd07dbc74667ce0ae41ee0388",
+   "date": "2026-08-25",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, mardi 25 août",
+   "title_en": "Today's weather, Tuesday 25 August",
+   "headline_en": "The IRM: changeable to very cloudy, showers in the south-east, highs of 17 to 25",
+   "summary_en": [
+    "The IRM: changeable to very cloudy, showers in the south-east, highs of 17 to 25",
+    "Brussels today: overcast, a high of 24 and no rain forecast"
+   ]
+  },
   {
    "id": "fr-BE-Le sept heures, lundi 24 août",
    "file": "podcast-daily-2026-08-24-morning-news-fr-BE.json",

@@ -1,0 +1,209 @@
+{
+ "title": "Le temps chez nous, mardi 8 septembre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-weather",
+   "wpm": 222,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-08",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Selon le modèle du Centre européen, l'ECMWF,",
+   "en": "According to the European Centre model, the ECMWF,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de la bruine est annoncée sur Bruxelles aujourd'hui.",
+   "en": "drizzle is forecast over Brussels today.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le maximum bruxellois s'en tient à vingt-deux degrés,",
+   "en": "The Brussels high holds to 22 degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour un minimum de quinze.",
+   "en": "for a low of 15.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de pluie sur la capitale est chiffrée à quatre-vingt-six pour cent.",
+   "en": "The chance of rain over the capital is put at 86 per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent n'y va pas au-delà de vingt et un kilomètres par heure.",
+   "en": "The wind there goes no further than 21 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Namur, on attend de la pluie faible.",
+   "en": "In «Namur», light rain is expected.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le maximum namurois gagne deux degrés sur celui de la capitale, à vingt-quatre.",
+   "en": "The «Namur» high gains two degrees on the capital's, at 24.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Comptez seize degrés pour le minimum namurois.",
+   "en": "Count on 16 degrees for the «Namur» low.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le risque de pluie y recule à peine, quatre-vingt-quatre pour cent.",
+   "en": "The risk of rain there barely eases, 84 per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y pointe à vingt-cinq kilomètres par heure.",
+   "en": "The wind there peaks at 25 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Liège aussi, la bruine est de la partie.",
+   "en": "In «Liège» too, drizzle is part of the picture.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le maximum liégeois passe à vingt-cinq degrés,",
+   "en": "The «Liège» high moves up to 25 degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un de plus qu'à Namur.",
+   "en": "one more than in «Namur».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le minimum liégeois remonte à dix-sept degrés.",
+   "en": "The «Liège» low comes back up to 17 degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le risque de pluie y perd onze points, à septante-trois pour cent.",
+   "en": "The risk of rain there loses eleven points, to 73 per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Vingt-trois kilomètres par heure pour le vent à Liège.",
+   "en": "Twenty-three kilometres an hour for the wind in «Liège».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le temps chez nous.",
+   "en": "That is the weather here at home.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Tuesday 8 September",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Brussels under drizzle, 22 degrees at best and rain 86 per cent likely",
+ "summary_en": [
+  "Brussels under drizzle, 22 degrees at best and rain 86 per cent likely",
+  "Light rain over Namur, up to 24 degrees, rain 84 per cent likely"
+ ]
+}

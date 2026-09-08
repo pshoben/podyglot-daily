@@ -1,0 +1,313 @@
+{
+ "title": "El tiempo, martes 8 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather",
+   "wpm": 208,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-08",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Un frente entra hoy por el noroeste y deja lluvias.",
+   "en": "A front comes in over the north-west today and brings rain.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según la Agencia Estatal de Meteorología,",
+   "en": "The «Agencia Estatal de Meteorología» says",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "serán localmente fuertes y persistentes en Galicia,",
+   "en": "it will be locally heavy and persistent in «Galicia»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y en el oeste del área cantábrica.",
+   "en": "and in the west of the Cantabrian region.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hay avisos amarillos por lluvia en Asturias,",
+   "en": "There are yellow rain warnings in «Asturias»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y en la montaña de Lugo, desde el mediodía.",
+   "en": "and in the mountains of «Lugo», from midday on.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En A Coruña el cielo está cubierto con lluvia,",
+   "en": "In «A Coruña» the sky is overcast with rain,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la probabilidad es del cien por cien.",
+   "en": "and the chance of it is a hundred per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Entre diecisiete y veintitrés grados en toda la jornada.",
+   "en": "Between 17 and 23 degrees across the whole day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Bilbao repite esa probabilidad del cien por cien,",
+   "en": "«Bilbao» has the same hundred per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con veintiocho grados de máxima y dieciséis de mínima.",
+   "en": "with a high of 28 degrees and a low of 16.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí el cielo pasa a muy nuboso con lluvia por la tarde,",
+   "en": "There the sky turns mostly cloudy with rain in the afternoon,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el viento del noroeste sopla a quince kilómetros por hora.",
+   "en": "and the north-westerly wind blows at 15 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el interior el calor aguanta:",
+   "en": "Inland the heat holds:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Madrid llega a treinta y cinco grados,",
+   "en": "«Madrid» reaches 35 degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con veintitrés de mínima.",
+   "en": "with a low of 23.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cielo poco nuboso todo el día, sin lluvia,",
+   "en": "Mostly clear all day, no rain,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y viento del suroeste, que llega a veinticinco kilómetros por hora.",
+   "en": "and a south-westerly wind that gets up to 25 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Aemet mantiene aviso amarillo por altas temperaturas en la Comunidad de Madrid,",
+   "en": "«Aemet» is keeping a yellow warning for high temperatures over the «Comunidad de Madrid»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en las horas centrales del día.",
+   "en": "through the middle of the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Barcelona se queda en treinta y tres grados, con veintitrés de mínima.",
+   "en": "«Barcelona» stays at 33 degrees, with a low of 23.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí hay intervalos nubosos con lluvia escasa,",
+   "en": "There it is broken cloud with a little rain,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y un cincuenta y cinco por ciento de probabilidad.",
+   "en": "and a 55 per cent chance of it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "València llega también a treinta y cinco grados,",
+   "en": "«València» also reaches 35 degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con veintiuno de mínima y cielo poco nuboso.",
+   "en": "with a low of 21 and a mostly clear sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el sur de la provincia el aviso por calor sube a naranja,",
+   "en": "In the south of the province of «València» the heat warning goes up to orange,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según la Aemet.",
+   "en": "«Aemet» says.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí el tiempo.",
+   "en": "That's it for the national forecast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Tuesday 8 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "España",
+ "accent": "Castilla",
+ "accent_label": "acento de Castilla",
+ "segment_order": 0,
+ "headline_en": "AEMET: a front reaches the north-west today, with heavy rain in Galicia and the west of the Cantabrian coast",
+ "summary_en": [
+  "AEMET: a front reaches the north-west today, with heavy rain in Galicia and the west of the Cantabrian coast",
+  "AEMET has yellow rain warnings out today for Asturias and the Lugo mountains"
+ ]
+}

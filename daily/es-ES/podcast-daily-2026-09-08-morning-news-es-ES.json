@@ -1,0 +1,420 @@
+{
+ "title": "El informativo de la mañana, martes 8 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-news",
+   "wpm": 208,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-08",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Martes ocho de septiembre. El informativo de la mañana.",
+   "en": "Tuesday the 8th of September. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La ultraderecha alemana está a un paso de liderar un gobierno regional.",
+   "en": "The German far right is a step away from leading a state government.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y la OCDE publica hoy los resultados del informe PISA.",
+   "en": "And the OECD publishes the results of the «PISA» report today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Abrimos con Alemania.",
+   "en": "We open with Germany.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Alternativa para Alemania está al borde de encabezar el gobierno de Sajonia-Anhalt,",
+   "en": "«Alternativa para Alemania» is on the verge of leading the government of «Sajonia-Anhalt»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el este del país.",
+   "en": "in the east of the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sería el primer gobierno alemán liderado por la ultraderecha desde mil novecientos cuarenta y nueve.",
+   "en": "It would be the first German government led by the far right since 1949.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según El Mundo, la llave la tiene la Alianza Sahra Wagenknecht,",
+   "en": "According to «El Mundo», the key is held by the «Alianza Sahra Wagenknecht»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un partido prorruso y contrario a la inmigración.",
+   "en": "a pro-Russian party opposed to immigration.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esa formación se ofreció en cuestión de minutos como garante del nuevo gobierno,",
+   "en": "That party offered itself within minutes as the guarantor of the new government,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "aunque lo lidere la ultraderecha.",
+   "en": "even if the far right leads it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Nació como una escisión del partido de izquierda Die Linke, según ABC.",
+   "en": "It began as a split from the left-wing party «Die Linke», according to «ABC».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Culpa a Occidente de la guerra de Ucrania,",
+   "en": "It blames the West for the war in Ukraine,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y pide el fin de las sanciones y del envío de armas a Kiev.",
+   "en": "and argues for an end to the sanctions and to arms deliveries to Kyiv.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de tema, el informe PISA vuelve a medir hoy la educación española.",
+   "en": "In other news, the «PISA» report measures Spanish education again today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según El País, es la mayor evaluación internacional de este tipo.",
+   "en": "According to «El País», it is the biggest international assessment of its kind.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Toma el pulso a los conocimientos de los estudiantes de quince años de medio mundo.",
+   "en": "It takes the pulse of what fifteen-year-old students across much of the world know.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La OCDE lo elabora cada tres años,",
+   "en": "The OECD produces it every three years,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y no mide contenidos,",
+   "en": "and it tests not knowledge itself,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sino la capacidad de aplicar lo aprendido a situaciones de la vida real.",
+   "en": "but the ability to apply what has been learned to real-life situations.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el resto de la actualidad,",
+   "en": "Moving on,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "los insultos y las intimidaciones a los periodistas",
+   "en": "insults and intimidation aimed at journalists",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "se han hecho rutina en Ceuta.",
+   "en": "have become routine in «Ceuta».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las agresiones se producen en medio de una convocatoria frenética de movilizaciones, cuenta El País.",
+   "en": "The attacks are happening in the middle of a frantic run of demonstrations, «El País» reports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y eldiario punto es advierte de un clima de odio que amenaza con extenderse,",
+   "en": "And «eldiario» warns of a climate of hatred that threatens to spread,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tras treinta y ocho días de crisis humanitaria en las calles.",
+   "en": "after thirty-eight days of humanitarian crisis on the streets.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos en España, la Comunidad de Madrid ha anunciado",
+   "en": "Still in Spain, the Madrid regional government has announced",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un plan de mil doscientos cuarenta millones de euros",
+   "en": "a 1,240 million euro plan",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para climatizar las aulas.",
+   "en": "to put air conditioning into classrooms.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La inversión llegará a unos mil cuatrocientos centros educativos, según La Vanguardia.",
+   "en": "The investment will reach around 1,400 schools, according to «La Vanguardia».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El País apunta que el plan aún no tiene fecha ni fondos asignados,",
+   "en": "«El País» points out that the plan still has no date and no assigned funds,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y que la comunidad educativa se muestra escéptica.",
+   "en": "and that the education community is sceptical.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El curso escolar madrileño arranca con discrepancias entre la Consejería de Educación y los sindicatos.",
+   "en": "The Madrid school year is opening with disagreement between the regional education department and the teaching unions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los sindicatos preparan huelgas para el otoño.",
+   "en": "The unions are preparing strikes for the autumn.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otro asunto, la princesa Leonor ha empezado su vida universitaria.",
+   "en": "Elsewhere, Princess «Leonor» has begun her university life.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Afrontó su primer día de clase entre la expectación de sus nuevos compañeros.",
+   "en": "She faced her first day of classes among the expectation of her new fellow students.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El reto, escribe El Mundo,",
+   "en": "The challenge, «El Mundo» writes,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "es conquistar una normalidad que su padre, Felipe sexto, sí encontró.",
+   "en": "is to win the ordinary life her father, «Felipe» the Sixth, did find.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí lo esencial.",
+   "en": "That's the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 8 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Germany's far right is a step from leading a state government, with the left-populist Sahra Wagenknecht Alliance offering to make it possible",
+ "summary_en": [
+  "Germany's far right is a step from leading a state government, with the left-populist Sahra Wagenknecht Alliance offering to make it possible",
+  "The OECD publishes its PISA results today, and Spanish education is measured again",
+  "The party holding the key in Saxony-Anhalt is a pro-Russian split from the German left"
+ ]
+}

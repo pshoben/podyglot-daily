@@ -1,0 +1,380 @@
+{
+ "title": "Le sept heures, mardi 8 septembre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-news",
+   "wpm": 222,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-08",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Mardi huit septembre. Le sept heures.",
+   "en": "Tuesday 8th September. The seven o'clock news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les frappes russes ont repris sur Kiev,",
+   "en": "Russian strikes on Kyiv have started again,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "après trois jours de trêve.",
+   "en": "after three days of truce.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Baisse générale à l'enquête Pisa,",
+   "en": "A general fall in the «Pisa» survey,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "mais de bonnes surprises en Fédération Wallonie-Bruxelles.",
+   "en": "but good surprises in French-speaking Belgium.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On ouvre avec l'Ukraine,",
+   "en": "We open with Ukraine,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où la Russie a repris ses attaques aériennes dans la nuit de lundi à mardi.",
+   "en": "where Russia resumed its air attacks during the night from Monday to Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'après 7sur7, les autorités militaires locales font état d'au moins deux morts et sept blessés.",
+   "en": "According to «7sur7», the local military authorities report at least two dead and seven injured.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce bilan, arrêté à cinq heures et demie du matin, heure belge,",
+   "en": "That toll, set at half past five in the morning Belgian time,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "est susceptible de s'alourdir.",
+   "en": "is likely to go up.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Libre écrit que cette reprise suit une suspension de trois jours,",
+   "en": "«La Libre» writes that this resumption follows a three-day suspension,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à l'occasion d'une visite inédite d'émissaires américains.",
+   "en": "during an unprecedented visit by American envoys.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon la DH, le président ukrainien a évoqué une possible désescalade du conflit, cet hiver.",
+   "en": "According to «DH», the Ukrainian president has spoken of a possible de-escalation of the conflict, this winter.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Volodymyr Zelensky juge que Vladimir Poutine ne veut pas contrarier Donald Trump, rapporte la RTBF.",
+   "en": "«Volodymyr Zelensky» believes Vladimir Putin does not want to upset «Donald Trump», «RTBF» reports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On enchaîne, cette enquête Pisa marque une baisse généralisée en sciences,",
+   "en": "Moving on, this «Pisa» survey marks a general fall in science,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en mathématiques et en lecture.",
+   "en": "in mathematics and in reading.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Fédération Wallonie-Bruxelles, La Libre relève plusieurs bonnes surprises.",
+   "en": "In French-speaking Belgium, «La Libre» notes several good surprises.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le journal ajoute que la qualité de l'enseignement y résiste et gagne du terrain sur ses voisins.",
+   "en": "The paper adds that the quality of teaching there holds up and gains ground on its neighbours.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Près de huit cent mille élèves ont passé ces tests, précise la RTBF.",
+   "en": "Close to eight hundred thousand pupils sat these tests, «RTBF» points out.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ils venaient de nonante et un pays et économies,",
+   "en": "They came from ninety-one countries and economies,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dont trente-huit membres de l'OCDE.",
+   "en": "thirty-eight of them OECD members.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ailleurs dans l'actu, l'incendie des Fagnes:",
+   "en": "In other news, the «Fagnes» fire:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le dispositif d'intervention renforcé y reste en place ce mardi.",
+   "en": "the reinforced firefighting deployment stays in place there this Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La RTBF décrit des reprises de feu d'intensité variable sur le front est.",
+   "en": "«RTBF» describes flare-ups of varying intensity on the eastern front.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des sapinières situées au sud sont également concernées.",
+   "en": "Spruce plantations to the south are affected too.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les services du gouverneur, cités par La Libre,",
+   "en": "The governor's office, quoted by «La Libre»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ont jugé ce renforcement pleinement justifié lundi.",
+   "en": "judged that reinforcement fully justified on Monday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La journée de lundi a été marquée par plusieurs reprises de feu nécessitant l'intervention des équipes.",
+   "en": "Monday was marked by several flare-ups that needed the crews to go in.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour terminer, selon 7sur7,",
+   "en": "And finally, according to «7sur7»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "des milliers de personnes se sont rassemblées lundi à Belgrade, en Serbie.",
+   "en": "thousands of people gathered on Monday in Belgrade, in Serbia.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'était pour les funérailles de Ratko Mladic.",
+   "en": "It was for the funeral of «Ratko Mladic».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'ancien chef militaire des Serbes de Bosnie avait été condamné pour génocide.",
+   "en": "The former Bosnian Serb military chief had been convicted of genocide.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La RTBF rappelle qu'il est décédé fin août à La Haye, aux Pays-Bas,",
+   "en": "«RTBF» recalls that he died at the end of August at The Hague, in the Netherlands,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à l'âge de quatre-vingt-quatre ans.",
+   "en": "aged eighty-four.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà où nous en sommes.",
+   "en": "And that is where things stand.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 8 September",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Russia resumes air attacks on Kyiv as the three-day pause around the American visit ends",
+ "summary_en": [
+  "Russia resumes air attacks on Kyiv as the three-day pause around the American visit ends",
+  "PISA: scores fall in science, maths and reading, but French-speaking Belgium gains on its neighbours",
+  "At least two dead and seven injured in the overnight strikes on Kyiv, local military authorities say"
+ ]
+}
