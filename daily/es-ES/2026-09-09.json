@@ -1,0 +1,112 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-ES",
+ "date": "2026-09-09",
+ "episodes": [
+  {
+   "id": "es-ES-El informativo de la mañana, miércoles 9 de septiembre",
+   "file": "podcast-daily-2026-09-09-morning-news-es-ES.json",
+   "bytes": 11494,
+   "sha256": "b2c14e5d78c4aef110ebf64aadf73ccc037dddc7f078db0656cf50b367c0d53f",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, miércoles 9 de septiembre",
+   "title_en": "The morning news, Wednesday 9 September",
+   "headline_en": "Washington says it destroyed five Iranian tankers as the two sides trade fresh attacks",
+   "summary_en": [
+    "Washington says it destroyed five Iranian tankers as the two sides trade fresh attacks",
+    "Spain records its worst PISA marks since the study began, in every subject",
+    "In PISA the best-off pupils fall furthest, and a twenty point gap opens between native and foreign students"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, miércoles 9 de septiembre",
+   "file": "podcast-daily-2026-09-09-morning-sport-es-ES.json",
+   "bytes": 5212,
+   "sha256": "1ef8c45716a3319e0c814666fbb39a1cfd07bd9a7c289bac7e03f90385797c10",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, miércoles 9 de septiembre",
+   "title_en": "Today's sport, Wednesday 9 September",
+   "headline_en": "Football: Barcelona begin the Champions League at home to Feyenoord at the Spotify Camp Nou",
+   "summary_en": [
+    "Football: Barcelona begin the Champions League at home to Feyenoord at the Spotify Camp Nou",
+    "Football: Atletico de Madrid open the Champions League at Anfield against Iraola's Liverpool"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, miércoles 9 de septiembre",
+   "file": "podcast-daily-2026-09-09-morning-weather-es-ES.json",
+   "bytes": 8348,
+   "sha256": "fb573b5fed08be4b187157c125b39155e7376f007782f5da6f01aea96464e2ad",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, miércoles 9 de septiembre",
+   "title_en": "Today's weather, Wednesday 9 September",
+   "headline_en": "AEMET warns of a potentially very adverse day on the Mediterranean, with orange warnings in four regions",
+   "summary_en": [
+    "AEMET warns of a potentially very adverse day on the Mediterranean, with orange warnings in four regions",
+    "Wednesday AEMET forecast for Barcelona, 9th September"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, miércoles 9 de septiembre",
+   "file": "podcast-daily-2026-09-09-morning-weather-andalucia-es-ES.json",
+   "bytes": 4742,
+   "sha256": "dc7eab69a0e89a9f39c948e5db0cc3c6053f91cc1e85f7db62d40d1eb6c62f14",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, miércoles 9 de septiembre",
+   "title_en": "Today's weather, Andalusia, Wednesday 9 September",
+   "headline_en": "Wednesday AEMET forecast for Sevilla, 9th September",
+   "summary_en": [
+    "Wednesday AEMET forecast for Sevilla, 9th September",
+    "Wednesday AEMET forecast for Córdoba, 9th September"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, miércoles 9 de septiembre",
+   "file": "podcast-daily-2026-09-09-morning-weather-canarias-es-ES.json",
+   "bytes": 4240,
+   "sha256": "61f742f1867329d0cf6c6e73bbd89bd4c224f9e7163985f8cfb652de416e8dfb",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, miércoles 9 de septiembre",
+   "title_en": "Today's weather, Canary Islands, Wednesday 9 September",
+   "headline_en": "AEMET has yellow heat warnings out over Gran Canaria and Fuerteventura through the day",
+   "summary_en": [
+    "AEMET has yellow heat warnings out over Gran Canaria and Fuerteventura through the day",
+    "Wednesday AEMET forecast for Las Palmas de Gran Canaria, 9th September"
+   ]
+  }
+ ],
+ "content": "e95bc8ded91e8b52c526625fe973ca20337fd6573dfad5a9e1d577e5a89e6033",
+ "rev": 1,
+ "updated": "2026-09-09T06:14:52.728Z"
+}

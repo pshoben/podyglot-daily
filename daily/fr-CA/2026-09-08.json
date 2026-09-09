@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-CA",
+ "date": "2026-09-08",
+ "episodes": [
+  {
+   "id": "fr-CA-Le bulletin du matin, mardi 8 septembre",
+   "file": "podcast-daily-2026-09-08-morning-news-fr-CA.json",
+   "bytes": 7927,
+   "sha256": "fcdae0aee1568c851eb985cbc17f11a87d284500e89268b4e4f829f5516e4e13",
+   "date": "2026-09-08",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin du matin, mardi 8 septembre",
+   "title_en": "The morning news, Tuesday 8 September",
+   "headline_en": "Nepal flood: Chitwan district in the south is the main arrival point for hundreds of bodies",
+   "summary_en": [
+    "Nepal flood: Chitwan district in the south is the main arrival point for hundreds of bodies",
+    "Canada's counter-tariffs on American goods took effect just after midnight, at 15, 25 or 50 per cent by product",
+    "Nepal's emergency authority puts the missing at more than 5,000 on its latest provisional count"
+   ]
+  },
+  {
+   "id": "fr-CA-Le bulletin météo, mardi 8 septembre",
+   "file": "podcast-daily-2026-09-08-morning-weather-fr-CA.json",
+   "bytes": 4686,
+   "sha256": "71641bfa29fca332d36914828fe9c74be96bfa455f067727c24c542c71dedf3c",
+   "date": "2026-09-08",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin météo, mardi 8 septembre",
+   "title_en": "Today's weather, Tuesday 8 September",
+   "headline_en": "Rain in Montreal on Tuesday, a high of 22 and a 63 per cent chance of rain",
+   "summary_en": [
+    "Rain in Montreal on Tuesday, a high of 22 and a 63 per cent chance of rain",
+    "Quebec City stays overcast, 19 degrees at best and 14 at worst"
+   ]
+  }
+ ],
+ "content": "ef7e33dd8be4203e5831de7266e9bc054b025ef6001256ce720be07e7788d552",
+ "rev": 1,
+ "updated": "2026-09-09T06:14:52.728Z"
+}

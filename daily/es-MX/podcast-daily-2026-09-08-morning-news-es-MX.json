@@ -1,0 +1,340 @@
+{
+ "title": "El noticiario matutino, martes 8 de septiembre",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-news",
+   "wpm": 186,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-08",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Martes ocho de septiembre, siete de la mañana. El noticiario matutino.",
+   "en": "Tuesday the eighth of September, seven in the morning. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Canadá aplica desde hoy aranceles de represalia a productos de Estados Unidos.",
+   "en": "Canada is charging retaliatory tariffs on United States goods from today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En México, la prueba PISA marca un retroceso escolar en matemáticas y lectura.",
+   "en": "In Mexico, the PISA test shows a slide in school results in maths and reading.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esos aranceles alcanzan a mercancía estadounidense por veinte mil millones de dólares.",
+   "en": "Those tariffs cover United States goods worth twenty billion dollars.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Economista precisó que las tasas van del quince al cincuenta por ciento.",
+   "en": "«El Economista» puts the rates at between fifteen and fifty per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los productos van del acero y los muebles a la ropa y la electrónica.",
+   "en": "The goods range from steel and furniture to clothing and electronics.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La medida llega en pleno conflicto comercial entre Canadá y Estados Unidos.",
+   "en": "The move comes in the middle of the trade conflict between Canada and the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En esa prueba, los alumnos mexicanos de quince años perdieron terreno en las dos materias.",
+   "en": "In that test, Mexican fifteen-year-olds lost ground in the two subjects.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sus resultados quedaron por debajo de los que alcanzaron",
+   "en": "Their scores came in below the ones they reached",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "entre dos mil nueve y dos mil dieciocho, según La Jornada.",
+   "en": "between 2009 and 2018, according to «La Jornada».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En las tres materias evaluadas,",
+   "en": "In the three subjects tested,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "México siguió por debajo del promedio de la OCDE.",
+   "en": "Mexico stayed below the OECD average.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aun así, Andreas Schleicher, director de Educación de la OCDE,",
+   "en": "Even so, «Andreas Schleicher», the OECD's director of education,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "afirmó que México ha demostrado resiliencia.",
+   "en": "said Mexico has shown resilience.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos en México, seis personas murieron antenoche dentro de una combi en Tultitlán.",
+   "en": "Still in Mexico, six people died the night before last inside a minibus in «Tultitlán».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eran cuatro hombres y dos mujeres,",
+   "en": "They were four men and two women,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "informaron Reforma y La Jornada.",
+   "en": "«Reforma» and «La Jornada» reported.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Jornada sitúa el hecho en un tramo en obras, durante una tormenta.",
+   "en": "«La Jornada» says it happened on a stretch of road under repair, during a storm.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las autoridades investigan una posible fuga de gas, reportó El Financiero.",
+   "en": "The authorities are looking into a possible gas leak, «El Financiero» reported.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasamos a otro asunto, México y Estados Unidos activaron",
+   "en": "Turning to something else, Mexico and the United States have activated",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "una operación conjunta contra drones en la frontera.",
+   "en": "a joint anti-drone operation on the border.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Secretaría de la Defensa Nacional anunció que la operación se llama Águila Alta.",
+   "en": "The Mexican defence ministry announced that the operation is called «Águila Alta».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Trabaja entre Tijuana y San Diego,",
+   "en": "It is under way between «Tijuana» and San Diego,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y cada fuerza actúa dentro de su territorio.",
+   "en": "and each force acts inside its own territory.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las dos partes hacen reconocimientos simultáneos para inhabilitar los drones del crimen organizado.",
+   "en": "The two sides run simultaneous sweeps to disable the drones that organised crime uses.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cerramos con otro tema, la Ciudad de México tuvo el agosto con menos homicidios",
+   "en": "And finally, Mexico City had the August with the fewest homicides",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "desde que empezaron los registros, hace veintinueve años.",
+   "en": "since records began, twenty-nine years ago.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Fueron cuarenta y tres, informaron las autoridades capitalinas.",
+   "en": "There were forty-three, the city authorities say.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esa tendencia a la baja en los homicidios dolosos",
+   "en": "That downward trend in intentional homicides",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "viene desde dos mil diecinueve, de acuerdo con El Economista.",
+   "en": "goes back to 2019, according to «El Economista».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más destacado.",
+   "en": "That is what stands out most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 8 September",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "Canada's retaliatory tariffs on 20 billion dollars of US goods come into force",
+ "summary_en": [
+  "Canada's retaliatory tariffs on 20 billion dollars of US goods come into force",
+  "Mexican 15-year-olds slip back in maths and reading in the 2025 PISA test",
+  "Six people die inside a minibus stranded during a storm in Tultitlan"
+ ]
+}

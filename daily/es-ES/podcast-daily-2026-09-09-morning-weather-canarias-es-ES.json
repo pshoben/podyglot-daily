@@ -1,0 +1,173 @@
+{
+ "title": "El tiempo en Canarias, miércoles 9 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-canarias",
+   "wpm": 208,
+   "rate_multiplier": 0.86,
+   "pitch_multiplier": 0.59
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-canarias",
+ "date": "2026-09-09",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "En las islas hay hoy aviso amarillo por altas temperaturas, según la Aemet.",
+   "en": "There is a yellow warning for high temperatures on the islands today, «Aemet» says.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cubre las cumbres de Gran Canaria,",
+   "en": "It covers the summits of «Gran Canaria»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el este, el sur y el oeste de esa misma isla, y Fuerteventura.",
+   "en": "the east, the south and the west of that same island, and «Fuerteventura».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Está en vigor desde las diez de la mañana hasta el final de la tarde.",
+   "en": "It runs from ten in the morning until the end of the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Las Palmas de Gran Canaria la máxima es de veintiocho grados,",
+   "en": "In «Las Palmas de Gran Canaria» the high is 28 degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la mínima, veinticuatro.",
+   "en": "and the low is 24.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cielo poco nuboso, sin probabilidad de lluvia,",
+   "en": "Mostly clear skies, no chance of rain,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y viento del norte a veinticinco kilómetros por hora.",
+   "en": "and a northerly wind at 25 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El índice ultravioleta toca el nueve.",
+   "en": "The ultraviolet index touches 9.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Santa Cruz de Tenerife pasa el día despejado,",
+   "en": "«Santa Cruz de Tenerife» spends the day under a clear sky,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con treinta y dos grados y veinticuatro de mínima.",
+   "en": "with 32 degrees and a low of 24.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Tampoco hay allí probabilidad de lluvia,",
+   "en": "There is no chance of rain there either,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el viento del este se mantiene en treinta kilómetros por hora.",
+   "en": "and the easterly wind holds at 30 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es Canarias.",
+   "en": "That is «Canarias».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 4,
+ "handover": "junction",
+ "title_en": "Today's weather, Canary Islands, Wednesday 9 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Canarias",
+ "accent": "Canarias",
+ "accent_label": "acento de Canarias",
+ "segment_order": 2,
+ "headline_en": "AEMET has yellow heat warnings out over Gran Canaria and Fuerteventura through the day",
+ "summary_en": [
+  "AEMET has yellow heat warnings out over Gran Canaria and Fuerteventura through the day",
+  "Wednesday AEMET forecast for Las Palmas de Gran Canaria, 9th September"
+ ]
+}

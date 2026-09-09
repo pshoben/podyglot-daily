@@ -5,6 +5,47 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-BE-Le sept heures, mercredi 9 septembre",
+   "file": "podcast-daily-2026-09-09-morning-news-fr-BE.json",
+   "bytes": 9497,
+   "sha256": "0e0ca59229503e5d7bc0d15f0c05f04a443e21788858b65fb828a69e54c07490",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, mercredi 9 septembre",
+   "title_en": "The morning news, Wednesday 9 September",
+   "headline_en": "The American military attacks an Iranian tanker near Kharg, and Iran strikes Jordan",
+   "summary_en": [
+    "The American military attacks an Iranian tanker near Kharg, and Iran strikes Jordan",
+    "The mobility budget becomes compulsory on 1st January for firms of fifty or more, and only 13.5 per cent offer one",
+    "Belgian politicians react to Alternative for Germany's win in Saxony-Anhalt, and Trump calls it a very good evening"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, mercredi 9 septembre",
+   "file": "podcast-daily-2026-09-09-morning-weather-fr-BE.json",
+   "bytes": 4334,
+   "sha256": "2ec0ed003ac658b0907e957cb5208b898aaf4c5f2c92783a1e7ffb97209c7e0f",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, mercredi 9 septembre",
+   "title_en": "Today's weather, Wednesday 9 September",
+   "headline_en": "Drizzle over Liège, a high of 18 degrees and an 80 per cent risk of rain",
+   "summary_en": [
+    "Drizzle over Liège, a high of 18 degrees and an 80 per cent risk of rain",
+    "Namur reaches 19 degrees under drizzle, with rain only 41 per cent likely"
+   ]
+  },
+  {
    "id": "fr-BE-Le sept heures, mardi 8 septembre",
    "file": "podcast-daily-2026-09-08-morning-news-fr-BE.json",
    "bytes": 9801,
@@ -691,47 +732,6 @@
    "summary_en": [
     "The IRM puts a yellow storm warning on Belgium from five this afternoon",
     "Prévision pour Bruxelles, jeudi 2026-08-27"
-   ]
-  },
-  {
-   "id": "fr-BE-Le sept heures, mercredi 26 août",
-   "file": "podcast-daily-2026-08-26-morning-news-fr-BE.json",
-   "bytes": 10867,
-   "sha256": "f9110d44a76e141c48bbdc6fbc11333cf9697b155015665ee9130233dba21edf",
-   "date": "2026-08-26",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le sept heures, mercredi 26 août",
-   "title_en": "The morning news, Wednesday 26 August",
-   "headline_en": "Witnesses tell the Meta trial the company knew its teen safeguards did not work",
-   "summary_en": [
-    "Witnesses tell the Meta trial the company knew its teen safeguards did not work",
-    "Two bodies found at Onhaye, and the prosecutor says the circumstances are unknown",
-    "The strike notice stands on the Letec network for Thursday and Friday"
-   ]
-  },
-  {
-   "id": "fr-BE-Le temps chez nous, mercredi 26 août",
-   "file": "podcast-daily-2026-08-26-morning-weather-fr-BE.json",
-   "bytes": 4820,
-   "sha256": "d750ee7d5c51c52e347e340e5fded199cb3a9e798396c06d86aae034c20186bb",
-   "date": "2026-08-26",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le temps chez nous, mercredi 26 août",
-   "title_en": "Today's weather, Wednesday 26 August",
-   "headline_en": "Prévision pour Bruxelles, mercredi 2026-08-26",
-   "summary_en": [
-    "Prévision pour Bruxelles, mercredi 2026-08-26",
-    "Prévision pour Liège, mercredi 2026-08-26"
    ]
   }
  ]

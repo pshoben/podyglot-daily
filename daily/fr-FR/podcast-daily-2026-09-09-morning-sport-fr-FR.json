@@ -1,0 +1,159 @@
+{
+ "title": "Le sport, mercredi 9 septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-09",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "À suivre aujourd'hui, la Ligue des champions de football, avec le Paris Saint-Germain.",
+   "en": "To follow today, football's Champions League, with «Paris Saint-Germain».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le club parisien reçoit ce soir le Slovan Bratislava,",
+   "en": "The «Paris» club are at home to «Slovan Bratislava» tonight,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "au Parc des Princes, pour son entrée dans la phase de ligue.",
+   "en": "at the «Parc des Princes», for their entry into the league phase.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Équipe précise que le coup d'envoi est donné à vingt et une heures.",
+   "en": "«L'Équipe» says the kick-off is at nine in the evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En face, le banc slovaque est tenu par Yaya Touré.",
+   "en": "In the other dugout, the Slovak side is coached by «Yaya Touré».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le quotidien sportif rappelle que l'ancien joueur du Barça",
+   "en": "The sports daily recalls that the former «Barça» player",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a entraîné au centre de formation de Tottenham.",
+   "en": "coached at the «Tottenham» academy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il est aussi le premier entraîneur africain à occuper un banc en Ligue des champions,",
+   "en": "He is also the first African manager to sit on a Champions League bench,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en dehors des tours préliminaires.",
+   "en": "outside the preliminary rounds.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Du côté parisien,",
+   "en": "On the «Paris» side,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "France Télévisions rapporte que Luis Enrique ne s'inquiète pas du niveau de son équipe.",
+   "en": "«France Télévisions» reports that «Luis Enrique» is not worried about the level of his team.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La campagne européenne du club commence donc à domicile.",
+   "en": "So the club's European campaign begins at home.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport.",
+   "en": "And that is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Wednesday 9 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Football: Paris Saint-Germain open their Champions League campaign at home to Slovan Bratislava",
+ "summary_en": [
+  "Football: Paris Saint-Germain open their Champions League campaign at home to Slovan Bratislava",
+  "Football: Yaya Toure coaches Slovan Bratislava, and Luis Enrique is untroubled by PSG's level"
+ ]
+}

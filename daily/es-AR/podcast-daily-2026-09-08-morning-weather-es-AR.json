@@ -1,0 +1,199 @@
+{
+ "title": "El pronóstico, martes 8 de septiembre",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-weather",
+   "wpm": 195,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-08",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Atención en varias provincias: rige hoy una alerta amarilla por nevadas, vientos y Zonda.",
+   "en": "Watch out in several provinces: a yellow alert is in force today for snow, wind and the «Zonda».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según el Servicio Meteorológico Nacional,",
+   "en": "According to the national weather service,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "las ráfagas pueden alcanzar los cien kilómetros por hora.",
+   "en": "the gusts can reach a hundred kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la Ciudad de Buenos Aires y en el área metropolitana,",
+   "en": "In the city of «Buenos Aires» and in the metropolitan area,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el servicio no espera lluvias.",
+   "en": "the service expects no rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Prevé cielo despejado a parcialmente nublado y un ascenso paulatino de las temperaturas.",
+   "en": "It forecasts clear to partly cloudy skies and a gradual climb in temperatures.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las cifras de las tres ciudades salen del modelo del Centro Europeo, el ECMWF.",
+   "en": "The figures for the three cities come from the European Centre model, the ECMWF.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Córdoba el día se mueve entre siete y veintiún grados.",
+   "en": "In «Córdoba» the day runs between seven and twenty-one degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo va con intervalos nubosos.",
+   "en": "The sky has broken cloud.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de lluvia es del uno por ciento.",
+   "en": "The chance of rain is one per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mendoza toca el mismo techo de veintiún grados,",
+   "en": "«Mendoza» touches the same peak of twenty-one degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con una mínima de cinco.",
+   "en": "with a low of five.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí hay pocas nubes y el riesgo de lluvia es nulo.",
+   "en": "There are few clouds there and the risk of rain is nil.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Buenos Aires queda cinco grados por debajo de esas dos, con dieciséis de máxima.",
+   "en": "«Buenos Aires» stays five degrees below those two, with sixteen for the high.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima llega a seis grados,",
+   "en": "The low gets to six degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con cielo despejado y sin chances de lluvia.",
+   "en": "under clear skies and with no chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Así está el cielo.",
+   "en": "That is how the sky looks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Tuesday 8 September",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Argentina's weather service: yellow alert for snow, wind and the Zonda, gusts to a hundred kilometres an hour, and no rain in Buenos Aires",
+ "summary_en": [
+  "Argentina's weather service: yellow alert for snow, wind and the Zonda, gusts to a hundred kilometres an hour, and no rain in Buenos Aires",
+  "The European model gives Córdoba broken cloud and a day between 7 and 21 degrees"
+ ]
+}

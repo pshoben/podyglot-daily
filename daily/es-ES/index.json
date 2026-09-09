@@ -5,6 +5,107 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-ES-El informativo de la mañana, miércoles 9 de septiembre",
+   "file": "podcast-daily-2026-09-09-morning-news-es-ES.json",
+   "bytes": 11494,
+   "sha256": "b2c14e5d78c4aef110ebf64aadf73ccc037dddc7f078db0656cf50b367c0d53f",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, miércoles 9 de septiembre",
+   "title_en": "The morning news, Wednesday 9 September",
+   "headline_en": "Washington says it destroyed five Iranian tankers as the two sides trade fresh attacks",
+   "summary_en": [
+    "Washington says it destroyed five Iranian tankers as the two sides trade fresh attacks",
+    "Spain records its worst PISA marks since the study began, in every subject",
+    "In PISA the best-off pupils fall furthest, and a twenty point gap opens between native and foreign students"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, miércoles 9 de septiembre",
+   "file": "podcast-daily-2026-09-09-morning-sport-es-ES.json",
+   "bytes": 5212,
+   "sha256": "1ef8c45716a3319e0c814666fbb39a1cfd07bd9a7c289bac7e03f90385797c10",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, miércoles 9 de septiembre",
+   "title_en": "Today's sport, Wednesday 9 September",
+   "headline_en": "Football: Barcelona begin the Champions League at home to Feyenoord at the Spotify Camp Nou",
+   "summary_en": [
+    "Football: Barcelona begin the Champions League at home to Feyenoord at the Spotify Camp Nou",
+    "Football: Atletico de Madrid open the Champions League at Anfield against Iraola's Liverpool"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, miércoles 9 de septiembre",
+   "file": "podcast-daily-2026-09-09-morning-weather-es-ES.json",
+   "bytes": 8348,
+   "sha256": "fb573b5fed08be4b187157c125b39155e7376f007782f5da6f01aea96464e2ad",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, miércoles 9 de septiembre",
+   "title_en": "Today's weather, Wednesday 9 September",
+   "headline_en": "AEMET warns of a potentially very adverse day on the Mediterranean, with orange warnings in four regions",
+   "summary_en": [
+    "AEMET warns of a potentially very adverse day on the Mediterranean, with orange warnings in four regions",
+    "Wednesday AEMET forecast for Barcelona, 9th September"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, miércoles 9 de septiembre",
+   "file": "podcast-daily-2026-09-09-morning-weather-andalucia-es-ES.json",
+   "bytes": 4742,
+   "sha256": "dc7eab69a0e89a9f39c948e5db0cc3c6053f91cc1e85f7db62d40d1eb6c62f14",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, miércoles 9 de septiembre",
+   "title_en": "Today's weather, Andalusia, Wednesday 9 September",
+   "headline_en": "Wednesday AEMET forecast for Sevilla, 9th September",
+   "summary_en": [
+    "Wednesday AEMET forecast for Sevilla, 9th September",
+    "Wednesday AEMET forecast for Córdoba, 9th September"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, miércoles 9 de septiembre",
+   "file": "podcast-daily-2026-09-09-morning-weather-canarias-es-ES.json",
+   "bytes": 4240,
+   "sha256": "61f742f1867329d0cf6c6e73bbd89bd4c224f9e7163985f8cfb652de416e8dfb",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, miércoles 9 de septiembre",
+   "title_en": "Today's weather, Canary Islands, Wednesday 9 September",
+   "headline_en": "AEMET has yellow heat warnings out over Gran Canaria and Fuerteventura through the day",
+   "summary_en": [
+    "AEMET has yellow heat warnings out over Gran Canaria and Fuerteventura through the day",
+    "Wednesday AEMET forecast for Las Palmas de Gran Canaria, 9th September"
+   ]
+  },
+  {
    "id": "es-ES-El informativo de la mañana, martes 8 de septiembre",
    "file": "podcast-daily-2026-09-08-morning-news-es-ES.json",
    "bytes": 10948,
@@ -1315,107 +1416,6 @@
    "summary_en": [
     "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-27",
     "Predicción AEMET para Santa Cruz de Tenerife (Santa Cruz de Tenerife (Tenerife)), 2026-08-27"
-   ]
-  },
-  {
-   "id": "es-ES-El informativo de la mañana, miércoles 26 de agosto",
-   "file": "podcast-daily-2026-08-26-morning-news-es-ES.json",
-   "bytes": 9541,
-   "sha256": "75432c66d03c11b49b9628f09c1c6511a308d2ebdc7605e0eb93116bf124b29e",
-   "date": "2026-08-26",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El informativo de la mañana, miércoles 26 de agosto",
-   "title_en": "The morning news, Wednesday 26 August",
-   "headline_en": "A fire at a hospital in Islamabad kills newborn babies",
-   "summary_en": [
-    "A fire at a hospital in Islamabad kills newborn babies",
-    "Ministers contradict each other over what the CNI warned before Ceuta",
-    "The Collserola fire in Barcelona is stabilised and residents can go home"
-   ]
-  },
-  {
-   "id": "es-ES-Los deportes, miércoles 26 de agosto",
-   "file": "podcast-daily-2026-08-26-morning-sport-es-ES.json",
-   "bytes": 4820,
-   "sha256": "011a3b2c7c20fc07e39a7a67baf314fe6e371834e8a08e18dc25565870dd068d",
-   "date": "2026-08-26",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "Los deportes, miércoles 26 de agosto",
-   "title_en": "Today's sport, Wednesday 26 August",
-   "headline_en": "Real Madrid host Real Sociedad tonight and Mourinho returns to the Bernabeu",
-   "summary_en": [
-    "Real Madrid host Real Sociedad tonight and Mourinho returns to the Bernabeu",
-    "Real Sociedad come to the Bernabeu with no summer signings"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo, miércoles 26 de agosto",
-   "file": "podcast-daily-2026-08-26-morning-weather-es-ES.json",
-   "bytes": 5049,
-   "sha256": "ee0c0c5a4718feea67009c2ee9295deb18ffb93ec1d1174e31185fdfa989db39",
-   "date": "2026-08-26",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": 0,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo, miércoles 26 de agosto",
-   "title_en": "Today's weather, Wednesday 26 August",
-   "headline_en": "Aemet has yellow warnings for rain and storms across Galicia today",
-   "summary_en": [
-    "Aemet has yellow warnings for rain and storms across Galicia today",
-    "Yellow warnings for heat in the Ebro and for wind in the Vall d'Aran"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo en Andalucía, miércoles 26 de agosto",
-   "file": "podcast-daily-2026-08-26-morning-weather-andalucia-es-ES.json",
-   "bytes": 4767,
-   "sha256": "99d190e340480dc7ea731f6f03fb99c0a1419367f35b1b8e887bb98f66e53e1a",
-   "date": "2026-08-26",
-   "edition": "morning",
-   "programme": "weather-andalucia",
-   "programme_order": 3,
-   "segment_order": 1,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo en Andalucía, miércoles 26 de agosto",
-   "title_en": "Today's weather, Andalusia, Wednesday 26 August",
-   "headline_en": "Predicción AEMET para Sevilla (Sevilla), 2026-08-26",
-   "summary_en": [
-    "Predicción AEMET para Sevilla (Sevilla), 2026-08-26",
-    "Predicción AEMET para Córdoba (Córdoba), 2026-08-26"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo en Canarias, miércoles 26 de agosto",
-   "file": "podcast-daily-2026-08-26-morning-weather-canarias-es-ES.json",
-   "bytes": 4149,
-   "sha256": "57dedf4d11a7310d523b8086adda6a5935c1da7ced1c0f11811a5637fe6ea161",
-   "date": "2026-08-26",
-   "edition": "morning",
-   "programme": "weather-canarias",
-   "programme_order": 4,
-   "segment_order": 2,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo en Canarias, miércoles 26 de agosto",
-   "title_en": "Today's weather, Canary Islands, Wednesday 26 August",
-   "headline_en": "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-26",
-   "summary_en": [
-    "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-26",
-    "Predicción AEMET para Santa Cruz de Tenerife (Santa Cruz de Tenerife (Tenerife)), 2026-08-26"
    ]
   }
  ]

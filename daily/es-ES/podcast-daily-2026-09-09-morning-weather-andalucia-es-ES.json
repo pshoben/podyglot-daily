@@ -1,0 +1,193 @@
+{
+ "title": "El tiempo en Andalucía, miércoles 9 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-andalucia",
+   "wpm": 208,
+   "rate_multiplier": 0.73,
+   "pitch_multiplier": 0.79
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-andalucia",
+ "date": "2026-09-09",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Tierra adentro el calor aguanta:",
+   "en": "Inland the heat holds on:",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según la Aemet, Sevilla llega hoy a treinta y cinco grados,",
+   "en": "«Aemet» says «Sevilla» reaches 35 degrees today,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con veintiuno de mínima.",
+   "en": "with a low of 21.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo queda con intervalos nubosos,",
+   "en": "The cloud stays broken,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el viento del suroeste alcanza los treinta kilómetros por hora por la tarde.",
+   "en": "and the south-westerly wind gets up to 30 kilometres an hour in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por el valle, Córdoba se queda en treinta y cuatro grados, con diecinueve de mínima.",
+   "en": "Along the valley, «Córdoba» stays at 34 degrees, with a low of 19.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí hay intervalos nubosos con lluvia escasa,",
+   "en": "There, broken cloud with a little rain,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la probabilidad ronda el cincuenta y cinco por ciento.",
+   "en": "and the chance of it is around 55 per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la costa, Málaga marca también treinta y cuatro grados,",
+   "en": "On the coast, «Málaga» also reads 34 degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con veintitrés de mínima y un cuarenta y cinco por ciento de probabilidad de lluvia.",
+   "en": "with a low of 23 and a 45 per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento del noroeste sopla a veinticinco kilómetros por hora,",
+   "en": "The north-westerly wind blows at 25 kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el índice ultravioleta llega a siete.",
+   "en": "and the ultraviolet index reaches 7.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El este de la comunidad está bajo aviso amarillo por lluvias y por tormentas.",
+   "en": "The east of the region is under a yellow warning for rain and storms.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El aviso afecta al valle del Almanzora y Los Vélez, y al levante almeriense,",
+   "en": "The warning takes in the «valle del Almanzora y Los Vélez» and the «levante almeriense»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "entre las dos de la tarde y el final del día.",
+   "en": "between two in the afternoon and the end of the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es Andalucía.",
+   "en": "That is «Andalucía».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 3,
+ "handover": "junction",
+ "title_en": "Today's weather, Andalusia, Wednesday 9 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Andalucía",
+ "accent": "Andalucía",
+ "accent_label": "acento de Andalucía",
+ "segment_order": 1,
+ "headline_en": "Wednesday AEMET forecast for Sevilla, 9th September",
+ "summary_en": [
+  "Wednesday AEMET forecast for Sevilla, 9th September",
+  "Wednesday AEMET forecast for Córdoba, 9th September"
+ ]
+}

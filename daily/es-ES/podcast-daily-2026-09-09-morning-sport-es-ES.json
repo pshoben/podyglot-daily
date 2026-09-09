@@ -1,0 +1,209 @@
+{
+ "title": "Los deportes, miércoles 9 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-sport",
+   "wpm": 208,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-09",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "En el Spotify Camp Nou, el Barcelona recibe hoy al Feyenoord.",
+   "en": "At the «Spotify Camp Nou», «Barcelona» host «Feyenoord» today.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es su estreno en la Liga de Campeones,",
+   "en": "It is their opening night in the Champions League,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a un horario poco habitual:",
+   "en": "at an unusual kick-off time:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "las siete menos cuarto de la tarde.",
+   "en": "a quarter to seven in the evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La final del torneo está fijada en el Metropolitano,",
+   "en": "The competition's final is set for the «Metropolitano»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el cinco de junio de dos mil veintisiete.",
+   "en": "on the 5th of June 2027.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El delantero brasileño Raphinha, capitán del equipo,",
+   "en": "The Brazilian forward «Raphinha», the club's captain,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "afronta el duelo ante el Feyenoord.",
+   "en": "goes into the tie against «Feyenoord».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Atlético de Madrid juega en Anfield, ante el Liverpool.",
+   "en": "«Atlético de Madrid» play at «Anfield», against «Liverpool».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es su quinto partido oficial de la temporada,",
+   "en": "It is their fifth official match of the season,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el primero en la competición europea.",
+   "en": "and their first in the European competition.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el banquillo local está ahora el técnico español Andoni Iraola, llegado desde el Bournemouth.",
+   "en": "The home bench now belongs to the Spanish coach «Andoni Iraola», who came from «Bournemouth».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Diego Pablo Simeone confirmó en rueda de prensa que su equipo volverá a salir sin delanteros.",
+   "en": "«Diego Pablo Simeone» confirmed at a press conference that his side will again start with no forwards.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según Marca, el Valencia cumple hoy dos mil trescientos setenta y cuatro días sin jugar en Europa.",
+   "en": "According to «Marca», «Valencia» today reach 2,374 days without playing in Europe.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Supera así los dos mil trescientos setenta y tres días que pasaron",
+   "en": "That takes them past the 2,373 days that ran",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "entre mil novecientos ochenta y tres y mil novecientos ochenta y nueve.",
+   "en": "between 1983 and 1989.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La cuenta arranca en marzo de dos mil veinte.",
+   "en": "The count starts in March 2020.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí los deportes.",
+   "en": "That's it for sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Wednesday 9 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Football: Barcelona begin the Champions League at home to Feyenoord at the Spotify Camp Nou",
+ "summary_en": [
+  "Football: Barcelona begin the Champions League at home to Feyenoord at the Spotify Camp Nou",
+  "Football: Atletico de Madrid open the Champions League at Anfield against Iraola's Liverpool"
+ ]
+}

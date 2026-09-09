@@ -1,0 +1,343 @@
+{
+ "title": "El tiempo, miércoles 9 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather",
+   "wpm": 208,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-09",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Según la Agencia Estatal de Meteorología,",
+   "en": "The «Agencia Estatal de Meteorología» says",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "hoy es un día potencialmente muy adverso en el área mediterránea y en Baleares.",
+   "en": "today is a potentially very adverse day in the Mediterranean area and the Balearics.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se esperan chubascos y tormentas muy fuertes y persistentes, con posibles inundaciones,",
+   "en": "Very strong and lasting showers and storms are expected, with possible flooding,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "granizo y rachas de viento muy fuertes.",
+   "en": "hail and very strong gusts of wind.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se podrían acumular hasta cuarenta litros por metro cuadrado en una hora.",
+   "en": "Up to 40 litres per square metre could build up in an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hay avisos por lluvias y tormentas en seis comunidades,",
+   "en": "There are warnings for rain and storms in six regions,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el nivel sube a naranja en Baleares, la Comunidad Valenciana,",
+   "en": "and the level goes up to orange in the Balearics, the Valencian Community,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cataluña y la Región de Murcia.",
+   "en": "Catalonia and the Region of «Murcia».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El paso del frente deja además un descenso generalizado de las temperaturas,",
+   "en": "The front also brings a general drop in temperature,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y pone fin al episodio de calor intenso en amplias zonas del país.",
+   "en": "and puts an end to the spell of intense heat over wide areas of the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Barcelona el cielo está cubierto con lluvia,",
+   "en": "In «Barcelona» the sky is overcast with rain,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con un cien por cien de probabilidad y máxima de veintinueve grados.",
+   "en": "with a hundred per cent chance of it and a high of 29 degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima se queda en veinte,",
+   "en": "The low stays at 20,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el viento sopla flojo, a cinco kilómetros por hora.",
+   "en": "and the wind is light, at 5 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Valencia llega a treinta y uno, con dieciocho de mínima,",
+   "en": "«Valencia» reaches 31, with a low of 18,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y por la tarde el cielo pasa a nuboso con tormenta.",
+   "en": "and in the afternoon the sky turns cloudy with thunder.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí la probabilidad de lluvia también es del cien por cien,",
+   "en": "There the chance of rain is a hundred per cent too,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con viento del nordeste a quince kilómetros por hora.",
+   "en": "with a north-easterly wind at 15 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Bilbao el cielo está muy nuboso con lluvia todo el día,",
+   "en": "In «Bilbao» the sky is mostly cloudy with rain all day,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con veintidós grados de máxima y catorce de mínima.",
+   "en": "with a high of 22 degrees and a low of 14.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En A Coruña el cielo queda poco nuboso,",
+   "en": "In «A Coruña» the sky stays mostly clear,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con veintitrés de máxima y diecisiete de mínima,",
+   "en": "with a high of 23 and a low of 17,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y solo un cinco por ciento de probabilidad de lluvia.",
+   "en": "and only a 5 per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Madrid el cambio es brusco:",
+   "en": "In «Madrid» the change is abrupt:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "las máximas pasan de rozar los cuarenta grados a quedarse por debajo de treinta.",
+   "en": "the highs go from close to 40 degrees to under 30.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La lluvia será débil, sobre todo por la mañana,",
+   "en": "The rain will be light, mostly in the morning,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "más frecuente en la Sierra,",
+   "en": "more frequent in the «Sierra»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y remitirá por la tarde.",
+   "en": "and it will ease off in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Aemet da veintiséis grados de máxima en la capital,",
+   "en": "«Aemet» gives the capital a high of 26 degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con catorce de mínima y viento del nordeste.",
+   "en": "with a low of 14 and a north-easterly wind.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí el tiempo.",
+   "en": "That's it for the national forecast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Wednesday 9 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "España",
+ "accent": "Castilla",
+ "accent_label": "acento de Castilla",
+ "segment_order": 0,
+ "headline_en": "AEMET warns of a potentially very adverse day on the Mediterranean, with orange warnings in four regions",
+ "summary_en": [
+  "AEMET warns of a potentially very adverse day on the Mediterranean, with orange warnings in four regions",
+  "Wednesday AEMET forecast for Barcelona, 9th September"
+ ]
+}

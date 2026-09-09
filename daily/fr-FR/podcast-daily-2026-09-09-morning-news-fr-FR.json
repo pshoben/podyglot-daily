@@ -1,0 +1,450 @@
+{
+ "title": "Le journal du matin, mercredi 9 septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-09",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Ce mercredi neuf septembre, il est sept heures à Paris. Le journal du matin.",
+   "en": "This Wednesday the 9th of September, seven o'clock in «Paris». The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Ukraine, les frappes russes ont repris sur Kiev,",
+   "en": "In Ukraine, Russian strikes have resumed on «Kyiv»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "après trois jours de trêve.",
+   "en": "after three days of truce.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et à Paris, le procès en appel de François Bayrou s'ouvre",
+   "en": "And in «Paris», the appeal trial of «François Bayrou» opens",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans l'affaire des assistants du MoDem.",
+   "en": "in the «MoDem» assistants case.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par l'Ukraine,",
+   "en": "We start with Ukraine,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où cette trêve de trois jours accompagnait la visite de deux émissaires américains.",
+   "en": "where that three-day truce came with the visit of two American envoys.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Steve Witkoff et Jared Kushner étaient venus à Kiev",
+   "en": "«Steve Witkoff» and «Jared Kushner» had come to «Kyiv»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour des pourparlers visant à mettre fin à la guerre.",
+   "en": "for talks aimed at ending the war.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Monde rapporte que de fortes explosions ont été entendues",
+   "en": "«Le Monde» reports that loud explosions were heard",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tôt mardi dans la capitale ukrainienne.",
+   "en": "early on Tuesday in the Ukrainian capital.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'après Ouest-France, au moins cinq personnes ont été tuées dans la nuit du huit septembre.",
+   "en": "According to «Ouest-France», at least five people were killed during the night of the 8th of September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le quotidien ajoute que Volodymyr Zelensky espère une relance des discussions",
+   "en": "The paper goes on to say that «Volodymyr Zelensky» hopes talks",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "entre Kiev, Moscou et Washington dès ce mois de septembre.",
+   "en": "between «Kyiv», Moscow and Washington will restart this September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre sujet maintenant, ce procès se tient devant la cour d'appel de Paris,",
+   "en": "Turning to something else, that trial sits at the «Paris» appeal court,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à partir d'aujourd'hui.",
+   "en": "from today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le président du MoDem avait été relaxé en première instance,",
+   "en": "The «MoDem» president was acquitted at first instance,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le parquet avait fait appel.",
+   "en": "and the prosecution appealed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon France Télévisions,",
+   "en": "According to «France Télévisions»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "il est accusé d'avoir créé un système visant à détourner des fonds européens.",
+   "en": "he is accused of having created a system to divert European funds.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Figaro écrit que les prévenus comparaissent jusqu'au deux octobre.",
+   "en": "«Le Figaro» writes that the defendants appear until the 2nd of October.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Libération relève que l'audience intervient un an jour pour jour",
+   "en": "«Libération» points out that the hearing comes a year to the day",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "après le départ de l'ancien Premier ministre de Matignon.",
+   "en": "after the former prime minister left «Matignon».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Toujours en France, les résultats des élèves français à l'enquête Pisa sont,",
+   "en": "Still in France, French pupils' results in the «Pisa» survey are,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon RFI, les plus bas jamais mesurés.",
+   "en": "«RFI» says, the lowest ever measured.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cette enquête internationale a été publiée mardi.",
+   "en": "That international survey was published on Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ouest-France retient une chute des performances des élèves français de quinze ans",
+   "en": "«Ouest-France» picks out a fall in the performance of French fifteen-year-olds",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en mathématiques et en compréhension de l'écrit.",
+   "en": "in maths and in reading comprehension.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ministre de l'Éducation nationale a jugé ce constat préoccupant.",
+   "en": "The education minister called the finding worrying.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour lui, le collège doit être le grand chantier du prochain quinquennat.",
+   "en": "In his view, lower secondary school must be the big project of the next five-year term.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le conflit commercial entre le Canada et les États-Unis franchit un nouveau cap.",
+   "en": "the trade conflict between Canada and the United States moves up a gear.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'après Le Monde,",
+   "en": "According to «Le Monde»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les surtaxes canadiennes de quinze, vingt-cinq ou cinquante pour cent touchent environ vingt milliards de dollars de produits américains.",
+   "en": "Canadian surtaxes of fifteen, twenty-five or fifty per cent hit about twenty billion dollars of American goods.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'acier, les produits laitiers, l'électronique et la pâte à papier sont concernés.",
+   "en": "Steel, dairy products, electronics and paper pulp are among them.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ouest-France signale que Washington interdit aussi l'entrée de certains produits canadiens et augmente ses droits de douane.",
+   "en": "«Ouest-France» says Washington is also barring the entry of some Canadian products and raising its customs duties.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour finir, un sommet international sur l'espace s'ouvre à Paris, au Grand Palais.",
+   "en": "And finally, an international summit on space opens in «Paris», at the «Grand Palais».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "France Télévisions note que le rendez-vous se tient mercredi et jeudi,",
+   "en": "«France Télévisions» notes that the meeting runs on Wednesday and Thursday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et que le chancelier allemand Friedrich Merz et les groupes américains SpaceX et Blue Origin s'en sont désistés.",
+   "en": "and that the German chancellor «Friedrich Merz» and the American companies «SpaceX» and «Blue Origin» have pulled out of it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'après RFI, ce sommet voulu par Emmanuel Macron doit rassembler en France institutions,",
+   "en": "According to «RFI», this summit, which «Emmanuel Macron» wanted, is to bring together in France the institutions,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "gouvernements et acteurs économiques du spatial.",
+   "en": "governments and economic players of the space sector.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is where the main news stands.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Wednesday 9 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Russian strikes resume on Kyiv after a three-day truce, and Zelensky hopes talks restart in September",
+ "summary_en": [
+  "Russian strikes resume on Kyiv after a three-day truce, and Zelensky hopes talks restart in September",
+  "Francois Bayrou goes on trial again, on appeal, over the MoDem parliamentary assistants case",
+  "At least five people killed in a new wave of Russian attacks on Kyiv, Ouest-France reports"
+ ]
+}

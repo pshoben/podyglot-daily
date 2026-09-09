@@ -1,0 +1,550 @@
+{
+ "title": "La actualidad de la mañana, martes 8 de septiembre",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-08",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Martes ocho de septiembre. La actualidad de la mañana.",
+   "en": "Tuesday the 8th of September. The morning news round-up.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Canadá aplica desde hoy sus aranceles de represalia contra Estados Unidos.",
+   "en": "Canada applies its retaliatory tariffs on the United States from today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el presidente Abelardo De La Espriella",
+   "en": "And President «Abelardo De La Espriella»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "recibe al secretario de Estado estadounidense, Marco Rubio.",
+   "en": "receives the United States Secretary of State, «Marco Rubio».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esos gravámenes tienen tasas del quince, del veinticinco y del cincuenta por ciento,",
+   "en": "Those duties carry rates of 15, 25 and 50 per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de acuerdo con El Colombiano.",
+   "en": "according to «El Colombiano».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Alcanzan a productos estadounidenses por unos veinte mil millones de dólares.",
+   "en": "They reach United States products worth about 20 billion dollars.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la lista hay acero, productos lácteos, artículos electrónicos y pasta de papel.",
+   "en": "The list takes in steel, dairy products, electronics and paper pulp.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Gobierno canadiense sostuvo que ese valor equivale",
+   "en": "The Canadian government said that value matches",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "al de sus propios bienes gravados por Washington.",
+   "en": "that of its own goods taxed by Washington.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Horas antes, el presidente Donald Trump amenazó con impedir la venta de aviones Bombardier",
+   "en": "Hours earlier, President Donald Trump threatened to stop Bombardier aircraft being sold",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en Estados Unidos.",
+   "en": "in the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo escribió en su red social,",
+   "en": "He wrote it on his social network,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y acusó a Canadá de bloquear a bancos y empresas estadounidenses.",
+   "en": "and accused Canada of blocking United States banks and companies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en Colombia, esa reunión es hoy,",
+   "en": "Here in Colombia, that meeting is today,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y El Tiempo precisó que será en el Batallón Paraíso de Barranquilla.",
+   "en": "and «El Tiempo» said it will be at the «Batallón Paraíso» in «Barranquilla».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ningún secretario de Estado estadounidense había visitado antes territorio colombiano.",
+   "en": "No United States Secretary of State had visited Colombian soil before.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También es el primer encuentro de alto nivel del nuevo Gobierno con un funcionario extranjero.",
+   "en": "It is also the new government's first high-level meeting with a foreign official.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "A la cita asistirá el canciller Omar Bula Escobar.",
+   "en": "Foreign minister «Omar Bula Escobar» will be at the talks as well.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Bula destacó que el presidente enfocará la conversación en tres temas.",
+   "en": "«Bula» said the president will focus the conversation on three subjects.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Son la seguridad, el comercio y la defensa de valores compartidos.",
+   "en": "They are security, trade and the defence of shared values.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La República situó las exportaciones colombianas del año pasado",
+   "en": "«La República» put Colombian exports last year",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en casi quince mil millones de dólares.",
+   "en": "at almost 15 billion dollars.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las importaciones desde Estados Unidos llegaron a algo más de dieciséis mil millones de dólares.",
+   "en": "Imports from the United States came to a little over 16 billion dollars.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En otras noticias, la Gobernación de Antioquia denunció amenazas",
+   "en": "In other news, the «Antioquia» government has reported threats",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "contra al menos tres alcaldes del norte del departamento.",
+   "en": "against at least three mayors in the north of the department.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Colombiano informó que las disidencias de las Farc habrían amenazado a esos mandatarios.",
+   "en": "«El Colombiano» reported that «Farc» dissidents are said to have threatened those mayors.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se trata de los alcaldes de Gómez Plata,",
+   "en": "They are the mayors of «Gómez Plata»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Carolina del Príncipe y Santa Rosa de Osos.",
+   "en": "«Carolina del Príncipe» and «Santa Rosa de Osos».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El grupo pretendía declarar objetivo militar a ciudadanos,",
+   "en": "The group intended to make a military target of citizens,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "líderes y servidores públicos de esos territorios.",
+   "en": "community leaders and public servants in those areas.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Gobernación le pidió al Gobierno nacional respaldar a esos alcaldes.",
+   "en": "The departmental government asked the national government to stand behind those mayors.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otro tema del día, el Dane reportó",
+   "en": "Another subject today, «Dane» reported",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "una inflación anual de seis coma veinticuatro por ciento en agosto.",
+   "en": "annual inflation of 6.24 per cent in August.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La República anotó que lo que más pesó fue el alza en alojamiento y alimentos.",
+   "en": "«La República» noted that what pushed it most was the rise in housing and food.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por ciudades, Medellín registró el costo de vida más alto,",
+   "en": "By city, «Medellín» had the highest cost of living,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con siete coma cero siete por ciento.",
+   "en": "at 7.07 per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de asunto: según El Colombiano,",
+   "en": "Changing the subject: «El Colombiano» says",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ya hay una primera condena por los títulos falsos de la Fundación San José.",
+   "en": "there is now a first conviction over the false diplomas at the «Fundación San José».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un juzgado de Bogotá condenó al exsecretario general de la institución",
+   "en": "A «Bogotá» court sentenced the institution's former secretary general",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a tres años de prisión.",
+   "en": "to three years in prison.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Luis Carlos Gutiérrez aceptó su responsabilidad,",
+   "en": "«Luis Carlos Gutiérrez» accepted responsibility,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el juez le suspendió de forma condicional la pena.",
+   "en": "and the judge conditionally suspended the sentence.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Tiempo recordó que la Fiscalía acusa a Juliana Guerrero de cometer un delito",
+   "en": "«El Tiempo» recalled that prosecutors are accusing «Juliana Guerrero» of an offence",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en este expediente.",
+   "en": "in this case file.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para finalizar, el Biz Fest celebra hoy su décima edición",
+   "en": "And finally, the «Biz Fest» holds its tenth edition today",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el Movistar Arena de Bogotá.",
+   "en": "at the «Movistar Arena» in «Bogotá».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El festival recaudará cincuenta mil horas de voluntariado por el sismo de agosto,",
+   "en": "The festival will raise 50,000 volunteer hours because of the August earthquake,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según La República.",
+   "en": "«La República» says.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sus creadoras, Daniela, Stephanie y Karen Carvajalino,",
+   "en": "Its founders, «Daniela», «Stephanie» and «Karen Carvajalino»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "resaltaron el impacto del encuentro para la reconstrucción.",
+   "en": "highlighted the impact the event will have on the reconstruction.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más importante.",
+   "en": "That is what matters most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 8 September",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "Canada's retaliatory tariffs on United States goods take effect, and Trump threatens to stop Bombardier sales",
+ "summary_en": [
+  "Canada's retaliatory tariffs on United States goods take effect, and Trump threatens to stop Bombardier sales",
+  "Marco Rubio meets President De La Espriella in Barranquilla, the first visit to Colombia by a United States Secretary of State",
+  "Antioquia's government says FARC dissidents have threatened the mayors of three towns in the north of the department"
+ ]
+}

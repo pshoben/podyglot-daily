@@ -1,0 +1,51 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-AR",
+ "date": "2026-09-08",
+ "episodes": [
+  {
+   "id": "es-AR-El deporte, martes 8 de septiembre",
+   "file": "podcast-daily-2026-09-08-morning-sport-es-AR.json",
+   "bytes": 5383,
+   "sha256": "f14e39291d24a7fb366ed629292d32243a910d44cdae0d5b3143efd4b833124d",
+   "date": "2026-09-08",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El deporte, martes 8 de septiembre",
+   "title_en": "Today's sport, Tuesday 8 September",
+   "headline_en": "Football: Boca Juniors play Sao Paulo at La Bombonera tonight in the Copa Sudamericana quarter-finals",
+   "summary_en": [
+    "Football: Boca Juniors play Sao Paulo at La Bombonera tonight in the Copa Sudamericana quarter-finals",
+    "Football: Argentina's football association holds back the announcement of the national team's friendlies until Wednesday"
+   ]
+  },
+  {
+   "id": "es-AR-El pronóstico, martes 8 de septiembre",
+   "file": "podcast-daily-2026-09-08-morning-weather-es-AR.json",
+   "bytes": 5014,
+   "sha256": "8618d6d3406044608efdf0f336b4dcf0c6766b962f84888c1b292c8ff27f9f37",
+   "date": "2026-09-08",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El pronóstico, martes 8 de septiembre",
+   "title_en": "Today's weather, Tuesday 8 September",
+   "headline_en": "Argentina's weather service: yellow alert for snow, wind and the Zonda, gusts to a hundred kilometres an hour, and no rain in Buenos Aires",
+   "summary_en": [
+    "Argentina's weather service: yellow alert for snow, wind and the Zonda, gusts to a hundred kilometres an hour, and no rain in Buenos Aires",
+    "The European model gives Córdoba broken cloud and a day between 7 and 21 degrees"
+   ]
+  }
+ ],
+ "content": "b954dc0b814fb465f20b3d4e73aa27604e97404993012b3170abcbb0a8419b77",
+ "rev": 1,
+ "updated": "2026-09-09T06:14:52.728Z"
+}

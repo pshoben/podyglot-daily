@@ -1,0 +1,280 @@
+{
+ "title": "Le bulletin du matin, mardi 8 septembre",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-news",
+   "wpm": 185,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-08",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Mardi huit septembre, sept heures. Le bulletin du matin.",
+   "en": "Tuesday the eighth of September, seven o'clock. The morning bulletin.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au Népal, des centaines de corps sont charriés par les eaux.",
+   "en": "In Nepal, hundreds of bodies are being carried by the water.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et les contre-tarifs canadiens sur les produits américains sont entrés en vigueur.",
+   "en": "And Canada's counter-tariffs on American products have come into force.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On débute avec la crue au Népal, et le district de Chitwan, dans le sud.",
+   "en": "We start with the flood in Nepal, and «Chitwan» district in the south.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le bilan provisoire des autorités népalaises recense plus de cinq mille disparus.",
+   "en": "The Nepalese authorities' provisional count lists more than five thousand missing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le district est devenu le principal point d'arrivée de ces corps.",
+   "en": "The district has become the main arrival point for those bodies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un collaborateur de La Presse s'est rendu sur place.",
+   "en": "A contributor for «La Presse» went there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans l'actualité d'ici, la riposte du gouvernement Carney a pris effet peu après minuit.",
+   "en": "In the news here, the Carney government's response took effect just after midnight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Washington avait imposé ses propres droits de douane au Canada le mois dernier.",
+   "en": "Washington had imposed its own tariffs on Canada last month.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon Radio-Canada, les contre-tarifs sont de quinze, vingt-cinq ou cinquante pour cent.",
+   "en": "According to «Radio-Canada», the counter-tariffs are fifteen, twenty-five or fifty per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'acier, les produits laitiers et les électroménagers américains sont visés.",
+   "en": "American steel, dairy products and household appliances are the targets.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce sont en grande partie les consommateurs qui épongeront la hausse des prix.",
+   "en": "It is largely consumers who will absorb the price rise.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des deux côtés de la frontière.",
+   "en": "On both sides of the border.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On poursuit, Donald Trump ne veut plus que les produits Bombardier soient vendus aux États-Unis.",
+   "en": "Moving on, «Donald Trump» no longer wants Bombardier products sold in the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le président américain l'a écrit dans une publication sur son réseau social.",
+   "en": "The American president wrote it in a post on his own social network.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'avionneur montréalais devra construire ses produits aux États-Unis s'il veut continuer d'y vendre.",
+   "en": "The «Montréal» planemaker must build its products in the United States to keep selling there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon lui, ces produits ne sont pas assez bons.",
+   "en": "In his view, those products are not good enough.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Bombardier a répondu que l'aérospatiale américaine est clairement gagnante en matière de commerce.",
+   "en": "Bombardier answered that American aerospace is clearly a winner on trade.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'entreprise dit créer des dizaines de milliers d'emplois à travers les États-Unis.",
+   "en": "The company says it creates tens of thousands of jobs across the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle ajoute que ce secteur y dégage un excédent commercial.",
+   "en": "It adds that the sector runs a trade surplus there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En terminant, le gouvernement Fréchette a annoncé lundi soir de nouvelles aides aux entreprises.",
+   "en": "And finally, the «Fréchette» government announced new help for businesses on Monday evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il demande aussi de réserver les appels d'offres publics aux entreprises québécoises et canadiennes.",
+   "en": "It is also asking that public tenders be reserved for Quebec and Canadian firms.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les soumissions d'entreprises américaines en seraient exclues.",
+   "en": "That would exclude bids from American companies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La guerre commerciale s'invite ainsi de nouveau dans la campagne électorale québécoise.",
+   "en": "So the trade war is back in the Quebec election campaign.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est le portrait du jour.",
+   "en": "That is the picture of the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 8 September",
+ "edition": "morning",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "Nepal flood: Chitwan district in the south is the main arrival point for hundreds of bodies",
+ "summary_en": [
+  "Nepal flood: Chitwan district in the south is the main arrival point for hundreds of bodies",
+  "Canada's counter-tariffs on American goods took effect just after midnight, at 15, 25 or 50 per cent by product",
+  "Nepal's emergency authority puts the missing at more than 5,000 on its latest provisional count"
+ ]
+}

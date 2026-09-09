@@ -1,0 +1,189 @@
+{
+ "title": "Le bulletin météo, mardi 8 septembre",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-weather",
+   "wpm": 185,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-08",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Il pleuvra sur Montréal aujourd'hui,",
+   "en": "It will rain in «Montréal» today,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après le modèle GEM d'Environnement Canada.",
+   "en": "according to Environment Canada's GEM model.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de pluie atteint soixante-trois pour cent.",
+   "en": "The chance of rain reaches sixty-three per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On attend vingt-deux degrés au plus haut, et dix-sept degrés au plus bas.",
+   "en": "A high of twenty-two degrees is expected, and a low of seventeen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent ne dépasse pas les douze kilomètres par heure.",
+   "en": "The wind does not go beyond twelve kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sur la ville de Québec, en revanche, le ciel restera couvert.",
+   "en": "Over «Québec» City, however, the sky will stay overcast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le risque de pluie tombe à quatorze pour cent.",
+   "en": "The risk of rain falls to fourteen per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le maximum se tient à dix-neuf degrés, et le minimum à quatorze degrés.",
+   "en": "The high stands at nineteen degrees, and the low at fourteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Soit trois degrés de moins qu'à Montréal.",
+   "en": "That is three degrees less than in «Montréal».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent grimpe jusqu'à quatorze kilomètres par heure.",
+   "en": "The wind climbs to fourteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Même ciel couvert au Saguenay, avec un maximum de dix-huit degrés.",
+   "en": "The same overcast sky in the «Saguenay», with a high of eighteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le minimum, par contre, descend jusqu'à huit degrés.",
+   "en": "The low, on the other hand, drops to eight degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les chances de pluie, elles, sont nulles.",
+   "en": "As for the chances of rain, they are nil.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent culmine à treize kilomètres par heure.",
+   "en": "The wind peaks at thirteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Neuf degrés séparent ainsi le minimum du Saguenay de celui de Montréal.",
+   "en": "So nine degrees separate the low in the «Saguenay» from the one in «Montréal».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce sera tout pour la météo.",
+   "en": "That will be all for the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Tuesday 8 September",
+ "edition": "morning",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "Rain in Montreal on Tuesday, a high of 22 and a 63 per cent chance of rain",
+ "summary_en": [
+  "Rain in Montreal on Tuesday, a high of 22 and a 63 per cent chance of rain",
+  "Quebec City stays overcast, 19 degrees at best and 14 at worst"
+ ]
+}

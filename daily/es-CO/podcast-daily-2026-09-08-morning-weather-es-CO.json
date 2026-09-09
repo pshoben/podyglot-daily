@@ -1,0 +1,209 @@
+{
+ "title": "El clima de hoy, martes 8 de septiembre",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-weather",
+   "wpm": 195,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-08",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Según el modelo del Centro Europeo, el ECMWF,",
+   "en": "According to the European Centre model, the ECMWF,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "así amanece el cielo en Medellín.",
+   "en": "this is how the morning sky looks in «Medellín».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hoy cae llovizna, con un dieciocho por ciento de probabilidad de lluvia.",
+   "en": "Drizzle falls today, with an 18 per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El termómetro marca veintinueve grados",
+   "en": "The thermometer reads 29 degrees",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el punto más alto y diecisiete en el más bajo.",
+   "en": "at its highest point and 17 at its lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento máximo previsto es de nueve kilómetros por hora.",
+   "en": "The highest wind forecast is 9 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cali sube a treinta y un grados de máxima, dos más que Medellín.",
+   "en": "«Cali» climbs to a high of 31 degrees, two more than «Medellín».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima se sitúa en veinte grados,",
+   "en": "The low sits at 20 degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con viento de hasta dieciséis kilómetros por hora.",
+   "en": "with wind of up to 16 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La llovizna se repite allí,",
+   "en": "Drizzle again there,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el riesgo de lluvia queda en el veintiuno por ciento.",
+   "en": "and the risk of rain stays at 21 per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Bogotá el panorama cambia: sigue la llovizna,",
+   "en": "In «Bogotá» the picture changes: the drizzle carries on,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y las posibilidades de lluvia ascienden al setenta y cinco por ciento.",
+   "en": "and the chances of rain rise to 75 per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La capital oscila entre nueve y veintiún grados.",
+   "en": "The capital swings between 9 and 21 degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento no supera los doce kilómetros por hora.",
+   "en": "The wind does not go beyond 12 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Entre Bogotá y Medellín hay más de cincuenta puntos de diferencia",
+   "en": "«Bogotá» and «Medellín» are more than 50 points apart",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la probabilidad de lluvia de hoy.",
+   "en": "on today's chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese es el clima.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Tuesday 8 September",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "Medellín: drizzle but only an 18 per cent chance of rain, and a high of 29 degrees",
+ "summary_en": [
+  "Medellín: drizzle but only an 18 per cent chance of rain, and a high of 29 degrees",
+  "Cali reaches 31 degrees, with drizzle and a 21 per cent risk of rain"
+ ]
+}

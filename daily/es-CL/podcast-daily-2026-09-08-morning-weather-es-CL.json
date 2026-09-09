@@ -1,0 +1,189 @@
+{
+ "title": "El estado del tiempo, martes 8 de septiembre",
+ "dialect": "es-CL",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CL-daily-weather",
+   "wpm": 205,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-08",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "La llovizna asoma este martes en el cielo de Valparaíso,",
+   "en": "Drizzle appears this Tuesday in the sky over «Valparaíso»,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según el modelo del Centro Europeo, el ECMWF.",
+   "en": "according to the European Centre model, the ECMWF.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí se esperan diecisiete grados como máximo y tres como mínimo.",
+   "en": "There the expected high is 17 degrees and the expected low is 3.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento anota catorce kilómetros por hora en su punto más alto.",
+   "en": "The wind reaches 14 kilometres an hour at its strongest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pese a la llovizna, la probabilidad de lluvia es de siete por ciento.",
+   "en": "Despite the drizzle, the chance of rain is 7 percent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Santiago el cielo está nuboso.",
+   "en": "In «Santiago» the sky is cloudy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La capital comparte esa misma máxima de diecisiete grados.",
+   "en": "The capital shares that same high of 17 degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su mínima se sitúa en cinco grados, dos por encima de Valparaíso.",
+   "en": "Its low sits at 5 degrees, two above «Valparaíso».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de lluvia asciende al veintidós por ciento.",
+   "en": "The chance of rain climbs to 22 percent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento corre más flojo, con diez kilómetros por hora.",
+   "en": "The wind runs lighter, at 10 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Concepción recibe el mismo cielo nuboso.",
+   "en": "«Concepción» gets that same cloudy sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima cede a quince grados y la mínima repite los cinco de Santiago.",
+   "en": "The high eases to 15 degrees and the low repeats «Santiago»'s 5.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El pronóstico de hoy no da lluvia: cero por ciento.",
+   "en": "Today's forecast gives no rain: zero percent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el viento se instala en trece kilómetros por hora.",
+   "en": "And the wind settles at 13 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La lluvia va del cero por ciento de Concepción al veintidós de Santiago.",
+   "en": "Rain runs from «Concepción»'s zero percent to «Santiago»'s 22.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese es el panorama.",
+   "en": "That is the picture.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Tuesday 8 September",
+ "edition": "morning",
+ "region": "es-CL",
+ "region_label": "Chile",
+ "headline_en": "Drizzle in the sky over Valparaíso on Tuesday, with a high of 17 degrees and a low of 3",
+ "summary_en": [
+  "Drizzle in the sky over Valparaíso on Tuesday, with a high of 17 degrees and a low of 3",
+  "Cloud over Santiago on Tuesday, a 22 percent chance of rain and a high of 17 degrees"
+ ]
+}

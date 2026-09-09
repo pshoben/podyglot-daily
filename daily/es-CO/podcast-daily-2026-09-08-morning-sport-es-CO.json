@@ -1,0 +1,169 @@
+{
+ "title": "La jornada deportiva, martes 8 de septiembre",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-sport",
+   "wpm": 195,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-08",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "En las canchas colombianas,",
+   "en": "On Colombian pitches,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el fútbol enfrenta hoy a Santa Fe y a Vasco da Gama.",
+   "en": "today's football pits «Santa Fe» against «Vasco da Gama».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De acuerdo con El Tiempo, el duelo se juega en El Campín.",
+   "en": "According to «El Tiempo», the match is played at «El Campín».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los dos clubes ya se cruzaron en semifinales de Conmebol",
+   "en": "The two clubs already met in the Conmebol semi-finals",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en mil novecientos noventa y seis.",
+   "en": "in 1996.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Semana contó que tres refuerzos llegan a Santa Fe",
+   "en": "«Semana» reported that three new signings are arriving at «Santa Fe»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para esa serie de la Copa Sudamericana.",
+   "en": "for that tie in the «Copa Sudamericana».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo que trae el día en el ciclismo:",
+   "en": "What the day brings in cycling:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la Vuelta a España entra en su tercera y última semana.",
+   "en": "the «Vuelta a España» enters its third and final week.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Tiempo apuntó que hoy es una de las últimas opciones para los embaladores.",
+   "en": "«El Tiempo» pointed out that today is one of the last chances for the sprinters.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Colombiano precisó que cinco colombianos están en carrera,",
+   "en": "«El Colombiano» said five Colombians are in the race,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con la alta montaña por delante.",
+   "en": "with the high mountains ahead of them.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "A los cinco les quedan objetivos por cumplir en la recta final.",
+   "en": "The five still have goals to meet in the closing stretch.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esa es la jornada.",
+   "en": "That is the day in sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Tuesday 8 September",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "Football: Santa Fe open their Copa Sudamericana tie against Vasco da Gama at El Campin today, with three new signings arriving for the tie",
+ "summary_en": [
+  "Football: Santa Fe open their Copa Sudamericana tie against Vasco da Gama at El Campin today, with three new signings arriving for the tie",
+  "Cycling: the Vuelta a Espana starts its third and final week today with five Colombians in the race"
+ ]
+}

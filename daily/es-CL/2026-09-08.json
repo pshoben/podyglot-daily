@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-CL",
+ "date": "2026-09-08",
+ "episodes": [
+  {
+   "id": "es-CL-Las noticias de la mañana, martes 8 de septiembre",
+   "file": "podcast-daily-2026-09-08-morning-news-es-CL.json",
+   "bytes": 10595,
+   "sha256": "67164e52a7882b19d386ef13d21ea66d1405a0e111c56853fd5e19933ae636ed",
+   "date": "2026-09-08",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "Las noticias de la mañana, martes 8 de septiembre",
+   "title_en": "The morning news, Tuesday 8 September",
+   "headline_en": "Chile's opposition files an interpellation against foreign minister Francisco Perez Mackenna over the Strait of Magellan row with Argentina",
+   "summary_en": [
+    "Chile's opposition files an interpellation against foreign minister Francisco Perez Mackenna over the Strait of Magellan row with Argentina",
+    "Chile's government drops its plan to delay school decentralisation to 2040 and a Senate committee brings the date back to 2030",
+    "Chile's Senate votes on the universal creche bill on Tuesday, with the article that funds it in doubt"
+   ]
+  },
+  {
+   "id": "es-CL-El estado del tiempo, martes 8 de septiembre",
+   "file": "podcast-daily-2026-09-08-morning-weather-es-CL.json",
+   "bytes": 4711,
+   "sha256": "6fe3c8dace7d1157fb399eac6069f4e126bab0684e29f32ca0225312939a101d",
+   "date": "2026-09-08",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "El estado del tiempo, martes 8 de septiembre",
+   "title_en": "Today's weather, Tuesday 8 September",
+   "headline_en": "Drizzle in the sky over Valparaíso on Tuesday, with a high of 17 degrees and a low of 3",
+   "summary_en": [
+    "Drizzle in the sky over Valparaíso on Tuesday, with a high of 17 degrees and a low of 3",
+    "Cloud over Santiago on Tuesday, a 22 percent chance of rain and a high of 17 degrees"
+   ]
+  }
+ ],
+ "content": "698d3574a7a1f9b37309bba514668ec4a117e4742ed4fde45a6c56123cdf7f21",
+ "rev": 1,
+ "updated": "2026-09-09T06:14:52.728Z"
+}

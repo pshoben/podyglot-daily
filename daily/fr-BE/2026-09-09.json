@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-BE",
+ "date": "2026-09-09",
+ "episodes": [
+  {
+   "id": "fr-BE-Le sept heures, mercredi 9 septembre",
+   "file": "podcast-daily-2026-09-09-morning-news-fr-BE.json",
+   "bytes": 9497,
+   "sha256": "0e0ca59229503e5d7bc0d15f0c05f04a443e21788858b65fb828a69e54c07490",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, mercredi 9 septembre",
+   "title_en": "The morning news, Wednesday 9 September",
+   "headline_en": "The American military attacks an Iranian tanker near Kharg, and Iran strikes Jordan",
+   "summary_en": [
+    "The American military attacks an Iranian tanker near Kharg, and Iran strikes Jordan",
+    "The mobility budget becomes compulsory on 1st January for firms of fifty or more, and only 13.5 per cent offer one",
+    "Belgian politicians react to Alternative for Germany's win in Saxony-Anhalt, and Trump calls it a very good evening"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, mercredi 9 septembre",
+   "file": "podcast-daily-2026-09-09-morning-weather-fr-BE.json",
+   "bytes": 4334,
+   "sha256": "2ec0ed003ac658b0907e957cb5208b898aaf4c5f2c92783a1e7ffb97209c7e0f",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, mercredi 9 septembre",
+   "title_en": "Today's weather, Wednesday 9 September",
+   "headline_en": "Drizzle over Liège, a high of 18 degrees and an 80 per cent risk of rain",
+   "summary_en": [
+    "Drizzle over Liège, a high of 18 degrees and an 80 per cent risk of rain",
+    "Namur reaches 19 degrees under drizzle, with rain only 41 per cent likely"
+   ]
+  }
+ ],
+ "content": "ea241bc4a36075d483f1e979ff55733524ac6b1ebdf3e153d51eb2ca56a0e5e6",
+ "rev": 1,
+ "updated": "2026-09-09T06:14:52.728Z"
+}

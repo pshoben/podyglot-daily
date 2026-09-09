@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-FR",
+ "date": "2026-09-09",
+ "episodes": [
+  {
+   "id": "fr-FR-Le journal du matin, mercredi 9 septembre",
+   "file": "podcast-daily-2026-09-09-morning-news-fr-FR.json",
+   "bytes": 11945,
+   "sha256": "4d6b3eda24fe97622770641312e0c223233256a6e09c6bb5ccf737f28b51e509",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, mercredi 9 septembre",
+   "title_en": "The morning news, Wednesday 9 September",
+   "headline_en": "Russian strikes resume on Kyiv after a three-day truce, and Zelensky hopes talks restart in September",
+   "summary_en": [
+    "Russian strikes resume on Kyiv after a three-day truce, and Zelensky hopes talks restart in September",
+    "Francois Bayrou goes on trial again, on appeal, over the MoDem parliamentary assistants case",
+    "At least five people killed in a new wave of Russian attacks on Kyiv, Ouest-France reports"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, mercredi 9 septembre",
+   "file": "podcast-daily-2026-09-09-morning-sport-fr-FR.json",
+   "bytes": 4079,
+   "sha256": "d1eabdf6595040701c9830cbc4f42a6b9037126ab51482d90583cbeafb4951d1",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, mercredi 9 septembre",
+   "title_en": "Today's sport, Wednesday 9 September",
+   "headline_en": "Football: Paris Saint-Germain open their Champions League campaign at home to Slovan Bratislava",
+   "summary_en": [
+    "Football: Paris Saint-Germain open their Champions League campaign at home to Slovan Bratislava",
+    "Football: Yaya Toure coaches Slovan Bratislava, and Luis Enrique is untroubled by PSG's level"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, mercredi 9 septembre",
+   "file": "podcast-daily-2026-09-09-morning-weather-fr-FR.json",
+   "bytes": 4773,
+   "sha256": "e7c0ddf2b0e2304c346c3c7925db3f964180c1093631d642735b2f20fac74920",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, mercredi 9 septembre",
+   "title_en": "Today's weather, Wednesday 9 September",
+   "headline_en": "Paris: drizzle, a high of 21 degrees and a low of 14",
+   "summary_en": [
+    "Paris: drizzle, a high of 21 degrees and a low of 14",
+    "Marseille: drizzle, a high of 26 degrees and a low of 20"
+   ]
+  }
+ ],
+ "content": "cefd7991b23a37bb85f42a2368ffd3eb760facd888b5ae6949e756d144625ae1",
+ "rev": 1,
+ "updated": "2026-09-09T06:14:52.728Z"
+}

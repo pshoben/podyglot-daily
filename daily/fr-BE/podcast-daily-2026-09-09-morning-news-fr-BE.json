@@ -1,0 +1,360 @@
+{
+ "title": "Le sept heures, mercredi 9 septembre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-news",
+   "wpm": 222,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-09",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Mercredi neuf septembre. Le sept heures.",
+   "en": "Wednesday 9th September. The seven o'clock news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Missile américain contre un pétrolier iranien, et l'Iran frappe la Jordanie.",
+   "en": "An American missile against an Iranian tanker, and Iran strikes Jordan.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le budget mobilité deviendra obligatoire au premier janvier",
+   "en": "The mobility budget becomes compulsory on 1st January",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour les entreprises de cinquante personnes ou plus.",
+   "en": "for companies of fifty people or more.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On ouvre avec l'Iran, et cette attaque de missile menée par l'armée américaine.",
+   "en": "We open with Iran, and that missile attack carried out by the American military.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle a visé un pétrolier près de l'île de Kharg, rapporte la RTBF.",
+   "en": "It was aimed at a tanker near the island of «Kharg», «RTBF» reports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Libre écrit que Téhéran menace les États-Unis de nouvelles frappes au Moyen-Orient.",
+   "en": "«La Libre» writes that Tehran is threatening the United States with fresh strikes in the Middle East.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les bases américaines de la région seraient prises pour cible,",
+   "en": "American bases in the region would be targeted,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "si les pétroliers iraniens étaient touchés à nouveau.",
+   "en": "if Iranian tankers were hit again.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'après 7sur7, l'Iran a frappé la Jordanie.",
+   "en": "According to «7sur7», Iran has struck Jordan.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La menace porte aussi sur des pétroliers au Koweït et à Bahreïn.",
+   "en": "The threat covers tankers in Kuwait and Bahrain as well.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On enchaîne, le budget mobilité:",
+   "en": "Moving on, the mobility budget:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les entreprises concernées devront le proposer à leur personnel, précise 7sur7.",
+   "en": "the companies concerned will have to offer it to their staff, «7sur7» points out.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À quatre mois de l'échéance,",
+   "en": "With four months to go,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "seules treize virgule cinq pour cent d'entre elles le font déjà.",
+   "en": "only 13.5 per cent of them already do so.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le chiffre vient d'une analyse du prestataire en ressources humaines Acerta, publiée ce mercredi.",
+   "en": "The figure comes from an analysis by the HR provider «Acerta», published this Wednesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La RTBF rappelle que ce budget s'adresse aux travailleurs éligibles à une voiture de société.",
+   "en": "«RTBF» adds that the budget is for workers who are eligible for a company car.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre dossier maintenant, plusieurs responsables politiques belges ont réagi",
+   "en": "Another matter now, several Belgian politicians have reacted",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "après la victoire de l'extrême droite allemande en Saxe-Anhalt.",
+   "en": "after the German far right's win in Saxony-Anhalt.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Paul Magnette et Yvan Verougstraete se sont exprimés sur les réseaux sociaux, relève 7sur7.",
+   "en": "«Paul Magnette» and «Yvan Verougstraete» spoke out on social media, «7sur7» notes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le président du MR Georges-Louis Bouchez, lui, s'est montré plus discret.",
+   "en": "The «MR» leader, «Georges-Louis Bouchez», was more discreet.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Contacté par le site,",
+   "en": "Contacted by the site,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "il a estimé qu'il faut surtout s'interroger sur les raisons de cette poussée.",
+   "en": "he said above all one has to ask about the reasons for that surge.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Personne ne veut s'attaquer aux causes, dit-il.",
+   "en": "Nobody wants to tackle the causes, he says.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La DH note que Donald Trump a salué mardi cette victoire de l'Alternative pour l'Allemagne.",
+   "en": "«DH» notes that Donald Trump on Tuesday hailed that win by Alternative for Germany.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il y a vu une très bonne soirée pour ce qu'il a appelé",
+   "en": "He saw in it a very good evening for what he called",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le parti populiste.",
+   "en": "the populist party.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour terminer, l'enquête Pisa: selon le même journal,",
+   "en": "And finally, the PISA survey: as the same paper has it,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un climat scolaire très dégradé figure parmi les causes avancées par l'OCDE.",
+   "en": "a badly degraded school climate is among the causes the OECD puts forward.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Une première dans cette enquête:",
+   "en": "A first in this survey:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "elle s'est penchée sur l'usage de l'intelligence artificielle par les élèves.",
+   "en": "it looked at pupils' use of artificial intelligence.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Fédération Wallonie-Bruxelles, Le Vif décrit un contexte scolaire moins inégalitaire que par le passé.",
+   "en": "In French-speaking Belgium, «Le Vif» describes a school setting that is less unequal than in the past.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà où nous en sommes.",
+   "en": "And that is where things stand.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Wednesday 9 September",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "The American military attacks an Iranian tanker near Kharg, and Iran strikes Jordan",
+ "summary_en": [
+  "The American military attacks an Iranian tanker near Kharg, and Iran strikes Jordan",
+  "The mobility budget becomes compulsory on 1st January for firms of fifty or more, and only 13.5 per cent offer one",
+  "Belgian politicians react to Alternative for Germany's win in Saxony-Anhalt, and Trump calls it a very good evening"
+ ]
+}

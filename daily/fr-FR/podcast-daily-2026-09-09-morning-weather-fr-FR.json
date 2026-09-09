@@ -1,0 +1,199 @@
+{
+ "title": "La météo, mercredi 9 septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-09",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Ce mercredi, les modèles de Météo-France annoncent de la bruine au-dessus de Paris.",
+   "en": "This Wednesday, the «Météo-France» models forecast drizzle over «Paris».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le mercure y grimpe à vingt et un degrés dans la journée.",
+   "en": "The mercury there climbs to twenty-one degrees during the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il redescend à quatorze degrés au plus bas.",
+   "en": "It comes back down to fourteen degrees at its lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Quinze kilomètres par heure au maximum pour le vent dans la capitale.",
+   "en": "Fifteen kilometres an hour at most for the wind in the capital.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De la bruine est prévue à Marseille également.",
+   "en": "Drizzle is expected in «Marseille» too.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le maximum marseillais s'établit à vingt-six degrés,",
+   "en": "The high in «Marseille» settles at twenty-six degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le minimum à vingt degrés.",
+   "en": "and the low at twenty degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y atteint vingt-neuf kilomètres par heure.",
+   "en": "The wind there reaches twenty-nine kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le Sud-Ouest, le ciel de Bordeaux demeure couvert.",
+   "en": "In the south-west, the sky over «Bordeaux» stays overcast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le thermomètre bordelais se hisse à vingt-trois degrés,",
+   "en": "The thermometer in «Bordeaux» rises to twenty-three degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec seize degrés au plus bas.",
+   "en": "with sixteen degrees at its lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent bordelais est donné à dix-huit kilomètres par heure.",
+   "en": "The wind in «Bordeaux» is put at eighteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au plus haut de la journée, Marseille tient vingt-six degrés",
+   "en": "At the day's high, «Marseille» holds twenty-six degrees",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "quand Paris s'arrête à vingt et un.",
+   "en": "while «Paris» stops at twenty-one.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au plus bas, quatorze degrés dans la capitale,",
+   "en": "At the lowest, fourteen degrees in the capital,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "contre vingt degrés à Marseille.",
+   "en": "compared with twenty degrees in «Marseille».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo.",
+   "en": "And that is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Wednesday 9 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Paris: drizzle, a high of 21 degrees and a low of 14",
+ "summary_en": [
+  "Paris: drizzle, a high of 21 degrees and a low of 14",
+  "Marseille: drizzle, a high of 26 degrees and a low of 20"
+ ]
+}

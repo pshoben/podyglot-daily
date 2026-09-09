@@ -1,0 +1,209 @@
+{
+ "title": "El deporte, martes 8 de septiembre",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-sport",
+   "wpm": 195,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-08",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "En el fútbol,",
+   "en": "In football,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Boca y San Pablo juegan esta noche en la Bombonera por la Copa Sudamericana.",
+   "en": "«Boca» and «San Pablo» play tonight at «La Bombonera» in the «Copa Sudamericana».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según Clarín,",
+   "en": "According to «Clarín»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el partido es por los cuartos de final y empieza a las nueve y media.",
+   "en": "the match is in the quarter-finals and it starts at half past nine in the evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Nación contó que Jonathan Calleri jugará para San Pablo",
+   "en": "«La Nación» said that «Jonathan Calleri» will play for «San Pablo»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "frente a su ex club y su ex entrenador.",
+   "en": "against his former club and his former coach.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la Selección Argentina, la AFA demoró el anuncio de sus próximos amistosos.",
+   "en": "With the national team, the Argentine Football Association has held back the announcement of its next friendlies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Clarín informó que el detalle iba a conocerse el lunes.",
+   "en": "«Clarín» reported that the details were expected on Monday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El anuncio ahora se daría el miércoles.",
+   "en": "The announcement would now come on Wednesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El motivo es reglamentario, contó La Nación.",
+   "en": "The reason is a regulatory one, «La Nación» said.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La asociación busca el visto bueno de la FIFA",
+   "en": "The association is seeking FIFA's approval",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para confirmar si esos amistosos permitirán cumplir las sanciones.",
+   "en": "to confirm whether those friendlies will allow suspensions to be served.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Champions League arranca este martes con seis partidos, según Ámbito.",
+   "en": "The «Champions League» gets under way this Tuesday with six matches, according to «Ámbito».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Clarín señaló que Diego Simeone afrontará su decimocuarta edición consecutiva.",
+   "en": "«Clarín» noted that «Diego Simeone» will face his fourteenth edition in a row.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y que Martín Demichelis hará ahí su debut como entrenador.",
+   "en": "And that «Martín Demichelis» will make his debut there as a manager.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El mismo diario nombró a Real Madrid, Barcelona, Arsenal y Bayern",
+   "en": "The same paper named «Real Madrid», «Barcelona», «Arsenal» and «Bayern»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "entre los que van por el título.",
+   "en": "among those going for the title.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es el deporte.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Tuesday 8 September",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Football: Boca Juniors play Sao Paulo at La Bombonera tonight in the Copa Sudamericana quarter-finals",
+ "summary_en": [
+  "Football: Boca Juniors play Sao Paulo at La Bombonera tonight in the Copa Sudamericana quarter-finals",
+  "Football: Argentina's football association holds back the announcement of the national team's friendlies until Wednesday"
+ ]
+}

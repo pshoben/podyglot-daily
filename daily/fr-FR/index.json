@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-FR-Le journal du matin, mercredi 9 septembre",
+   "file": "podcast-daily-2026-09-09-morning-news-fr-FR.json",
+   "bytes": 11945,
+   "sha256": "4d6b3eda24fe97622770641312e0c223233256a6e09c6bb5ccf737f28b51e509",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, mercredi 9 septembre",
+   "title_en": "The morning news, Wednesday 9 September",
+   "headline_en": "Russian strikes resume on Kyiv after a three-day truce, and Zelensky hopes talks restart in September",
+   "summary_en": [
+    "Russian strikes resume on Kyiv after a three-day truce, and Zelensky hopes talks restart in September",
+    "Francois Bayrou goes on trial again, on appeal, over the MoDem parliamentary assistants case",
+    "At least five people killed in a new wave of Russian attacks on Kyiv, Ouest-France reports"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, mercredi 9 septembre",
+   "file": "podcast-daily-2026-09-09-morning-sport-fr-FR.json",
+   "bytes": 4079,
+   "sha256": "d1eabdf6595040701c9830cbc4f42a6b9037126ab51482d90583cbeafb4951d1",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, mercredi 9 septembre",
+   "title_en": "Today's sport, Wednesday 9 September",
+   "headline_en": "Football: Paris Saint-Germain open their Champions League campaign at home to Slovan Bratislava",
+   "summary_en": [
+    "Football: Paris Saint-Germain open their Champions League campaign at home to Slovan Bratislava",
+    "Football: Yaya Toure coaches Slovan Bratislava, and Luis Enrique is untroubled by PSG's level"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, mercredi 9 septembre",
+   "file": "podcast-daily-2026-09-09-morning-weather-fr-FR.json",
+   "bytes": 4773,
+   "sha256": "e7c0ddf2b0e2304c346c3c7925db3f964180c1093631d642735b2f20fac74920",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, mercredi 9 septembre",
+   "title_en": "Today's weather, Wednesday 9 September",
+   "headline_en": "Paris: drizzle, a high of 21 degrees and a low of 14",
+   "summary_en": [
+    "Paris: drizzle, a high of 21 degrees and a low of 14",
+    "Marseille: drizzle, a high of 26 degrees and a low of 20"
+   ]
+  },
+  {
    "id": "fr-FR-Le journal du matin, mardi 8 septembre",
    "file": "podcast-daily-2026-09-08-morning-news-fr-FR.json",
    "bytes": 9698,
@@ -715,67 +776,6 @@
    "summary_en": [
     "Alerts lifted this morning before a fresh deterioration this afternoon",
     "Twenty-three departments on orange alert for storms this afternoon"
-   ]
-  },
-  {
-   "id": "fr-FR-Le journal du matin, mercredi 26 août",
-   "file": "podcast-daily-2026-08-26-morning-news-fr-FR.json",
-   "bytes": 10504,
-   "sha256": "ebce3bff645dd425ceb48fed39ef5cd0516eeb72421c4983062e46ca4c13c4fe",
-   "date": "2026-08-26",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le journal du matin, mercredi 26 août",
-   "title_en": "The morning news, Wednesday 26 August",
-   "headline_en": "Dolly Parton, queen of American country music, dies at eighty",
-   "summary_en": [
-    "Dolly Parton, queen of American country music, dies at eighty",
-    "The Prime Minister goes to Mayotte to speed up reconstruction",
-    "Seven presidential candidates face business leaders at the Medef on Thursday"
-   ]
-  },
-  {
-   "id": "fr-FR-Le sport, mercredi 26 août",
-   "file": "podcast-daily-2026-08-26-morning-sport-fr-FR.json",
-   "bytes": 5759,
-   "sha256": "035a7acef60ee2fd16194d12673c20ca60c3b9facf30b9b3cbcf82e97992a4fd",
-   "date": "2026-08-26",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le sport, mercredi 26 août",
-   "title_en": "Today's sport, Wednesday 26 August",
-   "headline_en": "Lyon host Fenerbahce in the Champions League play-off second leg",
-   "summary_en": [
-    "Lyon host Fenerbahce in the Champions League play-off second leg",
-    "Tchouameni misses Real Madrid's Liga match against Real Sociedad"
-   ]
-  },
-  {
-   "id": "fr-FR-La météo, mercredi 26 août",
-   "file": "podcast-daily-2026-08-26-morning-weather-fr-FR.json",
-   "bytes": 5451,
-   "sha256": "161f3eddec4b400a59ea9a92275fd7cd7bfcdb3aaf3faa128989c04d16701f91",
-   "date": "2026-08-26",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "La météo, mercredi 26 août",
-   "title_en": "Today's weather, Wednesday 26 August",
-   "headline_en": "Twelve departments on orange alert for storms this evening",
-   "summary_en": [
-    "Twelve departments on orange alert for storms this evening",
-    "Prévision pour Paris, mercredi 2026-08-26"
    ]
   }
  ]

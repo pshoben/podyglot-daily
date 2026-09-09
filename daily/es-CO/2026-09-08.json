@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-CO",
+ "date": "2026-09-08",
+ "episodes": [
+  {
+   "id": "es-CO-La actualidad de la mañana, martes 8 de septiembre",
+   "file": "podcast-daily-2026-09-08-morning-news-es-CO.json",
+   "bytes": 14097,
+   "sha256": "e781f19d53355adc5ff22b3d3e4c004800867a8652a2cbf7269594633d56f9eb",
+   "date": "2026-09-08",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "La actualidad de la mañana, martes 8 de septiembre",
+   "title_en": "The morning news, Tuesday 8 September",
+   "headline_en": "Canada's retaliatory tariffs on United States goods take effect, and Trump threatens to stop Bombardier sales",
+   "summary_en": [
+    "Canada's retaliatory tariffs on United States goods take effect, and Trump threatens to stop Bombardier sales",
+    "Marco Rubio meets President De La Espriella in Barranquilla, the first visit to Colombia by a United States Secretary of State",
+    "Antioquia's government says FARC dissidents have threatened the mayors of three towns in the north of the department"
+   ]
+  },
+  {
+   "id": "es-CO-La jornada deportiva, martes 8 de septiembre",
+   "file": "podcast-daily-2026-09-08-morning-sport-es-CO.json",
+   "bytes": 4192,
+   "sha256": "7be4cf665248fbc72827980271d0b801fa8cdca4f9d56051b40ab52b431e3e24",
+   "date": "2026-09-08",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "La jornada deportiva, martes 8 de septiembre",
+   "title_en": "Today's sport, Tuesday 8 September",
+   "headline_en": "Football: Santa Fe open their Copa Sudamericana tie against Vasco da Gama at El Campin today, with three new signings arriving for the tie",
+   "summary_en": [
+    "Football: Santa Fe open their Copa Sudamericana tie against Vasco da Gama at El Campin today, with three new signings arriving for the tie",
+    "Cycling: the Vuelta a Espana starts its third and final week today with five Colombians in the race"
+   ]
+  },
+  {
+   "id": "es-CO-El clima de hoy, martes 8 de septiembre",
+   "file": "podcast-daily-2026-09-08-morning-weather-es-CO.json",
+   "bytes": 4928,
+   "sha256": "f570ac229e75b3e7adcfb7d8bef371c684e9fc72ff278222ad8940267d32331d",
+   "date": "2026-09-08",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "El clima de hoy, martes 8 de septiembre",
+   "title_en": "Today's weather, Tuesday 8 September",
+   "headline_en": "Medellín: drizzle but only an 18 per cent chance of rain, and a high of 29 degrees",
+   "summary_en": [
+    "Medellín: drizzle but only an 18 per cent chance of rain, and a high of 29 degrees",
+    "Cali reaches 31 degrees, with drizzle and a 21 per cent risk of rain"
+   ]
+  }
+ ],
+ "content": "7e7788625589acab58ac14f220f36f37393eddf0bed82e2b26f8a6ee53789491",
+ "rev": 1,
+ "updated": "2026-09-09T06:14:52.728Z"
+}

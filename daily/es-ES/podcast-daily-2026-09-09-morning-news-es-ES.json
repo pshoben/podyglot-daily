@@ -1,0 +1,450 @@
+{
+ "title": "El informativo de la mañana, miércoles 9 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-news",
+   "wpm": 208,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-09",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Miércoles nueve de septiembre. El informativo de la mañana.",
+   "en": "Wednesday the 9th of September. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Estados Unidos e Irán intensifican su escalada militar.",
+   "en": "The military escalation between the United States and Iran is intensifying.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y España registra su peor resultado en el informe PISA, según ABC.",
+   "en": "And Spain records its worst result in the «PISA» report, «ABC» says.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Abrimos con Estados Unidos e Irán.",
+   "en": "We open with the United States and Iran.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Washington ha asegurado que destruyó cinco petroleros iraníes,",
+   "en": "Washington has said it destroyed five Iranian tankers,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en respuesta al ataque contra un buque de guerra.",
+   "en": "in response to the attack on a warship.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El País cuenta que las dos fuerzas enemigas intercambiaron ayer nuevos ataques.",
+   "en": "«El País» reports that the two enemy forces traded fresh attacks yesterday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Guardia Revolucionaria había abierto fuego contra barcos de guerra estadounidenses.",
+   "en": "The Revolutionary Guard had opened fire on American warships.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Vanguardia sitúa esa escalada tras una semana de bombardeos,",
+   "en": "«La Vanguardia» says the escalation comes after a week of bombing,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que se reanudaron después de un mes de relativa calma.",
+   "en": "which started again after a month of relative calm.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y El Mundo apunta que Teherán habría dañado la base de Al Azraq,",
+   "en": "And «El Mundo» reports that Tehran is said to have damaged the «Al Azraq» base,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en Jordania, y dos destructores estadounidenses.",
+   "en": "in Jordan, and two American destroyers.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en España, la OCDE publicó ayer los resultados del informe PISA.",
+   "en": "Here in Spain, the OECD published the results of the «PISA» report yesterday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ABC habla de una caída nunca antes vista, en todas las materias.",
+   "en": "«ABC» talks of a fall never seen before, in every subject.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "eldiario punto es sitúa al país en mínimos históricos, o cerca de ellos,",
+   "en": "«eldiario» puts the country at its lowest marks on record, or close to them,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en ciencias, matemáticas y lectura.",
+   "en": "in science, maths and reading.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Vanguardia describe un retroceso preocupante",
+   "en": "«La Vanguardia» describes a worrying slide",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la comprensión lectora de los jóvenes de todo el mundo,",
+   "en": "in young people's reading all over the world,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "salvo en los países asiáticos.",
+   "en": "apart from the Asian countries.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El País añade que los estudiantes de clase alta",
+   "en": "«El País» adds that well-off students",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "lideran la pérdida de rendimiento en el conjunto del mundo desarrollado.",
+   "en": "are losing the most ground across the developed world. And «El Mundo»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y El Mundo cifra en veinte puntos la brecha entre los alumnos nativos y los extranjeros.",
+   "en": "puts the gap between Spanish-born and foreign pupils at twenty points.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el resto de la actualidad,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el Tribunal Supremo ha paralizado de forma cautelar",
+   "en": "the Supreme Court has provisionally halted",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la inscripción en el censo electoral de los nacionalizados por la ley de nietos.",
+   "en": "the entry on the electoral roll of people who took Spanish nationality under the grandchildren law.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La medida les privará del voto,",
+   "en": "The measure will take away their vote,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "salvo que acrediten que son descendientes de exiliados.",
+   "en": "unless they can show they are descended from exiles.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según eldiario punto es, trescientas seis mil personas han culminado ya el proceso",
+   "en": "According to «eldiario», 306,000 people have already been through the process",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para acceder a la nacionalidad por esa norma.",
+   "en": "to take Spanish nationality under that law.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La sala de lo contencioso administrativo admitió la suspensión que pedían Iustitia Europa y Vox,",
+   "en": "The court's administrative chamber granted the suspension asked for by «Iustitia Europa» and «Vox»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "cuenta La Vanguardia.",
+   "en": "«La Vanguardia» reports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Mundo apunta que el alto tribunal prevé agilizar la sentencia y resolver el caso",
+   "en": "«El Mundo» says the court plans to speed up its ruling and settle the case",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "antes de final de año.",
+   "en": "before the end of the year.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El País recoge que fuentes del Ejecutivo creen que los jueces",
+   "en": "«El País» reports that government sources believe the judges",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "alientan el bulo de una supuesta ingeniería electoral.",
+   "en": "are feeding the false story about electoral engineering.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de tema, la vuelta al colegio en Ceuta arrancó sin incidentes,",
+   "en": "Moving on, the return to school in «Ceuta» started without incident,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "según la junta de personal docente de UGT.",
+   "en": "according to the «UGT» teaching staff board.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El ministro Ángel Víctor Torres cifró la asistencia cerca del setenta por ciento,",
+   "en": "The minister «Ángel Víctor Torres» put attendance at close to seventy per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la junta de UGT la estimó en torno al cincuenta.",
+   "en": "and the «UGT» board put it at around fifty.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Vanguardia cuenta que en algunos colegios de la periferia",
+   "en": "«La Vanguardia» reports that in some outlying schools",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "no hubo presencia policial ni a la entrada ni a la salida.",
+   "en": "there were no police either as pupils arrived or as they left.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí lo esencial.",
+   "en": "That's the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Wednesday 9 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Washington says it destroyed five Iranian tankers as the two sides trade fresh attacks",
+ "summary_en": [
+  "Washington says it destroyed five Iranian tankers as the two sides trade fresh attacks",
+  "Spain records its worst PISA marks since the study began, in every subject",
+  "In PISA the best-off pupils fall furthest, and a twenty point gap opens between native and foreign students"
+ ]
+}

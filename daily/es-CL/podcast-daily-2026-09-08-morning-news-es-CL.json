@@ -1,0 +1,380 @@
+{
+ "title": "Las noticias de la mañana, martes 8 de septiembre",
+ "dialect": "es-CL",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CL-daily-news",
+   "wpm": 205,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-08",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Martes ocho de septiembre. Las noticias de la mañana.",
+   "en": "Tuesday 8th September. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La oposición ingresó una interpelación contra el canciller Francisco Pérez Mackenna.",
+   "en": "The opposition has filed an interpellation against foreign minister «Francisco Pérez Mackenna».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el Gobierno dio pie atrás en la postergación de la desmunicipalización escolar.",
+   "en": "And the government has backed down over delaying school decentralisation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según La Tercera, esa interpelación es la primera al gabinete del Presidente Kast.",
+   "en": "According to «La Tercera», that is the first interpellation of President «Kast»'s cabinet.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La creciente tensión con Argentina por el Estrecho de Magallanes",
+   "en": "The growing tension with Argentina over the Strait of Magellan",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "levantó cuestionamientos en la derecha y la izquierda.",
+   "en": "has raised objections on the right and the left.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La presidenta del Partido Socialista, Paulina Vodanovic,",
+   "en": "The president of the Socialist Party, «Paulina Vodanovic»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "acusó tozudez en el actuar del ministro.",
+   "en": "accused the minister of stubbornness.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El diario añadió que la sesión con los parlamentarios sería el veintinueve de septiembre.",
+   "en": "The paper added that the session with parliamentarians would be on 29th September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Quedaría después del viaje del canciller y del Presidente a la ONU.",
+   "en": "It would fall after the foreign minister and the president travel to the United Nations.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Radio Universidad de Chile informó que las firmas ya estaban comprometidas.",
+   "en": "«Radio Universidad de Chile» reported that the signatures were already secured.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo aseguró el diputado socialista Nelson Venegas.",
+   "en": "Socialist deputy «Nelson Venegas» said so.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El oficialismo respaldó la gestión del canciller y tildó de absurda la interpelación.",
+   "en": "The governing parties backed the minister's handling and called the interpellation absurd.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasamos a otra cosa, el Ejecutivo ingresó indicaciones a su proyecto sobre la desmunicipalización escolar.",
+   "en": "Moving on, the executive filed amendments to its own bill on school decentralisation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Tercera precisó que la Comisión de Educación del Senado ya aprobó el cambio.",
+   "en": "«La Tercera» said the Senate education committee has already approved the change.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El plazo pasa de dos mil cuarenta a dos mil treinta.",
+   "en": "The deadline moves from 2040 to 2030.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La indicación reunió cuatro votos a favor y ninguno en contra.",
+   "en": "The amendment drew four votes in favour and none against.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En lo demás, el Senado vota este martes el proyecto de Sala Cuna Universal.",
+   "en": "In other news, the Senate votes this Tuesday on the universal creche bill.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Radio Universidad de Chile detalló que el movimiento Sala Cuna Hoy exigió su pronta aprobación.",
+   "en": "«Radio Universidad de Chile» set out the «Sala Cuna Hoy» movement's demand for prompt approval of the bill.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Tercera consignó que la aprobación del financiamiento quedó en veremos.",
+   "en": "«La Tercera» noted that approval of the funding is up in the air.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La iniciativa ya está aprobada en general y no corre riesgo de archivarse.",
+   "en": "The bill is already approved in principle and is in no danger of being shelved.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otro punto: la exministra del Deporte, Natalia Duco,",
+   "en": "Another item: the former sports minister, «Natalia Duco»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "volvió al Gobierno como asesora.",
+   "en": "is back in government as an adviser.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Tercera situó su llegada en el equipo del Segundo Piso de La Moneda.",
+   "en": "«La Tercera» reported her arrival on the «Segundo Piso» team at «La Moneda».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El regreso generó críticas en la izquierda y entre los libertarios.",
+   "en": "The return drew criticism on the left and among libertarians.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Entre su salida del gabinete y este regreso pasaron veinticuatro días.",
+   "en": "24 days passed between her exit from the cabinet and this return.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Radio Universidad de Chile recordó la controversia por el uso de un vehículo fiscal.",
+   "en": "«Radio Universidad de Chile» recalled the row over the use of a state vehicle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y una cosa más, el oficialismo urgió nuevas medidas por el empleo.",
+   "en": "And one more thing, the governing parties urged new measures on jobs.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De acuerdo con La Tercera, el planteamiento salió de la UDI, Renovación Nacional y Evópoli.",
+   "en": "According to «La Tercera», the proposal came from the «UDI», «Renovación Nacional» and «Evópoli».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo llevaron este lunes a su reunión con La Moneda.",
+   "en": "They took it on Monday to their meeting with «La Moneda».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ahí reflotaron la idea de un nuevo subsidio al empleo.",
+   "en": "There they revived the idea of a new employment subsidy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ex-Ante registró otra petición al ministro del Trabajo, Tomás Rau.",
+   "en": "«Ex-Ante» carried another request to the labour minister, «Tomás Rau».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Jorge Alessandri, presidente de la Cámara,",
+   "en": "«Jorge Alessandri», president of the Chamber,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le pidió un rol más activo frente al desempleo.",
+   "en": "asked him for a more active role on unemployment.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo principal.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 8 September",
+ "edition": "morning",
+ "region": "es-CL",
+ "region_label": "Chile",
+ "headline_en": "Chile's opposition files an interpellation against foreign minister Francisco Perez Mackenna over the Strait of Magellan row with Argentina",
+ "summary_en": [
+  "Chile's opposition files an interpellation against foreign minister Francisco Perez Mackenna over the Strait of Magellan row with Argentina",
+  "Chile's government drops its plan to delay school decentralisation to 2040 and a Senate committee brings the date back to 2030",
+  "Chile's Senate votes on the universal creche bill on Tuesday, with the article that funds it in doubt"
+ ]
+}

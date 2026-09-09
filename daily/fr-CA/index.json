@@ -5,6 +5,47 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-CA-Le bulletin du matin, mardi 8 septembre",
+   "file": "podcast-daily-2026-09-08-morning-news-fr-CA.json",
+   "bytes": 7927,
+   "sha256": "fcdae0aee1568c851eb985cbc17f11a87d284500e89268b4e4f829f5516e4e13",
+   "date": "2026-09-08",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin du matin, mardi 8 septembre",
+   "title_en": "The morning news, Tuesday 8 September",
+   "headline_en": "Nepal flood: Chitwan district in the south is the main arrival point for hundreds of bodies",
+   "summary_en": [
+    "Nepal flood: Chitwan district in the south is the main arrival point for hundreds of bodies",
+    "Canada's counter-tariffs on American goods took effect just after midnight, at 15, 25 or 50 per cent by product",
+    "Nepal's emergency authority puts the missing at more than 5,000 on its latest provisional count"
+   ]
+  },
+  {
+   "id": "fr-CA-Le bulletin météo, mardi 8 septembre",
+   "file": "podcast-daily-2026-09-08-morning-weather-fr-CA.json",
+   "bytes": 4686,
+   "sha256": "71641bfa29fca332d36914828fe9c74be96bfa455f067727c24c542c71dedf3c",
+   "date": "2026-09-08",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin météo, mardi 8 septembre",
+   "title_en": "Today's weather, Tuesday 8 September",
+   "headline_en": "Rain in Montreal on Tuesday, a high of 22 and a 63 per cent chance of rain",
+   "summary_en": [
+    "Rain in Montreal on Tuesday, a high of 22 and a 63 per cent chance of rain",
+    "Quebec City stays overcast, 19 degrees at best and 14 at worst"
+   ]
+  },
+  {
    "id": "fr-CA-Le bulletin météo, lundi 7 septembre",
    "file": "podcast-daily-2026-09-07-morning-weather-fr-CA.json",
    "bytes": 5121,
@@ -369,47 +410,6 @@
    "summary_en": [
     "Prévision pour Montréal, jeudi 2026-08-27",
     "Prévision pour Québec, jeudi 2026-08-27"
-   ]
-  },
-  {
-   "id": "fr-CA-Le bulletin du matin, mercredi 26 août",
-   "file": "podcast-daily-2026-08-26-morning-news-fr-CA.json",
-   "bytes": 8665,
-   "sha256": "7a2f85a46f807268817e685f9ecd825340d940031b04abd2ead0717bb933845e",
-   "date": "2026-08-26",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-CA",
-   "region_label": "Québec",
-   "title": "Le bulletin du matin, mercredi 26 août",
-   "title_en": "The morning news, Wednesday 26 August",
-   "headline_en": "Oman and Tehran negotiate over the Strait of Hormuz, with no reopening in sight",
-   "summary_en": [
-    "Oman and Tehran negotiate over the Strait of Hormuz, with no reopening in sight",
-    "Tehran says American economic pressure will achieve nothing",
-    "Dolly Parton has died at 80"
-   ]
-  },
-  {
-   "id": "fr-CA-Le bulletin météo, mercredi 26 août",
-   "file": "podcast-daily-2026-08-26-morning-weather-fr-CA.json",
-   "bytes": 4757,
-   "sha256": "f154e21f2c978fc51e5a7b7ef3aae6ba564ac2029c096f7d5af3b5dfc224e40d",
-   "date": "2026-08-26",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-CA",
-   "region_label": "Québec",
-   "title": "Le bulletin météo, mercredi 26 août",
-   "title_en": "Today's weather, Wednesday 26 August",
-   "headline_en": "Prévision pour Montréal, mercredi 2026-08-26",
-   "summary_en": [
-    "Prévision pour Montréal, mercredi 2026-08-26",
-    "Prévision pour Québec, mercredi 2026-08-26"
    ]
   }
  ]

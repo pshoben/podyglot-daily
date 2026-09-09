@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-MX",
+ "date": "2026-09-08",
+ "episodes": [
+  {
+   "id": "es-MX-El noticiario matutino, martes 8 de septiembre",
+   "file": "podcast-daily-2026-09-08-morning-news-es-MX.json",
+   "bytes": 8908,
+   "sha256": "e3105c201e6b5cdd3488422528e80caebd867cc58c52fa3f596d1c774215ff31",
+   "date": "2026-09-08",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El noticiario matutino, martes 8 de septiembre",
+   "title_en": "The morning news, Tuesday 8 September",
+   "headline_en": "Canada's retaliatory tariffs on 20 billion dollars of US goods come into force",
+   "summary_en": [
+    "Canada's retaliatory tariffs on 20 billion dollars of US goods come into force",
+    "Mexican 15-year-olds slip back in maths and reading in the 2025 PISA test",
+    "Six people die inside a minibus stranded during a storm in Tultitlan"
+   ]
+  },
+  {
+   "id": "es-MX-El clima, martes 8 de septiembre",
+   "file": "podcast-daily-2026-09-08-morning-weather-es-MX.json",
+   "bytes": 4820,
+   "sha256": "00ff5d475f2a7219289d2afac706c182d0c09e3f26e9ae43b6dacad2123501bb",
+   "date": "2026-09-08",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El clima, martes 8 de septiembre",
+   "title_en": "Today's weather, Tuesday 8 September",
+   "headline_en": "Drizzle over Mexico City, rain 92 per cent likely, 14 to 22 degrees",
+   "summary_en": [
+    "Drizzle over Mexico City, rain 92 per cent likely, 14 to 22 degrees",
+    "Guadalajara sits under showers, 17 to 25 degrees, with rain 98 per cent likely"
+   ]
+  }
+ ],
+ "content": "bbfb30635645c41b73d3ca1a5a24aed2b0a88b871f29d975d5d7a41b964ff7f9",
+ "rev": 1,
+ "updated": "2026-09-09T06:14:52.728Z"
+}
