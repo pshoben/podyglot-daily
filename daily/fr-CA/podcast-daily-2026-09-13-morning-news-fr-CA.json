@@ -1,0 +1,460 @@
+{
+ "title": "Le bulletin du matin, dimanche 13 septembre",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-news",
+   "wpm": 185,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-13",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Dimanche treize septembre, sept heures. Le bulletin du matin.",
+   "en": "Sunday the thirteenth of September, seven o'clock. The morning bulletin.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Donald Trump plaide pour une Irlande unifiée,",
+   "en": "«Donald Trump» makes the case for a united Ireland,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "au cours d'une visite qu'on disait consacrée au golf.",
+   "en": "on a visit that was said to be about golf.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et le Parti libéral du Québec dévoile un cadre financier qu'il dit prudent.",
+   "en": "And the Quebec Liberal Party puts out a financial framework it calls prudent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On débute avec l'Irlande, où le président américain était de passage ce week-end.",
+   "en": "We start with Ireland, where the American president was visiting at the weekend.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon Radio-Canada, il y a mêlé la diplomatie,",
+   "en": "According to «Radio-Canada», he mixed diplomacy,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les affaires et le golf.",
+   "en": "business and golf while he was there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a aussi promis de lever les droits de douane sur le whisky irlandais.",
+   "en": "He also promised to lift the tariffs on Irish whiskey.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Soleil écrit que la visite s'annonçait pourtant davantage consacrée au golf qu'à la diplomatie.",
+   "en": "«Le Soleil» writes that the trip had been billed as more about golf than about diplomacy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "TVA Nouvelles note que son appel à une Irlande unifiée en a surpris plusieurs.",
+   "en": "«TVA Nouvelles» notes that his call for a united Ireland took a good many people by surprise.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans l'actualité d'ici, le Parti libéral du Québec a dévoilé son cadre financier.",
+   "en": "In the news here, the Quebec Liberal Party has put out its financial framework.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'après Le Devoir,",
+   "en": "According to «Le Devoir»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le parti de Charles Milliard annulerait les mesures sur les droits de mutation.",
+   "en": "the party led by «Charles Milliard» would scrap the measures on property transfer duties.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mesure sur la taxe de vente du Québec à l'épicerie tomberait elle aussi.",
+   "en": "The measure on Quebec sales tax on groceries would go as well.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Soleil rapporte que le chef libéral a présenté un cadre prudent et conservateur.",
+   "en": "«Le Soleil» reports that the Liberal leader has put out a prudent and conservative framework.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il s'est défendu de verser dans l'austérité.",
+   "en": "He denied that it amounted to austerity.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Radio-Canada ajoute que le cadre garde le cap sur le retour à l'équilibre budgétaire.",
+   "en": "«Radio-Canada» adds that the framework holds to a return to a balanced budget.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'échéance visée est l'exercice deux mille vingt-neuf, deux mille trente.",
+   "en": "The target year is 2029 to 2030.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On poursuit avec la campagne électorale,",
+   "en": "We go on to the election campaign,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qui en est à sa dix-huitième journée.",
+   "en": "which is on its eighteenth day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon TVA Nouvelles,",
+   "en": "According to «TVA Nouvelles»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les cadres financiers et la violence faite aux femmes en sont le coeur.",
+   "en": "the financial frameworks and violence against women are at the heart of it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Parti québécois et Québec solidaire ont dévoilé des mesures contre la violence conjugale.",
+   "en": "The «Parti québécois» and «Québec solidaire» both put out measures against domestic violence.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le cadre financier péquiste sera présenté en l'absence de son chef.",
+   "en": "The «Parti québécois» framework will be presented without its leader.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Paul St-Pierre Plamondon se concentrera sur sa préparation au premier débat télévisé, mardi.",
+   "en": "«Paul St-Pierre Plamondon» will be getting ready for the first televised debate, on Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre nouvelle maintenant, la revente des billets de spectacles est désormais encadrée au Québec.",
+   "en": "In other news, the resale of tickets for shows is now regulated in Quebec.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'après Radio-Canada, les nouvelles règles qui resserrent la revente sont entrées en vigueur.",
+   "en": "According to «Radio-Canada», the new rules tightening resale have come into force.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Journal de Montréal écrit que la loi avait été adoptée à l'Assemblée",
+   "en": "«Le Journal de Montréal» writes that the law had been passed at the National",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "nationale en juin.",
+   "en": "Assembly in June.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le premier ministre Mark Carney se rendra à Saint-Pierre-et-Miquelon avec Emmanuel Macron.",
+   "en": "The prime minister «Mark Carney» will travel to «Saint-Pierre-et-Miquelon» with «Emmanuel Macron».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "TVA Nouvelles écrit que les deux hommes y réaffirmeront la souveraineté des nations,",
+   "en": "«TVA Nouvelles» writes that the two men will reaffirm the sovereignty of nations there,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le vingt septembre.",
+   "en": "on the 20th of September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Radio-Canada ajoute qu'il doit aussi prendre la parole devant le Parlement européen à Strasbourg.",
+   "en": "«Radio-Canada» adds that he is also due to speak to the European Parliament in «Strasbourg».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon La Presse, l'ancien premier ministre Stephen Harper prononcera le discours de clôture d'un sommet.",
+   "en": "According to «La Presse», the former prime minister «Stephen Harper» will give the closing address at a summit.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il s'agit du Sommet canadien de l'investissement,",
+   "en": "It is the Canadian investment summit,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qui se met en branle lundi à Toronto.",
+   "en": "which gets under way on Monday in «Toronto».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Radio-Canada situe l'événement les quatorze et quinze septembre.",
+   "en": "«Radio-Canada» puts the event on the 14th and 15th of September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Soleil écrit que Mark Carney y accueillera de grands investisseurs internationaux.",
+   "en": "«Le Soleil» writes that «Mark Carney» will be welcoming big international investors there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En terminant, Céline Dion est remontée sur scène à Paris.",
+   "en": "And finally, «Céline Dion» is back on a Paris stage.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'après Radio-Canada, c'était sa grande première après six ans d'absence.",
+   "en": "According to «Radio-Canada», it was her big opening night after six years away.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Devoir écrit qu'elle a livré une performance d'abord laborieuse.",
+   "en": "«Le Devoir» writes that her performance was heavy going at first.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle a ensuite conquis son public.",
+   "en": "Then she won her audience over.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est le portrait du jour.",
+   "en": "That is the picture of the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Sunday 13 September",
+ "edition": "morning",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "Trump argues for a unified Ireland on a visit that was to have been about golf",
+ "summary_en": [
+  "Trump argues for a unified Ireland on a visit that was to have been about golf",
+  "The Quebec Liberals put out a financial framework their leader calls prudent, not austere",
+  "Day eighteen of the Quebec campaign turns on financial frameworks and violence against women"
+ ]
+}

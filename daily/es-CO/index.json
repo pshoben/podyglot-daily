@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-CO-La actualidad de la mañana, domingo 13 de septiembre",
+   "file": "podcast-daily-2026-09-13-morning-news-es-CO.json",
+   "bytes": 17414,
+   "sha256": "fc3e4907739186716ee66dd24f7828b57c830e9db5a43905e730c607bf721ab1",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "La actualidad de la mañana, domingo 13 de septiembre",
+   "title_en": "The morning news, Sunday 13 September",
+   "headline_en": "Anthropic's chief asks AI companies to slow down, and the heads of OpenAI and xAI say they agree",
+   "summary_en": [
+    "Anthropic's chief asks AI companies to slow down, and the heads of OpenAI and xAI say they agree",
+    "Search and rescue is under way for a light aircraft missing on the Condoto to Guaymaral route with five people on board",
+    "Trump hits back at the calls to slow artificial intelligence down"
+   ]
+  },
+  {
+   "id": "es-CO-La jornada deportiva, domingo 13 de septiembre",
+   "file": "podcast-daily-2026-09-13-morning-sport-es-CO.json",
+   "bytes": 6786,
+   "sha256": "60728d91a74f8c0c07b2ccd351a1d63dbd2d6cff8a4f9683f7b4f231bf0d29ed",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "La jornada deportiva, domingo 13 de septiembre",
+   "title_en": "Today's sport, Sunday 13 September",
+   "headline_en": "James Rodriguez is presented as an Atletico Nacional player at the Atanasio Girardot",
+   "summary_en": [
+    "James Rodriguez is presented as an Atletico Nacional player at the Atanasio Girardot",
+    "James Rodriguez says the Junior talks are in the past, and returns to Colombian football after 18 years"
+   ]
+  },
+  {
+   "id": "es-CO-El clima de hoy, domingo 13 de septiembre",
+   "file": "podcast-daily-2026-09-13-morning-weather-es-CO.json",
+   "bytes": 5280,
+   "sha256": "c0d83f0caab502e823c4774bb87aaf2bba6919503a783ea2ff5a57344060088c",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "El clima de hoy, domingo 13 de septiembre",
+   "title_en": "Today's weather, Sunday 13 September",
+   "headline_en": "Ideam expects rain to intensify in the Andean, Caribbean and Pacific regions through the day",
+   "summary_en": [
+    "Ideam expects rain to intensify in the Andean, Caribbean and Pacific regions through the day",
+    "Bogotá runs between 11 and 19 degrees, with drizzle and a 100 per cent chance of rain"
+   ]
+  },
+  {
    "id": "es-CO-La actualidad de la mañana, miércoles 9 de septiembre",
    "file": "podcast-daily-2026-09-09-morning-news-es-CO.json",
    "bytes": 14147,

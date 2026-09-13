@@ -1,0 +1,219 @@
+{
+ "title": "El clima de hoy, domingo 13 de septiembre",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-weather",
+   "wpm": 195,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-13",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Pendientes en buena parte del país: según el Ideam,",
+   "en": "Things to watch in much of the country: according to the «Ideam»,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "las lluvias se intensificarán en las próximas horas.",
+   "en": "the rain will get heavier over the next few hours.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El instituto espera aguaceros de variada intensidad en las regiones Andina, Caribe y Pacífica.",
+   "en": "The institute expects downpours of varying strength in the Andean, Caribbean and Pacific regions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para la noche prevé variaciones.",
+   "en": "It says the picture will change overnight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ciudad por ciudad, y según el modelo del Centro Europeo, el ECMWF,",
+   "en": "City by city now, and according to the European Centre model, the ECMWF,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "este es el detalle de hoy.",
+   "en": "this is how the day looks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Bogotá tiene llovizna,",
+   "en": "«Bogotá» has drizzle,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con una probabilidad de lluvia del cien por ciento y viento de nueve kilómetros por hora.",
+   "en": "with a 100 per cent chance of rain and wind of 9 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La capital se mueve entre once y diecinueve grados,",
+   "en": "The capital moves between 11 and 19 degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la franja más fría de las tres.",
+   "en": "the coldest band of the three.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Medellín comparte esa llovizna y ese cien por ciento de probabilidad.",
+   "en": "«Medellín» shares that drizzle and that 100 per cent chance.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí las temperaturas van de dieciocho a veintisiete grados,",
+   "en": "Temperatures there run from 18 to 27 degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con viento de hasta ocho kilómetros por hora.",
+   "en": "with wind of up to 8 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cali rompe el patrón: en lugar de llovizna, chubascos.",
+   "en": "«Cali» breaks the pattern: showers instead of drizzle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de lluvia baja al noventa y dos por ciento,",
+   "en": "The chance of rain drops to 92 per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la máxima sube a treinta grados.",
+   "en": "and the high climbs to 30 degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima es de veintiún grados, y el viento máximo,",
+   "en": "The low is 21 degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de diez kilómetros por hora.",
+   "en": "and the top wind speed is 10 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese es el clima.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Sunday 13 September",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "Ideam expects rain to intensify in the Andean, Caribbean and Pacific regions through the day",
+ "summary_en": [
+  "Ideam expects rain to intensify in the Andean, Caribbean and Pacific regions through the day",
+  "Bogotá runs between 11 and 19 degrees, with drizzle and a 100 per cent chance of rain"
+ ]
+}

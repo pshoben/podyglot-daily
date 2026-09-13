@@ -1,0 +1,460 @@
+{
+ "title": "Las noticias de la mañana, domingo 13 de septiembre",
+ "dialect": "es-CL",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CL-daily-news",
+   "wpm": 205,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-13",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Domingo trece de septiembre. Las noticias de la mañana.",
+   "en": "Sunday 13th September. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Donald Trump dijo que le gustaría ver una Irlanda unificada,",
+   "en": "«Donald Trump» said he would like to see a unified Ireland,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el primer ministro irlandés le bajó el perfil a esos dichos.",
+   "en": "and the Irish prime minister played the remarks down.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el Presidente José Antonio Kast asistió a su primer Te Deum evangélico,",
+   "en": "And President «José Antonio Kast» attended his first evangelical «Te Deum»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con un llamado a la unidad del país.",
+   "en": "with a call for the country to unite.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según Radio Universidad de Chile,",
+   "en": "According to «Radio Universidad de Chile»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el mandatario estadounidense aseguró que le fascinaría ver la isla unificada y respaldó a Dublín.",
+   "en": "the United States president said he would be fascinated to see the island unified, and he backed Dublin.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Admitió, eso sí, que Londres tendrá un papel clave en ese debate regional.",
+   "en": "He did admit that London will have a key role in that regional debate.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Tercera reportó que las declaraciones no fueron una sorpresa para el primer ministro irlandés.",
+   "en": "«La Tercera» reported that the remarks came as no surprise to the Irish prime minister.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sostuvo que, si se mantienen la calma y la perspectiva, se podrá seguir avanzando.",
+   "en": "He said that if calm and perspective are kept, progress can go on.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Acá en Chile,",
+   "en": "Here in Chile,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el Jefe de Estado participó en el tradicional Servicio de Acción de Gracias.",
+   "en": "the head of state took part in the traditional Service of Thanksgiving.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Tercera precisó que la ceremonia retornó a su sede histórica,",
+   "en": "«La Tercera» noted that the ceremony returned to its historic home,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la Catedral Evangélica de Chile.",
+   "en": "the «Catedral Evangélica de Chile».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Durante seis años se había realizado en distintos templos de la Región Metropolitana.",
+   "en": "For six years it had been held in different temples of the «Región Metropolitana».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "A la salida del servicio,",
+   "en": "On his way out of the service,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el Mandatario recalcó que ha buscado la unidad nacional desde que asumió la Presidencia.",
+   "en": "the President said he has sought national unity since he took office.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Radio Universidad de Chile informó que el mundo religioso",
+   "en": "«Radio Universidad de Chile» reported that the religious world",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "alertó sobre una profunda crisis de confianza que frena a la nación.",
+   "en": "warned of a deep crisis of confidence holding the nation back.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En lo demás, La Tercera reportó que el hogar de adultos mayores El Edén,",
+   "en": "In other news, «La Tercera» reported that the «El Edén» care home for older people,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en Pitrufquén, arrastraba fiscalizaciones y denuncias previas cuando se incendió.",
+   "en": "in «Pitrufquén», had a history of inspections and complaints behind it when it burned.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Gobierno confirmó que la residencia funcionaba sin permisos estatales, y anunció acciones legales.",
+   "en": "The government confirmed that the home was running without state permits, and it announced legal action.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las autoridades coordinaron la reubicación de los sobrevivientes,",
+   "en": "The authorities arranged for the survivors to be rehoused,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la Fiscalía indaga las eventuales responsabilidades.",
+   "en": "and prosecutors are looking into where responsibility lies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otro punto, la ministra de la Mujer y la Equidad de Género",
+   "en": "Another point, the minister for women and gender equality",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "criticó la prescripción en un caso de homicidio.",
+   "en": "criticised the time bar in a homicide case.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La autoridad lamentó que el autor confeso del crimen quedara en libertad.",
+   "en": "She regretted that the self-confessed killer had walked free.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También señaló que ya tomó contacto con el ministro de Justicia para abordar este",
+   "en": "She also said she has already been in touch with the justice minister about this",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tipo de situaciones.",
+   "en": "kind of situation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En paralelo, un proyecto legislativo busca que los homicidios y los femicidios sean delitos imprescriptibles.",
+   "en": "Alongside that, a bill would make homicide and femicide crimes that never time out.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y una cosa más,",
+   "en": "And one more thing,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el proyecto de Sala Cuna Universal fue despachado a segundo trámite constitucional.",
+   "en": "the «Sala Cuna Universal» bill has been sent to its second constitutional stage.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El ministro Rau destacó la aprobación de veintisiete de las treinta indicaciones y fijó enero como meta.",
+   "en": "The minister «Rau» welcomed the approval of 27 of the 30 amendments and set January as the target.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Apuntó, con todo, al financiamiento como el nudo pendiente.",
+   "en": "He did point to funding as the knot still to be untied.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Una académica de la Universidad de Chile advirtió que el proyecto, así",
+   "en": "An academic at the «Universidad de Chile» warned that the bill as it",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "como está, genera un riesgo de expansión sin fiscalización pedagógica.",
+   "en": "stands creates a risk of expansion with no teaching oversight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasamos a otra cosa. Según la encuesta Criteria,",
+   "en": "Moving on. According to the «Criteria» poll,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la aprobación del Presidente Kast subió un punto y llegó",
+   "en": "President «Kast»'s approval rose a point and reached",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "al treinta y uno por ciento.",
+   "en": "31 per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El mismo sondeo situó en sesenta y tres por ciento a quienes",
+   "en": "The same survey put at 63 per cent those who think",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "creen que Chile debe defender con firmeza su soberanía frente a Argentina.",
+   "en": "Chile should firmly defend its sovereignty against Argentina.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ex-Ante precisó que la desaprobación del Presidente bajó.",
+   "en": "«Ex-Ante» noted that the President's disapproval rating fell.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo principal.",
+   "en": "Those are the main stories.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Sunday 13 September",
+ "edition": "morning",
+ "region": "es-CL",
+ "region_label": "Chile",
+ "headline_en": "Trump says he would like to see a unified Ireland, and Dublin plays the remarks down",
+ "summary_en": [
+  "Trump says he would like to see a unified Ireland, and Dublin plays the remarks down",
+  "President Kast takes part in his first evangelical Te Deum and calls for national unity",
+  "The care home that burned in Pitrufquén was operating without authorisation"
+ ]
+}

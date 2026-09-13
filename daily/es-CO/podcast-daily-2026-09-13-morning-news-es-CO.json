@@ -1,0 +1,670 @@
+{
+ "title": "La actualidad de la mañana, domingo 13 de septiembre",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-13",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Domingo trece de septiembre. La actualidad de la mañana.",
+   "en": "Sunday the 13th of September. The morning news round-up.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El jefe de Anthropic pide bajar el ritmo del desarrollo de la inteligencia artificial,",
+   "en": "The head of «Anthropic» wants artificial intelligence development slowed down,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con el respaldo de los jefes de OpenAI y de xAI.",
+   "en": "with the backing of the heads of «OpenAI» and «xAI».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en Colombia, la Aeronáutica Civil busca una avioneta desaparecida con cinco personas a bordo",
+   "en": "Here in Colombia, the «Aeronáutica Civil» is searching for a light aircraft that went missing with five people",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la ruta entre Condoto y Guaymaral.",
+   "en": "on board on the route between «Condoto» and «Guaymaral».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según El Colombiano, Darío Amodei pidió el sábado",
+   "en": "According to «El Colombiano», «Darío Amodei» asked on Saturday",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "reducir el ritmo al que mejoran las capacidades de los modelos.",
+   "en": "for a slowdown in the rate at which the models' capabilities improve.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Amodei escribió que los riesgos son graves,",
+   "en": "«Amodei» wrote that the risks are serious,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "precisamente porque se trata de una tecnología muy poderosa.",
+   "en": "precisely because this is such a powerful technology.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese mismo diario recogió la respuesta de Sam Altman, de OpenAI, y de Elon Musk,",
+   "en": "The same paper carried the response from «Sam Altman», of «OpenAI», and «Elon Musk»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de xAI: los dos se declararon de acuerdo con él.",
+   "en": "of «xAI»: both said they agreed with him.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La República situó el llamado en medio de los temores",
+   "en": "«La República» said the call comes amid growing fears",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por el mal uso de la inteligencia artificial,",
+   "en": "about the misuse of artificial intelligence,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tras la renuncia de un investigador de la compañía.",
+   "en": "after a researcher resigned from the company.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El presidente Donald Trump criticó lo que llamó las fuerzas negativas que quieren",
+   "en": "President «Donald Trump» attacked what he called the negative forces that want to slow",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ralentizar esa tecnología.",
+   "en": "the technology down.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De acuerdo con El Tiempo, el republicano respondió durante su viaje a Irlanda",
+   "en": "According to «El Tiempo», the Republican answered, on his trip to Ireland,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a las advertencias de expertos de firmas como Anthropic y xAI.",
+   "en": "the warnings from experts at firms such as «Anthropic» and «xAI».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Semana añadió que los demócratas consideran urgente regular la inteligencia artificial.",
+   "en": "«Semana» added that Democrats think regulating artificial intelligence is urgent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La República apuntó que Trump mantiene una postura de no intervención frente a los riesgos,",
+   "en": "«La República» noted that «Trump» is sticking to a hands-off position on the risks as he",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "mientras prepara una cumbre en Washington con el líder chino Xi Jinping.",
+   "en": "prepares for a summit in Washington with the Chinese leader «Xi Jinping».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Colombiano informó que la Aeronáutica Civil activó este domingo",
+   "en": "«El Colombiano» reported that the «Aeronáutica Civil» started on Sunday",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "los protocolos de búsqueda y salvamento por la avioneta desaparecida.",
+   "en": "the search and rescue procedures for the missing aircraft.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La aeronave había despegado del aeropuerto de Condoto, en el Chocó,",
+   "en": "The plane had taken off from the airport at «Condoto», in «Chocó», bound",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con destino a Guaymaral, en Cundinamarca,",
+   "en": "for «Guaymaral», in «Cundinamarca»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "al servicio de la Patrulla Aérea Civil Colombiana.",
+   "en": "flying for the «Patrulla Aérea Civil Colombiana».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La República precisó que el último contacto con la tripulación",
+   "en": "«La República» said the last contact with the crew",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "se registró a las nueve y veintitrés de la mañana.",
+   "en": "was at 9.23 in the morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Poco después se activó una radiobaliza de emergencia",
+   "en": "Shortly afterwards an emergency beacon went off",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la zona del Cerro Tatamá, de difícil acceso.",
+   "en": "in the area of «Cerro Tatamá», which is hard to reach.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La entidad coordina el operativo con la Policía Nacional,",
+   "en": "The agency is co-ordinating the operation with the national police,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el Ejército y los organismos de socorro.",
+   "en": "the army and the emergency services.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Colombiano contó que la búsqueda se concentra",
+   "en": "«El Colombiano» said the search is concentrated",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la zona rural del municipio de Tadó, en el Chocó.",
+   "en": "in the rural area of the municipality of «Tadó», in «Chocó».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La gobernadora del departamento señaló que las comunidades y las autoridades de la zona",
+   "en": "The governor of the department said local communities and authorities",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "se sumaron a los equipos de rescate.",
+   "en": "had joined the rescue teams.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un helicóptero del Ejército Nacional apoya esas labores desde el aire.",
+   "en": "An army helicopter is supporting that work from the air.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Tiempo reportó que el alcalde de Tadó confirmó el accidente y que la búsqueda",
+   "en": "«El Tiempo» reported that the mayor of «Tadó» confirmed the crash and that the search",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "se suspendió por las fuertes lluvias.",
+   "en": "was suspended because of heavy rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En otras noticias, la Fiscalía anunció este domingo la reactivación de las órdenes de captura",
+   "en": "In other news, the «Fiscalía» announced on Sunday that it was reviving the arrest",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "contra tres cabecillas del Clan del Golfo.",
+   "en": "warrants against three «Clan del Golfo» leaders.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Colombiano explicó que esas órdenes estaban suspendidas",
+   "en": "«El Colombiano» explained that those warrants had been suspended",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "mientras corrían los diálogos con ese grupo armado.",
+   "en": "while the talks with the armed group were running.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La decisión quedó en una resolución firmada por la fiscal general el once de septiembre.",
+   "en": "The decision was set down in a resolution signed by the attorney general on the 11th of September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese mismo día, una resolución presidencial dio por terminada la fase de conversaciones del Gobierno",
+   "en": "On the same day, a presidential resolution formally ended the government's talks",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con la organización.",
+   "en": "with the organisation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Fiscalía aclaró que la medida cobija únicamente a esos tres cabecillas.",
+   "en": "The «Fiscalía» made clear that the measure covers only those three men.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otro tema del día,",
+   "en": "Turning to something else,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el Consejo de Estado negó",
+   "en": "the «Consejo de Estado» has refused",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la muerte política de los congresistas que aportaron dinero a la vaca,",
+   "en": "to strip the seats from the members of Congress who paid into the «vaca»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la colecta por las vías de cuarta generación en Antioquia.",
+   "en": "the public appeal for the fourth-generation roads in «Antioquia».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El fallo de segunda instancia ratificó",
+   "en": "The appeal ruling upheld",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "una decisión de primera instancia de junio de dos mil veinticuatro.",
+   "en": "a decision handed down in June 2024.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Colombiano detalló que el alto tribunal no halló contrato estatal alguno,",
+   "en": "«El Colombiano» said the court found no state contract,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "porque un contrato público debe constar por escrito y no hubo documento.",
+   "en": "because a public contract has to be in writing and there was no document.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El tribunal consideró además que los aportes fueron una expresión de solidaridad ciudadana permitida",
+   "en": "The court also took the view that the contributions were an expression of public solidarity allowed",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por la Constitución.",
+   "en": "by the Constitution.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para finalizar, el presidente Abelardo De La Espriella anunció un acuerdo con Chile",
+   "en": "And finally, President «Abelardo De La Espriella» announced an agreement with Chile",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para que los colombianos homologuen allí sus competencias profesionales.",
+   "en": "that will let Colombians have their professional qualifications recognised there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según El Tiempo, el pacto reconoce veintiséis perfiles laborales en sectores como la gastronomía,",
+   "en": "According to «El Tiempo», the deal covers 26 occupations,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la construcción y la energía.",
+   "en": "in sectors such as catering, construction and energy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Semana subrayó que el acuerdo abre nuevas oportunidades de trabajo para los colombianos",
+   "en": "«Semana» said the agreement opens up new work opportunities for Colombians",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en ese país.",
+   "en": "in that country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más importante.",
+   "en": "That is what matters most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Sunday 13 September",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "Anthropic's chief asks AI companies to slow down, and the heads of OpenAI and xAI say they agree",
+ "summary_en": [
+  "Anthropic's chief asks AI companies to slow down, and the heads of OpenAI and xAI say they agree",
+  "Search and rescue is under way for a light aircraft missing on the Condoto to Guaymaral route with five people on board",
+  "Trump hits back at the calls to slow artificial intelligence down"
+ ]
+}

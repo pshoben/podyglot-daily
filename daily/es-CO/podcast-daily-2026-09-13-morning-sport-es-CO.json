@@ -1,0 +1,259 @@
+{
+ "title": "La jornada deportiva, domingo 13 de septiembre",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-sport",
+   "wpm": 195,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-13",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "En las canchas colombianas, James Rodríguez fue presentado oficialmente como jugador del Atlético Nacional.",
+   "en": "In Colombian football, «James Rodríguez» has been unveiled as an «Atlético Nacional» player.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De acuerdo con El Tiempo, el volante de la Selección Colombia fue recibido",
+   "en": "According to «El Tiempo», the Colombia midfielder was welcomed",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "como estrella por la hinchada verdolaga en el estadio Atanasio Girardot, en Medellín.",
+   "en": "like a star by the green-and-white crowd at the «Atanasio Girardot» stadium in «Medellín».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según El Colombiano, el zurdo vuelve al fútbol colombiano",
+   "en": "According to «El Colombiano», the left-footer is coming back to Colombian football",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "después de dieciocho años en el exterior.",
+   "en": "after 18 years abroad.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su última etapa en el país fue con el Envigado, en dos mil siete.",
+   "en": "His last spell in the country was with «Envigado», in 2007.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese mismo diario contó que llegó como refuerzo verdolaga el viernes once de septiembre,",
+   "en": "The same paper said he arrived as the club's new signing on Friday the 11th of September,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "junto al presidente del club, el director deportivo y el técnico Lucas González.",
+   "en": "alongside the club president, the sporting director and the coach «Lucas González».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Semana resaltó su respuesta sobre el frustrado paso al Junior:",
+   "en": "«Semana» picked out his answer about the move to «Junior» that never happened:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dijo que eso es pasado y que ahora está feliz donde está.",
+   "en": "he said that is the past and that he is happy where he is now.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Colombiano precisó que usará la camiseta veintitrés.",
+   "en": "«El Colombiano» said he will wear the number 23 shirt.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Escogió ese número en homenaje a su amigo Edwin Cardona,",
+   "en": "He chose that number in tribute to his friend «Edwin Cardona»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que lo llevó cuando debutó con el club,",
+   "en": "who wore it when he made his debut for the club,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "así que Cardona se queda con el diez.",
+   "en": "so «Cardona» keeps the number 10.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El volante no entró en la convocatoria para el partido contra Águilas Doradas,",
+   "en": "The midfielder was not in the squad for the match against «Águilas Doradas»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de modo que su debut tendrá que esperar.",
+   "en": "so his debut will have to wait.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Semana apuntó que esa convocatoria fue la primera decisión del técnico sobre él.",
+   "en": "«Semana» noted that the squad list was the coach's first decision about him.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El histórico arquero René Higuita le dio la bienvenida al club",
+   "en": "The great former goalkeeper «René Higuita» welcomed him to the club",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con un mensaje cargado de afecto.",
+   "en": "with a warm message.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dijo que esa camiseta tiene historia,",
+   "en": "He said the shirt has history, it has heart,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tiene corazón y tiene una hinchada que siempre acompaña al equipo.",
+   "en": "and it has a crowd that is always with the team.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y cerró deseándole triunfos en esta nueva etapa.",
+   "en": "And he ended by wishing him wins in this new chapter.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esa es la jornada.",
+   "en": "That is the day in sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Sunday 13 September",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "James Rodriguez is presented as an Atletico Nacional player at the Atanasio Girardot",
+ "summary_en": [
+  "James Rodriguez is presented as an Atletico Nacional player at the Atanasio Girardot",
+  "James Rodriguez says the Junior talks are in the past, and returns to Colombian football after 18 years"
+ ]
+}

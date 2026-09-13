@@ -1,0 +1,360 @@
+{
+ "title": "El noticiero de la mañana, domingo 13 de septiembre",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-13",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Domingo trece de septiembre. El noticiero de la mañana.",
+   "en": "Sunday the thirteenth of September. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un dron ruso impactó un tren en la frontera entre Ucrania y Polonia.",
+   "en": "A Russian drone struck a train on the border between Ukraine and Poland.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y en la agenda argentina,",
+   "en": "And on the Argentine agenda,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Malvinas: Donald Trump advirtió que un conflicto por las islas sería un desastre potencial.",
+   "en": "the «Malvinas»: Donald Trump warned that a conflict over the islands would be a potential disaster.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos por ese ataque. El impacto ocurrió a unos dos kilómetros de la frontera polaca.",
+   "en": "We start with that attack. The strike happened about two kilometres from the Polish border.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El exprimer ministro británico Boris Johnson",
+   "en": "The former British prime minister «Boris Johnson»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "viajaba junto al exdirector de la CIA David Petraeus y a funcionarios europeos.",
+   "en": "was travelling with the former head of the «CIA», «David Petraeus», and European officials.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Johnson y el exprimer ministro sueco Carl Bildt fueron evacuados de un tren por precaución.",
+   "en": "«Johnson» and the former Swedish prime minister «Carl Bildt» were taken off a train as a precaution.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Moscú aseguró que atacó infraestructura ferroviaria utilizada para transportar carga militar.",
+   "en": "Moscow maintained that it had struck rail infrastructure used to carry military cargo.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos con Malvinas.",
+   "en": "Still on the «Malvinas».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El presidente de los Estados Unidos volvió a hablar del conflicto",
+   "en": "The president of the United States spoke again about the dispute",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por la soberanía de las islas.",
+   "en": "over sovereignty of the islands.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Advirtió sobre un desastre potencial con Gran Bretaña.",
+   "en": "He warned of a potential disaster with Great Britain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El ministro de Defensa, Carlos Presti,",
+   "en": "The defence minister, «Carlos Presti»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "respondió que la posición argentina es a favor de una solución pacífica.",
+   "en": "replied that Argentina's position is in favour of a peaceful solution.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Gobierno enviará esta semana al Congreso",
+   "en": "This week the government will send Congress",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la iniciativa por Malvinas y el Presupuesto dos mil veintisiete.",
+   "en": "the «Malvinas» bill and the 2027 budget.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También en la agenda, según el monitor que elaboran Eco Go y la Universidad Austral,",
+   "en": "Also on the agenda: according to the monitor run by «Eco Go» and the «Universidad Austral»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la mora en los créditos a las familias llegó al dieciocho por ciento en julio.",
+   "en": "arrears on household loans reached eighteen per cent in July.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es el mes veintiuno consecutivo de subas,",
+   "en": "That is the twenty-first straight month of rises,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con un alza de diez coma tres puntos porcentuales en un año.",
+   "en": "up ten point three percentage points on a year ago.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otro tema, una delegación de la CGT",
+   "en": "In other news, a delegation from the «CGT»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "fue recibida por el papa León catorce y le llevó un documento",
+   "en": "was received by Pope Leo the Fourteenth, and handed him a document",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sobre la crítica situación socioeconómica del país.",
+   "en": "on the country's critical social and economic situation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de tema ahora, renunció Santiago Muzio,",
+   "en": "Moving on, «Santiago Muzio» resigned",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el cuestionado director de la Casa Argentina en París.",
+   "en": "as the much criticised director of the «Casa Argentina» in Paris.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dejó el cargo tras varios meses de cuestionamientos",
+   "en": "He left the post after months of complaints",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por su administración de la residencia universitaria y por el retiro de una placa",
+   "en": "about his running of the student residence and about the removal of a plaque",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en homenaje a los desaparecidos durante la última dictadura.",
+   "en": "honouring those who disappeared under the last dictatorship.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para el final, Gran Hermano entra en su semana decisiva,",
+   "en": "Last of all, «Gran Hermano» reaches its deciding week,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con tres participantes en competencia.",
+   "en": "with three contestants still in.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Este lunes se sabrá quién sale tercera y el miércoles se conocerá a la ganadora.",
+   "en": "Third place will be settled on Monday, and the winner will be known on Wednesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo central.",
+   "en": "That is the heart of it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Sunday 13 September",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "A Russian drone hits a train on the Ukraine to Poland border",
+ "summary_en": [
+  "A Russian drone hits a train on the Ukraine to Poland border",
+  "Trump calls a conflict over the Malvinas a potential disaster",
+  "The drone hit about two kilometres from the Polish border"
+ ]
+}

@@ -1,0 +1,159 @@
+{
+ "title": "Le sport d'ici, dimanche 13 septembre",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-sport",
+   "wpm": 185,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-13",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le hockey, pour ce dimanche matin.",
+   "en": "Hockey, for this Sunday morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le suspense entourant l'avenir de Zachary Bolduc chez le Canadien de Montréal est terminé.",
+   "en": "There is no more doubt about «Zachary Bolduc»'s future at the Montreal Canadiens.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'après Le Soleil, l'attaquant québécois a paraphé une prolongation de contrat de quatre saisons.",
+   "en": "According to «Le Soleil», the Quebec forward has signed a four-season contract extension.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Presse écrit que le dossier Bolduc est finalement réglé.",
+   "en": "«La Presse» writes that the «Bolduc» question is settled at last.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le joueur et le Canadien sont donc liés jusqu'au terme de ces quatre saisons.",
+   "en": "That ties the player and the club together for those four seasons.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon Radio-Canada, l'entente vaut quatre virgule deux millions de dollars par saison.",
+   "en": "According to «Radio-Canada», the deal is worth four point two million dollars a season.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Presse donne la même valeur annuelle moyenne.",
+   "en": "«La Presse» gives the same average annual value.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Radio-Canada décrit l'entente comme un compromis.",
+   "en": "«Radio-Canada» describes the deal as a compromise.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce compromis permet au jeune attaquant d'assurer son avenir pour quatre ans.",
+   "en": "That compromise lets the young forward secure his future for four years.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon Le Devoir, Zachary Bolduc a vingt-trois ans.",
+   "en": "According to «Le Devoir», «Zachary Bolduc» is twenty-three.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il était joueur autonome avec compensation depuis le premier juillet.",
+   "en": "He had been a restricted free agent since the 1st of July.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "TVA Nouvelles écrit que l'attaquant québécois a finalement paraphé son contrat de quatre ans.",
+   "en": "«TVA Nouvelles» writes that the Quebec forward has now signed his four-year contract.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est tout pour le sport.",
+   "en": "That is all for sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Sunday 13 September",
+ "edition": "morning",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "Zachary Bolduc agrees a four-year contract with the Canadiens",
+ "summary_en": [
+  "Zachary Bolduc agrees a four-year contract with the Canadiens",
+  "The Bolduc deal is worth an average of four point two million dollars a season"
+ ]
+}

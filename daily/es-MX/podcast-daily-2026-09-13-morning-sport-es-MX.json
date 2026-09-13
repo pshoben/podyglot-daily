@@ -1,0 +1,199 @@
+{
+ "title": "La agenda deportiva, domingo 13 de septiembre",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-sport",
+   "wpm": 186,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-13",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Hoy juegan las Chivas y los Pumas en la jornada ocho de la Liga MX.",
+   "en": "Today «Chivas» play «Pumas» in round eight of «Liga MX».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Financiero ubicó ese partido en el Estadio Akron.",
+   "en": "«El Financiero» put that match at the «Estadio Akron».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Guadalajara recibe en casa a los universitarios.",
+   "en": "«Guadalajara» are at home to the university side.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Economista lo marcó como el duelo estelar de este domingo.",
+   "en": "«El Economista» made it the standout tie of this Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otro tema en el futbol mexicano,",
+   "en": "Another story in Mexican football,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el Necaxa se quedó sin director técnico.",
+   "en": "«Necaxa» are without a head coach.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Jornada informó que el uruguayo Martín Varini fue cesado del puesto en los Rayos.",
+   "en": "«La Jornada» reported that the Uruguayan «Martín Varini» has been removed from the post at the «Rayos».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Economista registró esa salida en pleno torneo.",
+   "en": "«El Economista» recorded that departure in the middle of the tournament.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el beisbol, la Serie del Rey",
+   "en": "In baseball, the «Serie del Rey»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "enfrenta a los Toros de Tijuana",
+   "en": "pits «Toros de Tijuana»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con los Olmecas de Tabasco.",
+   "en": "against «Olmecas de Tabasco».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es la final de la Liga Mexicana de Beisbol.",
+   "en": "It is the final of the Mexican Baseball League.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Financiero recogió el calendario,",
+   "en": "«El Financiero» carried the calendar,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "las sedes y los horarios de esa serie.",
+   "en": "the venues and the start times for that series.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cuarto juego se disputó en Villahermosa.",
+   "en": "The fourth game was played in «Villahermosa».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Jornada lo situó en el estadio Centenario del veintisiete de Febrero.",
+   "en": "«La Jornada» placed it at the «Centenario del 27 de Febrero» stadium.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esa es la agenda.",
+   "en": "That is the diary.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Sunday 13 September",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "Chivas host Pumas at the Estadio Akron in round eight of Liga MX",
+ "summary_en": [
+  "Chivas host Pumas at the Estadio Akron in round eight of Liga MX",
+  "Necaxa part company with their coach Martin Varini"
+ ]
+}

@@ -1,0 +1,169 @@
+{
+ "title": "El deporte, domingo 13 de septiembre",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-sport",
+   "wpm": 195,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-13",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El deporte, este domingo.",
+   "en": "Sport, this Sunday.",
+   "prosody": {
+    "pause_ms": 200,
+    "rate": 1.03,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo que viene en la jornada.",
+   "en": "What is on today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los Juegos Suramericanos, la decimotercera edición de esta competencia del continente,",
+   "en": "The South American Games, the thirteenth edition of the continent's own competition,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "empezaron el sábado y ya están en marcha.",
+   "en": "began on Saturday and are already under way.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La ceremonia de inauguración se hizo en Rosario, y combinó espectáculos, deporte y tradición.",
+   "en": "The opening ceremony was held in «Rosario», and brought together shows, sport and tradition.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También se los conoce como los Juegos Odesur.",
+   "en": "They are also known as the «Odesur» Games.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las tres sedes principales de estos Juegos son Rosario, Santa Fe y Rafaela.",
+   "en": "The three main venues for these Games are «Rosario», «Santa Fe» and «Rafaela».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En las pistas y en las canchas",
+   "en": "On the tracks and on the pitches,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "compiten más de cuatro mil atletas llegados de quince países.",
+   "en": "more than four thousand athletes from fifteen countries are competing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El programa reúne cuarenta y tres deportes y sesenta disciplinas,",
+   "en": "The programme brings together forty-three sports and sixty disciplines,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "repartidos a lo largo de dos semanas de competencia.",
+   "en": "spread over two weeks of competition.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La cita va hasta el veintiséis de septiembre.",
+   "en": "The event runs until the twenty-sixth of September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Además de la Argentina, participan otros catorce países de la región.",
+   "en": "Alongside Argentina, another fourteen countries of the region are taking part.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es el deporte.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Sunday 13 September",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "The thirteenth South American Games open in Rosario",
+ "summary_en": [
+  "The thirteenth South American Games open in Rosario",
+  "The three main venues are Rosario, Santa Fe and Rafaela"
+ ]
+}

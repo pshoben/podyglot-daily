@@ -1,0 +1,570 @@
+{
+ "title": "El noticiario matutino, domingo 13 de septiembre",
+ "dialect": "es-MX",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-MX-daily-news",
+   "wpm": 186,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-13",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Domingo trece de septiembre, siete de la mañana. El noticiario matutino.",
+   "en": "Sunday the thirteenth of September, seven in the morning. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Arrancamos con Donald Trump,",
+   "en": "We start with Donald Trump,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que auguró una excelente relación con México",
+   "en": "who promised an excellent relationship with Mexico",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en plena revisión del T-MEC.",
+   "en": "in the middle of the «T-MEC» review.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en México,",
+   "en": "Here in Mexico,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la agencia ASEA dio por controlado el derrame de crudo",
+   "en": "the «ASEA» agency has declared the crude oil spill",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "frente a Campeche.",
+   "en": "off «Campeche» under control.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según La Jornada,",
+   "en": "According to «La Jornada»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el mandatario estadounidense respondió ayer a una pregunta",
+   "en": "the United States president was asked yesterday",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sobre el futuro del tratado.",
+   "en": "about the future of the treaty.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dijo que la relación con México seguirá siendo excelente.",
+   "en": "He said the relationship with Mexico will stay excellent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Financiero añadió que también acusó a Canadá de estafar a Estados Unidos durante décadas.",
+   "en": "«El Financiero» added that he also accused Canada of cheating the United States for decades.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Economista consignó que esas declaraciones llegan mientras se aceleran las negociaciones comerciales.",
+   "en": "«El Economista» noted that those remarks come as the trade talks speed up.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese derrame ocurrió en instalaciones marinas de Pemex, frente a Ciudad del Carmen, en Campeche.",
+   "en": "That spill happened at «Pemex» marine installations, off «Ciudad del Carmen», in «Campeche».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La agencia informó que lo controló",
+   "en": "The agency said it was brought under control",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con la despresurización del ducto y el cierre de varios pozos.",
+   "en": "by depressurising the pipeline and shutting several wells.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pemex reportó avances en la reparación del ducto del campo Ek Balam.",
+   "en": "«Pemex» reported progress on repairing the pipeline in the «Ek Balam» field.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La empresa aseguró que por ahora",
+   "en": "The company said that for now",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "no hay riesgo de que el hidrocarburo",
+   "en": "there is no risk of the oil",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "llegue a la línea de costa.",
+   "en": "reaching the coastline.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La reparación tardará varios días, de acuerdo con El Financiero.",
+   "en": "The repair will take several days, according to «El Financiero».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En otros temas,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la Comisión Ambiental de la Megalópolis mantuvo la contingencia por ozono",
+   "en": "the Megalopolis Environmental Commission kept the ozone contingency in force",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el Valle de México.",
+   "en": "in the Valley of Mexico.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Jornada explicó que la lluvia de la noche anterior",
+   "en": "«La Jornada» explained that the previous night's rain",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "no bastó para bajar la contaminación.",
+   "en": "was not enough to bring the pollution down.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Financiero situó la activación de la fase uno el sábado,",
+   "en": "«El Financiero» put the start of phase one on Saturday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por la mala calidad del aire.",
+   "en": "over poor air quality.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Economista precisó que la comisión",
+   "en": "«El Economista» said the commission",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "daría su siguiente informe a las tres de la tarde.",
+   "en": "would give its next bulletin at three in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasamos a otro asunto, la Línea doce del Metro capitalino cerró nueve estaciones.",
+   "en": "Moving to another matter, Line 12 of the Mexico City Metro has closed nine stations.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El servicio corre solo entre Mixcoac y San Andrés Tomatlán, por trabajos de mantenimiento.",
+   "en": "The service runs only between «Mixcoac» and «San Andrés Tomatlán», for maintenance work.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Economista fechó ese cierre del doce al dieciséis de septiembre.",
+   "en": "«El Economista» dated that closure from the 12th to the 16th of September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La RTP da servicio sustituto,",
+   "en": "The «RTP» is running a replacement service,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y quedan el Trolebús, el Cablebús,",
+   "en": "and there are also the «Trolebús», the «Cablebús»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el Metrobús y el Tren Ligero.",
+   "en": "the «Metrobús» and the «Tren Ligero».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Jornada registró que faltaron camiones de la RTP en el tramo hacia Tláhuac.",
+   "en": "«La Jornada» recorded a shortage of «RTP» buses on the stretch towards «Tláhuac».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos en México, la presidenta Claudia Sheinbaum llamó a defender la educación pública.",
+   "en": "Still in Mexico, President «Claudia Sheinbaum» called for public education to be defended.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo hizo tras los resultados de la prueba PISA de la OCDE.",
+   "en": "She did so after the results of the OECD's PISA test.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Jornada recogió que destacó a seis escuelas públicas mexicanas con la mejor calificación.",
+   "en": "«La Jornada» carried her point that six Mexican state schools had the best score.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Economista apuntó que reconoció, al mismo tiempo,",
+   "en": "«El Economista» noted that she acknowledged, at the same time,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "muchos problemas en esa evaluación.",
+   "en": "a lot of problems with the assessment.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Financiero anotó que esos resultados abrieron el debate",
+   "en": "«El Financiero» wrote that those results opened a debate",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sobre el uso de pantallas entre niños y adolescentes.",
+   "en": "about the use of screens among children and teenagers.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cerramos con otro tema, la noche del quince de septiembre México dará el Grito.",
+   "en": "And finally, Mexico gives the «Grito» on the night of the 15th of September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La ceremonia será en el balcón principal de Palacio Nacional, según La Jornada.",
+   "en": "The ceremony will be on the main balcony of «Palacio Nacional», according to «La Jornada».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ahí lo encabezará la presidenta Claudia Sheinbaum.",
+   "en": "There President «Claudia Sheinbaum» will lead it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se tañe la Campana de Dolores y se enarbola la bandera",
+   "en": "The «Campana de Dolores» is rung and the flag is raised",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ante la multitud del Zócalo.",
+   "en": "before the crowd in the «Zócalo».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Financiero adelantó que sumará nuevos héroes y heroínas a sus arengas.",
+   "en": "«El Financiero» trailed that she will add new heroes and heroines to her «arengas».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Economista recordó que el levantamiento de Miguel Hidalgo",
+   "en": "«El Economista» recalled that «Miguel Hidalgo»'s rising",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "comenzó la madrugada del dieciséis de septiembre.",
+   "en": "began in the early hours of the 16th of September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La víspera se volvió tradición nacional.",
+   "en": "The eve of it became a national tradition.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más destacado.",
+   "en": "That is what stands out most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Sunday 13 September",
+ "edition": "morning",
+ "region": "es-MX",
+ "region_label": "México",
+ "headline_en": "Trump says the United States will keep an excellent relationship with Mexico",
+ "summary_en": [
+  "Trump says the United States will keep an excellent relationship with Mexico",
+  "ASEA says the Pemex crude spill off Campeche has been brought under control",
+  "The ozone contingency holds in the Valley of Mexico"
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-CA",
+ "date": "2026-09-13",
+ "episodes": [
+  {
+   "id": "fr-CA-Le bulletin du matin, dimanche 13 septembre",
+   "file": "podcast-daily-2026-09-13-morning-news-fr-CA.json",
+   "bytes": 12421,
+   "sha256": "748e555f33aeedf67d786c127c30efdfab9a39a4c5b6039e8404bc34a5dfeedd",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin du matin, dimanche 13 septembre",
+   "title_en": "The morning news, Sunday 13 September",
+   "headline_en": "Trump argues for a unified Ireland on a visit that was to have been about golf",
+   "summary_en": [
+    "Trump argues for a unified Ireland on a visit that was to have been about golf",
+    "The Quebec Liberals put out a financial framework their leader calls prudent, not austere",
+    "Day eighteen of the Quebec campaign turns on financial frameworks and violence against women"
+   ]
+  },
+  {
+   "id": "fr-CA-Le sport d'ici, dimanche 13 septembre",
+   "file": "podcast-daily-2026-09-13-morning-sport-fr-CA.json",
+   "bytes": 4242,
+   "sha256": "fae27174ef58b56982814771018262cf34306f25f38f6c1c4519afae19a61520",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le sport d'ici, dimanche 13 septembre",
+   "title_en": "Today's sport, Sunday 13 September",
+   "headline_en": "Zachary Bolduc agrees a four-year contract with the Canadiens",
+   "summary_en": [
+    "Zachary Bolduc agrees a four-year contract with the Canadiens",
+    "The Bolduc deal is worth an average of four point two million dollars a season"
+   ]
+  },
+  {
+   "id": "fr-CA-Le bulletin météo, dimanche 13 septembre",
+   "file": "podcast-daily-2026-09-13-morning-weather-fr-CA.json",
+   "bytes": 4976,
+   "sha256": "0ed31f67b0368c3b3484a5b1573ad21e87336a3e09fd62c566f572e0a19b2e35",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin météo, dimanche 13 septembre",
+   "title_en": "Today's weather, Sunday 13 September",
+   "headline_en": "Sunday forecast for Montréal, 13th September",
+   "summary_en": [
+    "Sunday forecast for Montréal, 13th September",
+    "Sunday forecast for Québec, 13th September"
+   ]
+  }
+ ],
+ "content": "2d890df48de55d662ad5272fb1bd28c3c76b30a6f01ff9680fc6d78e0e78654c",
+ "rev": 1,
+ "updated": "2026-09-13T23:51:41.419Z"
+}

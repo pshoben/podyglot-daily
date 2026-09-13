@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-AR",
+ "date": "2026-09-13",
+ "episodes": [
+  {
+   "id": "es-AR-El noticiero de la mañana, domingo 13 de septiembre",
+   "file": "podcast-daily-2026-09-13-morning-news-es-AR.json",
+   "bytes": 9254,
+   "sha256": "be775a67d32b56a9cbc6deacf728aae4a149ce6b080b5c6bc8f5d9f3e47f1fcc",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El noticiero de la mañana, domingo 13 de septiembre",
+   "title_en": "The morning news, Sunday 13 September",
+   "headline_en": "A Russian drone hits a train on the Ukraine to Poland border",
+   "summary_en": [
+    "A Russian drone hits a train on the Ukraine to Poland border",
+    "Trump calls a conflict over the Malvinas a potential disaster",
+    "The drone hit about two kilometres from the Polish border"
+   ]
+  },
+  {
+   "id": "es-AR-El deporte, domingo 13 de septiembre",
+   "file": "podcast-daily-2026-09-13-morning-sport-es-AR.json",
+   "bytes": 4124,
+   "sha256": "2f40554a29a7de235447464a422384c49a64138076629cfab53af923595dd0f8",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El deporte, domingo 13 de septiembre",
+   "title_en": "Today's sport, Sunday 13 September",
+   "headline_en": "The thirteenth South American Games open in Rosario",
+   "summary_en": [
+    "The thirteenth South American Games open in Rosario",
+    "The three main venues are Rosario, Santa Fe and Rafaela"
+   ]
+  },
+  {
+   "id": "es-AR-El pronóstico, domingo 13 de septiembre",
+   "file": "podcast-daily-2026-09-13-morning-weather-es-AR.json",
+   "bytes": 4362,
+   "sha256": "a8b756abca0e77c3bcc40b7c64c990e55ea67b25947ab437b1b0d701f70a4245",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El pronóstico, domingo 13 de septiembre",
+   "title_en": "Today's weather, Sunday 13 September",
+   "headline_en": "Sunday forecast for Buenos Aires, 13th September",
+   "summary_en": [
+    "Sunday forecast for Buenos Aires, 13th September",
+    "Sunday forecast for Córdoba, 13th September"
+   ]
+  }
+ ],
+ "content": "272acbddb82fd3949d9ae083411e201a73604ac0375d5ee35e09a89385b6cd67",
+ "rev": 1,
+ "updated": "2026-09-13T23:51:41.419Z"
+}

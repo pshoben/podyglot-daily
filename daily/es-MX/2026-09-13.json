@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-MX",
+ "date": "2026-09-13",
+ "episodes": [
+  {
+   "id": "es-MX-El noticiario matutino, domingo 13 de septiembre",
+   "file": "podcast-daily-2026-09-13-morning-news-es-MX.json",
+   "bytes": 14068,
+   "sha256": "246ab86474f0c51da01c376d69f1c4d906556a48ced04d680741e272fb045527",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El noticiario matutino, domingo 13 de septiembre",
+   "title_en": "The morning news, Sunday 13 September",
+   "headline_en": "Trump says the United States will keep an excellent relationship with Mexico",
+   "summary_en": [
+    "Trump says the United States will keep an excellent relationship with Mexico",
+    "ASEA says the Pemex crude spill off Campeche has been brought under control",
+    "The ozone contingency holds in the Valley of Mexico"
+   ]
+  },
+  {
+   "id": "es-MX-La agenda deportiva, domingo 13 de septiembre",
+   "file": "podcast-daily-2026-09-13-morning-sport-es-MX.json",
+   "bytes": 4702,
+   "sha256": "0ed56c9fa1e71ad1be2868f416bad68eb78a876f528f5186778a617d336a9609",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "La agenda deportiva, domingo 13 de septiembre",
+   "title_en": "Today's sport, Sunday 13 September",
+   "headline_en": "Chivas host Pumas at the Estadio Akron in round eight of Liga MX",
+   "summary_en": [
+    "Chivas host Pumas at the Estadio Akron in round eight of Liga MX",
+    "Necaxa part company with their coach Martin Varini"
+   ]
+  },
+  {
+   "id": "es-MX-El clima, domingo 13 de septiembre",
+   "file": "podcast-daily-2026-09-13-morning-weather-es-MX.json",
+   "bytes": 4946,
+   "sha256": "be291f937d52ffdc24d1b888c0d781555ffa40fdf763a8cfe564930da18c7ed2",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El clima, domingo 13 de septiembre",
+   "title_en": "Today's weather, Sunday 13 September",
+   "headline_en": "Sunday forecast for Ciudad de México, 13th September",
+   "summary_en": [
+    "Sunday forecast for Ciudad de México, 13th September",
+    "Sunday forecast for Guadalajara, 13th September"
+   ]
+  }
+ ],
+ "content": "fdd75e06bde20e867c278a5a475a4b857f912b0e6faeb0865d5cfe859eb81c3e",
+ "rev": 1,
+ "updated": "2026-09-13T23:51:41.419Z"
+}

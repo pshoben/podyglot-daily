@@ -5,6 +5,47 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-CL-Las noticias de la mañana, domingo 13 de septiembre",
+   "file": "podcast-daily-2026-09-13-morning-news-es-CL.json",
+   "bytes": 12140,
+   "sha256": "48477086b8270bfee7546c6fe4c000c112298ec8a707a1c0082ac293c1e0188c",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "Las noticias de la mañana, domingo 13 de septiembre",
+   "title_en": "The morning news, Sunday 13 September",
+   "headline_en": "Trump says he would like to see a unified Ireland, and Dublin plays the remarks down",
+   "summary_en": [
+    "Trump says he would like to see a unified Ireland, and Dublin plays the remarks down",
+    "President Kast takes part in his first evangelical Te Deum and calls for national unity",
+    "The care home that burned in Pitrufquén was operating without authorisation"
+   ]
+  },
+  {
+   "id": "es-CL-El estado del tiempo, domingo 13 de septiembre",
+   "file": "podcast-daily-2026-09-13-morning-weather-es-CL.json",
+   "bytes": 5065,
+   "sha256": "5ec3e3d3e44525c82265b3150adec2537821ec0f1000448caff43bd5414eb93e",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "El estado del tiempo, domingo 13 de septiembre",
+   "title_en": "Today's weather, Sunday 13 September",
+   "headline_en": "Sunday forecast for Santiago, 13th September",
+   "summary_en": [
+    "Sunday forecast for Santiago, 13th September",
+    "Sunday forecast for Valparaíso, 13th September"
+   ]
+  },
+  {
    "id": "es-CL-Las noticias de la mañana, miércoles 9 de septiembre",
    "file": "podcast-daily-2026-09-09-morning-news-es-CL.json",
    "bytes": 8791,
