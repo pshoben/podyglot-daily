@@ -3,8 +3,151 @@
  "channel": "daily",
  "dialect": "fr-BE",
  "base": "https://pshoben.github.io/podyglot-daily/archive/",
- "archived_before": "2026-08-27",
+ "archived_before": "2026-08-31",
  "episodes": [
+  {
+   "id": "fr-BE-Le sept heures, dimanche 30 août",
+   "file": "podcast-daily-2026-08-30-morning-news-fr-BE.json",
+   "bytes": 9464,
+   "sha256": "f37f279a28c333dfec22c2361f3f16c1c88ea81120f213ef251b35feeb41eb93",
+   "date": "2026-08-30",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, dimanche 30 août",
+   "title_en": "The morning news, Sunday 30 August",
+   "headline_en": "Rising water is hampering the rescue after the Himalayan floods",
+   "summary_en": [
+    "Rising water is hampering the rescue after the Himalayan floods",
+    "Foreign firefighters are back in the Fagnes as the fire picks up again",
+    "Provisional tolls put the dead at between 734 and 750"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, dimanche 30 août",
+   "file": "podcast-daily-2026-08-30-morning-weather-fr-BE.json",
+   "bytes": 5224,
+   "sha256": "7f82879075a846c356c7590708a6082a7d01352a1f68aa55b7814a47a4d4b785",
+   "date": "2026-08-30",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, dimanche 30 août",
+   "title_en": "Today's weather, Sunday 30 August",
+   "headline_en": "Prévision pour Bruxelles, dimanche 2026-08-30",
+   "summary_en": [
+    "Prévision pour Bruxelles, dimanche 2026-08-30",
+    "Prévision pour Liège, dimanche 2026-08-30"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, samedi 29 août",
+   "file": "podcast-daily-2026-08-29-morning-weather-fr-BE.json",
+   "bytes": 4762,
+   "sha256": "7bf47c783b474f45301814fdab89d7e2908d2e08439a03525626f57755dd2ada",
+   "date": "2026-08-29",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, samedi 29 août",
+   "title_en": "Today's weather, Saturday 29 August",
+   "headline_en": "Sunshine, then grey, then rain in the evening",
+   "summary_en": [
+    "Sunshine, then grey, then rain in the evening",
+    "Prévision pour Bruxelles, samedi 2026-08-29"
+   ]
+  },
+  {
+   "id": "fr-BE-Le sept heures, vendredi 28 août",
+   "file": "podcast-daily-2026-08-28-morning-news-fr-BE.json",
+   "bytes": 7818,
+   "sha256": "a907d67b6a6141763f29bd6b43ec3e2d0a1947fed4bf41e1ad58edf862a463e3",
+   "date": "2026-08-28",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, vendredi 28 août",
+   "title_en": "The morning news, Friday 28 August",
+   "headline_en": "A glacier collapse set off a huge flood on the Nepal to Tibet border",
+   "summary_en": [
+    "A glacier collapse set off a huge flood on the Nepal to Tibet border",
+    "A strike is disrupting the Walloon public transport network",
+    "The provisional toll reaches at least 472 dead and more than 1,400 missing"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, vendredi 28 août",
+   "file": "podcast-daily-2026-08-28-morning-weather-fr-BE.json",
+   "bytes": 5505,
+   "sha256": "933a22a81f9e59656ad38d549a11be3a74d4c258c0202a7992de20243c8a7b78",
+   "date": "2026-08-28",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, vendredi 28 août",
+   "title_en": "Today's weather, Friday 28 August",
+   "headline_en": "The IRM has a yellow alert out for two storm episodes",
+   "summary_en": [
+    "The IRM has a yellow alert out for two storm episodes",
+    "Showers and sunny spells, with highs between 19 and 24 degrees"
+   ]
+  },
+  {
+   "id": "fr-BE-Le sept heures, jeudi 27 août",
+   "file": "podcast-daily-2026-08-27-morning-news-fr-BE.json",
+   "bytes": 9538,
+   "sha256": "e1f05115e1abd1d91f92fa50f333dc75f416aa6f1375739a88ba617b1f2cf818",
+   "date": "2026-08-27",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, jeudi 27 août",
+   "title_en": "The morning news, Thursday 27 August",
+   "headline_en": "Mudslides devastate valleys on the Nepal to Tibet border",
+   "summary_en": [
+    "Mudslides devastate valleys on the Nepal to Tibet border",
+    "Reinforcements announced against drug violence in Brussels",
+    "A Letec strike cuts buses in Liege, Verviers and Charleroi"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, jeudi 27 août",
+   "file": "podcast-daily-2026-08-27-morning-weather-fr-BE.json",
+   "bytes": 4853,
+   "sha256": "05c2b176dd97998d7f1ca2c0020c120280ed24e40aa83dacd12a0a66b683323e",
+   "date": "2026-08-27",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, jeudi 27 août",
+   "title_en": "Today's weather, Thursday 27 August",
+   "headline_en": "The IRM puts a yellow storm warning on Belgium from five this afternoon",
+   "summary_en": [
+    "The IRM puts a yellow storm warning on Belgium from five this afternoon",
+    "Prévision pour Bruxelles, jeudi 2026-08-27"
+   ]
+  },
   {
    "id": "fr-BE-Le sept heures, mercredi 26 août",
    "file": "podcast-daily-2026-08-26-morning-news-fr-BE.json",

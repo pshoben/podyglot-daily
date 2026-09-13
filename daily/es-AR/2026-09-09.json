@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-AR",
+ "date": "2026-09-09",
+ "episodes": [
+  {
+   "id": "es-AR-El noticiero de la mañana, miércoles 9 de septiembre",
+   "file": "podcast-daily-2026-09-09-morning-news-es-AR.json",
+   "bytes": 12552,
+   "sha256": "313afcec727f32d2073e2d2a6c4f4e8deac4e130e428263cc32f48bbcd416af2",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El noticiero de la mañana, miércoles 9 de septiembre",
+   "title_en": "The morning news, Wednesday 9 September",
+   "headline_en": "Oil back above 100 dollars after fresh attacks in the Strait of Hormuz",
+   "summary_en": [
+    "Oil back above 100 dollars after fresh attacks in the Strait of Hormuz",
+    "Argentina adds fifteen more companies and individuals to its Malvinas oil proceedings, taking the total to sixty",
+    "Argentina's lower house sits on Wednesday after the opposition secured a quorum on disability and household debt"
+   ]
+  },
+  {
+   "id": "es-AR-El deporte, miércoles 9 de septiembre",
+   "file": "podcast-daily-2026-09-09-morning-sport-es-AR.json",
+   "bytes": 4376,
+   "sha256": "d39859d5d0e6de42f8d80fd9e5e677bca1c36916688b136bc331ef434c192e3f",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El deporte, miércoles 9 de septiembre",
+   "title_en": "Today's sport, Wednesday 9 September",
+   "headline_en": "Football: Champions League matches on Wednesday, with Galatasaray making its debut",
+   "summary_en": [
+    "Football: Champions League matches on Wednesday, with Galatasaray making its debut",
+    "Football: Lionel Messi reaches an agreement in principle to buy a Spanish second-division club"
+   ]
+  },
+  {
+   "id": "es-AR-El pronóstico, miércoles 9 de septiembre",
+   "file": "podcast-daily-2026-09-09-morning-weather-es-AR.json",
+   "bytes": 5979,
+   "sha256": "bcbff5ed8d94b53e5996b95b430c3642f556f67875b861b1e0e4f3f965db1857",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El pronóstico, miércoles 9 de septiembre",
+   "title_en": "Today's weather, Wednesday 9 September",
+   "headline_en": "Argentina's weather service: yellow alert for wind, rain and snow on Wednesday, with a warmer, cloudier day in Buenos Aires",
+   "summary_en": [
+    "Argentina's weather service: yellow alert for wind, rain and snow on Wednesday, with a warmer, cloudier day in Buenos Aires",
+    "Buenos Aires on Wednesday: a high of 18 degrees, a low of 8 and a 26 per cent chance of rain"
+   ]
+  }
+ ],
+ "content": "87b4af42f18bcd5bff652c3e43ce769d0a27524d0c0ee96f91c4e03a914727d0",
+ "rev": 1,
+ "updated": "2026-09-13T09:40:11.429Z"
+}

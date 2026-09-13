@@ -1,0 +1,213 @@
+{
+ "title": "El tiempo, domingo 13 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather",
+   "wpm": 208,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-13",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Según la Agencia Estatal de Meteorología,",
+   "en": "According to the state weather agency,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "hoy hay avisos amarillos por temperaturas máximas en el noroeste y el oeste peninsular.",
+   "en": "there are yellow warnings today for high temperatures in the north-west and west of the peninsula.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cubren zonas de Ourense, Lugo y Pontevedra, la suroccidental asturiana,",
+   "en": "They cover areas of «Ourense», «Lugo» and «Pontevedra», south-western «Asturias»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y en Extremadura el norte de Cáceres,",
+   "en": "and in «Extremadura» the north of «Cáceres»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "las Vegas del Guadiana y Villuercas y Montánchez.",
+   "en": "the «Vegas del Guadiana» and «Villuercas y Montánchez».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La misma agencia mantiene avisos amarillos por viento en el litoral gaditano,",
+   "en": "The same agency has yellow wind warnings out for the «Cádiz» coast,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la campiña gaditana y el Estrecho.",
+   "en": "the «Cádiz» countryside and the Strait.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Madrid el cielo queda despejado durante toda la jornada.",
+   "en": "In «Madrid» the sky stays clear all day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima llega a treinta y dos grados y la mínima baja a diecinueve.",
+   "en": "The high reaches thirty-two degrees and the low drops to nineteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por comunidades, Barcelona también amanece con cielo despejado.",
+   "en": "Region by region, «Barcelona» also wakes up to clear skies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí la máxima se queda en treinta grados, con veinte de mínima.",
+   "en": "There the high stays at thirty degrees, with twenty as the low.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En A Coruña el cielo está igualmente despejado.",
+   "en": "In «A Coruña» the sky is clear as well.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima coruñesa es de veintisiete grados, la más baja de las cuatro,",
+   "en": "The «A Coruña» high is twenty-seven degrees, the lowest of the four,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con quince de mínima.",
+   "en": "with fifteen as the low.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Bilbao la máxima sube a treinta grados.",
+   "en": "In «Bilbao» the high climbs to thirty degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima bilbaína cae a doce grados,",
+   "en": "The «Bilbao» low falls to twelve degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la más fresca del día.",
+   "en": "the coolest of the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí el tiempo.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Sunday 13 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "España",
+ "accent": "Castilla",
+ "accent_label": "acento de Castilla",
+ "segment_order": 0,
+ "headline_en": "AEMET has yellow warnings out for high temperatures in the north-west and the west",
+ "summary_en": [
+  "AEMET has yellow warnings out for high temperatures in the north-west and the west",
+  "Yellow wind warnings cover the Cadiz coast and the Strait"
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-CL",
+ "date": "2026-09-09",
+ "episodes": [
+  {
+   "id": "es-CL-Las noticias de la mañana, miércoles 9 de septiembre",
+   "file": "podcast-daily-2026-09-09-morning-news-es-CL.json",
+   "bytes": 8791,
+   "sha256": "15f61e49450859e9baea25933e7419b1490368e6703e6751a9dec0a4792e6636",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "Las noticias de la mañana, miércoles 9 de septiembre",
+   "title_en": "The morning news, Wednesday 9 September",
+   "headline_en": "Chile's foreign ministry summons the United States ambassador over his claim that US intelligence blames the 2019 unrest on left-wing organisations",
+   "summary_en": [
+    "Chile's foreign ministry summons the United States ambassador over his claim that US intelligence blames the 2019 unrest on left-wing organisations",
+    "Chile's August inflation comes in at 0.6 per cent, above what analysts projected, and the opposition turns on President Kast's economic team",
+    "Chile's electoral court rejects by three votes to two a request to remove Santiago's metropolitan governor Claudio Orrego"
+   ]
+  },
+  {
+   "id": "es-CL-El estado del tiempo, miércoles 9 de septiembre",
+   "file": "podcast-daily-2026-09-09-morning-weather-es-CL.json",
+   "bytes": 4573,
+   "sha256": "fa3f5a6384942fc9c1e9d58c409f7ada7658bae00827fcf0c7b8526eb1aa78d7",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "El estado del tiempo, miércoles 9 de septiembre",
+   "title_en": "Today's weather, Wednesday 9 September",
+   "headline_en": "Cloud over Santiago on Wednesday, a 49 per cent chance of rain and a high of 17 degrees",
+   "summary_en": [
+    "Cloud over Santiago on Wednesday, a 49 per cent chance of rain and a high of 17 degrees",
+    "Cloud over Valparaíso on Wednesday, a 43 per cent chance of rain and a high of 19 degrees"
+   ]
+  }
+ ],
+ "content": "dec42bf8ddf131299371068482658a9059245ff85d76751ed9260ac91d1b061d",
+ "rev": 1,
+ "updated": "2026-09-13T09:40:11.429Z"
+}

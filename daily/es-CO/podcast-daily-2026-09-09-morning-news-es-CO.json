@@ -1,0 +1,550 @@
+{
+ "title": "La actualidad de la mañana, miércoles 9 de septiembre",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-09",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Miércoles nueve de septiembre. La actualidad de la mañana.",
+   "en": "Wednesday the 9th of September. The morning news round-up.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El petróleo vuelve a los tres dígitos",
+   "en": "Oil is back in three figures",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por la escalada bélica entre Estados Unidos e Irán.",
+   "en": "because of the military escalation between the United States and Iran.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en Colombia,",
+   "en": "Here in Colombia,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el presidente Abelardo De La Espriella y el secretario de Estado Marco Rubio",
+   "en": "President «Abelardo De La Espriella» and Secretary of State «Marco Rubio»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pactaron los Acuerdos de Barranquilla.",
+   "en": "have agreed the «Barranquilla» accords.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según La República, el barril de Brent alcanza hoy los cien dólares,",
+   "en": "According to «La República», a barrel of Brent crude reaches 100 dollars today,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por primera vez desde finales de julio.",
+   "en": "for the first time since the end of July.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese diario apunta que el petróleo es uno de los principales focos de inflación.",
+   "en": "That paper points out that oil is one of the main drivers of inflation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Tiempo añadió que Estados Unidos confirmó la destrucción de cinco petroleros iraníes.",
+   "en": "«El Tiempo» added that the United States confirmed the destruction of five Iranian tankers.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ocurrió tras los ataques contra uno de sus buques.",
+   "en": "It came after attacks on one of its own ships.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El secretario de Estado dijo que su país seguirá destruyendo esas embarcaciones.",
+   "en": "The Secretary of State said his country will go on destroying those vessels.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Colombiano precisó que los Acuerdos de Barranquilla se estructuran alrededor de tres objetivos.",
+   "en": "«El Colombiano» said the «Barranquilla» accords are built around three goals.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Son reconstruir la patria, recuperar la economía y blindar el hemisferio.",
+   "en": "They are rebuilding the country, recovering the economy and shielding the hemisphere.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El presidente cifró en veintiséis coma cinco millones de dólares",
+   "en": "The president put United States aid after the August earthquake",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la ayuda estadounidense tras el terremoto de agosto.",
+   "en": "at 26.5 million dollars.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También le planteó a Rubio la posibilidad de que Estados Unidos",
+   "en": "He also raised with «Rubio» the possibility of the United States",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "vuelva a abrir un consulado en Barranquilla.",
+   "en": "reopening a consulate in «Barranquilla».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Tiempo recogió el anuncio de Rubio de una nueva etapa de cooperación",
+   "en": "«El Tiempo» carried «Rubio»'s announcement of a new stage of cooperation",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "entre los dos países.",
+   "en": "between the two countries.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El secretario de Estado afirmó que la seguridad",
+   "en": "The Secretary of State said security",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "será uno de los pilares de ese entendimiento.",
+   "en": "will be one of the pillars of that understanding.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y aseguró que una eventual discusión sobre bases en Colombia",
+   "en": "And he said any eventual discussion of bases in Colombia",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "debe partir del respeto pleno a la soberanía.",
+   "en": "must start from full respect for sovereignty.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Semana señaló que Venezuela, la frontera,",
+   "en": "«Semana» noted that Venezuela, the border,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "los bombardeos y el Eln fueron puntos fundamentales de la cita.",
+   "en": "the bombings and the «Eln» were fundamental points of the meeting.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En otras noticias, El Tiempo informó que el Gobierno aclaró",
+   "en": "In other news, «El Tiempo» reported that the government has set out",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "las condiciones del decreto sobre armas de fuego.",
+   "en": "the conditions of the decree on firearms.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El vocero presidencial recalcó que el monopolio de las armas",
+   "en": "The presidential spokesman stressed that the monopoly on weapons",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "continúa de forma exclusiva en manos del Estado.",
+   "en": "stays exclusively in the hands of the State.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Colombiano explicó que el decreto levanta la suspensión general del porte de armas",
+   "en": "«El Colombiano» explained that the decree lifts the general suspension on carrying firearms",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en todo el territorio nacional.",
+   "en": "across the whole country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese mismo diario contó que la página de Indumil colapsó",
+   "en": "The same paper said «Indumil»'s website went down",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tras la publicación de la norma.",
+   "en": "after the rule was published.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de asunto, el Metro de Medellín opera de manera parcial esta mañana.",
+   "en": "Moving on, the «Medellín» metro is running only partly this morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Tiempo reportó que siete estaciones de la Línea A están sin servicio este miércoles.",
+   "en": "«El Tiempo» reported that seven stations on Line A are out of service this Wednesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Colombiano atribuyó esa falla a un inconveniente técnico con un vehículo auxiliar.",
+   "en": "«El Colombiano» put that fault down to a technical problem with an auxiliary vehicle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otro tema del día, de acuerdo con La República,",
+   "en": "Turning to something else, according to «La República»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Colombia se estanca en lectura y matemáticas en las pruebas Pisa.",
+   "en": "Colombia has stalled in reading and mathematics in the Pisa tests.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Al menos siete de cada diez estudiantes colombianos no alcanzan el nivel mínimo en matemáticas.",
+   "en": "At least seven in 10 Colombian pupils do not reach the minimum level in mathematics.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Colombiano situó el puntaje del país",
+   "en": "«El Colombiano» put the country's score",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en trescientos ochenta y uno en matemáticas y en trescientos noventa y nueve en lectura.",
+   "en": "at 381 points in mathematics and 399 in reading.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese informe de la Ocde evalúa a estudiantes de quince años",
+   "en": "That OECD report assesses 15-year-olds",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en noventa y un países.",
+   "en": "in 91 countries.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para finalizar, las aseguradoras estiman en tres coma siete billones de pesos",
+   "en": "And finally, insurers estimate 3.7 trillion pesos",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "las indemnizaciones por el terremoto de agosto.",
+   "en": "in compensation for the August earthquake.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Colombiano informó que las compañías ya desembolsaron",
+   "en": "«El Colombiano» reported that the companies",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "noventa y cinco mil setenta y seis millones de pesos.",
+   "en": "have already paid out 95,076 million pesos.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese dinero llega directamente a los asegurados y contribuye a reparar viviendas, comercios y copropiedades.",
+   "en": "That money is reaching policyholders directly and helping to repair homes, businesses and jointly owned property.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La República precisó que la mayoría de las reclamaciones",
+   "en": "«La República» said most of the claims",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "se concentra en el Valle del Cauca y en Risaralda.",
+   "en": "are concentrated in «Valle del Cauca» and «Risaralda».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo más importante.",
+   "en": "That is what matters most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Wednesday 9 September",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "Brent crude back in three figures as the United States and Iran escalate, after Washington confirms five Iranian tankers destroyed",
+ "summary_en": [
+  "Brent crude back in three figures as the United States and Iran escalate, after Washington confirms five Iranian tankers destroyed",
+  "De La Espriella and Marco Rubio agree the Barranquilla Accords, and a new stage of cooperation",
+  "Government says lifting the gun-carry suspension is not free carry, and Indumil's website crashes"
+ ]
+}

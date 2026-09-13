@@ -1,0 +1,290 @@
+{
+ "title": "Le sept heures, dimanche 13 septembre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-news",
+   "wpm": 222,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-13",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Dimanche treize septembre. Le sept heures.",
+   "en": "Sunday the thirteenth of September. The seven o'clock news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Suède, les bureaux de vote ont ouvert pour des législatives à suspense.",
+   "en": "In Sweden, polling stations have opened for an election on a knife edge.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et un drone a été détecté pour le deuxième soir consécutif au-dessus de Brussels Airport.",
+   "en": "And a drone was picked up over «Brussels Airport» for a second evening running.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On ouvre avec la Suède, où le scrutin peut ramener la gauche au pouvoir.",
+   "en": "We open with Sweden, where the vote could bring the left back to power.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il peut aussi faire entrer l'extrême droite au gouvernement.",
+   "en": "It could also take the far right into government.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La campagne a été haletante et s'est resserrée dans les tout derniers jours.",
+   "en": "The campaign has been breathless and tightened in the final few days.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Chez nous, le drone a survolé l'aéroport de Bruxelles-Zaventem sans perturber le trafic.",
+   "en": "Here at home, the drone flew over the «Bruxelles-Zaventem» airport without disrupting traffic.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le contrôleur aérien a constaté sa présence de visu et sur ses systèmes numériques.",
+   "en": "The air traffic controller saw it by eye and on the digital systems.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cette fois-ci, l'appareil a également été repéré par les équipements.",
+   "en": "This time the aircraft was picked up by the equipment as well.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'agence responsable du contrôle aérien, Skeyes, a confirmé l'incident.",
+   "en": "The air traffic agency, «Skeyes», confirmed the incident.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ailleurs dans l'actu, la joueuse de tennis ukrainienne Dayana Yastremska a annoncé samedi que son",
+   "en": "In other news, the Ukrainian tennis player «Dayana Yastremska» said on Saturday that her flat",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "appartement d'Odessa avait été détruit.",
+   "en": "in «Odessa» had been destroyed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'immeuble où vivait sa famille a été ravagé par un missile russe.",
+   "en": "The building where her family lived was wrecked by a Russian missile.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle a publié des photos et une vidéo du bâtiment.",
+   "en": "She published photographs and a video of the block.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On enchaîne, Elena Rybakina a remporté samedi l'US Open de tennis.",
+   "en": "Moving on, «Elena Rybakina» won the US Open on Saturday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle a écarté en finale Aryna Sabalenka, six-quatre, cinq-sept, six-deux.",
+   "en": "She beat «Aryna Sabalenka» in the final, six four, five seven, six two.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Kazakhstanaise s'était déjà assuré la place de numéro un mondiale à l'issue du tournoi.",
+   "en": "The Kazakh player had already secured the world number one place at the end of the tournament.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre dossier maintenant, le Belge Diego Moreira a inscrit un doublé en deux minutes",
+   "en": "Turning to something else, the Belgian «Diego Moreira» scored twice in two minutes",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour l'AC Milan.",
+   "en": "for «AC Milan».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Monté au jeu,",
+   "en": "Sent on as a substitute,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "il a arraché le partage deux à deux sur le terrain de la Lazio, samedi.",
+   "en": "he earned a two all draw away at «Lazio» on Saturday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'était la quatrième journée de Serie A.",
+   "en": "It was the fourth round of «Serie A».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour terminer, Céline Dion a donné son premier concert parisien après six ans d'absence.",
+   "en": "And finally, «Céline Dion» gave her first Paris concert after six years away.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle a dit au public qu'elle allait bien.",
+   "en": "She told the audience she was well.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle a ajouté qu'elle avait appris à vivre avec cette fragilité.",
+   "en": "She added that she had learned to live with that fragility.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà où nous en sommes.",
+   "en": "That is where things stand.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Sunday 13 September",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Polling stations are open in Sweden for a knife-edge election",
+ "summary_en": [
+  "Polling stations are open in Sweden for a knife-edge election",
+  "A drone was spotted over Brussels Airport for a second evening running",
+  "The controller saw the drone both by eye and on the systems"
+ ]
+}

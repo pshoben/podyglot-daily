@@ -1,0 +1,199 @@
+{
+ "title": "Le sport, dimanche 13 septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-13",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le sport de ce dimanche.",
+   "en": "The sport this Sunday.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'équipe de France féminine de basket dispute ce soir la finale de la",
+   "en": "The France women's basketball team play the World Cup",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Coupe du monde.",
+   "en": "final tonight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est la première finale mondiale de son histoire.",
+   "en": "It is the first world final in the team's history.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle affronte les États-Unis, tenants du titre et champions olympiques.",
+   "en": "They face the United States, who hold the title and the Olympic gold.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le match se joue à Berlin, à vingt heures.",
+   "en": "The match is in «Berlin», at eight in the evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Ligue 1, la quatrième journée se poursuit ce dimanche.",
+   "en": "In «Ligue 1», the fourth round of matches continues this Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Mans reçoit Lens au stade Marie-Marvingt, à dix-sept heures quinze.",
+   "en": "«Le Mans» host «Lens» at the «stade Marie-Marvingt», at quarter past five.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Stade brestois accueille ensuite le Paris Saint-Germain à Francis-Le Blé, à vingt heures quarante-cinq.",
+   "en": "«Stade brestois» then welcome «Paris Saint-Germain» to «Francis-Le Blé», at a quarter to nine.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cette rencontre clôture la journée.",
+   "en": "That match closes the round.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au championnat d'Europe de volley,",
+   "en": "At the volleyball European championship,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "l'équipe de France masculine affronte la Lettonie.",
+   "en": "the France men's team face «Latvia».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est son troisième match de poule, ce dimanche treize septembre.",
+   "en": "It is their third group match, this Sunday the thirteenth of September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Tour d'Espagne se termine enfin ce dimanche,",
+   "en": "The «Vuelta» finally ends this Sunday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans les rues de Grenade.",
+   "en": "in the streets of «Grenade».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La vingt et unième et dernière étape ne fait que cent douze kilomètres.",
+   "en": "The twenty-first and last stage is only a hundred and twelve kilometres.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Sunday 13 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "France meet the United States in the basketball World Cup final tonight",
+ "summary_en": [
+  "France meet the United States in the basketball World Cup final tonight",
+  "Le Mans meet Lens in the fourth round of Ligue 1"
+ ]
+}

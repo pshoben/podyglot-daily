@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-BE",
+ "date": "2026-09-13",
+ "episodes": [
+  {
+   "id": "fr-BE-Le sept heures, dimanche 13 septembre",
+   "file": "podcast-daily-2026-09-13-morning-news-fr-BE.json",
+   "bytes": 7674,
+   "sha256": "23c6aedab1ebe2de0d468894064512eb5d33b7c1171c28905a8c7937803d1a29",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, dimanche 13 septembre",
+   "title_en": "The morning news, Sunday 13 September",
+   "headline_en": "Polling stations are open in Sweden for a knife-edge election",
+   "summary_en": [
+    "Polling stations are open in Sweden for a knife-edge election",
+    "A drone was spotted over Brussels Airport for a second evening running",
+    "The controller saw the drone both by eye and on the systems"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, dimanche 13 septembre",
+   "file": "podcast-daily-2026-09-13-morning-weather-fr-BE.json",
+   "bytes": 4845,
+   "sha256": "12e0eed15398f042b5fa3229990c35304b2bcdb25d9a64914cd0da6fb15333a4",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, dimanche 13 septembre",
+   "title_en": "Today's weather, Sunday 13 September",
+   "headline_en": "Sunday forecast for Bruxelles, 13th September",
+   "summary_en": [
+    "Sunday forecast for Bruxelles, 13th September",
+    "Sunday forecast for Namur, 13th September"
+   ]
+  }
+ ],
+ "content": "e203550dd5af4c147ebc2066fb465b0f358dd2a640dd17154407a1ab114ac3c3",
+ "rev": 1,
+ "updated": "2026-09-13T09:40:11.429Z"
+}

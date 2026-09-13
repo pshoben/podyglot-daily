@@ -1,0 +1,53 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-BE",
+ "date": "2026-08-30",
+ "episodes": [
+  {
+   "id": "fr-BE-Le sept heures, dimanche 30 août",
+   "file": "podcast-daily-2026-08-30-morning-news-fr-BE.json",
+   "bytes": 9464,
+   "sha256": "f37f279a28c333dfec22c2361f3f16c1c88ea81120f213ef251b35feeb41eb93",
+   "date": "2026-08-30",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, dimanche 30 août",
+   "title_en": "The morning news, Sunday 30 August",
+   "headline_en": "Rising water is hampering the rescue after the Himalayan floods",
+   "summary_en": [
+    "Rising water is hampering the rescue after the Himalayan floods",
+    "Foreign firefighters are back in the Fagnes as the fire picks up again",
+    "Provisional tolls put the dead at between 734 and 750"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, dimanche 30 août",
+   "file": "podcast-daily-2026-08-30-morning-weather-fr-BE.json",
+   "bytes": 5224,
+   "sha256": "7f82879075a846c356c7590708a6082a7d01352a1f68aa55b7814a47a4d4b785",
+   "date": "2026-08-30",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, dimanche 30 août",
+   "title_en": "Today's weather, Sunday 30 August",
+   "headline_en": "Prévision pour Bruxelles, dimanche 2026-08-30",
+   "summary_en": [
+    "Prévision pour Bruxelles, dimanche 2026-08-30",
+    "Prévision pour Liège, dimanche 2026-08-30"
+   ]
+  }
+ ],
+ "content": "df05b78c7e1963e53bbe7eb45a501ea101f3608f12508a333273d7d6ab431fae",
+ "rev": 2,
+ "updated": "2026-08-30T11:57:18.798Z",
+ "archived": true
+}

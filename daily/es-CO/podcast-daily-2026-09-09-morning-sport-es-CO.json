@@ -1,0 +1,179 @@
+{
+ "title": "La jornada deportiva, miércoles 9 de septiembre",
+ "dialect": "es-CO",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CO-daily-sport",
+   "wpm": 195,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-09",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Hoy se enfrentan el Deportivo Pasto y el Independiente Medellín en la Copa BetPlay.",
+   "en": "Today «Deportivo Pasto» and «Independiente Medellín» meet in the «Copa BetPlay».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según El Colombiano, el partido arranca a las ocho y diez de la noche.",
+   "en": "According to «El Colombiano», the match kicks off at ten past eight in the evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se juega a eliminación directa,",
+   "en": "It is played as a straight knockout,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el estadio La Libertad,",
+   "en": "at the «La Libertad» stadium,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con transmisión de Win Sports Plus.",
+   "en": "shown on «Win Sports Plus».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El técnico Amaranto Perea recupera a Alexis Serna y a Frank Fabra para ese encuentro.",
+   "en": "The coach «Amaranto Perea» has «Alexis Serna» and «Frank Fabra» available again for that match.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El atacante Juan José Córdoba sigue por fuera de la convocatoria.",
+   "en": "The forward «Juan José Córdoba» is still out of the squad.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Semana informó que el vuelo del equipo hacia Pasto tuvo problemas, con aterrizajes fallidos.",
+   "en": "«Semana» reported that the team's flight to «Pasto» ran into trouble, with failed landings.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la Champions League, el Sporting de Lisboa recibe hoy al Galatasaray",
+   "en": "In the Champions League, «Sporting» of Lisbon host «Galatasaray» today",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el estadio José Alvalade.",
+   "en": "at the «José Alvalade» stadium.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es un duelo entre colombianos:",
+   "en": "There is a Colombian on each side:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Luis Javier Suárez juega en el Sporting y Dávinson Sánchez, en el club turco.",
+   "en": "«Luis Javier Suárez» plays for «Sporting» and «Dávinson Sánchez» for the Turkish club.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Colombiano contó que el partido se podrá seguir por ESPN y por Disney Plus.",
+   "en": "«El Colombiano» said the match can be followed on «ESPN» and «Disney Plus».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Rui Borges, entrenador del Sporting, salió en defensa de Suárez en la previa del compromiso.",
+   "en": "«Sporting»'s coach «Rui Borges» stood up for «Suárez» in the build-up.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esa es la jornada.",
+   "en": "That is the day in sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Wednesday 9 September",
+ "edition": "morning",
+ "region": "es-CO",
+ "region_label": "Colombia",
+ "headline_en": "Deportivo Pasto host Independiente Medellin tonight in the Copa BetPlay",
+ "summary_en": [
+  "Deportivo Pasto host Independiente Medellin tonight in the Copa BetPlay",
+  "Sporting Lisbon host Galatasaray in the Champions League, with a Colombian on each side"
+ ]
+}

@@ -1,0 +1,310 @@
+{
+ "title": "Le bulletin du matin, mercredi 9 septembre",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-news",
+   "wpm": 185,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-09",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Mercredi neuf septembre, sept heures. Le bulletin du matin.",
+   "en": "Wednesday the ninth of September, seven o'clock. The morning bulletin.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Iran dit avoir attaqué en réponse à des frappes américaines contre ses pétroliers.",
+   "en": "Iran says it attacked in response to American strikes on its tankers.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et Donald Trump ne se contente plus des droits de douane contre le Canada.",
+   "en": "And «Donald Trump» is no longer content with tariffs alone against Canada.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On débute avec l'Iran, et cette réponse annoncée mercredi par les Gardiens de la Révolution.",
+   "en": "We start with Iran, and that response announced on Wednesday by the Revolutionary Guards.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon La Presse, ils disent avoir attaqué une base militaire des États-Unis en Jordanie.",
+   "en": "According to «La Presse», they say they attacked a United States military base in Jordan.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Une vingtaine de bateaux auraient aussi été attaqués dans le Golfe.",
+   "en": "Around twenty boats are also said to have been attacked in the Gulf.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Téhéran a par ailleurs affirmé avoir capturé la veille un drone sous-marin américain.",
+   "en": "Tehran also said it had captured an American underwater drone the day before.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'était à l'entrée du détroit d'Ormuz.",
+   "en": "It was at the entrance to the Strait of Hormuz.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'après Le Devoir, l'Iran le présente comme l'un des plus modernes de l'armée américaine.",
+   "en": "«Le Devoir» reports that Iran presents it as one of the most modern in the American military.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans l'actualité d'ici, une nouvelle escalade dans la guerre commerciale avec les États-Unis.",
+   "en": "In the news here, a fresh escalation in the trade war with the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Radio-Canada a indiqué que Donald Trump a notamment interdit l'importation de certains produits canadiens.",
+   "en": "«Radio-Canada» said «Donald Trump» has banned imports of certain Canadian products, among other measures.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon Le Soleil, le secteur forestier québécois",
+   "en": "According to «Le Soleil», the «Québec» forestry sector",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "est frappé de plein fouet par la guerre tarifaire.",
+   "en": "is taking the full force of the tariff war.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il est aussi fragilisé par un régime dépassé,",
+   "en": "It is also weakened by outdated rules,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et ne peut plus se permettre d'attendre.",
+   "en": "and can no longer afford to wait.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On poursuit, en Allemagne, où l'extrême droite a percé aux élections régionales.",
+   "en": "Moving on, in Germany, where the far right broke through at the regional elections.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Presse rapporte que le chancelier Friedrich Merz a tenté mercredi de reprendre la main.",
+   "en": "«La Presse» reports that Chancellor «Friedrich Merz» tried on Wednesday to regain the initiative.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il accuse l'AfD de promouvoir un nettoyage ethnique.",
+   "en": "He accuses the «AfD» of promoting ethnic cleansing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre nouvelle maintenant, un rapport de l'Observatoire des tout-petits.",
+   "en": "In other news, a report from the «Observatoire des tout-petits».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il démontre avec plusieurs indicateurs",
+   "en": "On several measures, it shows",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qu'investir dans la petite enfance évite des coûts publics plus élevés à long terme.",
+   "en": "that investing in early childhood avoids higher public costs in the long term.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Devoir ajoute que chaque dollar investi",
+   "en": "«Le Devoir» adds that every dollar invested",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "générerait de deux à quatre fois plus de gains économiques.",
+   "en": "would generate two to four times more in economic gains.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En terminant, la première mondiale du documentaire Un renversement a lieu ce mercredi.",
+   "en": "And finally, the world premiere of the documentary «Un renversement» takes place this Wednesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Soleil précise que des politiciennes de différents partis sont attendues",
+   "en": "«Le Soleil» notes that women politicians from different parties are expected",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "au Festival de cinéma de la Ville de Québec.",
+   "en": "at the «Festival de cinéma de la Ville de Québec».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Journal de Montréal signale que des politiciennes témoignent de la réalité des femmes en politique dans le documentaire.",
+   "en": "«Le Journal de Montréal» writes that women politicians in the documentary talk about the reality of women in politics.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est le portrait du jour.",
+   "en": "That is the picture of the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Wednesday 9 September",
+ "edition": "morning",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "Iran's Revolutionary Guards say they struck an American base in Jordan and some twenty boats in the Gulf",
+ "summary_en": [
+  "Iran's Revolutionary Guards say they struck an American base in Jordan and some twenty boats in the Gulf",
+  "The Canada-United States trade war steps up a notch as Trump bars imports of some Canadian goods",
+  "Iran says it captured one of the American military's most modern underwater drones at the entrance to the Strait of Hormuz"
+ ]
+}

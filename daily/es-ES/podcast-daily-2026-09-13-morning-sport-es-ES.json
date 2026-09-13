@@ -1,0 +1,159 @@
+{
+ "title": "Los deportes, domingo 13 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-sport",
+   "wpm": 208,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-13",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Los deportes de este domingo.",
+   "en": "This Sunday's sport.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En LaLiga, el Celta recibe hoy al Málaga en Balaídos.",
+   "en": "In «LaLiga», «Celta» host «Málaga» today at «Balaídos».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según Marca, gallegos y andaluces aún no han ganado esta temporada.",
+   "en": "According to «Marca», the «Galicians» and the «Andalusians» have not won yet this season.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los dos buscan por tanto su primer triunfo del curso.",
+   "en": "Both are after their first victory of the campaign.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El encuentro de Balaídos empieza a las dos de la tarde.",
+   "en": "The match at «Balaídos» starts at two in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Más tarde, el Deportivo visita al Getafe en el Coliseum,",
+   "en": "Later, «Deportivo» visit «Getafe» at the «Coliseum»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a las seis y media de la tarde.",
+   "en": "at half past six in the evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Deportivo vuelve esta temporada a la máxima categoría.",
+   "en": "«Deportivo» are back in the top flight this season.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Marca advierte que el Getafe es un conjunto siempre complicado en su estadio.",
+   "en": "«Marca» warns that «Getafe» are always an awkward side at their own ground.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También hoy, la Real Sociedad recibe al Atlético de Madrid en San Sebastián.",
+   "en": "Also today, «Real Sociedad» host «Atlético de Madrid» in «San Sebastián».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El conjunto rojiblanco viaja al norte del país para ese partido de la jornada.",
+   "en": "The «Madrid» side travel to the north of the country for that fixture.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Tres partidos, por tanto, en nuestro repaso de este domingo.",
+   "en": "Three matches, then, in our rundown for this Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es el deporte.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Sunday 13 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Celta host Malaga at Balaidos",
+ "summary_en": [
+  "Celta host Malaga at Balaidos",
+  "Deportivo visit Getafe at half past six"
+ ]
+}

@@ -1,0 +1,112 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-ES",
+ "date": "2026-09-13",
+ "episodes": [
+  {
+   "id": "es-ES-El informativo de la mañana, domingo 13 de septiembre",
+   "file": "podcast-daily-2026-09-13-morning-news-es-ES.json",
+   "bytes": 7155,
+   "sha256": "491ad0f6bdfe351f7df13aeb7669d35d91b3d60757eafeeeb5480bfe326839bd",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, domingo 13 de septiembre",
+   "title_en": "The morning news, Sunday 13 September",
+   "headline_en": "Rybakina takes the US Open and the world number one place",
+   "summary_en": [
+    "Rybakina takes the US Open and the world number one place",
+    "Eight hundred and sixty-four migrants are moved to new reception places in Ceuta",
+    "The government has opened more than eight hundred new reception places"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, domingo 13 de septiembre",
+   "file": "podcast-daily-2026-09-13-morning-sport-es-ES.json",
+   "bytes": 3893,
+   "sha256": "aa553f7ad5eee67073234271210591076085468c046918752419ac62fe0dbe31",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, domingo 13 de septiembre",
+   "title_en": "Today's sport, Sunday 13 September",
+   "headline_en": "Celta host Malaga at Balaidos",
+   "summary_en": [
+    "Celta host Malaga at Balaidos",
+    "Deportivo visit Getafe at half past six"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, domingo 13 de septiembre",
+   "file": "podcast-daily-2026-09-13-morning-weather-es-ES.json",
+   "bytes": 5248,
+   "sha256": "706b76cd13b49c29fe8dd6cbe065aee79ab9231f64363d33e60cedec9f2fec5e",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, domingo 13 de septiembre",
+   "title_en": "Today's weather, Sunday 13 September",
+   "headline_en": "AEMET has yellow warnings out for high temperatures in the north-west and the west",
+   "summary_en": [
+    "AEMET has yellow warnings out for high temperatures in the north-west and the west",
+    "Yellow wind warnings cover the Cadiz coast and the Strait"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, domingo 13 de septiembre",
+   "file": "podcast-daily-2026-09-13-morning-weather-andalucia-es-ES.json",
+   "bytes": 3652,
+   "sha256": "145e6e11aef8663a199bac08022158bb3cb650d77c015702eb3569177d3dfe3c",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, domingo 13 de septiembre",
+   "title_en": "Today's weather, Andalusia, Sunday 13 September",
+   "headline_en": "Sunday AEMET forecast for Sevilla, 13th September",
+   "summary_en": [
+    "Sunday AEMET forecast for Sevilla, 13th September",
+    "Sunday AEMET forecast for Córdoba, 13th September"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, domingo 13 de septiembre",
+   "file": "podcast-daily-2026-09-13-morning-weather-canarias-es-ES.json",
+   "bytes": 3687,
+   "sha256": "5f2cbfbdd1311765f7970e7e66db13bbdcffcb4f0c941a45f12fafefd009126e",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, domingo 13 de septiembre",
+   "title_en": "Today's weather, Canary Islands, Sunday 13 September",
+   "headline_en": "Sunday AEMET forecast for Las Palmas de Gran Canaria, 13th September",
+   "summary_en": [
+    "Sunday AEMET forecast for Las Palmas de Gran Canaria, 13th September",
+    "Sunday AEMET forecast for Santa Cruz de Tenerife, 13th September"
+   ]
+  }
+ ],
+ "content": "905d8e34b7c2473e068e6f83a6bbd5e458ab1802545a39ce9b99471d81b9e581",
+ "rev": 1,
+ "updated": "2026-09-13T09:40:11.429Z"
+}

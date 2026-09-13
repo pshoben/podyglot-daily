@@ -1,0 +1,280 @@
+{
+ "title": "El informativo de la mañana, domingo 13 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-news",
+   "wpm": 208,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-13",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Domingo trece de septiembre, siete de la mañana.",
+   "en": "Sunday the thirteenth of September, seven in the morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El informativo de la mañana.",
+   "en": "The morning bulletin.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elena Rybakina se lleva el US Open",
+   "en": "«Elena Rybakina» takes the US Open",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y le arrebata el número uno del mundo a Aryna Sabalenka.",
+   "en": "and the world number one place from «Aryna Sabalenka».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y la policía traslada a ochocientos sesenta",
+   "en": "And police move eight hundred",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y cuatro migrantes a una nueva instalación en Ceuta.",
+   "en": "and sixty-four migrants to a new facility in «Ceuta».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Abrimos con Nueva York, donde Rybakina levantó su primer título del US Open.",
+   "en": "We open in New York, where «Rybakina» lifted her first US Open title.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se impuso en la final a la bielorrusa Aryna Sabalenka.",
+   "en": "She beat the Belarusian «Aryna Sabalenka» in the final.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Con ese triunfo le quita también la primera posición del ranking mundial.",
+   "en": "That win also takes the top place in the world rankings off her.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en España, el traslado se hizo a primera hora en Ceuta.",
+   "en": "Here in Spain, the move was carried out first thing in «Ceuta».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Afecta a ochocientos sesenta y cuatro hombres que permanecían a la intemperie",
+   "en": "It covers eight hundred and sixty-four men who had been sleeping in the open",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el embolsamiento de Loma Colmenar.",
+   "en": "at the «Loma Colmenar» holding area.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Gobierno habilitó más de ochocientas nuevas plazas de acogida en la ciudad.",
+   "en": "The government has opened more than eight hundred new reception places in the city.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El operativo lo coordinó sobre el terreno la ministra Elma Saiz.",
+   "en": "The operation was coordinated on the ground by the minister «Elma Saiz».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las autoridades describen la actuación como una operación humanitaria.",
+   "en": "The authorities describe it as a humanitarian operation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el resto de la actualidad, según El Mundo, el director de la inteligencia interior",
+   "en": "In other news, according to «El Mundo», the head of Morocco's internal intelligence",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la policía marroquíes, Abdellatif Hammouchi, recibió el aviso del CNI.",
+   "en": "and police, «Abdellatif Hammouchi», received the «CNI» warning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según ese mismo diario, podría haber reforzado la frontera con sus agentes.",
+   "en": "According to that same paper, he could have reinforced the border with his own officers.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El País informa de que la central del CNI en Madrid instó al jefe del",
+   "en": "«El País» reports that the «CNI» headquarters in Madrid urged its chief",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "servicio en Ceuta antes del asalto a la valla.",
+   "en": "in «Ceuta» before the assault on the fence.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de tema, un joven de veinticuatro años murió",
+   "en": "Moving on, a man of twenty-four died",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y otro resultó herido grave tras una agresión con arma blanca en Parla.",
+   "en": "and another was seriously hurt in a knife attack in «Parla».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El suceso ocurrió a las seis y media de la mañana.",
+   "en": "It happened at half past six in the morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Policía Nacional investiga las causas.",
+   "en": "The national police are investigating the causes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí lo esencial.",
+   "en": "That is the essential news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Sunday 13 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Rybakina takes the US Open and the world number one place",
+ "summary_en": [
+  "Rybakina takes the US Open and the world number one place",
+  "Eight hundred and sixty-four migrants are moved to new reception places in Ceuta",
+  "The government has opened more than eight hundred new reception places"
+ ]
+}

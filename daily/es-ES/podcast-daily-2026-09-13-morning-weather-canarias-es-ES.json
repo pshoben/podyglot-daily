@@ -1,0 +1,143 @@
+{
+ "title": "El tiempo en Canarias, domingo 13 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-canarias",
+   "wpm": 208,
+   "rate_multiplier": 0.86,
+   "pitch_multiplier": 0.59
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-canarias",
+ "date": "2026-09-13",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "En las islas el cielo se reparte hoy, según la Aemet.",
+   "en": "On the islands the sky is split today, according to «Aemet».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Las Palmas de Gran Canaria la máxima es de veintiocho grados,",
+   "en": "In «Las Palmas de Gran Canaria» the high is twenty-eight degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la mínima, veinticuatro.",
+   "en": "and the low twenty-four.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí el cielo queda poco nuboso a lo largo del día.",
+   "en": "There the sky stays lightly clouded through the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Santa Cruz de Tenerife el termómetro sube más, hasta los treinta y dos grados.",
+   "en": "In «Santa Cruz de Tenerife» the thermometer climbs higher, to thirty-two degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima tinerfeña se queda también en veinticuatro grados.",
+   "en": "The «Tenerife» low also stays at twenty-four degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ahí el cielo está despejado de madrugada y durante toda la jornada.",
+   "en": "There the sky is clear from before dawn and right through the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento sopla del norte a veinticinco kilómetros por hora en Las Palmas.",
+   "en": "The wind blows from the north at twenty-five kilometres an hour in «Las Palmas».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Santa Cruz es de levante y se queda en diez kilómetros por hora.",
+   "en": "In «Santa Cruz» it is an easterly and stays at ten kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de precipitación es nula en las dos islas.",
+   "en": "The chance of rain is nil on both islands.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es Canarias.",
+   "en": "That is «Canarias».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 4,
+ "handover": "junction",
+ "title_en": "Today's weather, Canary Islands, Sunday 13 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Canarias",
+ "accent": "Canarias",
+ "accent_label": "acento de Canarias",
+ "segment_order": 2,
+ "headline_en": "Sunday AEMET forecast for Las Palmas de Gran Canaria, 13th September",
+ "summary_en": [
+  "Sunday AEMET forecast for Las Palmas de Gran Canaria, 13th September",
+  "Sunday AEMET forecast for Santa Cruz de Tenerife, 13th September"
+ ]
+}

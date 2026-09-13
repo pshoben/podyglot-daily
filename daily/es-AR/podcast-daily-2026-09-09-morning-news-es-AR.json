@@ -1,0 +1,480 @@
+{
+ "title": "El noticiero de la mañana, miércoles 9 de septiembre",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-news",
+   "wpm": 195,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-09",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Miércoles nueve de septiembre, siete de la mañana.",
+   "en": "Wednesday the ninth of September, seven in the morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El noticiero de la mañana.",
+   "en": "The morning news programme.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El petróleo volvió a superar los cien dólares",
+   "en": "Oil has gone back above a hundred dollars",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tras nuevos ataques en el estrecho de Ormuz.",
+   "en": "after fresh attacks in the Strait of Hormuz.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el Gobierno sumó otras quince empresas y personas a los procesos por las Malvinas.",
+   "en": "And the government has added fifteen more companies and people to its proceedings over the «Malvinas».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empezamos por Irán, que según Ámbito atacó una base estadounidense en Jordania.",
+   "en": "We start in Iran, which «Ámbito» says attacked a United States base in Jordan.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El mismo diario contó que atacó diez buques cerca de Ormuz.",
+   "en": "The same paper said it attacked ten vessels near Hormuz.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y que los hutíes profundizaron su ofensiva contra Arabia Saudita.",
+   "en": "And that the Houthis deepened their offensive against Saudi Arabia.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El crudo Brent sube ante el recrudecimiento de las tensiones en Medio Oriente.",
+   "en": "Brent crude is rising as tensions in the Middle East intensify.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Perfil informó que los ataques en el Golfo pusieron al mercado en alerta.",
+   "en": "«Perfil» reported that the attacks in the Gulf put the market on alert.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Preocupan las posibles interrupciones en el suministro.",
+   "en": "There are worries about possible interruptions to supply.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los analistas advierten sobre una suba persistente del crudo.",
+   "en": "Analysts are warning about a sustained rise in crude.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Podría complicar la pelea de los bancos centrales contra la inflación.",
+   "en": "It could complicate the central banks' fight against inflation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Acá en la Argentina, esos procesos se suman a otros cuarenta y cinco ya iniciados.",
+   "en": "Here in Argentina, those proceedings add to another forty-five already opened.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De acuerdo con Perfil, el dato salió de la Oficina del Presidente.",
+   "en": "According to «Perfil», the figure came from the President's Office.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ya se cuentan sesenta personas humanas y jurídicas.",
+   "en": "The count now stands at sixty individuals and companies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Todas están involucradas en actividades en la plataforma continental de las islas.",
+   "en": "All of them are involved in activity on the islands' continental shelf.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Nación detalló que los ministros Quirno y Presti se sumaron a la mesa política.",
+   "en": "«La Nación» reported that the ministers «Quirno» and «Presti» have joined the political round table.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ambos viajarán este viernes a Tierra del Fuego,",
+   "en": "Both will travel on Friday to «Tierra del Fuego»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por la construcción de la base militar.",
+   "en": "over the building of the military base.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Clarín agregó que en la Presidencia preparan un viaje del Presidente a Londres.",
+   "en": "«Clarín» added that the Presidency is preparing a trip to London for the President.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo invitaron a dar una charla para fines de octubre.",
+   "en": "He was invited to give a talk at the end of October.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También en la agenda, la Cámara de Diputados sesiona hoy desde el mediodía.",
+   "en": "Also on the agenda, the lower house sits today from midday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Perfil precisó que la oposición se aseguró el quórum para emplazar a las comisiones.",
+   "en": "«Perfil» spelled out that the opposition secured the quorum to set the committees a deadline.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esas comisiones deben tratar la prórroga de la Emergencia en Discapacidad.",
+   "en": "Those committees have to handle the extension of the disability emergency.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y casi cincuenta proyectos sobre sobreendeudamiento familiar.",
+   "en": "And nearly fifty bills on household over-indebtedness.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Nación señaló que el bloque libertario definió habilitar el debate",
+   "en": "«La Nación» noted that the libertarian bloc decided to allow the debate",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en una reunión de último momento.",
+   "en": "in a last-minute meeting.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Busca no perder el control de la agenda política.",
+   "en": "It wants to keep control of the political agenda.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de tema ahora, Axel Kicillof viaja a Misiones.",
+   "en": "Moving on, «Axel Kicillof» is travelling to «Misiones».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según La Nación, se reunirá con el gobernador y con jefes del PJ local.",
+   "en": "According to «La Nación», he will meet the governor and local Peronist party leaders.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El encuentro con los yerbateros apunta a diferenciarlo de Milei.",
+   "en": "The meeting with the yerba mate growers is meant to set him apart from «Milei».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Clarín apuntó que será la sexta provincia que visita.",
+   "en": "«Clarín» pointed out that it will be the sixth province he has visited.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Firmará convenios con Passalacqua, también enfrentado a su ex jefe político.",
+   "en": "He will sign agreements with «Passalacqua», who is also at odds with his own former political boss.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para el final, murió Chiche Gelblung,",
+   "en": "And finally, «Chiche Gelblung» has died,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "referente del periodismo y de los medios.",
+   "en": "a landmark figure in journalism and the media.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según Ámbito, La Nación y Perfil,",
+   "en": "According to «Ámbito», «La Nación» and «Perfil»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el periodista y conductor tenía ochenta y dos años.",
+   "en": "the journalist and broadcaster was eighty-two.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Nación contó que falleció este miércoles,",
+   "en": "«La Nación» said he died on Wednesday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tras varios días internado en terapia intensiva.",
+   "en": "after several days in intensive care.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ámbito añadió que estaba internado por una afección respiratoria.",
+   "en": "«Ámbito» added that he had been in hospital with a respiratory condition.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y que construyó una extensa trayectoria en las revistas,",
+   "en": "And that he built a long career in magazines,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la televisión y la radio.",
+   "en": "on television and on radio.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su recorrido llegó a los medios digitales y marcó al periodismo argentino.",
+   "en": "His work reached digital media too, and it left its mark on Argentine journalism.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo central.",
+   "en": "That is the heart of it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Wednesday 9 September",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Oil back above 100 dollars after fresh attacks in the Strait of Hormuz",
+ "summary_en": [
+  "Oil back above 100 dollars after fresh attacks in the Strait of Hormuz",
+  "Argentina adds fifteen more companies and individuals to its Malvinas oil proceedings, taking the total to sixty",
+  "Argentina's lower house sits on Wednesday after the opposition secured a quorum on disability and household debt"
+ ]
+}

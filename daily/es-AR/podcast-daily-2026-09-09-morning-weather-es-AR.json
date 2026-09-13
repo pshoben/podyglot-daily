@@ -1,0 +1,239 @@
+{
+ "title": "El pronóstico, miércoles 9 de septiembre",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-weather",
+   "wpm": 195,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-09",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Cómo viene el tiempo hoy, con un aviso amarillo del Servicio Meteorológico Nacional.",
+   "en": "The outlook today, with a yellow warning from the national weather service.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según La Nación, el organismo advirtió sobre posibles condiciones adversas en distintas regiones del país.",
+   "en": "According to «La Nación», the agency warned of possible adverse conditions in different parts of the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La alerta corre para este miércoles y es por vientos, por lluvias y por nevadas.",
+   "en": "The alert runs for this Wednesday and covers wind, rain and snow.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para la Ciudad de Buenos Aires y el área metropolitana,",
+   "en": "For the city of «Buenos Aires» and the metropolitan area,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Perfil anticipa un ascenso térmico.",
+   "en": "«Perfil» expects temperatures to climb.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su pronóstico agrega un aumento de la nubosidad y precipitaciones aisladas hacia la noche.",
+   "en": "Its forecast adds more cloud and isolated rain towards the evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De acuerdo con el modelo del Centro Europeo, el ECMWF,",
+   "en": "According to the European Centre model, the ECMWF,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Buenos Aires toca los dieciocho grados.",
+   "en": "«Buenos Aires» tops out at eighteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima baja a ocho y la probabilidad de lluvia es del veintiséis por ciento.",
+   "en": "The low drops to eight, and the chance of rain is twenty-six per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento máximo llega a once kilómetros por hora.",
+   "en": "The strongest wind gets to eleven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Córdoba trepa a veintidós grados y su mínima se ubica en diez.",
+   "en": "«Córdoba» climbs to twenty-two degrees and its low sits at ten.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí el cielo está poco nuboso.",
+   "en": "There the sky is mostly clear.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El riesgo de lluvia sube al veintinueve por ciento.",
+   "en": "The rain risk rises to twenty-nine per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento máximo alcanza los trece kilómetros por hora.",
+   "en": "The strongest wind reaches thirteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mendoza cierra en veinte grados,",
+   "en": "«Mendoza» finishes on twenty degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con una mínima de nueve.",
+   "en": "with a low of nine.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo va con intervalos nubosos.",
+   "en": "The sky has broken cloud.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de lluvia cae al dos por ciento.",
+   "en": "The chance of rain falls to two per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento máximo, en cambio,",
+   "en": "The strongest wind, on the other hand,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "se estira hasta diecinueve kilómetros por hora.",
+   "en": "stretches to nineteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Así está el cielo.",
+   "en": "That is how the sky looks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Wednesday 9 September",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Argentina's weather service: yellow alert for wind, rain and snow on Wednesday, with a warmer, cloudier day in Buenos Aires",
+ "summary_en": [
+  "Argentina's weather service: yellow alert for wind, rain and snow on Wednesday, with a warmer, cloudier day in Buenos Aires",
+  "Buenos Aires on Wednesday: a high of 18 degrees, a low of 8 and a 26 per cent chance of rain"
+ ]
+}

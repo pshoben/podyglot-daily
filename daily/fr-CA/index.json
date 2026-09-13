@@ -5,6 +5,66 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-CA-Le bulletin du matin, mercredi 9 septembre",
+   "file": "podcast-daily-2026-09-09-morning-news-fr-CA.json",
+   "bytes": 8756,
+   "sha256": "0d56f34c4554b3b79e1ae6462b3a46f4096cfa91302aae0e031aa135116cef2b",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin du matin, mercredi 9 septembre",
+   "title_en": "The morning news, Wednesday 9 September",
+   "headline_en": "Iran's Revolutionary Guards say they struck an American base in Jordan and some twenty boats in the Gulf",
+   "summary_en": [
+    "Iran's Revolutionary Guards say they struck an American base in Jordan and some twenty boats in the Gulf",
+    "The Canada-United States trade war steps up a notch as Trump bars imports of some Canadian goods",
+    "Iran says it captured one of the American military's most modern underwater drones at the entrance to the Strait of Hormuz"
+   ]
+  },
+  {
+   "id": "fr-CA-Le sport d'ici, mercredi 9 septembre",
+   "file": "podcast-daily-2026-09-09-morning-sport-fr-CA.json",
+   "bytes": 4051,
+   "sha256": "640b6d7412579821e03beed3ad094c1f82aee9c98a2e1524444f22bd5f1bf0db",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le sport d'ici, mercredi 9 septembre",
+   "title_en": "Today's sport, Wednesday 9 September",
+   "headline_en": "Cycling: the Grand Prix cycliste de Quebec runs on Friday without Tadej Pogacar, and Remco Evenepoel has arrived in Quebec",
+   "summary_en": [
+    "Cycling: the Grand Prix cycliste de Quebec runs on Friday without Tadej Pogacar, and Remco Evenepoel has arrived in Quebec"
+   ]
+  },
+  {
+   "id": "fr-CA-Le bulletin météo, mercredi 9 septembre",
+   "file": "podcast-daily-2026-09-09-morning-weather-fr-CA.json",
+   "bytes": 5033,
+   "sha256": "9a6d02522cfc67a19dee4a17009a98c7ac0d255ef303f475cd51f71be06d0c36",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin météo, mercredi 9 septembre",
+   "title_en": "Today's weather, Wednesday 9 September",
+   "headline_en": "Montreal: heavy showers, a high of 25 degrees and a low of 14, and a 100 per cent chance of rain",
+   "summary_en": [
+    "Montreal: heavy showers, a high of 25 degrees and a low of 14, and a 100 per cent chance of rain",
+    "Quebec City: light rain, a high of 23 degrees and a low of 11, and a 90 per cent chance of rain"
+   ]
+  },
+  {
    "id": "fr-CA-Le bulletin du matin, mardi 8 septembre",
    "file": "podcast-daily-2026-09-08-morning-news-fr-CA.json",
    "bytes": 7927,
@@ -246,170 +306,6 @@
    "summary_en": [
     "Monday forecast for Montréal, 31st August",
     "Monday forecast for Québec, 31st August"
-   ]
-  },
-  {
-   "id": "fr-CA-Le bulletin du matin, dimanche 30 août",
-   "file": "podcast-daily-2026-08-30-morning-news-fr-CA.json",
-   "bytes": 9616,
-   "sha256": "3c24f75cedf4c676de3a128a17dd6179894fed8061b9c815089543f8594d9839",
-   "date": "2026-08-30",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-CA",
-   "region_label": "Québec",
-   "title": "Le bulletin du matin, dimanche 30 août",
-   "title_en": "The morning news, Sunday 30 August",
-   "headline_en": "Rescue work inches forward in Nepal and China, four days on",
-   "summary_en": [
-    "Rescue work inches forward in Nepal and China, four days on",
-    "Quebec's election campaign reaches its fourth day",
-    "Shots fired at a rave at the Aarau racecourse in Switzerland"
-   ]
-  },
-  {
-   "id": "fr-CA-Le bulletin météo, dimanche 30 août",
-   "file": "podcast-daily-2026-08-30-morning-weather-fr-CA.json",
-   "bytes": 4646,
-   "sha256": "fb927cd01bd314125dec8b55d43570be81a0672a25dc50454fb6484c10f3bb1b",
-   "date": "2026-08-30",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-CA",
-   "region_label": "Québec",
-   "title": "Le bulletin météo, dimanche 30 août",
-   "title_en": "Today's weather, Sunday 30 August",
-   "headline_en": "Heavy showers in Montreal, up to twenty-four degrees",
-   "summary_en": [
-    "Heavy showers in Montreal, up to twenty-four degrees",
-    "Rain in Quebec city through the day"
-   ]
-  },
-  {
-   "id": "fr-CA-Le bulletin du matin, samedi 29 août",
-   "file": "podcast-daily-2026-08-29-morning-news-fr-CA.json",
-   "bytes": 8231,
-   "sha256": "69a63b8f225646a4cf678c9cd6f18bcdf7cce46b90ccb99f6f115556e3f7d55e",
-   "date": "2026-08-29",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-CA",
-   "region_label": "Québec",
-   "title": "Le bulletin du matin, samedi 29 août",
-   "title_en": "The morning news, Saturday 29 August",
-   "headline_en": "Rescue teams comb the Nepal to Tibet border after the flood",
-   "summary_en": [
-    "Rescue teams comb the Nepal to Tibet border after the flood",
-    "A Russian drone hit a warehouse near Kyiv overnight",
-    "Canadians have not been accounted for after the flood in Nepal"
-   ]
-  },
-  {
-   "id": "fr-CA-Le bulletin météo, samedi 29 août",
-   "file": "podcast-daily-2026-08-29-morning-weather-fr-CA.json",
-   "bytes": 4923,
-   "sha256": "a9183d94ca37d8d7a707b2a74e969018c8c5ebcc6054842011d4b83aa4b40910",
-   "date": "2026-08-29",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-CA",
-   "region_label": "Québec",
-   "title": "Le bulletin météo, samedi 29 août",
-   "title_en": "Today's weather, Saturday 29 August",
-   "headline_en": "Prévision pour Montréal, samedi 2026-08-29",
-   "summary_en": [
-    "Prévision pour Montréal, samedi 2026-08-29",
-    "Prévision pour Québec, samedi 2026-08-29"
-   ]
-  },
-  {
-   "id": "fr-CA-Le bulletin du matin, vendredi 28 août",
-   "file": "podcast-daily-2026-08-28-morning-news-fr-CA.json",
-   "bytes": 9062,
-   "sha256": "c47f9d033f84cbf147786d1f9b2481f4785aaddc5485eec06ddbee8af204e1ce",
-   "date": "2026-08-28",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-CA",
-   "region_label": "Québec",
-   "title": "Le bulletin du matin, vendredi 28 août",
-   "title_en": "The morning news, Friday 28 August",
-   "headline_en": "Rescuers search on at the Nepal to China border under the threat of fresh floods",
-   "summary_en": [
-    "Rescuers search on at the Nepal to China border under the threat of fresh floods",
-    "King Harald V of Norway has died",
-    "Day two of the Quebec election campaign turns on the economy"
-   ]
-  },
-  {
-   "id": "fr-CA-Le bulletin météo, vendredi 28 août",
-   "file": "podcast-daily-2026-08-28-morning-weather-fr-CA.json",
-   "bytes": 5030,
-   "sha256": "e4b43ad9eac70f04d0bcc5e13ecc72027a37d872ce6ffc8dece08ed851c12a00",
-   "date": "2026-08-28",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-CA",
-   "region_label": "Québec",
-   "title": "Le bulletin météo, vendredi 28 août",
-   "title_en": "Today's weather, Friday 28 August",
-   "headline_en": "Prévision pour Montréal, vendredi 2026-08-28",
-   "summary_en": [
-    "Prévision pour Montréal, vendredi 2026-08-28",
-    "Prévision pour Québec, vendredi 2026-08-28"
-   ]
-  },
-  {
-   "id": "fr-CA-Le bulletin du matin, jeudi 27 août",
-   "file": "podcast-daily-2026-08-27-morning-news-fr-CA.json",
-   "bytes": 10789,
-   "sha256": "43b5396b93fea05e097bbec241f49ae8e54a8a0211ffe52389c74f546bc8e197",
-   "date": "2026-08-27",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-CA",
-   "region_label": "Québec",
-   "title": "Le bulletin du matin, jeudi 27 août",
-   "title_en": "The morning news, Thursday 27 August",
-   "headline_en": "A wall of mud devastates the border between Nepal and China",
-   "summary_en": [
-    "A wall of mud devastates the border between Nepal and China",
-    "The Quebec election campaign is triggered today, for a 5 October vote",
-    "Ottawa takes seafood off its counter-tariff list"
-   ]
-  },
-  {
-   "id": "fr-CA-Le bulletin météo, jeudi 27 août",
-   "file": "podcast-daily-2026-08-27-morning-weather-fr-CA.json",
-   "bytes": 5010,
-   "sha256": "b52c93ec3d575143b070aaa94d81b27e9295b01a69816b5cc38381a850707a4b",
-   "date": "2026-08-27",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-CA",
-   "region_label": "Québec",
-   "title": "Le bulletin météo, jeudi 27 août",
-   "title_en": "Today's weather, Thursday 27 August",
-   "headline_en": "Prévision pour Montréal, jeudi 2026-08-27",
-   "summary_en": [
-    "Prévision pour Montréal, jeudi 2026-08-27",
-    "Prévision pour Québec, jeudi 2026-08-27"
    ]
   }
  ]

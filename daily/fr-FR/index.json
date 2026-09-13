@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-FR-Le journal du matin, dimanche 13 septembre",
+   "file": "podcast-daily-2026-09-13-morning-news-fr-FR.json",
+   "bytes": 9074,
+   "sha256": "398cc17cbfae0a60becf7cfa245623fcf86fb9481503294f22c23e14c4f394a7",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, dimanche 13 septembre",
+   "title_en": "The morning news, Sunday 13 September",
+   "headline_en": "One dead after a strike on an Iranian merchant ship in the Strait of Hormuz",
+   "summary_en": [
+    "One dead after a strike on an Iranian merchant ship in the Strait of Hormuz",
+    "A two-day strike begins at Radio France over a new columnist",
+    "The unions call the new columnist incompatible with public service broadcasting"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, dimanche 13 septembre",
+   "file": "podcast-daily-2026-09-13-morning-sport-fr-FR.json",
+   "bytes": 4785,
+   "sha256": "880615e13dea26a917a1220603fb8b741a4735ad1dbaaa73c0de70b7a6d06d07",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, dimanche 13 septembre",
+   "title_en": "Today's sport, Sunday 13 September",
+   "headline_en": "France meet the United States in the basketball World Cup final tonight",
+   "summary_en": [
+    "France meet the United States in the basketball World Cup final tonight",
+    "Le Mans meet Lens in the fourth round of Ligue 1"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, dimanche 13 septembre",
+   "file": "podcast-daily-2026-09-13-morning-weather-fr-FR.json",
+   "bytes": 4951,
+   "sha256": "4542a5691eb8157bb46e864d5f3f28e93d5b71c4156612084d5f521fd05635e0",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, dimanche 13 septembre",
+   "title_en": "Today's weather, Sunday 13 September",
+   "headline_en": "Sunday forecast for Paris, 13th September",
+   "summary_en": [
+    "Sunday forecast for Paris, 13th September",
+    "Sunday forecast for Marseille, 13th September"
+   ]
+  },
+  {
    "id": "fr-FR-Le journal du matin, mercredi 9 septembre",
    "file": "podcast-daily-2026-09-09-morning-news-fr-FR.json",
    "bytes": 11945,
@@ -572,210 +633,6 @@
    "summary_en": [
     "Monday forecast for Paris, 31st August",
     "Monday forecast for Bordeaux, 31st August"
-   ]
-  },
-  {
-   "id": "fr-FR-Le journal du matin, dimanche 30 août",
-   "file": "podcast-daily-2026-08-30-morning-news-fr-FR.json",
-   "bytes": 12055,
-   "sha256": "16120aa7df5dc4cea8e29df341d3c0a6af7c6dc80a2d32a4c9f67b6de963d66e",
-   "date": "2026-08-30",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le journal du matin, dimanche 30 août",
-   "title_en": "The morning news, Sunday 30 August",
-   "headline_en": "Heavy rain and rising water are holding up the rescue in Nepal",
-   "summary_en": [
-    "Heavy rain and rising water are holding up the rescue in Nepal",
-    "The Socialist Party closed its summer conference at Blois",
-    "Gunfire at a rave party in Switzerland leaves several casualties"
-   ]
-  },
-  {
-   "id": "fr-FR-Le sport, dimanche 30 août",
-   "file": "podcast-daily-2026-08-30-morning-sport-fr-FR.json",
-   "bytes": 5076,
-   "sha256": "20d57ef8cd58c6c3c14c689761997706a9acfdbe755983466e166edb5ca62ad8",
-   "date": "2026-08-30",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le sport, dimanche 30 août",
-   "title_en": "Today's sport, Sunday 30 August",
-   "headline_en": "Carlos Alcaraz returns at the US Open after four months out",
-   "summary_en": [
-    "Carlos Alcaraz returns at the US Open after four months out",
-    "The world number three is the defending champion in New York"
-   ]
-  },
-  {
-   "id": "fr-FR-La météo, dimanche 30 août",
-   "file": "podcast-daily-2026-08-30-morning-weather-fr-FR.json",
-   "bytes": 5041,
-   "sha256": "8cfb8e12fe154b3e7d46fe2e845a49f4ca9466c155ed34a0dd44128e8ab13acb",
-   "date": "2026-08-30",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "La météo, dimanche 30 août",
-   "title_en": "Today's weather, Sunday 30 August",
-   "headline_en": "Prévision pour Paris, dimanche 2026-08-30",
-   "summary_en": [
-    "Prévision pour Paris, dimanche 2026-08-30",
-    "Prévision pour Bordeaux, dimanche 2026-08-30"
-   ]
-  },
-  {
-   "id": "fr-FR-Le journal du matin, samedi 29 août",
-   "file": "podcast-daily-2026-08-29-morning-news-fr-FR.json",
-   "bytes": 9346,
-   "sha256": "63c899cec83a7eacb235e4ea20ae0f7008d0727b272edd40a0f1682d00e7ec02",
-   "date": "2026-08-29",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le journal du matin, samedi 29 août",
-   "title_en": "The morning news, Saturday 29 August",
-   "headline_en": "A glacier collapse set off a huge flood on the Nepal to Tibet border",
-   "summary_en": [
-    "A glacier collapse set off a huge flood on the Nepal to Tibet border",
-    "Fitch keeps France at A plus with a stable outlook",
-    "Washington and Caracas announce an oil agreement"
-   ]
-  },
-  {
-   "id": "fr-FR-Le sport, samedi 29 août",
-   "file": "podcast-daily-2026-08-29-morning-sport-fr-FR.json",
-   "bytes": 4051,
-   "sha256": "fd26db5b4d156f21dda5949befe38e49aeeeace825bf9067cd4555e01a3aca9e",
-   "date": "2026-08-29",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le sport, samedi 29 août",
-   "title_en": "Today's sport, Saturday 29 August",
-   "headline_en": "AS Monaco basketball is kept out of the professional leagues",
-   "summary_en": [
-    "AS Monaco basketball is kept out of the professional leagues",
-    "Brest host Toulouse at home in Ligue 1"
-   ]
-  },
-  {
-   "id": "fr-FR-La météo, samedi 29 août",
-   "file": "podcast-daily-2026-08-29-morning-weather-fr-FR.json",
-   "bytes": 4695,
-   "sha256": "39b63c809a78b55da762607c32cbe45b41afbbbe407cbda81eb3ed263f1dcbc4",
-   "date": "2026-08-29",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "La météo, samedi 29 août",
-   "title_en": "Today's weather, Saturday 29 August",
-   "headline_en": "Prévision pour Paris, samedi 2026-08-29",
-   "summary_en": [
-    "Prévision pour Paris, samedi 2026-08-29",
-    "Prévision pour Bordeaux, samedi 2026-08-29"
-   ]
-  },
-  {
-   "id": "fr-FR-Le journal du matin, vendredi 28 août",
-   "file": "podcast-daily-2026-08-28-morning-news-fr-FR.json",
-   "bytes": 11397,
-   "sha256": "59d036507436bb31250dd6a516d9aa1dcf543646cdfcdbb1169597d2bc87de09",
-   "date": "2026-08-28",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le journal du matin, vendredi 28 août",
-   "title_en": "The morning news, Friday 28 August",
-   "headline_en": "A giant flood devastates the Nepal to Tibet border after a glacier collapse",
-   "summary_en": [
-    "A giant flood devastates the Nepal to Tibet border after a glacier collapse",
-    "A French Foreign Legion corporal has been kidnapped in south-west Colombia",
-    "Seven presidential candidates debated the economy at the employers' summer gathering"
-   ]
-  },
-  {
-   "id": "fr-FR-La météo, vendredi 28 août",
-   "file": "podcast-daily-2026-08-28-morning-weather-fr-FR.json",
-   "bytes": 6449,
-   "sha256": "608129e785eca5289f39cdceb4ae823390d46fa315646d0b68502f1b7258d150",
-   "date": "2026-08-28",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "La météo, vendredi 28 août",
-   "title_en": "Today's weather, Friday 28 August",
-   "headline_en": "Violent storms tore through the Paris region on Thursday evening",
-   "summary_en": [
-    "Violent storms tore through the Paris region on Thursday evening",
-    "Seven eastern departments stay on orange storm alert until ten this morning"
-   ]
-  },
-  {
-   "id": "fr-FR-Le journal du matin, jeudi 27 août",
-   "file": "podcast-daily-2026-08-27-morning-news-fr-FR.json",
-   "bytes": 9025,
-   "sha256": "d093ca741a83532aecb8f6935ff5b656b615428dd2146a5a16a11d838a5d1f35",
-   "date": "2026-08-27",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le journal du matin, jeudi 27 août",
-   "title_en": "The morning news, Thursday 27 August",
-   "headline_en": "Floods on the Nepal to Tibet border bury villages and roads",
-   "summary_en": [
-    "Floods on the Nepal to Tibet border bury villages and roads",
-    "A car is driven into a group of people in Caen",
-    "Seven presidential candidates debate before the employers' federation"
-   ]
-  },
-  {
-   "id": "fr-FR-La météo, jeudi 27 août",
-   "file": "podcast-daily-2026-08-27-morning-weather-fr-FR.json",
-   "bytes": 5917,
-   "sha256": "55629c63df8cf16cd48adcb6a33f4b1ba117dc10284d523838485f384a0a5180",
-   "date": "2026-08-27",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "La météo, jeudi 27 août",
-   "title_en": "Today's weather, Thursday 27 August",
-   "headline_en": "Alerts lifted this morning before a fresh deterioration this afternoon",
-   "summary_en": [
-    "Alerts lifted this morning before a fresh deterioration this afternoon",
-    "Twenty-three departments on orange alert for storms this afternoon"
    ]
   }
  ]

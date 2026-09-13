@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-FR",
+ "date": "2026-09-13",
+ "episodes": [
+  {
+   "id": "fr-FR-Le journal du matin, dimanche 13 septembre",
+   "file": "podcast-daily-2026-09-13-morning-news-fr-FR.json",
+   "bytes": 9074,
+   "sha256": "398cc17cbfae0a60becf7cfa245623fcf86fb9481503294f22c23e14c4f394a7",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, dimanche 13 septembre",
+   "title_en": "The morning news, Sunday 13 September",
+   "headline_en": "One dead after a strike on an Iranian merchant ship in the Strait of Hormuz",
+   "summary_en": [
+    "One dead after a strike on an Iranian merchant ship in the Strait of Hormuz",
+    "A two-day strike begins at Radio France over a new columnist",
+    "The unions call the new columnist incompatible with public service broadcasting"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, dimanche 13 septembre",
+   "file": "podcast-daily-2026-09-13-morning-sport-fr-FR.json",
+   "bytes": 4785,
+   "sha256": "880615e13dea26a917a1220603fb8b741a4735ad1dbaaa73c0de70b7a6d06d07",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, dimanche 13 septembre",
+   "title_en": "Today's sport, Sunday 13 September",
+   "headline_en": "France meet the United States in the basketball World Cup final tonight",
+   "summary_en": [
+    "France meet the United States in the basketball World Cup final tonight",
+    "Le Mans meet Lens in the fourth round of Ligue 1"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, dimanche 13 septembre",
+   "file": "podcast-daily-2026-09-13-morning-weather-fr-FR.json",
+   "bytes": 4951,
+   "sha256": "4542a5691eb8157bb46e864d5f3f28e93d5b71c4156612084d5f521fd05635e0",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, dimanche 13 septembre",
+   "title_en": "Today's weather, Sunday 13 September",
+   "headline_en": "Sunday forecast for Paris, 13th September",
+   "summary_en": [
+    "Sunday forecast for Paris, 13th September",
+    "Sunday forecast for Marseille, 13th September"
+   ]
+  }
+ ],
+ "content": "941f8bc723d81d4828c511a9f78ba3d6c67cd68c828727b2f732a22ba77db062",
+ "rev": 1,
+ "updated": "2026-09-13T09:40:11.429Z"
+}

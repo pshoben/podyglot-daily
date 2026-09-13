@@ -5,6 +5,107 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-ES-El informativo de la mañana, domingo 13 de septiembre",
+   "file": "podcast-daily-2026-09-13-morning-news-es-ES.json",
+   "bytes": 7155,
+   "sha256": "491ad0f6bdfe351f7df13aeb7669d35d91b3d60757eafeeeb5480bfe326839bd",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, domingo 13 de septiembre",
+   "title_en": "The morning news, Sunday 13 September",
+   "headline_en": "Rybakina takes the US Open and the world number one place",
+   "summary_en": [
+    "Rybakina takes the US Open and the world number one place",
+    "Eight hundred and sixty-four migrants are moved to new reception places in Ceuta",
+    "The government has opened more than eight hundred new reception places"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, domingo 13 de septiembre",
+   "file": "podcast-daily-2026-09-13-morning-sport-es-ES.json",
+   "bytes": 3893,
+   "sha256": "aa553f7ad5eee67073234271210591076085468c046918752419ac62fe0dbe31",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, domingo 13 de septiembre",
+   "title_en": "Today's sport, Sunday 13 September",
+   "headline_en": "Celta host Malaga at Balaidos",
+   "summary_en": [
+    "Celta host Malaga at Balaidos",
+    "Deportivo visit Getafe at half past six"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, domingo 13 de septiembre",
+   "file": "podcast-daily-2026-09-13-morning-weather-es-ES.json",
+   "bytes": 5248,
+   "sha256": "706b76cd13b49c29fe8dd6cbe065aee79ab9231f64363d33e60cedec9f2fec5e",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, domingo 13 de septiembre",
+   "title_en": "Today's weather, Sunday 13 September",
+   "headline_en": "AEMET has yellow warnings out for high temperatures in the north-west and the west",
+   "summary_en": [
+    "AEMET has yellow warnings out for high temperatures in the north-west and the west",
+    "Yellow wind warnings cover the Cadiz coast and the Strait"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, domingo 13 de septiembre",
+   "file": "podcast-daily-2026-09-13-morning-weather-andalucia-es-ES.json",
+   "bytes": 3652,
+   "sha256": "145e6e11aef8663a199bac08022158bb3cb650d77c015702eb3569177d3dfe3c",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, domingo 13 de septiembre",
+   "title_en": "Today's weather, Andalusia, Sunday 13 September",
+   "headline_en": "Sunday AEMET forecast for Sevilla, 13th September",
+   "summary_en": [
+    "Sunday AEMET forecast for Sevilla, 13th September",
+    "Sunday AEMET forecast for Córdoba, 13th September"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, domingo 13 de septiembre",
+   "file": "podcast-daily-2026-09-13-morning-weather-canarias-es-ES.json",
+   "bytes": 3687,
+   "sha256": "5f2cbfbdd1311765f7970e7e66db13bbdcffcb4f0c941a45f12fafefd009126e",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, domingo 13 de septiembre",
+   "title_en": "Today's weather, Canary Islands, Sunday 13 September",
+   "headline_en": "Sunday AEMET forecast for Las Palmas de Gran Canaria, 13th September",
+   "summary_en": [
+    "Sunday AEMET forecast for Las Palmas de Gran Canaria, 13th September",
+    "Sunday AEMET forecast for Santa Cruz de Tenerife, 13th September"
+   ]
+  },
+  {
    "id": "es-ES-El informativo de la mañana, miércoles 9 de septiembre",
    "file": "podcast-daily-2026-09-09-morning-news-es-ES.json",
    "bytes": 11494,
@@ -1012,410 +1113,6 @@
    "summary_en": [
     "Monday AEMET forecast for Las Palmas de Gran Canaria, 31st August",
     "Monday AEMET forecast for Santa Cruz de Tenerife, 31st August"
-   ]
-  },
-  {
-   "id": "es-ES-El informativo de la mañana, domingo 30 de agosto",
-   "file": "podcast-daily-2026-08-30-morning-news-es-ES.json",
-   "bytes": 10776,
-   "sha256": "bd47299304f0af050f1fd1549e6facbe68f4f5205fff51d0b129e9406b8c4f79",
-   "date": "2026-08-30",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El informativo de la mañana, domingo 30 de agosto",
-   "title_en": "The morning news, Sunday 30 August",
-   "headline_en": "Landslides and flooding devastated central Nepal on Wednesday",
-   "summary_en": [
-    "Landslides and flooding devastated central Nepal on Wednesday",
-    "A month on, the Ceuta crisis is still open",
-    "Caracas says the oil deal with Washington will run twenty-five years"
-   ]
-  },
-  {
-   "id": "es-ES-Los deportes, domingo 30 de agosto",
-   "file": "podcast-daily-2026-08-30-morning-sport-es-ES.json",
-   "bytes": 4893,
-   "sha256": "6ff49bb2f0e3469b02159b661eb393952bbe30f2c2cd9c36fe46cca382c6445d",
-   "date": "2026-08-30",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "Los deportes, domingo 30 de agosto",
-   "title_en": "Today's sport, Sunday 30 August",
-   "headline_en": "Real Madrid host Malaga at the Bernabeu in LaLiga round three",
-   "summary_en": [
-    "Real Madrid host Malaga at the Bernabeu in LaLiga round three",
-    "Deportivo host Valencia at Riazor after making peace with their supporters"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo, domingo 30 de agosto",
-   "file": "podcast-daily-2026-08-30-morning-weather-es-ES.json",
-   "bytes": 5760,
-   "sha256": "548af59068b35eeb8b546a93d4c71544bbf412ec6cbf89a8620bf762704fe906",
-   "date": "2026-08-30",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": 0,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo, domingo 30 de agosto",
-   "title_en": "Today's weather, Sunday 30 August",
-   "headline_en": "Predicción AEMET para Madrid (Madrid), 2026-08-30",
-   "summary_en": [
-    "Predicción AEMET para Madrid (Madrid), 2026-08-30",
-    "Predicción AEMET para Barcelona (Barcelona), 2026-08-30"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo en Andalucía, domingo 30 de agosto",
-   "file": "podcast-daily-2026-08-30-morning-weather-andalucia-es-ES.json",
-   "bytes": 3827,
-   "sha256": "83334cdcb25174e8b8b32250091d6908aac9c16fb2f202ac75869254fc7f49ab",
-   "date": "2026-08-30",
-   "edition": "morning",
-   "programme": "weather-andalucia",
-   "programme_order": 3,
-   "segment_order": 1,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo en Andalucía, domingo 30 de agosto",
-   "title_en": "Today's weather, Andalusia, Sunday 30 August",
-   "headline_en": "Predicción AEMET para Córdoba (Córdoba), 2026-08-30",
-   "summary_en": [
-    "Predicción AEMET para Córdoba (Córdoba), 2026-08-30",
-    "Predicción AEMET para Sevilla (Sevilla), 2026-08-30"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo en Canarias, domingo 30 de agosto",
-   "file": "podcast-daily-2026-08-30-morning-weather-canarias-es-ES.json",
-   "bytes": 3849,
-   "sha256": "05c2fafd4382820c189a3ca55bb36e41084581aa2171060540b2e26799523043",
-   "date": "2026-08-30",
-   "edition": "morning",
-   "programme": "weather-canarias",
-   "programme_order": 4,
-   "segment_order": 2,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo en Canarias, domingo 30 de agosto",
-   "title_en": "Today's weather, Canary Islands, Sunday 30 August",
-   "headline_en": "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-30",
-   "summary_en": [
-    "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-30",
-    "Predicción AEMET para Santa Cruz de Tenerife (Santa Cruz de Tenerife (Tenerife)), 2026-08-30"
-   ]
-  },
-  {
-   "id": "es-ES-El informativo de la mañana, sábado 29 de agosto",
-   "file": "podcast-daily-2026-08-29-morning-news-es-ES.json",
-   "bytes": 10323,
-   "sha256": "d71721f80e03d7db1dc68d6bc04c5272c40a229d268999954c9731f85825d7a0",
-   "date": "2026-08-29",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El informativo de la mañana, sábado 29 de agosto",
-   "title_en": "The morning news, Saturday 29 August",
-   "headline_en": "Flash floods swept the Nepal to Tibet border and rescuers have reached the worst-hit area",
-   "summary_en": [
-    "Flash floods swept the Nepal to Tibet border and rescuers have reached the worst-hit area",
-    "Spanish inflation jumped to 4.3 per cent in August on fuel prices",
-    "Ministers thank Rabat for its cooperation a month after the Ceuta crossings"
-   ]
-  },
-  {
-   "id": "es-ES-Los deportes, sábado 29 de agosto",
-   "file": "podcast-daily-2026-08-29-morning-sport-es-ES.json",
-   "bytes": 4181,
-   "sha256": "1ec3c8f2c87c6dc645d13be3541e007d499fbd3da8d0b3a349a300f78d2d153d",
-   "date": "2026-08-29",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "Los deportes, sábado 29 de agosto",
-   "title_en": "Today's sport, Saturday 29 August",
-   "headline_en": "Sevilla host Atletico Madrid at the Pizjuan",
-   "summary_en": [
-    "Sevilla host Atletico Madrid at the Pizjuan",
-    "Levante host Betis at the Ciutat de Valencia"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo, sábado 29 de agosto",
-   "file": "podcast-daily-2026-08-29-morning-weather-es-ES.json",
-   "bytes": 5268,
-   "sha256": "dcecb0645eebdbbbd8aae03c4442289afaf0984ad14877fff698ec3531fdd7cd",
-   "date": "2026-08-29",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": 0,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo, sábado 29 de agosto",
-   "title_en": "Today's weather, Saturday 29 August",
-   "headline_en": "Predicción AEMET para Madrid (Madrid), 2026-08-29",
-   "summary_en": [
-    "Predicción AEMET para Madrid (Madrid), 2026-08-29",
-    "Predicción AEMET para Coruña, A (A Coruña), 2026-08-29"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo en Andalucía, sábado 29 de agosto",
-   "file": "podcast-daily-2026-08-29-morning-weather-andalucia-es-ES.json",
-   "bytes": 3963,
-   "sha256": "dfea730a082727ca6315a4f388ac5a009ba3d86a0f7b8bdcc81034c9ed589c44",
-   "date": "2026-08-29",
-   "edition": "morning",
-   "programme": "weather-andalucia",
-   "programme_order": 3,
-   "segment_order": 1,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo en Andalucía, sábado 29 de agosto",
-   "title_en": "Today's weather, Andalusia, Saturday 29 August",
-   "headline_en": "Predicción AEMET para Córdoba (Córdoba), 2026-08-29",
-   "summary_en": [
-    "Predicción AEMET para Córdoba (Córdoba), 2026-08-29",
-    "Predicción AEMET para Sevilla (Sevilla), 2026-08-29"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo en Canarias, sábado 29 de agosto",
-   "file": "podcast-daily-2026-08-29-morning-weather-canarias-es-ES.json",
-   "bytes": 3503,
-   "sha256": "f52fdb326b4c003952890d414e1f7d60502fde1326c5d605f2e03023aed14b8c",
-   "date": "2026-08-29",
-   "edition": "morning",
-   "programme": "weather-canarias",
-   "programme_order": 4,
-   "segment_order": 2,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo en Canarias, sábado 29 de agosto",
-   "title_en": "Today's weather, Canary Islands, Saturday 29 August",
-   "headline_en": "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-29",
-   "summary_en": [
-    "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-29",
-    "Predicción AEMET para Santa Cruz de Tenerife (Santa Cruz de Tenerife (Tenerife)), 2026-08-29"
-   ]
-  },
-  {
-   "id": "es-ES-El informativo de la mañana, viernes 28 de agosto",
-   "file": "podcast-daily-2026-08-28-morning-news-es-ES.json",
-   "bytes": 9060,
-   "sha256": "993c2a6946a7346baeb8bc0cf86eccf03900f31288e3cf5614306c373fc17b14",
-   "date": "2026-08-28",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El informativo de la mañana, viernes 28 de agosto",
-   "title_en": "The morning news, Friday 28 August",
-   "headline_en": "A flood swept the Trishuli valley in Nepal after a glacier collapsed in the Himalaya",
-   "summary_en": [
-    "A flood swept the Trishuli valley in Nepal after a glacier collapsed in the Himalaya",
-    "Tension between residents and migrants has flared in Ceuta",
-    "Iceland votes on Saturday on reopening EU accession talks"
-   ]
-  },
-  {
-   "id": "es-ES-Los deportes, viernes 28 de agosto",
-   "file": "podcast-daily-2026-08-28-morning-sport-es-ES.json",
-   "bytes": 4323,
-   "sha256": "0482a95c11a8012f20f9e9e030b58b533c8bdd732486ee1c8d56ee90e4f9561c",
-   "date": "2026-08-28",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "Los deportes, viernes 28 de agosto",
-   "title_en": "Today's sport, Friday 28 August",
-   "headline_en": "Alaves host Villarreal at Mendizorroza",
-   "summary_en": [
-    "Alaves host Villarreal at Mendizorroza",
-    "The Champions League draw has given the thirty-six teams their eight opponents"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo, viernes 28 de agosto",
-   "file": "podcast-daily-2026-08-28-morning-weather-es-ES.json",
-   "bytes": 5004,
-   "sha256": "5fc684e267ece5b34b3ca1603601f780d759380798fea419e5b78c9219ed4f5c",
-   "date": "2026-08-28",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": 0,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo, viernes 28 de agosto",
-   "title_en": "Today's weather, Friday 28 August",
-   "headline_en": "Predicción AEMET para Madrid (Madrid), 2026-08-28",
-   "summary_en": [
-    "Predicción AEMET para Madrid (Madrid), 2026-08-28",
-    "Predicción AEMET para Coruña, A (A Coruña), 2026-08-28"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo en Andalucía, viernes 28 de agosto",
-   "file": "podcast-daily-2026-08-28-morning-weather-andalucia-es-ES.json",
-   "bytes": 3775,
-   "sha256": "79833727507e826b84b724331303fac8bfc4f9b180e54e54ef75fb339c059018",
-   "date": "2026-08-28",
-   "edition": "morning",
-   "programme": "weather-andalucia",
-   "programme_order": 3,
-   "segment_order": 1,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo en Andalucía, viernes 28 de agosto",
-   "title_en": "Today's weather, Andalusia, Friday 28 August",
-   "headline_en": "Predicción AEMET para Sevilla (Sevilla), 2026-08-28",
-   "summary_en": [
-    "Predicción AEMET para Sevilla (Sevilla), 2026-08-28",
-    "Predicción AEMET para Córdoba (Córdoba), 2026-08-28"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo en Canarias, viernes 28 de agosto",
-   "file": "podcast-daily-2026-08-28-morning-weather-canarias-es-ES.json",
-   "bytes": 4432,
-   "sha256": "6d67e6719001c44aaabe9b4c6dbfacb52883aa1ff1e91372b7432c76f70e6013",
-   "date": "2026-08-28",
-   "edition": "morning",
-   "programme": "weather-canarias",
-   "programme_order": 4,
-   "segment_order": 2,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo en Canarias, viernes 28 de agosto",
-   "title_en": "Today's weather, Canary Islands, Friday 28 August",
-   "headline_en": "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-28",
-   "summary_en": [
-    "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-28",
-    "Predicción AEMET para Santa Cruz de Tenerife (Santa Cruz de Tenerife (Tenerife)), 2026-08-28"
-   ]
-  },
-  {
-   "id": "es-ES-El informativo de la mañana, jueves 27 de agosto",
-   "file": "podcast-daily-2026-08-27-morning-news-es-ES.json",
-   "bytes": 8880,
-   "sha256": "9b6b4fd83ab28ca950d68a2590b517d8cf9a7a2dab8129585b2cce132132a6fb",
-   "date": "2026-08-27",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El informativo de la mañana, jueves 27 de agosto",
-   "title_en": "The morning news, Thursday 27 August",
-   "headline_en": "Rescuers race the clock on the Nepal to Tibet border",
-   "summary_en": [
-    "Rescuers race the clock on the Nepal to Tibet border",
-    "The government meets the regions today over the Ceuta minors",
-    "Meta's settlement caps minors at two hours a day on its platforms"
-   ]
-  },
-  {
-   "id": "es-ES-Los deportes, jueves 27 de agosto",
-   "file": "podcast-daily-2026-08-27-morning-sport-es-ES.json",
-   "bytes": 4219,
-   "sha256": "0d67dd768f03e543c8f49ed52c93adf16f87ed2dc84efd14b3c18fde994c5dd6",
-   "date": "2026-08-27",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "Los deportes, jueves 27 de agosto",
-   "title_en": "Today's sport, Thursday 27 August",
-   "headline_en": "Barcelona host Athletic tonight in the deferred opening round",
-   "summary_en": [
-    "Barcelona host Athletic tonight in the deferred opening round",
-    "Athletic are without the suspended Yuri Berchiche at the Camp Nou"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo, jueves 27 de agosto",
-   "file": "podcast-daily-2026-08-27-morning-weather-es-ES.json",
-   "bytes": 5084,
-   "sha256": "140947e45d8132ff40cbac3223b4dcaadfba94a3201b6a1d8f3c4a96950415ed",
-   "date": "2026-08-27",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": 0,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo, jueves 27 de agosto",
-   "title_en": "Today's weather, Thursday 27 August",
-   "headline_en": "Predicción AEMET para Madrid (Madrid), 2026-08-27",
-   "summary_en": [
-    "Predicción AEMET para Madrid (Madrid), 2026-08-27",
-    "Predicción AEMET para Coruña, A (A Coruña), 2026-08-27"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo en Andalucía, jueves 27 de agosto",
-   "file": "podcast-daily-2026-08-27-morning-weather-andalucia-es-ES.json",
-   "bytes": 4167,
-   "sha256": "b559479a1f474b2bd2465a0f054597151368705d441cab35115457eee044a3c4",
-   "date": "2026-08-27",
-   "edition": "morning",
-   "programme": "weather-andalucia",
-   "programme_order": 3,
-   "segment_order": 1,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo en Andalucía, jueves 27 de agosto",
-   "title_en": "Today's weather, Andalusia, Thursday 27 August",
-   "headline_en": "Predicción AEMET para Sevilla (Sevilla), 2026-08-27",
-   "summary_en": [
-    "Predicción AEMET para Sevilla (Sevilla), 2026-08-27",
-    "Predicción AEMET para Córdoba (Córdoba), 2026-08-27"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo en Canarias, jueves 27 de agosto",
-   "file": "podcast-daily-2026-08-27-morning-weather-canarias-es-ES.json",
-   "bytes": 4063,
-   "sha256": "2cbdae9c090c63efaaa0c8150d1a33ee4109643ae5441e12844128bbeeaac729",
-   "date": "2026-08-27",
-   "edition": "morning",
-   "programme": "weather-canarias",
-   "programme_order": 4,
-   "segment_order": 2,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo en Canarias, jueves 27 de agosto",
-   "title_en": "Today's weather, Canary Islands, Thursday 27 August",
-   "headline_en": "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-27",
-   "summary_en": [
-    "Predicción AEMET para Palmas de Gran Canaria, Las (Las Palmas (Gran Canaria)), 2026-08-27",
-    "Predicción AEMET para Santa Cruz de Tenerife (Santa Cruz de Tenerife (Tenerife)), 2026-08-27"
    ]
   }
  ]

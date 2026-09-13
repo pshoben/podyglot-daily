@@ -1,0 +1,148 @@
+{
+ "title": "Le sport d'ici, mercredi 9 septembre",
+ "dialect": "fr-CA",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-CA-daily-sport",
+   "wpm": 185,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-09",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le cyclisme, ce mercredi matin.",
+   "en": "Cycling, this Wednesday morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À l'horaire cette semaine, le Grand Prix cycliste de Québec.",
+   "en": "On the schedule this week, the «Grand Prix cycliste de Québec».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'après Le Soleil, l'épreuve se tient ce vendredi, sans Tadej Pogacar.",
+   "en": "«Le Soleil» says the race takes place on Friday, without «Tadej Pogacar».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ses adversaires sont encore plus nombreux à penser pouvoir l'emporter.",
+   "en": "That leaves even more of his rivals thinking they can win it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Journal de Montréal écrit que le Belge Remco Evenepoel est arrivé au Québec.",
+   "en": "«Le Journal de Montréal» reports that the Belgian «Remco Evenepoel» has arrived in «Québec».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il participera d'abord aux Grands Prix cyclistes, à Québec et à Montréal.",
+   "en": "He will ride the «Grands Prix cyclistes» in «Québec» City and «Montréal» first.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il prépare de cette façon les Championnats du monde.",
+   "en": "It is part of his build-up to the World Championships.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Français Paul Lapeira, lui, espère profiter d'un parcours qui lui sied à merveille.",
+   "en": "The Frenchman «Paul Lapeira» hopes to make the most of a course that suits him perfectly.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Chez les Québécois, le cycliste abitibien Jérôme Gauthier en sera à sa troisième participation.",
+   "en": "Among the Quebecers, the «Abitibi» rider «Jérôme Gauthier» will be making his third appearance.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a vingt-deux ans, et il portera le maillot de champion canadien.",
+   "en": "He is twenty-two, and he will wear the Canadian champion's jersey.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce maillot unique en fera le talent local le plus en vue.",
+   "en": "That one-of-a-kind jersey will make him the local rider to watch.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est tout pour le sport.",
+   "en": "That is all for sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Wednesday 9 September",
+ "edition": "morning",
+ "region": "fr-CA",
+ "region_label": "Québec",
+ "headline_en": "Cycling: the Grand Prix cycliste de Quebec runs on Friday without Tadej Pogacar, and Remco Evenepoel has arrived in Quebec",
+ "summary_en": [
+  "Cycling: the Grand Prix cycliste de Quebec runs on Friday without Tadej Pogacar, and Remco Evenepoel has arrived in Quebec"
+ ]
+}

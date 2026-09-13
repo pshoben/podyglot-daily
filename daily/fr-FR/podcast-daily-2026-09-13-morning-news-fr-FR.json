@@ -1,0 +1,350 @@
+{
+ "title": "Le journal du matin, dimanche 13 septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-13",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Dimanche treize septembre, sept heures à Paris. Le journal du matin.",
+   "en": "Sunday the thirteenth of September, seven o'clock in «Paris». The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le détroit d'Ormuz, une frappe contre un navire marchand iranien a fait un mort.",
+   "en": "In the Strait of Hormuz, a strike on an Iranian merchant ship has killed one person.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et une grève de deux jours commence à Radio France.",
+   "en": "And a two-day strike begins at «Radio France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par l'Ormuz, où la frappe a également fait trois blessés dimanche matin.",
+   "en": "We start with Hormuz, where the strike also left three people hurt on Sunday morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ces chiffres viennent des autorités iraniennes,",
+   "en": "Those figures come from the Iranian authorities,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qui n'ont pas précisé l'origine de l'attaque.",
+   "en": "who have not said where the attack came from.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le navire visé était un bâtiment marchand,",
+   "en": "The ship hit was a merchant vessel,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans un contexte de tensions persistantes entre l'Iran et les États-Unis.",
+   "en": "against a background of continuing tension between Iran and the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, les salariés de Radio France ont commencé ce dimanche un mouvement de grève",
+   "en": "In France, «Radio France» staff began a two-day strike",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de deux jours.",
+   "en": "this Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ils protestent contre le recrutement d'un journaliste de Valeurs actuelles comme éditorialiste.",
+   "en": "They are protesting against the hiring of a journalist from «Valeurs actuelles» as a columnist.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les syndicats affirment leur refus catégorique d'entendre la parole de Charles Sapin.",
+   "en": "The unions state their categorical refusal to hear «Charles Sapin» on air.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ils la jugent incompatible avec le service public.",
+   "en": "They judge his voice incompatible with public service broadcasting.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La radio franceinfo a prévenu qu'elle ne pouvait pas diffuser tous ses programmes.",
+   "en": "The «franceinfo» radio station warned it could not put out all of its programmes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité, le ministre de l'Économie, Roland Lescure,",
+   "en": "In other news, the economy minister, «Roland Lescure»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "met sur la table un effort de l'ordre de trente milliards d'euros pour le budget",
+   "en": "has put an effort of around thirty billion euros on the table for the two thousand",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "deux mille vingt-sept.",
+   "en": "and twenty-seven budget.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a assuré qu'aucune pension ne diminuera.",
+   "en": "He said no pension will go down.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sébastien Lecornu lance de son côté une concertation des groupes politiques sur la mise à",
+   "en": "«Sébastien Lecornu» is meanwhile opening talks with the political groups on asking",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "contribution des retraités.",
+   "en": "pensioners to contribute.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à autre chose, Marine Le Pen a fait sa rentrée politique à Hénin-Beaumont.",
+   "en": "Moving on, «Marine Le Pen» has made her political return at «Hénin-Beaumont».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La candidate du Rassemblement national retrouve son fief pour un discours destiné à",
+   "en": "The «Rassemblement national» candidate is back in her stronghold for a speech meant to",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "relancer sa campagne.",
+   "en": "restart her campaign.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre sujet maintenant, à Venise,",
+   "en": "Turning to something else, in Venice,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le Lion d'or est allé au film Woman Unknown, de May el-Toukhy.",
+   "en": "the Golden Lion went to the film Woman Unknown, by «May el-Toukhy».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La quatre-vingt-troisième édition de la Mostra s'est achevée samedi douze septembre,",
+   "en": "The eighty-third «Mostra» closed on Saturday the twelfth of September,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "après dix jours de premières mondiales.",
+   "en": "after ten days of world premieres.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour finir, Céline Dion est remontée sur scène samedi soir, près de Paris.",
+   "en": "Elsewhere, «Céline Dion» returned to the stage on Saturday evening, near «Paris».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'était le premier de ses vingt-six concerts,",
+   "en": "It was the first of her twenty-six concerts,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "après plus de six ans d'absence.",
+   "en": "after more than six years away.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Devant trente mille spectateurs, elle a donné vingt-cinq titres en deux heures et quart.",
+   "en": "In front of thirty thousand people, she sang twenty-five songs over two and a quarter hours.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Sunday 13 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "One dead after a strike on an Iranian merchant ship in the Strait of Hormuz",
+ "summary_en": [
+  "One dead after a strike on an Iranian merchant ship in the Strait of Hormuz",
+  "A two-day strike begins at Radio France over a new columnist",
+  "The unions call the new columnist incompatible with public service broadcasting"
+ ]
+}

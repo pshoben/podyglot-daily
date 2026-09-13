@@ -1,0 +1,159 @@
+{
+ "title": "El deporte, miércoles 9 de septiembre",
+ "dialect": "es-AR",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-AR-daily-sport",
+   "wpm": 195,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-09",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Hoy se juega la Champions League, el máximo torneo de clubes de Europa.",
+   "en": "There is Champions League football today, Europe's top club competition.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según Clarín, el Galatasaray debuta este miércoles y el Fenerbahce lo hará el jueves.",
+   "en": "According to «Clarín», «Galatasaray» make their debut on Wednesday and «Fenerbahce» on Thursday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El diario enmarca a los dos clubes en el boom de la Liga de Turquía.",
+   "en": "The paper frames both clubs as part of the boom in the Turkish league.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El desembarco de notables futbolistas puso el foco sobre ese país.",
+   "en": "The arrival of well-known footballers has put the spotlight on the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ya había pasado años atrás con China o con Arabia Saudita.",
+   "en": "The same thing happened years ago with China or Saudi Arabia.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Nación ubica al torneo europeo en su agenda televisiva de la jornada.",
+   "en": "«La Nación» puts the European competition in its television schedule for the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lionel Messi llegó a un principio de acuerdo para comprar un club en España.",
+   "en": "«Lionel Messi» has reached an agreement in principle to buy a club in Spain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según La Nación, se trata de un club de la segunda división.",
+   "en": "According to «La Nación», it is a club in the second division.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El astro estaría próximo a convertirse en el principal accionista del Eldense.",
+   "en": "The player would be close to becoming the principal shareholder of «Eldense».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo haría sin intervención de terceros.",
+   "en": "He would do it with no third parties involved.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ámbito contó ayer que Messi va por su segundo club en el país.",
+   "en": "«Ámbito» said yesterday that «Messi» is going for his second club in the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y agregó que, en Europa, se posiciona como un gran empresario de clubes.",
+   "en": "And it added that in Europe he is positioning himself as a big name in the club business.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es el deporte.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Wednesday 9 September",
+ "edition": "morning",
+ "region": "es-AR",
+ "region_label": "Argentina",
+ "headline_en": "Football: Champions League matches on Wednesday, with Galatasaray making its debut",
+ "summary_en": [
+  "Football: Champions League matches on Wednesday, with Galatasaray making its debut",
+  "Football: Lionel Messi reaches an agreement in principle to buy a Spanish second-division club"
+ ]
+}

@@ -1,0 +1,320 @@
+{
+ "title": "Las noticias de la mañana, miércoles 9 de septiembre",
+ "dialect": "es-CL",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-CL-daily-news",
+   "wpm": 205,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-09",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Miércoles nueve de septiembre. Las noticias de la mañana.",
+   "en": "Wednesday 9th September. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Cancillería convocó al embajador de Estados Unidos, Brandon Judd,",
+   "en": "Chile's foreign ministry has summoned the United States ambassador, «Brandon Judd»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por sus dichos sobre el estallido social.",
+   "en": "over his remarks on the social unrest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el IPC de agosto subió cero coma seis por ciento, por sobre lo proyectado.",
+   "en": "And August inflation rose 0.6 per cent, above what had been projected.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según La Tercera, el embajador aseguró que existe",
+   "en": "According to «La Tercera», the ambassador said",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un análisis específico de las agencias de inteligencia estadounidenses.",
+   "en": "there is a specific analysis by the United States intelligence agencies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y afirmó que esas agencias",
+   "en": "And he said those agencies",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "concluyeron que los disturbios de dos mil diecinueve provinieron de organizaciones de izquierda.",
+   "en": "concluded that the 2019 disturbances came from left-wing organisations.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Señaló además que esa información podría compartirse si el Gobierno chileno la solicita.",
+   "en": "He also indicated that the information could be shared if Chile's government asks for it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Gobierno dijo que buscará ponerla a disposición de las instancias correspondientes.",
+   "en": "The government said it will seek to put it before the relevant bodies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Radio Universidad de Chile informó que Exteriores le pedirá los antecedentes que sustentan esa afirmación.",
+   "en": "«Radio Universidad de Chile» reported that the foreign ministry will ask him for the material that supports that claim.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos en Chile, La Tercera reportó que la oposición",
+   "en": "Staying in Chile, «La Tercera» reported that the opposition",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "apuntó al equipo económico del Presidente Kast",
+   "en": "has turned on President «Kast»'s economic team",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tras el alza del IPC.",
+   "en": "after the inflation rise.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el Congreso, Saavedra, presidente de la comisión de Economía,",
+   "en": "In Congress, «Saavedra», who chairs the economy committee,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pidió un golpe de timón a Kast.",
+   "en": "called for a change of course from «Kast».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El mismo diario situó en tres coma seis por ciento el alza acumulada del año.",
+   "en": "The same paper put the year's cumulative rise at 3.6 per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "A doce meses, la inflación llega a cuatro coma uno por ciento.",
+   "en": "Over twelve months, inflation reaches 4.1 per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Radio Universidad de Chile detalló las proyecciones de los expertos para agosto.",
+   "en": "«Radio Universidad de Chile» set out what the experts had projected for August.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Anticipaban un aumento de entre cero coma uno y cero coma cuatro por ciento.",
+   "en": "They had expected a rise of between 0.1 and 0.4 per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Entre las divisiones con alzas destacaron los alimentos y bebidas no alcohólicas y el transporte.",
+   "en": "Among the categories that went up, food and non-alcoholic drinks, and transport stood out.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En lo demás, La Tercera consignó que el Tricel rechazó destituir",
+   "en": "In other news, «La Tercera» said the «Tricel» refused to remove",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "al gobernador metropolitano, Claudio Orrego.",
+   "en": "the metropolitan governor, «Claudio Orrego».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El máximo tribunal electoral desestimó por tres votos contra dos el requerimiento en su contra.",
+   "en": "The top electoral court threw out the request against him by three votes to two.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo habían presentado consejeros regionales de la UDI y del Partido Republicano.",
+   "en": "It had been brought by regional councillors from the «UDI» and the Republican Party.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo acusaban de faltas a la probidad,",
+   "en": "They accused him of breaches of probity,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sobre todo por contratar sesiones de coaching con recursos públicos.",
+   "en": "mainly over hiring coaching sessions with public money.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ex-Ante precisó que el requerimiento venía de dieciséis consejeros regionales.",
+   "en": "«Ex-Ante» noted that the request came from sixteen regional councillors.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es lo principal.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Wednesday 9 September",
+ "edition": "morning",
+ "region": "es-CL",
+ "region_label": "Chile",
+ "headline_en": "Chile's foreign ministry summons the United States ambassador over his claim that US intelligence blames the 2019 unrest on left-wing organisations",
+ "summary_en": [
+  "Chile's foreign ministry summons the United States ambassador over his claim that US intelligence blames the 2019 unrest on left-wing organisations",
+  "Chile's August inflation comes in at 0.6 per cent, above what analysts projected, and the opposition turns on President Kast's economic team",
+  "Chile's electoral court rejects by three votes to two a request to remove Santiago's metropolitan governor Claudio Orrego"
+ ]
+}

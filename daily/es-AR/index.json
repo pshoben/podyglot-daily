@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-AR-El noticiero de la mañana, miércoles 9 de septiembre",
+   "file": "podcast-daily-2026-09-09-morning-news-es-AR.json",
+   "bytes": 12552,
+   "sha256": "313afcec727f32d2073e2d2a6c4f4e8deac4e130e428263cc32f48bbcd416af2",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El noticiero de la mañana, miércoles 9 de septiembre",
+   "title_en": "The morning news, Wednesday 9 September",
+   "headline_en": "Oil back above 100 dollars after fresh attacks in the Strait of Hormuz",
+   "summary_en": [
+    "Oil back above 100 dollars after fresh attacks in the Strait of Hormuz",
+    "Argentina adds fifteen more companies and individuals to its Malvinas oil proceedings, taking the total to sixty",
+    "Argentina's lower house sits on Wednesday after the opposition secured a quorum on disability and household debt"
+   ]
+  },
+  {
+   "id": "es-AR-El deporte, miércoles 9 de septiembre",
+   "file": "podcast-daily-2026-09-09-morning-sport-es-AR.json",
+   "bytes": 4376,
+   "sha256": "d39859d5d0e6de42f8d80fd9e5e677bca1c36916688b136bc331ef434c192e3f",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El deporte, miércoles 9 de septiembre",
+   "title_en": "Today's sport, Wednesday 9 September",
+   "headline_en": "Football: Champions League matches on Wednesday, with Galatasaray making its debut",
+   "summary_en": [
+    "Football: Champions League matches on Wednesday, with Galatasaray making its debut",
+    "Football: Lionel Messi reaches an agreement in principle to buy a Spanish second-division club"
+   ]
+  },
+  {
+   "id": "es-AR-El pronóstico, miércoles 9 de septiembre",
+   "file": "podcast-daily-2026-09-09-morning-weather-es-AR.json",
+   "bytes": 5979,
+   "sha256": "bcbff5ed8d94b53e5996b95b430c3642f556f67875b861b1e0e4f3f965db1857",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-AR",
+   "region_label": "Argentina",
+   "title": "El pronóstico, miércoles 9 de septiembre",
+   "title_en": "Today's weather, Wednesday 9 September",
+   "headline_en": "Argentina's weather service: yellow alert for wind, rain and snow on Wednesday, with a warmer, cloudier day in Buenos Aires",
+   "summary_en": [
+    "Argentina's weather service: yellow alert for wind, rain and snow on Wednesday, with a warmer, cloudier day in Buenos Aires",
+    "Buenos Aires on Wednesday: a high of 18 degrees, a low of 8 and a 26 per cent chance of rain"
+   ]
+  },
+  {
    "id": "es-AR-El deporte, martes 8 de septiembre",
    "file": "podcast-daily-2026-09-08-morning-sport-es-AR.json",
    "bytes": 5383,
@@ -287,168 +348,6 @@
    "summary_en": [
     "Monday forecast for Buenos Aires, 31st August",
     "Monday forecast for Córdoba, 31st August"
-   ]
-  },
-  {
-   "id": "es-AR-El noticiero de la mañana, domingo 30 de agosto",
-   "file": "podcast-daily-2026-08-30-morning-news-es-AR.json",
-   "bytes": 8117,
-   "sha256": "c39f9f61e67618335109978fbbfaaf6d87b952eaa5b226cdbb6f9867a0395b43",
-   "date": "2026-08-30",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "es-AR",
-   "region_label": "Argentina",
-   "title": "El noticiero de la mañana, domingo 30 de agosto",
-   "title_en": "The morning news, Sunday 30 August",
-   "headline_en": "The Trump oil pact hands Washington Venezuelan reserves",
-   "summary_en": [
-    "The Trump oil pact hands Washington Venezuelan reserves",
-    "The Casa Rosada courts the PRO with 2027 unsettled"
-   ]
-  },
-  {
-   "id": "es-AR-El deporte, domingo 30 de agosto",
-   "file": "podcast-daily-2026-08-30-morning-sport-es-AR.json",
-   "bytes": 4613,
-   "sha256": "b033a3fa2c4dfb368f09c92621dfd741b3a268f66ccb0ac10d5b1c4999156b8e",
-   "date": "2026-08-30",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "es-AR",
-   "region_label": "Argentina",
-   "title": "El deporte, domingo 30 de agosto",
-   "title_en": "Today's sport, Sunday 30 August",
-   "headline_en": "Los Leones play the Netherlands for third place",
-   "summary_en": [
-    "Los Leones play the Netherlands for third place",
-    "Julian Alvarez back in training as the window closes"
-   ]
-  },
-  {
-   "id": "es-AR-El pronóstico, domingo 30 de agosto",
-   "file": "podcast-daily-2026-08-30-morning-weather-es-AR.json",
-   "bytes": 4738,
-   "sha256": "d4c26137ee9df600448fce8fae22303732495f20923427947e84b43e134976b8",
-   "date": "2026-08-30",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "es-AR",
-   "region_label": "Argentina",
-   "title": "El pronóstico, domingo 30 de agosto",
-   "title_en": "Today's weather, Sunday 30 August",
-   "headline_en": "A dry day in Buenos Aires, up to seventeen degrees",
-   "summary_en": [
-    "A dry day in Buenos Aires, up to seventeen degrees",
-    "Cordoba faces a seventy-three per cent chance of rain"
-   ]
-  },
-  {
-   "id": "es-AR-El noticiero de la mañana, sábado 29 de agosto",
-   "file": "podcast-daily-2026-08-29-morning-news-es-AR.json",
-   "bytes": 7797,
-   "sha256": "4e80d46473a6d5099820f65d1b9fedc3fb125c52aa9438e8a1552a2c19dba350",
-   "date": "2026-08-29",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "es-AR",
-   "region_label": "Argentina",
-   "title": "El noticiero de la mañana, sábado 29 de agosto",
-   "title_en": "The morning news, Saturday 29 August",
-   "headline_en": "A glacier collapse caused the disaster in Nepal",
-   "summary_en": [
-    "A glacier collapse caused the disaster in Nepal",
-    "The unions reject the employers' minimum wage offer",
-    "Medellin is fighting four forest fires at once"
-   ]
-  },
-  {
-   "id": "es-AR-El pronóstico, sábado 29 de agosto",
-   "file": "podcast-daily-2026-08-29-morning-weather-es-AR.json",
-   "bytes": 4565,
-   "sha256": "8fe9ca9afe0a07f7614729da20429c871142f609bbe1d3bbe207f459a6f0ce66",
-   "date": "2026-08-29",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "es-AR",
-   "region_label": "Argentina",
-   "title": "El pronóstico, sábado 29 de agosto",
-   "title_en": "Today's weather, Saturday 29 August",
-   "headline_en": "Previsión para Córdoba, sábado 2026-08-29",
-   "summary_en": [
-    "Previsión para Córdoba, sábado 2026-08-29",
-    "Previsión para Mendoza, sábado 2026-08-29"
-   ]
-  },
-  {
-   "id": "es-AR-El pronóstico, viernes 28 de agosto",
-   "file": "podcast-daily-2026-08-28-morning-weather-es-AR.json",
-   "bytes": 4470,
-   "sha256": "a1a2c03e007fd1709c37e4f276cec9eb24cc8e6f53b24e993819d03ba755bd35",
-   "date": "2026-08-28",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "es-AR",
-   "region_label": "Argentina",
-   "title": "El pronóstico, viernes 28 de agosto",
-   "title_en": "Today's weather, Friday 28 August",
-   "headline_en": "Previsión para Buenos Aires, viernes 2026-08-28",
-   "summary_en": [
-    "Previsión para Buenos Aires, viernes 2026-08-28",
-    "Previsión para Córdoba, viernes 2026-08-28"
-   ]
-  },
-  {
-   "id": "es-AR-El noticiero de la mañana, jueves 27 de agosto",
-   "file": "podcast-daily-2026-08-27-morning-news-es-AR.json",
-   "bytes": 13282,
-   "sha256": "2db118a24a9bfc313a466000bdf8cd58d41ed6b0b3aaa8b5ac40d65e6dd0e6da",
-   "date": "2026-08-27",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "es-AR",
-   "region_label": "Argentina",
-   "title": "El noticiero de la mañana, jueves 27 de agosto",
-   "title_en": "The morning news, Thursday 27 August",
-   "headline_en": "Landslides set off a devastating flood in northern Nepal",
-   "summary_en": [
-    "Landslides set off a devastating flood in northern Nepal",
-    "The Senate sits today on 67 judicial appointments",
-    "The Deputies pass the Central Bank charter reform at first reading"
-   ]
-  },
-  {
-   "id": "es-AR-El pronóstico, jueves 27 de agosto",
-   "file": "podcast-daily-2026-08-27-morning-weather-es-AR.json",
-   "bytes": 4861,
-   "sha256": "0654e56b6f3bb42078ea3c7bc31bc8352c76795ed267a09e2549f296bb546e3d",
-   "date": "2026-08-27",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "es-AR",
-   "region_label": "Argentina",
-   "title": "El pronóstico, jueves 27 de agosto",
-   "title_en": "Today's weather, Thursday 27 August",
-   "headline_en": "Previsión para Buenos Aires, jueves 2026-08-27",
-   "summary_en": [
-    "Previsión para Buenos Aires, jueves 2026-08-27",
-    "Previsión para Mendoza, jueves 2026-08-27"
    ]
   }
  ]
