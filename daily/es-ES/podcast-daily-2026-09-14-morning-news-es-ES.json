@@ -1,0 +1,410 @@
+{
+ "title": "El informativo de la mañana, lunes 14 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-news",
+   "wpm": 208,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-14",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lunes catorce de septiembre, siete de la mañana.",
+   "en": "Monday the fourteenth of September, seven in the morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El informativo de la mañana.",
+   "en": "The morning bulletin.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los socialdemócratas ganan las elecciones en Suecia",
+   "en": "Sweden's Social Democrats win the election",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el bloque de la izquierda se impone por la mínima.",
+   "en": "and the left bloc comes out ahead by the narrowest of margins.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y una estudiante española de intercambio es asesinada en el estado mexicano de Morelos.",
+   "en": "And a Spanish exchange student is murdered in the Mexican state of «Morelos».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Abrimos con Suecia, donde los socialdemócratas fueron el partido más votado este domingo.",
+   "en": "We open in Sweden, where the Social Democrats were the party with the most votes on Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El bloque de izquierdas queda por delante del bloque de la derecha en un",
+   "en": "The left bloc ends up ahead of the",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "recuento muy ajustado.",
+   "en": "right in a very tight count.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los Demócratas Suecos, de extrema derecha, retrocedieron y quedaron por detrás de los conservadores.",
+   "en": "The far-right Sweden Democrats slipped back and ended up behind the conservatives.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El recuento no ha terminado: según ABC,",
+   "en": "The count is not over: according to «ABC»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "faltaba por escrutar una sexta parte de los votos.",
+   "en": "a sixth of the votes were still to be counted.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Mundo informa de que el ganador podría no proclamarse hasta dentro de varios días.",
+   "en": "«El Mundo» reports that the winner may not be declared for several days.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Antes deben contabilizarse todos los votos emitidos en el extranjero.",
+   "en": "All the votes cast abroad have to be counted before that.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en España, una estudiante española de veintiún años fue asesinada en el estado",
+   "en": "Here in Spain, a Spanish student of twenty-one was murdered in the Mexican",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "mexicano de Morelos.",
+   "en": "state of «Morelos».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La joven se encontraba en México en un intercambio académico.",
+   "en": "The young woman was in Mexico on an academic exchange.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Fiscalía estatal investiga el crimen como feminicidio.",
+   "en": "The state prosecutor's office is investigating the crime as a feminicide.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el resto de la actualidad, Metro de Madrid",
+   "en": "In other news, «Metro de Madrid» halted",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "interrumpió esta mañana la circulación en la línea nueve.",
+   "en": "trains on line nine this morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El corte alcanza el tramo entre Sainz de Baranda y Puerta de Arganda,",
+   "en": "The closure covers the stretch between «Sainz de Baranda» and «Puerta de Arganda», in",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en los dos sentidos.",
+   "en": "both directions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El suburbano atribuyó la interrupción a causas técnicas.",
+   "en": "The underground operator put the stoppage down to technical causes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Metro lo comunicó a las seis",
+   "en": "«Metro» announced it at six",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y catorce de la mañana en la red social X.",
+   "en": "fourteen in the morning on the social network X.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El autobús setenta y uno de la EMT cubre ese mismo trayecto.",
+   "en": "The number seventy-one bus run by the «EMT» is covering the same route.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La compañía no ha comunicado ningún herido",
+   "en": "The company has reported nobody hurt,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el suceso ocurrió antes de la apertura del servicio.",
+   "en": "and the incident happened before the service opened.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de tema, los responsables de las principales empresas de inteligencia artificial pidieron frenar el",
+   "en": "Moving on, the people running the main artificial intelligence companies have called for the development of the",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "desarrollo de esta tecnología.",
+   "en": "technology to be slowed down.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Entre ellos están Dario Amodei,",
+   "en": "Among them are «Dario Amodei»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sam Altman y Elon Musk.",
+   "en": "«Sam Altman» and «Elon Musk».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según ABC, el presidente de Estados Unidos se opuso a esos llamamientos.",
+   "en": "According to «ABC», the president of the United States came out against those calls.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "«Hay muchas fuerzas negativas que están sacando eso y no deberían hacerlo», dijo Donald Trump.",
+   "en": "\"There are a lot of negative forces pushing this, and they should not be doing it,\" said «Donald Trump».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según El Mundo, la Casa Blanca y el Congreso rechazan intervenir.",
+   "en": "According to «El Mundo», the White House and Congress are refusing to step in.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para terminar, el presidente de la Generalitat, Salvador Illa,",
+   "en": "To finish, the head of the Catalan government, «Salvador Illa»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ofrece hoy una conferencia en les Drassanes de Barcelona.",
+   "en": "gives a conference today at «les Drassanes» in «Barcelona».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La cita coincide con la mitad de su mandato al frente del Gobierno catalán.",
+   "en": "It falls at the halfway point of his term in office.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí lo esencial.",
+   "en": "Those are the essentials for now.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Monday 14 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Sweden's Social Democrats win and the left bloc takes the narrowest of majorities",
+ "summary_en": [
+  "Sweden's Social Democrats win and the left bloc takes the narrowest of majorities",
+  "A Spanish exchange student is murdered in the Mexican state of Morelos",
+  "The Sweden Democrats slip back and are overtaken by the conservatives"
+ ]
+}

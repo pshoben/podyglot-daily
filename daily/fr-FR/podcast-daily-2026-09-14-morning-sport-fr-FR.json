@@ -1,0 +1,209 @@
+{
+ "title": "Le sport, lundi 14 septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-14",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le sport de ce lundi quatorze septembre.",
+   "en": "The sport on this Monday the fourteenth of September.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au programme, du football, et d'abord une nomination.",
+   "en": "Coming up, football, and first of all an appointment.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Argentin Marcelo Gallardo a été nommé sélectionneur de l'Équateur.",
+   "en": "«Marcelo Gallardo» of Argentina has been named head coach of Ecuador.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le nouveau sélectionneur a cinquante ans.",
+   "en": "The new head coach is fifty.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il avait auparavant dirigé River Plate.",
+   "en": "He was previously the coach at «River Plate».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il succède à son compatriote Sebastian Beccacece.",
+   "en": "He succeeds his compatriot «Sebastian Beccacece».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Du côté du Ballon d'or,",
+   "en": "On to the «Ballon d'or»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les différents prétendants ont lancé leur campagne.",
+   "en": "where the various contenders have begun their campaigns.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Après Kylian Mbappé la semaine dernière,",
+   "en": "After «Kylian Mbappé» last week,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lamine Yamal s'est positionné à son tour.",
+   "en": "«Lamine Yamal» has now put his own case.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans un entretien donné à Movistar Plus Deportes,",
+   "en": "In an interview given to «Movistar Plus Deportes»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "il a longuement parlé du trophée.",
+   "en": "he talked at length about the trophy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il y a cité Kylian Mbappé parmi ses concurrents,",
+   "en": "He named «Kylian Mbappé» among his rivals,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sans manquer de le complimenter.",
+   "en": "and made a point of praising him.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ousmane Dembélé a répondu, lui, à l'entretien donné par Kylian Mbappé à France Football.",
+   "en": "«Ousmane Dembélé», meanwhile, has answered the interview «Kylian Mbappé» gave to «France Football».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon l'attaquant du Paris Saint-Germain,",
+   "en": "According to the «Paris Saint-Germain» forward,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "il n'a jamais été vu comme l'élu.",
+   "en": "he has never been seen as the chosen one.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport.",
+   "en": "And that is the sport for this Monday morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Monday 14 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Marcelo Gallardo named head coach of Ecuador",
+ "summary_en": [
+  "Marcelo Gallardo named head coach of Ecuador",
+  "The Ballon d'Or contenders begin their campaigns"
+ ]
+}

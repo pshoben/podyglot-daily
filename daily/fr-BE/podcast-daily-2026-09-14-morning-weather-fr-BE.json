@@ -1,0 +1,209 @@
+{
+ "title": "Le temps chez nous, lundi 14 septembre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-weather",
+   "wpm": 222,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-14",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Au-dessus de nos têtes aujourd'hui, la brume matinale se dissipe lentement, selon l'IRM.",
+   "en": "Above our heads today, the morning mist is clearing slowly, according to the «IRM».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ciel sera ensuite parsemé de nombreuses formations nuageuses et de quelques éclaircies.",
+   "en": "The sky will then be dotted with a good deal of cloud and a few sunny spells.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Grisaille matinale, donc, avant le retour des éclaircies et d'un temps doux.",
+   "en": "So a grey start, before the brighter spells and the mild air come back.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon le modèle du Centre européen, l'ECMWF,",
+   "en": "According to the European Centre model, the «ECMWF»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Bruxelles passe la journée sous la bruine.",
+   "en": "Brussels spends the day under drizzle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le maximum bruxellois atteint vingt-trois degrés, le minimum dix-huit.",
+   "en": "The Brussels high reaches twenty-three degrees, the low eighteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le risque de pluie y est donné à quatre-vingt-six pour cent,",
+   "en": "The chance of rain there is given as eighty-six per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un vent maximal de douze kilomètres par heure.",
+   "en": "with winds up to twelve kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Même bruine sur Namur, avec un maximum de vingt-quatre degrés et un minimum de dix-sept.",
+   "en": "The same drizzle over «Namur», with a high of twenty-four degrees and a low of seventeen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le risque de pluie namurois grimpe à quatre-vingt-sept pour cent,",
+   "en": "The «Namur» chance of rain climbs to eighty-seven per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le vent restant à onze kilomètres par heure.",
+   "en": "with the wind holding at eleven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'une région à l'autre, Liège reste sous un ciel couvert.",
+   "en": "From one region to the next, «Liège» stays under an overcast sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le maximum liégeois atteint vingt-quatre degrés,",
+   "en": "The «Liège» high reaches twenty-four degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec seize degrés au plus bas.",
+   "en": "with sixteen degrees at its lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le risque de pluie y descend à soixante-sept pour cent,",
+   "en": "The chance of rain there drops to sixty-seven per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un vent de neuf kilomètres par heure.",
+   "en": "with a wind of nine kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Gare aux parapluies, donc, sur une bonne partie du pays.",
+   "en": "So keep an umbrella handy across a good part of the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le temps chez nous.",
+   "en": "That is the sky over Belgium for today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Monday 14 September",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Monday forecast for Belgium from the IRM, 14th September",
+ "summary_en": [
+  "Monday forecast for Belgium from the IRM, 14th September",
+  "Monday forecast for Bruxelles, 14th September"
+ ]
+}

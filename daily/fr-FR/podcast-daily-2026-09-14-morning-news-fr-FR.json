@@ -1,0 +1,480 @@
+{
+ "title": "Le journal du matin, lundi 14 septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-14",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lundi quatorze septembre, sept heures à Paris. Le journal du matin.",
+   "en": "Monday the fourteenth of September, seven o'clock in «Paris». The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Ukraine, un train qui reliait Kiev à Varsovie a été frappé par",
+   "en": "In Ukraine, a train running from Kyiv to Warsaw has been hit by",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un drone russe.",
+   "en": "a Russian drone.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et la France présente à Bruxelles une nouvelle version de son interdiction des réseaux sociaux",
+   "en": "And France is sending Brussels a new version of its ban on",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "aux moins de quinze ans.",
+   "en": "social media for under-fifteens.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par l'Ukraine, où le train a été touché à deux kilomètres de la",
+   "en": "We start with Ukraine, where the train was hit two kilometres from",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "frontière avec la Pologne.",
+   "en": "the Polish border.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon la compagnie ferroviaire ukrainienne,",
+   "en": "According to the Ukrainian rail company,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "l'attaque n'a fait aucune victime parmi les passagers.",
+   "en": "none of the passengers was hurt in the attack.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Ukraine a dénoncé une attaque systémique contre son réseau ferroviaire.",
+   "en": "Ukraine has denounced a systemic attack on its rail network.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Pologne, membre de l'OTAN,",
+   "en": "Poland, a member of NATO,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "redoute une escalade de la part de la Russie.",
+   "en": "fears an escalation by Russia.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un convoi de dignitaires européens avait été immobilisé dimanche sur la même ligne,",
+   "en": "A convoy of European dignitaries had been stopped on the same line on Sunday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en raison de menaces de frappes russes.",
+   "en": "because of the threat of Russian strikes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, le gouvernement soumet ce lundi à Bruxelles une nouvelle version de son texte.",
+   "en": "In France, the government is submitting a new version of its text to Brussels this Monday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le projet remanié à la demande d'Emmanuel Macron viserait les fonctionnalités nocives,",
+   "en": "The plan, reworked at «Emmanuel Macron»'s request, would target harmful features,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "comme le déclenchement automatique des vidéos,",
+   "en": "such as videos that start on their own,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "plutôt que les plateformes elles-mêmes.",
+   "en": "rather than the platforms themselves.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il prévoit aussi des dérogations parentales.",
+   "en": "It also provides for parental exemptions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Conseil constitutionnel avait jugé le mois dernier que le texte voté par le Parlement",
+   "en": "The Constitutional Council ruled last month that the text passed by Parliament was",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "portait une atteinte disproportionnée à la liberté d'expression.",
+   "en": "a disproportionate infringement of freedom of expression.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il avait dans le même temps reconnu l'exigence constitutionnelle de protection de l'intérêt",
+   "en": "At the same time it recognised the constitutional requirement to protect the best interests",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "supérieur de l'enfant.",
+   "en": "of the child.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la sécheresse fait craindre des prix en hausse dans les grandes surfaces.",
+   "en": "there are fears that the drought will push supermarket prices up.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les fortes chaleurs de l'été",
+   "en": "The summer's heat",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le manque de pluie ont mis à mal les récoltes des agriculteurs français.",
+   "en": "and the lack of rain have damaged French farmers' harvests.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ceux-ci demandent une hausse des prix,",
+   "en": "The farmers are asking for higher prices,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tout comme les industriels de l'agroalimentaire,",
+   "en": "as are the food manufacturers,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dont les coûts ont explosé.",
+   "en": "whose costs have shot up.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre sujet maintenant, en Israël,",
+   "en": "Elsewhere, in Israel,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le ministre de la Culture veut retirer leur citoyenneté aux réalisateurs du documentaire Naza.",
+   "en": "the culture minister wants the makers of the documentary «Naza» stripped of their citizenship.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Miki Zohar l'a réclamé dimanche soir pour Yuval Abraham et Rachel Szor,",
+   "en": "«Miki Zohar» made the call on Sunday evening, naming «Yuval Abraham» and «Rachel Szor», whose",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dont le film a été primé à Venise.",
+   "en": "film won a prize in Venice.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Leur documentaire décrit, témoignages de militaires à l'appui,",
+   "en": "Their documentary sets out, with soldiers' own accounts,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "comment des civils sont tués par l'armée israélienne à Gaza.",
+   "en": "how civilians are being killed by the Israeli army in «Gaza».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à autre chose, au Japon,",
+   "en": "Moving on, in Japan,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "deux dirigeants d'une centrale nucléaire ont démissionné ce lundi.",
+   "en": "two executives at a nuclear plant have resigned this Monday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'opérateur Chubu Electric Power va retirer ses demandes de redémarrage de deux réacteurs,",
+   "en": "The operator «Chubu Electric Power» will withdraw its applications to restart two reactors,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "après la découverte de données sismiques manipulées.",
+   "en": "after seismic data was found to have been manipulated.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour finir, en Suède, le résultat des élections législatives de dimanche reste provisoire.",
+   "en": "Lastly, in Sweden, the result of Sunday's parliamentary election remains provisional.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon des résultats préliminaires, le bloc des sociaux-démocrates devance de peu l'alliance de la droite",
+   "en": "According to preliminary results, the Social Democrat bloc is narrowly ahead of the alliance of the right",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et de l'extrême droite, au pouvoir depuis deux mille vingt-deux.",
+   "en": "and the far right, in power since two thousand and twenty-two.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les sociaux-démocrates se sont dits prêts à gouverner.",
+   "en": "The Social Democrats have said they are ready to govern.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is the news that matters this Monday morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Monday 14 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "A Russian drone hits a train running from Kyiv to Warsaw",
+ "summary_en": [
+  "A Russian drone hits a train running from Kyiv to Warsaw",
+  "France sends Brussels a new version of its under-15 social media ban",
+  "Ukraine calls the strikes a systemic attack on its rail network"
+ ]
+}

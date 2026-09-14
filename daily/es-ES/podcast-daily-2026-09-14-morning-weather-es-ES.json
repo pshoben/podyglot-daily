@@ -1,0 +1,233 @@
+{
+ "title": "El tiempo, lunes 14 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather",
+   "wpm": 208,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-14",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Según la Agencia Estatal de Meteorología,",
+   "en": "According to the state weather agency,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "hoy hay avisos amarillos por temperaturas máximas en el norte peninsular.",
+   "en": "there are yellow warnings today for high temperatures in the north of the peninsula.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Alcanzan la Cantabria del Ebro y Liébana,",
+   "en": "They reach «Cantabria del Ebro» and «Liébana», south-western «Asturias»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la suroccidental asturiana y el sur de Lugo y de Ourense.",
+   "en": "and the south of «Lugo» and «Ourense».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La misma agencia mantiene avisos amarillos por calor en Extremadura y en el Ampurdán.",
+   "en": "The same agency has yellow heat warnings out for «Extremadura» and the «Ampurdán».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Extremadura cubren las Vegas del Guadiana,",
+   "en": "In «Extremadura» they cover the «Vegas del Guadiana»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el norte de Cáceres y la comarca de Villuercas y Montánchez.",
+   "en": "the north of «Cáceres» and the «Villuercas y Montánchez» district.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Madrid el cielo queda despejado durante toda la jornada.",
+   "en": "In «Madrid» the sky stays clear all day long.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima llega a treinta y cuatro grados y la mínima baja a diecinueve.",
+   "en": "The high reaches thirty-four degrees and the low drops to nineteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por comunidades, Barcelona amanece con cielo poco nuboso.",
+   "en": "Region by region, «Barcelona» wakes to a lightly clouded sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí la máxima se queda en treinta y dos grados, con veintiuno de mínima.",
+   "en": "There the high stops at thirty-two degrees, with twenty-one as the low.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En València el cielo también queda poco nuboso,",
+   "en": "In «València» the sky is lightly clouded too,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con treinta grados de máxima.",
+   "en": "with a high of thirty degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima valenciana baja hasta los dieciocho grados.",
+   "en": "The «València» low comes down to eighteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En A Coruña el cielo está despejado y la máxima se queda en veintisiete grados.",
+   "en": "In «A Coruña» the sky is clear and the high stops at twenty-seven degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es la máxima más suave de las cinco ciudades, con diecisiete de mínima.",
+   "en": "It is the mildest high of the five cities, with seventeen as the low.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Bilbao la máxima sube a treinta y tres grados.",
+   "en": "In «Bilbao» the high climbs to thirty-three degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima bilbaína cae a catorce grados,",
+   "en": "The «Bilbao» low falls to fourteen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la más baja del día.",
+   "en": "the lowest of the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí el tiempo.",
+   "en": "And that is where the weather stands.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Monday 14 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "España",
+ "accent": "Castilla",
+ "accent_label": "acento de Castilla",
+ "segment_order": 0,
+ "headline_en": "AEMET has yellow heat warnings out across the north of the peninsula",
+ "summary_en": [
+  "AEMET has yellow heat warnings out across the north of the peninsula",
+  "Yellow heat warnings also cover Extremadura and the Emporda in Girona"
+ ]
+}

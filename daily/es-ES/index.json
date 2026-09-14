@@ -5,6 +5,107 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-ES-El informativo de la mañana, lunes 14 de septiembre",
+   "file": "podcast-daily-2026-09-14-morning-news-es-ES.json",
+   "bytes": 10368,
+   "sha256": "ae485ac4a649a2808cc7763b4ada214caacd154942ff2e2ba9a1fb742d99b9f4",
+   "date": "2026-09-14",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, lunes 14 de septiembre",
+   "title_en": "The morning news, Monday 14 September",
+   "headline_en": "Sweden's Social Democrats win and the left bloc takes the narrowest of majorities",
+   "summary_en": [
+    "Sweden's Social Democrats win and the left bloc takes the narrowest of majorities",
+    "A Spanish exchange student is murdered in the Mexican state of Morelos",
+    "The Sweden Democrats slip back and are overtaken by the conservatives"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, lunes 14 de septiembre",
+   "file": "podcast-daily-2026-09-14-morning-sport-es-ES.json",
+   "bytes": 4646,
+   "sha256": "7bd1f206d99b17bcbb899142e8d5f9584bf63f9f3d17c48d9b957ce59a2dd9fb",
+   "date": "2026-09-14",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, lunes 14 de septiembre",
+   "title_en": "Today's sport, Monday 14 September",
+   "headline_en": "Villarreal host Real Betis at La Ceramica",
+   "summary_en": [
+    "Villarreal host Real Betis at La Ceramica",
+    "Valencia dismiss their coach and their football chief executive"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, lunes 14 de septiembre",
+   "file": "podcast-daily-2026-09-14-morning-weather-es-ES.json",
+   "bytes": 5858,
+   "sha256": "fe39d4d791c9a129565d8b1997047e90d7a54a8dc894114b2359042305c69b53",
+   "date": "2026-09-14",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, lunes 14 de septiembre",
+   "title_en": "Today's weather, Monday 14 September",
+   "headline_en": "AEMET has yellow heat warnings out across the north of the peninsula",
+   "summary_en": [
+    "AEMET has yellow heat warnings out across the north of the peninsula",
+    "Yellow heat warnings also cover Extremadura and the Emporda in Girona"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, lunes 14 de septiembre",
+   "file": "podcast-daily-2026-09-14-morning-weather-andalucia-es-ES.json",
+   "bytes": 4651,
+   "sha256": "ee590dde8cfe25ec0ffb04ec4a9d0f125e2b64c659fbe1b4bb4ad945c232d7b1",
+   "date": "2026-09-14",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, lunes 14 de septiembre",
+   "title_en": "Today's weather, Andalusia, Monday 14 September",
+   "headline_en": "Monday AEMET forecast for Sevilla, 14th September",
+   "summary_en": [
+    "Monday AEMET forecast for Sevilla, 14th September",
+    "Monday AEMET forecast for Córdoba, 14th September"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, lunes 14 de septiembre",
+   "file": "podcast-daily-2026-09-14-morning-weather-canarias-es-ES.json",
+   "bytes": 5200,
+   "sha256": "42b02b01497de13624121c4567abd5d3928afee8fc5940644281b48853f44360",
+   "date": "2026-09-14",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, lunes 14 de septiembre",
+   "title_en": "Today's weather, Canary Islands, Monday 14 September",
+   "headline_en": "Yellow heat warnings cover Gran Canaria and Tenerife through the middle of the day",
+   "summary_en": [
+    "Yellow heat warnings cover Gran Canaria and Tenerife through the middle of the day",
+    "A yellow warning for suspended dust covers Lanzarote and Fuerteventura"
+   ]
+  },
+  {
    "id": "es-ES-El informativo de la mañana, domingo 13 de septiembre",
    "file": "podcast-daily-2026-09-13-morning-news-es-ES.json",
    "bytes": 7155,
@@ -1012,107 +1113,6 @@
    "summary_en": [
     "Tuesday AEMET forecast for Las Palmas de Gran Canaria, 1st September",
     "Tuesday AEMET forecast for Santa Cruz de Tenerife, 1st September"
-   ]
-  },
-  {
-   "id": "es-ES-El informativo de la mañana, lunes 31 de agosto",
-   "file": "podcast-daily-2026-08-31-morning-news-es-ES.json",
-   "bytes": 9054,
-   "sha256": "7c20a260164d95960816c4bb9f40b1ae5a8e3bd3b764f68ce4133c832aa00854",
-   "date": "2026-08-31",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El informativo de la mañana, lunes 31 de agosto",
-   "title_en": "The morning news, Monday 31 August",
-   "headline_en": "The United States and Iran have exchanged attacks for the first time in a month",
-   "summary_en": [
-    "The United States and Iran have exchanged attacks for the first time in a month",
-    "Hundreds of migrants are still waiting to be taken in at Ceuta",
-    "Iran replied with missiles on Jordan and drones on a base in the Emirates"
-   ]
-  },
-  {
-   "id": "es-ES-Los deportes, lunes 31 de agosto",
-   "file": "podcast-daily-2026-08-31-morning-sport-es-ES.json",
-   "bytes": 5092,
-   "sha256": "29a18d159a640e92da941128646f9d62dd11d4f6825eb394e16c55bf2c79e7a2",
-   "date": "2026-08-31",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "Los deportes, lunes 31 de agosto",
-   "title_en": "Today's sport, Monday 31 August",
-   "headline_en": "The Spanish transfer window closes on Tuesday night",
-   "summary_en": [
-    "The Spanish transfer window closes on Tuesday night",
-    "Gabriel Jesus joins Barcelona from Arsenal"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo, lunes 31 de agosto",
-   "file": "podcast-daily-2026-08-31-morning-weather-es-ES.json",
-   "bytes": 6465,
-   "sha256": "bf927b5e36af005deea4af13cc56f222e068e6da9b3614edd75cfa69c1d1192b",
-   "date": "2026-08-31",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": 0,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo, lunes 31 de agosto",
-   "title_en": "Today's weather, Monday 31 August",
-   "headline_en": "Monday AEMET forecast for Madrid, 31st August",
-   "summary_en": [
-    "Monday AEMET forecast for Madrid, 31st August",
-    "Monday AEMET forecast for Barcelona, 31st August"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo en Andalucía, lunes 31 de agosto",
-   "file": "podcast-daily-2026-08-31-morning-weather-andalucia-es-ES.json",
-   "bytes": 3726,
-   "sha256": "f74ecdf7fcac1bf96a23162f7a34e0e393817547c9d84cab10a5ff9a06dd9efa",
-   "date": "2026-08-31",
-   "edition": "morning",
-   "programme": "weather-andalucia",
-   "programme_order": 3,
-   "segment_order": 1,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo en Andalucía, lunes 31 de agosto",
-   "title_en": "Today's weather, Andalusia, Monday 31 August",
-   "headline_en": "Monday AEMET forecast for Córdoba, 31st August",
-   "summary_en": [
-    "Monday AEMET forecast for Córdoba, 31st August",
-    "Monday AEMET forecast for Sevilla, 31st August"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo en Canarias, lunes 31 de agosto",
-   "file": "podcast-daily-2026-08-31-morning-weather-canarias-es-ES.json",
-   "bytes": 3763,
-   "sha256": "cef8b421f1eda20b596ac090b953939d953c94fb4b9f35f204238735fcfefb13",
-   "date": "2026-08-31",
-   "edition": "morning",
-   "programme": "weather-canarias",
-   "programme_order": 4,
-   "segment_order": 2,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo en Canarias, lunes 31 de agosto",
-   "title_en": "Today's weather, Canary Islands, Monday 31 August",
-   "headline_en": "Monday AEMET forecast for Las Palmas de Gran Canaria, 31st August",
-   "summary_en": [
-    "Monday AEMET forecast for Las Palmas de Gran Canaria, 31st August",
-    "Monday AEMET forecast for Santa Cruz de Tenerife, 31st August"
    ]
   }
  ]

@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-BE",
+ "date": "2026-09-14",
+ "episodes": [
+  {
+   "id": "fr-BE-Le sept heures, lundi 14 septembre",
+   "file": "podcast-daily-2026-09-14-morning-news-fr-BE.json",
+   "bytes": 8878,
+   "sha256": "d4d3ac8450f173667dbf8f4771eaca36aa4d05a224748bc083314e56df33d0f9",
+   "date": "2026-09-14",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, lundi 14 septembre",
+   "title_en": "The morning news, Monday 14 September",
+   "headline_en": "France puts forward a new version of its social media ban for under-fifteens",
+   "summary_en": [
+    "France puts forward a new version of its social media ban for under-fifteens",
+    "The province of East Flanders dismisses a teacher over her headscarf",
+    "A finance department note suggests taxing the non-profit sector"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, lundi 14 septembre",
+   "file": "podcast-daily-2026-09-14-morning-weather-fr-BE.json",
+   "bytes": 5297,
+   "sha256": "d26a0b1a48bff4821a9b190ced434e29fe12f5d398eeeabd11cfe3a26b6d8119",
+   "date": "2026-09-14",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, lundi 14 septembre",
+   "title_en": "Today's weather, Monday 14 September",
+   "headline_en": "Monday forecast for Belgium from the IRM, 14th September",
+   "summary_en": [
+    "Monday forecast for Belgium from the IRM, 14th September",
+    "Monday forecast for Bruxelles, 14th September"
+   ]
+  }
+ ],
+ "content": "4a472414a364b3a40a4ef936700fe896b609d438118846abb256cdcc8014085f",
+ "rev": 1,
+ "updated": "2026-09-14T08:13:30.085Z"
+}

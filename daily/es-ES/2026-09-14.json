@@ -1,0 +1,112 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-ES",
+ "date": "2026-09-14",
+ "episodes": [
+  {
+   "id": "es-ES-El informativo de la mañana, lunes 14 de septiembre",
+   "file": "podcast-daily-2026-09-14-morning-news-es-ES.json",
+   "bytes": 10368,
+   "sha256": "ae485ac4a649a2808cc7763b4ada214caacd154942ff2e2ba9a1fb742d99b9f4",
+   "date": "2026-09-14",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, lunes 14 de septiembre",
+   "title_en": "The morning news, Monday 14 September",
+   "headline_en": "Sweden's Social Democrats win and the left bloc takes the narrowest of majorities",
+   "summary_en": [
+    "Sweden's Social Democrats win and the left bloc takes the narrowest of majorities",
+    "A Spanish exchange student is murdered in the Mexican state of Morelos",
+    "The Sweden Democrats slip back and are overtaken by the conservatives"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, lunes 14 de septiembre",
+   "file": "podcast-daily-2026-09-14-morning-sport-es-ES.json",
+   "bytes": 4646,
+   "sha256": "7bd1f206d99b17bcbb899142e8d5f9584bf63f9f3d17c48d9b957ce59a2dd9fb",
+   "date": "2026-09-14",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, lunes 14 de septiembre",
+   "title_en": "Today's sport, Monday 14 September",
+   "headline_en": "Villarreal host Real Betis at La Ceramica",
+   "summary_en": [
+    "Villarreal host Real Betis at La Ceramica",
+    "Valencia dismiss their coach and their football chief executive"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, lunes 14 de septiembre",
+   "file": "podcast-daily-2026-09-14-morning-weather-es-ES.json",
+   "bytes": 5858,
+   "sha256": "fe39d4d791c9a129565d8b1997047e90d7a54a8dc894114b2359042305c69b53",
+   "date": "2026-09-14",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, lunes 14 de septiembre",
+   "title_en": "Today's weather, Monday 14 September",
+   "headline_en": "AEMET has yellow heat warnings out across the north of the peninsula",
+   "summary_en": [
+    "AEMET has yellow heat warnings out across the north of the peninsula",
+    "Yellow heat warnings also cover Extremadura and the Emporda in Girona"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, lunes 14 de septiembre",
+   "file": "podcast-daily-2026-09-14-morning-weather-andalucia-es-ES.json",
+   "bytes": 4651,
+   "sha256": "ee590dde8cfe25ec0ffb04ec4a9d0f125e2b64c659fbe1b4bb4ad945c232d7b1",
+   "date": "2026-09-14",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, lunes 14 de septiembre",
+   "title_en": "Today's weather, Andalusia, Monday 14 September",
+   "headline_en": "Monday AEMET forecast for Sevilla, 14th September",
+   "summary_en": [
+    "Monday AEMET forecast for Sevilla, 14th September",
+    "Monday AEMET forecast for Córdoba, 14th September"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, lunes 14 de septiembre",
+   "file": "podcast-daily-2026-09-14-morning-weather-canarias-es-ES.json",
+   "bytes": 5200,
+   "sha256": "42b02b01497de13624121c4567abd5d3928afee8fc5940644281b48853f44360",
+   "date": "2026-09-14",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, lunes 14 de septiembre",
+   "title_en": "Today's weather, Canary Islands, Monday 14 September",
+   "headline_en": "Yellow heat warnings cover Gran Canaria and Tenerife through the middle of the day",
+   "summary_en": [
+    "Yellow heat warnings cover Gran Canaria and Tenerife through the middle of the day",
+    "A yellow warning for suspended dust covers Lanzarote and Fuerteventura"
+   ]
+  }
+ ],
+ "content": "d0b760df1dcb178552be8fc84620350ba0dca65d720d249744a9465db2a11423",
+ "rev": 1,
+ "updated": "2026-09-14T08:13:30.085Z"
+}

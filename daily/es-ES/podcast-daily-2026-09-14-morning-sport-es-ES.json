@@ -1,0 +1,179 @@
+{
+ "title": "Los deportes, lunes 14 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-sport",
+   "wpm": 208,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-14",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Los deportes de este lunes.",
+   "en": "This Monday's sport.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La quinta jornada de LaLiga se cierra hoy en el estadio de La Cerámica.",
+   "en": "The fifth round of «LaLiga» closes today at «La Cerámica».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Villarreal recibe allí al Real Betis.",
+   "en": "«Villarreal» host «Real Betis» there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según Marca, un Villarreal con dudas recibe a un rival que llega lanzado.",
+   "en": "According to «Marca», a «Villarreal» side full of doubts are at home to opponents who arrive in form.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mundo Deportivo añade que el conjunto local busca su primer triunfo de la temporada.",
+   "en": "«Mundo Deportivo» adds that the home side are chasing their first win of the season.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Comité Técnico de Árbitros ha designado a Francisco Hernández Maeso para dirigir el partido.",
+   "en": "The referees' committee has appointed «Francisco Hernández Maeso» to take charge of the match.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El colegiado está adscrito al Colegio Extremeño y nació en Bruselas.",
+   "en": "The referee belongs to the «Colegio Extremeño», the Extremadura refereeing association, and was born in Brussels.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otro asunto, el Valencia destituyó a su entrenador, Carlos Corberán,",
+   "en": "Another matter: «Valencia» have dismissed their coach, «Carlos Corberán»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y a su consejero delegado de fútbol, Ron Gourlay.",
+   "en": "and their football chief executive, «Ron Gourlay».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El club anunció después la llegada de Braulio Vázquez como director deportivo.",
+   "en": "The club then announced the arrival of «Braulio Vázquez» as sporting director.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Braulio Vázquez regresa así a Mestalla para dirigir la nueva estructura deportiva.",
+   "en": "«Braulio Vázquez» returns to «Mestalla» to run the new football structure.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Óscar Sánchez, técnico del Mestalla,",
+   "en": "«Óscar Sánchez», the «Mestalla» coach,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "se hará cargo del primer equipo.",
+   "en": "will take charge of the first team.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Estará al frente hasta que llegue el nuevo entrenador.",
+   "en": "He will stay in charge until the new manager arrives.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí los deportes.",
+   "en": "That is the sport for this Monday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Monday 14 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Villarreal host Real Betis at La Ceramica",
+ "summary_en": [
+  "Villarreal host Real Betis at La Ceramica",
+  "Valencia dismiss their coach and their football chief executive"
+ ]
+}

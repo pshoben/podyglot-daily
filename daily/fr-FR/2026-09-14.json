@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-FR",
+ "date": "2026-09-14",
+ "episodes": [
+  {
+   "id": "fr-FR-Le journal du matin, lundi 14 septembre",
+   "file": "podcast-daily-2026-09-14-morning-news-fr-FR.json",
+   "bytes": 11996,
+   "sha256": "c4c354b72d05936251db181f3cebb85631ea74967e9ebc49631ac992e3599d22",
+   "date": "2026-09-14",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, lundi 14 septembre",
+   "title_en": "The morning news, Monday 14 September",
+   "headline_en": "A Russian drone hits a train running from Kyiv to Warsaw",
+   "summary_en": [
+    "A Russian drone hits a train running from Kyiv to Warsaw",
+    "France sends Brussels a new version of its under-15 social media ban",
+    "Ukraine calls the strikes a systemic attack on its rail network"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, lundi 14 septembre",
+   "file": "podcast-daily-2026-09-14-morning-sport-fr-FR.json",
+   "bytes": 4845,
+   "sha256": "a5da219ba06ec36f42839b6be1966588d3a745dcd6be111b80b1dacb5e56caa1",
+   "date": "2026-09-14",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, lundi 14 septembre",
+   "title_en": "Today's sport, Monday 14 September",
+   "headline_en": "Marcelo Gallardo named head coach of Ecuador",
+   "summary_en": [
+    "Marcelo Gallardo named head coach of Ecuador",
+    "The Ballon d'Or contenders begin their campaigns"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, lundi 14 septembre",
+   "file": "podcast-daily-2026-09-14-morning-weather-fr-FR.json",
+   "bytes": 5823,
+   "sha256": "4fd2b86b9672ba049dbab33fce5b8c60c3bf6b0762bdc2092538af0ada631ca3",
+   "date": "2026-09-14",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, lundi 14 septembre",
+   "title_en": "Today's weather, Monday 14 September",
+   "headline_en": "Heat returns to France with a peak expected on Monday",
+   "summary_en": [
+    "Heat returns to France with a peak expected on Monday",
+    "Monday forecast for Paris, 14th September"
+   ]
+  }
+ ],
+ "content": "e9dea22bb72e9b95c87d3954c47ea54e6c6ac5a88041678b64c51ba6cf63f9bb",
+ "rev": 1,
+ "updated": "2026-09-14T08:13:30.085Z"
+}

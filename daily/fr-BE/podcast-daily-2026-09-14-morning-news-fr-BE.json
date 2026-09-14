@@ -1,0 +1,330 @@
+{
+ "title": "Le sept heures, lundi 14 septembre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-news",
+   "wpm": 222,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-14",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lundi quatorze septembre. Le sept heures.",
+   "en": "Monday the fourteenth of September. The seven o'clock news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, le gouvernement soumet une nouvelle version de l'interdiction des réseaux sociaux aux moins",
+   "en": "In France, the government is submitting a new version of the social media",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de quinze ans.",
+   "en": "ban for under-fifteens.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Chez nous, la province de Flandre orientale licencie une enseignante qui refuse de",
+   "en": "Here at home, the province of East Flanders is dismissing a teacher who refuses to",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "retirer son foulard.",
+   "en": "take off her headscarf.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On ouvre avec la France, où le texte avait été censuré par le Conseil constitutionnel.",
+   "en": "We open with France, where the text had been struck down by the Constitutional Council.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Emmanuel Macron a annoncé que le gouvernement présenterait le texte ce lundi.",
+   "en": "«Emmanuel Macron» said the government would present the text this Monday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le président français veut protéger les mineurs des dangers des réseaux sociaux.",
+   "en": "The French president wants to protect minors from the dangers of social media.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La province a décidé de la licencier",
+   "en": "The province decided to dismiss her",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "parce qu'elle refuse de retirer son foulard islamique pendant ses heures de travail.",
+   "en": "because she refuses to take off her Islamic headscarf during working hours.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'enseignante a confirmé son licenciement à l'agence Belga ce lundi.",
+   "en": "The teacher confirmed her dismissal to the «Belga» agency on Monday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle était nommée à titre définitif et n'avait reçu aucune évaluation négative.",
+   "en": "She held a permanent appointment and had never had a negative assessment.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle a parlé d'une interprétation purement politique d'un nouveau règlement provincial.",
+   "en": "She spoke of a purely political reading of a new provincial rule.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre dossier maintenant, le ministre des Finances Jan Jambon dispose d'une note du SPF Finances.",
+   "en": "Turning to something else, the finance minister «Jan Jambon» has a note from the federal finance department.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon cette note, les mutuelles,",
+   "en": "According to the note, health insurance funds,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les syndicats et les ASBL pourraient passer à l'impôt des sociétés.",
+   "en": "trade unions and non-profit associations could be brought under corporation tax.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le gouvernement De Wever doit trouver des solutions budgétaires d'ici le quinze octobre.",
+   "en": "The «De Wever» government has to find budget answers by the fifteenth of October.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On enchaîne avec l'ouverture des magasins le dimanche, qui profite surtout aux supermarchés.",
+   "en": "Moving on, the Sunday opening of shops is benefiting supermarkets above all.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon une étude YouGov rapportée par Le Soir,",
+   "en": "According to a «YouGov» survey reported by «Le Soir»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "leur chiffre d'affaires dominical a augmenté de vingt-deux pour cent.",
+   "en": "their Sunday turnover rose by twenty-two per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La comparaison porte sur les sept premiers mois de l'année,",
+   "en": "The comparison covers the first seven months of the year,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "face à la même période de deux mille vingt-cinq.",
+   "en": "against the same months of 2025.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ailleurs dans l'actu, une croix gammée a été taguée sur la mosquée El",
+   "en": "In other news, a swastika was daubed on the «El",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mouahidine, à Laeken.",
+   "en": "Mouahidine» mosque in «Laeken».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Philippe Close a réagi en parlant d'un acte islamophobe d'une extrême gravité.",
+   "en": "«Philippe Close» responded by calling it an Islamophobic act of extreme seriousness.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ministre bruxellois Ahmed Laaouej a condamné la profanation de ce lieu de culte,",
+   "en": "The Brussels minister «Ahmed Laaouej» condemned the desecration of the place of worship,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et une enquête a été ouverte.",
+   "en": "and an investigation has been opened.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour terminer, La Louvière a décroché sa première victoire de la saison face à Courtrai.",
+   "en": "And finally, «La Louvière» have taken their first win of the season against «Courtrai».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les Loups se sont imposés trois à zéro et s'éloignent de la zone rouge.",
+   "en": "The Wolves won three nil and are moving away from the relegation zone.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà où nous en sommes ce lundi matin.",
+   "en": "And that is where Belgium stands this Monday morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Monday 14 September",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "France puts forward a new version of its social media ban for under-fifteens",
+ "summary_en": [
+  "France puts forward a new version of its social media ban for under-fifteens",
+  "The province of East Flanders dismisses a teacher over her headscarf",
+  "A finance department note suggests taxing the non-profit sector"
+ ]
+}
