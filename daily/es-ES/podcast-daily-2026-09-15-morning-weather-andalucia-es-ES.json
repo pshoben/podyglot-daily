@@ -1,0 +1,133 @@
+{
+ "title": "El tiempo en Andalucía, martes 15 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-andalucia",
+   "wpm": 208,
+   "rate_multiplier": 0.73,
+   "pitch_multiplier": 0.79
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-andalucia",
+ "date": "2026-09-15",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "El aviso amarillo de la Aemet por calor cubre hoy la campiña cordobesa,",
+   "en": "«Aemet»'s yellow heat warning today covers the «Córdoba» countryside,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la campiña sevillana y el Andévalo y Condado.",
+   "en": "the «Sevilla» countryside and «Andévalo y Condado».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Está activo desde la una de la tarde hasta las nueve de la noche.",
+   "en": "It is in force from one in the afternoon until nine at night.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Tierra adentro, Córdoba toca los treinta y nueve grados, sin una sola nube.",
+   "en": "Inland, «Córdoba» hits thirty-nine degrees, without a single cloud.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su mínima se queda en dieciocho,",
+   "en": "Its low stays at eighteen,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con viento del oeste y del suroeste de hasta quince kilómetros por hora.",
+   "en": "with a westerly and south-westerly wind of up to fifteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por el valle, Sevilla también llega a los treinta y nueve grados.",
+   "en": "Along the valley, «Sevilla» also reaches thirty-nine degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo sevillano está igual de despejado.",
+   "en": "The sky over «Sevilla» is just as clear.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la costa, Málaga tiene una máxima más suave, de veintinueve grados.",
+   "en": "On the coast, «Málaga» has a milder high of twenty-nine degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es Andalucía.",
+   "en": "That is «Andalucía».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 3,
+ "handover": "junction",
+ "title_en": "Today's weather, Andalusia, Tuesday 15 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Andalucía",
+ "accent": "Andalucía",
+ "accent_label": "acento de Andalucía",
+ "segment_order": 1,
+ "headline_en": "AEMET yellow heat warning for the Córdoba and Sevilla countryside and Andévalo y Condado, 1pm to 9pm",
+ "summary_en": [
+  "AEMET yellow heat warning for the Córdoba and Sevilla countryside and Andévalo y Condado, 1pm to 9pm",
+  "Córdoba hits 39 degrees under a clear sky, low 18"
+ ]
+}

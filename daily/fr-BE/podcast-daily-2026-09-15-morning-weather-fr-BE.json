@@ -1,0 +1,219 @@
+{
+ "title": "Le temps chez nous, mardi 15 septembre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-weather",
+   "wpm": 222,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-15",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "L'Institut royal météorologique a indiqué qu'il ferait assez ensoleillé et plus chaud aujourd'hui.",
+   "en": "The Royal Meteorological Institute said it would be fairly sunny and warmer today.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Une averse sera possible dans certaines régions en fin de journée et durant la nuit.",
+   "en": "A shower will be possible in some regions late in the day and during the night.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La RTBF parle d'un vrai pic de chaleur:",
+   "en": "«RTBF» speaks of a real spike in heat:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ce matin, le ciel s'est bien dégagé, et les températures sont déjà relativement douces.",
+   "en": "this morning the sky has cleared nicely, and temperatures are already fairly mild.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'après le modèle du Centre européen, l'ECMWF,",
+   "en": "According to the European Centre model, the ECMWF,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Namur attend vingt-neuf degrés au plus haut.",
+   "en": "«Namur» can expect 29 degrees at its highest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le minimum namurois s'établit à seize degrés,",
+   "en": "The low in «Namur» settles at 16 degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le risque de pluie à trente-cinq pour cent.",
+   "en": "and the risk of rain at 35 per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y atteint dix-huit kilomètres par heure.",
+   "en": "The wind there reaches 18 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Liège, un degré de moins,",
+   "en": "In «Liège», one degree less,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un maximum de vingt-huit degrés.",
+   "en": "with a high of 28 degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seize degrés au plus bas, comme à Namur,",
+   "en": "Sixteen degrees at its lowest, as in «Namur»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et trente-trois pour cent de probabilité de pluie.",
+   "en": "and a 33 per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent liégeois souffle jusqu'à seize kilomètres par heure.",
+   "en": "The wind in «Liège» blows at up to 16 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Bruxelles plafonne à vingt-sept degrés,",
+   "en": "Brussels tops out at 27 degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec le même minimum de seize.",
+   "en": "with the same low of 16.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sur la capitale, les chances de pluie montent à cinquante-cinq pour cent.",
+   "en": "Over the capital, the chances of rain climb to 55 per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Quant au vent, il ne dépasse pas quatorze kilomètres par heure.",
+   "en": "As for the wind, it goes no higher than 14 kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le temps chez nous.",
+   "en": "That is the weather here at home.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Tuesday 15 September",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Belgium's Royal Meteorological Institute forecasts a fairly sunny, warmer Tuesday",
+ "summary_en": [
+  "Belgium's Royal Meteorological Institute forecasts a fairly sunny, warmer Tuesday",
+  "ECMWF model: Namur up to 29 degrees, with a low of 16"
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-FR",
+ "date": "2026-09-15",
+ "episodes": [
+  {
+   "id": "fr-FR-Le journal du matin, mardi 15 septembre",
+   "file": "podcast-daily-2026-09-15-morning-news-fr-FR.json",
+   "bytes": 10311,
+   "sha256": "97593fd19eebff754a7c01400745e5d44ceec770f5ce0bc00d98f909abf302e2",
+   "date": "2026-09-15",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, mardi 15 septembre",
+   "title_en": "The morning news, Tuesday 15 September",
+   "headline_en": "NATO shoots down a drone over Lithuania",
+   "summary_en": [
+    "NATO shoots down a drone over Lithuania",
+    "Fishermen in France block an oil depot at Fos-sur-Mer over fuel prices",
+    "Former Paris mayor Anne Hidalgo faces senators over violence in after-school care"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, mardi 15 septembre",
+   "file": "podcast-daily-2026-09-15-morning-weather-fr-FR.json",
+   "bytes": 5897,
+   "sha256": "336f62403871961444933f057c7e9018d858e3a32a6df6603448ffad739f1a4e",
+   "date": "2026-09-15",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, mardi 15 septembre",
+   "title_en": "Today's weather, Tuesday 15 September",
+   "headline_en": "Overcast in Bordeaux, with a high of 34 degrees",
+   "summary_en": [
+    "Overcast in Bordeaux, with a high of 34 degrees",
+    "Clear skies over Marseille, from 21 to 28 degrees"
+   ]
+  }
+ ],
+ "content": "aae683959aec03e19149f61ce65c1ed71e70459798f1dac93a50695a167dd2ad",
+ "rev": 1,
+ "updated": "2026-09-15T07:07:37.970Z"
+}

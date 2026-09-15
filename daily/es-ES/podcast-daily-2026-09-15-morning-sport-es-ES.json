@@ -1,0 +1,149 @@
+{
+ "title": "Los deportes, martes 15 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-sport",
+   "wpm": 208,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-15",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "En los campos, fútbol: el Alavés recibe hoy al Valencia en Mendizorroza.",
+   "en": "Out on the pitches, football: «Alavés» host «Valencia» today at «Mendizorroza».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el Real Madrid visita al Elche en el Martínez Valero.",
+   "en": "And «Real Madrid» visit «Elche» at the «Martínez Valero».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mundo Deportivo fija el partido de Mendizorroza a las ocho de la tarde,",
+   "en": "«Mundo Deportivo» puts the «Mendizorroza» match at eight this evening,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el del Martínez Valero a las nueve y media de la noche.",
+   "en": "and the one at the «Martínez Valero» at half past nine tonight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el banquillo del Valencia estará de forma interina Óscar Sánchez, el técnico del filial.",
+   "en": "On the «Valencia» bench, on an interim basis, will be «Óscar Sánchez», the reserve-team coach.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Marca describe al Valencia como un rival en plena reconstrucción.",
+   "en": "«Marca» describes «Valencia» as opponents in the middle of a rebuild.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por otra parte, el Balón de Oro:",
+   "en": "Elsewhere, the Ballon d'Or:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lamine Yamal y Kylian Mbappé lo reclaman para sí mismos, según AS.",
+   "en": "«Lamine Yamal» and «Kylian Mbappé» each claim it for themselves, according to «AS».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El diario añade que las votaciones terminan el veintiocho de septiembre.",
+   "en": "The paper adds that voting closes on 28th September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El presidente del Barcelona, Joan Laporta, ha defendido que Lamine Yamal se postule,",
+   "en": "Barcelona's president, «Joan Laporta», has defended «Lamine Yamal» putting himself forward,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y ha recordado que otros también lo hacen.",
+   "en": "and pointed out that others do the same.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí los deportes.",
+   "en": "That's it for sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Tuesday 15 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Football: Alavés host Valencia and Elche host Real Madrid in LaLiga tonight",
+ "summary_en": [
+  "Football: Alavés host Valencia and Elche host Real Madrid in LaLiga tonight",
+  "Football: reserve-team coach Óscar Sánchez takes Valencia to Alavés as interim manager"
+ ]
+}

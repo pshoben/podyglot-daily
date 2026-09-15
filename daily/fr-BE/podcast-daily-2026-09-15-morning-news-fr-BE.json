@@ -1,0 +1,290 @@
+{
+ "title": "Le sept heures, mardi 15 septembre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-news",
+   "wpm": 222,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-15",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Mardi quinze septembre. Le sept heures.",
+   "en": "Tuesday 15th September. The seven o'clock news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un drone qui survolait la Lituanie a été abattu par l'Otan.",
+   "en": "A drone flying over Lithuania has been shot down by NATO.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et à Bruxelles, le méga-procès Matonge s'ouvre ce mardi.",
+   "en": "And in Brussels, the «Matonge» mega-trial opens this Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On ouvre avec la Lituanie:",
+   "en": "We open with Lithuania:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "c'est son président, Gitanas Nausėda,",
+   "en": "it was its president, «Gitanas Nausėda»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qui a annoncé que des avions de chasse de l'Otan avaient abattu le drone.",
+   "en": "who announced that NATO fighter jets had shot down the drone.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On enchaîne, le méga-procès Matonge: selon 7sur7,",
+   "en": "Moving on, the «Matonge» mega-trial: according to «7sur7»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "il se tient au Justitia, à Haren.",
+   "en": "it is being held at the «Justitia», in «Haren».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le tribunal correctionnel francophone de Bruxelles y a été délocalisé pour l'occasion.",
+   "en": "Brussels' French-language criminal court has been moved there for the occasion.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Plus de quarante prévenus sont poursuivis pour de la vente de cannabis et de cocaïne,",
+   "en": "More than forty defendants are being prosecuted for selling cannabis and cocaine,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à Bruxelles, entre deux mille vingt-deux et deux mille vingt-cinq.",
+   "en": "in Brussels, between 2022 and 2025.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La RTBF rappelle que le coup de filet de début novembre deux mille vingt-cinq avait visé le quartier de Matonge.",
+   "en": "«RTBF» points out that the police raid in early November 2025 had targeted the «Matonge» district.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre dossier maintenant, la banque en ligne Revolut: d'après Le Vif,",
+   "en": "Another matter now, the online bank «Revolut»: according to «Le Vif»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "elle a partagé les données personnelles de plusieurs centaines de clients avec un fraudeur.",
+   "en": "it shared the personal data of several hundred customers with a fraudster.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Plusieurs Belges figurent parmi eux.",
+   "en": "Several Belgians are among them.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon La Libre,",
+   "en": "According to «La Libre»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "l'entreprise a indiqué lundi soir que ces données avaient été divulguées par erreur.",
+   "en": "the company said on Monday evening that the data had been disclosed by mistake.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ailleurs dans l'actu, la DH rapporte que le Pentagone a reconnu lundi, dans un rapport,",
+   "en": "Elsewhere in the news, «DH» reports that the Pentagon acknowledged on Monday, in a report,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ce qu'il appelle une pénurie de munitions.",
+   "en": "what it calls a shortage of munitions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cette pénurie est liée à la guerre en Iran, précise le journal.",
+   "en": "The shortage is linked to the war in Iran, the paper adds.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'administration Trump avait pourtant largement refusé de le confirmer ces derniers mois.",
+   "en": "The Trump administration had nonetheless largely refused to confirm it in recent months.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "7sur7 écrit que le Pentagone liste aussi les dégâts causés par les frappes iraniennes.",
+   "en": "«7sur7» writes that the Pentagon also lists the damage caused by Iranian strikes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour terminer, la série médicale The Pitt a remporté le prix de la meilleure série dramatique aux Emmy Awards,",
+   "en": "And finally, the medical drama «The Pitt» won the award for best drama series at the «Emmy Awards»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les Oscars de la télévision américaine.",
+   "en": "American television's Oscars.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "C'est la deuxième fois que la série reçoit ce prix, note la DH.",
+   "en": "It is the second time the series has taken the prize, «DH» notes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà où nous en sommes.",
+   "en": "And that is where things stand.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 15 September",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "NATO shoots down a drone over Lithuania",
+ "summary_en": [
+  "NATO shoots down a drone over Lithuania",
+  "The Matonge drug-dealing mega-trial opens in Brussels",
+  "Revolut shared several hundred customers' personal data with a fraudster, Belgians among them"
+ ]
+}

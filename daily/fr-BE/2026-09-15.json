@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-BE",
+ "date": "2026-09-15",
+ "episodes": [
+  {
+   "id": "fr-BE-Le sept heures, mardi 15 septembre",
+   "file": "podcast-daily-2026-09-15-morning-news-fr-BE.json",
+   "bytes": 7604,
+   "sha256": "b2a72f1997b2f6417be32ccc8e71ddc8857286d514ca155e2f911879d67501b8",
+   "date": "2026-09-15",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, mardi 15 septembre",
+   "title_en": "The morning news, Tuesday 15 September",
+   "headline_en": "NATO shoots down a drone over Lithuania",
+   "summary_en": [
+    "NATO shoots down a drone over Lithuania",
+    "The Matonge drug-dealing mega-trial opens in Brussels",
+    "Revolut shared several hundred customers' personal data with a fraudster, Belgians among them"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, mardi 15 septembre",
+   "file": "podcast-daily-2026-09-15-morning-weather-fr-BE.json",
+   "bytes": 5329,
+   "sha256": "e9ddccea16c88e717eb686014164c0544753da146b023263669e606ed2bc2cd2",
+   "date": "2026-09-15",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, mardi 15 septembre",
+   "title_en": "Today's weather, Tuesday 15 September",
+   "headline_en": "Belgium's Royal Meteorological Institute forecasts a fairly sunny, warmer Tuesday",
+   "summary_en": [
+    "Belgium's Royal Meteorological Institute forecasts a fairly sunny, warmer Tuesday",
+    "ECMWF model: Namur up to 29 degrees, with a low of 16"
+   ]
+  }
+ ],
+ "content": "b7c8115a527c4daea84586f0344795040aedc4a0372bc3e0f3d1cbbc77ad0129",
+ "rev": 1,
+ "updated": "2026-09-15T07:07:37.970Z"
+}

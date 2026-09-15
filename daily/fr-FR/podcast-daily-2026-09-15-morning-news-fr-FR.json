@@ -1,0 +1,400 @@
+{
+ "title": "Le journal du matin, mardi 15 septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-15",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Ce mardi quinze septembre, il est sept heures à Paris. Le journal du matin.",
+   "en": "This Tuesday, 15th September, it is seven in the morning in «Paris». The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Otan a abattu un drone au-dessus de la Lituanie.",
+   "en": "NATO has shot down a drone over Lithuania.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et en France, des pêcheurs bloquent ce mardi un dépôt pétrolier,",
+   "en": "And in France, fishermen are blocking an oil depot this Tuesday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "contre la hausse des prix du carburant.",
+   "en": "over the rise in fuel prices.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Lituanie, d'après la radio nationale LRT,",
+   "en": "In Lithuania, according to the national radio station «LRT»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le drone est tombé dans une zone rurale du centre du pays.",
+   "en": "the drone came down in a rural area in the centre of the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cette zone est située près du lac de Kaunas.",
+   "en": "That area lies close to the lake at «Kaunas».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le président lituanien a assuré qu'avec ses alliés de l'Otan,",
+   "en": "The Lithuanian president gave an assurance that, with its NATO allies,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la Lituanie défendrait son espace aérien.",
+   "en": "Lithuania would defend its airspace.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il n'a pas précisé à quel pays appartenait ce drone.",
+   "en": "He did not say which country the drone belonged to.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Fos-sur-Mer, dans les Bouches-du-Rhône,",
+   "en": "At «Fos-sur-Mer», in the «Bouches-du-Rhône»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "plusieurs dizaines de pêcheurs en colère manifestent, selon Sud Ouest.",
+   "en": "several dozen angry fishermen are demonstrating, according to «Sud Ouest».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ouest-France rapporte qu'ils dénoncent une dégradation continue de leurs conditions d'activité.",
+   "en": "«Ouest-France» reports that they are denouncing a continuing deterioration in their working conditions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ils la lient à la hausse des prix des carburants,",
+   "en": "They link it to the rise in fuel prices,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et à la multiplication des contraintes administratives et réglementaires.",
+   "en": "and to the growing number of administrative and regulatory constraints.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Toujours en France, l'ancienne maire de Paris Anne Hidalgo est auditionnée ce mardi au Sénat,",
+   "en": "Still in France, the former mayor of «Paris», «Anne Hidalgo», is appearing before the Senate this Tuesday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après Le Figaro.",
+   "en": "according to «Le Figaro».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les sénateurs veulent faire la lumière",
+   "en": "Senators want to shed light",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sur des violences physiques et sexuelles subies par des élèves dans le cadre du périscolaire.",
+   "en": "on physical and sexual violence suffered by pupils in after-school care.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "France Télévisions relève qu'ils cherchent à comprendre les dysfonctionnements dans le signalement de ces cas.",
+   "en": "«France Télévisions» notes that they are trying to understand the failings in the reporting of these cases.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité, selon le média d'investigation ProPublica,",
+   "en": "In other news, according to the investigative outlet «ProPublica»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un proche de Vladimir Poutine a financé une partie du mariage du fils de Donald Trump.",
+   "en": "a close associate of «Vladimir Putin» paid for part of the wedding of «Donald Trump»'s son.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il s'agit de l'homme d'affaires russe Umar Kremlev,",
+   "en": "He is the Russian businessman «Umar Kremlev»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qui figurait aussi sur la liste des invités, aux Bahamas.",
+   "en": "who was also on the guest list, in the Bahamas.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Monde ajoute qu'il dirige la fédération controversée International Boxing Association.",
+   "en": "«Le Monde» adds that he heads the controversial International Boxing Association.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à autre chose, l'association Sol et le Réseau Action Climat",
+   "en": "Moving on, the association «Sol» and the «Réseau Action Climat»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "publient un rapport sur l'agriculture française.",
+   "en": "are publishing a report on French agriculture.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ils s'inquiètent du trop faible renouvellement des générations dans les fermes,",
+   "en": "They are worried that generational renewal on farms is too weak,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et plaident pour un nouveau modèle agricole.",
+   "en": "and argue for a new farming model.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Libération cite une double falaise, démographique et écologique,",
+   "en": "«Libération» cites a double cliff, demographic and ecological,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "entre départs à la retraite, crise des vocations et changement climatique.",
+   "en": "amid retirements, a recruitment crisis and climate change.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour finir, Concarneau, dans le Finistère,",
+   "en": "And finally, «Concarneau», in «Finistère»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "rend hommage aujourd'hui au skipper Charlie Dalin.",
+   "en": "is paying tribute today to skipper «Charlie Dalin».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vainqueur du dernier Vendée Globe est mort en juin.",
+   "en": "The winner of the last «Vendée Globe» died in June.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Télégramme mentionne une grande parade nautique,",
+   "en": "«Le Télégramme» mentions a big boat parade,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un survol aérien et un feu d'artifice.",
+   "en": "a flypast and a fireworks display.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is where the main news stands.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 15 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "NATO shoots down a drone over Lithuania",
+ "summary_en": [
+  "NATO shoots down a drone over Lithuania",
+  "Fishermen in France block an oil depot at Fos-sur-Mer over fuel prices",
+  "Former Paris mayor Anne Hidalgo faces senators over violence in after-school care"
+ ]
+}

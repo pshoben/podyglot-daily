@@ -1,0 +1,153 @@
+{
+ "title": "El tiempo en Canarias, martes 15 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-canarias",
+   "wpm": 208,
+   "rate_multiplier": 0.86,
+   "pitch_multiplier": 0.59
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-canarias",
+ "date": "2026-09-15",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Las Palmas de Gran Canaria recibe hoy viento del norte,",
+   "en": "«Las Palmas de Gran Canaria» gets a northerly today,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de quince a veinticinco kilómetros por hora, según la Aemet.",
+   "en": "of fifteen to twenty-five kilometres an hour, «Aemet» says.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima se sitúa en veintinueve grados,",
+   "en": "The high sits at twenty-nine degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sin que la mínima baje de veinticinco.",
+   "en": "without the low dropping below twenty-five.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ni rastro de nubes ni de lluvia.",
+   "en": "Not a trace of cloud or rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La radiación ultravioleta alcanza un índice de nueve.",
+   "en": "Ultraviolet radiation reaches an index of nine.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Santa Cruz de Tenerife calienta más:",
+   "en": "«Santa Cruz de Tenerife» is hotter:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "treinta y cinco grados como máximo, y veintiséis como mínimo.",
+   "en": "thirty-five degrees at most, and twenty-six at least.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Coincide con Las Palmas en el cielo despejado, sin lluvia,",
+   "en": "It matches «Las Palmas» on the clear sky, with no rain,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y en el índice ultravioleta de nueve.",
+   "en": "and on the ultraviolet index of nine.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento, en cambio, sopla de levante.",
+   "en": "The wind, though, blows from the east.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es Canarias.",
+   "en": "That is «Canarias».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 4,
+ "handover": "junction",
+ "title_en": "Today's weather, Canary Islands, Tuesday 15 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Canarias",
+ "accent": "Canarias",
+ "accent_label": "acento de Canarias",
+ "segment_order": 2,
+ "headline_en": "Northerly up to 25 km/h in Las Palmas de Gran Canaria, clear, 25 to 29 degrees",
+ "summary_en": [
+  "Northerly up to 25 km/h in Las Palmas de Gran Canaria, clear, 25 to 29 degrees",
+  "Santa Cruz de Tenerife: clear, high 35, low 26, UV index 9"
+ ]
+}

@@ -5,6 +5,107 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-ES-El informativo de la mañana, martes 15 de septiembre",
+   "file": "podcast-daily-2026-09-15-morning-news-es-ES.json",
+   "bytes": 9250,
+   "sha256": "eb6597fab9be8b2113261627a1e2322000909fb269d2427aea50390f208195b8",
+   "date": "2026-09-15",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, martes 15 de septiembre",
+   "title_en": "The morning news, Tuesday 15 September",
+   "headline_en": "Nationalist leaders of Scotland, Wales and Northern Ireland seal a pact to push for independence from the UK",
+   "summary_en": [
+    "Nationalist leaders of Scotland, Wales and Northern Ireland seal a pact to push for independence from the UK",
+    "Spain's Sumar takes no stand on the primaries Podemos has proposed for the alternative left",
+    "A Fundación BBVA study finds Spaniards see ever more similarities between animals and people"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, martes 15 de septiembre",
+   "file": "podcast-daily-2026-09-15-morning-sport-es-ES.json",
+   "bytes": 3980,
+   "sha256": "322e298003a23601e9bff44f77873b55fc0708908c2a87652df0805d699f091b",
+   "date": "2026-09-15",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, martes 15 de septiembre",
+   "title_en": "Today's sport, Tuesday 15 September",
+   "headline_en": "Football: Alavés host Valencia and Elche host Real Madrid in LaLiga tonight",
+   "summary_en": [
+    "Football: Alavés host Valencia and Elche host Real Madrid in LaLiga tonight",
+    "Football: reserve-team coach Óscar Sánchez takes Valencia to Alavés as interim manager"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, martes 15 de septiembre",
+   "file": "podcast-daily-2026-09-15-morning-weather-es-ES.json",
+   "bytes": 5517,
+   "sha256": "06ffffc91b7805c144370bf2622513ca9e682a8516d8be26d1da27ce51a868ad",
+   "date": "2026-09-15",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, martes 15 de septiembre",
+   "title_en": "Today's weather, Tuesday 15 September",
+   "headline_en": "AEMET has a yellow heat warning out across the Madrid region through the middle of the day",
+   "summary_en": [
+    "AEMET has a yellow heat warning out across the Madrid region through the middle of the day",
+    "Yellow heat warnings also out in Extremadura, Aragón, Catalonia, Castilla y León and Castilla-La Mancha, among other regions"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, martes 15 de septiembre",
+   "file": "podcast-daily-2026-09-15-morning-weather-andalucia-es-ES.json",
+   "bytes": 3477,
+   "sha256": "7f036dd66769ad9a2eab83dc0ed7b2a5fd9ac178e72d43357dc6c822076e3c59",
+   "date": "2026-09-15",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, martes 15 de septiembre",
+   "title_en": "Today's weather, Andalusia, Tuesday 15 September",
+   "headline_en": "AEMET yellow heat warning for the Córdoba and Sevilla countryside and Andévalo y Condado, 1pm to 9pm",
+   "summary_en": [
+    "AEMET yellow heat warning for the Córdoba and Sevilla countryside and Andévalo y Condado, 1pm to 9pm",
+    "Córdoba hits 39 degrees under a clear sky, low 18"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, martes 15 de septiembre",
+   "file": "podcast-daily-2026-09-15-morning-weather-canarias-es-ES.json",
+   "bytes": 3632,
+   "sha256": "af019d805ef3967755e9a5a085da4edd392a5a33669f1d7863cefdfa1d161b99",
+   "date": "2026-09-15",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, martes 15 de septiembre",
+   "title_en": "Today's weather, Canary Islands, Tuesday 15 September",
+   "headline_en": "Northerly up to 25 km/h in Las Palmas de Gran Canaria, clear, 25 to 29 degrees",
+   "summary_en": [
+    "Northerly up to 25 km/h in Las Palmas de Gran Canaria, clear, 25 to 29 degrees",
+    "Santa Cruz de Tenerife: clear, high 35, low 26, UV index 9"
+   ]
+  },
+  {
    "id": "es-ES-El informativo de la mañana, lunes 14 de septiembre",
    "file": "podcast-daily-2026-09-14-morning-news-es-ES.json",
    "bytes": 10368,
@@ -1012,107 +1113,6 @@
    "summary_en": [
     "Wednesday AEMET forecast for Las Palmas de Gran Canaria, 2nd September",
     "Wednesday AEMET forecast for Santa Cruz de Tenerife, 2nd September"
-   ]
-  },
-  {
-   "id": "es-ES-El informativo de la mañana, martes 1 de septiembre",
-   "file": "podcast-daily-2026-09-01-morning-news-es-ES.json",
-   "bytes": 8053,
-   "sha256": "b66a62ade19b39f59b25bf005c6d0156271dd1cc1c12f922bd62d9c0b2a3d98c",
-   "date": "2026-09-01",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El informativo de la mañana, martes 1 de septiembre",
-   "title_en": "The morning news, Tuesday 1 September",
-   "headline_en": "The US Army Secretary has resigned",
-   "summary_en": [
-    "The US Army Secretary has resigned",
-    "Sanchez promises a royal visit to Ceuta once the crisis is over",
-    "New reception places in Ceuta, and the figures do not match"
-   ]
-  },
-  {
-   "id": "es-ES-Los deportes, martes 1 de septiembre",
-   "file": "podcast-daily-2026-09-01-morning-sport-es-ES.json",
-   "bytes": 4311,
-   "sha256": "a9a28411c8513cfc5196cd7e6f250b4d9e4c7dc6ce0619eaf3e79c8a370d9edd",
-   "date": "2026-09-01",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "Los deportes, martes 1 de septiembre",
-   "title_en": "Today's sport, Tuesday 1 September",
-   "headline_en": "Deadline day in the Spanish transfer market",
-   "summary_en": [
-    "Deadline day in the Spanish transfer market",
-    "Robert Moreno takes charge of South Korea"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo, martes 1 de septiembre",
-   "file": "podcast-daily-2026-09-01-morning-weather-es-ES.json",
-   "bytes": 6342,
-   "sha256": "27b2161d68bb8d7996ae218aa7f3606922ac63cf8155074129b618bccc7e1685",
-   "date": "2026-09-01",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": 0,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo, martes 1 de septiembre",
-   "title_en": "Today's weather, Tuesday 1 September",
-   "headline_en": "Tuesday AEMET forecast for València, 1st September",
-   "summary_en": [
-    "Tuesday AEMET forecast for València, 1st September",
-    "Tuesday AEMET forecast for Madrid, 1st September"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo en Andalucía, martes 1 de septiembre",
-   "file": "podcast-daily-2026-09-01-morning-weather-andalucia-es-ES.json",
-   "bytes": 4912,
-   "sha256": "980941fdb60b5755735f739a98734f4c345de11be76c643170f3027ee4ff1a91",
-   "date": "2026-09-01",
-   "edition": "morning",
-   "programme": "weather-andalucia",
-   "programme_order": 3,
-   "segment_order": 1,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo en Andalucía, martes 1 de septiembre",
-   "title_en": "Today's weather, Andalusia, Tuesday 1 September",
-   "headline_en": "Tuesday AEMET forecast for Córdoba, 1st September",
-   "summary_en": [
-    "Tuesday AEMET forecast for Córdoba, 1st September",
-    "Tuesday AEMET forecast for Sevilla, 1st September"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo en Canarias, martes 1 de septiembre",
-   "file": "podcast-daily-2026-09-01-morning-weather-canarias-es-ES.json",
-   "bytes": 4255,
-   "sha256": "7b9728f8b7b6e028655b41bebf4aca5438e1400d4c889ed3480aec56f97c0f34",
-   "date": "2026-09-01",
-   "edition": "morning",
-   "programme": "weather-canarias",
-   "programme_order": 4,
-   "segment_order": 2,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo en Canarias, martes 1 de septiembre",
-   "title_en": "Today's weather, Canary Islands, Tuesday 1 September",
-   "headline_en": "Tuesday AEMET forecast for Las Palmas de Gran Canaria, 1st September",
-   "summary_en": [
-    "Tuesday AEMET forecast for Las Palmas de Gran Canaria, 1st September",
-    "Tuesday AEMET forecast for Santa Cruz de Tenerife, 1st September"
    ]
   }
  ]

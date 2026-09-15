@@ -1,0 +1,223 @@
+{
+ "title": "El tiempo, martes 15 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather",
+   "wpm": 208,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-15",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "La Aemet tiene activado hoy el aviso amarillo por altas temperaturas",
+   "en": "«Aemet» has a yellow warning for high temperatures in force today",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en toda la Comunidad de Madrid.",
+   "en": "across the whole Madrid region.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El aviso rige durante las horas centrales del día.",
+   "en": "The warning applies through the middle of the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hay también avisos amarillos en Extremadura, Aragón, Cataluña,",
+   "en": "There are yellow warnings too in «Extremadura», «Aragón», Catalonia,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Castilla y León y Castilla-La Mancha, entre otras comunidades.",
+   "en": "«Castilla y León» and «Castilla-La Mancha», among other regions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la capital no habrá nubes,",
+   "en": "In the capital there will be no cloud,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con una máxima de treinta y cinco grados y una mínima de veinte.",
+   "en": "with a high of thirty-five degrees and a low of twenty.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sobre A Coruña, cielo cubierto y lluvia escasa de principio a fin.",
+   "en": "Over «A Coruña», an overcast sky and light rain from start to finish.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cien por cien de probabilidad de lluvia",
+   "en": "The hundred per cent chance of rain",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "baja al noventa y cinco desde el mediodía.",
+   "en": "drops to ninety-five from midday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El termómetro no pasa de veintidós grados ni baja de dieciocho.",
+   "en": "The thermometer goes no higher than twenty-two degrees and no lower than eighteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Bilbao tampoco se libra de la lluvia,",
+   "en": "«Bilbao» does not escape the rain either,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "bajo intervalos nubosos y con la misma probabilidad del cien por cien.",
+   "en": "under broken cloud and with the same hundred per cent chance.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí las temperaturas se mueven entre dieciséis y veintiocho grados.",
+   "en": "There temperatures move between sixteen and twenty-eight degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Treinta y dos grados de máxima en Barcelona,",
+   "en": "Thirty-two degrees for the high in «Barcelona»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con el cielo despejado y veintiuno de mínima.",
+   "en": "with a clear sky and twenty-one for the low.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "València comparte esos treinta y dos grados,",
+   "en": "«València» shares those thirty-two degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y deja la mínima en diecinueve.",
+   "en": "and puts the low at nineteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí el tiempo.",
+   "en": "That's it for the national forecast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Tuesday 15 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "España",
+ "accent": "Castilla",
+ "accent_label": "acento de Castilla",
+ "segment_order": 0,
+ "headline_en": "AEMET has a yellow heat warning out across the Madrid region through the middle of the day",
+ "summary_en": [
+  "AEMET has a yellow heat warning out across the Madrid region through the middle of the day",
+  "Yellow heat warnings also out in Extremadura, Aragón, Catalonia, Castilla y León and Castilla-La Mancha, among other regions"
+ ]
+}

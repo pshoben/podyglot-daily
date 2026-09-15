@@ -1,0 +1,370 @@
+{
+ "title": "El informativo de la mañana, martes 15 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-news",
+   "wpm": 208,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-15",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Martes quince de septiembre, siete de la mañana.",
+   "en": "Tuesday the fifteenth of September, seven in the morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El informativo de la mañana.",
+   "en": "The morning bulletin.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los líderes nacionalistas de Escocia, Gales e Irlanda del Norte",
+   "en": "The nationalist leaders of Scotland, Wales and Northern Ireland",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sellan un acuerdo para avanzar hacia la independencia.",
+   "en": "seal an agreement to move towards independence.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y Sumar no se pronuncia sobre la propuesta de primarias de Podemos.",
+   "en": "And «Sumar» takes no position on the primaries proposed by «Podemos».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Abrimos con el Reino Unido.",
+   "en": "We open with the United Kingdom.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según El Mundo, ese acuerdo busca desafiar a Westminster.",
+   "en": "According to «El Mundo», that agreement sets out to challenge «Westminster».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La declaración no pide expresamente un referéndum.",
+   "en": "The declaration does not explicitly call for a referendum.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El líder escocés, John Swinney,",
+   "en": "The Scottish leader, «John Swinney»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dijo creer que Andy Burnham será el último primer ministro del Reino Unido,",
+   "en": "said he believed «Andy Burnham» would be the last prime minister of the United Kingdom,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "recoge eldiario punto es.",
+   "en": "«eldiario» reports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otro asunto, en España,",
+   "en": "Another matter, in Spain,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Podemos propuso unas primarias para elegir un candidato de la izquierda alternativa.",
+   "en": "«Podemos» proposed primaries to choose a candidate for the alternative left.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El País cuenta que los partidos de Sumar aseguraron que la fórmula de un acuerdo no les preocupa.",
+   "en": "«El País» reports that the «Sumar» parties said the formula for an agreement does not worry them.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y abogaron por seguir trabajando como hasta ahora.",
+   "en": "And they argued for carrying on working as they have until now.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos en España,",
+   "en": "Still in Spain,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con un estudio de la Fundación BBVA sobre las actitudes hacia los animales.",
+   "en": "with a «Fundación BBVA» study on attitudes towards animals.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De acuerdo con ABC, los españoles ven cada vez más similitudes entre animales y personas.",
+   "en": "According to «ABC», Spaniards see more and more similarities between animals and people.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Una amplia mayoría cree que los animales sienten o tienen miedo,",
+   "en": "A broad majority believe animals feel things or feel fear,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de forma muy parecida a los humanos.",
+   "en": "in a way very similar to humans.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Vanguardia apunta que en la sociedad española aumenta la sensibilidad hacia el bienestar animal.",
+   "en": "«La Vanguardia» points out that sensitivity towards animal welfare is growing in Spanish society.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de tema,",
+   "en": "Moving on,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La maldición de Widow's Bay y The Pitt triunfaron el lunes en los premios Emmy.",
+   "en": "«La maldición de Widow's Bay» and «The Pitt» triumphed on Monday at the «Emmy» awards.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La maldición de Widow's Bay, una serie de humor y terror,",
+   "en": "«La maldición de Widow's Bay», a comedy horror series,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "se llevó catorce premios, entre ellos el de mejor comedia.",
+   "en": "took fourteen awards, among them best comedy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "The Pitt, un drama médico,",
+   "en": "«The Pitt», a medical drama,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ganó en la categoría de drama, según El País.",
+   "en": "won in the drama category, «El País» says.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para terminar,",
+   "en": "And finally,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "una niña que nació con graves malformaciones en las vías aéreas",
+   "en": "a girl born with serious airway malformations",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ha podido soplar las velas de su cuarto cumpleaños.",
+   "en": "has been able to blow out the candles on her fourth birthday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ha sido posible gracias al tratamiento en el Hospital Doce de Octubre, en Madrid.",
+   "en": "It was made possible by treatment at the «Doce de Octubre» Hospital, in «Madrid».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ya ha dejado atrás la traqueotomía,",
+   "en": "She has already left her tracheotomy behind,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y El Mundo destaca que cada vez hace más actividades.",
+   "en": "and «El Mundo» notes that she does more and more activities.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí lo esencial.",
+   "en": "That's the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 15 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Nationalist leaders of Scotland, Wales and Northern Ireland seal a pact to push for independence from the UK",
+ "summary_en": [
+  "Nationalist leaders of Scotland, Wales and Northern Ireland seal a pact to push for independence from the UK",
+  "Spain's Sumar takes no stand on the primaries Podemos has proposed for the alternative left",
+  "A Fundación BBVA study finds Spaniards see ever more similarities between animals and people"
+ ]
+}
