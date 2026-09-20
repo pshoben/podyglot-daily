@@ -1,0 +1,219 @@
+{
+ "title": "Le temps chez nous, dimanche 20 septembre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-weather",
+   "wpm": 222,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-20",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le bulletin matinal de l'Institut royal météorologique",
+   "en": "The Royal Meteorological Institute's morning bulletin",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a annoncé une zone de pluie traversant le pays du nord-ouest vers le sud-est.",
+   "en": "announced a rain band crossing the country from the north-west towards the south-east.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cette zone doit ensuite laisser progressivement place à un temps plus lumineux, relève La Libre.",
+   "en": "That band is then due to give way gradually to brighter weather, «La Libre» notes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le modèle du Centre européen, l'ECMWF,",
+   "en": "The European Centre model, the ECMWF,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "donne de la bruine sur Liège aujourd'hui.",
+   "en": "gives drizzle over «Liège» today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le mercure liégeois se situe entre douze et dix-neuf degrés.",
+   "en": "The thermometer in «Liège» sits between twelve and nineteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le risque de pluie y culmine à cent pour cent,",
+   "en": "The risk of rain there peaks at one hundred per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent maximal à vingt et un kilomètres par heure.",
+   "en": "and the maximum wind at twenty-one kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Bruxelles connaît le même ciel,",
+   "en": "Brussels has the same sky,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un degré de plus au sommet, vingt degrés.",
+   "en": "with one degree more at the top, twenty degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilité de pluie y est la même,",
+   "en": "The chance of rain there is the same,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le minimum bruxellois rejoint les douze degrés liégeois.",
+   "en": "and the low in Brussels matches the twelve degrees in «Liège».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans la capitale, le vent ne va pas au-delà de vingt kilomètres par heure.",
+   "en": "In the capital, the wind goes no further than twenty kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La bruine touche aussi Namur.",
+   "en": "The drizzle reaches «Namur» too.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le maximum namurois s'arrête à dix-neuf degrés,",
+   "en": "The high in «Namur» stops at nineteen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec douze degrés au plus bas.",
+   "en": "with twelve degrees at its lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les chances de pluie y montent à cent pour cent,",
+   "en": "The chances of rain there climb to one hundred per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un vent plafonnant à vingt kilomètres par heure.",
+   "en": "with the wind topping out at twenty kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le temps chez nous.",
+   "en": "That is the weather here at home.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Sunday 20 September",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "The Royal Meteorological Institute forecast a rain band crossing Belgium from north-west to south-east",
+ "summary_en": [
+  "The Royal Meteorological Institute forecast a rain band crossing Belgium from north-west to south-east",
+  "Drizzle over Liège all day on the ECMWF model, a high of 19 degrees and a low of 12"
+ ]
+}

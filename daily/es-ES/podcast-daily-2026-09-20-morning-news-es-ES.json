@@ -1,0 +1,370 @@
+{
+ "title": "El informativo de la mañana, domingo 20 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-news",
+   "wpm": 208,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-20",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Domingo veinte de septiembre. El informativo de la mañana.",
+   "en": "Sunday the twentieth of September. The morning bulletin.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ucrania lanza una gran ofensiva con drones contra Moscú,",
+   "en": "Ukraine launches a big drone offensive against Moscow,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la última jornada de las elecciones rusas.",
+   "en": "on the final day of Russia's elections.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y una mujer muere en el incendio de una residencia psiquiátrica de Pamplona.",
+   "en": "And a woman dies in a fire at a psychiatric residence in «Pamplona».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Abrimos con Rusia. eldiario punto es habla de al menos dos muertos en Moscú.",
+   "en": "We open with Russia. «eldiario» reports at least two dead in Moscow.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Añade una veintena de heridos, entre ellos varios menores.",
+   "en": "It adds some twenty injured, several of them minors.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El presidente ucraniano, Volodímir Zelenski,",
+   "en": "The Ukrainian president, «Volodímir Zelenski»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "confirmó golpes contra instalaciones clave de la industria petrolera rusa.",
+   "en": "confirmed strikes on key installations of the Russian oil industry.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y también contra un centro logístico.",
+   "en": "And on a logistics centre too.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en España, según ABC,",
+   "en": "Here in Spain, according to «ABC»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el incendio se declaró el sábado por la noche.",
+   "en": "the fire broke out on Saturday night.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Fue en una habitación de la planta baja de la residencia psiquiátrica Padre Menni.",
+   "en": "It was in a ground-floor room of the «Padre Menni» psychiatric residence.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otras dieciocho personas resultaron heridas,",
+   "en": "Another eighteen people were injured,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "una de ellas grave por inhalación de humo.",
+   "en": "one of them seriously from smoke inhalation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Todos ellos fueron trasladados al Hospital Universitario de Navarra.",
+   "en": "All of them were taken to the «Hospital Universitario de Navarra».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El incendio obligó además a desalojar y reubicar a medio centenar de pacientes.",
+   "en": "The fire also forced the evacuation and rehousing of about fifty patients.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los bomberos apagaron las llamas poco después del aviso,",
+   "en": "Firefighters put out the flames shortly after the alarm,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pero el humo causó daños importantes.",
+   "en": "but the smoke caused heavy damage.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Policía Nacional detuvo a una mujer, residente de la clínica, como presunta responsable.",
+   "en": "The National Police arrested a woman, a resident of the clinic, as the suspected culprit.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Quedó bajo custodia policial a la espera de lo que decida la autoridad judicial.",
+   "en": "She was left in police custody, waiting for the judicial authority to decide.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otro asunto. Un tiroteo de madrugada dejó un muerto en Alzira.",
+   "en": "Another matter. A shooting in the early hours left one man dead in «Alzira».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se produjo en el barrio de l'Alquerieta,",
+   "en": "It happened in the «l'Alquerieta» district,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la provincia de Valencia.",
+   "en": "in the province of «Valencia».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ABC detalla tres heridos y cuatro detenidos,",
+   "en": "«ABC» details three injured and four arrested,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y un enfrentamiento entre dos clanes.",
+   "en": "and a clash between two clans.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el resto de la actualidad,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Alberto Núñez Feijóo reiteró su propuesta sobre la nacionalidad,",
+   "en": "«Alberto Núñez Feijóo» repeated his proposal on nationality,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "cuenta El País.",
+   "en": "«El País» says.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El líder del PP quiere revisar cómo se concede y cómo se retira.",
+   "en": "The «PP» leader wants to review how it is granted and how it is withdrawn.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Habló este domingo en Badalona ante más de seis mil personas, recoge El Mundo.",
+   "en": "He spoke this Sunday in «Badalona» before more than six thousand people, «El Mundo» records.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para terminar, el mismo diario escribe que Shakira acaba en Madrid su gira mundial.",
+   "en": "And finally, the same paper writes that «Shakira» is ending her world tour in «Madrid».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo hace con una residencia de doce conciertos.",
+   "en": "She is doing it with a residency of twelve concerts.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Vanguardia apunta que la cantante colombiana celebra el segundo de ellos.",
+   "en": "«La Vanguardia» notes that the Colombian singer is playing the second of them.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí lo esencial.",
+   "en": "That's the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Sunday 20 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Ukraine launches a big drone offensive on Moscow on the final day of Russia's elections",
+ "summary_en": [
+  "Ukraine launches a big drone offensive on Moscow on the final day of Russia's elections",
+  "A woman dies and eighteen are hurt in a fire at the Padre Menni psychiatric clinic in Pamplona, and a resident is arrested",
+  "eldiario.es counts at least two dead and around twenty hurt, several of them minors, in the drone attacks on Moscow"
+ ]
+}

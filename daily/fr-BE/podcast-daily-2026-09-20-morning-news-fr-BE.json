@@ -1,0 +1,400 @@
+{
+ "title": "Le sept heures, dimanche 20 septembre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-news",
+   "wpm": 222,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-20",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Dimanche vingt septembre. Le sept heures.",
+   "en": "Sunday 20th September. The seven o'clock news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Deux scrutins régionaux se tiennent aujourd'hui en Allemagne,",
+   "en": "Two regional elections are being held in Germany today,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à Berlin et en Mecklembourg-Poméranie-Occidentale.",
+   "en": "in Berlin and Mecklenburg-Western Pomerania.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et à Anderlecht, un incendie a chassé des habitants de leur immeuble dans la nuit.",
+   "en": "And in «Anderlecht», a fire drove residents out of their block in the night.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On ouvre avec l'Allemagne: selon la RTBF,",
+   "en": "We open with Germany: according to «RTBF»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le scrutin a débuté à huit heures dans les deux Länder.",
+   "en": "voting began at eight in the morning in the two «Länder».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Près de quatre millions d'électeurs sont appelés aux urnes, écrit 7sur7.",
+   "en": "Nearly four million voters are being called to the polls, «7sur7» writes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'extrême droite, l'Alternative pour l'Allemagne,",
+   "en": "The far right, Alternative for Germany,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "devrait progresser fortement aux deux scrutins.",
+   "en": "is expected to make strong gains in both votes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "7sur7 note que ces élections",
+   "en": "«7sur7» notes that these elections",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "arrivent quinze jours après la défaite de la CDU en Saxe-Anhalt.",
+   "en": "come fifteen days after the CDU's defeat in Saxony-Anhalt.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ailleurs dans l'actu, l'incendie d'Anderlecht:",
+   "en": "Elsewhere in the news, the «Anderlecht» fire:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "une soixantaine de résidents ont dû quitter les lieux,",
+   "en": "around sixty residents had to leave the building,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ont indiqué les pompiers de Bruxelles.",
+   "en": "the Brussels fire service said.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aucun d'entre eux n'a été blessé.",
+   "en": "None of them was hurt.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le feu a pris dans un bâtiment de six étages de la rue Ropsy Chaudron.",
+   "en": "The fire started in a six-storey building on «rue Ropsy Chaudron».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La RTBF précise que les pompiers ont été alertés vers une heure trente.",
+   "en": "«RTBF» says the crews were called at about half past one in the morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les flammes ont rapidement été maîtrisées,",
+   "en": "The flames were quickly brought under control,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "mais la fumée s'était propagée dans les cages d'escalier, relève La Libre.",
+   "en": "but the smoke had spread through the stairwells, «La Libre» notes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pendant l'extinction, de graves lacunes en matière de sécurité incendie ont été constatées.",
+   "en": "While it was being put out, serious fire-safety failings were found.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre dossier maintenant, le détroit d'Ormuz:",
+   "en": "Another matter now, the Strait of Hormuz:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "l'Iran a transmis ses conditions de réouverture aux États-Unis.",
+   "en": "Iran has passed the United States its conditions for reopening it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le négociateur en chef iranien l'a fait savoir ce dimanche, d'après la DH.",
+   "en": "Iran's chief negotiator made that known this Sunday, according to «DH».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce passage est stratégique pour l'économie mondiale, signale la DH.",
+   "en": "That shipping route matters to the world economy, «DH» points out.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il est au cœur de la guerre entre Téhéran et Washington.",
+   "en": "It is central to the war between Tehran and Washington.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On enchaîne, la Russie: une attaque massive de drones a visé Moscou ce matin,",
+   "en": "Moving on, Russia: a mass drone attack was aimed at Moscow this morning,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "au dernier jour de ses élections législatives.",
+   "en": "on the last day of its parliamentary elections.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le gouverneur de la région de Moscou, Andreï Vorobiov,",
+   "en": "The governor of the Moscow region, «Andreï Vorobiov»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a indiqué que deux cent quarante-neuf drones avaient été abattus, rapporte la RTBF.",
+   "en": "stated that two hundred and forty-nine drones had been brought down, «RTBF» reports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La DH ajoute que les autorités russes",
+   "en": "«DH» adds that the Russian authorities",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ont dénoncé une attaque destinée à perturber le scrutin.",
+   "en": "denounced an attack meant to disrupt the ballot.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour terminer, le téléfilm belge Au sein des autres",
+   "en": "And finally, the Belgian television film «Au sein des autres»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a remporté trois prix au Festival de la Fiction de La Rochelle.",
+   "en": "has taken three prizes at the «Festival de la Fiction» in La Rochelle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Réalisé par la Belge Vania Leturcq,",
+   "en": "Directed by the Belgian «Vania Leturcq»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "il a notamment été récompensé pour son interprétation féminine et sa réalisation, précise La Libre.",
+   "en": "it was honoured in particular for its female lead and for its direction, «La Libre» says.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le téléfilm a été coproduit côté belge par la RTBF et Narrativ Nation.",
+   "en": "The film was co-produced on the Belgian side by «RTBF» and «Narrativ Nation».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà où nous en sommes.",
+   "en": "That is where things stand.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Sunday 20 September",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Germany votes in two regional elections, in Berlin and Mecklenburg-Western Pomerania",
+ "summary_en": [
+  "Germany votes in two regional elections, in Berlin and Mecklenburg-Western Pomerania",
+  "A night fire in an Anderlecht block forces around sixty residents out, and crews find serious fire-safety failings",
+  "Iran passes the United States its conditions for reopening the Strait of Hormuz"
+ ]
+}

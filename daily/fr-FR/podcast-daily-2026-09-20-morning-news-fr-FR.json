@@ -1,0 +1,370 @@
+{
+ "title": "Le journal du matin, dimanche 20 septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-20",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Dimanche vingt septembre. Le journal du matin.",
+   "en": "Sunday 20th September. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Allemagne, deux régions votent aujourd'hui,",
+   "en": "In Germany, two regions are voting today,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le scrutin est à haut risque pour le chancelier Friedrich Merz.",
+   "en": "and it is a high-risk vote for Chancellor «Friedrich Merz».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et Emmanuel Macron a affirmé depuis Saint-Pierre-et-Miquelon que l'archipel est bien français.",
+   "en": "And «Emmanuel Macron» has said from «Saint-Pierre-et-Miquelon» that the archipelago is indeed French.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par l'Allemagne, où deux régions désignent leur nouveau parlement: Berlin, et le Mecklembourg-Poméranie-Occidentale.",
+   "en": "We start with Germany, where two regions are choosing their new parliament: Berlin, and Mecklenburg-Western Pomerania.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans cette seconde région, écrit Le Monde,",
+   "en": "In that second region, «Le Monde» writes,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "l'Union chrétienne-démocrate du chancelier risque de disparaître du Parlement.",
+   "en": "the chancellor's Christian Democratic Union may vanish from the parliament.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Berlin, le quotidien donne la gauche radicale devant les chrétiens-démocrates dans les sondages.",
+   "en": "In Berlin, the paper puts the radical left ahead of the Christian Democrats in the polls.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce double scrutin intervient deux semaines après une victoire de l'extrême droite en Saxe-Anhalt,",
+   "en": "The two votes come two weeks after a far-right win in Saxony-Anhalt,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "rappelle Libération.",
+   "en": "«Libération» recalls.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, Saint-Pierre-et-Miquelon:",
+   "en": "In France, «Saint-Pierre-et-Miquelon»:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Télégramme rapporte que le chef de l'État",
+   "en": "«Le Télégramme» reports that the head of state",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "répliquait à Donald Trump sur le caractère français de l'archipel.",
+   "en": "was replying to «Donald Trump» over whether the archipelago is French.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il rencontre sur l'archipel le Premier ministre canadien, pour renforcer leur coopération.",
+   "en": "He is meeting the Canadian prime minister on the archipelago, to strengthen their cooperation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les responsables français et canadiens, précise France Télévisions,",
+   "en": "French and Canadian officials, «France Télévisions» says,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "veulent afficher leur bonne entente.",
+   "en": "want to show that they get on.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Face au président américain,",
+   "en": "Faced with the American president,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Emmanuel Macron a tenu à réaffirmer que la France est une puissance régionale.",
+   "en": "«Emmanuel Macron» was keen to restate that France is a regional power.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Toujours en France, le prix du gazole a battu un nouveau record ce dimanche,",
+   "en": "Still in France, the price of diesel set a new record this Sunday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon les calculs de l'AFP.",
+   "en": "on AFP's calculations.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le carburant s'affiche à près de deux euros quarante et un centimes le litre,",
+   "en": "The fuel stands at close to two euros and forty-one cents a litre,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en moyenne.",
+   "en": "on average.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'après Sud Ouest, le Premier ministre, Sébastien Lecornu, tiendra des réunions lundi,",
+   "en": "According to «Sud Ouest», the prime minister, «Sébastien Lecornu», will hold meetings on Monday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en pleine crise géopolitique.",
+   "en": "in the middle of a geopolitical crisis.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre sujet maintenant, des violences urbaines ont éclaté dans l'agglomération de Tours.",
+   "en": "Turning to something else, urban violence has broken out in the «Tours» area.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Figaro note qu'un véhicule de police a heurté samedi soir un deux-roues,",
+   "en": "«Le Figaro» notes that a police vehicle hit a two-wheeler on Saturday evening,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et blessé son conducteur à la jambe.",
+   "en": "and injured its rider in the leg.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le policier impliqué a été placé en garde à vue.",
+   "en": "The officer involved has been taken into custody.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour finir, Ouest-France signale qu'un député a écrit à Sébastien Lecornu",
+   "en": "And finally, «Ouest-France» reports that a member of parliament has written to «Sébastien Lecornu»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour se proposer comme ministre de la Ruralité.",
+   "en": "offering himself as minister for rural affairs.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hubert Brigand, député Les Républicains de la Côte-d'Or,",
+   "en": "«Hubert Brigand», the Republicans member for the «Côte-d'Or»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a décidé de se porter candidat sans attendre d'être sollicité.",
+   "en": "decided to put himself forward without waiting to be asked.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Michel Fournier, le ministre délégué chargé de la Ruralité, a annoncé son départ.",
+   "en": "«Michel Fournier», the junior minister in charge of rural affairs, has announced that he is leaving.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Sunday 20 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Two German regions vote, with Chancellor Friedrich Merz under pressure",
+ "summary_en": [
+  "Two German regions vote, with Chancellor Friedrich Merz under pressure",
+  "Macron says Saint-Pierre-et-Miquelon is French, in reply to Trump",
+  "Diesel sets a new record in France at close to 2.41 euros a litre, on AFP's figures"
+ ]
+}

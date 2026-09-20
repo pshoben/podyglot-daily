@@ -1,0 +1,112 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-ES",
+ "date": "2026-09-20",
+ "episodes": [
+  {
+   "id": "es-ES-El informativo de la mañana, domingo 20 de septiembre",
+   "file": "podcast-daily-2026-09-20-morning-news-es-ES.json",
+   "bytes": 9412,
+   "sha256": "6513ea48fb839c83931ac50f96b24cbb78673c655c785e46b9154ea2d98ca9f0",
+   "date": "2026-09-20",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, domingo 20 de septiembre",
+   "title_en": "The morning news, Sunday 20 September",
+   "headline_en": "Ukraine launches a big drone offensive on Moscow on the final day of Russia's elections",
+   "summary_en": [
+    "Ukraine launches a big drone offensive on Moscow on the final day of Russia's elections",
+    "A woman dies and eighteen are hurt in a fire at the Padre Menni psychiatric clinic in Pamplona, and a resident is arrested",
+    "eldiario.es counts at least two dead and around twenty hurt, several of them minors, in the drone attacks on Moscow"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, domingo 20 de septiembre",
+   "file": "podcast-daily-2026-09-20-morning-sport-es-ES.json",
+   "bytes": 4424,
+   "sha256": "526ef67272d55a7a9871104bddec00786e77f9d0870ea0cf65cee5fdf7dda173",
+   "date": "2026-09-20",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, domingo 20 de septiembre",
+   "title_en": "Today's sport, Sunday 20 September",
+   "headline_en": "Football: Atlético de Madrid host Real Madrid at the Metropolitano at a quarter past four this afternoon",
+   "summary_en": [
+    "Football: Atlético de Madrid host Real Madrid at the Metropolitano at a quarter past four this afternoon",
+    "Diego Simeone and José Mourinho meet again in the Madrid football derby, twelve years on"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, domingo 20 de septiembre",
+   "file": "podcast-daily-2026-09-20-morning-weather-es-ES.json",
+   "bytes": 5092,
+   "sha256": "054bd0320670336123396c231645ef563d171904c14a231cd4e27ec029d2bd43",
+   "date": "2026-09-20",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, domingo 20 de septiembre",
+   "title_en": "Today's weather, Sunday 20 September",
+   "headline_en": "Madrid holds at 30 degrees under a clear sky, with a low of 18",
+   "summary_en": [
+    "Madrid holds at 30 degrees under a clear sky, with a low of 18",
+    "Barcelona spends the day between 18 and 28 degrees, with an easterly at 10 kilometres an hour"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, domingo 20 de septiembre",
+   "file": "podcast-daily-2026-09-20-morning-weather-andalucia-es-ES.json",
+   "bytes": 3983,
+   "sha256": "c4043d332eff907cc3002a636352cb7da97257b05d9f32cf0004aaba6148c7b4",
+   "date": "2026-09-20",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, domingo 20 de septiembre",
+   "title_en": "Today's weather, Andalusia, Sunday 20 September",
+   "headline_en": "AEMET yellow wind warning for the Cádiz countryside, the Cádiz coast and the Strait from eleven this morning",
+   "summary_en": [
+    "AEMET yellow wind warning for the Cádiz countryside, the Cádiz coast and the Strait from eleven this morning",
+    "A yellow AEMET coastal warning covers the Cádiz coast and the Strait"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, domingo 20 de septiembre",
+   "file": "podcast-daily-2026-09-20-morning-weather-canarias-es-ES.json",
+   "bytes": 3716,
+   "sha256": "bfc9905554d58353b00091aca5aebc1c7cae9b275fa5c922e5249c68a5ea5d41",
+   "date": "2026-09-20",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, domingo 20 de septiembre",
+   "title_en": "Today's weather, Canary Islands, Sunday 20 September",
+   "headline_en": "Las Palmas de Gran Canaria, in the Canaries: broken cloud, a north-easterly at 15 kilometres an hour and a high of 27",
+   "summary_en": [
+    "Las Palmas de Gran Canaria, in the Canaries: broken cloud, a north-easterly at 15 kilometres an hour and a high of 27",
+    "Santa Cruz de Tenerife holds between 22 and 27 degrees, with an easterly and an ultraviolet index of 8"
+   ]
+  }
+ ],
+ "content": "3938d1e171604d2e51a529a7a0fb3f180f96677b7bf2dac36dc3f56265492936",
+ "rev": 1,
+ "updated": "2026-09-20T17:02:39.731Z"
+}

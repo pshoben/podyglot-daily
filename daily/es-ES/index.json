@@ -5,6 +5,107 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "es-ES-El informativo de la mañana, domingo 20 de septiembre",
+   "file": "podcast-daily-2026-09-20-morning-news-es-ES.json",
+   "bytes": 9412,
+   "sha256": "6513ea48fb839c83931ac50f96b24cbb78673c655c785e46b9154ea2d98ca9f0",
+   "date": "2026-09-20",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, domingo 20 de septiembre",
+   "title_en": "The morning news, Sunday 20 September",
+   "headline_en": "Ukraine launches a big drone offensive on Moscow on the final day of Russia's elections",
+   "summary_en": [
+    "Ukraine launches a big drone offensive on Moscow on the final day of Russia's elections",
+    "A woman dies and eighteen are hurt in a fire at the Padre Menni psychiatric clinic in Pamplona, and a resident is arrested",
+    "eldiario.es counts at least two dead and around twenty hurt, several of them minors, in the drone attacks on Moscow"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, domingo 20 de septiembre",
+   "file": "podcast-daily-2026-09-20-morning-sport-es-ES.json",
+   "bytes": 4424,
+   "sha256": "526ef67272d55a7a9871104bddec00786e77f9d0870ea0cf65cee5fdf7dda173",
+   "date": "2026-09-20",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, domingo 20 de septiembre",
+   "title_en": "Today's sport, Sunday 20 September",
+   "headline_en": "Football: Atlético de Madrid host Real Madrid at the Metropolitano at a quarter past four this afternoon",
+   "summary_en": [
+    "Football: Atlético de Madrid host Real Madrid at the Metropolitano at a quarter past four this afternoon",
+    "Diego Simeone and José Mourinho meet again in the Madrid football derby, twelve years on"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, domingo 20 de septiembre",
+   "file": "podcast-daily-2026-09-20-morning-weather-es-ES.json",
+   "bytes": 5092,
+   "sha256": "054bd0320670336123396c231645ef563d171904c14a231cd4e27ec029d2bd43",
+   "date": "2026-09-20",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, domingo 20 de septiembre",
+   "title_en": "Today's weather, Sunday 20 September",
+   "headline_en": "Madrid holds at 30 degrees under a clear sky, with a low of 18",
+   "summary_en": [
+    "Madrid holds at 30 degrees under a clear sky, with a low of 18",
+    "Barcelona spends the day between 18 and 28 degrees, with an easterly at 10 kilometres an hour"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, domingo 20 de septiembre",
+   "file": "podcast-daily-2026-09-20-morning-weather-andalucia-es-ES.json",
+   "bytes": 3983,
+   "sha256": "c4043d332eff907cc3002a636352cb7da97257b05d9f32cf0004aaba6148c7b4",
+   "date": "2026-09-20",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, domingo 20 de septiembre",
+   "title_en": "Today's weather, Andalusia, Sunday 20 September",
+   "headline_en": "AEMET yellow wind warning for the Cádiz countryside, the Cádiz coast and the Strait from eleven this morning",
+   "summary_en": [
+    "AEMET yellow wind warning for the Cádiz countryside, the Cádiz coast and the Strait from eleven this morning",
+    "A yellow AEMET coastal warning covers the Cádiz coast and the Strait"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, domingo 20 de septiembre",
+   "file": "podcast-daily-2026-09-20-morning-weather-canarias-es-ES.json",
+   "bytes": 3716,
+   "sha256": "bfc9905554d58353b00091aca5aebc1c7cae9b275fa5c922e5249c68a5ea5d41",
+   "date": "2026-09-20",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, domingo 20 de septiembre",
+   "title_en": "Today's weather, Canary Islands, Sunday 20 September",
+   "headline_en": "Las Palmas de Gran Canaria, in the Canaries: broken cloud, a north-easterly at 15 kilometres an hour and a high of 27",
+   "summary_en": [
+    "Las Palmas de Gran Canaria, in the Canaries: broken cloud, a north-easterly at 15 kilometres an hour and a high of 27",
+    "Santa Cruz de Tenerife holds between 22 and 27 degrees, with an easterly and an ultraviolet index of 8"
+   ]
+  },
+  {
    "id": "es-ES-El informativo de la mañana, martes 15 de septiembre",
    "file": "podcast-daily-2026-09-15-morning-news-es-ES.json",
    "bytes": 9250,
@@ -608,511 +709,6 @@
    "summary_en": [
     "Santa Cruz de Tenerife, AEMET's Monday forecast: broken cloud, high 32 degrees, low 24",
     "Las Palmas de Gran Canaria, AEMET's Monday forecast: overcast, high 27 degrees, low 24"
-   ]
-  },
-  {
-   "id": "es-ES-El informativo de la mañana, domingo 6 de septiembre",
-   "file": "podcast-daily-2026-09-06-morning-news-es-ES.json",
-   "bytes": 9676,
-   "sha256": "508adc706a40ab8478a31c0869df9e0c6da3fb74df2008079144d2a287df91de",
-   "date": "2026-09-06",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El informativo de la mañana, domingo 6 de septiembre",
-   "title_en": "The morning news, Sunday 6 September",
-   "headline_en": "Germany's Saxony-Anhalt votes in a regional election with the far-right AfD ahead in the polls",
-   "summary_en": [
-    "Germany's Saxony-Anhalt votes in a regional election with the far-right AfD ahead in the polls",
-    "Spain's government will declassify the Ceuta reports to back its case that nobody was warned",
-    "Spanish opposition leader Alberto Nunez Feijoo takes his party's case on Ceuta to European capitals"
-   ]
-  },
-  {
-   "id": "es-ES-Los deportes, domingo 6 de septiembre",
-   "file": "podcast-daily-2026-09-06-morning-sport-es-ES.json",
-   "bytes": 5277,
-   "sha256": "1e43432038e5bee60adc2c65c13eb91e563f048a1bed04c1e5b78932e1651d37",
-   "date": "2026-09-06",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "Los deportes, domingo 6 de septiembre",
-   "title_en": "Today's sport, Sunday 6 September",
-   "headline_en": "Valencia host Barcelona at Mestalla in Spain's top football division",
-   "summary_en": [
-    "Valencia host Barcelona at Mestalla in Spain's top football division",
-    "Barcelona's last league visit to the old Mestalla football ground"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo, domingo 6 de septiembre",
-   "file": "podcast-daily-2026-09-06-morning-weather-es-ES.json",
-   "bytes": 5279,
-   "sha256": "87f4227f68665b9acaa91b12066281c5c448af1e2ca45f89c6e58d88763933a0",
-   "date": "2026-09-06",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": 0,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo, domingo 6 de septiembre",
-   "title_en": "Today's weather, Sunday 6 September",
-   "headline_en": "AEMET has a yellow thunderstorm warning out for south-western Asturias this morning",
-   "summary_en": [
-    "AEMET has a yellow thunderstorm warning out for south-western Asturias this morning",
-    "Sunday AEMET forecast for A Coruña, 6th September"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo en Andalucía, domingo 6 de septiembre",
-   "file": "podcast-daily-2026-09-06-morning-weather-andalucia-es-ES.json",
-   "bytes": 3930,
-   "sha256": "336ea240cc5a869e3cd1c86fe61f8b302135778b3511e72a718b66c55fb24b76",
-   "date": "2026-09-06",
-   "edition": "morning",
-   "programme": "weather-andalucia",
-   "programme_order": 3,
-   "segment_order": 1,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo en Andalucía, domingo 6 de septiembre",
-   "title_en": "Today's weather, Andalusia, Sunday 6 September",
-   "headline_en": "AEMET has an orange heat warning out for the Cordoba and Seville countryside this afternoon",
-   "summary_en": [
-    "AEMET has an orange heat warning out for the Cordoba and Seville countryside this afternoon",
-    "Sunday AEMET forecast for Córdoba, 6th September"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo en Canarias, domingo 6 de septiembre",
-   "file": "podcast-daily-2026-09-06-morning-weather-canarias-es-ES.json",
-   "bytes": 3725,
-   "sha256": "678ed158f236e3ff7410d5a9241d85f3203225716f340014524c66a6c03da18d",
-   "date": "2026-09-06",
-   "edition": "morning",
-   "programme": "weather-canarias",
-   "programme_order": 4,
-   "segment_order": 2,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo en Canarias, domingo 6 de septiembre",
-   "title_en": "Today's weather, Canary Islands, Sunday 6 September",
-   "headline_en": "Sunday AEMET forecast for Las Palmas de Gran Canaria, 6th September",
-   "summary_en": [
-    "Sunday AEMET forecast for Las Palmas de Gran Canaria, 6th September",
-    "Sunday AEMET forecast for Santa Cruz de Tenerife, 6th September"
-   ]
-  },
-  {
-   "id": "es-ES-El informativo de la mañana, sábado 5 de septiembre",
-   "file": "podcast-daily-2026-09-05-morning-news-es-ES.json",
-   "bytes": 7736,
-   "sha256": "852d2a67a00abca120c8914221a0cb1f078c27b011403eaaeb6db35122834e7a",
-   "date": "2026-09-05",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El informativo de la mañana, sábado 5 de septiembre",
-   "title_en": "The morning news, Saturday 5 September",
-   "headline_en": "Spain's regional financing reform is approved with only two regions in favour",
-   "summary_en": [
-    "Spain's regional financing reform is approved with only two regions in favour",
-    "An Audiencia Nacional judge is examining the mass entry into Ceuta",
-    "Catalonia and the Canary Islands were the only regions to back the model"
-   ]
-  },
-  {
-   "id": "es-ES-Los deportes, sábado 5 de septiembre",
-   "file": "podcast-daily-2026-09-05-morning-sport-es-ES.json",
-   "bytes": 3942,
-   "sha256": "282ed289636fd515e144544b82d2e32554dbca20c9b51c940689ab81222e6b56",
-   "date": "2026-09-05",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "Los deportes, sábado 5 de septiembre",
-   "title_en": "Today's sport, Saturday 5 September",
-   "headline_en": "Athletic host Atletico at San Mames",
-   "summary_en": [
-    "Athletic host Atletico at San Mames",
-    "Villarreal host Deportivo in the evening"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo, sábado 5 de septiembre",
-   "file": "podcast-daily-2026-09-05-morning-weather-es-ES.json",
-   "bytes": 6352,
-   "sha256": "6a1ef1da416d4349617cc15b5b8ddb47098547e75bb82fd3adc49fef62ed3d99",
-   "date": "2026-09-05",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": 0,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo, sábado 5 de septiembre",
-   "title_en": "Today's weather, Saturday 5 September",
-   "headline_en": "An orange heat warning covers Navarre, Aragon and inland Catalonia",
-   "summary_en": [
-    "An orange heat warning covers Navarre, Aragon and inland Catalonia",
-    "Yellow heat warnings reach Extremadura, Castile and Leon and other regions"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo en Andalucía, sábado 5 de septiembre",
-   "file": "podcast-daily-2026-09-05-morning-weather-andalucia-es-ES.json",
-   "bytes": 3821,
-   "sha256": "1249d6d1ab9909005f8710658ba1c9908ebca649a5763d6392d9f22478e91599",
-   "date": "2026-09-05",
-   "edition": "morning",
-   "programme": "weather-andalucia",
-   "programme_order": 3,
-   "segment_order": 1,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo en Andalucía, sábado 5 de septiembre",
-   "title_en": "Today's weather, Andalusia, Saturday 5 September",
-   "headline_en": "A yellow heat warning covers Andalusia in the middle of the day",
-   "summary_en": [
-    "A yellow heat warning covers Andalusia in the middle of the day",
-    "Saturday AEMET forecast for Córdoba, 5th September"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo en Canarias, sábado 5 de septiembre",
-   "file": "podcast-daily-2026-09-05-morning-weather-canarias-es-ES.json",
-   "bytes": 3762,
-   "sha256": "0fd866d3ea41bf5d0f8964feda696a7272e9faf77f832a9cfe2fce5e91f43fe6",
-   "date": "2026-09-05",
-   "edition": "morning",
-   "programme": "weather-canarias",
-   "programme_order": 4,
-   "segment_order": 2,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo en Canarias, sábado 5 de septiembre",
-   "title_en": "Today's weather, Canary Islands, Saturday 5 September",
-   "headline_en": "Saturday AEMET forecast for Las Palmas de Gran Canaria, 5th September",
-   "summary_en": [
-    "Saturday AEMET forecast for Las Palmas de Gran Canaria, 5th September",
-    "Saturday AEMET forecast for Santa Cruz de Tenerife, 5th September"
-   ]
-  },
-  {
-   "id": "es-ES-El informativo de la mañana, viernes 4 de septiembre",
-   "file": "podcast-daily-2026-09-04-morning-news-es-ES.json",
-   "bytes": 12077,
-   "sha256": "d88b8ff7b6cae7604cd68626dbb8d04962caf1c4cdc240d75dd2eb3d51260734",
-   "date": "2026-09-04",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El informativo de la mañana, viernes 4 de septiembre",
-   "title_en": "The morning news, Friday 4 September",
-   "headline_en": "Volkswagen approves another fifty thousand job cuts, with Seat's future undecided",
-   "summary_en": [
-    "Volkswagen approves another fifty thousand job cuts, with Seat's future undecided",
-    "Sanchez opens the door to Moroccan involvement being proven over Ceuta",
-    "Volkswagen's supervisory board approves the Plan Futuro 2030 restructuring"
-   ]
-  },
-  {
-   "id": "es-ES-Los deportes, viernes 4 de septiembre",
-   "file": "podcast-daily-2026-09-04-morning-sport-es-ES.json",
-   "bytes": 3751,
-   "sha256": "484660a8305a7ee2776067f0490abfefb4a72ae1d55d4f92c375bc4334fb1c87",
-   "date": "2026-09-04",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "Los deportes, viernes 4 de septiembre",
-   "title_en": "Today's sport, Friday 4 September",
-   "headline_en": "Betis host Real Madrid in LaLiga today",
-   "summary_en": [
-    "Betis host Real Madrid in LaLiga today",
-    "The match is played at La Cartuja in Seville"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo, viernes 4 de septiembre",
-   "file": "podcast-daily-2026-09-04-morning-weather-es-ES.json",
-   "bytes": 7683,
-   "sha256": "53c9b76ba2427cc0f5dd7f8ef73a323e2da973eea967fa77392191bb0bf6980f",
-   "date": "2026-09-04",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": 0,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo, viernes 4 de septiembre",
-   "title_en": "Today's weather, Friday 4 September",
-   "headline_en": "Aemet has high-temperature warnings out in fifteen communities today",
-   "summary_en": [
-    "Aemet has high-temperature warnings out in fifteen communities today",
-    "A stable day with cloud building from the south-west"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo en Andalucía, viernes 4 de septiembre",
-   "file": "podcast-daily-2026-09-04-morning-weather-andalucia-es-ES.json",
-   "bytes": 4050,
-   "sha256": "a63695bff6b1b286eeaf250052a48e9e265282f8f906d41171c103dbf3820569",
-   "date": "2026-09-04",
-   "edition": "morning",
-   "programme": "weather-andalucia",
-   "programme_order": 3,
-   "segment_order": 1,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo en Andalucía, viernes 4 de septiembre",
-   "title_en": "Today's weather, Andalusia, Friday 4 September",
-   "headline_en": "An orange heat warning covers the Cordoba and Seville campinas",
-   "summary_en": [
-    "An orange heat warning covers the Cordoba and Seville campinas",
-    "Friday AEMET forecast for Córdoba, 4th September"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo en Canarias, viernes 4 de septiembre",
-   "file": "podcast-daily-2026-09-04-morning-weather-canarias-es-ES.json",
-   "bytes": 3831,
-   "sha256": "a675d0f2c663c493f5594a96be38420365417deaf5421c46bb0d63c5d128cd3f",
-   "date": "2026-09-04",
-   "edition": "morning",
-   "programme": "weather-canarias",
-   "programme_order": 4,
-   "segment_order": 2,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo en Canarias, viernes 4 de septiembre",
-   "title_en": "Today's weather, Canary Islands, Friday 4 September",
-   "headline_en": "Temperatures rise in the Canary Islands today",
-   "summary_en": [
-    "Temperatures rise in the Canary Islands today",
-    "Friday AEMET forecast for Las Palmas de Gran Canaria, 4th September"
-   ]
-  },
-  {
-   "id": "es-ES-El informativo de la mañana, jueves 3 de septiembre",
-   "file": "podcast-daily-2026-09-03-morning-news-es-ES.json",
-   "bytes": 10015,
-   "sha256": "59082a72e029a1f0b40adbef48069a27b9689b40e4fc60a76be8a57cd3f9b1bd",
-   "date": "2026-09-03",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El informativo de la mañana, jueves 3 de septiembre",
-   "title_en": "The morning news, Thursday 3 September",
-   "headline_en": "Germany blames Russia for the failed drone attack on Leipzig airport",
-   "summary_en": [
-    "Germany blames Russia for the failed drone attack on Leipzig airport",
-    "Sanchez appears before Congress over the Ceuta border crossing",
-    "A police report puts Moroccan officers at the July border crossing"
-   ]
-  },
-  {
-   "id": "es-ES-Los deportes, jueves 3 de septiembre",
-   "file": "podcast-daily-2026-09-03-morning-sport-es-ES.json",
-   "bytes": 4331,
-   "sha256": "078c531012d50241fcea36fdb64657c55881d8e6d668435cd0126c581c27c469",
-   "date": "2026-09-03",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "Los deportes, jueves 3 de septiembre",
-   "title_en": "Today's sport, Thursday 3 September",
-   "headline_en": "Real Sociedad host Celta at Anoeta on Thursday night",
-   "summary_en": [
-    "Real Sociedad host Celta at Anoeta on Thursday night",
-    "Fort and Sarr are named in the Real Sociedad squad"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo, jueves 3 de septiembre",
-   "file": "podcast-daily-2026-09-03-morning-weather-es-ES.json",
-   "bytes": 5810,
-   "sha256": "e617e184bb9e8617f88d42f33dbfea37b5051fc9983034582f919294c7b8ff73",
-   "date": "2026-09-03",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": 0,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo, jueves 3 de septiembre",
-   "title_en": "Today's weather, Thursday 3 September",
-   "headline_en": "Aemet expects temperatures to rise again across the peninsula on Thursday",
-   "summary_en": [
-    "Aemet expects temperatures to rise again across the peninsula on Thursday",
-    "A yellow heat warning is in force across the Community of Madrid"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo en Andalucía, jueves 3 de septiembre",
-   "file": "podcast-daily-2026-09-03-morning-weather-andalucia-es-ES.json",
-   "bytes": 4282,
-   "sha256": "b97b68812fdace3cf09436f6e7ad80114dad5d67a427e59c1491e1bc709d63e7",
-   "date": "2026-09-03",
-   "edition": "morning",
-   "programme": "weather-andalucia",
-   "programme_order": 3,
-   "segment_order": 1,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo en Andalucía, jueves 3 de septiembre",
-   "title_en": "Today's weather, Andalusia, Thursday 3 September",
-   "headline_en": "Thursday AEMET forecast for Córdoba, 3rd September",
-   "summary_en": [
-    "Thursday AEMET forecast for Córdoba, 3rd September",
-    "Thursday AEMET forecast for Sevilla, 3rd September"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo en Canarias, jueves 3 de septiembre",
-   "file": "podcast-daily-2026-09-03-morning-weather-canarias-es-ES.json",
-   "bytes": 4050,
-   "sha256": "819a493aa2598494d416a7adae804c7dab8cfed2f03bfd4e8040e69672040b84",
-   "date": "2026-09-03",
-   "edition": "morning",
-   "programme": "weather-canarias",
-   "programme_order": 4,
-   "segment_order": 2,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo en Canarias, jueves 3 de septiembre",
-   "title_en": "Today's weather, Canary Islands, Thursday 3 September",
-   "headline_en": "Temperatures hold steady or rise slightly in the Canaries",
-   "summary_en": [
-    "Temperatures hold steady or rise slightly in the Canaries",
-    "Thursday AEMET forecast for Las Palmas de Gran Canaria, 3rd September"
-   ]
-  },
-  {
-   "id": "es-ES-El informativo de la mañana, miércoles 2 de septiembre",
-   "file": "podcast-daily-2026-09-02-morning-news-es-ES.json",
-   "bytes": 9787,
-   "sha256": "ace1104ee0b5842eebfbb133d95757192a73f28e075121bc35abf92d1131e39d",
-   "date": "2026-09-02",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El informativo de la mañana, miércoles 2 de septiembre",
-   "title_en": "The morning news, Wednesday 2 September",
-   "headline_en": "The US bombs Iran again and Iran fires on bases in Jordan",
-   "summary_en": [
-    "The US bombs Iran again and Iran fires on bases in Jordan",
-    "A police report puts Moroccan agents behind the Ceuta crossing",
-    "Trump threatened bigger strikes if Tehran replied"
-   ]
-  },
-  {
-   "id": "es-ES-Los deportes, miércoles 2 de septiembre",
-   "file": "podcast-daily-2026-09-02-morning-sport-es-ES.json",
-   "bytes": 5645,
-   "sha256": "37589567f288ce614a35d60ecaff7357c7c712c156c01184b10d1d25865c1463",
-   "date": "2026-09-02",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "Los deportes, miércoles 2 de septiembre",
-   "title_en": "Today's sport, Wednesday 2 September",
-   "headline_en": "The summer transfer window closes in Spain",
-   "summary_en": [
-    "The summer transfer window closes in Spain",
-    "Dani Ceballos signs for Real Betis"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo, miércoles 2 de septiembre",
-   "file": "podcast-daily-2026-09-02-morning-weather-es-ES.json",
-   "bytes": 5981,
-   "sha256": "9068383e0f27d8085e488f88b9466fe615ca21294c08e5204395a73cb2f05c18",
-   "date": "2026-09-02",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": 0,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo, miércoles 2 de septiembre",
-   "title_en": "Today's weather, Wednesday 2 September",
-   "headline_en": "AEMET heat warnings in five regions today",
-   "summary_en": [
-    "AEMET heat warnings in five regions today",
-    "A yellow heat warning across the Madrid region"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo en Andalucía, miércoles 2 de septiembre",
-   "file": "podcast-daily-2026-09-02-morning-weather-andalucia-es-ES.json",
-   "bytes": 4745,
-   "sha256": "92990aa98e170d7973c4111bf6aac504a4a0cf9cb6a33b81025da31ee88e0d87",
-   "date": "2026-09-02",
-   "edition": "morning",
-   "programme": "weather-andalucia",
-   "programme_order": 3,
-   "segment_order": 1,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo en Andalucía, miércoles 2 de septiembre",
-   "title_en": "Today's weather, Andalusia, Wednesday 2 September",
-   "headline_en": "Wednesday AEMET forecast for Córdoba, 2nd September",
-   "summary_en": [
-    "Wednesday AEMET forecast for Córdoba, 2nd September",
-    "Wednesday AEMET forecast for Sevilla, 2nd September"
-   ]
-  },
-  {
-   "id": "es-ES-El tiempo en Canarias, miércoles 2 de septiembre",
-   "file": "podcast-daily-2026-09-02-morning-weather-canarias-es-ES.json",
-   "bytes": 4500,
-   "sha256": "d206865c15ec64d6740edb9aae73a26efe4880a10bedfd399349a4cd2111fb4b",
-   "date": "2026-09-02",
-   "edition": "morning",
-   "programme": "weather-canarias",
-   "programme_order": 4,
-   "segment_order": 2,
-   "region": "es-ES",
-   "region_label": "España",
-   "title": "El tiempo en Canarias, miércoles 2 de septiembre",
-   "title_en": "Today's weather, Canary Islands, Wednesday 2 September",
-   "headline_en": "Wednesday AEMET forecast for Las Palmas de Gran Canaria, 2nd September",
-   "summary_en": [
-    "Wednesday AEMET forecast for Las Palmas de Gran Canaria, 2nd September",
-    "Wednesday AEMET forecast for Santa Cruz de Tenerife, 2nd September"
    ]
   }
  ]

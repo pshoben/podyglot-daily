@@ -1,0 +1,179 @@
+{
+ "title": "Los deportes, domingo 20 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-sport",
+   "wpm": 208,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-20",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Hoy en la agenda, fútbol:",
+   "en": "On the agenda today, football:",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el Atlético de Madrid recibe al Real Madrid en el Metropolitano.",
+   "en": "«Atlético de Madrid» host «Real Madrid» at the «Metropolitano».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Es el primer derbi madrileño de la temporada.",
+   "en": "It is the first Madrid derby of the season.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mundo Deportivo sitúa el saque inicial a las cuatro y cuarto de la tarde.",
+   "en": "«Mundo Deportivo» puts the kick-off at a quarter past four this afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El País se fija en los dos entrenadores,",
+   "en": "«El País» looks closely at the two coaches,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Diego Simeone y José Mourinho.",
+   "en": "«Diego Simeone» and «José Mourinho».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se enfrentan doce años después,",
+   "en": "They meet twelve years on,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un tiempo en el que han debido evolucionar sus libretos.",
+   "en": "a time in which they have had to let their playbooks evolve.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por otra parte, AS informa de un cambio en el banquillo del Valencia.",
+   "en": "Elsewhere, «AS» reports a change in the «Valencia» dugout.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Javier Aguirre se hará cargo del equipo tras el partido contra la Real Sociedad.",
+   "en": "«Javier Aguirre» takes charge of the side after the match against «Real Sociedad».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese partido se juega esta noche.",
+   "en": "That match is played tonight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los contratos todavía no están firmados, destaca el diario.",
+   "en": "The contracts are not yet signed, the paper stresses.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En El Mundo, el contrato de Aguirre se extiende hasta junio.",
+   "en": "In «El Mundo», «Aguirre»'s contract extends until June.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y crece si el equipo entra en plaza de Europa League.",
+   "en": "And it grows if the team gets into a Europa League place.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí los deportes.",
+   "en": "That's it for sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Sunday 20 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Football: Atlético de Madrid host Real Madrid at the Metropolitano at a quarter past four this afternoon",
+ "summary_en": [
+  "Football: Atlético de Madrid host Real Madrid at the Metropolitano at a quarter past four this afternoon",
+  "Diego Simeone and José Mourinho meet again in the Madrid football derby, twelve years on"
+ ]
+}

@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-BE-Le sept heures, dimanche 20 septembre",
+   "file": "podcast-daily-2026-09-20-morning-news-fr-BE.json",
+   "bytes": 10284,
+   "sha256": "0895b16eae2de0875e33b2e66a79f769f778145278e7d4c1caa2b90d18db29b4",
+   "date": "2026-09-20",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, dimanche 20 septembre",
+   "title_en": "The morning news, Sunday 20 September",
+   "headline_en": "Germany votes in two regional elections, in Berlin and Mecklenburg-Western Pomerania",
+   "summary_en": [
+    "Germany votes in two regional elections, in Berlin and Mecklenburg-Western Pomerania",
+    "A night fire in an Anderlecht block forces around sixty residents out, and crews find serious fire-safety failings",
+    "Iran passes the United States its conditions for reopening the Strait of Hormuz"
+   ]
+  },
+  {
+   "id": "fr-BE-Le sport chez nous, dimanche 20 septembre",
+   "file": "podcast-daily-2026-09-20-morning-sport-fr-BE.json",
+   "bytes": 5664,
+   "sha256": "55d7b8e9b351be4130cf12cd328eff7103362ce2621d50d0a6354b0ed5c4dd7f",
+   "date": "2026-09-20",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sport chez nous, dimanche 20 septembre",
+   "title_en": "Today's sport, Sunday 20 September",
+   "headline_en": "Cycling: Remco Evenepoel rides the world time trial in Montreal this evening",
+   "summary_en": [
+    "Cycling: Remco Evenepoel rides the world time trial in Montreal this evening",
+    "Football: Paris Saint-Germain president Nasser al-Khelaifi faces a French conflict-of-interest inquiry"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, dimanche 20 septembre",
+   "file": "podcast-daily-2026-09-20-morning-weather-fr-BE.json",
+   "bytes": 5432,
+   "sha256": "847ebc4d788b17dfa6aac3297693092e7333f5d005acdb4b792c7418d55aefea",
+   "date": "2026-09-20",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, dimanche 20 septembre",
+   "title_en": "Today's weather, Sunday 20 September",
+   "headline_en": "The Royal Meteorological Institute forecast a rain band crossing Belgium from north-west to south-east",
+   "summary_en": [
+    "The Royal Meteorological Institute forecast a rain band crossing Belgium from north-west to south-east",
+    "Drizzle over Liège all day on the ECMWF model, a high of 19 degrees and a low of 12"
+   ]
+  },
+  {
    "id": "fr-BE-Le sept heures, mardi 15 septembre",
    "file": "podcast-daily-2026-09-15-morning-news-fr-BE.json",
    "bytes": 7604,
@@ -287,309 +348,6 @@
    "summary_en": [
     "Monday forecast for Belgium from the IRM: sunny spells and cloud fields",
     "Monday forecast for Namur, 7th September"
-   ]
-  },
-  {
-   "id": "fr-BE-Le sept heures, dimanche 6 septembre",
-   "file": "podcast-daily-2026-09-06-morning-news-fr-BE.json",
-   "bytes": 7250,
-   "sha256": "bfda64ae390567ffdede9d1343ae60bfa7755cf08c2d643a5f667f7c1c608d7a",
-   "date": "2026-09-06",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le sept heures, dimanche 6 septembre",
-   "title_en": "The morning news, Sunday 6 September",
-   "headline_en": "Putin receives Trump's envoys in Moscow",
-   "summary_en": [
-    "Putin receives Trump's envoys in Moscow",
-    "Iran promises harsher reprisals after US strikes on tankers",
-    "Trump's envoys due in Kyiv on Sunday"
-   ]
-  },
-  {
-   "id": "fr-BE-Le sport chez nous, dimanche 6 septembre",
-   "file": "podcast-daily-2026-09-06-morning-sport-fr-BE.json",
-   "bytes": 4145,
-   "sha256": "ba077337532ae8afd03e843fc0edc4334c77b735749f7debfc839483ee65c180",
-   "date": "2026-09-06",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le sport chez nous, dimanche 6 septembre",
-   "title_en": "Today's sport, Sunday 6 September",
-   "headline_en": "Cycling: the Vuelta's 15th stage is cut short by the heat",
-   "summary_en": [
-    "Cycling: the Vuelta's 15th stage is cut short by the heat",
-    "Basketball: the Belgian Cats meet Puerto Rico at the World Cup"
-   ]
-  },
-  {
-   "id": "fr-BE-Le temps chez nous, dimanche 6 septembre",
-   "file": "podcast-daily-2026-09-06-morning-weather-fr-BE.json",
-   "bytes": 4912,
-   "sha256": "c44a740bd13390796c767857851144e1149ff54e2a8c4efff605c6fcdd5a44f4",
-   "date": "2026-09-06",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le temps chez nous, dimanche 6 septembre",
-   "title_en": "Today's weather, Sunday 6 September",
-   "headline_en": "Sunday forecast for Bruxelles, 6th September",
-   "summary_en": [
-    "Sunday forecast for Bruxelles, 6th September",
-    "Sunday forecast for Liège, 6th September"
-   ]
-  },
-  {
-   "id": "fr-BE-Le sept heures, samedi 5 septembre",
-   "file": "podcast-daily-2026-09-05-morning-news-fr-BE.json",
-   "bytes": 7546,
-   "sha256": "9f6ed13df73b127445471b064d51f81096590594b1fb25ab28c32ddb79a24115",
-   "date": "2026-09-05",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le sept heures, samedi 5 septembre",
-   "title_en": "The morning news, Saturday 5 September",
-   "headline_en": "Argentina hardens its line on the Falklands claim",
-   "summary_en": [
-    "Argentina hardens its line on the Falklands claim",
-    "MR draws its red line on VAT before the federal budget talks"
-   ]
-  },
-  {
-   "id": "fr-BE-Le sport chez nous, samedi 5 septembre",
-   "file": "podcast-daily-2026-09-05-morning-sport-fr-BE.json",
-   "bytes": 3943,
-   "sha256": "f430c6a0a3f41cf80ca84ed3a5fd8f310062777268df6d91dc980aad690c19e0",
-   "date": "2026-09-05",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le sport chez nous, samedi 5 septembre",
-   "title_en": "Today's sport, Saturday 5 September",
-   "headline_en": "Belgian Cats in group C at the basketball World Cup in Berlin",
-   "summary_en": [
-    "Belgian Cats in group C at the basketball World Cup in Berlin"
-   ]
-  },
-  {
-   "id": "fr-BE-Le temps chez nous, samedi 5 septembre",
-   "file": "podcast-daily-2026-09-05-morning-weather-fr-BE.json",
-   "bytes": 4918,
-   "sha256": "2627ef8a5c5591ace75db34d222417c3f69e39624839821790cde4a6701b5fc3",
-   "date": "2026-09-05",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le temps chez nous, samedi 5 septembre",
-   "title_en": "Today's weather, Saturday 5 September",
-   "headline_en": "Saturday forecast for Bruxelles, 5th September",
-   "summary_en": [
-    "Saturday forecast for Bruxelles, 5th September",
-    "Saturday forecast for Liège, 5th September"
-   ]
-  },
-  {
-   "id": "fr-BE-Le sept heures, vendredi 4 septembre",
-   "file": "podcast-daily-2026-09-04-morning-news-fr-BE.json",
-   "bytes": 8168,
-   "sha256": "8af7f24e4c0e333764ab61c37d54dc31ef101122c0ab92f5239b13374f9c2207",
-   "date": "2026-09-04",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le sept heures, vendredi 4 septembre",
-   "title_en": "The morning news, Friday 4 September",
-   "headline_en": "Volkswagen board approves 50,000 more job cuts by 2030",
-   "summary_en": [
-    "Volkswagen board approves 50,000 more job cuts by 2030",
-    "More Belgians working past 66, drawn by the pension bonus",
-    "De Wever in Mumbai as Belgium and India sign defence deals"
-   ]
-  },
-  {
-   "id": "fr-BE-Le sport chez nous, vendredi 4 septembre",
-   "file": "podcast-daily-2026-09-04-morning-sport-fr-BE.json",
-   "bytes": 4676,
-   "sha256": "c582111cf9487b32be8ba21e16f9c233044183db4e7132f2c22ce43eae68cf62",
-   "date": "2026-09-04",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le sport chez nous, vendredi 4 septembre",
-   "title_en": "Today's sport, Friday 4 September",
-   "headline_en": "Belgian Cats open their World Cup against Turkey in Berlin",
-   "summary_en": [
-    "Belgian Cats open their World Cup against Turkey in Berlin",
-    "Belgian transfer window shuts, Vermeeren back at Antwerp"
-   ]
-  },
-  {
-   "id": "fr-BE-Le temps chez nous, vendredi 4 septembre",
-   "file": "podcast-daily-2026-09-04-morning-weather-fr-BE.json",
-   "bytes": 6086,
-   "sha256": "21a76e8f0bf59ce52e5af9adf3a7c649251713b4a76f1ebc0784740a13e14365",
-   "date": "2026-09-04",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le temps chez nous, vendredi 4 septembre",
-   "title_en": "Today's weather, Friday 4 September",
-   "headline_en": "Cloudy and breezy across Belgium, rain crossing in the afternoon",
-   "summary_en": [
-    "Cloudy and breezy across Belgium, rain crossing in the afternoon",
-    "Friday forecast for Brussels, 4th September"
-   ]
-  },
-  {
-   "id": "fr-BE-Le sept heures, jeudi 3 septembre",
-   "file": "podcast-daily-2026-09-03-morning-news-fr-BE.json",
-   "bytes": 9912,
-   "sha256": "04454440f707fdc45555aa5cfcb8cc56b60a2466d4f52b80c08c83064f1c1b29",
-   "date": "2026-09-03",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le sept heures, jeudi 3 septembre",
-   "title_en": "The morning news, Thursday 3 September",
-   "headline_en": "Kuwait targeted by Iranian missiles and drones",
-   "summary_en": [
-    "Kuwait targeted by Iranian missiles and drones",
-    "Sciensano counts close to 3,000 excess deaths over the summer",
-    "Thousands rally across Spain over Ceuta"
-   ]
-  },
-  {
-   "id": "fr-BE-Le sport chez nous, jeudi 3 septembre",
-   "file": "podcast-daily-2026-09-03-morning-sport-fr-BE.json",
-   "bytes": 5244,
-   "sha256": "63ba2a2afea696d4ec524581413baea8668c0097c44cbe71b5a5260e7644294b",
-   "date": "2026-09-03",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le sport chez nous, jeudi 3 septembre",
-   "title_en": "Today's sport, Thursday 3 September",
-   "headline_en": "Last day of the Belgian transfer window",
-   "summary_en": [
-    "Last day of the Belgian transfer window",
-    "Belgian Cats open their World Cup on Friday"
-   ]
-  },
-  {
-   "id": "fr-BE-Le temps chez nous, jeudi 3 septembre",
-   "file": "podcast-daily-2026-09-03-morning-weather-fr-BE.json",
-   "bytes": 5074,
-   "sha256": "d76a69861fa6b41038debee9c70aad0f8fd12936114126ee81b8b4aeab9d5e69",
-   "date": "2026-09-03",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le temps chez nous, jeudi 3 septembre",
-   "title_en": "Today's weather, Thursday 3 September",
-   "headline_en": "Thursday in Belgium: cloudy, very mild, rain and gusts",
-   "summary_en": [
-    "Thursday in Belgium: cloudy, very mild, rain and gusts",
-    "Thursday forecast for Brussels, 3rd September"
-   ]
-  },
-  {
-   "id": "fr-BE-Le sept heures, mercredi 2 septembre",
-   "file": "podcast-daily-2026-09-02-morning-news-fr-BE.json",
-   "bytes": 10432,
-   "sha256": "1e665d2bebc26a651a521f4746e14cf93bedf33ec3aedb2cbdfe3e889a2aa4ef",
-   "date": "2026-09-02",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le sept heures, mercredi 2 septembre",
-   "title_en": "The morning news, Wednesday 2 September",
-   "headline_en": "The United States strikes Iran for a second time in days",
-   "summary_en": [
-    "The United States strikes Iran for a second time in days",
-    "Belgian teachers step up their protest campaign",
-    "Tehran says it has hit American targets in reply"
-   ]
-  },
-  {
-   "id": "fr-BE-Le sport chez nous, mercredi 2 septembre",
-   "file": "podcast-daily-2026-09-02-morning-sport-fr-BE.json",
-   "bytes": 5633,
-   "sha256": "82474aab203a8870d3fba14a731af7a6d7624446b6f4c62c8bcdc90e0015d320",
-   "date": "2026-09-02",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le sport chez nous, mercredi 2 septembre",
-   "title_en": "Today's sport, Wednesday 2 September",
-   "headline_en": "Pro League midweek: Saint-Trond host Union Saint-Gilloise",
-   "summary_en": [
-    "Pro League midweek: Saint-Trond host Union Saint-Gilloise",
-    "Belgian moves as the transfer window shuts"
-   ]
-  },
-  {
-   "id": "fr-BE-Le temps chez nous, mercredi 2 septembre",
-   "file": "podcast-daily-2026-09-02-morning-weather-fr-BE.json",
-   "bytes": 4995,
-   "sha256": "781bd18759cb40d2f1086ccbffc12e9876b23dec0f1122e064a0af437822238f",
-   "date": "2026-09-02",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le temps chez nous, mercredi 2 septembre",
-   "title_en": "Today's weather, Wednesday 2 September",
-   "headline_en": "Wednesday forecast for Bruxelles, 2nd September",
-   "summary_en": [
-    "Wednesday forecast for Bruxelles, 2nd September",
-    "Wednesday forecast for Liège, 2nd September"
    ]
   }
  ]

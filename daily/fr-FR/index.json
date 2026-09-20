@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-FR-Le journal du matin, dimanche 20 septembre",
+   "file": "podcast-daily-2026-09-20-morning-news-fr-FR.json",
+   "bytes": 9709,
+   "sha256": "46890f8d204643b6e51ff7dbc235f5a474ef8f895e97e8bee19ffe0b7aaad197",
+   "date": "2026-09-20",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, dimanche 20 septembre",
+   "title_en": "The morning news, Sunday 20 September",
+   "headline_en": "Two German regions vote, with Chancellor Friedrich Merz under pressure",
+   "summary_en": [
+    "Two German regions vote, with Chancellor Friedrich Merz under pressure",
+    "Macron says Saint-Pierre-et-Miquelon is French, in reply to Trump",
+    "Diesel sets a new record in France at close to 2.41 euros a litre, on AFP's figures"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, dimanche 20 septembre",
+   "file": "podcast-daily-2026-09-20-morning-sport-fr-FR.json",
+   "bytes": 4276,
+   "sha256": "e43646f4ee01d2edf855c17852571b8c3f39f0d76d21f13ddf883748154409e4",
+   "date": "2026-09-20",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, dimanche 20 septembre",
+   "title_en": "Today's sport, Sunday 20 September",
+   "headline_en": "Football: Marseille host Paris Saint-Germain at the Vélodrome this evening",
+   "summary_en": [
+    "Football: Marseille host Paris Saint-Germain at the Vélodrome this evening",
+    "Cycling: the road world championships open in Montréal with the time trials"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, dimanche 20 septembre",
+   "file": "podcast-daily-2026-09-20-morning-weather-fr-FR.json",
+   "bytes": 6240,
+   "sha256": "bd3941e48af8bfb26671fbc08628ebb8e64cc6dcdcc61c78436a96f9eaa0064c",
+   "date": "2026-09-20",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, dimanche 20 septembre",
+   "title_en": "Today's weather, Sunday 20 September",
+   "headline_en": "Drizzle over Lille, where the day tops out at 20 degrees",
+   "summary_en": [
+    "Drizzle over Lille, where the day tops out at 20 degrees",
+    "Paris stays overcast, with a high of 24 degrees"
+   ]
+  },
+  {
    "id": "fr-FR-Le journal du matin, mardi 15 septembre",
    "file": "podcast-daily-2026-09-15-morning-news-fr-FR.json",
    "bytes": 10311,
@@ -328,291 +389,6 @@
    "summary_en": [
     "Six south-eastern departments stay on orange heatwave alert on Monday",
     "Monday forecast for Marseille: scattered cloud, a high of 30 degrees"
-   ]
-  },
-  {
-   "id": "fr-FR-Le journal du matin, dimanche 6 septembre",
-   "file": "podcast-daily-2026-09-06-morning-news-fr-FR.json",
-   "bytes": 8086,
-   "sha256": "2b25937dacc25765f1b2b57221f542b1e153c9033a09aefa827f67e447897fb4",
-   "date": "2026-09-06",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le journal du matin, dimanche 6 septembre",
-   "title_en": "The morning news, Sunday 6 September",
-   "headline_en": "Trump's envoys Witkoff and Kushner due in Kyiv after Saturday's Moscow talks",
-   "summary_en": [
-    "Trump's envoys Witkoff and Kushner due in Kyiv after Saturday's Moscow talks",
-    "Counter-fires and a Chinook helicopter against the Aspe valley wildfire in the Pyrenees",
-    "Le Monde reports no breakthrough after Putin's three-hour Kremlin meeting with Trump's envoys"
-   ]
-  },
-  {
-   "id": "fr-FR-Le sport, dimanche 6 septembre",
-   "file": "podcast-daily-2026-09-06-morning-sport-fr-FR.json",
-   "bytes": 4113,
-   "sha256": "b34c8510dae1a381096708cf45ec690655d67d82bc6606fca7ba375e67fc9789",
-   "date": "2026-09-06",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le sport, dimanche 6 septembre",
-   "title_en": "Today's sport, Sunday 6 September",
-   "headline_en": "Football: Marseille host Paris FC in Ligue 1 on Sunday evening",
-   "summary_en": [
-    "Football: Marseille host Paris FC in Ligue 1 on Sunday evening",
-    "Football: Lens travel to Slavia Prague in the Champions League on Thursday, two first-team players out injured"
-   ]
-  },
-  {
-   "id": "fr-FR-La météo, dimanche 6 septembre",
-   "file": "podcast-daily-2026-09-06-morning-weather-fr-FR.json",
-   "bytes": 4919,
-   "sha256": "2a7b761ca0db17f59a828167563e362358d0794a088208ce8019eb8b005ccafd",
-   "date": "2026-09-06",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "La météo, dimanche 6 septembre",
-   "title_en": "Today's weather, Sunday 6 September",
-   "headline_en": "Meteo-France keeps six departments on orange heatwave alert, mainly in the south",
-   "summary_en": [
-    "Meteo-France keeps six departments on orange heatwave alert, mainly in the south",
-    "Sunday forecast for Bordeaux, 6th September"
-   ]
-  },
-  {
-   "id": "fr-FR-Le journal du matin, samedi 5 septembre",
-   "file": "podcast-daily-2026-09-05-morning-news-fr-FR.json",
-   "bytes": 7632,
-   "sha256": "3cb8476c354670a0f5bf17412c82af0abf921e28e1e8b6fe2d25aa94b8d9e4d1",
-   "date": "2026-09-05",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le journal du matin, samedi 5 septembre",
-   "title_en": "The morning news, Saturday 5 September",
-   "headline_en": "Trump says his envoys are on their way to Moscow and Kyiv",
-   "summary_en": [
-    "Trump says his envoys are on their way to Moscow and Kyiv",
-    "France Inter journalists protest at a Valeurs actuelles columnist",
-    "US judge declares a mistrial after the jury cannot agree"
-   ]
-  },
-  {
-   "id": "fr-FR-Le sport, samedi 5 septembre",
-   "file": "podcast-daily-2026-09-05-morning-sport-fr-FR.json",
-   "bytes": 5030,
-   "sha256": "49a0683ebd2ff3f36b85c2b0c457056836fea5287736a4cc571f5e54df8e915d",
-   "date": "2026-09-05",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le sport, samedi 5 septembre",
-   "title_en": "Today's sport, Saturday 5 September",
-   "headline_en": "UFC in Paris, with nine French fighters on the card",
-   "summary_en": [
-    "UFC in Paris, with nine French fighters on the card",
-    "French handball clubs open their European season"
-   ]
-  },
-  {
-   "id": "fr-FR-La météo, samedi 5 septembre",
-   "file": "podcast-daily-2026-09-05-morning-weather-fr-FR.json",
-   "bytes": 5387,
-   "sha256": "ff56414a14179842b7019fc85b30e73a01654e834b5b2c30137e462a597a8218",
-   "date": "2026-09-05",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "La météo, samedi 5 septembre",
-   "title_en": "Today's weather, Saturday 5 September",
-   "headline_en": "Seven southern departments under an orange heatwave warning",
-   "summary_en": [
-    "Seven southern departments under an orange heatwave warning",
-    "Saturday forecast for Marseille, 5th September"
-   ]
-  },
-  {
-   "id": "fr-FR-Le journal du matin, vendredi 4 septembre",
-   "file": "podcast-daily-2026-09-04-morning-news-fr-FR.json",
-   "bytes": 8647,
-   "sha256": "56ceea26f47b8f7dea1407c54fba3d56b51581579c84c71be93699f6b7534813",
-   "date": "2026-09-04",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le journal du matin, vendredi 4 septembre",
-   "title_en": "The morning news, Friday 4 September",
-   "headline_en": "Two workers pulled out alive from a flooded tunnel in Nepal",
-   "summary_en": [
-    "Two workers pulled out alive from a flooded tunnel in Nepal",
-    "Emergency aid plan for French farming due on Friday morning",
-    "Rescuers digging for a week at tunnels buried by the Nepal flood"
-   ]
-  },
-  {
-   "id": "fr-FR-Le sport, vendredi 4 septembre",
-   "file": "podcast-daily-2026-09-04-morning-sport-fr-FR.json",
-   "bytes": 4367,
-   "sha256": "42ffc82a8ab75b5196d500b83f7508f4e74f1b0439d7c0a264eeba3b9a9a6e7a",
-   "date": "2026-09-04",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le sport, vendredi 4 septembre",
-   "title_en": "Today's sport, Friday 4 September",
-   "headline_en": "PSG host Monaco on Friday evening in the Ligue 1 third round",
-   "summary_en": [
-    "PSG host Monaco on Friday evening in the Ligue 1 third round",
-    "The Starligue handball season starts on Friday with play-offs added"
-   ]
-  },
-  {
-   "id": "fr-FR-La météo, vendredi 4 septembre",
-   "file": "podcast-daily-2026-09-04-morning-weather-fr-FR.json",
-   "bytes": 4923,
-   "sha256": "f778f05992b5700faf01f1fd320897f85d1addb63b6a8022f2adc38fc6e0cacd",
-   "date": "2026-09-04",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "La météo, vendredi 4 septembre",
-   "title_en": "Today's weather, Friday 4 September",
-   "headline_en": "Friday forecast for Paris, 4th September",
-   "summary_en": [
-    "Friday forecast for Paris, 4th September",
-    "Friday forecast for Bordeaux, 4th September"
-   ]
-  },
-  {
-   "id": "fr-FR-Le journal du matin, jeudi 3 septembre",
-   "file": "podcast-daily-2026-09-03-morning-news-fr-FR.json",
-   "bytes": 8261,
-   "sha256": "2cb161475204767bb72322b0375556ee9e80156c43f1e60be12946fa18fd51ab",
-   "date": "2026-09-03",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le journal du matin, jeudi 3 septembre",
-   "title_en": "The morning news, Thursday 3 September",
-   "headline_en": "American bombing of Iran resumes after a month of calm",
-   "summary_en": [
-    "American bombing of Iran resumes after a month of calm",
-    "Bodies of four members of one family found in Haute-Saone",
-    "Iran hits back at American bases in the Gulf"
-   ]
-  },
-  {
-   "id": "fr-FR-Le sport, jeudi 3 septembre",
-   "file": "podcast-daily-2026-09-03-morning-sport-fr-FR.json",
-   "bytes": 3995,
-   "sha256": "9e313e60ffd71a5006d8fd09d54261399c7ff3de52a3de0ed79bd5840b0cc3ff",
-   "date": "2026-09-03",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le sport, jeudi 3 septembre",
-   "title_en": "Today's sport, Thursday 3 September",
-   "headline_en": "Toulouse against Lille opens the third round of Ligue 1",
-   "summary_en": [
-    "Toulouse against Lille opens the third round of Ligue 1",
-    "Isack Hadjar misses Sunday's Italian Grand Prix"
-   ]
-  },
-  {
-   "id": "fr-FR-La météo, jeudi 3 septembre",
-   "file": "podcast-daily-2026-09-03-morning-weather-fr-FR.json",
-   "bytes": 4800,
-   "sha256": "b8215d2a37e8a0519a07c1a6394f74994b39c62b09b5afed194d9f9655064704",
-   "date": "2026-09-03",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "La météo, jeudi 3 septembre",
-   "title_en": "Today's weather, Thursday 3 September",
-   "headline_en": "Thursday forecast for Paris, 3rd September",
-   "summary_en": [
-    "Thursday forecast for Paris, 3rd September",
-    "Thursday forecast for Bordeaux, 3rd September"
-   ]
-  },
-  {
-   "id": "fr-FR-Le journal du matin, mercredi 2 septembre",
-   "file": "podcast-daily-2026-09-02-morning-news-fr-FR.json",
-   "bytes": 10088,
-   "sha256": "27c2a91c95073c81dc71dccab1f2f860fb4a694a95624584e7b2675b7a19ddfe",
-   "date": "2026-09-02",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le journal du matin, mercredi 2 septembre",
-   "title_en": "The morning news, Wednesday 2 September",
-   "headline_en": "The United States strikes Iran again and Iran hits back in the Gulf",
-   "summary_en": [
-    "The United States strikes Iran again and Iran hits back in the Gulf",
-    "Patrick Bruel calls off his tour of France",
-    "Tension in the Strait of Hormuz is the backdrop to the strikes"
-   ]
-  },
-  {
-   "id": "fr-FR-La météo, mercredi 2 septembre",
-   "file": "podcast-daily-2026-09-02-morning-weather-fr-FR.json",
-   "bytes": 4651,
-   "sha256": "2c3ab18363696eddf9a6e9425d126ab169a3734edcdde5cfa0e53f9a1a72f74a",
-   "date": "2026-09-02",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "La météo, mercredi 2 septembre",
-   "title_en": "Today's weather, Wednesday 2 September",
-   "headline_en": "Wednesday forecast for Paris, 2nd September",
-   "summary_en": [
-    "Wednesday forecast for Paris, 2nd September",
-    "Wednesday forecast for Bordeaux, 2nd September"
    ]
   }
  ]

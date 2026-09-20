@@ -1,0 +1,213 @@
+{
+ "title": "El tiempo, domingo 20 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather",
+   "wpm": 208,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-20",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "La previsión de la Aemet da hoy a Madrid un cielo despejado.",
+   "en": "«Aemet»'s forecast today gives «Madrid» a clear sky.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se esperan treinta grados como máximo y dieciocho como mínimo.",
+   "en": "Thirty degrees are expected at the highest, and eighteen at the lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Viento del este a cinco kilómetros por hora,",
+   "en": "An easterly at five kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con un índice ultravioleta máximo de seis.",
+   "en": "with a maximum ultraviolet index of six.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Barcelona reparte el día entre dieciocho y veintiocho grados, bajo ese mismo cielo.",
+   "en": "«Barcelona» spreads the day between eighteen and twenty-eight degrees, under that same sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí el mismo viento llega a diez kilómetros por hora.",
+   "en": "There the same wind reaches ten kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Veintiocho grados también en València,",
+   "en": "Twenty-eight degrees in «València» too,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "donde la mínima se detiene en diecisiete.",
+   "en": "where the low stops at seventeen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento valenciano alcanza quince kilómetros por hora,",
+   "en": "The wind in «València» gets to fifteen kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el cielo sigue despejado.",
+   "en": "and the sky stays clear.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "A Coruña marca veintiséis grados,",
+   "en": "«A Coruña» records twenty-six degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sin lluvia y con una mínima de catorce.",
+   "en": "with no rain and a low of fourteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su viento viene del noroeste,",
+   "en": "Its wind comes from the north-west,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "también a cinco kilómetros por hora.",
+   "en": "also at five kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Bilbao la mínima desciende a diez grados, ocho por debajo de la madrileña.",
+   "en": "In «Bilbao» the low drops to ten degrees, eight below «Madrid»'s.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima, en cambio, se mantiene en veintisiete grados.",
+   "en": "The high, by contrast, holds at twenty-seven degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo bilbaíno tampoco tiene nubes ni lluvia.",
+   "en": "The sky over «Bilbao» has no cloud and no rain either.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí el tiempo.",
+   "en": "That's it for the national forecast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Sunday 20 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "España",
+ "accent": "Castilla",
+ "accent_label": "acento de Castilla",
+ "segment_order": 0,
+ "headline_en": "Madrid holds at 30 degrees under a clear sky, with a low of 18",
+ "summary_en": [
+  "Madrid holds at 30 degrees under a clear sky, with a low of 18",
+  "Barcelona spends the day between 18 and 28 degrees, with an easterly at 10 kilometres an hour"
+ ]
+}

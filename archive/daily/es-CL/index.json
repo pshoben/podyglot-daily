@@ -3,8 +3,90 @@
  "channel": "daily",
  "dialect": "es-CL",
  "base": "https://pshoben.github.io/podyglot-daily/archive/",
- "archived_before": "2026-09-02",
+ "archived_before": "2026-09-07",
  "episodes": [
+  {
+   "id": "es-CL-Las noticias de la mañana, sábado 5 de septiembre",
+   "file": "podcast-daily-2026-09-05-morning-news-es-CL.json",
+   "bytes": 9217,
+   "sha256": "c999d7446bddb150d6e70f9c76d22bc36bf99d22fe55199af80a1b03a2d889ad",
+   "date": "2026-09-05",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "Las noticias de la mañana, sábado 5 de septiembre",
+   "title_en": "The morning news, Saturday 5 September",
+   "headline_en": "Chile's opposition and part of the right condemn Milei's remarks about Allende",
+   "summary_en": [
+    "Chile's opposition and part of the right condemn Milei's remarks about Allende",
+    "Camilo Escalona, a defining figure of Chilean socialism, has died",
+    "Chile and Argentina sign a joint declaration on the Strait of Magellan"
+   ]
+  },
+  {
+   "id": "es-CL-El estado del tiempo, sábado 5 de septiembre",
+   "file": "podcast-daily-2026-09-05-morning-weather-es-CL.json",
+   "bytes": 5057,
+   "sha256": "be3b2a63c27e840d26c2388f7c3e0d6eeac528deb55aae5be3b43da660f38b70",
+   "date": "2026-09-05",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "El estado del tiempo, sábado 5 de septiembre",
+   "title_en": "Today's weather, Saturday 5 September",
+   "headline_en": "Saturday forecast for Santiago, 5th September",
+   "summary_en": [
+    "Saturday forecast for Santiago, 5th September",
+    "Saturday forecast for Valparaíso, 5th September"
+   ]
+  },
+  {
+   "id": "es-CL-Las noticias de la mañana, viernes 4 de septiembre",
+   "file": "podcast-daily-2026-09-04-morning-news-es-CL.json",
+   "bytes": 8023,
+   "sha256": "9389fad3dd78113a4c9808728b7f735e1d0d1ecc25df62ab78acc64d4a354f01",
+   "date": "2026-09-04",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "Las noticias de la mañana, viernes 4 de septiembre",
+   "title_en": "The morning news, Friday 4 September",
+   "headline_en": "A foiled plot against the mayor of San Bernardo raises pressure over protection for officials",
+   "summary_en": [
+    "A foiled plot against the mayor of San Bernardo raises pressure over protection for officials",
+    "Opposition parties criticise Milei's remarks on Allende at a rival forum",
+    "The former Senate president Camilo Escalona has deteriorated seriously in hospital"
+   ]
+  },
+  {
+   "id": "es-CL-El estado del tiempo, viernes 4 de septiembre",
+   "file": "podcast-daily-2026-09-04-morning-weather-es-CL.json",
+   "bytes": 4740,
+   "sha256": "c54806de5aba6b22d6615cc50c2d0077cf44315eb9b21af56e951950ee61499a",
+   "date": "2026-09-04",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "El estado del tiempo, viernes 4 de septiembre",
+   "title_en": "Today's weather, Friday 4 September",
+   "headline_en": "Friday forecast for Santiago, 4th September",
+   "summary_en": [
+    "Friday forecast for Santiago, 4th September",
+    "Friday forecast for Valparaíso, 4th September"
+   ]
+  },
   {
    "id": "es-CL-Las noticias de la mañana, martes 1 de septiembre",
    "file": "podcast-daily-2026-09-01-morning-news-es-CL.json",

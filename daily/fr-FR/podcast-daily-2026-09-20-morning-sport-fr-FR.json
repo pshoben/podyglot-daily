@@ -1,0 +1,169 @@
+{
+ "title": "Le sport, dimanche 20 septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-20",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Sur les terrains, du football:",
+   "en": "On the pitch, football:",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "l'Olympique de Marseille reçoit ce soir le Paris Saint-Germain, au Vélodrome.",
+   "en": "«Olympique de Marseille» host «Paris Saint-Germain» this evening, at the «Vélodrome».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce Classique clôture la cinquième journée de Ligue 1,",
+   "en": "This «Classique» closes the fifth round of «Ligue 1»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le coup d'envoi est fixé à vingt heures quarante-cinq.",
+   "en": "and kick-off is at a quarter to nine in the evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Équipe relève que Luis Enrique a décidé de se passer de Lucas Hernandez.",
+   "en": "«L'Équipe» reports that «Luis Enrique» has decided to do without «Lucas Hernandez».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Achraf Hakimi ne sera pas non plus du déplacement parisien.",
+   "en": "«Achraf Hakimi» will not be making the trip either.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'entraîneur marseillais, Bruno Genesio, a de son côté livré son groupe pour cette rencontre.",
+   "en": "The «Marseille» coach, «Bruno Genesio», has named his squad for the match.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À suivre aujourd'hui, les championnats du monde de cyclisme sur route,",
+   "en": "To follow today, the road cycling world championships,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qui s'ouvrent à Montréal, au Canada.",
+   "en": "which open in «Montréal», in Canada.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les premières courses sont les contre-la-montre individuels des élites.",
+   "en": "The first races are the individual elite time trials.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Deux Français figurent parmi les partants de l'épreuve masculine,",
+   "en": "Two French riders are among the starters in the men's event,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Paul Seixas et Bruno Armirail.",
+   "en": "«Paul Seixas» and «Bruno Armirail».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Remco Evenepoel part grand favori de cette épreuve.",
+   "en": "«Remco Evenepoel» starts as the big favourite for that race.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Sunday 20 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Football: Marseille host Paris Saint-Germain at the Vélodrome this evening",
+ "summary_en": [
+  "Football: Marseille host Paris Saint-Germain at the Vélodrome this evening",
+  "Cycling: the road world championships open in Montréal with the time trials"
+ ]
+}

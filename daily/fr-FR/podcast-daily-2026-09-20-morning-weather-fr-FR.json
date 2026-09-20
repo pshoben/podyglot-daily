@@ -1,0 +1,269 @@
+{
+ "title": "La météo, dimanche 20 septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-20",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "De la bruine est prévue sur Lille aujourd'hui, d'après les modèles de Météo-France.",
+   "en": "Drizzle is forecast over «Lille» today, on the «Météo-France» models.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lille marque vingt degrés au plus haut,",
+   "en": "«Lille» has a high of twenty degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et seize degrés au plus bas.",
+   "en": "and a low of sixteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent n'y dépasse pas dix-sept kilomètres par heure.",
+   "en": "The wind there gets no higher than seventeen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Paris affiche vingt-quatre degrés au maximum,",
+   "en": "«Paris» reaches twenty-four degrees at its highest,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour une minimale de dix-sept degrés.",
+   "en": "and seventeen degrees at its lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La capitale garde un ciel couvert,",
+   "en": "The capital keeps an overcast sky,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sous un vent maximal de dix-huit kilomètres par heure.",
+   "en": "under a top wind speed of eighteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On attend vingt-neuf degrés à Bordeaux,",
+   "en": "Twenty-nine degrees are expected in «Bordeaux»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec quinze degrés au minimum.",
+   "en": "with fifteen degrees at the lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ciel bordelais est couvert,",
+   "en": "The sky over «Bordeaux» is overcast,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent se situe au plus à quatorze kilomètres par heure.",
+   "en": "and the wind sits at fourteen kilometres an hour at most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lyon rejoint les mêmes chiffres,",
+   "en": "«Lyon» matches those same figures,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un maximum de vingt-neuf degrés et un minimum de quinze.",
+   "en": "with a high of twenty-nine degrees and a low of fifteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Couvert également, avec un pic de vent à quatorze kilomètres par heure.",
+   "en": "Overcast as well, with the wind peaking at fourteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Marseille s'installe à vingt-sept degrés,",
+   "en": "«Marseille» settles at twenty-seven degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et ne descend pas sous vingt degrés.",
+   "en": "and does not drop below twenty degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un ciel couvert s'impose sur Marseille,",
+   "en": "An overcast sky takes hold over «Marseille»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où le vent n'excède pas dix-huit kilomètres par heure.",
+   "en": "where the wind does not go beyond eighteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Strasbourg va jusqu'à vingt-six degrés,",
+   "en": "«Strasbourg» goes up to twenty-six degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et treize degrés au plus frais.",
+   "en": "and thirteen degrees at its coolest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La ville se retrouve sous un ciel couvert,",
+   "en": "The city finds itself under an overcast sky,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent y est annoncé à dix-huit kilomètres par heure au maximum.",
+   "en": "and the wind there is given as eighteen kilometres an hour at most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Sunday 20 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Drizzle over Lille, where the day tops out at 20 degrees",
+ "summary_en": [
+  "Drizzle over Lille, where the day tops out at 20 degrees",
+  "Paris stays overcast, with a high of 24 degrees"
+ ]
+}

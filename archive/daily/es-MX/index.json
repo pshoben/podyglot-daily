@@ -3,8 +3,151 @@
  "channel": "daily",
  "dialect": "es-MX",
  "base": "https://pshoben.github.io/podyglot-daily/archive/",
- "archived_before": "2026-09-02",
+ "archived_before": "2026-09-07",
  "episodes": [
+  {
+   "id": "es-MX-El noticiario matutino, sábado 5 de septiembre",
+   "file": "podcast-daily-2026-09-05-morning-news-es-MX.json",
+   "bytes": 7741,
+   "sha256": "bd2586c358510c259b8b35eb4e572c9ac27b74996f682c838663a877f19e4491",
+   "date": "2026-09-05",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El noticiario matutino, sábado 5 de septiembre",
+   "title_en": "The morning news, Saturday 5 September",
+   "headline_en": "Trump renews his threat to halt trade over Federal Reserve rates",
+   "summary_en": [
+    "Trump renews his threat to halt trade over Federal Reserve rates",
+    "Morena federal deputy Zenyazen Escobar Garcia is found dead in Veracruz",
+    "Sheinbaum asks the attorney general to report on Escobar Garcia's death"
+   ]
+  },
+  {
+   "id": "es-MX-El clima, sábado 5 de septiembre",
+   "file": "podcast-daily-2026-09-05-morning-weather-es-MX.json",
+   "bytes": 5261,
+   "sha256": "d78f9a63ff23e3f2a57c90d69412b778237a48065fb076e8d9f1287ae9ae9228",
+   "date": "2026-09-05",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El clima, sábado 5 de septiembre",
+   "title_en": "Today's weather, Saturday 5 September",
+   "headline_en": "Saturday forecast for Monterrey, 5th September",
+   "summary_en": [
+    "Saturday forecast for Monterrey, 5th September",
+    "Saturday forecast for Ciudad de México, 5th September"
+   ]
+  },
+  {
+   "id": "es-MX-El noticiario matutino, viernes 4 de septiembre",
+   "file": "podcast-daily-2026-09-04-morning-news-es-MX.json",
+   "bytes": 8153,
+   "sha256": "98c902c22ad0300c8c7691a4d6b1d5f73bf77734c3f5d497ec1b0034f1abbf1f",
+   "date": "2026-09-04",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El noticiario matutino, viernes 4 de septiembre",
+   "title_en": "The morning news, Friday 4 September",
+   "headline_en": "Israeli minister presents a plan to expel Palestinians from Gaza",
+   "summary_en": [
+    "Israeli minister presents a plan to expel Palestinians from Gaza",
+    "Salmonella outbreak at the Hospital General de México affects 135 doctors",
+    "Lorry drivers block the Mexicali to Calexico crossing over withdrawn visas"
+   ]
+  },
+  {
+   "id": "es-MX-El clima, viernes 4 de septiembre",
+   "file": "podcast-daily-2026-09-04-morning-weather-es-MX.json",
+   "bytes": 4839,
+   "sha256": "46347ea71fc5c823391add8d17163bc82d20c010d51f37d8107ceae3f3ed2028",
+   "date": "2026-09-04",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El clima, viernes 4 de septiembre",
+   "title_en": "Today's weather, Friday 4 September",
+   "headline_en": "Friday forecast for Ciudad de México, 4th September",
+   "summary_en": [
+    "Friday forecast for Ciudad de México, 4th September",
+    "Friday forecast for Guadalajara, 4th September"
+   ]
+  },
+  {
+   "id": "es-MX-El noticiario matutino, jueves 3 de septiembre",
+   "file": "podcast-daily-2026-09-03-morning-news-es-MX.json",
+   "bytes": 7528,
+   "sha256": "e103e9cf541fa99bdaf7b92a1aaebc76ef4f9f8767d008f6a9363018079673ba",
+   "date": "2026-09-03",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El noticiario matutino, jueves 3 de septiembre",
+   "title_en": "The morning news, Thursday 3 September",
+   "headline_en": "Venezuela signs eight major agreements with foreign oil companies",
+   "summary_en": [
+    "Venezuela signs eight major agreements with foreign oil companies",
+    "The producer Luis de Llano has been detained in the Sasha Sokol case",
+    "Pemex is looking for new contract arrangements to bring in private investment"
+   ]
+  },
+  {
+   "id": "es-MX-La agenda deportiva, jueves 3 de septiembre",
+   "file": "podcast-daily-2026-09-03-morning-sport-es-MX.json",
+   "bytes": 4305,
+   "sha256": "bb3e0d72e673a7b39bffb298340186a65c627aeea4250219e7c42ec1709369de",
+   "date": "2026-09-03",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "La agenda deportiva, jueves 3 de septiembre",
+   "title_en": "Today's sport, Thursday 3 September",
+   "headline_en": "Monterrey and Toluca meet in the Leagues Cup final on Sunday",
+   "summary_en": [
+    "Monterrey and Toluca meet in the Leagues Cup final on Sunday",
+    "The NFL is weighing more regular season games in Mexico"
+   ]
+  },
+  {
+   "id": "es-MX-El clima, jueves 3 de septiembre",
+   "file": "podcast-daily-2026-09-03-morning-weather-es-MX.json",
+   "bytes": 4744,
+   "sha256": "09820c227ad0ed00b08ea5731c1de5c7cc599ff3dc720e641765e2846495ba10",
+   "date": "2026-09-03",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-MX",
+   "region_label": "México",
+   "title": "El clima, jueves 3 de septiembre",
+   "title_en": "Today's weather, Thursday 3 September",
+   "headline_en": "Thursday forecast for Ciudad de México, 3rd September",
+   "summary_en": [
+    "Thursday forecast for Ciudad de México, 3rd September",
+    "Thursday forecast for Guadalajara, 3rd September"
+   ]
+  },
   {
    "id": "es-MX-El noticiario matutino, martes 1 de septiembre",
    "file": "podcast-daily-2026-09-01-morning-news-es-MX.json",

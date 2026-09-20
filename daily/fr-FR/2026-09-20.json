@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-FR",
+ "date": "2026-09-20",
+ "episodes": [
+  {
+   "id": "fr-FR-Le journal du matin, dimanche 20 septembre",
+   "file": "podcast-daily-2026-09-20-morning-news-fr-FR.json",
+   "bytes": 9709,
+   "sha256": "46890f8d204643b6e51ff7dbc235f5a474ef8f895e97e8bee19ffe0b7aaad197",
+   "date": "2026-09-20",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, dimanche 20 septembre",
+   "title_en": "The morning news, Sunday 20 September",
+   "headline_en": "Two German regions vote, with Chancellor Friedrich Merz under pressure",
+   "summary_en": [
+    "Two German regions vote, with Chancellor Friedrich Merz under pressure",
+    "Macron says Saint-Pierre-et-Miquelon is French, in reply to Trump",
+    "Diesel sets a new record in France at close to 2.41 euros a litre, on AFP's figures"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, dimanche 20 septembre",
+   "file": "podcast-daily-2026-09-20-morning-sport-fr-FR.json",
+   "bytes": 4276,
+   "sha256": "e43646f4ee01d2edf855c17852571b8c3f39f0d76d21f13ddf883748154409e4",
+   "date": "2026-09-20",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, dimanche 20 septembre",
+   "title_en": "Today's sport, Sunday 20 September",
+   "headline_en": "Football: Marseille host Paris Saint-Germain at the Vélodrome this evening",
+   "summary_en": [
+    "Football: Marseille host Paris Saint-Germain at the Vélodrome this evening",
+    "Cycling: the road world championships open in Montréal with the time trials"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, dimanche 20 septembre",
+   "file": "podcast-daily-2026-09-20-morning-weather-fr-FR.json",
+   "bytes": 6240,
+   "sha256": "bd3941e48af8bfb26671fbc08628ebb8e64cc6dcdcc61c78436a96f9eaa0064c",
+   "date": "2026-09-20",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, dimanche 20 septembre",
+   "title_en": "Today's weather, Sunday 20 September",
+   "headline_en": "Drizzle over Lille, where the day tops out at 20 degrees",
+   "summary_en": [
+    "Drizzle over Lille, where the day tops out at 20 degrees",
+    "Paris stays overcast, with a high of 24 degrees"
+   ]
+  }
+ ],
+ "content": "754ff56baf2b4bfc8802ce2b6355bc6e2e292d26d6bb04a0493329c95a0cd34f",
+ "rev": 1,
+ "updated": "2026-09-20T17:02:39.731Z"
+}

@@ -1,0 +1,153 @@
+{
+ "title": "El tiempo en Andalucía, domingo 20 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-andalucia",
+   "wpm": 208,
+   "rate_multiplier": 0.73,
+   "pitch_multiplier": 0.79
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-andalucia",
+ "date": "2026-09-20",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "En la costa, la Aemet activa hoy aviso amarillo por viento en el litoral gaditano.",
+   "en": "On the coast, «Aemet» today puts out a yellow wind warning for the «Cádiz» coast.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Incluye el Estrecho y la campiña gaditana,",
+   "en": "It takes in the Strait and the «Cádiz» countryside,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "desde las once de la mañana.",
+   "en": "from eleven in the morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El litoral y el Estrecho suman además un aviso costero, del mismo nivel amarillo.",
+   "en": "The coast and the Strait also add a coastal warning, at the same yellow level.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Tierra adentro, cielo despejado y treinta y cinco grados en Córdoba.",
+   "en": "Inland, a clear sky and thirty-five degrees in «Córdoba».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima cordobesa cae a dieciocho.",
+   "en": "The low in «Córdoba» falls to eighteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por el valle, esos treinta y cinco grados se repiten en Sevilla, con idéntico cielo.",
+   "en": "Along the valley, those thirty-five degrees are repeated in «Sevilla», with an identical sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y la mínima se planta en veintiuno.",
+   "en": "And the low comes in at twenty-one.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Málaga se aparta de esas cifras y no pasa de treinta grados.",
+   "en": "«Málaga» steps away from those figures and goes no higher than thirty degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su mínima es de veinte, y sopla viento del sur.",
+   "en": "Its low is twenty, and a southerly wind blows.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí se da un cinco por ciento de probabilidad de lluvia.",
+   "en": "There the chance of rain comes to five per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es Andalucía.",
+   "en": "That is «Andalucía».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 3,
+ "handover": "junction",
+ "title_en": "Today's weather, Andalusia, Sunday 20 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Andalucía",
+ "accent": "Andalucía",
+ "accent_label": "acento de Andalucía",
+ "segment_order": 1,
+ "headline_en": "AEMET yellow wind warning for the Cádiz countryside, the Cádiz coast and the Strait from eleven this morning",
+ "summary_en": [
+  "AEMET yellow wind warning for the Cádiz countryside, the Cádiz coast and the Strait from eleven this morning",
+  "A yellow AEMET coastal warning covers the Cádiz coast and the Strait"
+ ]
+}

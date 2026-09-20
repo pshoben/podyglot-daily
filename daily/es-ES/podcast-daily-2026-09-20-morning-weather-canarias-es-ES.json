@@ -1,0 +1,143 @@
+{
+ "title": "El tiempo en Canarias, domingo 20 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-canarias",
+   "wpm": 208,
+   "rate_multiplier": 0.86,
+   "pitch_multiplier": 0.59
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-canarias",
+ "date": "2026-09-20",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Según la Aemet, hay hoy intervalos nubosos sobre Las Palmas de Gran Canaria.",
+   "en": "According to «Aemet», today there is broken cloud over «Las Palmas de Gran Canaria».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El viento del nordeste corre a quince kilómetros por hora.",
+   "en": "The north-easterly wind runs at fifteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Veintisiete grados de máxima, y veintitrés de mínima.",
+   "en": "Twenty-seven degrees for the high, and twenty-three for the low.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La probabilidad de lluvia ronda el quince por ciento,",
+   "en": "The chance of rain is around fifteen per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con un índice ultravioleta de ocho.",
+   "en": "with an ultraviolet index of eight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Santa Cruz de Tenerife la máxima vuelve a ser veintisiete grados.",
+   "en": "In «Santa Cruz de Tenerife» the high is twenty-seven degrees again.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los mismos intervalos nubosos, y un diez por ciento de probabilidad de lluvia.",
+   "en": "The same broken cloud, and a ten per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima se coloca en veintidós.",
+   "en": "The low settles at twenty-two.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otros quince kilómetros por hora de viento, ahora del este.",
+   "en": "Another fifteen kilometres an hour of wind, this time from the east.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El índice ultravioleta se queda en ocho.",
+   "en": "The ultraviolet index stays at eight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es Canarias.",
+   "en": "That is «Canarias».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 4,
+ "handover": "junction",
+ "title_en": "Today's weather, Canary Islands, Sunday 20 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Canarias",
+ "accent": "Canarias",
+ "accent_label": "acento de Canarias",
+ "segment_order": 2,
+ "headline_en": "Las Palmas de Gran Canaria, in the Canaries: broken cloud, a north-easterly at 15 kilometres an hour and a high of 27",
+ "summary_en": [
+  "Las Palmas de Gran Canaria, in the Canaries: broken cloud, a north-easterly at 15 kilometres an hour and a high of 27",
+  "Santa Cruz de Tenerife holds between 22 and 27 degrees, with an easterly and an ultraviolet index of 8"
+ ]
+}
