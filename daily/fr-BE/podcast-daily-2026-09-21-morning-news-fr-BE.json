@@ -1,0 +1,310 @@
+{
+ "title": "Le sept heures, lundi 21 septembre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-news",
+   "wpm": 222,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-21",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lundi vingt et un septembre. Le sept heures.",
+   "en": "Monday 21st September. The seven o'clock news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La CDU du chancelier allemand Friedrich Merz",
+   "en": "German chancellor «Friedrich Merz»'s «CDU»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "est sortie battue des deux élections régionales du week-end.",
+   "en": "was beaten in both of the weekend's regional elections.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et à la pompe, le diesel dépassera les deux euros cinquante le litre ce mardi.",
+   "en": "And at the pump, diesel will go past 2.50 euros a litre this Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On ouvre avec l'Allemagne, et une deuxième défaite consécutive pour la CDU, d'après Le Vif.",
+   "en": "We open with Germany, and a second defeat in a row for the «CDU», according to «Le Vif».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'extrême droite l'a emporté dans le nord du pays.",
+   "en": "The far right came out on top in the north of the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Friedrich Merz en ressort fragilisé,",
+   "en": "«Friedrich Merz» comes out of it weakened,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "mais il ne lâche pas la barre.",
+   "en": "but he is not letting go of the helm.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La RTBF relève que Die Linke, le parti de gauche radicale,",
+   "en": "«RTBF» notes that «Die Linke», the radical left party,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a remporté le scrutin de Berlin.",
+   "en": "won the Berlin vote.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les deux scrutins se tenaient à Berlin et en Mecklembourg-Poméranie occidentale.",
+   "en": "The two votes were held in Berlin and in Mecklenburg-Western Pomerania.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ailleurs dans l'actu, la Russie:",
+   "en": "Elsewhere in the news, Russia:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le parti de Vladimir Poutine est donné vainqueur des élections législatives de dimanche.",
+   "en": "Vladimir Putin's party is given as the winner of Sunday's parliamentary elections.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il est en passe d'améliorer nettement son score de deux mille vingt et un.",
+   "en": "It is on course to improve sharply on its 2021 score.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ces résultats officiels sont relayés par les agences de presse russes,",
+   "en": "Those official results are being relayed by the Russian news agencies,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "alors que le dépouillement n'est pas terminé.",
+   "en": "with the count not yet finished.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "7sur7 parle d'une large majorité, obtenue sans surprise.",
+   "en": "«7sur7» describes a large majority that surprised nobody.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On enchaîne, le prix du diesel,",
+   "en": "Moving on, the price of diesel,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et un coup dur pour les automobilistes belges.",
+   "en": "and a hard blow for Belgian motorists.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le litre franchira un cap symbolique dès mardi,",
+   "en": "The litre will cross a symbolic threshold from Tuesday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon les dernières informations publiées par le SPF Économie.",
+   "en": "on the latest information published by the federal public service for the economy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Libre rappelle que le précédent record datait d'avril dernier.",
+   "en": "«La Libre» recalls that the previous record dated from last April.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Chez nous toujours, la Semaine du cœur s'ouvre aujourd'hui et se poursuit jusqu'au vingt-sept septembre.",
+   "en": "Staying in Belgium, the «Semaine du cœur» opens today and runs to 27th September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La campagne Le cœur des femmes s'inscrit dans ce cadre.",
+   "en": "The campaign «Le cœur des femmes» runs as part of it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les maladies cardiovasculaires sont la première cause de mortalité féminine, écrit La Libre.",
+   "en": "Cardiovascular disease is the leading cause of death in women, «La Libre» writes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elles tuent près de six fois plus que le cancer du sein.",
+   "en": "It kills nearly six times more than breast cancer.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et chez les femmes, les symptômes d'un infarctus demeurent encore trop souvent méconnus.",
+   "en": "And in women, the symptoms of a heart attack are still too often unrecognised.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà où nous en sommes.",
+   "en": "That is where things stand.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Monday 21 September",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Chancellor Friedrich Merz's CDU is beaten in both of Germany's weekend regional elections",
+ "summary_en": [
+  "Chancellor Friedrich Merz's CDU is beaten in both of Germany's weekend regional elections",
+  "Diesel at the pump crosses 2.50 euros a litre in Belgium from Tuesday",
+  "Vladimir Putin's party is given as the winner of Russia's parliamentary elections"
+ ]
+}

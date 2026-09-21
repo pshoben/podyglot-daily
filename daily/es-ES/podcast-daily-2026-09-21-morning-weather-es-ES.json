@@ -1,0 +1,203 @@
+{
+ "title": "El tiempo, lunes 21 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather",
+   "wpm": 208,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-21",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Hay hoy aviso amarillo de la Aemet por altas temperaturas en Galicia y en Cataluña.",
+   "en": "There is a yellow «Aemet» warning today for high temperatures in «Galicia» and in Catalonia.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cubre el Miño de Pontevedra y las Rías Baixas, entre otras zonas.",
+   "en": "It covers the «Miño de Pontevedra» and the «Rías Baixas», among other zones.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empieza a la una de la tarde y termina a las siete de la tarde.",
+   "en": "It starts at one in the afternoon and ends at seven in the evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Madrid pasa el día bajo un cielo despejado,",
+   "en": "«Madrid» spends the day under a clear sky,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "entre dieciocho y treinta y dos grados.",
+   "en": "between eighteen and thirty-two degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cinco kilómetros por hora de viento del sur,",
+   "en": "Five kilometres an hour of southerly wind,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el índice ultravioleta en seis.",
+   "en": "and the ultraviolet index at six.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Barcelona, las nubes altas dan paso a un cielo poco nuboso desde el mediodía.",
+   "en": "In «Barcelona», the high cloud gives way to a mostly clear sky from midday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Treinta y uno arriba y diecinueve abajo en la capital catalana.",
+   "en": "Thirty-one at the top and nineteen at the bottom in the Catalan capital.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo valenciano luce despejado las veinticuatro horas.",
+   "en": "The Valencian sky is clear round the clock.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La horquilla va allí de dieciséis a treinta grados.",
+   "en": "The range there runs from sixteen to thirty degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo de A Coruña está poco nuboso,",
+   "en": "The sky over «A Coruña» is mostly clear,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con viento del noroeste a diez kilómetros por hora.",
+   "en": "with a north-westerly at ten kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima coruñesa es de veintiséis grados, y la mínima de quince.",
+   "en": "The high in «A Coruña» is twenty-six degrees, and the low fifteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Bilbao registra veintiocho grados de máxima y doce de mínima.",
+   "en": "«Bilbao» records a high of twenty-eight degrees and a low of twelve.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y también nubes altas, con claros a partir del mediodía.",
+   "en": "And high cloud too, with clear spells from midday on.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí el tiempo.",
+   "en": "That's it for the national forecast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Monday 21 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "España",
+ "accent": "Castilla",
+ "accent_label": "acento de Castilla",
+ "segment_order": 0,
+ "headline_en": "AEMET keeps a yellow high-temperature warning in force in Galicia and Catalonia from one until seven this afternoon",
+ "summary_en": [
+  "AEMET keeps a yellow high-temperature warning in force in Galicia and Catalonia from one until seven this afternoon",
+  "Madrid: a clear sky and a southerly at 5 kilometres an hour, 32 degrees and a low of 18"
+ ]
+}

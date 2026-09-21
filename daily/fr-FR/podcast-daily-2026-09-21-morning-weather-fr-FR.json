@@ -1,0 +1,289 @@
+{
+ "title": "La météo, lundi 21 septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-21",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Prudence dans le Gard, dans l'Aude et dans les Pyrénées-Orientales,",
+   "en": "Take care in the «Gard», the «Aude» and the «Pyrénées-Orientales»,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "classés aujourd'hui en vigilance rouge pour un risque très élevé de feux de forêt.",
+   "en": "classed today on red alert for a very high risk of forest fires.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Libération relève des températures élevées pour la saison,",
+   "en": "«Libération» observes temperatures high for the season,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "une sécheresse des sols et des rafales de vent.",
+   "en": "dry soil and gusts of wind.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans les prévisions de Météo-France, le thermomètre marseillais grimpe à vingt-neuf degrés,",
+   "en": "In «Météo-France»'s forecasts, the thermometer in «Marseille» climbs to twenty-nine degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sous un ciel couvert.",
+   "en": "under an overcast sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le minimum s'établit à vingt degrés,",
+   "en": "The low settles at twenty degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent ne franchit pas seize kilomètres par heure.",
+   "en": "and the wind does not get past sixteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Bordeaux pousse jusqu'à trente degrés,",
+   "en": "«Bordeaux» pushes up to thirty degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sous le même ciel couvert.",
+   "en": "under the same overcast sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le minimum bordelais se loge à quinze degrés,",
+   "en": "The low in «Bordeaux» sits at fifteen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent se contente de seize kilomètres par heure.",
+   "en": "and the wind stays at sixteen kilometres an hour at most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ciel couvert gagne aussi Paris,",
+   "en": "The overcast sky reaches «Paris» too,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec vingt-trois degrés au plus haut.",
+   "en": "with twenty-three degrees at the highest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La minimale parisienne est chiffrée à quatorze degrés,",
+   "en": "The low in «Paris» is put at fourteen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent à onze kilomètres par heure au plus.",
+   "en": "and the wind at eleven kilometres an hour at most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le maximum lyonnais est de vingt-six degrés, et le minimum de dix-huit.",
+   "en": "The high in «Lyon» is twenty-six degrees, and the low eighteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un ciel couvert domine, et le vent lyonnais se hisse à vingt kilomètres par heure.",
+   "en": "An overcast sky dominates, and the wind in «Lyon» rises to twenty kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Strasbourg s'arrête à vingt-deux degrés sous la couverture nuageuse,",
+   "en": "«Strasbourg» tops out at twenty-two degrees under the cloud cover,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le mercure y retombe à douze degrés.",
+   "en": "and the mercury there falls back to twelve degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent strasbourgeois est estimé à quinze kilomètres par heure au plus fort.",
+   "en": "The wind in «Strasbourg» is estimated at fifteen kilometres an hour at its strongest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Lille, le ciel couvert occupe la journée,",
+   "en": "In «Lille», the overcast sky fills the day,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec vingt et un degrés au plus haut.",
+   "en": "with twenty-one degrees at the highest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Douze degrés au plus bas pour Lille,",
+   "en": "Twelve degrees at the lowest for «Lille»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et treize kilomètres par heure de vent au maximum.",
+   "en": "and thirteen kilometres an hour of wind at most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Monday 21 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Red alert for a very high forest-fire risk in the Gard, the Aude and the Pyrenees-Orientales",
+ "summary_en": [
+  "Red alert for a very high forest-fire risk in the Gard, the Aude and the Pyrenees-Orientales",
+  "Marseille overcast, a high of 29 degrees and a low of 20"
+ ]
+}

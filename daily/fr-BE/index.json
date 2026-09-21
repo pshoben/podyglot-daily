@@ -5,6 +5,66 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-BE-Le sept heures, lundi 21 septembre",
+   "file": "podcast-daily-2026-09-21-morning-news-fr-BE.json",
+   "bytes": 7985,
+   "sha256": "f496e154ada5a342f4c6194b90d3e1320f0562ddb3c7bedaac355f09b5428cf1",
+   "date": "2026-09-21",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, lundi 21 septembre",
+   "title_en": "The morning news, Monday 21 September",
+   "headline_en": "Chancellor Friedrich Merz's CDU is beaten in both of Germany's weekend regional elections",
+   "summary_en": [
+    "Chancellor Friedrich Merz's CDU is beaten in both of Germany's weekend regional elections",
+    "Diesel at the pump crosses 2.50 euros a litre in Belgium from Tuesday",
+    "Vladimir Putin's party is given as the winner of Russia's parliamentary elections"
+   ]
+  },
+  {
+   "id": "fr-BE-Le sport chez nous, lundi 21 septembre",
+   "file": "podcast-daily-2026-09-21-morning-sport-fr-BE.json",
+   "bytes": 4218,
+   "sha256": "3c70b6d975d5841d26d2d9ef6f142f4d8593252bcfd9ad8fc069ba15f6b9cd8b",
+   "date": "2026-09-21",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sport chez nous, lundi 21 septembre",
+   "title_en": "Today's sport, Monday 21 September",
+   "headline_en": "Football: Mark van Bommel's first Red Devils squad has four matches in eleven days",
+   "summary_en": [
+    "Football: Mark van Bommel's first Red Devils squad has four matches in eleven days"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, lundi 21 septembre",
+   "file": "podcast-daily-2026-09-21-morning-weather-fr-BE.json",
+   "bytes": 5022,
+   "sha256": "218a069295adb15d2cb66a540d786ca8bbf50d61283cf31ec107d5010f6a6e96",
+   "date": "2026-09-21",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, lundi 21 septembre",
+   "title_en": "Today's weather, Monday 21 September",
+   "headline_en": "A sunny Monday and seasonal temperatures in Belgium, with cloud gaining ground inland",
+   "summary_en": [
+    "A sunny Monday and seasonal temperatures in Belgium, with cloud gaining ground inland",
+    "Brussels on the ECMWF model: a high of 19 degrees, a low of 9, no chance of rain and wind to 9 kilometres an hour"
+   ]
+  },
+  {
    "id": "fr-BE-Le sept heures, dimanche 20 septembre",
    "file": "podcast-daily-2026-09-20-morning-news-fr-BE.json",
    "bytes": 10284,
@@ -287,67 +347,6 @@
    "summary_en": [
     "Brussels under drizzle, 22 degrees at best and rain 86 per cent likely",
     "Light rain over Namur, up to 24 degrees, rain 84 per cent likely"
-   ]
-  },
-  {
-   "id": "fr-BE-Le sept heures, lundi 7 septembre",
-   "file": "podcast-daily-2026-09-07-morning-news-fr-BE.json",
-   "bytes": 10322,
-   "sha256": "a50f1f66fb60e8e3ff31083d79094f4a35af0bfcadcc7bd2fe34b91fa0d3f92b",
-   "date": "2026-09-07",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le sept heures, lundi 7 septembre",
-   "title_en": "The morning news, Monday 7 September",
-   "headline_en": "AfD wins the Saxony-Anhalt regional election in Germany but falls short of a majority",
-   "summary_en": [
-    "AfD wins the Saxony-Anhalt regional election in Germany but falls short of a majority",
-    "Belgian prison staff begin a five-day strike over overcrowding and staffing",
-    "Belgium's federal government returns to work with the budget on the table"
-   ]
-  },
-  {
-   "id": "fr-BE-Le sport chez nous, lundi 7 septembre",
-   "file": "podcast-daily-2026-09-07-morning-sport-fr-BE.json",
-   "bytes": 4292,
-   "sha256": "f36744cd9051407bfe157374cdda9ee9ff52cb5366d2ac99a5b5cd854587da28",
-   "date": "2026-09-07",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le sport chez nous, lundi 7 septembre",
-   "title_en": "Today's sport, Monday 7 September",
-   "headline_en": "Belgian Cats face Australia today at the basketball World Cup, a quarter-final place at stake",
-   "summary_en": [
-    "Belgian Cats face Australia today at the basketball World Cup, a quarter-final place at stake",
-    "Emma Meesseman calls the Belgian Cats' basketball World Cup scheduling irresponsible"
-   ]
-  },
-  {
-   "id": "fr-BE-Le temps chez nous, lundi 7 septembre",
-   "file": "podcast-daily-2026-09-07-morning-weather-fr-BE.json",
-   "bytes": 4635,
-   "sha256": "78d285f8ab67d7e97fa33bf1680e76133fc2a17d8ff6718b9186b46b72fb8a11",
-   "date": "2026-09-07",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le temps chez nous, lundi 7 septembre",
-   "title_en": "Today's weather, Monday 7 September",
-   "headline_en": "Monday forecast for Belgium from the IRM: sunny spells and cloud fields",
-   "summary_en": [
-    "Monday forecast for Belgium from the IRM: sunny spells and cloud fields",
-    "Monday forecast for Namur, 7th September"
    ]
   }
  ]

@@ -1,0 +1,159 @@
+{
+ "title": "Le sport, lundi 21 septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-21",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Au programme, la voile:",
+   "en": "On the programme, sailing:",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Thomas Ruyant renonce à prendre le départ de la prochaine Route du Rhum.",
+   "en": "«Thomas Ruyant» is pulling out of the next «Route du Rhum».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le navigateur, quarante-cinq ans, l'a annoncé ce lundi sur ses réseaux sociaux.",
+   "en": "The forty-five-year-old sailor announced it this Monday on his social media.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il n'a pas trouvé de sponsor majeur pour son nouveau voilier, signale Ouest-France.",
+   "en": "He has not found a major sponsor for his new boat, «Ouest-France» points out.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le tenant du titre en Imoca manquera donc le départ de Saint-Malo, en novembre.",
+   "en": "The «Imoca» title holder will therefore miss the start at «Saint-Malo», in November.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sur les terrains, le football:",
+   "en": "On the pitches, football:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les championnats de clubs s'arrêtent pour la trêve internationale.",
+   "en": "the club leagues stop for the international break.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Zinédine Zidane a livré sa première liste de sélectionneur des Bleus.",
+   "en": "«Zinédine Zidane» has given his first squad list as manager of the France team.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Équipe ajoute que le gardien Jean Butez figure dans cette liste pour la première fois,",
+   "en": "«L'Équipe» adds that the goalkeeper «Jean Butez» is in that list for the first time,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à plus de trente et un ans.",
+   "en": "at more than thirty-one years old.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le portier de Côme découvrira les Bleus lors des quatre premières journées de la Ligue des nations,",
+   "en": "The Como keeper will join up with the national side for the first four rounds of the Nations League,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "rappelle France Télévisions.",
+   "en": "«France Télévisions» recalls.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Monday 21 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Sailing: Thomas Ruyant pulls out of the next Route du Rhum for want of a sponsor",
+ "summary_en": [
+  "Sailing: Thomas Ruyant pulls out of the next Route du Rhum for want of a sponsor",
+  "The Route du Rhum starts at Saint-Malo in November without the Imoca title holder"
+ ]
+}

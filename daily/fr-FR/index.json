@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-FR-Le journal du matin, lundi 21 septembre",
+   "file": "podcast-daily-2026-09-21-morning-news-fr-FR.json",
+   "bytes": 10399,
+   "sha256": "fba77aabe8b420a866e3c2bbfcb91524eaee09564cefe205892bbf4836e2cff8",
+   "date": "2026-09-21",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, lundi 21 septembre",
+   "title_en": "The morning news, Monday 21 September",
+   "headline_en": "Vladimir Putin's party wins Russia's legislative elections on partial results",
+   "summary_en": [
+    "Vladimir Putin's party wins Russia's legislative elections on partial results",
+    "The French government plans new fuel aid but rules out a general tax cut",
+    "United Russia is credited with 57.5 per cent of the vote, the official agencies say"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, lundi 21 septembre",
+   "file": "podcast-daily-2026-09-21-morning-sport-fr-FR.json",
+   "bytes": 4117,
+   "sha256": "538ceaa463d3d0b983d5fcee40b423e7ab37fc71705fb24e7c6b2aebedf0b2b5",
+   "date": "2026-09-21",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, lundi 21 septembre",
+   "title_en": "Today's sport, Monday 21 September",
+   "headline_en": "Sailing: Thomas Ruyant pulls out of the next Route du Rhum for want of a sponsor",
+   "summary_en": [
+    "Sailing: Thomas Ruyant pulls out of the next Route du Rhum for want of a sponsor",
+    "The Route du Rhum starts at Saint-Malo in November without the Imoca title holder"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, lundi 21 septembre",
+   "file": "podcast-daily-2026-09-21-morning-weather-fr-FR.json",
+   "bytes": 7067,
+   "sha256": "a4f541b7dc30694346d6e1a05908f944cced7734c9f96f910f23f270607310d0",
+   "date": "2026-09-21",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, lundi 21 septembre",
+   "title_en": "Today's weather, Monday 21 September",
+   "headline_en": "Red alert for a very high forest-fire risk in the Gard, the Aude and the Pyrenees-Orientales",
+   "summary_en": [
+    "Red alert for a very high forest-fire risk in the Gard, the Aude and the Pyrenees-Orientales",
+    "Marseille overcast, a high of 29 degrees and a low of 20"
+   ]
+  },
+  {
    "id": "fr-FR-Le journal du matin, dimanche 20 septembre",
    "file": "podcast-daily-2026-09-20-morning-news-fr-FR.json",
    "bytes": 9709,
@@ -348,47 +409,6 @@
    "summary_en": [
     "Marseille stays overcast, with a high of 28 degrees and a low of 23",
     "Drizzle over Bordeaux, where the day runs between 18 and 26 degrees"
-   ]
-  },
-  {
-   "id": "fr-FR-Le journal du matin, lundi 7 septembre",
-   "file": "podcast-daily-2026-09-07-morning-news-fr-FR.json",
-   "bytes": 9503,
-   "sha256": "d4914d0941b1feec1a721440e8ac5f466b7a539db7009c57d862298ef5fe2fa9",
-   "date": "2026-09-07",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le journal du matin, lundi 7 septembre",
-   "title_en": "The morning news, Monday 7 September",
-   "headline_en": "The far-right AfD wins the regional election in Saxony-Anhalt, its best result yet",
-   "summary_en": [
-    "The far-right AfD wins the regional election in Saxony-Anhalt, its best result yet",
-    "The trial over the killing of rugby player Federico Martin Aramburu opens in Paris",
-    "First estimates put the AfD at around 44 percent of the vote in Saxony-Anhalt"
-   ]
-  },
-  {
-   "id": "fr-FR-La météo, lundi 7 septembre",
-   "file": "podcast-daily-2026-09-07-morning-weather-fr-FR.json",
-   "bytes": 4914,
-   "sha256": "cd2008e570234e49cef98cd8749b0bb31efc597aeb7f6061d0f458bcb09d710f",
-   "date": "2026-09-07",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "La météo, lundi 7 septembre",
-   "title_en": "Today's weather, Monday 7 September",
-   "headline_en": "Six south-eastern departments stay on orange heatwave alert on Monday",
-   "summary_en": [
-    "Six south-eastern departments stay on orange heatwave alert on Monday",
-    "Monday forecast for Marseille: scattered cloud, a high of 30 degrees"
    ]
   }
  ]

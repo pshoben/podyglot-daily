@@ -1,0 +1,209 @@
+{
+ "title": "Le temps chez nous, lundi 21 septembre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-weather",
+   "wpm": 222,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-21",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Un lundi au soleil et un thermomètre de saison, selon la RTBF.",
+   "en": "A sunny Monday and seasonal temperatures, according to «RTBF».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Quelques bancs de nuages d'altitude sont fréquents ce matin.",
+   "en": "Banks of high cloud are common this morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Libre ajoute qu'après un début de journée bien ensoleillé,",
+   "en": "«La Libre» adds that after a bright start to the day,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les nuages gagneront progressivement du terrain dans l'intérieur du pays.",
+   "en": "the cloud will gradually gain ground inland.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'après le modèle du Centre européen, l'ECMWF,",
+   "en": "On the European Centre model, the ECMWF,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Bruxelles va jusqu'à dix-neuf degrés aujourd'hui.",
+   "en": "Brussels goes as high as nineteen degrees today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le minimum y tombe à neuf degrés,",
+   "en": "The low there falls to nine degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le risque de pluie est nul.",
+   "en": "and the risk of rain is nil.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent se limite à neuf kilomètres par heure.",
+   "en": "The wind keeps to nine kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Liège partage ce maximum de dix-neuf degrés,",
+   "en": "«Liège» shares that high of nineteen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et ce plancher de neuf degrés.",
+   "en": "and that floor of nine degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Zéro pour cent de probabilité de pluie également,",
+   "en": "Zero per cent probability of rain as well,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un vent qui pousse jusqu'à douze kilomètres par heure.",
+   "en": "with a wind pushing up to twelve kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Namur retrouve les mêmes chiffres,",
+   "en": "«Namur» comes back to the same figures,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dix-neuf degrés au plus haut et neuf au plus bas.",
+   "en": "nineteen degrees at the highest and nine at the lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent namurois souffle à onze kilomètres par heure au plus fort,",
+   "en": "The wind in «Namur» blows at eleven kilometres an hour at its strongest,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et les chances de pluie restent nulles.",
+   "en": "and the chances of rain stay nil.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le temps chez nous.",
+   "en": "That is the weather here at home.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Monday 21 September",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "A sunny Monday and seasonal temperatures in Belgium, with cloud gaining ground inland",
+ "summary_en": [
+  "A sunny Monday and seasonal temperatures in Belgium, with cloud gaining ground inland",
+  "Brussels on the ECMWF model: a high of 19 degrees, a low of 9, no chance of rain and wind to 9 kilometres an hour"
+ ]
+}

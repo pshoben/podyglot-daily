@@ -1,0 +1,92 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-ES",
+ "date": "2026-09-21",
+ "episodes": [
+  {
+   "id": "es-ES-El informativo de la mañana, lunes 21 de septiembre",
+   "file": "podcast-daily-2026-09-21-morning-news-es-ES.json",
+   "bytes": 9906,
+   "sha256": "7f94126af6ddbe4b9d7e41a5d65b4c520046edbbf597751a5827a17e7678b107",
+   "date": "2026-09-21",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, lunes 21 de septiembre",
+   "title_en": "The morning news, Monday 21 September",
+   "headline_en": "Chancellor Merz's CDU falls out of a German regional parliament for the first time",
+   "summary_en": [
+    "Chancellor Merz's CDU falls out of a German regional parliament for the first time",
+    "A crowd waiting for an aid group at the port of Ceuta wrecks the car of Ceuta deputy Julia Ferreras",
+    "Former Valencian president Carlos Mazón answers the Congress flood committee again at eleven this morning"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, lunes 21 de septiembre",
+   "file": "podcast-daily-2026-09-21-morning-weather-es-ES.json",
+   "bytes": 5221,
+   "sha256": "4658304c291763cdb54c0a4a280b00126df766fa6d140c90ca907b84eca54dfd",
+   "date": "2026-09-21",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, lunes 21 de septiembre",
+   "title_en": "Today's weather, Monday 21 September",
+   "headline_en": "AEMET keeps a yellow high-temperature warning in force in Galicia and Catalonia from one until seven this afternoon",
+   "summary_en": [
+    "AEMET keeps a yellow high-temperature warning in force in Galicia and Catalonia from one until seven this afternoon",
+    "Madrid: a clear sky and a southerly at 5 kilometres an hour, 32 degrees and a low of 18"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, lunes 21 de septiembre",
+   "file": "podcast-daily-2026-09-21-morning-weather-andalucia-es-ES.json",
+   "bytes": 3904,
+   "sha256": "f6fa7342d8b18b430f6a4bce56c334fe43a7355195c5fe1da04b074396430ed3",
+   "date": "2026-09-21",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, lunes 21 de septiembre",
+   "title_en": "Today's weather, Andalusia, Monday 21 September",
+   "headline_en": "Córdoba: a clear sky all day, 35 degrees and a low of 16",
+   "summary_en": [
+    "Córdoba: a clear sky all day, 35 degrees and a low of 16",
+    "Sevilla: a mostly clear sky, 35 degrees and a low of 21"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, lunes 21 de septiembre",
+   "file": "podcast-daily-2026-09-21-morning-weather-canarias-es-ES.json",
+   "bytes": 3703,
+   "sha256": "6f81cc27c5c435e607fecf3a36d46b7a99c70d6c7c6a61183b4e458ae95d1e7d",
+   "date": "2026-09-21",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, lunes 21 de septiembre",
+   "title_en": "Today's weather, Canary Islands, Monday 21 September",
+   "headline_en": "Las Palmas de Gran Canaria: high cloud and a northerly rising from 15 to 20 kilometres an hour, 27 degrees and a low of 22",
+   "summary_en": [
+    "Las Palmas de Gran Canaria: high cloud and a northerly rising from 15 to 20 kilometres an hour, 27 degrees and a low of 22",
+    "Santa Cruz de Tenerife: high cloud and an easterly at 20 kilometres an hour, 31 degrees and a low of 22"
+   ]
+  }
+ ],
+ "content": "cd1fc4acfe5a37f5b1dd9d1a966e2933fbd90235430936b7f8f3d184466fcb98",
+ "rev": 1,
+ "updated": "2026-09-21T09:47:43.312Z"
+}

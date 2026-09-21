@@ -2,51 +2,51 @@
  "schema": 1,
  "base": "https://pshoben.github.io/podyglot-daily/",
  "live_window_days": 14,
- "archived_before": "2026-09-07",
+ "archived_before": "2026-09-08",
  "channels": [
   {
    "channel": "daily",
    "dialect": "es-AR",
    "index": "daily/es-AR/index.json",
-   "episodes": 10,
+   "episodes": 8,
    "latest_date": "2026-09-13",
-   "archived": 46,
+   "archived": 48,
    "archive": "archive/daily/es-AR/index.json"
   },
   {
    "channel": "daily",
    "dialect": "es-CL",
    "index": "daily/es-CL/index.json",
-   "episodes": 8,
+   "episodes": 6,
    "latest_date": "2026-09-13",
-   "archived": 37,
+   "archived": 39,
    "archive": "archive/daily/es-CL/index.json"
   },
   {
    "channel": "daily",
    "dialect": "es-CO",
    "index": "daily/es-CO/index.json",
-   "episodes": 11,
+   "episodes": 9,
    "latest_date": "2026-09-13",
-   "archived": 45,
+   "archived": 47,
    "archive": "archive/daily/es-CO/index.json"
   },
   {
    "channel": "daily",
    "dialect": "es-ES",
    "index": "daily/es-ES/index.json",
-   "episodes": 35,
-   "latest_date": "2026-09-20",
-   "archived": 116,
+   "episodes": 34,
+   "latest_date": "2026-09-21",
+   "archived": 121,
    "archive": "archive/daily/es-ES/index.json"
   },
   {
    "channel": "daily",
    "dialect": "es-MX",
    "index": "daily/es-MX/index.json",
-   "episodes": 7,
+   "episodes": 5,
    "latest_date": "2026-09-13",
-   "archived": 48,
+   "archived": 50,
    "archive": "archive/daily/es-MX/index.json"
   },
   {
@@ -54,26 +54,26 @@
    "dialect": "fr-BE",
    "index": "daily/fr-BE/index.json",
    "episodes": 17,
-   "latest_date": "2026-09-20",
-   "archived": 57,
+   "latest_date": "2026-09-21",
+   "archived": 60,
    "archive": "archive/daily/fr-BE/index.json"
   },
   {
    "channel": "daily",
    "dialect": "fr-CA",
    "index": "daily/fr-CA/index.json",
-   "episodes": 9,
+   "episodes": 8,
    "latest_date": "2026-09-13",
-   "archived": 44,
+   "archived": 45,
    "archive": "archive/daily/fr-CA/index.json"
   },
   {
    "channel": "daily",
    "dialect": "fr-FR",
    "index": "daily/fr-FR/index.json",
-   "episodes": 19,
-   "latest_date": "2026-09-20",
-   "archived": 66,
+   "episodes": 20,
+   "latest_date": "2026-09-21",
+   "archived": 68,
    "archive": "archive/daily/fr-FR/index.json"
   }
  ]

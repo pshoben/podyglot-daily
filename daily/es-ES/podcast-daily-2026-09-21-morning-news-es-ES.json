@@ -1,0 +1,390 @@
+{
+ "title": "El informativo de la mañana, lunes 21 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-news",
+   "wpm": 208,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-21",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lunes veintiuno de septiembre. El informativo de la mañana.",
+   "en": "Monday the twenty-first of September. The morning bulletin.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La CDU del canciller alemán Friedrich Merz",
+   "en": "The «CDU» of German chancellor «Friedrich Merz»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "se queda fuera de un Parlamento regional por primera vez.",
+   "en": "falls out of a regional parliament for the first time.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y un grupo de vecinos destroza en Ceuta el coche de una diputada autonómica.",
+   "en": "And a group of residents in «Ceuta» wrecks the car of a regional deputy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Abrimos con Alemania. De acuerdo con El Mundo, ese Parlamento es el de Mecklemburgo-Pomerania Occidental.",
+   "en": "We open with Germany. According to «El Mundo», that parliament is the one in Mecklenburg-Western Pomerania.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La CDU no alcanza allí el cinco por ciento necesario.",
+   "en": "The «CDU» does not reach the five per cent needed there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se impuso la ultraderecha de Alternativa para Alemania.",
+   "en": "The far right of Alternative for Germany came out on top.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mientras tanto, en Berlín gobernarán los poscomunistas de Die Linke.",
+   "en": "Meanwhile, in Berlin the post-communists of «Die Linke» will govern.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aquí en España.",
+   "en": "Here in Spain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ABC calcula en medio centenar las personas concentradas ayer en el puerto de Ceuta.",
+   "en": "«ABC» counts around fifty people gathered yesterday at the port of «Ceuta».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aguardaban a una organización que llegaba a la ciudad con ayuda para los inmigrantes.",
+   "en": "They were waiting for an organisation coming to the city with aid for immigrants.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pasadas las ocho y cuarto de la tarde,",
+   "en": "Just after a quarter past eight in the evening,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "algunos pararon el paso de un coche.",
+   "en": "some of them blocked a car.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le lanzaron huevos y lo zarandearon,",
+   "en": "They threw eggs at it and shook it,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la Policía tuvo que intervenir de inmediato.",
+   "en": "and the police had to step in at once.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dentro iba la diputada de la Asamblea de Ceuta, Julia Ferreras.",
+   "en": "Inside was «Julia Ferreras», a deputy in the Assembly of «Ceuta».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En algunos vídeos se la oye identificarse y gritar que no son ellos.",
+   "en": "In some of the videos she is heard identifying herself and shouting that they are not the ones.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El líder de su formación, Mohamed Mustafa,",
+   "en": "The leader of her party, «Mohamed Mustafa»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "señaló que Ferreras ya ha acudido a Comisaría.",
+   "en": "said «Ferreras» has already gone to the police station.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La tensión acabó en enfrentamientos con la Policía,",
+   "en": "The tension ended in clashes with the police,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y los antidisturbios dispararon al aire.",
+   "en": "and riot officers fired shots into the air.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de tema.",
+   "en": "Moving on.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Vanguardia cuenta que Carlos Mazón vuelve hoy a la comisión de la dana.",
+   "en": "«La Vanguardia» reports that «Carlos Mazón» goes back today to the «dana» committee.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El expresidente valenciano comparece en el Congreso a las once de la mañana.",
+   "en": "The former Valencian president appears in Congress at eleven this morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Responde por segunda vez sobre su gestión durante la tragedia.",
+   "en": "He answers for the second time on his handling during the tragedy.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos en España. La Jefatura Superior de Policía informó hoy de una detención en Alicante.",
+   "en": "Still in Spain. The police headquarters today reported an arrest in «Alicante».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "eldiario punto es añade que el detenido es la pareja de la víctima.",
+   "en": "«eldiario» adds that the man arrested was the victim's partner.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Policía lo considera presunto autor del homicidio,",
+   "en": "The police consider him the suspect in the killing,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ocurrido el sábado en Leganés.",
+   "en": "which happened on Saturday in «Leganés».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "A la mujer, de treinta y cuatro años,",
+   "en": "The woman, thirty-four years old,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la halló muerta su padre en su casa.",
+   "en": "was found dead at home by her father.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para terminar, el festival de San Sebastián",
+   "en": "And finally, the «San Sebastián» festival",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "se rindió ayer a La bola negra, de los Javis.",
+   "en": "gave itself over yesterday to «La bola negra», by «los Javis».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El País escribe que la película ganó además el premio del público de Toronto.",
+   "en": "«El País» writes that the film also won the audience award in «Toronto».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para el diario, supone otro paso adelante hacia los Oscar.",
+   "en": "For the paper, it marks another step forward towards the Oscars.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí lo esencial.",
+   "en": "That's the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Monday 21 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Chancellor Merz's CDU falls out of a German regional parliament for the first time",
+ "summary_en": [
+  "Chancellor Merz's CDU falls out of a German regional parliament for the first time",
+  "A crowd waiting for an aid group at the port of Ceuta wrecks the car of Ceuta deputy Julia Ferreras",
+  "Former Valencian president Carlos Mazón answers the Congress flood committee again at eleven this morning"
+ ]
+}

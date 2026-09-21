@@ -1,0 +1,163 @@
+{
+ "title": "El tiempo en Andalucía, lunes 21 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-andalucia",
+   "wpm": 208,
+   "rate_multiplier": 0.73,
+   "pitch_multiplier": 0.79
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-andalucia",
+ "date": "2026-09-21",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Tierra adentro, treinta y cinco grados en Córdoba,",
+   "en": "Inland, thirty-five degrees in «Córdoba»,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y ni una nube en toda la jornada.",
+   "en": "and not a cloud all day.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima cordobesa cede hasta los dieciséis grados, según la Aemet.",
+   "en": "The low in «Córdoba» eases to sixteen degrees, according to «Aemet».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El levante, allí, a diez kilómetros por hora.",
+   "en": "The easterly there, at ten kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por el valle, Sevilla iguala esos treinta y cinco grados,",
+   "en": "Along the valley, «Sevilla» matches those thirty-five degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "bajo un cielo poco nuboso.",
+   "en": "under a mostly clear sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y veintiún grados de mínima.",
+   "en": "And twenty-one degrees for the low.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la costa, Málaga rebaja la máxima a veintiocho grados.",
+   "en": "On the coast, «Málaga» brings the high down to twenty-eight degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su mínima, en cambio, aguanta en veintitrés grados, por encima de la cordobesa.",
+   "en": "Its low, by contrast, holds at twenty-three degrees, above «Córdoba»'s.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El cielo malagueño, poco nuboso, despeja pasado el mediodía.",
+   "en": "The sky over «Málaga», mostly clear, clears after midday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y la probabilidad de lluvia, un cinco por ciento,",
+   "en": "And the chance of rain, five per cent,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "solo en la primera mitad del día.",
+   "en": "only in the first half of the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es Andalucía.",
+   "en": "That is «Andalucía».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 3,
+ "handover": "junction",
+ "title_en": "Today's weather, Andalusia, Monday 21 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Andalucía",
+ "accent": "Andalucía",
+ "accent_label": "acento de Andalucía",
+ "segment_order": 1,
+ "headline_en": "Córdoba: a clear sky all day, 35 degrees and a low of 16",
+ "summary_en": [
+  "Córdoba: a clear sky all day, 35 degrees and a low of 16",
+  "Sevilla: a mostly clear sky, 35 degrees and a low of 21"
+ ]
+}

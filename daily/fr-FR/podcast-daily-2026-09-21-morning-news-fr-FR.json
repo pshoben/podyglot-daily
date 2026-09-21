@@ -1,0 +1,400 @@
+{
+ "title": "Le journal du matin, lundi 21 septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-21",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lundi vingt et un septembre. Le journal du matin.",
+   "en": "Monday 21st September. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Russie, les résultats partiels des élections législatives donnent le parti de Vladimir Poutine vainqueur.",
+   "en": "In Russia, partial results from the parliamentary elections show Vladimir Putin's party the winner.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et en France, le gouvernement prévoit de nouvelles aides sur les carburants,",
+   "en": "And in France, the government is planning new fuel aid,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "mais écarte une baisse générale des taxes.",
+   "en": "but ruling out a general cut in taxes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par la Russie,",
+   "en": "We start with Russia,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où Russie unie est crédité de cinquante-sept virgule cinq pour cent des voix,",
+   "en": "where United Russia is credited with fifty-seven point five per cent of the vote,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après les agences de presse officielles.",
+   "en": "according to the official news agencies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les trois quarts des bulletins avaient alors été dépouillés.",
+   "en": "Three quarters of the ballots had been counted at that point.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Télégramme rapporte que le vote de dimanche",
+   "en": "«Le Télégramme» reports that Sunday's vote",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a été marqué par des piratages informatiques et par des attaques de drones ukrainiens.",
+   "en": "was marked by computer hacking and by Ukrainian drone attacks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Moscou a promis une riposte à ces attaques.",
+   "en": "Moscow has promised a response to those attacks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, les carburants: deux réunions d'urgence se tiennent aujourd'hui à Matignon,",
+   "en": "In France, fuel: two emergency meetings are being held today at «Matignon»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sur les prix et sur les approvisionnements.",
+   "en": "on prices and on supply.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Premier ministre réunit plusieurs membres du gouvernement,",
+   "en": "The prime minister is bringing together several members of the government,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ainsi que des directeurs d'administrations centrales.",
+   "en": "as well as heads of central government departments.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les approvisionnements en pétrole et en gaz sont perturbés par la guerre au Moyen-Orient.",
+   "en": "Oil and gas supply is being disrupted by the war in the Middle East.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le contour exact des nouvelles aides sera dévoilé dans les prochaines heures ou les prochains jours,",
+   "en": "The exact shape of the new aid will be revealed in the coming hours or the coming days,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "écrit Le Figaro.",
+   "en": "«Le Figaro» writes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à autre chose, la collision de Saint-Pierre-des-Corps, près de Tours:",
+   "en": "Moving on, the collision at «Saint-Pierre-des-Corps», near «Tours»:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le policier au volant a été placé sous le statut de témoin assisté.",
+   "en": "the officer at the wheel has been given the status of assisted witness.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'agent, précise Libération, conduisait la voiture qui a percuté un jeune motard ce week-end.",
+   "en": "The officer, «Libération» says, was driving the car that hit a young motorcyclist at the weekend.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La collision s'est produite dans des circonstances qui doivent être déterminées.",
+   "en": "The collision happened in circumstances that have yet to be established.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité, le président américain Donald Trump reçoit Emmanuel Macron",
+   "en": "In other news, the American president, Donald Trump, hosts «Emmanuel Macron»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ce lundi à New York, en marge de l'Assemblée générale des Nations unies.",
+   "en": "today in New York, on the sidelines of the United Nations General Assembly.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'entretien est fixé à vingt-trois heures trente-cinq, heure de Paris.",
+   "en": "The meeting is set for eleven thirty-five tonight, Paris time.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Maison Blanche avait publié l'agenda du président dimanche soir.",
+   "en": "The White House had published the president's schedule on Sunday evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre sujet maintenant, en Allemagne,",
+   "en": "Turning to something else, in Germany,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le parti d'extrême droite AfD arrive en tête d'une nouvelle élection régionale,",
+   "en": "the far-right party «AfD» comes top in another regional election,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon les premières estimations.",
+   "en": "on first estimates.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les chrétiens-démocrates sont lourdement battus,",
+   "en": "The Christian Democrats are heavily beaten,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le chancelier Friedrich Merz dit tenir le cap.",
+   "en": "and Chancellor «Friedrich Merz» says he is staying the course.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Monde note qu'à Berlin, la gauche radicale l'a emporté.",
+   "en": "«Le Monde» notes that in Berlin the radical left won.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour finir, le pape Léon XIV vient en France du vingt-cinq au vingt-huit septembre.",
+   "en": "And finally, Pope Leo the Fourteenth comes to France from 25th to 28th September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Une messe solennelle aura lieu le samedi vingt-six, place de la Concorde.",
+   "en": "A solemn mass will be held on Saturday the 26th, on the «Place de la Concorde».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La visite durera quatre jours,",
+   "en": "The visit will last four days,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et passera aussi par Lourdes.",
+   "en": "and will also take in «Lourdes».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Monday 21 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Vladimir Putin's party wins Russia's legislative elections on partial results",
+ "summary_en": [
+  "Vladimir Putin's party wins Russia's legislative elections on partial results",
+  "The French government plans new fuel aid but rules out a general tax cut",
+  "United Russia is credited with 57.5 per cent of the vote, the official agencies say"
+ ]
+}

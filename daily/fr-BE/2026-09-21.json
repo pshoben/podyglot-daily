@@ -1,0 +1,71 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-BE",
+ "date": "2026-09-21",
+ "episodes": [
+  {
+   "id": "fr-BE-Le sept heures, lundi 21 septembre",
+   "file": "podcast-daily-2026-09-21-morning-news-fr-BE.json",
+   "bytes": 7985,
+   "sha256": "f496e154ada5a342f4c6194b90d3e1320f0562ddb3c7bedaac355f09b5428cf1",
+   "date": "2026-09-21",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, lundi 21 septembre",
+   "title_en": "The morning news, Monday 21 September",
+   "headline_en": "Chancellor Friedrich Merz's CDU is beaten in both of Germany's weekend regional elections",
+   "summary_en": [
+    "Chancellor Friedrich Merz's CDU is beaten in both of Germany's weekend regional elections",
+    "Diesel at the pump crosses 2.50 euros a litre in Belgium from Tuesday",
+    "Vladimir Putin's party is given as the winner of Russia's parliamentary elections"
+   ]
+  },
+  {
+   "id": "fr-BE-Le sport chez nous, lundi 21 septembre",
+   "file": "podcast-daily-2026-09-21-morning-sport-fr-BE.json",
+   "bytes": 4218,
+   "sha256": "3c70b6d975d5841d26d2d9ef6f142f4d8593252bcfd9ad8fc069ba15f6b9cd8b",
+   "date": "2026-09-21",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sport chez nous, lundi 21 septembre",
+   "title_en": "Today's sport, Monday 21 September",
+   "headline_en": "Football: Mark van Bommel's first Red Devils squad has four matches in eleven days",
+   "summary_en": [
+    "Football: Mark van Bommel's first Red Devils squad has four matches in eleven days"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, lundi 21 septembre",
+   "file": "podcast-daily-2026-09-21-morning-weather-fr-BE.json",
+   "bytes": 5022,
+   "sha256": "218a069295adb15d2cb66a540d786ca8bbf50d61283cf31ec107d5010f6a6e96",
+   "date": "2026-09-21",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, lundi 21 septembre",
+   "title_en": "Today's weather, Monday 21 September",
+   "headline_en": "A sunny Monday and seasonal temperatures in Belgium, with cloud gaining ground inland",
+   "summary_en": [
+    "A sunny Monday and seasonal temperatures in Belgium, with cloud gaining ground inland",
+    "Brussels on the ECMWF model: a high of 19 degrees, a low of 9, no chance of rain and wind to 9 kilometres an hour"
+   ]
+  }
+ ],
+ "content": "84d9b71daf211b437d368c38844bdb7c3ca596fb298ed4accdfdcb2539148464",
+ "rev": 1,
+ "updated": "2026-09-21T09:47:43.312Z"
+}

@@ -1,0 +1,168 @@
+{
+ "title": "Le sport chez nous, lundi 21 septembre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-sport",
+   "wpm": 222,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-21",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Le football, et un premier rassemblement chargé pour le sélectionneur des Diables rouges,",
+   "en": "Football, and a busy first squad gathering for the Red Devils' coach,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mark van Bommel.",
+   "en": "«Mark van Bommel».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les Diables disputeront quatre matches en onze jours, rapporte la RTBF.",
+   "en": "The Red Devils will play four matches in eleven days, «RTBF» reports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Italie le vingt-cinq septembre, la France le vingt-huit,",
+   "en": "Italy on the 25th of September, France on the 28th,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la Turquie le deux octobre, et la France à nouveau le cinq.",
+   "en": "Turkey on the 2nd of October, and France again on the 5th.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un enchaînement qui mènera la sélection de Rome à Paris.",
+   "en": "A run that will take the squad from Rome to Paris.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La DH écrit que l'ancien gardien de l'Antwerp Jean Butez",
+   "en": "«DH» writes that the former Antwerp goalkeeper «Jean Butez»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "rejoindra l'équipe de France à Clairefontaine la semaine prochaine.",
+   "en": "will join the France squad at «Clairefontaine» next week.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce sera pour la Ligue des nations, après le forfait de Robin Risser.",
+   "en": "It is for the Nations League, after «Robin Risser» withdrew.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La fédération française de football l'a annoncé.",
+   "en": "The French football federation announced it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Jeremy Doku, lui, ne figure pas dans la sélection de Mark van Bommel.",
+   "en": "«Jeremy Doku», meanwhile, is not in «Mark van Bommel»'s squad.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'ailier a pourtant rejoué ce dimanche.",
+   "en": "The winger did play again on Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La DH se demande si Maxim De Cuyper pourrait prendre sa place sur l'aile.",
+   "en": "«DH» asks whether «Maxim De Cuyper» could take his place on the wing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On s'arrête là pour le sport belge.",
+   "en": "We leave Belgian sport there.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Monday 21 September",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Football: Mark van Bommel's first Red Devils squad has four matches in eleven days",
+ "summary_en": [
+  "Football: Mark van Bommel's first Red Devils squad has four matches in eleven days"
+ ]
+}
