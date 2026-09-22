@@ -1,0 +1,290 @@
+{
+ "title": "Le sept heures, mardi 22 septembre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-news",
+   "wpm": 222,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-22",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Mardi vingt-deux septembre. Le sept heures.",
+   "en": "Tuesday 22nd September. The seven o'clock news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Donald Trump a signé un accord de sécurité avec le Groenland et le Danemark.",
+   "en": "«Donald Trump» has signed a security accord with Greenland and Denmark.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et à l'aéroport de Charleroi, la grève des contrôleurs aériens se prolonge,",
+   "en": "And at «Charleroi» airport, the air traffic controllers' strike runs on,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec des dizaines de vols supprimés ce mercredi.",
+   "en": "with dozens of flights cancelled this Wednesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On ouvre avec le Groenland, et cet accord de sécurité signé ce mardi, d'après 7sur7.",
+   "en": "We open with Greenland, and that security accord signed this Tuesday, according to «7sur7».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le texte a été paraphé au siège des Nations unies.",
+   "en": "The text was signed at United Nations headquarters.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le président américain y salue le début d'une relation fantastique, et bonne pour l'Otan.",
+   "en": "The American president hails the start of a relationship that is fantastic, and good for NATO.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La RTBF décrit un texte de dix pages,",
+   "en": "«RTBF» describes a ten-page text,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "signé devant les caméras à New York.",
+   "en": "signed in front of the cameras in New York.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il doit rester en vigueur même en cas d'indépendance.",
+   "en": "It is to stay in force even in the event of independence.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On enchaîne: Le Vif rapporte que le mouvement des contrôleurs aériens de Charleroi",
+   "en": "Moving on: «Le Vif» reports that the «Charleroi» air traffic controllers' action",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dure depuis près d'une semaine.",
+   "en": "has run for close to a week.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Une médiation externe a été proposée pour tenter de sortir de la crise.",
+   "en": "Outside mediation has been proposed to try to get out of the crisis.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce même magazine parle d'une stratégie intelligente de la part des contrôleurs aériens.",
+   "en": "The same magazine describes a clever strategy on the air traffic controllers' part.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La DH ajoute que le conflit chez Skeyes se prolonge",
+   "en": "«DH» adds that the dispute at «Skeyes» continues",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "après le rejet d'une offre de la direction.",
+   "en": "after management's offer was turned down.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon La Libre, quarante-deux vols seront supprimés ce mercredi à l'aéroport.",
+   "en": "According to «La Libre», forty-two flights will be cancelled this Wednesday at the airport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ailleurs dans l'actu, la Russie:",
+   "en": "Elsewhere in the news, Russia:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "l'Europe lève les sanctions qui pesaient sur deux oligarques russes.",
+   "en": "Europe is lifting the sanctions that weighed on two Russian oligarchs.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Paris et Bratislava voulaient épargner Alicher Ousmanov, le Luxembourg, Mikhaïl Fridman.",
+   "en": "Paris and «Bratislava» wanted to spare «Alisher Usmanov», and «Luxembourg», «Mikhail Fridman».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Lettonie s'est opposée à ce retrait aussi longtemps qu'elle a pu.",
+   "en": "Latvia opposed that delisting for as long as it could.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle s'est abstenue, comme l'a fait la Belgique.",
+   "en": "It abstained, as Belgium did.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour terminer, le musée du Chat s'installera dans un bâtiment emblématique d'Ixelles.",
+   "en": "To finish, the Cat Museum will move into a landmark building in «Ixelles».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il investit les établissements Demeuldre-Coché.",
+   "en": "It is taking over the «Demeuldre-Coché» premises.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On compte y travailler notamment sur l'étonnante chambre du Roi.",
+   "en": "The plan is to work there in particular on the King's astonishing bedroom.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà où nous en sommes.",
+   "en": "That is where things stand.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 22 September",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Trump signs a security accord with Greenland and Denmark at the United Nations",
+ "summary_en": [
+  "Trump signs a security accord with Greenland and Denmark at the United Nations",
+  "Air traffic controllers' strike at Charleroi airport runs on, with dozens of Wednesday flights cancelled",
+  "The European Union lifts sanctions on two Russian oligarchs, with Belgium abstaining"
+ ]
+}

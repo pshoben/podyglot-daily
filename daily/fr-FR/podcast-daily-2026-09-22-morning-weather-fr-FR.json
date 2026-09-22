@@ -1,0 +1,239 @@
+{
+ "title": "La météo, mardi 22 septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-22",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Sur l'ensemble du pays aujourd'hui, d'après les modèles de Météo-France,",
+   "en": "Across the country today, on «Météo-France»'s models,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le ciel couvert domine,",
+   "en": "an overcast sky is the rule,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "mais il se dégage sur Paris et sur Strasbourg.",
+   "en": "but it clears over «Paris» and over «Strasbourg».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Bordeaux monte à trente et un degrés sous un ciel couvert,",
+   "en": "«Bordeaux» climbs to thirty-one degrees under an overcast sky,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec quinze degrés au plus bas et douze kilomètres par heure de vent.",
+   "en": "with fifteen degrees at the lowest and twelve kilometres an hour of wind.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Lyon, vingt-sept degrés au plus haut et quinze au plus bas,",
+   "en": "In «Lyon», twenty-seven degrees at the highest and fifteen at the lowest,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sous la même couverture nuageuse,",
+   "en": "under the same cloud cover,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec dix-sept kilomètres par heure de vent.",
+   "en": "with seventeen kilometres an hour of wind.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lille reste couverte, avec vingt-deux degrés au plus haut, treize au plus bas,",
+   "en": "«Lille» stays overcast, with twenty-two degrees at the highest, thirteen at the lowest,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et douze kilomètres par heure de vent.",
+   "en": "and twelve kilometres an hour of wind.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Paris profite d'un ciel dégagé,",
+   "en": "«Paris» enjoys a clear sky,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec vingt-quatre degrés au plus haut, quatorze au plus bas,",
+   "en": "with twenty-four degrees at the highest, fourteen at the lowest,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et treize kilomètres par heure de vent.",
+   "en": "and thirteen kilometres an hour of wind.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ciel dégagé aussi à Strasbourg,",
+   "en": "A clear sky over «Strasbourg» too,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec vingt-deux degrés au plus haut,",
+   "en": "with twenty-two degrees at the highest,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dix degrés au plus bas,",
+   "en": "ten degrees at the lowest,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et dix-huit kilomètres par heure de vent.",
+   "en": "and eighteen kilometres an hour of wind.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Marseille, enfin, plafonne à vingt-six degrés,",
+   "en": "«Marseille», lastly, tops out at twenty-six degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ne descend pas sous vingt,",
+   "en": "does not drop below twenty,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et compte quatorze kilomètres par heure de vent sous les nuages.",
+   "en": "and counts fourteen kilometres an hour of wind under the clouds.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Tuesday 22 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Tuesday forecast for Paris, 22nd September",
+ "summary_en": [
+  "Tuesday forecast for Paris, 22nd September",
+  "Tuesday forecast for Bordeaux, 22nd September"
+ ]
+}

@@ -1,0 +1,350 @@
+{
+ "title": "El informativo de la mañana, martes 22 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-news",
+   "wpm": 208,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-22",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Martes veintidós de septiembre. El informativo de la mañana.",
+   "en": "Tuesday the twenty-second of September. The morning bulletin.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Estados Unidos, Dinamarca y Groenlandia firman un acuerdo de seguridad sobre la isla.",
+   "en": "The United States, Denmark and Greenland sign a security agreement on the island.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y Pedro Sánchez apuntó al fallo del control fronterizo de Marruecos en Ceuta.",
+   "en": "And «Pedro Sánchez» pointed to the failure of Morocco's border control in «Ceuta».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Abrimos con Groenlandia. Según El País, las tres partes firmaron el pacto en Naciones Unidas,",
+   "en": "We open with Greenland. According to «El País», the three parties signed the pact at the United Nations,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tras meses de negociación.",
+   "en": "after months of negotiation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Estados Unidos abrirá dos bases nuevas en la isla,",
+   "en": "The United States will open two new bases on the island,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que se suman a la que ya tiene en Pituffik.",
+   "en": "alongside the one it already has at «Pituffik».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El acuerdo de defensa concede a Washington una amplia presencia militar de forma indefinida.",
+   "en": "The defence agreement grants Washington a wide military presence for an indefinite period.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Otro asunto. El presidente del Gobierno habló este martes con una cadena de televisión estadounidense.",
+   "en": "On another matter. The prime minister spoke this Tuesday to an American television network.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo hizo en Nueva York,",
+   "en": "He did so in New York,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "donde asiste a la Asamblea General de Naciones Unidas.",
+   "en": "where he is attending the United Nations General Assembly.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "eldiario punto es recoge que Sánchez dio por evidente el fallo del control fronterizo marroquí.",
+   "en": "«eldiario» reports that «Sánchez» called the failure of Moroccan border control evident.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se refería a la entrada masiva de personas en Ceuta de finales de julio.",
+   "en": "He was referring to the mass entry of people into «Ceuta» at the end of July.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "España ha pedido a Rabat explicaciones, respuestas y acciones.",
+   "en": "Spain has asked Rabat for explanations, answers and action.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El presidente reprochó además la falta de solidaridad de algunos socios de la Unión Europea.",
+   "en": "The prime minister also criticised the lack of solidarity from some European Union partners.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Defendió, pese a todo,",
+   "en": "He maintained, all the same,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que la ciudad está recuperando la normalidad y que la relación con Marruecos sigue siendo buena.",
+   "en": "that the city is returning to normality and that relations with Morocco remain good.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Seguimos en España.",
+   "en": "Still in Spain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Tribunal Constitucional tumbó este martes la ponencia contraria a amnistiar la malversación del procés.",
+   "en": "The Constitutional Court threw out this Tuesday the draft ruling against amnestying the embezzlement of the «procés».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según La Vanguardia, el pleno encargó una nueva redacción,",
+   "en": "According to «La Vanguardia», the full court commissioned a new draft,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "esta vez favorable a los líderes condenados.",
+   "en": "this time in favour of the convicted leaders.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El órgano de garantías la estudiará dentro de dos semanas.",
+   "en": "The court will take it up in a fortnight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el resto de la actualidad.",
+   "en": "In other news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un grupo de investigadores españoles ha revisado el informe PISA.",
+   "en": "A group of Spanish researchers has gone back over the PISA study.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Según El Mundo,",
+   "en": "According to «El Mundo»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la OCDE cambió la forma de medir",
+   "en": "the OECD changed the way it measures",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "el nivel socioeconómico y cultural del alumnado.",
+   "en": "pupils' socio-economic and cultural background.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Antes pesaban sobre todo los libros que hay en casa;",
+   "en": "What used to count most was the books in the home;",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ahora se pregunta por la piscina o la habitación de invitados.",
+   "en": "now it asks about the swimming pool or the guest room.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Con ese cambio",
+   "en": "With that change",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "deja de ser cierto que las rentas altas hayan caído más que el resto.",
+   "en": "it is no longer true that better-off pupils fell further than the rest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí lo esencial.",
+   "en": "That's the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 22 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Washington, Copenhagen and Nuuk sign the Greenland security pact, opening two more American bases on the island",
+ "summary_en": [
+  "Washington, Copenhagen and Nuuk sign the Greenland security pact, opening two more American bases on the island",
+  "Sánchez says Morocco's border control failed at Ceuta and that Spain has asked Rabat for answers",
+  "The Constitutional Court majority rejects the draft ruling against amnestying the procés leaders' embezzlement"
+ ]
+}

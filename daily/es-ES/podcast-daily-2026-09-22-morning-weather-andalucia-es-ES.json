@@ -1,0 +1,163 @@
+{
+ "title": "El tiempo en Andalucía, martes 22 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-andalucia",
+   "wpm": 208,
+   "rate_multiplier": 0.73,
+   "pitch_multiplier": 0.79
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-andalucia",
+ "date": "2026-09-22",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Córdoba llega hoy a treinta y siete grados, según la Aemet.",
+   "en": "«Córdoba» reaches thirty-seven degrees today, according to «Aemet».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su mínima, en cambio, se queda en dieciséis.",
+   "en": "Its low, by contrast, stops at sixteen.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Nubes altas sobre la ciudad desde el mediodía,",
+   "en": "High cloud over the city from midday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y ninguna probabilidad de lluvia.",
+   "en": "and no chance of rain at all.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sevilla se queda un grado por debajo, en treinta y seis,",
+   "en": "«Sevilla» comes in one degree lower, at thirty-six,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "bajo esas mismas nubes altas.",
+   "en": "under that same high cloud.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima sevillana marca diecinueve,",
+   "en": "The low in «Sevilla» reads nineteen,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con viento del nordeste a cinco kilómetros por hora.",
+   "en": "with a north-easterly at five kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Málaga baja mucho más: veintinueve grados de máxima y veinte de mínima.",
+   "en": "«Málaga» drops a good deal further: twenty-nine degrees for the high and twenty for the low.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí el cielo está poco nuboso y el viento viene del sureste,",
+   "en": "There the sky is mostly clear and the wind comes from the south-east,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a diez kilómetros por hora.",
+   "en": "at ten kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En las tres ciudades el índice ultravioleta máximo es de seis.",
+   "en": "In all three cities the maximum ultraviolet index is six.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es Andalucía.",
+   "en": "That is «Andalucía».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 3,
+ "handover": "junction",
+ "title_en": "Today's weather, Andalusia, Tuesday 22 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Andalucía",
+ "accent": "Andalucía",
+ "accent_label": "acento de Andalucía",
+ "segment_order": 1,
+ "headline_en": "Córdoba: high cloud from midday and no rain, 37 degrees and a low of 16",
+ "summary_en": [
+  "Córdoba: high cloud from midday and no rain, 37 degrees and a low of 16",
+  "Sevilla: high cloud and a light north-easterly, 36 degrees and a low of 19"
+ ]
+}

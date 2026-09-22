@@ -1,0 +1,189 @@
+{
+ "title": "Le sport, mardi 22 septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-22",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Sur les terrains, le football:",
+   "en": "On the pitches, football:",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Zinédine Zidane a dirigé sa première séance d'entraînement comme sélectionneur des Bleus,",
+   "en": "«Zinédine Zidane» took his first training session as manager of the France team,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "lundi à Clairefontaine.",
+   "en": "on Monday at «Clairefontaine».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "France Télévisions décrit une séance suivie par de nombreuses caméras,",
+   "en": "«France Télévisions» describes a session watched by a great many cameras,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "trois jours après l'annonce de son premier groupe.",
+   "en": "three days after he announced his first squad.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le nouveau sélectionneur dirigera son premier match vendredi vingt-cinq septembre, en Turquie.",
+   "en": "The new manager will take charge of his first match on Friday 25th September, in Turkey.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au programme aussi, le biathlon: d'après L'Équipe,",
+   "en": "On the programme too, winter sport: according to «L'Équipe»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Émilien Jacquelin fera l'impasse sur la prochaine saison pour se consacrer au cyclisme.",
+   "en": "«Émilien Jacquelin» is going to skip the coming season to concentrate on cycling.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'athlète, trente et un ans, est stagiaire au sein de l'équipe Decathlon-CMA CGM depuis avril,",
+   "en": "The biathlete, thirty-one, has been a trainee with the «Decathlon-CMA CGM» team since April,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et se projette toujours sur les Jeux olympiques d'hiver de deux mille trente.",
+   "en": "and is still looking ahead to the 2030 winter Olympic Games.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'annonce a été faite dans une vidéo publiée par la Fédération française de ski.",
+   "en": "The announcement came in a video published by the French ski federation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Enfin, la gouvernance du football:",
+   "en": "Lastly, football governance:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le président de la Fifa, Gianni Infantino,",
+   "en": "the president of FIFA, «Gianni Infantino»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "propose une consultation des fédérations pour réformer le fonctionnement de l'instance.",
+   "en": "is proposing a consultation of the federations to reform the way the body works.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La proposition arrive près de deux mois après l'abandon d'un projet de société commerciale ouverte à des investisseurs privés.",
+   "en": "The proposal comes nearly two months after an abandoned plan for a commercial company open to private investors.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Tuesday 22 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Zidane takes his first France training session at Clairefontaine",
+ "summary_en": [
+  "Zidane takes his first France training session at Clairefontaine",
+  "Emilien Jacquelin skips the coming biathlon season to concentrate on cycling"
+ ]
+}

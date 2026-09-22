@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-BE",
+ "date": "2026-09-22",
+ "episodes": [
+  {
+   "id": "fr-BE-Le sept heures, mardi 22 septembre",
+   "file": "podcast-daily-2026-09-22-morning-news-fr-BE.json",
+   "bytes": 7666,
+   "sha256": "dbb1157c5c83e940aba6fff708c114d21a15eb95f6758e3aeb4983adf0798258",
+   "date": "2026-09-22",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, mardi 22 septembre",
+   "title_en": "The morning news, Tuesday 22 September",
+   "headline_en": "Trump signs a security accord with Greenland and Denmark at the United Nations",
+   "summary_en": [
+    "Trump signs a security accord with Greenland and Denmark at the United Nations",
+    "Air traffic controllers' strike at Charleroi airport runs on, with dozens of Wednesday flights cancelled",
+    "The European Union lifts sanctions on two Russian oligarchs, with Belgium abstaining"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, mardi 22 septembre",
+   "file": "podcast-daily-2026-09-22-morning-weather-fr-BE.json",
+   "bytes": 5085,
+   "sha256": "b91bc424c650458269671895c41a9932b5473ed273b5556c654e32da779784cc",
+   "date": "2026-09-22",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, mardi 22 septembre",
+   "title_en": "Today's weather, Tuesday 22 September",
+   "headline_en": "Drought is set to persist in Wallonia until the end of September",
+   "summary_en": [
+    "Drought is set to persist in Wallonia until the end of September",
+    "Brussels reaches 20 degrees with scattered cloud, low 9, no rain expected"
+   ]
+  }
+ ],
+ "content": "2015edd88983094d37fb569d332fa20b30b9f6e58119478162581c4e600b0a35",
+ "rev": 1,
+ "updated": "2026-09-22T20:39:53.395Z"
+}

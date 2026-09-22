@@ -1,0 +1,229 @@
+{
+ "title": "Los deportes, martes 22 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-sport",
+   "wpm": 208,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-09-22",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "La selección española de fútbol se reencontró este martes",
+   "en": "The Spain football squad gathered again this Tuesday at the «Ciudad del Fútbol»",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en la Ciudad del Fútbol de Las Rozas.",
+   "en": "in «Las Rozas».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Era su primer entrenamiento del parón de selecciones,",
+   "en": "It was their first training session of the international break,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y la instalación se quedó pequeña.",
+   "en": "and the ground was not big enough.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "AS habla de más de dos mil personas y de colas",
+   "en": "«AS» speaks of more than two thousand people and of queues",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "formadas desde por la mañana.",
+   "en": "formed from the morning on.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Mundo eleva esa espera a siete horas,",
+   "en": "«El Mundo» puts that wait at seven hours,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con más de treinta grados.",
+   "en": "in more than thirty degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Luis de la Fuente afronta un ciclo nuevo al frente del equipo,",
+   "en": "«Luis de la Fuente» begins a new cycle in charge of the team,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con un contrato de larga duración.",
+   "en": "on a long-term contract.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por otra parte, el presidente de LaLiga, Javier Tebas,",
+   "en": "On another matter, the president of «LaLiga», «Javier Tebas»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "criticó hoy las quejas arbitrales del Real Madrid.",
+   "en": "criticised Real Madrid's refereeing complaints today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Vanguardia recogió su frase:",
+   "en": "«La Vanguardia» carried his words:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "es más cómodo señalar una conspiración que explicar lo que ocurre en el césped.",
+   "en": "it is more comfortable to point to a conspiracy than to explain what happens on the pitch.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para ABC, Tebas presentó esos lamentos como una coartada del club.",
+   "en": "For «ABC», «Tebas» presented those complaints as an alibi for the club.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El Real Madrid respondió con un comunicado en el que consideraba intolerables esas declaraciones.",
+   "en": "Real Madrid replied with a statement calling his remarks intolerable.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pedía además un nuevo presidente para LaLiga,",
+   "en": "It also asked for a new «LaLiga» president,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "capaz de administrarla con neutralidad.",
+   "en": "one able to administer it with neutrality.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Tebas volvió a contestar más tarde.",
+   "en": "«Tebas» answered back again later.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí los deportes.",
+   "en": "That's it for the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Tuesday 22 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "The Spain squad reassembles at Las Rozas for the international break, and the crowds queue from morning",
+ "summary_en": [
+  "The Spain squad reassembles at Las Rozas for the international break, and the crowds queue from morning",
+  "LaLiga president Tebas and Real Madrid trade statements over the club's refereeing complaints"
+ ]
+}

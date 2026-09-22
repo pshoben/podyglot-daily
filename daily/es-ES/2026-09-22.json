@@ -1,0 +1,112 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-ES",
+ "date": "2026-09-22",
+ "episodes": [
+  {
+   "id": "es-ES-El informativo de la mañana, martes 22 de septiembre",
+   "file": "podcast-daily-2026-09-22-morning-news-es-ES.json",
+   "bytes": 9128,
+   "sha256": "bd57ad45795da93e29a10e848912ba8df96a92e5d3bfdb60f63cfef1fa77beef",
+   "date": "2026-09-22",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, martes 22 de septiembre",
+   "title_en": "The morning news, Tuesday 22 September",
+   "headline_en": "Washington, Copenhagen and Nuuk sign the Greenland security pact, opening two more American bases on the island",
+   "summary_en": [
+    "Washington, Copenhagen and Nuuk sign the Greenland security pact, opening two more American bases on the island",
+    "Sánchez says Morocco's border control failed at Ceuta and that Spain has asked Rabat for answers",
+    "The Constitutional Court majority rejects the draft ruling against amnestying the procés leaders' embezzlement"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, martes 22 de septiembre",
+   "file": "podcast-daily-2026-09-22-morning-sport-es-ES.json",
+   "bytes": 5538,
+   "sha256": "5f1ae83a971ce17a3960a5f67adb827c8c30103c94e4e006968fcf35971ba782",
+   "date": "2026-09-22",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, martes 22 de septiembre",
+   "title_en": "Today's sport, Tuesday 22 September",
+   "headline_en": "The Spain squad reassembles at Las Rozas for the international break, and the crowds queue from morning",
+   "summary_en": [
+    "The Spain squad reassembles at Las Rozas for the international break, and the crowds queue from morning",
+    "LaLiga president Tebas and Real Madrid trade statements over the club's refereeing complaints"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, martes 22 de septiembre",
+   "file": "podcast-daily-2026-09-22-morning-weather-es-ES.json",
+   "bytes": 4659,
+   "sha256": "cc6d411268bfb5b148adcf1195fd7eccfba9a7157eb665f9432c638844bb80a3",
+   "date": "2026-09-22",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, martes 22 de septiembre",
+   "title_en": "Today's weather, Tuesday 22 September",
+   "headline_en": "Madrid: a mostly clear sky and a light north-easterly, 33 degrees and a low of 19",
+   "summary_en": [
+    "Madrid: a mostly clear sky and a light north-easterly, 33 degrees and a low of 19",
+    "Barcelona: a clear sky and a southerly at 15 kilometres an hour, 29 degrees and a low of 21"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, martes 22 de septiembre",
+   "file": "podcast-daily-2026-09-22-morning-weather-andalucia-es-ES.json",
+   "bytes": 3953,
+   "sha256": "5f491dafc288620c5c38ea522666463492259ad9148c23a1a0970315a9149a07",
+   "date": "2026-09-22",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, martes 22 de septiembre",
+   "title_en": "Today's weather, Andalusia, Tuesday 22 September",
+   "headline_en": "Córdoba: high cloud from midday and no rain, 37 degrees and a low of 16",
+   "summary_en": [
+    "Córdoba: high cloud from midday and no rain, 37 degrees and a low of 16",
+    "Sevilla: high cloud and a light north-easterly, 36 degrees and a low of 19"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, martes 22 de septiembre",
+   "file": "podcast-daily-2026-09-22-morning-weather-canarias-es-ES.json",
+   "bytes": 4651,
+   "sha256": "597f52b924f3ca7195f342bdd34f4efaf41f1e572242db76967bf5a2a5a7cabe",
+   "date": "2026-09-22",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, martes 22 de septiembre",
+   "title_en": "Today's weather, Canary Islands, Tuesday 22 September",
+   "headline_en": "AEMET has a yellow high-temperature warning in force today on Fuerteventura and across eastern, southern and western Gran Canaria",
+   "summary_en": [
+    "AEMET has a yellow high-temperature warning in force today on Fuerteventura and across eastern, southern and western Gran Canaria",
+    "Las Palmas de Gran Canaria: cloudy spells, a northerly at 25 kilometres an hour, 28 degrees and a low of 24"
+   ]
+  }
+ ],
+ "content": "a3e51e044f5f3b113375e98fd5d6d265d000eefd58190ba401774d9341c26cbb",
+ "rev": 1,
+ "updated": "2026-09-22T20:39:53.395Z"
+}

@@ -1,0 +1,183 @@
+{
+ "title": "El tiempo, martes 22 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather",
+   "wpm": 208,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-22",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "En el cielo de Madrid, hoy,",
+   "en": "In the sky over «Madrid», today,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "algunas nubes y ni una gota de lluvia, según la Aemet.",
+   "en": "some cloud and not a drop of rain, according to «Aemet».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La capital llega a treinta y tres grados y se queda en diecinueve de mínima.",
+   "en": "The capital reaches thirty-three degrees and stops at nineteen for its low.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sopla viento del nordeste, flojo, a cinco kilómetros por hora.",
+   "en": "A north-easterly blows, light, at five kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Barcelona no pasa de veintinueve grados, con el cielo despejado.",
+   "en": "«Barcelona» goes no higher than twenty-nine degrees, with a clear sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Deja además la mínima en veintiuno.",
+   "en": "It also leaves its low at twenty-one.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y el viento del sur alcanza allí quince kilómetros por hora.",
+   "en": "And the southerly there gets up to fifteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "València comparte esa velocidad del viento, aunque venga del nordeste.",
+   "en": "«València» shares that wind speed, though its wind comes from the north-east.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Treinta grados de máxima en la ciudad, diecisiete de mínima y algunas nubes.",
+   "en": "Thirty degrees for the high in the city, seventeen for the low, and some cloud.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hacia el noroeste, A Coruña no supera los veintitrés grados.",
+   "en": "Away to the north-west, «A Coruña» does not get past twenty-three degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cielo despejado también allí, y viento flojo del norte.",
+   "en": "A clear sky there too, and a light northerly.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Bilbao se mueve entre trece y veintisiete grados,",
+   "en": "«Bilbao» moves between thirteen and twenty-seven degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sin nubes y sin lluvia.",
+   "en": "with no cloud and no rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En las dos ciudades del norte el índice ultravioleta se queda en cinco.",
+   "en": "In the two northern cities the ultraviolet index stays at five.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí el tiempo.",
+   "en": "That's it for the national forecast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Tuesday 22 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "España",
+ "accent": "Castilla",
+ "accent_label": "acento de Castilla",
+ "segment_order": 0,
+ "headline_en": "Madrid: a mostly clear sky and a light north-easterly, 33 degrees and a low of 19",
+ "summary_en": [
+  "Madrid: a mostly clear sky and a light north-easterly, 33 degrees and a low of 19",
+  "Barcelona: a clear sky and a southerly at 15 kilometres an hour, 29 degrees and a low of 21"
+ ]
+}

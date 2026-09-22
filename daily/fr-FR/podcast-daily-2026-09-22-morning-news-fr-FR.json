@@ -1,0 +1,370 @@
+{
+ "title": "Le journal du matin, mardi 22 septembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-09-22",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Mardi vingt-deux septembre. Le journal du matin.",
+   "en": "Tuesday 22nd September. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À l'Assemblée générale des Nations unies,",
+   "en": "At the United Nations General Assembly,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Emmanuel Macron met en garde contre un retour de la loi de la jungle.",
+   "en": "Emmanuel Macron warns against a return of the law of the jungle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et en France, le gouvernement présente ses nouvelles aides sur les carburants.",
+   "en": "And in France, the government sets out fresh aid on fuel.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par New York.",
+   "en": "We start with New York.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le président français s'est exprimé ce mardi à la tribune de l'Organisation des Nations unies.",
+   "en": "The French president spoke today at the tribune of the United Nations.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a appelé à se tenir droit aux côtés des Nations unies,",
+   "en": "He called to stand upright alongside the United Nations,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "face à ce qu'il a décrit comme un retour de la loi de la jungle.",
+   "en": "against what he described as a return of the law of the jungle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sur Gaza,",
+   "en": "On «Gaza»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "il a dénoncé une prétendue paix et un spectacle qui nous fait honte à tous.",
+   "en": "he denounced a so-called peace and a spectacle that shames us all.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Télégramme retient aussi son appel à une intelligence artificielle alternative,",
+   "en": "«Le Télégramme» also picks out his call for an alternative artificial intelligence,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qui ne dépende ni des États-Unis ni de la Chine.",
+   "en": "one that depends on neither the United States nor China.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre sujet maintenant, la crise des carburants en France:",
+   "en": "Turning to something else, the fuel crisis in France:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le gouvernement a présenté ce mardi de nouvelles mesures pour les ménages et pour les professionnels.",
+   "en": "the government today set out new measures for households and for the self-employed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon France Télévisions, le plafond de la prime carburant versée par les employeurs",
+   "en": "According to «France Télévisions», the ceiling on the fuel premium paid by employers",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "passe de six cents à mille euros par an.",
+   "en": "goes up from six hundred to a thousand euros a year.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'après Libération, l'aide aux grands rouleurs,",
+   "en": "According to «Libération», the aid for high mileage drivers,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un chèque de cent euros,",
+   "en": "a cheque for a hundred euros,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "est prolongée et élargie à cinq virgule cinq millions de Français.",
+   "en": "is being extended and widened to five point five million French people.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un bonus territoires ruralité de quatre-vingts euros",
+   "en": "A rural areas bonus of eighty euros",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "est par ailleurs accordé à plus de vingt-cinq mille infirmières.",
+   "en": "is also being granted to more than twenty-five thousand nurses.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité, Donald Trump s'est exprimé lui aussi devant l'Assemblée générale.",
+   "en": "In other news, Donald Trump also spoke to the General Assembly.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sud Ouest rapporte la signature d'un accord de sécurité entre les États-Unis, le Danemark et le Groenland,",
+   "en": "«Sud Ouest» reports the signing of a security accord between the United States, Denmark and Greenland,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en marge de la réunion de New York.",
+   "en": "on the margins of the New York meeting.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à autre chose, la santé:",
+   "en": "Moving on, health:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le nombre d'interruptions volontaires de grossesse a augmenté de près de trois pour cent en deux mille vingt-cinq,",
+   "en": "the number of terminations of pregnancy rose by close to three per cent in 2025,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon les données du ministère de la Santé.",
+   "en": "according to health ministry figures.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Plus de deux cent cinquante mille interventions ont été enregistrées l'an passé.",
+   "en": "More than two hundred and fifty thousand procedures were recorded last year.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour finir, l'historien franco-israélien Lucien Lazare est mort à Jérusalem,",
+   "en": "And finally, the French Israeli historian «Lucien Lazare» has died in Jerusalem,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à l'âge de cent un ans.",
+   "en": "at the age of a hundred and one.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ancien résistant, né en mille neuf cent vingt-quatre à Strasbourg,",
+   "en": "A former resistance fighter, born in 1924 in «Strasbourg»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "il avait combattu dans la compagnie Marc Haguenau.",
+   "en": "he had fought in the «Marc Haguenau» company.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il siégeait à la commission de désignation des Justes parmi les nations du mémorial de la Shoah Yad Vashem.",
+   "en": "He sat on the designation commission for the Righteous Among the Nations at the «Yad Vashem» Holocaust memorial.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 22 September",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Macron warns the UN General Assembly against a return of the law of the jungle",
+ "summary_en": [
+  "Macron warns the UN General Assembly against a return of the law of the jungle",
+  "The French government sets out a new package of fuel measures",
+  "Macron denounces a spectacle that shames us all over Gaza"
+ ]
+}

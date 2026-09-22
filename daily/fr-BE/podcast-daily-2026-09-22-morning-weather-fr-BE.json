@@ -1,0 +1,209 @@
+{
+ "title": "Le temps chez nous, mardi 22 septembre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-weather",
+   "wpm": 222,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-09-22",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "La pluie se fait toujours attendre en Belgique, écrit la RTBF.",
+   "en": "Belgium is still waiting for rain, «RTBF» writes.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon la Cellule sécheresse, la sécheresse persistera en Wallonie",
+   "en": "According to the drought unit, the drought will persist in Wallonia",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "jusqu'à la fin du mois, rapporte 7sur7.",
+   "en": "until the end of the month, «7sur7» reports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Quelques pluies récentes sont tombées, mais inégalement réparties.",
+   "en": "Some rain has fallen recently, but unevenly spread.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "D'après le modèle du Centre européen, l'ECMWF,",
+   "en": "On the European Centre model, the ECMWF,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Bruxelles monte à vingt degrés aujourd'hui, sous des nuages épars.",
+   "en": "Brussels climbs to twenty degrees today, under scattered cloud.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le minimum y descend à neuf degrés,",
+   "en": "The low there drops to nine degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et la probabilité de précipitation est nulle.",
+   "en": "and the chance of rain is nil.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent y atteint dix kilomètres par heure au plus fort.",
+   "en": "The wind there reaches ten kilometres an hour at its strongest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Liège reste à dix-neuf degrés au maximum, sous un ciel couvert,",
+   "en": "«Liège» stays at nineteen degrees at most, under an overcast sky,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec huit degrés au plus bas.",
+   "en": "with eight degrees at the lowest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Zéro pour cent de probabilité de précipitation là aussi,",
+   "en": "Zero per cent chance of rain there as well,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et un vent maximal de dix kilomètres par heure.",
+   "en": "and a maximum wind of ten kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Namur affiche le même maximum de dix-neuf degrés,",
+   "en": "«Namur» shows the same high of nineteen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "également sous un ciel couvert, et le même plancher de huit degrés.",
+   "en": "also under an overcast sky, and the same floor of eight degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent namurois plafonne à onze kilomètres par heure,",
+   "en": "The wind in «Namur» tops out at eleven kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et la probabilité de précipitation y reste nulle.",
+   "en": "and the chance of rain there stays nil.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le temps chez nous.",
+   "en": "That is the weather here at home.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Tuesday 22 September",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Drought is set to persist in Wallonia until the end of September",
+ "summary_en": [
+  "Drought is set to persist in Wallonia until the end of September",
+  "Brussels reaches 20 degrees with scattered cloud, low 9, no rain expected"
+ ]
+}

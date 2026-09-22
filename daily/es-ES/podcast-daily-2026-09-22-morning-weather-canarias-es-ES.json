@@ -1,0 +1,183 @@
+{
+ "title": "El tiempo en Canarias, martes 22 de septiembre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-canarias",
+   "wpm": 208,
+   "rate_multiplier": 0.86,
+   "pitch_multiplier": 0.59
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-canarias",
+ "date": "2026-09-22",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Ojo en Canarias: la Aemet mantiene hoy aviso amarillo por altas temperaturas.",
+   "en": "Watch out in «Canarias»: «Aemet» has a yellow warning for high temperatures in force today.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cubre Fuerteventura y el este, el sur y el oeste de Gran Canaria.",
+   "en": "It covers «Fuerteventura» and the east, the south and the west of «Gran Canaria».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Empieza a las once de la mañana y termina antes de las siete de la tarde.",
+   "en": "It starts at eleven in the morning and ends before seven in the evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Las Palmas de Gran Canaria,",
+   "en": "In «Las Palmas de Gran Canaria»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la máxima se queda en veintiocho grados.",
+   "en": "the high stops at twenty-eight degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La mínima no baja de veinticuatro,",
+   "en": "The low does not drop below twenty-four,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y el viento del norte sopla a veinticinco kilómetros por hora.",
+   "en": "and the northerly blows at twenty-five kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Intervalos nubosos, con un diez por ciento de probabilidad de lluvia.",
+   "en": "Cloudy spells, with a ten per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Santa Cruz de Tenerife sube hasta los treinta grados,",
+   "en": "«Santa Cruz de Tenerife» climbs to thirty degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con el cielo poco nuboso.",
+   "en": "with a mostly clear sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Veintitrés de mínima allí, y el mismo viento del norte,",
+   "en": "Twenty-three for the low there, and the same northerly,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "aunque a diez kilómetros por hora.",
+   "en": "though at ten kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su probabilidad de lluvia se queda en el cinco por ciento.",
+   "en": "Its chance of rain stops at five per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El índice ultravioleta llega a ocho en las dos capitales.",
+   "en": "The ultraviolet index reaches eight in both capitals.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es Canarias.",
+   "en": "That is «Canarias».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 4,
+ "handover": "junction",
+ "title_en": "Today's weather, Canary Islands, Tuesday 22 September",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Canarias",
+ "accent": "Canarias",
+ "accent_label": "acento de Canarias",
+ "segment_order": 2,
+ "headline_en": "AEMET has a yellow high-temperature warning in force today on Fuerteventura and across eastern, southern and western Gran Canaria",
+ "summary_en": [
+  "AEMET has a yellow high-temperature warning in force today on Fuerteventura and across eastern, southern and western Gran Canaria",
+  "Las Palmas de Gran Canaria: cloudy spells, a northerly at 25 kilometres an hour, 28 degrees and a low of 24"
+ ]
+}

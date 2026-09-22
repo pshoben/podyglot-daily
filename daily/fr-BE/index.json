@@ -5,6 +5,47 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-BE-Le sept heures, mardi 22 septembre",
+   "file": "podcast-daily-2026-09-22-morning-news-fr-BE.json",
+   "bytes": 7666,
+   "sha256": "dbb1157c5c83e940aba6fff708c114d21a15eb95f6758e3aeb4983adf0798258",
+   "date": "2026-09-22",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, mardi 22 septembre",
+   "title_en": "The morning news, Tuesday 22 September",
+   "headline_en": "Trump signs a security accord with Greenland and Denmark at the United Nations",
+   "summary_en": [
+    "Trump signs a security accord with Greenland and Denmark at the United Nations",
+    "Air traffic controllers' strike at Charleroi airport runs on, with dozens of Wednesday flights cancelled",
+    "The European Union lifts sanctions on two Russian oligarchs, with Belgium abstaining"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, mardi 22 septembre",
+   "file": "podcast-daily-2026-09-22-morning-weather-fr-BE.json",
+   "bytes": 5085,
+   "sha256": "b91bc424c650458269671895c41a9932b5473ed273b5556c654e32da779784cc",
+   "date": "2026-09-22",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, mardi 22 septembre",
+   "title_en": "Today's weather, Tuesday 22 September",
+   "headline_en": "Drought is set to persist in Wallonia until the end of September",
+   "summary_en": [
+    "Drought is set to persist in Wallonia until the end of September",
+    "Brussels reaches 20 degrees with scattered cloud, low 9, no rain expected"
+   ]
+  },
+  {
    "id": "fr-BE-Le sept heures, lundi 21 septembre",
    "file": "podcast-daily-2026-09-21-morning-news-fr-BE.json",
    "bytes": 7985,
@@ -287,66 +328,6 @@
    "summary_en": [
     "Drizzle over Liège, a high of 18 degrees and an 80 per cent risk of rain",
     "Namur reaches 19 degrees under drizzle, with rain only 41 per cent likely"
-   ]
-  },
-  {
-   "id": "fr-BE-Le sept heures, mardi 8 septembre",
-   "file": "podcast-daily-2026-09-08-morning-news-fr-BE.json",
-   "bytes": 9801,
-   "sha256": "39045129ed16b5e2b2a2579d9dea8741400cf2735e9a93216720a1fa598589f8",
-   "date": "2026-09-08",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le sept heures, mardi 8 septembre",
-   "title_en": "The morning news, Tuesday 8 September",
-   "headline_en": "Russia resumes air attacks on Kyiv as the three-day pause around the American visit ends",
-   "summary_en": [
-    "Russia resumes air attacks on Kyiv as the three-day pause around the American visit ends",
-    "PISA: scores fall in science, maths and reading, but French-speaking Belgium gains on its neighbours",
-    "At least two dead and seven injured in the overnight strikes on Kyiv, local military authorities say"
-   ]
-  },
-  {
-   "id": "fr-BE-Le sport chez nous, mardi 8 septembre",
-   "file": "podcast-daily-2026-09-08-morning-sport-fr-BE.json",
-   "bytes": 3929,
-   "sha256": "b10b1e3e48c9112d02179f3c0cf398643afaf3d517b60d9e3b86148f8fdc34e6",
-   "date": "2026-09-08",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le sport chez nous, mardi 8 septembre",
-   "title_en": "Today's sport, Tuesday 8 September",
-   "headline_en": "Football: Club Bruges open their Champions League campaign at home to Aston Villa this evening",
-   "summary_en": [
-    "Football: Club Bruges open their Champions League campaign at home to Aston Villa this evening"
-   ]
-  },
-  {
-   "id": "fr-BE-Le temps chez nous, mardi 8 septembre",
-   "file": "podcast-daily-2026-09-08-morning-weather-fr-BE.json",
-   "bytes": 4993,
-   "sha256": "d3c2190bf7195a09299a1e05f744760388705ccfa0352e9c78312d99733d8790",
-   "date": "2026-09-08",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le temps chez nous, mardi 8 septembre",
-   "title_en": "Today's weather, Tuesday 8 September",
-   "headline_en": "Brussels under drizzle, 22 degrees at best and rain 86 per cent likely",
-   "summary_en": [
-    "Brussels under drizzle, 22 degrees at best and rain 86 per cent likely",
-    "Light rain over Namur, up to 24 degrees, rain 84 per cent likely"
    ]
   }
  ]
