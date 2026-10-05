@@ -1,0 +1,380 @@
+{
+ "title": "Le journal du matin, lundi 5 octobre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-10-05",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lundi cinq octobre. Le journal du matin.",
+   "en": "Monday 5th October. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au Brésil, le candidat d'extrême droite Flavio Bolsonaro",
+   "en": "In Brazil, the far-right candidate «Flavio Bolsonaro»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "devance le président Lula au premier tour de l'élection présidentielle.",
+   "en": "is ahead of President «Lula» in the first round of the presidential election.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des centaines de lycées français restent perturbés ce lundi,",
+   "en": "Hundreds of French high schools remain disrupted this Monday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à la veille d'une nouvelle journée de mobilisation.",
+   "en": "on the eve of a new day of protest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par le Brésil, où Flavio Bolsonaro,",
+   "en": "We start with Brazil, where «Flavio Bolsonaro»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "fils de l'ancien président Jair Bolsonaro,",
+   "en": "the son of former president «Jair Bolsonaro»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a obtenu quarante-sept pour cent des voix dimanche, d'après Le Monde.",
+   "en": "won forty-seven per cent of the vote on Sunday, according to «Le Monde».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le chef de l'État sortant, qui brigue un quatrième mandat,",
+   "en": "The outgoing head of state, who is seeking a fourth term,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en a recueilli quarante-cinq pour cent.",
+   "en": "took forty-five per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, quatre cent treize établissements ont été perturbés depuis le début de la journée,",
+   "en": "In France, four hundred and thirteen schools have been disrupted since the start of the day,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon le ministère de l'Éducation nationale.",
+   "en": "according to the Ministry of Education.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Vendredi à la même heure,",
+   "en": "At the same time on Friday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "il en comptait cinq cent soixante-quatre.",
+   "en": "it counted five hundred and sixty-four.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Premier ministre, Sébastien Lecornu,",
+   "en": "The prime minister, «Sébastien Lecornu»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a présenté dimanche cinq chantiers pour répondre à la colère des lycéens.",
+   "en": "set out five areas of work on Sunday to respond to the anger of high school students.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il a promis des décisions avant la fin du mois.",
+   "en": "He promised decisions before the end of the month.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Figaro relève que les syndicats lycéens appellent à manifester mardi partout en France,",
+   "en": "«Le Figaro» notes that the high school unions are calling for protests on Tuesday across France,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et que l'intersyndicale de l'Éducation nationale sera à leurs côtés.",
+   "en": "and that the joint education unions will be at their side.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité, deux migrants sont morts en tentant de traverser la Manche,",
+   "en": "In other news, two migrants have died trying to cross the Channel,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "rapporte France Télévisions.",
+   "en": "«France Télévisions» reports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La tentative a eu lieu dans la nuit de dimanche à lundi,",
+   "en": "The attempt took place during the night from Sunday to Monday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à Berck, dans le Pas-de-Calais.",
+   "en": "at «Berck», in the «Pas-de-Calais».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Deux femmes victimes de brûlures ont aussi été prises en charge par les secours.",
+   "en": "Two women with burns were also taken into care by the emergency services.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Libération rappelle que, depuis le début de l'année,",
+   "en": "«Libération» recalls that since the start of the year,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "au moins vingt-quatre personnes sont mortes en mer à la frontière franco-britannique.",
+   "en": "at least twenty-four people have died at sea on the Franco-British border.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Toujours en France, une personne sur dix risque de tomber dans la précarité alimentaire d'ici dix ans,",
+   "en": "Still in France, one person in ten is at risk of falling into food poverty within ten years,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon une étude publiée ce lundi.",
+   "en": "according to a study published this Monday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cette étude repose sur les données des Restos du cœur,",
+   "en": "The study is based on data from the «Restos du cœur»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la plus grande association d'aide alimentaire du pays, précise RFI.",
+   "en": "the country's largest food aid charity, «RFI» says.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour finir, la science:",
+   "en": "And finally, science:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le prix Nobel de médecine a été décerné aujourd'hui à trois chercheurs, écrit Le Télégramme.",
+   "en": "the «Nobel» Prize in medicine was awarded today to three researchers, «Le Télégramme» writes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il récompense l'Américain Karl Deisseroth et les Allemands Peter Hegemann et Georg Nagel, pour l'optogénétique.",
+   "en": "It goes to the American «Karl Deisseroth» and the Germans «Peter Hegemann» and «Georg Nagel», for optogenetics.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cette technique éclaire la manière dont les cellules nerveuses façonnent les souvenirs, les émotions et les comportements.",
+   "en": "This technique sheds light on the way nerve cells shape memories, emotions and behaviour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Monday 5 October",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Brazil: far-right candidate Flavio Bolsonaro leads President Lula after the first round",
+ "summary_en": [
+  "Brazil: far-right candidate Flavio Bolsonaro leads President Lula after the first round",
+  "Hundreds of French high schools disrupted on Monday, on the eve of a new day of protest",
+  "Two migrants die during a Channel crossing attempt at Berck, in the Pas-de-Calais"
+ ]
+}

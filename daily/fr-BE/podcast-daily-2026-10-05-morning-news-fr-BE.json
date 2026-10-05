@@ -1,0 +1,380 @@
+{
+ "title": "Le sept heures, lundi 5 octobre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-news",
+   "wpm": 222,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-10-05",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lundi cinq octobre. Le sept heures.",
+   "en": "Monday 5th October. The seven o'clock news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des législatives anticipées en Espagne:",
+   "en": "Snap general elections in Spain:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pedro Sánchez fixe le scrutin au vingt-neuf novembre.",
+   "en": "«Pedro Sánchez» sets the vote for 29th November.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et à Liège, la manifestation des élèves est tendue.",
+   "en": "And in «Liège», the pupils' demonstration is tense.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On ouvre avec ce scrutin anticipé: d'après Le Vif,",
+   "en": "We open with that early vote: according to «Le Vif»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le Premier ministre espagnol l'a annoncé ce lundi matin.",
+   "en": "the Spanish prime minister announced it this Monday morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'annonce survient après le rejet au Parlement de deux propositions de loi,",
+   "en": "The announcement comes after parliament rejected two bills,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sur fond de crise du logement.",
+   "en": "amid a housing crisis.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour La Libre,",
+   "en": "For «La Libre»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le chef du gouvernement espagnol remet son mandat entre les mains des électeurs.",
+   "en": "the head of the Spanish government is putting his mandate in the voters' hands.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre dossier maintenant, la colère des élèves:",
+   "en": "Another matter now, the pupils' anger:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon la RTBF, les tensions persistent en région liégeoise, malgré la réouverture des écoles.",
+   "en": "according to «RTBF», tensions persist in the «Liège» region, despite the schools reopening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les réformes de la ministre de l'Éducation, Valérie Glatigny, sont au cœur de cette colère.",
+   "en": "Education minister «Valérie Glatigny»'s reforms are at the heart of that anger.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le centre de Liège,",
+   "en": "In the centre of «Liège»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la rue Hors-Château a été fermée.",
+   "en": "the «rue Hors-Château» was closed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Libre fait état de jets de pétards et de lancers d'œufs.",
+   "en": "«La Libre» reports firecrackers and eggs being thrown.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Plusieurs lycéens français se sont joints aux manifestants belges, ajoute le quotidien.",
+   "en": "Several French secondary pupils joined the Belgian demonstrators, the paper adds.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La police de Liège a procédé à dix arrestations administratives dans la matinée,",
+   "en": "The «Liège» police made ten administrative arrests during the morning,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un bilan provisoire, rapporte 7sur7.",
+   "en": "a provisional count, «7sur7» reports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On enchaîne avec le budget bruxellois:",
+   "en": "Moving on to the Brussels budget:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Vif note que le gouvernement régional a conclu un accord dimanche soir.",
+   "en": "«Le Vif» notes that the regional government reached an agreement on Sunday evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cet accord prolonge le gel des recrutements et réforme la fiscalité automobile.",
+   "en": "That agreement extends the hiring freeze and reforms car taxation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mais La Libre parle d'un imbroglio:",
+   "en": "But «La Libre» describes an imbroglio:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le président du MR, Georges-Louis Bouchez, menace de bloquer ce budget.",
+   "en": "«MR» president «Georges-Louis Bouchez» is threatening to block that budget.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ailleurs dans l'actu, le budget fédéral:",
+   "en": "Elsewhere in the news, the federal budget:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la RTBF signale que les négociations ont été ajournées sans accord.",
+   "en": "«RTBF» reports that the negotiations have been adjourned without agreement.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Prochain rendez-vous: mercredi matin.",
+   "en": "Next meeting: Wednesday morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.97
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Vif précise que les travaux se poursuivront en intercabinets dans les prochains jours.",
+   "en": "«Le Vif» says the work will go on in inter-cabinet meetings over the next few days.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour terminer, un chercheur américain et deux Allemands",
+   "en": "To finish, an American researcher and two Germans",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "se partagent le prix Nobel de médecine, écrit 7sur7.",
+   "en": "share the «Nobel» Prize in medicine, «7sur7» writes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Libre relève que Karl Deisseroth, Peter Hegemann et Georg Nagel",
+   "en": "«La Libre» notes that «Karl Deisseroth», «Peter Hegemann» and «Georg Nagel»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sont récompensés pour leurs découvertes sur le cerveau.",
+   "en": "are rewarded for their discoveries about the brain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce prix, le premier de la saison des Nobel,",
+   "en": "This prize, the first of the «Nobel» season,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "distingue des travaux sur le fonctionnement du système nerveux.",
+   "en": "honours work on how the nervous system functions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà où nous en sommes.",
+   "en": "That is where things stand.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Monday 5 October",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "Spain's prime minister Pedro Sánchez calls snap general elections for 29th November",
+ "summary_en": [
+  "Spain's prime minister Pedro Sánchez calls snap general elections for 29th November",
+  "Pupils' protest in Liège is tense on Monday, as tensions persist across the region",
+  "Liège police make ten administrative arrests during Monday's pupils' protests, a provisional count"
+ ]
+}

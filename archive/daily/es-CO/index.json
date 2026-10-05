@@ -3,8 +3,130 @@
  "channel": "daily",
  "dialect": "es-CO",
  "base": "https://pshoben.github.io/podyglot-daily/archive/",
- "archived_before": "2026-09-09",
+ "archived_before": "2026-09-22",
  "episodes": [
+  {
+   "id": "es-CO-La actualidad de la mañana, domingo 13 de septiembre",
+   "file": "podcast-daily-2026-09-13-morning-news-es-CO.json",
+   "bytes": 17414,
+   "sha256": "fc3e4907739186716ee66dd24f7828b57c830e9db5a43905e730c607bf721ab1",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "La actualidad de la mañana, domingo 13 de septiembre",
+   "title_en": "The morning news, Sunday 13 September",
+   "headline_en": "Anthropic's chief asks AI companies to slow down, and the heads of OpenAI and xAI say they agree",
+   "summary_en": [
+    "Anthropic's chief asks AI companies to slow down, and the heads of OpenAI and xAI say they agree",
+    "Search and rescue is under way for a light aircraft missing on the Condoto to Guaymaral route with five people on board",
+    "Trump hits back at the calls to slow artificial intelligence down"
+   ]
+  },
+  {
+   "id": "es-CO-La jornada deportiva, domingo 13 de septiembre",
+   "file": "podcast-daily-2026-09-13-morning-sport-es-CO.json",
+   "bytes": 6786,
+   "sha256": "60728d91a74f8c0c07b2ccd351a1d63dbd2d6cff8a4f9683f7b4f231bf0d29ed",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "La jornada deportiva, domingo 13 de septiembre",
+   "title_en": "Today's sport, Sunday 13 September",
+   "headline_en": "James Rodriguez is presented as an Atletico Nacional player at the Atanasio Girardot",
+   "summary_en": [
+    "James Rodriguez is presented as an Atletico Nacional player at the Atanasio Girardot",
+    "James Rodriguez says the Junior talks are in the past, and returns to Colombian football after 18 years"
+   ]
+  },
+  {
+   "id": "es-CO-El clima de hoy, domingo 13 de septiembre",
+   "file": "podcast-daily-2026-09-13-morning-weather-es-CO.json",
+   "bytes": 5280,
+   "sha256": "c0d83f0caab502e823c4774bb87aaf2bba6919503a783ea2ff5a57344060088c",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "El clima de hoy, domingo 13 de septiembre",
+   "title_en": "Today's weather, Sunday 13 September",
+   "headline_en": "Ideam expects rain to intensify in the Andean, Caribbean and Pacific regions through the day",
+   "summary_en": [
+    "Ideam expects rain to intensify in the Andean, Caribbean and Pacific regions through the day",
+    "Bogotá runs between 11 and 19 degrees, with drizzle and a 100 per cent chance of rain"
+   ]
+  },
+  {
+   "id": "es-CO-La actualidad de la mañana, miércoles 9 de septiembre",
+   "file": "podcast-daily-2026-09-09-morning-news-es-CO.json",
+   "bytes": 14147,
+   "sha256": "957011133f5397a28d246902752258533184f5c81a912809b9c19ddb24bf2020",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "La actualidad de la mañana, miércoles 9 de septiembre",
+   "title_en": "The morning news, Wednesday 9 September",
+   "headline_en": "Brent crude back in three figures as the United States and Iran escalate, after Washington confirms five Iranian tankers destroyed",
+   "summary_en": [
+    "Brent crude back in three figures as the United States and Iran escalate, after Washington confirms five Iranian tankers destroyed",
+    "De La Espriella and Marco Rubio agree the Barranquilla Accords, and a new stage of cooperation",
+    "Government says lifting the gun-carry suspension is not free carry, and Indumil's website crashes"
+   ]
+  },
+  {
+   "id": "es-CO-La jornada deportiva, miércoles 9 de septiembre",
+   "file": "podcast-daily-2026-09-09-morning-sport-es-CO.json",
+   "bytes": 4701,
+   "sha256": "5e9ed613f449805daab61cfcec3af8c2cb42d9ba9492fee3f2a8bdb60610afe0",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "La jornada deportiva, miércoles 9 de septiembre",
+   "title_en": "Today's sport, Wednesday 9 September",
+   "headline_en": "Deportivo Pasto host Independiente Medellin tonight in the Copa BetPlay",
+   "summary_en": [
+    "Deportivo Pasto host Independiente Medellin tonight in the Copa BetPlay",
+    "Sporting Lisbon host Galatasaray in the Champions League, with a Colombian on each side"
+   ]
+  },
+  {
+   "id": "es-CO-El clima de hoy, miércoles 9 de septiembre",
+   "file": "podcast-daily-2026-09-09-morning-weather-es-CO.json",
+   "bytes": 4607,
+   "sha256": "3c5102e58ebcf6d8128bf59258ddfc2de8825e815d024fce6574b25731e50c9f",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CO",
+   "region_label": "Colombia",
+   "title": "El clima de hoy, miércoles 9 de septiembre",
+   "title_en": "Today's weather, Wednesday 9 September",
+   "headline_en": "Cali: drizzle, a 94 per cent chance of rain and a high of 30 degrees",
+   "summary_en": [
+    "Cali: drizzle, a 94 per cent chance of rain and a high of 30 degrees",
+    "Bogotá runs between 12 and 21 degrees, with drizzle and rain almost certain at 97 per cent"
+   ]
+  },
   {
    "id": "es-CO-La actualidad de la mañana, martes 8 de septiembre",
    "file": "podcast-daily-2026-09-08-morning-news-es-CO.json",

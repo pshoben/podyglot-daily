@@ -1,0 +1,112 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "es-ES",
+ "date": "2026-10-05",
+ "episodes": [
+  {
+   "id": "es-ES-El informativo de la mañana, lunes 5 de octubre",
+   "file": "podcast-daily-2026-10-05-morning-news-es-ES.json",
+   "bytes": 8791,
+   "sha256": "83af54b3ecaf67823eab0c52702958a5e9aa75d5adf13b23cdd163cab63eaded",
+   "date": "2026-10-05",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El informativo de la mañana, lunes 5 de octubre",
+   "title_en": "The morning news, Monday 5 October",
+   "headline_en": "Brazil: Senator Flávio Bolsonaro beats President Lula da Silva in the first round, and the two meet again in a run-off on 25th October",
+   "summary_en": [
+    "Brazil: Senator Flávio Bolsonaro beats President Lula da Silva in the first round, and the two meet again in a run-off on 25th October",
+    "Spain's prime minister, Pedro Sánchez, calls an early general election for 29th November",
+    "Madrid's High Court refuses the Ayuso government's request for an immediate eviction of the Puerta del Sol housing protest camp"
+   ]
+  },
+  {
+   "id": "es-ES-Los deportes, lunes 5 de octubre",
+   "file": "podcast-daily-2026-10-05-morning-sport-es-ES.json",
+   "bytes": 4862,
+   "sha256": "055999d19cdf8310830b9df33f416d14f08aef0a3197278ee91e3c448807a18b",
+   "date": "2026-10-05",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "Los deportes, lunes 5 de octubre",
+   "title_en": "Today's sport, Monday 5 October",
+   "headline_en": "Cycling: Ángel Arroyo, who revived Spanish enthusiasm for the Tour de France in the 1980s, has died aged 70",
+   "summary_en": [
+    "Cycling: Ángel Arroyo, who revived Spanish enthusiasm for the Tour de France in the 1980s, has died aged 70",
+    "Football: the Copa del Rey begins today with the draw for its first round"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo, lunes 5 de octubre",
+   "file": "podcast-daily-2026-10-05-morning-weather-es-ES.json",
+   "bytes": 4953,
+   "sha256": "1ae8829a511ad2df849221fa5e47fc022c8faa7b207a15e3d5fc9f21b269a004",
+   "date": "2026-10-05",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": 0,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo, lunes 5 de octubre",
+   "title_en": "Today's weather, Monday 5 October",
+   "headline_en": "AEMET orange warning today for rain and storms in parts of Toledo and Cáceres, from 5pm to the end of the day",
+   "summary_en": [
+    "AEMET orange warning today for rain and storms in parts of Toledo and Cáceres, from 5pm to the end of the day",
+    "Madrid region: AEMET yellow warning for rain and storms from 5pm until midnight"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Andalucía, lunes 5 de octubre",
+   "file": "podcast-daily-2026-10-05-morning-weather-andalucia-es-ES.json",
+   "bytes": 3540,
+   "sha256": "6e1c7471aca281748268046f189c5185c36db6c5bb30ba2eba51a0b42638e746",
+   "date": "2026-10-05",
+   "edition": "morning",
+   "programme": "weather-andalucia",
+   "programme_order": 3,
+   "segment_order": 1,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Andalucía, lunes 5 de octubre",
+   "title_en": "Today's weather, Andalusia, Monday 5 October",
+   "headline_en": "Córdoba: 32 degrees and a 100 per cent chance of rain under a mostly cloudy sky, with a low of 17",
+   "summary_en": [
+    "Córdoba: 32 degrees and a 100 per cent chance of rain under a mostly cloudy sky, with a low of 17",
+    "Storms and broken cloud in Sevilla, a south-westerly at 35 km/h, a high of 32 and a low of 19"
+   ]
+  },
+  {
+   "id": "es-ES-El tiempo en Canarias, lunes 5 de octubre",
+   "file": "podcast-daily-2026-10-05-morning-weather-canarias-es-ES.json",
+   "bytes": 3663,
+   "sha256": "21ff0870271f432335ac3ffe8864807d42b7cac9134d458f6e905fa474d4b470",
+   "date": "2026-10-05",
+   "edition": "morning",
+   "programme": "weather-canarias",
+   "programme_order": 4,
+   "segment_order": 2,
+   "region": "es-ES",
+   "region_label": "España",
+   "title": "El tiempo en Canarias, lunes 5 de octubre",
+   "title_en": "Today's weather, Canary Islands, Monday 5 October",
+   "headline_en": "Las Palmas de Gran Canaria: cloudy with light rain, an 80 per cent chance of rain, a high of 27 and a low of 23",
+   "summary_en": [
+    "Las Palmas de Gran Canaria: cloudy with light rain, an 80 per cent chance of rain, a high of 27 and a low of 23",
+    "Broken cloud over Santa Cruz de Tenerife, a 45 per cent chance of rain, and temperatures from 22 to 28"
+   ]
+  }
+ ],
+ "content": "7df5edc58aea608a7c1d457c53af8fb4f744e3894aad3851b23353891f860aee",
+ "rev": 1,
+ "updated": "2026-10-05T11:32:52.484Z"
+}

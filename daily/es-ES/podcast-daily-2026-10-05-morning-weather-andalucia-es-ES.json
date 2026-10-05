@@ -1,0 +1,133 @@
+{
+ "title": "El tiempo en Andalucía, lunes 5 de octubre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-andalucia",
+   "wpm": 208,
+   "rate_multiplier": 0.73,
+   "pitch_multiplier": 0.79
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-andalucia",
+ "date": "2026-10-05",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "De acuerdo con la Aemet,",
+   "en": "According to «Aemet»,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Córdoba combina hoy treinta y dos grados con una probabilidad de lluvia del cien por cien.",
+   "en": "«Córdoba» today combines thirty-two degrees with a one hundred per cent chance of rain.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sobre la ciudad califal, muchas nubes y diecisiete grados de mínima.",
+   "en": "Over «Córdoba», a lot of cloud and a low of seventeen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Sevilla, los mismos treinta y dos grados vienen con intervalos nubosos y tormenta.",
+   "en": "In «Sevilla», the same thirty-two degrees come with broken cloud and a storm.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Treinta y cinco kilómetros por hora:",
+   "en": "Thirty-five kilometres an hour:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "es la velocidad del viento del suroeste en la capital hispalense.",
+   "en": "that is the speed of the south-westerly in «Sevilla».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí, el termómetro no descenderá de diecinueve grados.",
+   "en": "There, the thermometer will not drop below nineteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Málaga, en la costa, recibirá poca lluvia entre nubes abundantes.",
+   "en": "«Málaga», on the coast, will get little rain among plenty of cloud.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Veintiuno de mínima y veintiocho de máxima completan el día malagueño.",
+   "en": "A low of twenty-one and a high of twenty-eight round off the day in «Málaga».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es Andalucía.",
+   "en": "That is «Andalucía».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 3,
+ "handover": "junction",
+ "title_en": "Today's weather, Andalusia, Monday 5 October",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Andalucía",
+ "accent": "Andalucía",
+ "accent_label": "acento de Andalucía",
+ "segment_order": 1,
+ "headline_en": "Córdoba: 32 degrees and a 100 per cent chance of rain under a mostly cloudy sky, with a low of 17",
+ "summary_en": [
+  "Córdoba: 32 degrees and a 100 per cent chance of rain under a mostly cloudy sky, with a low of 17",
+  "Storms and broken cloud in Sevilla, a south-westerly at 35 km/h, a high of 32 and a low of 19"
+ ]
+}

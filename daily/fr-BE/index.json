@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-BE-Le sept heures, lundi 5 octobre",
+   "file": "podcast-daily-2026-10-05-morning-news-fr-BE.json",
+   "bytes": 9591,
+   "sha256": "2a1c7286a11ad8bdb9f37cc3f123ef6ed55aa333c8ada0312c1e4b24708d0285",
+   "date": "2026-10-05",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, lundi 5 octobre",
+   "title_en": "The morning news, Monday 5 October",
+   "headline_en": "Spain's prime minister Pedro Sánchez calls snap general elections for 29th November",
+   "summary_en": [
+    "Spain's prime minister Pedro Sánchez calls snap general elections for 29th November",
+    "Pupils' protest in Liège is tense on Monday, as tensions persist across the region",
+    "Liège police make ten administrative arrests during Monday's pupils' protests, a provisional count"
+   ]
+  },
+  {
+   "id": "fr-BE-Le sport chez nous, lundi 5 octobre",
+   "file": "podcast-daily-2026-10-05-morning-sport-fr-BE.json",
+   "bytes": 4473,
+   "sha256": "35d62330fb15543fde2f4952cda57d8bf6a10a2005079d35644d6b9a9bef751c",
+   "date": "2026-10-05",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sport chez nous, lundi 5 octobre",
+   "title_en": "Today's sport, Monday 5 October",
+   "headline_en": "Football: Belgium's Red Devils face France at the Stade de France tonight, without De Bruyne and Tielemans",
+   "summary_en": [
+    "Football: Belgium's Red Devils face France at the Stade de France tonight, without De Bruyne and Tielemans",
+    "Football: Mika Godts, just signed by PSG, says he is fit and ready to start a fourth match for Belgium"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, lundi 5 octobre",
+   "file": "podcast-daily-2026-10-05-morning-weather-fr-BE.json",
+   "bytes": 5834,
+   "sha256": "e65ff8faa53dd158c66dcb1c0a48093049795154fffb06d174c7b6b2606fc3f4",
+   "date": "2026-10-05",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, lundi 5 octobre",
+   "title_en": "Today's weather, Monday 5 October",
+   "headline_en": "The Royal Meteorological Institute's yellow fog warning covers the area north of the Sambre and Meuse valley, overnight and on Monday morning",
+   "summary_en": [
+    "The Royal Meteorological Institute's yellow fog warning covers the area north of the Sambre and Meuse valley, overnight and on Monday morning",
+    "Namur on the ECMWF model: a high of 21 degrees, a low of 9 and no rain expected"
+   ]
+  },
+  {
    "id": "fr-BE-Le sept heures, mardi 22 septembre",
    "file": "podcast-daily-2026-09-22-morning-news-fr-BE.json",
    "bytes": 7666,
@@ -43,291 +104,6 @@
    "summary_en": [
     "Drought is set to persist in Wallonia until the end of September",
     "Brussels reaches 20 degrees with scattered cloud, low 9, no rain expected"
-   ]
-  },
-  {
-   "id": "fr-BE-Le sept heures, lundi 21 septembre",
-   "file": "podcast-daily-2026-09-21-morning-news-fr-BE.json",
-   "bytes": 7985,
-   "sha256": "f496e154ada5a342f4c6194b90d3e1320f0562ddb3c7bedaac355f09b5428cf1",
-   "date": "2026-09-21",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le sept heures, lundi 21 septembre",
-   "title_en": "The morning news, Monday 21 September",
-   "headline_en": "Chancellor Friedrich Merz's CDU is beaten in both of Germany's weekend regional elections",
-   "summary_en": [
-    "Chancellor Friedrich Merz's CDU is beaten in both of Germany's weekend regional elections",
-    "Diesel at the pump crosses 2.50 euros a litre in Belgium from Tuesday",
-    "Vladimir Putin's party is given as the winner of Russia's parliamentary elections"
-   ]
-  },
-  {
-   "id": "fr-BE-Le sport chez nous, lundi 21 septembre",
-   "file": "podcast-daily-2026-09-21-morning-sport-fr-BE.json",
-   "bytes": 4218,
-   "sha256": "3c70b6d975d5841d26d2d9ef6f142f4d8593252bcfd9ad8fc069ba15f6b9cd8b",
-   "date": "2026-09-21",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le sport chez nous, lundi 21 septembre",
-   "title_en": "Today's sport, Monday 21 September",
-   "headline_en": "Football: Mark van Bommel's first Red Devils squad has four matches in eleven days",
-   "summary_en": [
-    "Football: Mark van Bommel's first Red Devils squad has four matches in eleven days"
-   ]
-  },
-  {
-   "id": "fr-BE-Le temps chez nous, lundi 21 septembre",
-   "file": "podcast-daily-2026-09-21-morning-weather-fr-BE.json",
-   "bytes": 5022,
-   "sha256": "218a069295adb15d2cb66a540d786ca8bbf50d61283cf31ec107d5010f6a6e96",
-   "date": "2026-09-21",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le temps chez nous, lundi 21 septembre",
-   "title_en": "Today's weather, Monday 21 September",
-   "headline_en": "A sunny Monday and seasonal temperatures in Belgium, with cloud gaining ground inland",
-   "summary_en": [
-    "A sunny Monday and seasonal temperatures in Belgium, with cloud gaining ground inland",
-    "Brussels on the ECMWF model: a high of 19 degrees, a low of 9, no chance of rain and wind to 9 kilometres an hour"
-   ]
-  },
-  {
-   "id": "fr-BE-Le sept heures, dimanche 20 septembre",
-   "file": "podcast-daily-2026-09-20-morning-news-fr-BE.json",
-   "bytes": 10284,
-   "sha256": "0895b16eae2de0875e33b2e66a79f769f778145278e7d4c1caa2b90d18db29b4",
-   "date": "2026-09-20",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le sept heures, dimanche 20 septembre",
-   "title_en": "The morning news, Sunday 20 September",
-   "headline_en": "Germany votes in two regional elections, in Berlin and Mecklenburg-Western Pomerania",
-   "summary_en": [
-    "Germany votes in two regional elections, in Berlin and Mecklenburg-Western Pomerania",
-    "A night fire in an Anderlecht block forces around sixty residents out, and crews find serious fire-safety failings",
-    "Iran passes the United States its conditions for reopening the Strait of Hormuz"
-   ]
-  },
-  {
-   "id": "fr-BE-Le sport chez nous, dimanche 20 septembre",
-   "file": "podcast-daily-2026-09-20-morning-sport-fr-BE.json",
-   "bytes": 5664,
-   "sha256": "55d7b8e9b351be4130cf12cd328eff7103362ce2621d50d0a6354b0ed5c4dd7f",
-   "date": "2026-09-20",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le sport chez nous, dimanche 20 septembre",
-   "title_en": "Today's sport, Sunday 20 September",
-   "headline_en": "Cycling: Remco Evenepoel rides the world time trial in Montreal this evening",
-   "summary_en": [
-    "Cycling: Remco Evenepoel rides the world time trial in Montreal this evening",
-    "Football: Paris Saint-Germain president Nasser al-Khelaifi faces a French conflict-of-interest inquiry"
-   ]
-  },
-  {
-   "id": "fr-BE-Le temps chez nous, dimanche 20 septembre",
-   "file": "podcast-daily-2026-09-20-morning-weather-fr-BE.json",
-   "bytes": 5432,
-   "sha256": "847ebc4d788b17dfa6aac3297693092e7333f5d005acdb4b792c7418d55aefea",
-   "date": "2026-09-20",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le temps chez nous, dimanche 20 septembre",
-   "title_en": "Today's weather, Sunday 20 September",
-   "headline_en": "The Royal Meteorological Institute forecast a rain band crossing Belgium from north-west to south-east",
-   "summary_en": [
-    "The Royal Meteorological Institute forecast a rain band crossing Belgium from north-west to south-east",
-    "Drizzle over Liège all day on the ECMWF model, a high of 19 degrees and a low of 12"
-   ]
-  },
-  {
-   "id": "fr-BE-Le sept heures, mardi 15 septembre",
-   "file": "podcast-daily-2026-09-15-morning-news-fr-BE.json",
-   "bytes": 7604,
-   "sha256": "b2a72f1997b2f6417be32ccc8e71ddc8857286d514ca155e2f911879d67501b8",
-   "date": "2026-09-15",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le sept heures, mardi 15 septembre",
-   "title_en": "The morning news, Tuesday 15 September",
-   "headline_en": "NATO shoots down a drone over Lithuania",
-   "summary_en": [
-    "NATO shoots down a drone over Lithuania",
-    "The Matonge drug-dealing mega-trial opens in Brussels",
-    "Revolut shared several hundred customers' personal data with a fraudster, Belgians among them"
-   ]
-  },
-  {
-   "id": "fr-BE-Le temps chez nous, mardi 15 septembre",
-   "file": "podcast-daily-2026-09-15-morning-weather-fr-BE.json",
-   "bytes": 5329,
-   "sha256": "e9ddccea16c88e717eb686014164c0544753da146b023263669e606ed2bc2cd2",
-   "date": "2026-09-15",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le temps chez nous, mardi 15 septembre",
-   "title_en": "Today's weather, Tuesday 15 September",
-   "headline_en": "Belgium's Royal Meteorological Institute forecasts a fairly sunny, warmer Tuesday",
-   "summary_en": [
-    "Belgium's Royal Meteorological Institute forecasts a fairly sunny, warmer Tuesday",
-    "ECMWF model: Namur up to 29 degrees, with a low of 16"
-   ]
-  },
-  {
-   "id": "fr-BE-Le sept heures, lundi 14 septembre",
-   "file": "podcast-daily-2026-09-14-morning-news-fr-BE.json",
-   "bytes": 8878,
-   "sha256": "d4d3ac8450f173667dbf8f4771eaca36aa4d05a224748bc083314e56df33d0f9",
-   "date": "2026-09-14",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le sept heures, lundi 14 septembre",
-   "title_en": "The morning news, Monday 14 September",
-   "headline_en": "France puts forward a new version of its social media ban for under-fifteens",
-   "summary_en": [
-    "France puts forward a new version of its social media ban for under-fifteens",
-    "The province of East Flanders dismisses a teacher over her headscarf",
-    "A finance department note suggests taxing the non-profit sector"
-   ]
-  },
-  {
-   "id": "fr-BE-Le temps chez nous, lundi 14 septembre",
-   "file": "podcast-daily-2026-09-14-morning-weather-fr-BE.json",
-   "bytes": 5297,
-   "sha256": "d26a0b1a48bff4821a9b190ced434e29fe12f5d398eeeabd11cfe3a26b6d8119",
-   "date": "2026-09-14",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le temps chez nous, lundi 14 septembre",
-   "title_en": "Today's weather, Monday 14 September",
-   "headline_en": "Monday forecast for Belgium from the IRM, 14th September",
-   "summary_en": [
-    "Monday forecast for Belgium from the IRM, 14th September",
-    "Monday forecast for Bruxelles, 14th September"
-   ]
-  },
-  {
-   "id": "fr-BE-Le sept heures, dimanche 13 septembre",
-   "file": "podcast-daily-2026-09-13-morning-news-fr-BE.json",
-   "bytes": 7674,
-   "sha256": "23c6aedab1ebe2de0d468894064512eb5d33b7c1171c28905a8c7937803d1a29",
-   "date": "2026-09-13",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le sept heures, dimanche 13 septembre",
-   "title_en": "The morning news, Sunday 13 September",
-   "headline_en": "Polling stations are open in Sweden for a knife-edge election",
-   "summary_en": [
-    "Polling stations are open in Sweden for a knife-edge election",
-    "A drone was spotted over Brussels Airport for a second evening running",
-    "The controller saw the drone both by eye and on the systems"
-   ]
-  },
-  {
-   "id": "fr-BE-Le temps chez nous, dimanche 13 septembre",
-   "file": "podcast-daily-2026-09-13-morning-weather-fr-BE.json",
-   "bytes": 4845,
-   "sha256": "12e0eed15398f042b5fa3229990c35304b2bcdb25d9a64914cd0da6fb15333a4",
-   "date": "2026-09-13",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le temps chez nous, dimanche 13 septembre",
-   "title_en": "Today's weather, Sunday 13 September",
-   "headline_en": "Sunday forecast for Bruxelles, 13th September",
-   "summary_en": [
-    "Sunday forecast for Bruxelles, 13th September",
-    "Sunday forecast for Namur, 13th September"
-   ]
-  },
-  {
-   "id": "fr-BE-Le sept heures, mercredi 9 septembre",
-   "file": "podcast-daily-2026-09-09-morning-news-fr-BE.json",
-   "bytes": 9497,
-   "sha256": "0e0ca59229503e5d7bc0d15f0c05f04a443e21788858b65fb828a69e54c07490",
-   "date": "2026-09-09",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le sept heures, mercredi 9 septembre",
-   "title_en": "The morning news, Wednesday 9 September",
-   "headline_en": "The American military attacks an Iranian tanker near Kharg, and Iran strikes Jordan",
-   "summary_en": [
-    "The American military attacks an Iranian tanker near Kharg, and Iran strikes Jordan",
-    "The mobility budget becomes compulsory on 1st January for firms of fifty or more, and only 13.5 per cent offer one",
-    "Belgian politicians react to Alternative for Germany's win in Saxony-Anhalt, and Trump calls it a very good evening"
-   ]
-  },
-  {
-   "id": "fr-BE-Le temps chez nous, mercredi 9 septembre",
-   "file": "podcast-daily-2026-09-09-morning-weather-fr-BE.json",
-   "bytes": 4334,
-   "sha256": "2ec0ed003ac658b0907e957cb5208b898aaf4c5f2c92783a1e7ffb97209c7e0f",
-   "date": "2026-09-09",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le temps chez nous, mercredi 9 septembre",
-   "title_en": "Today's weather, Wednesday 9 September",
-   "headline_en": "Drizzle over Liège, a high of 18 degrees and an 80 per cent risk of rain",
-   "summary_en": [
-    "Drizzle over Liège, a high of 18 degrees and an 80 per cent risk of rain",
-    "Namur reaches 19 degrees under drizzle, with rain only 41 per cent likely"
    ]
   }
  ]

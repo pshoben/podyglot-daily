@@ -3,8 +3,129 @@
  "channel": "daily",
  "dialect": "fr-CA",
  "base": "https://pshoben.github.io/podyglot-daily/archive/",
- "archived_before": "2026-09-09",
+ "archived_before": "2026-09-22",
  "episodes": [
+  {
+   "id": "fr-CA-Le bulletin du matin, dimanche 13 septembre",
+   "file": "podcast-daily-2026-09-13-morning-news-fr-CA.json",
+   "bytes": 12421,
+   "sha256": "748e555f33aeedf67d786c127c30efdfab9a39a4c5b6039e8404bc34a5dfeedd",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin du matin, dimanche 13 septembre",
+   "title_en": "The morning news, Sunday 13 September",
+   "headline_en": "Trump argues for a unified Ireland on a visit that was to have been about golf",
+   "summary_en": [
+    "Trump argues for a unified Ireland on a visit that was to have been about golf",
+    "The Quebec Liberals put out a financial framework their leader calls prudent, not austere",
+    "Day eighteen of the Quebec campaign turns on financial frameworks and violence against women"
+   ]
+  },
+  {
+   "id": "fr-CA-Le sport d'ici, dimanche 13 septembre",
+   "file": "podcast-daily-2026-09-13-morning-sport-fr-CA.json",
+   "bytes": 4242,
+   "sha256": "fae27174ef58b56982814771018262cf34306f25f38f6c1c4519afae19a61520",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le sport d'ici, dimanche 13 septembre",
+   "title_en": "Today's sport, Sunday 13 September",
+   "headline_en": "Zachary Bolduc agrees a four-year contract with the Canadiens",
+   "summary_en": [
+    "Zachary Bolduc agrees a four-year contract with the Canadiens",
+    "The Bolduc deal is worth an average of four point two million dollars a season"
+   ]
+  },
+  {
+   "id": "fr-CA-Le bulletin météo, dimanche 13 septembre",
+   "file": "podcast-daily-2026-09-13-morning-weather-fr-CA.json",
+   "bytes": 4976,
+   "sha256": "0ed31f67b0368c3b3484a5b1573ad21e87336a3e09fd62c566f572e0a19b2e35",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin météo, dimanche 13 septembre",
+   "title_en": "Today's weather, Sunday 13 September",
+   "headline_en": "Sunday forecast for Montréal, 13th September",
+   "summary_en": [
+    "Sunday forecast for Montréal, 13th September",
+    "Sunday forecast for Québec, 13th September"
+   ]
+  },
+  {
+   "id": "fr-CA-Le bulletin du matin, mercredi 9 septembre",
+   "file": "podcast-daily-2026-09-09-morning-news-fr-CA.json",
+   "bytes": 8756,
+   "sha256": "0d56f34c4554b3b79e1ae6462b3a46f4096cfa91302aae0e031aa135116cef2b",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin du matin, mercredi 9 septembre",
+   "title_en": "The morning news, Wednesday 9 September",
+   "headline_en": "Iran's Revolutionary Guards say they struck an American base in Jordan and some twenty boats in the Gulf",
+   "summary_en": [
+    "Iran's Revolutionary Guards say they struck an American base in Jordan and some twenty boats in the Gulf",
+    "The Canada-United States trade war steps up a notch as Trump bars imports of some Canadian goods",
+    "Iran says it captured one of the American military's most modern underwater drones at the entrance to the Strait of Hormuz"
+   ]
+  },
+  {
+   "id": "fr-CA-Le sport d'ici, mercredi 9 septembre",
+   "file": "podcast-daily-2026-09-09-morning-sport-fr-CA.json",
+   "bytes": 4051,
+   "sha256": "640b6d7412579821e03beed3ad094c1f82aee9c98a2e1524444f22bd5f1bf0db",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le sport d'ici, mercredi 9 septembre",
+   "title_en": "Today's sport, Wednesday 9 September",
+   "headline_en": "Cycling: the Grand Prix cycliste de Quebec runs on Friday without Tadej Pogacar, and Remco Evenepoel has arrived in Quebec",
+   "summary_en": [
+    "Cycling: the Grand Prix cycliste de Quebec runs on Friday without Tadej Pogacar, and Remco Evenepoel has arrived in Quebec"
+   ]
+  },
+  {
+   "id": "fr-CA-Le bulletin météo, mercredi 9 septembre",
+   "file": "podcast-daily-2026-09-09-morning-weather-fr-CA.json",
+   "bytes": 5033,
+   "sha256": "9a6d02522cfc67a19dee4a17009a98c7ac0d255ef303f475cd51f71be06d0c36",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-CA",
+   "region_label": "Québec",
+   "title": "Le bulletin météo, mercredi 9 septembre",
+   "title_en": "Today's weather, Wednesday 9 September",
+   "headline_en": "Montreal: heavy showers, a high of 25 degrees and a low of 14, and a 100 per cent chance of rain",
+   "summary_en": [
+    "Montreal: heavy showers, a high of 25 degrees and a low of 14, and a 100 per cent chance of rain",
+    "Quebec City: light rain, a high of 23 degrees and a low of 11, and a 90 per cent chance of rain"
+   ]
+  },
   {
    "id": "fr-CA-Le bulletin du matin, mardi 8 septembre",
    "file": "podcast-daily-2026-09-08-morning-news-fr-CA.json",

@@ -3,8 +3,90 @@
  "channel": "daily",
  "dialect": "es-CL",
  "base": "https://pshoben.github.io/podyglot-daily/archive/",
- "archived_before": "2026-09-09",
+ "archived_before": "2026-09-22",
  "episodes": [
+  {
+   "id": "es-CL-Las noticias de la mañana, domingo 13 de septiembre",
+   "file": "podcast-daily-2026-09-13-morning-news-es-CL.json",
+   "bytes": 12140,
+   "sha256": "48477086b8270bfee7546c6fe4c000c112298ec8a707a1c0082ac293c1e0188c",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "Las noticias de la mañana, domingo 13 de septiembre",
+   "title_en": "The morning news, Sunday 13 September",
+   "headline_en": "Trump says he would like to see a unified Ireland, and Dublin plays the remarks down",
+   "summary_en": [
+    "Trump says he would like to see a unified Ireland, and Dublin plays the remarks down",
+    "President Kast takes part in his first evangelical Te Deum and calls for national unity",
+    "The care home that burned in Pitrufquén was operating without authorisation"
+   ]
+  },
+  {
+   "id": "es-CL-El estado del tiempo, domingo 13 de septiembre",
+   "file": "podcast-daily-2026-09-13-morning-weather-es-CL.json",
+   "bytes": 5065,
+   "sha256": "5ec3e3d3e44525c82265b3150adec2537821ec0f1000448caff43bd5414eb93e",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "El estado del tiempo, domingo 13 de septiembre",
+   "title_en": "Today's weather, Sunday 13 September",
+   "headline_en": "Sunday forecast for Santiago, 13th September",
+   "summary_en": [
+    "Sunday forecast for Santiago, 13th September",
+    "Sunday forecast for Valparaíso, 13th September"
+   ]
+  },
+  {
+   "id": "es-CL-Las noticias de la mañana, miércoles 9 de septiembre",
+   "file": "podcast-daily-2026-09-09-morning-news-es-CL.json",
+   "bytes": 8791,
+   "sha256": "15f61e49450859e9baea25933e7419b1490368e6703e6751a9dec0a4792e6636",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "Las noticias de la mañana, miércoles 9 de septiembre",
+   "title_en": "The morning news, Wednesday 9 September",
+   "headline_en": "Chile's foreign ministry summons the United States ambassador over his claim that US intelligence blames the 2019 unrest on left-wing organisations",
+   "summary_en": [
+    "Chile's foreign ministry summons the United States ambassador over his claim that US intelligence blames the 2019 unrest on left-wing organisations",
+    "Chile's August inflation comes in at 0.6 per cent, above what analysts projected, and the opposition turns on President Kast's economic team",
+    "Chile's electoral court rejects by three votes to two a request to remove Santiago's metropolitan governor Claudio Orrego"
+   ]
+  },
+  {
+   "id": "es-CL-El estado del tiempo, miércoles 9 de septiembre",
+   "file": "podcast-daily-2026-09-09-morning-weather-es-CL.json",
+   "bytes": 4573,
+   "sha256": "fa3f5a6384942fc9c1e9d58c409f7ada7658bae00827fcf0c7b8526eb1aa78d7",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "es-CL",
+   "region_label": "Chile",
+   "title": "El estado del tiempo, miércoles 9 de septiembre",
+   "title_en": "Today's weather, Wednesday 9 September",
+   "headline_en": "Cloud over Santiago on Wednesday, a 49 per cent chance of rain and a high of 17 degrees",
+   "summary_en": [
+    "Cloud over Santiago on Wednesday, a 49 per cent chance of rain and a high of 17 degrees",
+    "Cloud over Valparaíso on Wednesday, a 43 per cent chance of rain and a high of 19 degrees"
+   ]
+  },
   {
    "id": "es-CL-Las noticias de la mañana, martes 8 de septiembre",
    "file": "podcast-daily-2026-09-08-morning-news-es-CL.json",

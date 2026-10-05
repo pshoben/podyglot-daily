@@ -1,0 +1,143 @@
+{
+ "title": "El tiempo en Canarias, lunes 5 de octubre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather-canarias",
+   "wpm": 208,
+   "rate_multiplier": 0.86,
+   "pitch_multiplier": 0.59
+  }
+ },
+ "channel": "daily",
+ "programme": "weather-canarias",
+ "date": "2026-10-05",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Algo de lluvia asoma hoy por Las Palmas de Gran Canaria,",
+   "en": "A little rain shows up today over «Las Palmas de Gran Canaria»,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "bajo un cielo nuboso, según la Aemet.",
+   "en": "under a cloudy sky, according to «Aemet».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Las posibilidades de que llueva son del ochenta por ciento.",
+   "en": "The chances of it raining are eighty per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La máxima de la capital grancanaria: veintisiete grados.",
+   "en": "The high in the capital of «Gran Canaria»: twenty-seven degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Del norte procede un viento de veinte kilómetros por hora.",
+   "en": "From the north comes a wind of twenty kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Santa Cruz de Tenerife cambia ese cielo por intervalos nubosos.",
+   "en": "«Santa Cruz de Tenerife» swaps that sky for broken cloud.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La capital tinerfeña gana un grado de máxima, hasta veintiocho,",
+   "en": "The capital of «Tenerife» gains a degree in its high, up to twenty-eight,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con una mínima de veintidós.",
+   "en": "with a low of twenty-two.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Allí el viento es del este, con idéntica fuerza.",
+   "en": "There the wind is from the east, with the same strength.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para la lluvia, menos opciones: un cuarenta y cinco por ciento.",
+   "en": "For rain, the odds are lower: forty-five per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Eso es Canarias.",
+   "en": "That is «Canarias».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 4,
+ "handover": "junction",
+ "title_en": "Today's weather, Canary Islands, Monday 5 October",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "Canarias",
+ "accent": "Canarias",
+ "accent_label": "acento de Canarias",
+ "segment_order": 2,
+ "headline_en": "Las Palmas de Gran Canaria: cloudy with light rain, an 80 per cent chance of rain, a high of 27 and a low of 23",
+ "summary_en": [
+  "Las Palmas de Gran Canaria: cloudy with light rain, an 80 per cent chance of rain, a high of 27 and a low of 23",
+  "Broken cloud over Santa Cruz de Tenerife, a 45 per cent chance of rain, and temperatures from 22 to 28"
+ ]
+}

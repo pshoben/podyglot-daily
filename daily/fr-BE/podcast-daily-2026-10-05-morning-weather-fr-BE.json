@@ -1,0 +1,229 @@
+{
+ "title": "Le temps chez nous, lundi 5 octobre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-weather",
+   "wpm": 222,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-10-05",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Pour une grande partie du pays,",
+   "en": "For a large part of the country,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "une alerte jaune au brouillard a été émise par l'Institut royal météorologique.",
+   "en": "a yellow fog warning has been issued by the Royal Meteorological Institute.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le brouillard devait limiter la visibilité au nord du sillon Sambre et Meuse,",
+   "en": "Fog was expected to limit visibility north of the «Sambre» and Meuse valley,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans la nuit de dimanche à lundi et en matinée.",
+   "en": "overnight from Sunday into Monday and during the morning.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La DH prévoit pour ce lundi matin de larges éclaircies,",
+   "en": "«DH» forecasts wide sunny spells for this Monday morning,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "mais aussi de la brume et du brouillard dans certaines régions.",
+   "en": "but also mist and fog in some regions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les chiffres du modèle du Centre européen, l'ECMWF,",
+   "en": "The figures from the European Centre model, the ECMWF,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "placent aujourd'hui Namur à vingt et un degrés au plus haut.",
+   "en": "put «Namur» today at twenty-one degrees at most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au plus bas, Namur s'en tient à neuf degrés, sans pluie au programme.",
+   "en": "At its lowest, «Namur» holds at nine degrees, with no rain on the cards.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent n'y excède pas six kilomètres par heure.",
+   "en": "The wind there does not go above six kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Liège, le maximum est identique, vingt et un degrés,",
+   "en": "In «Liège», the high is the same, twenty-one degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le minimum dépasse d'un degré celui de Namur, à dix degrés.",
+   "en": "and the low is one degree above «Namur»'s, at ten degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Même plafond de vent qu'à Namur, six kilomètres par heure,",
+   "en": "The same ceiling for the wind as in «Namur», six kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et pas une goutte de pluie en vue.",
+   "en": "and not a drop of rain in sight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Bruxelles se contente d'un maximum de vingt degrés,",
+   "en": "Brussels settles for a high of twenty degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un de moins qu'à Namur et Liège.",
+   "en": "one below «Namur» and «Liège».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le thermomètre bruxellois ne passe pas sous les neuf degrés.",
+   "en": "The thermometer in Brussels goes no lower than nine degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Côté vent, la capitale gagne un kilomètre par heure, à sept,",
+   "en": "On the wind, the capital gets one kilometre an hour more, at seven,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et aucune pluie n'est attendue non plus.",
+   "en": "and no rain is expected either.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le temps chez nous.",
+   "en": "That is the weather here at home.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Monday 5 October",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "The Royal Meteorological Institute's yellow fog warning covers the area north of the Sambre and Meuse valley, overnight and on Monday morning",
+ "summary_en": [
+  "The Royal Meteorological Institute's yellow fog warning covers the area north of the Sambre and Meuse valley, overnight and on Monday morning",
+  "Namur on the ECMWF model: a high of 21 degrees, a low of 9 and no rain expected"
+ ]
+}

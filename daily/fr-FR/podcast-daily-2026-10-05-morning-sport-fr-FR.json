@@ -1,0 +1,189 @@
+{
+ "title": "Le sport, lundi 5 octobre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-10-05",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "À suivre aujourd'hui, le football:",
+   "en": "To follow today, football:",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "l'équipe de France reçoit la Belgique ce soir à Saint-Denis, à vingt heures quarante-cinq.",
+   "en": "the France team host Belgium tonight at «Saint-Denis», at a quarter to nine.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Ligue des nations,",
+   "en": "In the Nations League,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les deux équipes se retrouvent pour la deuxième fois de cette trêve, signale L'Équipe.",
+   "en": "the two sides meet for the second time in this break, «L'Équipe» points out.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Côté belge, Mika Godts, du Paris Saint-Germain,",
+   "en": "On the Belgian side, «Mika Godts», of «Paris Saint-Germain»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "doit être titulaire pour la quatrième fois de suite.",
+   "en": "is due to start for the fourth time in a row.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour ce dernier match de la rentrée,",
+   "en": "For this last match of the season's opening run,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ouest-France s'attend à plusieurs retouches de Zinédine Zidane.",
+   "en": "«Ouest-France» expects several changes from «Zinédine Zidane».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le sélectionneur pourrait changer ses latéraux,",
+   "en": "The manager could change his full-backs,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et titulariser Eduardo Camavinga et Bradley Barcola.",
+   "en": "and start «Eduardo Camavinga» and «Bradley Barcola».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au programme, le basket:",
+   "en": "On the programme, basketball:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les San Antonio Spurs ont annoncé dimanche que Tobias Harris, leur recrue,",
+   "en": "the San Antonio Spurs announced on Sunday that Tobias Harris, their new signing,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "souffrait d'une blessure au mollet.",
+   "en": "had a calf injury.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Coéquipier de Victor Wembanyama, il va manquer les cinq matches de présaison.",
+   "en": "A team-mate of «Victor Wembanyama», he will miss the five preseason games.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il est incertain pour le début de la saison régulière de la NBA, ce mois-ci.",
+   "en": "He is doubtful for the start of the NBA regular season, this month.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Monday 5 October",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Football: France host Belgium in the Nations League tonight at Saint-Denis",
+ "summary_en": [
+  "Football: France host Belgium in the Nations League tonight at Saint-Denis",
+  "Basketball: an injured Tobias Harris, Victor Wembanyama's new Spurs team-mate, will miss the preseason"
+ ]
+}

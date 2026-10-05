@@ -1,0 +1,193 @@
+{
+ "title": "El tiempo, lunes 5 de octubre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-weather",
+   "wpm": 208,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-10-05",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Según la Aemet, el aviso naranja por lluvias y tormentas",
+   "en": "According to «Aemet», the orange warning for rain and storms",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "afecta hoy a zonas de Toledo y de Cáceres, entre otras.",
+   "en": "today affects parts of «Toledo» and «Cáceres», among others.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Entra en vigor a las cinco de la tarde y no se levanta hasta la medianoche.",
+   "en": "It comes into force at five in the afternoon and is not lifted until midnight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En toda la Comunidad de Madrid el aviso es amarillo, con idéntico horario.",
+   "en": "Across the whole Madrid region the warning is yellow, over the same hours.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su capital verá tormentas y veintitrés grados de máxima.",
+   "en": "Its capital will see storms and a high of twenty-three degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El litoral de Barcelona tiene aviso amarillo por lluvias.",
+   "en": "The «Barcelona» coast has a yellow warning for rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Estará activo siete horas, a partir de la una de la tarde.",
+   "en": "It will be in force for seven hours, from one in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En la Ciudad Condal, cielo muy nuboso con lluvia escasa.",
+   "en": "In «Barcelona», a mostly cloudy sky with light rain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Su máxima toca los veintiséis grados, y su mínima, los veintidós.",
+   "en": "Its high touches twenty-six degrees, and its low, twenty-two.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "València alternará nubes y claros,",
+   "en": "«València» will alternate between cloud and sunny spells,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con el termómetro entre diecisiete y veinticinco grados.",
+   "en": "with the thermometer between seventeen and twenty-five degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Esas nubes y claros se extienden a A Coruña,",
+   "en": "That cloud and those sunny spells stretch to «A Coruña»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "donde el máximo previsto es de veinticuatro grados.",
+   "en": "where the forecast high is twenty-four degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La lluvia, al cincuenta por ciento,",
+   "en": "A fifty per cent chance of rain",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "acompañará en Bilbao a una máxima de veintiocho grados.",
+   "en": "will come with a high of twenty-eight degrees in «Bilbao».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí el tiempo.",
+   "en": "That's it for the national forecast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Monday 5 October",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "weather_region": "España",
+ "accent": "Castilla",
+ "accent_label": "acento de Castilla",
+ "segment_order": 0,
+ "headline_en": "AEMET orange warning today for rain and storms in parts of Toledo and Cáceres, from 5pm to the end of the day",
+ "summary_en": [
+  "AEMET orange warning today for rain and storms in parts of Toledo and Cáceres, from 5pm to the end of the day",
+  "Madrid region: AEMET yellow warning for rain and storms from 5pm until midnight"
+ ]
+}

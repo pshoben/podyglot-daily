@@ -1,0 +1,189 @@
+{
+ "title": "Los deportes, lunes 5 de octubre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-sport",
+   "wpm": 208,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-10-05",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "En el ciclismo, El País recoge la muerte de Ángel Arroyo a los setenta años.",
+   "en": "In cycling, «El País» reports the death of «Ángel Arroyo» at the age of seventy.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Revitalizó en los años ochenta la pasión española por el Tour de Francia.",
+   "en": "In the eighties he revived Spain's passion for the Tour de France.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Corría entonces a las órdenes de José Miguel Echávarri.",
+   "en": "He was riding then under «José Miguel Echávarri».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Por otra parte, en el fútbol,",
+   "en": "Elsewhere, in football,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la Copa del Rey arranca hoy con el sorteo de su primera ronda.",
+   "en": "the «Copa del Rey» gets under way today with the draw for its first round.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mundo Deportivo lo fija a la una de la tarde,",
+   "en": "«Mundo Deportivo» puts it at one in the afternoon,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "con ciento doce equipos en el bombo.",
+   "en": "with one hundred and twelve teams in the pot.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Quedan todavía al margen los cuatro equipos de la Supercopa:",
+   "en": "Still left out are the four «Supercopa» teams:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Barcelona, Real Madrid, Atlético de Madrid y Real Sociedad.",
+   "en": "«Barcelona», «Real Madrid», «Atlético de Madrid» and «Real Sociedad».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La final se jugará el veinticuatro de abril,",
+   "en": "The final will be played on 24th April,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en el estadio de La Cartuja.",
+   "en": "at the «La Cartuja» stadium.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "También en el fútbol, Kylian Mbappé ya está en Madrid.",
+   "en": "Also in football, «Kylian Mbappé» is now in «Madrid».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mundo Deportivo añade que se recupera de la lesión de rodilla que sufrió con Francia.",
+   "en": "«Mundo Deportivo» adds that he is recovering from the knee injury he picked up with France.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "AS da por hecho que estará listo para el partido contra el Villarreal.",
+   "en": "«AS» takes it for granted that he will be ready for the match against «Villarreal».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Se le espera hoy en la ciudad deportiva para seguir con su preparación.",
+   "en": "He is expected today at the training ground to carry on with his preparation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí los deportes.",
+   "en": "That's it for the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Monday 5 October",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Cycling: Ángel Arroyo, who revived Spanish enthusiasm for the Tour de France in the 1980s, has died aged 70",
+ "summary_en": [
+  "Cycling: Ángel Arroyo, who revived Spanish enthusiasm for the Tour de France in the 1980s, has died aged 70",
+  "Football: the Copa del Rey begins today with the draw for its first round"
+ ]
+}

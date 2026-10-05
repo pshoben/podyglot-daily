@@ -1,0 +1,330 @@
+{
+ "title": "El informativo de la mañana, lunes 5 de octubre",
+ "dialect": "es-ES",
+ "speakers": {
+  "SPK1": {
+   "persona": "es-ES-daily-news",
+   "wpm": 208,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-10-05",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lunes cinco de octubre. El informativo de la mañana.",
+   "en": "Monday the fifth of October. The morning bulletin.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Flávio Bolsonaro supera a Lula da Silva en la primera vuelta de las presidenciales de Brasil.",
+   "en": "«Flávio Bolsonaro» beats «Lula da Silva» in the first round of Brazil's presidential election.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Y Pedro Sánchez adelanta las elecciones generales al veintinueve de noviembre.",
+   "en": "And «Pedro Sánchez» brings the general election forward to 29th November.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Abrimos con Brasil. Bolsonaro, senador e hijo del expresidente,",
+   "en": "We open with Brazil. «Bolsonaro», a senator and the son of the former president,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "quedó por delante del presidente brasileño, informa El País.",
+   "en": "finished ahead of the Brazilian president, «El País» reports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Los dos se medirán en una segunda vuelta el veinticinco de octubre.",
+   "en": "The two will face each other in a second round on 25th October.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cambiamos de tema.",
+   "en": "Moving on.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "eldiario punto es detalla que el presidente del Gobierno anunció este lunes el adelanto electoral.",
+   "en": "«eldiario» says the prime minister announced the early election this Monday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Llega después de que el Congreso tumbara el viernes sus dos decretos de vivienda.",
+   "en": "It comes after Congress threw out his two housing decrees on Friday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sánchez pidió una mayoría progresista mucho más amplia.",
+   "en": "«Sánchez» asked for a much broader progressive majority.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Este martes, el Boletín Oficial del Estado publicará la disolución de las Cortes.",
+   "en": "This Tuesday, the Official State Gazette will publish the dissolution of the «Cortes».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ese mismo día, el Consejo de Ministros volverá a aprobar los decretos de vivienda.",
+   "en": "That same day, the Council of Ministers will approve the housing decrees again.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Con las Cortes disueltas, su convalidación pasará por la Diputación Permanente.",
+   "en": "With the «Cortes» dissolved, their ratification will go to the Standing Committee.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para el líder del PP, Alberto Núñez Feijóo,",
+   "en": "For the leader of the «PP», «Alberto Núñez Feijóo»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "por fin España podrá elegir el país que quiere ser.",
+   "en": "Spain will at last be able to choose the country it wants to be.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "A la izquierda del PSOE,",
+   "en": "To the left of the «PSOE»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Podemos y el Frente Amplio tienen hasta el dieciséis de octubre",
+   "en": "«Podemos» and the «Frente Amplio» have until 16th October",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "para decidir si concurren juntos.",
+   "en": "to decide whether to stand together.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En el resto de la actualidad,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ABC cuenta que el Tribunal Superior de Justicia de Madrid",
+   "en": "«ABC» reports that the High Court of Justice of «Madrid»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "rechazó ordenar el desalojo inmediato de la acampada de la Puerta del Sol.",
+   "en": "refused to order the immediate eviction of the camp in the «Puerta del Sol».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lo había solicitado la Comunidad de Madrid,",
+   "en": "The request had come from the Madrid region,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que preside Isabel Díaz Ayuso.",
+   "en": "which «Isabel Díaz Ayuso» heads.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Antes de decidir, el tribunal quiere escuchar a la Delegación del Gobierno.",
+   "en": "Before deciding, the court wants to hear from the central government's delegation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sus alegaciones deben presentarse antes del miércoles a las nueve de la mañana.",
+   "en": "Its submissions must be filed before nine in the morning on Wednesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Para terminar, según La Vanguardia, el Nobel de Medicina es para el estadounidense Karl Deisseroth,",
+   "en": "And finally, according to «La Vanguardia», the «Nobel» Prize in Medicine goes to the American «Karl Deisseroth»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "y para los alemanes Peter Hegemann y Georg Nagel.",
+   "en": "and to the Germans «Peter Hegemann» and «Georg Nagel».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "El galardón premia el control de las neuronas con la luz,",
+   "en": "The prize rewards the control of neurons with light,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "una técnica que abre una nueva era.",
+   "en": "a technique that opens a new era.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Hasta aquí lo esencial.",
+   "en": "That's the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Monday 5 October",
+ "edition": "morning",
+ "region": "es-ES",
+ "region_label": "España",
+ "headline_en": "Brazil: Senator Flávio Bolsonaro beats President Lula da Silva in the first round, and the two meet again in a run-off on 25th October",
+ "summary_en": [
+  "Brazil: Senator Flávio Bolsonaro beats President Lula da Silva in the first round, and the two meet again in a run-off on 25th October",
+  "Spain's prime minister, Pedro Sánchez, calls an early general election for 29th November",
+  "Madrid's High Court refuses the Ayuso government's request for an immediate eviction of the Puerta del Sol housing protest camp"
+ ]
+}

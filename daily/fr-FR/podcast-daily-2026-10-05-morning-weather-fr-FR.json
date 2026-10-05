@@ -1,0 +1,189 @@
+{
+ "title": "La météo, lundi 5 octobre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-10-05",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Aujourd'hui, les modèles de Météo-France prévoient de la pluie forte à Marseille.",
+   "en": "Today, the «Météo-France» models forecast heavy rain in «Marseille».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les températures y vont de vingt et un à vingt-six degrés,",
+   "en": "Temperatures there range from twenty-one to twenty-six degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent souffle jusqu'à quatorze kilomètres par heure.",
+   "en": "and the wind blows at up to fourteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lyon, sous un ciel couvert, culmine à vingt-sept degrés,",
+   "en": "«Lyon», under an overcast sky, peaks at twenty-seven degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec une minimale de seize degrés et un vent maximal de onze kilomètres par heure.",
+   "en": "with a low of sixteen degrees and a top wind speed of eleven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Bordeaux atteint lui aussi vingt-sept degrés,",
+   "en": "«Bordeaux» also reaches twenty-seven degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec dix-huit degrés pour la minimale,",
+   "en": "with eighteen degrees for the low,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et un vent limité à quinze kilomètres par heure.",
+   "en": "and the wind limited to fifteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lille vit une journée couverte,",
+   "en": "«Lille» has an overcast day,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec vingt-trois degrés comme maximale et douze comme minimale,",
+   "en": "with twenty-three degrees as the high and twelve as the low,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sous un vent de neuf kilomètres par heure au plus.",
+   "en": "under a wind of nine kilometres an hour at most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les nuages couvrent Strasbourg,",
+   "en": "Cloud covers «Strasbourg»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où le maximum est fixé à vingt-quatre degrés, le minimum à treize, et le vent à onze kilomètres par heure.",
+   "en": "where the high is set at twenty-four degrees, the low at thirteen, and the wind at eleven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Paris passe la journée sous un ciel couvert.",
+   "en": "«Paris» spends the day under an overcast sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans la capitale, le thermomètre évolue entre quatorze et vingt-quatre degrés.",
+   "en": "In the capital, the thermometer moves between fourteen and twenty-four degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Monday 5 October",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Heavy rain forecast for Marseille, 26 degrees at most and 21 at least",
+ "summary_en": [
+  "Heavy rain forecast for Marseille, 26 degrees at most and 21 at least",
+  "Lyon overcast and peaking at 27 degrees, low of 16"
+ ]
+}

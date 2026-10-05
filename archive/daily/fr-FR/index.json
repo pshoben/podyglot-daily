@@ -3,8 +3,354 @@
  "channel": "daily",
  "dialect": "fr-FR",
  "base": "https://pshoben.github.io/podyglot-daily/archive/",
- "archived_before": "2026-09-09",
+ "archived_before": "2026-09-22",
  "episodes": [
+  {
+   "id": "fr-FR-Le journal du matin, lundi 21 septembre",
+   "file": "podcast-daily-2026-09-21-morning-news-fr-FR.json",
+   "bytes": 10399,
+   "sha256": "fba77aabe8b420a866e3c2bbfcb91524eaee09564cefe205892bbf4836e2cff8",
+   "date": "2026-09-21",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, lundi 21 septembre",
+   "title_en": "The morning news, Monday 21 September",
+   "headline_en": "Vladimir Putin's party wins Russia's legislative elections on partial results",
+   "summary_en": [
+    "Vladimir Putin's party wins Russia's legislative elections on partial results",
+    "The French government plans new fuel aid but rules out a general tax cut",
+    "United Russia is credited with 57.5 per cent of the vote, the official agencies say"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, lundi 21 septembre",
+   "file": "podcast-daily-2026-09-21-morning-sport-fr-FR.json",
+   "bytes": 4117,
+   "sha256": "538ceaa463d3d0b983d5fcee40b423e7ab37fc71705fb24e7c6b2aebedf0b2b5",
+   "date": "2026-09-21",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, lundi 21 septembre",
+   "title_en": "Today's sport, Monday 21 September",
+   "headline_en": "Sailing: Thomas Ruyant pulls out of the next Route du Rhum for want of a sponsor",
+   "summary_en": [
+    "Sailing: Thomas Ruyant pulls out of the next Route du Rhum for want of a sponsor",
+    "The Route du Rhum starts at Saint-Malo in November without the Imoca title holder"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, lundi 21 septembre",
+   "file": "podcast-daily-2026-09-21-morning-weather-fr-FR.json",
+   "bytes": 7067,
+   "sha256": "a4f541b7dc30694346d6e1a05908f944cced7734c9f96f910f23f270607310d0",
+   "date": "2026-09-21",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, lundi 21 septembre",
+   "title_en": "Today's weather, Monday 21 September",
+   "headline_en": "Red alert for a very high forest-fire risk in the Gard, the Aude and the Pyrenees-Orientales",
+   "summary_en": [
+    "Red alert for a very high forest-fire risk in the Gard, the Aude and the Pyrenees-Orientales",
+    "Marseille overcast, a high of 29 degrees and a low of 20"
+   ]
+  },
+  {
+   "id": "fr-FR-Le journal du matin, dimanche 20 septembre",
+   "file": "podcast-daily-2026-09-20-morning-news-fr-FR.json",
+   "bytes": 9709,
+   "sha256": "46890f8d204643b6e51ff7dbc235f5a474ef8f895e97e8bee19ffe0b7aaad197",
+   "date": "2026-09-20",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, dimanche 20 septembre",
+   "title_en": "The morning news, Sunday 20 September",
+   "headline_en": "Two German regions vote, with Chancellor Friedrich Merz under pressure",
+   "summary_en": [
+    "Two German regions vote, with Chancellor Friedrich Merz under pressure",
+    "Macron says Saint-Pierre-et-Miquelon is French, in reply to Trump",
+    "Diesel sets a new record in France at close to 2.41 euros a litre, on AFP's figures"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, dimanche 20 septembre",
+   "file": "podcast-daily-2026-09-20-morning-sport-fr-FR.json",
+   "bytes": 4276,
+   "sha256": "e43646f4ee01d2edf855c17852571b8c3f39f0d76d21f13ddf883748154409e4",
+   "date": "2026-09-20",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, dimanche 20 septembre",
+   "title_en": "Today's sport, Sunday 20 September",
+   "headline_en": "Football: Marseille host Paris Saint-Germain at the Vélodrome this evening",
+   "summary_en": [
+    "Football: Marseille host Paris Saint-Germain at the Vélodrome this evening",
+    "Cycling: the road world championships open in Montréal with the time trials"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, dimanche 20 septembre",
+   "file": "podcast-daily-2026-09-20-morning-weather-fr-FR.json",
+   "bytes": 6240,
+   "sha256": "bd3941e48af8bfb26671fbc08628ebb8e64cc6dcdcc61c78436a96f9eaa0064c",
+   "date": "2026-09-20",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, dimanche 20 septembre",
+   "title_en": "Today's weather, Sunday 20 September",
+   "headline_en": "Drizzle over Lille, where the day tops out at 20 degrees",
+   "summary_en": [
+    "Drizzle over Lille, where the day tops out at 20 degrees",
+    "Paris stays overcast, with a high of 24 degrees"
+   ]
+  },
+  {
+   "id": "fr-FR-Le journal du matin, mardi 15 septembre",
+   "file": "podcast-daily-2026-09-15-morning-news-fr-FR.json",
+   "bytes": 10311,
+   "sha256": "97593fd19eebff754a7c01400745e5d44ceec770f5ce0bc00d98f909abf302e2",
+   "date": "2026-09-15",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, mardi 15 septembre",
+   "title_en": "The morning news, Tuesday 15 September",
+   "headline_en": "NATO shoots down a drone over Lithuania",
+   "summary_en": [
+    "NATO shoots down a drone over Lithuania",
+    "Fishermen in France block an oil depot at Fos-sur-Mer over fuel prices",
+    "Former Paris mayor Anne Hidalgo faces senators over violence in after-school care"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, mardi 15 septembre",
+   "file": "podcast-daily-2026-09-15-morning-weather-fr-FR.json",
+   "bytes": 5897,
+   "sha256": "336f62403871961444933f057c7e9018d858e3a32a6df6603448ffad739f1a4e",
+   "date": "2026-09-15",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, mardi 15 septembre",
+   "title_en": "Today's weather, Tuesday 15 September",
+   "headline_en": "Overcast in Bordeaux, with a high of 34 degrees",
+   "summary_en": [
+    "Overcast in Bordeaux, with a high of 34 degrees",
+    "Clear skies over Marseille, from 21 to 28 degrees"
+   ]
+  },
+  {
+   "id": "fr-FR-Le journal du matin, lundi 14 septembre",
+   "file": "podcast-daily-2026-09-14-morning-news-fr-FR.json",
+   "bytes": 11996,
+   "sha256": "c4c354b72d05936251db181f3cebb85631ea74967e9ebc49631ac992e3599d22",
+   "date": "2026-09-14",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, lundi 14 septembre",
+   "title_en": "The morning news, Monday 14 September",
+   "headline_en": "A Russian drone hits a train running from Kyiv to Warsaw",
+   "summary_en": [
+    "A Russian drone hits a train running from Kyiv to Warsaw",
+    "France sends Brussels a new version of its under-15 social media ban",
+    "Ukraine calls the strikes a systemic attack on its rail network"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, lundi 14 septembre",
+   "file": "podcast-daily-2026-09-14-morning-sport-fr-FR.json",
+   "bytes": 4845,
+   "sha256": "a5da219ba06ec36f42839b6be1966588d3a745dcd6be111b80b1dacb5e56caa1",
+   "date": "2026-09-14",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, lundi 14 septembre",
+   "title_en": "Today's sport, Monday 14 September",
+   "headline_en": "Marcelo Gallardo named head coach of Ecuador",
+   "summary_en": [
+    "Marcelo Gallardo named head coach of Ecuador",
+    "The Ballon d'Or contenders begin their campaigns"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, lundi 14 septembre",
+   "file": "podcast-daily-2026-09-14-morning-weather-fr-FR.json",
+   "bytes": 5823,
+   "sha256": "4fd2b86b9672ba049dbab33fce5b8c60c3bf6b0762bdc2092538af0ada631ca3",
+   "date": "2026-09-14",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, lundi 14 septembre",
+   "title_en": "Today's weather, Monday 14 September",
+   "headline_en": "Heat returns to France with a peak expected on Monday",
+   "summary_en": [
+    "Heat returns to France with a peak expected on Monday",
+    "Monday forecast for Paris, 14th September"
+   ]
+  },
+  {
+   "id": "fr-FR-Le journal du matin, dimanche 13 septembre",
+   "file": "podcast-daily-2026-09-13-morning-news-fr-FR.json",
+   "bytes": 9074,
+   "sha256": "398cc17cbfae0a60becf7cfa245623fcf86fb9481503294f22c23e14c4f394a7",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, dimanche 13 septembre",
+   "title_en": "The morning news, Sunday 13 September",
+   "headline_en": "One dead after a strike on an Iranian merchant ship in the Strait of Hormuz",
+   "summary_en": [
+    "One dead after a strike on an Iranian merchant ship in the Strait of Hormuz",
+    "A two-day strike begins at Radio France over a new columnist",
+    "The unions call the new columnist incompatible with public service broadcasting"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, dimanche 13 septembre",
+   "file": "podcast-daily-2026-09-13-morning-sport-fr-FR.json",
+   "bytes": 4785,
+   "sha256": "880615e13dea26a917a1220603fb8b741a4735ad1dbaaa73c0de70b7a6d06d07",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, dimanche 13 septembre",
+   "title_en": "Today's sport, Sunday 13 September",
+   "headline_en": "France meet the United States in the basketball World Cup final tonight",
+   "summary_en": [
+    "France meet the United States in the basketball World Cup final tonight",
+    "Le Mans meet Lens in the fourth round of Ligue 1"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, dimanche 13 septembre",
+   "file": "podcast-daily-2026-09-13-morning-weather-fr-FR.json",
+   "bytes": 4951,
+   "sha256": "4542a5691eb8157bb46e864d5f3f28e93d5b71c4156612084d5f521fd05635e0",
+   "date": "2026-09-13",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, dimanche 13 septembre",
+   "title_en": "Today's weather, Sunday 13 September",
+   "headline_en": "Sunday forecast for Paris, 13th September",
+   "summary_en": [
+    "Sunday forecast for Paris, 13th September",
+    "Sunday forecast for Marseille, 13th September"
+   ]
+  },
+  {
+   "id": "fr-FR-Le journal du matin, mercredi 9 septembre",
+   "file": "podcast-daily-2026-09-09-morning-news-fr-FR.json",
+   "bytes": 11945,
+   "sha256": "4d6b3eda24fe97622770641312e0c223233256a6e09c6bb5ccf737f28b51e509",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, mercredi 9 septembre",
+   "title_en": "The morning news, Wednesday 9 September",
+   "headline_en": "Russian strikes resume on Kyiv after a three-day truce, and Zelensky hopes talks restart in September",
+   "summary_en": [
+    "Russian strikes resume on Kyiv after a three-day truce, and Zelensky hopes talks restart in September",
+    "Francois Bayrou goes on trial again, on appeal, over the MoDem parliamentary assistants case",
+    "At least five people killed in a new wave of Russian attacks on Kyiv, Ouest-France reports"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, mercredi 9 septembre",
+   "file": "podcast-daily-2026-09-09-morning-sport-fr-FR.json",
+   "bytes": 4079,
+   "sha256": "d1eabdf6595040701c9830cbc4f42a6b9037126ab51482d90583cbeafb4951d1",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, mercredi 9 septembre",
+   "title_en": "Today's sport, Wednesday 9 September",
+   "headline_en": "Football: Paris Saint-Germain open their Champions League campaign at home to Slovan Bratislava",
+   "summary_en": [
+    "Football: Paris Saint-Germain open their Champions League campaign at home to Slovan Bratislava",
+    "Football: Yaya Toure coaches Slovan Bratislava, and Luis Enrique is untroubled by PSG's level"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, mercredi 9 septembre",
+   "file": "podcast-daily-2026-09-09-morning-weather-fr-FR.json",
+   "bytes": 4773,
+   "sha256": "e7c0ddf2b0e2304c346c3c7925db3f964180c1093631d642735b2f20fac74920",
+   "date": "2026-09-09",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, mercredi 9 septembre",
+   "title_en": "Today's weather, Wednesday 9 September",
+   "headline_en": "Paris: drizzle, a high of 21 degrees and a low of 14",
+   "summary_en": [
+    "Paris: drizzle, a high of 21 degrees and a low of 14",
+    "Marseille: drizzle, a high of 26 degrees and a low of 20"
+   ]
+  },
   {
    "id": "fr-FR-Le journal du matin, mardi 8 septembre",
    "file": "podcast-daily-2026-09-08-morning-news-fr-FR.json",

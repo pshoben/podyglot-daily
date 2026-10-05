@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-BE",
+ "date": "2026-10-05",
+ "episodes": [
+  {
+   "id": "fr-BE-Le sept heures, lundi 5 octobre",
+   "file": "podcast-daily-2026-10-05-morning-news-fr-BE.json",
+   "bytes": 9591,
+   "sha256": "2a1c7286a11ad8bdb9f37cc3f123ef6ed55aa333c8ada0312c1e4b24708d0285",
+   "date": "2026-10-05",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, lundi 5 octobre",
+   "title_en": "The morning news, Monday 5 October",
+   "headline_en": "Spain's prime minister Pedro Sánchez calls snap general elections for 29th November",
+   "summary_en": [
+    "Spain's prime minister Pedro Sánchez calls snap general elections for 29th November",
+    "Pupils' protest in Liège is tense on Monday, as tensions persist across the region",
+    "Liège police make ten administrative arrests during Monday's pupils' protests, a provisional count"
+   ]
+  },
+  {
+   "id": "fr-BE-Le sport chez nous, lundi 5 octobre",
+   "file": "podcast-daily-2026-10-05-morning-sport-fr-BE.json",
+   "bytes": 4473,
+   "sha256": "35d62330fb15543fde2f4952cda57d8bf6a10a2005079d35644d6b9a9bef751c",
+   "date": "2026-10-05",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sport chez nous, lundi 5 octobre",
+   "title_en": "Today's sport, Monday 5 October",
+   "headline_en": "Football: Belgium's Red Devils face France at the Stade de France tonight, without De Bruyne and Tielemans",
+   "summary_en": [
+    "Football: Belgium's Red Devils face France at the Stade de France tonight, without De Bruyne and Tielemans",
+    "Football: Mika Godts, just signed by PSG, says he is fit and ready to start a fourth match for Belgium"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, lundi 5 octobre",
+   "file": "podcast-daily-2026-10-05-morning-weather-fr-BE.json",
+   "bytes": 5834,
+   "sha256": "e65ff8faa53dd158c66dcb1c0a48093049795154fffb06d174c7b6b2606fc3f4",
+   "date": "2026-10-05",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, lundi 5 octobre",
+   "title_en": "Today's weather, Monday 5 October",
+   "headline_en": "The Royal Meteorological Institute's yellow fog warning covers the area north of the Sambre and Meuse valley, overnight and on Monday morning",
+   "summary_en": [
+    "The Royal Meteorological Institute's yellow fog warning covers the area north of the Sambre and Meuse valley, overnight and on Monday morning",
+    "Namur on the ECMWF model: a high of 21 degrees, a low of 9 and no rain expected"
+   ]
+  }
+ ],
+ "content": "a7a3c468286868da074175adf48b6ee3e2ff73ea190763d4e8a228fa78b22cf0",
+ "rev": 1,
+ "updated": "2026-10-05T11:32:52.484Z"
+}
