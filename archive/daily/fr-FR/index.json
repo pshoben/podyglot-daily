@@ -3,8 +3,69 @@
  "channel": "daily",
  "dialect": "fr-FR",
  "base": "https://pshoben.github.io/podyglot-daily/archive/",
- "archived_before": "2026-09-22",
+ "archived_before": "2026-09-23",
  "episodes": [
+  {
+   "id": "fr-FR-Le journal du matin, mardi 22 septembre",
+   "file": "podcast-daily-2026-09-22-morning-news-fr-FR.json",
+   "bytes": 9596,
+   "sha256": "55b7c6e5513e4e6a01f76eb3f5a1f810c64a08a13b5b3e85a403ac54b2e8939c",
+   "date": "2026-09-22",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, mardi 22 septembre",
+   "title_en": "The morning news, Tuesday 22 September",
+   "headline_en": "Macron warns the UN General Assembly against a return of the law of the jungle",
+   "summary_en": [
+    "Macron warns the UN General Assembly against a return of the law of the jungle",
+    "The French government sets out a new package of fuel measures",
+    "Macron denounces a spectacle that shames us all over Gaza"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, mardi 22 septembre",
+   "file": "podcast-daily-2026-09-22-morning-sport-fr-FR.json",
+   "bytes": 5044,
+   "sha256": "2ef382f617d77353b8a6a6a42b2799c4752f9a4b1ef58dc9e64c699817a0daae",
+   "date": "2026-09-22",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, mardi 22 septembre",
+   "title_en": "Today's sport, Tuesday 22 September",
+   "headline_en": "Zidane takes his first France training session at Clairefontaine",
+   "summary_en": [
+    "Zidane takes his first France training session at Clairefontaine",
+    "Emilien Jacquelin skips the coming biathlon season to concentrate on cycling"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, mardi 22 septembre",
+   "file": "podcast-daily-2026-09-22-morning-weather-fr-FR.json",
+   "bytes": 5523,
+   "sha256": "45fe029371567f3b93694c48cf2282c3be0d678e7786e40b0bc424d40ad98b59",
+   "date": "2026-09-22",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, mardi 22 septembre",
+   "title_en": "Today's weather, Tuesday 22 September",
+   "headline_en": "Tuesday forecast for Paris, 22nd September",
+   "summary_en": [
+    "Tuesday forecast for Paris, 22nd September",
+    "Tuesday forecast for Bordeaux, 22nd September"
+   ]
+  },
   {
    "id": "fr-FR-Le journal du matin, lundi 21 septembre",
    "file": "podcast-daily-2026-09-21-morning-news-fr-FR.json",

@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-BE",
+ "date": "2026-10-06",
+ "episodes": [
+  {
+   "id": "fr-BE-Le sept heures, mardi 6 octobre",
+   "file": "podcast-daily-2026-10-06-morning-news-fr-BE.json",
+   "bytes": 10991,
+   "sha256": "97a6e9ad34365bb8f68ddc1d8fdc74951b73e6b75312d417eb3ed7cd5310dfc4",
+   "date": "2026-10-06",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, mardi 6 octobre",
+   "title_en": "The morning news, Tuesday 6 October",
+   "headline_en": "French secondary pupils march again across France on Tuesday: some 250,000 according to the authorities, 450,000 according to the organisers",
+   "summary_en": [
+    "French secondary pupils march again across France on Tuesday: some 250,000 according to the authorities, 450,000 according to the organisers",
+    "Pupils' demonstrations multiply in Belgium, in Liège, Brussels, Mons, Charleroi and Arlon, according to RTBF",
+    "Arrests in Liège: RTBF says 33, La Libre counts 33 administrative and two judicial arrests, DH counts 31 administrative and two judicial"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, mardi 6 octobre",
+   "file": "podcast-daily-2026-10-06-morning-weather-fr-BE.json",
+   "bytes": 4933,
+   "sha256": "64fe34503687107e443af36132b0ef7354e03efb32a366456e07c91b63a32ac1",
+   "date": "2026-10-06",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, mardi 6 octobre",
+   "title_en": "Today's weather, Tuesday 6 October",
+   "headline_en": "RTBF forecasts more sun and mild weather this Tuesday afternoon, with grey patches clearing in the west",
+   "summary_en": [
+    "RTBF forecasts more sun and mild weather this Tuesday afternoon, with grey patches clearing in the west",
+    "Namur reaches 23 degrees today, with a low of 6, no rain expected and wind up to 8 km/h, according to the ECMWF model"
+   ]
+  }
+ ],
+ "content": "9fbd11a00d80dade0da8efe27bbace37d5f4a4d97f450d6b749f06390bc41513",
+ "rev": 1,
+ "updated": "2026-10-06T19:14:30.646Z"
+}

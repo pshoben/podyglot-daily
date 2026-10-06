@@ -5,6 +5,47 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-BE-Le sept heures, mardi 6 octobre",
+   "file": "podcast-daily-2026-10-06-morning-news-fr-BE.json",
+   "bytes": 10991,
+   "sha256": "97a6e9ad34365bb8f68ddc1d8fdc74951b73e6b75312d417eb3ed7cd5310dfc4",
+   "date": "2026-10-06",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le sept heures, mardi 6 octobre",
+   "title_en": "The morning news, Tuesday 6 October",
+   "headline_en": "French secondary pupils march again across France on Tuesday: some 250,000 according to the authorities, 450,000 according to the organisers",
+   "summary_en": [
+    "French secondary pupils march again across France on Tuesday: some 250,000 according to the authorities, 450,000 according to the organisers",
+    "Pupils' demonstrations multiply in Belgium, in Liège, Brussels, Mons, Charleroi and Arlon, according to RTBF",
+    "Arrests in Liège: RTBF says 33, La Libre counts 33 administrative and two judicial arrests, DH counts 31 administrative and two judicial"
+   ]
+  },
+  {
+   "id": "fr-BE-Le temps chez nous, mardi 6 octobre",
+   "file": "podcast-daily-2026-10-06-morning-weather-fr-BE.json",
+   "bytes": 4933,
+   "sha256": "64fe34503687107e443af36132b0ef7354e03efb32a366456e07c91b63a32ac1",
+   "date": "2026-10-06",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-BE",
+   "region_label": "Belgique",
+   "title": "Le temps chez nous, mardi 6 octobre",
+   "title_en": "Today's weather, Tuesday 6 October",
+   "headline_en": "RTBF forecasts more sun and mild weather this Tuesday afternoon, with grey patches clearing in the west",
+   "summary_en": [
+    "RTBF forecasts more sun and mild weather this Tuesday afternoon, with grey patches clearing in the west",
+    "Namur reaches 23 degrees today, with a low of 6, no rain expected and wind up to 8 km/h, according to the ECMWF model"
+   ]
+  },
+  {
    "id": "fr-BE-Le sept heures, lundi 5 octobre",
    "file": "podcast-daily-2026-10-05-morning-news-fr-BE.json",
    "bytes": 9591,
@@ -63,47 +104,6 @@
    "summary_en": [
     "The Royal Meteorological Institute's yellow fog warning covers the area north of the Sambre and Meuse valley, overnight and on Monday morning",
     "Namur on the ECMWF model: a high of 21 degrees, a low of 9 and no rain expected"
-   ]
-  },
-  {
-   "id": "fr-BE-Le sept heures, mardi 22 septembre",
-   "file": "podcast-daily-2026-09-22-morning-news-fr-BE.json",
-   "bytes": 7666,
-   "sha256": "dbb1157c5c83e940aba6fff708c114d21a15eb95f6758e3aeb4983adf0798258",
-   "date": "2026-09-22",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le sept heures, mardi 22 septembre",
-   "title_en": "The morning news, Tuesday 22 September",
-   "headline_en": "Trump signs a security accord with Greenland and Denmark at the United Nations",
-   "summary_en": [
-    "Trump signs a security accord with Greenland and Denmark at the United Nations",
-    "Air traffic controllers' strike at Charleroi airport runs on, with dozens of Wednesday flights cancelled",
-    "The European Union lifts sanctions on two Russian oligarchs, with Belgium abstaining"
-   ]
-  },
-  {
-   "id": "fr-BE-Le temps chez nous, mardi 22 septembre",
-   "file": "podcast-daily-2026-09-22-morning-weather-fr-BE.json",
-   "bytes": 5085,
-   "sha256": "b91bc424c650458269671895c41a9932b5473ed273b5556c654e32da779784cc",
-   "date": "2026-09-22",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-BE",
-   "region_label": "Belgique",
-   "title": "Le temps chez nous, mardi 22 septembre",
-   "title_en": "Today's weather, Tuesday 22 September",
-   "headline_en": "Drought is set to persist in Wallonia until the end of September",
-   "summary_en": [
-    "Drought is set to persist in Wallonia until the end of September",
-    "Brussels reaches 20 degrees with scattered cloud, low 9, no rain expected"
    ]
   }
  ]

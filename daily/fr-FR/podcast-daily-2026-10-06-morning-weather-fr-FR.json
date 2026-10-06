@@ -1,0 +1,209 @@
+{
+ "title": "La météo, mardi 6 octobre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-10-06",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Côté ciel aujourd'hui,",
+   "en": "Sky today:",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "voici ce que prévoient les modèles de Météo-France pour six villes de France.",
+   "en": "here is what the «Météo-France» models forecast for six cities in France.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Marseille essuie des averses: le vent y atteint douze kilomètres par heure au plus,",
+   "en": "«Marseille» gets showers: the wind reaches twelve kilometres per hour at most,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et les températures vont de vingt à vingt-six degrés.",
+   "en": "and temperatures range from twenty to twenty-six degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Bordeaux, il pleut. On y attend vingt degrés au minimum, vingt-neuf au maximum,",
+   "en": "In «Bordeaux», it is raining. Expect twenty degrees at the lowest, twenty-nine at the highest,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et quinze kilomètres par heure de vent au plus.",
+   "en": "and fifteen kilometres per hour of wind at most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ciel est couvert à Lyon,",
+   "en": "The sky is overcast in «Lyon»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où les températures vont de quinze à vingt-sept degrés,",
+   "en": "where temperatures range from fifteen to twenty-seven degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un vent de seize kilomètres par heure au plus.",
+   "en": "with a wind of sixteen kilometres per hour at most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Paris est couverte, avec un vent de dix kilomètres par heure au plus,",
+   "en": "«Paris» is overcast, with a wind of ten kilometres per hour at most,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un minimum de treize degrés et un maximum de vingt-quatre.",
+   "en": "a low of thirteen degrees and a high of twenty-four.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lille a elle aussi un ciel couvert.",
+   "en": "«Lille» also has an overcast sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il y fera onze degrés au minimum, vingt-trois au maximum,",
+   "en": "It will be eleven degrees at the lowest, twenty-three at the highest,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent atteindra onze kilomètres par heure au plus.",
+   "en": "and the wind will reach eleven kilometres per hour at most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour finir, Strasbourg: le ciel est couvert,",
+   "en": "To finish, «Strasbourg»: the sky is overcast,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le vent ne dépasse pas onze kilomètres par heure,",
+   "en": "the wind does not exceed eleven kilometres per hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le mercure s'étage de douze à vingt-cinq degrés.",
+   "en": "and the mercury ranges from twelve to twenty-five degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Tuesday 6 October",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Showers in Marseille, between 20 and 26 degrees, wind 12 km/h at most",
+ "summary_en": [
+  "Showers in Marseille, between 20 and 26 degrees, wind 12 km/h at most",
+  "Rain in Bordeaux, between 20 and 29 degrees, wind 15 km/h at most"
+ ]
+}

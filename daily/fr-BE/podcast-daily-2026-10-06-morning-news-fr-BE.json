@@ -1,0 +1,410 @@
+{
+ "title": "Le sept heures, mardi 6 octobre",
+ "dialect": "fr-BE",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-BE-daily-news",
+   "wpm": 222,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-10-06",
+ "voice_policy": "belgian_premium_single_voice",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Mardi six octobre. Le sept heures.",
+   "en": "Tuesday 6th October. The seven o'clock news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, les lycéens manifestent de nouveau, partout dans le pays.",
+   "en": "In France, secondary pupils are demonstrating again, all across the country.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Et chez nous, les élèves sont aussi dans la rue, notamment à Liège.",
+   "en": "And at home, pupils are on the streets too, notably in «Liège».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On ouvre avec la France: selon 7sur7,",
+   "en": "We open with France: according to «7sur7»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "des dizaines de milliers de lycéens devaient manifester de nouveau ce mardi.",
+   "en": "tens of thousands of secondary pupils were due to demonstrate again this Tuesday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Libre rapporte que quelque deux cent cinquante mille personnes",
+   "en": "«La Libre» reports that some two hundred and fifty thousand people",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ont défilé dans tout le pays selon les autorités,",
+   "en": "marched across the country according to the authorities,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et quatre cent cinquante mille d'après les organisateurs.",
+   "en": "and four hundred and fifty thousand according to the organisers.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ces cortèges ont aussi été marqués par la colère contre les violences policières,",
+   "en": "Those marches were also marked by anger against police violence,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "attisée par plusieurs blessés graves parmi les jeunes.",
+   "en": "fanned by several young people being seriously injured.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre dossier maintenant, les élèves en Belgique: selon la RTBF,",
+   "en": "Another matter now, the pupils in Belgium: according to «RTBF»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les manifestations se multiplient depuis plusieurs jours, à Liège, Bruxelles, Mons, Charleroi ou encore Arlon.",
+   "en": "the demonstrations have been multiplying for several days, in «Liège», Brussels, «Mons», «Charleroi» and even «Arlon».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des centaines d'étudiants manifestent ce mardi dans plusieurs villes wallonnes et à Bruxelles.",
+   "en": "Hundreds of students are demonstrating this Tuesday in several Walloon towns and in Brussels.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon Le Vif, le mouvement, émaillé d'incidents, continue de prendre de l'ampleur.",
+   "en": "According to «Le Vif», the movement, marked by incidents, keeps growing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les écoles liégeoises ont rouvert ce mardi matin après une journée sous tension, rapporte 7sur7.",
+   "en": "The «Liège» schools reopened this Tuesday morning after a day under tension, «7sur7» reports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon la RTBF, on dénombre encore trente-trois arrestations à Liège.",
+   "en": "According to «RTBF», there are thirty-three more arrests in «Liège».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Libre en compte trente-trois administratives et deux judiciaires,",
+   "en": "«La Libre» counts thirty-three administrative and two judicial arrests,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la DH trente et une administratives et deux judiciaires.",
+   "en": "«DH» thirty-one administrative and two judicial ones.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans ce contexte, le ministre de la Défense, Theo Francken,",
+   "en": "Against that background, Defence minister «Theo Francken»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a appelé sur Facebook à réintroduire le service militaire obligatoire.",
+   "en": "called on «Facebook» for compulsory military service to be reintroduced.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À ses yeux, cela inculquerait rigueur et discipline aux jeunes.",
+   "en": "In his view, it would instil rigour and discipline in young people.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ailleurs dans l'actu, la justice:",
+   "en": "Elsewhere in the news, the law:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la cour d'assises du Brabant wallon a reconnu ce mardi un homme",
+   "en": "the Walloon Brabant assize court this Tuesday found a man",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "coupable de l'assassinat de sa belle-mère, écrit 7sur7.",
+   "en": "guilty of the murder of his mother-in-law, «7sur7» writes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour la RTBF, le jury a retenu la préméditation.",
+   "en": "For «RTBF», the jury found premeditation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On enchaîne avec le budget bruxellois:",
+   "en": "On to the Brussels budget:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le ministre-président Boris Dilliès a défendu son budget en séance plénière ce mardi,",
+   "en": "the minister-president «Boris Dilliès» defended his budget in plenary session this Tuesday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "rapporte la DH.",
+   "en": "«DH» reports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La RTBF rapporte que le PTB et Écolo",
+   "en": "«RTBF» reports that the «PTB» and «Écolo»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ont vivement attaqué sa déclaration de politique générale.",
+   "en": "sharply attacked his general policy declaration.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour terminer, le prix Nobel de physique revient à un Belge, Francis Halzen,",
+   "en": "To finish, the «Nobel» Prize in physics goes to a Belgian, «Francis Halzen»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon La Libre.",
+   "en": "according to «La Libre».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Né en Belgique en 1944,",
+   "en": "Born in Belgium in 1944,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "il est professeur à l'université du Wisconsin-Madison, aux États-Unis.",
+   "en": "he is a professor at the University of «Wisconsin-Madison» in the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Académie royale des sciences de Suède le récompense pour ses contributions décisives à l'observatoire de neutrinos IceCube.",
+   "en": "The Royal Swedish Academy of Sciences rewards him for his decisive contributions to the «IceCube» neutrino observatory.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon la RTBF, le lauréat, joint par téléphone,",
+   "en": "According to «RTBF», the laureate, reached by telephone,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dit qu'il ne s'y attendait certainement pas.",
+   "en": "says he certainly did not expect it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà où nous en sommes.",
+   "en": "That is where things stand.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 6 October",
+ "edition": "morning",
+ "region": "fr-BE",
+ "region_label": "Belgique",
+ "headline_en": "French secondary pupils march again across France on Tuesday: some 250,000 according to the authorities, 450,000 according to the organisers",
+ "summary_en": [
+  "French secondary pupils march again across France on Tuesday: some 250,000 according to the authorities, 450,000 according to the organisers",
+  "Pupils' demonstrations multiply in Belgium, in Liège, Brussels, Mons, Charleroi and Arlon, according to RTBF",
+  "Arrests in Liège: RTBF says 33, La Libre counts 33 administrative and two judicial arrests, DH counts 31 administrative and two judicial"
+ ]
+}

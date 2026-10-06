@@ -1,0 +1,370 @@
+{
+ "title": "Le journal du matin, mardi 6 octobre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-10-06",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Mardi six octobre. Le journal du matin.",
+   "en": "Tuesday 6th October. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le prix Nobel de physique a été décerné aujourd'hui au physicien belge Francis Halzen,",
+   "en": "The «Nobel» Prize in physics was awarded today to the Belgian physicist «Francis Halzen»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour ses travaux sur les neutrinos.",
+   "en": "for his work on neutrinos.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lycéens, parents et enseignants ont manifesté ce mardi dans plusieurs villes de France,",
+   "en": "High school students, parents and teachers marched this Tuesday in several French cities,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour une nouvelle journée de mobilisation.",
+   "en": "for a new day of protest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par la physique, où le Belge Francis Halzen",
+   "en": "We start with physics, where the Belgian «Francis Halzen»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a reçu la prestigieuse récompense, mardi, précise Le Monde.",
+   "en": "received the prestigious prize on Tuesday, «Le Monde» says.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il est à l'origine de l'installation d'un détecteur de neutrinos sous la glace de l'Antarctique.",
+   "en": "He is behind the installation of a neutrino detector under the Antarctic ice.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, quatre cent cinquante mille personnes ont défilé dans tout le pays,",
+   "en": "In France, four hundred and fifty thousand people marched across the country,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon les organisateurs.",
+   "en": "according to the organisers.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ministère de l'Intérieur en compte deux cent cinquante-six mille.",
+   "en": "The Interior Ministry counts two hundred and fifty-six thousand.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Devant l'Assemblée nationale, le Premier ministre, Sébastien Lecornu,",
+   "en": "In front of the National Assembly, the prime minister, «Sébastien Lecornu»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a annoncé une suspension des cours en fin de semaine,",
+   "en": "announced a suspension of lessons at the end of the week,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour un temps de démocratie interne, relève Le Figaro.",
+   "en": "for a time of internal democracy, «Le Figaro» notes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Mardi soir, le président Emmanuel Macron réunit à l'Élysée",
+   "en": "On Tuesday evening, President «Emmanuel Macron» brings together at the «Élysée»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le Premier ministre et les ministres de l'Intérieur et de l'Éducation nationale,",
+   "en": "the prime minister and the ministers of the Interior and of National Education,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon France Télévisions.",
+   "en": "according to «France Télévisions».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Toujours en France, selon Sud Ouest,",
+   "en": "Still in France, according to «Sud Ouest»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Emmanuel Macron a assisté mardi, au large du Finistère,",
+   "en": "«Emmanuel Macron» attended on Tuesday, off the coast of «Finistère»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à un tir d'exercice d'un nouveau missile nucléaire,",
+   "en": "an exercise firing of a new nuclear missile",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "lancé sans charge depuis un sous-marin.",
+   "en": "launched without a warhead from a submarine.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre sujet maintenant, Marine Le Pen,",
+   "en": "Another subject now, «Marine Le Pen»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "candidate du Rassemblement national à la présidentielle,",
+   "en": "the National Rally candidate in the presidential election,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a promis mardi cent quarante milliards d'euros d'économies nettes sur cinq ans,",
+   "en": "promised on Tuesday a hundred and forty billion euros of net savings over five years,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "rapporte France 24.",
+   "en": "«France 24» reports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le mandat d'arrêt visant l'indépendantiste catalan Carles Puigdemont a été levé mardi,",
+   "en": "the arrest warrant against the Catalan separatist «Carles Puigdemont» was lifted on Tuesday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon Ouest-France.",
+   "en": "according to «Ouest-France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cette décision ouvre la voie à son retour en Espagne.",
+   "en": "This decision opens the way for his return to Spain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il avait fui en Belgique en 2017.",
+   "en": "He had fled to Belgium in 2017.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour finir, Libération rapporte que la start-up française Mistral AI",
+   "en": "To finish, «Libération» reports that the French start-up «Mistral AI»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a présenté mardi un nouveau modèle d'intelligence artificielle, Mistral Large 4,",
+   "en": "presented a new artificial intelligence model, «Mistral Large 4», on Tuesday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour rivaliser avec les géants américains et chinois.",
+   "en": "to compete with the American and Chinese giants.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 6 October",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "The Nobel Prize in physics goes to Belgian physicist Francis Halzen for his work on neutrinos",
+ "summary_en": [
+  "The Nobel Prize in physics goes to Belgian physicist Francis Halzen for his work on neutrinos",
+  "High school protest day across France: 450,000 marchers by the organisers' count, 256,000 by the Interior Ministry's",
+  "Emmanuel Macron attends the exercise firing of a new nuclear missile from a submarine"
+ ]
+}

@@ -2,7 +2,7 @@
  "schema": 1,
  "channel": "daily",
  "dialect": "fr-FR",
- "base": "https://pshoben.github.io/podyglot-daily/",
+ "date": "2026-10-06",
  "episodes": [
   {
    "id": "fr-FR-Le journal du matin, mardi 6 octobre",
@@ -64,67 +64,9 @@
     "Showers in Marseille, between 20 and 26 degrees, wind 12 km/h at most",
     "Rain in Bordeaux, between 20 and 29 degrees, wind 15 km/h at most"
    ]
-  },
-  {
-   "id": "fr-FR-Le journal du matin, lundi 5 octobre",
-   "file": "podcast-daily-2026-10-05-morning-news-fr-FR.json",
-   "bytes": 9925,
-   "sha256": "21fda23ab335a622b0800c3ca5f6896c1892eda9ebf0ad7a4fdf0af88a1ba3b8",
-   "date": "2026-10-05",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le journal du matin, lundi 5 octobre",
-   "title_en": "The morning news, Monday 5 October",
-   "headline_en": "Brazil: far-right candidate Flavio Bolsonaro leads President Lula after the first round",
-   "summary_en": [
-    "Brazil: far-right candidate Flavio Bolsonaro leads President Lula after the first round",
-    "Hundreds of French high schools disrupted on Monday, on the eve of a new day of protest",
-    "Two migrants die during a Channel crossing attempt at Berck, in the Pas-de-Calais"
-   ]
-  },
-  {
-   "id": "fr-FR-Le sport, lundi 5 octobre",
-   "file": "podcast-daily-2026-10-05-morning-sport-fr-FR.json",
-   "bytes": 4658,
-   "sha256": "b0e25511286083487c1d36ff255358935f78fdba0cf7e448d109f98a53fb5b62",
-   "date": "2026-10-05",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le sport, lundi 5 octobre",
-   "title_en": "Today's sport, Monday 5 October",
-   "headline_en": "Football: France host Belgium in the Nations League tonight at Saint-Denis",
-   "summary_en": [
-    "Football: France host Belgium in the Nations League tonight at Saint-Denis",
-    "Basketball: an injured Tobias Harris, Victor Wembanyama's new Spurs team-mate, will miss the preseason"
-   ]
-  },
-  {
-   "id": "fr-FR-La météo, lundi 5 octobre",
-   "file": "podcast-daily-2026-10-05-morning-weather-fr-FR.json",
-   "bytes": 4744,
-   "sha256": "3eedfcedba080023e72e28223468275aa439dbdd2320f06e277fb9a52117584b",
-   "date": "2026-10-05",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "La météo, lundi 5 octobre",
-   "title_en": "Today's weather, Monday 5 October",
-   "headline_en": "Heavy rain forecast for Marseille, 26 degrees at most and 21 at least",
-   "summary_en": [
-    "Heavy rain forecast for Marseille, 26 degrees at most and 21 at least",
-    "Lyon overcast and peaking at 27 degrees, low of 16"
-   ]
   }
- ]
+ ],
+ "content": "8595722bd7f8711ad526a3d07230f33c546939d2a4eff93ab9181d9be8e3393c",
+ "rev": 1,
+ "updated": "2026-10-06T19:14:30.646Z"
 }

@@ -1,0 +1,219 @@
+{
+ "title": "Le sport, mardi 6 octobre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-10-06",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "À suivre aujourd'hui, le football:",
+   "en": "To follow today, football:",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lionel Messi dispute son dernier match avec l'Argentine,",
+   "en": "«Lionel Messi» plays his last match with Argentina,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "face au Bénin, à Buenos Aires.",
+   "en": "against Benin, in «Buenos Aires».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il s'agit d'un match amical, prévu dans la nuit de mardi à mercredi,",
+   "en": "It is a friendly, scheduled for the night from Tuesday to Wednesday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à une heure du matin, précise Ouest-France.",
+   "en": "at one in the morning, «Ouest-France» says.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au FC Nantes, le comité social et économique du club",
+   "en": "At «FC Nantes», the club's social and economic committee",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a émis mardi un avis défavorable sur le projet de vente",
+   "en": "gave an unfavourable opinion on Tuesday on the sale project",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "porté par Paulo Tavares, selon L'Équipe.",
+   "en": "led by «Paulo Tavares», according to «L'Équipe».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au programme, le rugby:",
+   "en": "On the programme, rugby:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le Stade Toulousain a annoncé mardi que son deuxième-ligne international Emmanuel Meafou",
+   "en": "«Stade Toulousain» announced on Tuesday that its international lock «Emmanuel Meafou»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avait prolongé son contrat de cinq saisons,",
+   "en": "has extended his contract by five seasons,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "jusqu'en 2032.",
+   "en": "until 2032.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Toulon, Pierre Mignoni n'est plus le directeur du rugby du club,",
+   "en": "In «Toulon», «Pierre Mignoni» is no longer the club's director of rugby,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qui l'a annoncé mardi, d'après France Télévisions.",
+   "en": "which announced it on Tuesday, according to «France Télévisions».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sur les terrains, le basket:",
+   "en": "On the pitches, basketball:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "l'équipe de l'Insep ne disputera pas la Nationale 1 masculine cette saison,",
+   "en": "the «Insep» team will not play in men's «Nationale 1» this season,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "après des faits de bizutage.",
+   "en": "after incidents of hazing.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dix joueurs ont été sanctionnés.",
+   "en": "Ten players have been sanctioned.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Tuesday 6 October",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Football: Lionel Messi plays his last match for Argentina against Benin in Buenos Aires tonight",
+ "summary_en": [
+  "Football: Lionel Messi plays his last match for Argentina against Benin in Buenos Aires tonight",
+  "Football: FC Nantes staff council gives an unfavourable opinion on the sale of the club to Paulo Tavares's project"
+ ]
+}
