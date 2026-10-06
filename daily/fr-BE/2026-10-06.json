@@ -7,8 +7,8 @@
   {
    "id": "fr-BE-Le sept heures, mardi 6 octobre",
    "file": "podcast-daily-2026-10-06-morning-news-fr-BE.json",
-   "bytes": 10991,
-   "sha256": "97a6e9ad34365bb8f68ddc1d8fdc74951b73e6b75312d417eb3ed7cd5310dfc4",
+   "bytes": 11502,
+   "sha256": "612969cae5fc54a4c645335d4f0ebe48b3ba345f8b756f137f23714f4639cd0c",
    "date": "2026-10-06",
    "edition": "morning",
    "programme": "news",
@@ -18,18 +18,18 @@
    "region_label": "Belgique",
    "title": "Le sept heures, mardi 6 octobre",
    "title_en": "The morning news, Tuesday 6 October",
-   "headline_en": "French secondary pupils march again across France on Tuesday: some 250,000 according to the authorities, 450,000 according to the organisers",
+   "headline_en": "The pupils' protests continue in Belgium, with fresh incidents in Liège",
    "summary_en": [
-    "French secondary pupils march again across France on Tuesday: some 250,000 according to the authorities, 450,000 according to the organisers",
-    "Pupils' demonstrations multiply in Belgium, in Liège, Brussels, Mons, Charleroi and Arlon, according to RTBF",
-    "Arrests in Liège: RTBF says 33, La Libre counts 33 administrative and two judicial arrests, DH counts 31 administrative and two judicial"
+    "The pupils' protests continue in Belgium, with fresh incidents in Liège",
+    "The German far right wins the presidency of a regional parliament in Saxony-Anhalt, a first since 1945 according to DH",
+    "Defence minister Theo Francken calls on Facebook for compulsory military service, as pupils demonstrate"
    ]
   },
   {
    "id": "fr-BE-Le temps chez nous, mardi 6 octobre",
    "file": "podcast-daily-2026-10-06-morning-weather-fr-BE.json",
-   "bytes": 4933,
-   "sha256": "64fe34503687107e443af36132b0ef7354e03efb32a366456e07c91b63a32ac1",
+   "bytes": 5273,
+   "sha256": "3917db19dd1ffcb6ca3fd757c2dbda5fc2a688c3565a217f59edf525cf69f912",
    "date": "2026-10-06",
    "edition": "morning",
    "programme": "weather",
@@ -39,14 +39,14 @@
    "region_label": "Belgique",
    "title": "Le temps chez nous, mardi 6 octobre",
    "title_en": "Today's weather, Tuesday 6 October",
-   "headline_en": "RTBF forecasts more sun and mild weather this Tuesday afternoon, with grey patches clearing in the west",
+   "headline_en": "RTBF forecasts more sun and mild weather this Tuesday afternoon, grey patches clearing in the west but perhaps replaced by a few banks of cloud",
    "summary_en": [
-    "RTBF forecasts more sun and mild weather this Tuesday afternoon, with grey patches clearing in the west",
-    "Namur reaches 23 degrees today, with a low of 6, no rain expected and wind up to 8 km/h, according to the ECMWF model"
+    "RTBF forecasts more sun and mild weather this Tuesday afternoon, grey patches clearing in the west but perhaps replaced by a few banks of cloud",
+    "Liège on the ECMWF model: a high of 22 degrees, a low of 8 and no rain expected"
    ]
   }
  ],
- "content": "9fbd11a00d80dade0da8efe27bbace37d5f4a4d97f450d6b749f06390bc41513",
- "rev": 1,
- "updated": "2026-10-06T19:14:30.646Z"
+ "content": "605fb6a0c5f0fde1ed73f178fc91063fffdfe1016d952d0c77673cc1f642d48b",
+ "rev": 2,
+ "updated": "2026-10-06T20:06:42.407Z"
 }

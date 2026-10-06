@@ -16,12 +16,22 @@
  "turns": [
   {
    "speaker": "SPK1",
-   "text": "Pour ce mardi, encore du soleil et de la douceur cet après-midi, selon la RTBF.",
-   "en": "For this Tuesday, more sun and mild weather this afternoon, according to «RTBF».",
+   "text": "Ce mardi, selon la RTBF,",
+   "en": "This Tuesday, according to «RTBF»,",
    "prosody": {
     "pause_ms": 240,
-    "rate": 1.02,
-    "pitch": 1.02
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le soleil et la douceur tiennent encore cet après-midi.",
+   "en": "the sun and mild weather hold on this afternoon.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
    }
   },
   {
@@ -46,8 +56,58 @@
   },
   {
    "speaker": "SPK1",
-   "text": "D'après le modèle du Centre européen, l'ECMWF,",
-   "en": "According to the European Centre model, the «ECMWF»,",
+   "text": "Le modèle du Centre européen, l'ECMWF,",
+   "en": "The European Centre model, the «ECMWF»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "voit Liège à vingt-deux degrés au maximum aujourd'hui.",
+   "en": "sees «Liège» at a high of twenty-two degrees today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le minimum liégeois s'établit à huit degrés,",
+   "en": "The «Liège» low is eight degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le risque de précipitation est de zéro pour cent.",
+   "en": "and the risk of rain is zero per cent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent maximal prévu y est de huit kilomètres par heure.",
+   "en": "The forecast maximum wind there is eight kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Namur gagne un degré sur Liège,",
+   "en": "«Namur» gains a degree on «Liège»,",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.02,
@@ -56,8 +116,8 @@
   },
   {
    "speaker": "SPK1",
-   "text": "Namur grimpe à vingt-trois degrés aujourd'hui.",
-   "en": "«Namur» climbs to twenty-three degrees today.",
+   "text": "avec vingt-trois degrés au plus haut.",
+   "en": "with a high of twenty-three degrees.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.03,
@@ -66,8 +126,28 @@
   },
   {
    "speaker": "SPK1",
-   "text": "Quant à la minimale, elle se fixe à six degrés pour la ville.",
-   "en": "As for the low, it is set at six degrees for the town.",
+   "text": "Son minimum tombe à six degrés,",
+   "en": "Its low falls to six degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et aucune précipitation n'est prévue du côté namurois.",
+   "en": "and no rain is forecast on the «Namur» side.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour le vent, le maximum namurois est de huit kilomètres par heure.",
+   "en": "As for the wind, the «Namur» maximum is eight kilometres an hour.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.02,
@@ -76,48 +156,28 @@
   },
   {
    "speaker": "SPK1",
-   "text": "Le risque de précipitation y est de zéro pour cent.",
-   "en": "The risk of rain there is zero per cent.",
-   "prosody": {
-    "pause_ms": 300,
-    "rate": 0.99,
-    "pitch": 1.02
-   }
-  },
-  {
-   "speaker": "SPK1",
-   "text": "Le vent culmine à huit kilomètres par heure du côté namurois.",
-   "en": "The wind peaks at eight kilometres an hour on the «Namur» side.",
-   "prosody": {
-    "pause_ms": 300,
-    "rate": 1.01,
-    "pitch": 1.02
-   }
-  },
-  {
-   "speaker": "SPK1",
-   "text": "À Liège, la maximale atteint vingt-deux degrés.",
-   "en": "In «Liège», the high reaches twenty-two degrees.",
+   "text": "Bruxelles retrouve le maximum liégeois, vingt-deux degrés,",
+   "en": "Brussels matches the «Liège» high, twenty-two degrees,",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.02,
-    "pitch": 1.02
+    "pitch": 1.04
    }
   },
   {
    "speaker": "SPK1",
-   "text": "La minimale y est de huit degrés.",
-   "en": "The low there is eight degrees.",
+   "text": "avec neuf degrés au plus bas.",
+   "en": "with nine degrees at the lowest.",
    "prosody": {
     "pause_ms": 300,
-    "rate": 1.0,
-    "pitch": 1.02
+    "rate": 1.06,
+    "pitch": 0.96
    }
   },
   {
    "speaker": "SPK1",
-   "text": "Aucune précipitation n'est prévue du côté liégeois.",
-   "en": "No rain is expected on the «Liège» side.",
+   "text": "Le risque de pluie est nul dans la capitale aussi.",
+   "en": "The risk of rain is zero in the capital too.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.01,
@@ -126,48 +186,8 @@
   },
   {
    "speaker": "SPK1",
-   "text": "Le vent n'y dépasse pas huit kilomètres par heure.",
-   "en": "The wind there does not exceed eight kilometres an hour.",
-   "prosody": {
-    "pause_ms": 300,
-    "rate": 0.99,
-    "pitch": 1.02
-   }
-  },
-  {
-   "speaker": "SPK1",
-   "text": "À Bruxelles, la maximale est identique, vingt-deux degrés.",
-   "en": "In Brussels, the high is the same, twenty-two degrees.",
-   "prosody": {
-    "pause_ms": 300,
-    "rate": 1.0,
-    "pitch": 1.02
-   }
-  },
-  {
-   "speaker": "SPK1",
-   "text": "La minimale y est de neuf degrés.",
-   "en": "The low there is nine degrees.",
-   "prosody": {
-    "pause_ms": 300,
-    "rate": 0.98,
-    "pitch": 1.02
-   }
-  },
-  {
-   "speaker": "SPK1",
-   "text": "Pas de précipitation prévue non plus dans la capitale.",
-   "en": "No rain is forecast there either, in the capital.",
-   "prosody": {
-    "pause_ms": 300,
-    "rate": 0.98,
-    "pitch": 1.02
-   }
-  },
-  {
-   "speaker": "SPK1",
-   "text": "Le vent y souffle à huit kilomètres par heure au plus.",
-   "en": "The wind blows at eight kilometres an hour at most.",
+   "text": "Là aussi, la pointe de vent est de huit kilomètres par heure.",
+   "en": "There too, the peak wind is eight kilometres an hour.",
    "prosody": {
     "pause_ms": 300,
     "rate": 0.98,
@@ -191,9 +211,9 @@
  "edition": "morning",
  "region": "fr-BE",
  "region_label": "Belgique",
- "headline_en": "RTBF forecasts more sun and mild weather this Tuesday afternoon, with grey patches clearing in the west",
+ "headline_en": "RTBF forecasts more sun and mild weather this Tuesday afternoon, grey patches clearing in the west but perhaps replaced by a few banks of cloud",
  "summary_en": [
-  "RTBF forecasts more sun and mild weather this Tuesday afternoon, with grey patches clearing in the west",
-  "Namur reaches 23 degrees today, with a low of 6, no rain expected and wind up to 8 km/h, according to the ECMWF model"
+  "RTBF forecasts more sun and mild weather this Tuesday afternoon, grey patches clearing in the west but perhaps replaced by a few banks of cloud",
+  "Liège on the ECMWF model: a high of 22 degrees, a low of 8 and no rain expected"
  ]
 }

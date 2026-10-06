@@ -7,8 +7,8 @@
   {
    "id": "fr-FR-Le journal du matin, mardi 6 octobre",
    "file": "podcast-daily-2026-10-06-morning-news-fr-FR.json",
-   "bytes": 9368,
-   "sha256": "ce559d199e4f5feee4e4f9482a46741e94ab05b7b41dbd50c9c89a9ea1dd4a8e",
+   "bytes": 9767,
+   "sha256": "2a3b97b021258d995cf4cc1fb35b2de3e386f58c81109e6b1aaff0dde090c2f3",
    "date": "2026-10-06",
    "edition": "morning",
    "programme": "news",
@@ -18,18 +18,18 @@
    "region_label": "France",
    "title": "Le journal du matin, mardi 6 octobre",
    "title_en": "The morning news, Tuesday 6 October",
-   "headline_en": "The Nobel Prize in physics goes to Belgian physicist Francis Halzen for his work on neutrinos",
+   "headline_en": "High school students, parents and teachers march across France for a third day of action; the counts differ widely",
    "summary_en": [
-    "The Nobel Prize in physics goes to Belgian physicist Francis Halzen for his work on neutrinos",
-    "High school protest day across France: 450,000 marchers by the organisers' count, 256,000 by the Interior Ministry's",
-    "Emmanuel Macron attends the exercise firing of a new nuclear missile from a submarine"
+    "High school students, parents and teachers march across France for a third day of action; the counts differ widely",
+    "Paramount completes its 110 billion dollar purchase of Warner Bros Discovery, creating a group renamed Skydance",
+    "Prime Minister Sebastien Lecornu announces a time of internal democracy in the high schools"
    ]
   },
   {
    "id": "fr-FR-Le sport, mardi 6 octobre",
    "file": "podcast-daily-2026-10-06-morning-sport-fr-FR.json",
-   "bytes": 5207,
-   "sha256": "60fd3db89948342a5a089048a6340377c4f63aa25264d2b19b2e05cb8eb20d34",
+   "bytes": 4774,
+   "sha256": "eaa3a3a7dbb92e88064eac4411b25ce35ba00da1ca8ca63cc2b32db46d784e3c",
    "date": "2026-10-06",
    "edition": "morning",
    "programme": "sport",
@@ -39,17 +39,17 @@
    "region_label": "France",
    "title": "Le sport, mardi 6 octobre",
    "title_en": "Today's sport, Tuesday 6 October",
-   "headline_en": "Football: Lionel Messi plays his last match for Argentina against Benin in Buenos Aires tonight",
+   "headline_en": "Football: Lionel Messi plays his last match for Argentina, against Benin in Buenos Aires",
    "summary_en": [
-    "Football: Lionel Messi plays his last match for Argentina against Benin in Buenos Aires tonight",
-    "Football: FC Nantes staff council gives an unfavourable opinion on the sale of the club to Paulo Tavares's project"
+    "Football: Lionel Messi plays his last match for Argentina, against Benin in Buenos Aires",
+    "Football: FC Nantes's works council gives an unfavourable opinion on the Tavares takeover project"
    ]
   },
   {
    "id": "fr-FR-La météo, mardi 6 octobre",
    "file": "podcast-daily-2026-10-06-morning-weather-fr-FR.json",
-   "bytes": 5163,
-   "sha256": "68860fb7a7db41c42054b8eb5b53490b5948c7ebbe68f8f616ad273b092e1395",
+   "bytes": 5379,
+   "sha256": "f0e5c2e803b778cfdf04cc085fe92fa5a7e3a2fffb89e25000f69c82779ad456",
    "date": "2026-10-06",
    "edition": "morning",
    "programme": "weather",
@@ -59,14 +59,14 @@
    "region_label": "France",
    "title": "La météo, mardi 6 octobre",
    "title_en": "Today's weather, Tuesday 6 October",
-   "headline_en": "Showers in Marseille, between 20 and 26 degrees, wind 12 km/h at most",
+   "headline_en": "Bordeaux today: drizzle, 20 to 29 degrees, wind up to 15 km/h",
    "summary_en": [
-    "Showers in Marseille, between 20 and 26 degrees, wind 12 km/h at most",
-    "Rain in Bordeaux, between 20 and 29 degrees, wind 15 km/h at most"
+    "Bordeaux today: drizzle, 20 to 29 degrees, wind up to 15 km/h",
+    "Marseille today: showers, 20 to 26 degrees, wind up to 12 km/h"
    ]
   }
  ],
- "content": "8595722bd7f8711ad526a3d07230f33c546939d2a4eff93ab9181d9be8e3393c",
- "rev": 1,
- "updated": "2026-10-06T19:14:30.646Z"
+ "content": "de6a0ca5eb0b296e302f706733777e8ba42967df3c34e91fedb62730e0abbdca",
+ "rev": 2,
+ "updated": "2026-10-06T20:06:42.407Z"
 }

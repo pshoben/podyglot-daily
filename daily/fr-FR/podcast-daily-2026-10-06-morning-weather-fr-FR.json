@@ -16,88 +16,38 @@
  "turns": [
   {
    "speaker": "SPK1",
-   "text": "Côté ciel aujourd'hui,",
-   "en": "Sky today:",
+   "text": "Aujourd'hui, côté ciel,",
+   "en": "Today, as for the sky,",
    "prosody": {
     "pause_ms": 240,
-    "rate": 1.01,
-    "pitch": 1.04
-   }
-  },
-  {
-   "speaker": "SPK1",
-   "text": "voici ce que prévoient les modèles de Météo-France pour six villes de France.",
-   "en": "here is what the «Météo-France» models forecast for six cities in France.",
-   "prosody": {
-    "pause_ms": 240,
-    "rate": 1.05,
-    "pitch": 0.96
-   }
-  },
-  {
-   "speaker": "SPK1",
-   "text": "Marseille essuie des averses: le vent y atteint douze kilomètres par heure au plus,",
-   "en": "«Marseille» gets showers: the wind reaches twelve kilometres per hour at most,",
-   "prosody": {
-    "pause_ms": 300,
-    "rate": 0.99,
-    "pitch": 1.04
-   }
-  },
-  {
-   "speaker": "SPK1",
-   "text": "et les températures vont de vingt à vingt-six degrés.",
-   "en": "and temperatures range from twenty to twenty-six degrees.",
-   "prosody": {
-    "pause_ms": 300,
-    "rate": 1.06,
-    "pitch": 0.96
-   }
-  },
-  {
-   "speaker": "SPK1",
-   "text": "À Bordeaux, il pleut. On y attend vingt degrés au minimum, vingt-neuf au maximum,",
-   "en": "In «Bordeaux», it is raining. Expect twenty degrees at the lowest, twenty-nine at the highest,",
-   "prosody": {
-    "pause_ms": 300,
     "rate": 1.0,
     "pitch": 1.04
    }
   },
   {
    "speaker": "SPK1",
-   "text": "et quinze kilomètres par heure de vent au plus.",
-   "en": "and fifteen kilometres per hour of wind at most.",
+   "text": "voici les prévisions que livrent les modèles de Météo-France sur six villes françaises.",
+   "en": "here are the forecasts from the «Météo-France» models for six French cities.",
    "prosody": {
-    "pause_ms": 300,
-    "rate": 1.05,
+    "pause_ms": 240,
+    "rate": 1.06,
     "pitch": 0.96
    }
   },
   {
    "speaker": "SPK1",
-   "text": "Le ciel est couvert à Lyon,",
-   "en": "The sky is overcast in «Lyon»,",
+   "text": "À Bordeaux, la bruine s'installe,",
+   "en": "In «Bordeaux», drizzle sets in,",
    "prosody": {
     "pause_ms": 300,
-    "rate": 1.02,
-    "pitch": 1.06
+    "rate": 1.01,
+    "pitch": 1.04
    }
   },
   {
    "speaker": "SPK1",
-   "text": "où les températures vont de quinze à vingt-sept degrés,",
-   "en": "where temperatures range from fifteen to twenty-seven degrees,",
-   "prosody": {
-    "pause_ms": 300,
-    "rate": 0.99,
-    "pitch": 1.035
-   }
-  },
-  {
-   "speaker": "SPK1",
-   "text": "avec un vent de seize kilomètres par heure au plus.",
-   "en": "with a wind of sixteen kilometres per hour at most.",
+   "text": "avec des températures entre vingt et vingt-neuf degrés, et une pointe de vent à quinze kilomètres par heure.",
+   "en": "with temperatures between twenty and twenty-nine degrees and a wind peak of fifteen kilometres an hour.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.03,
@@ -106,38 +56,38 @@
   },
   {
    "speaker": "SPK1",
-   "text": "Paris est couverte, avec un vent de dix kilomètres par heure au plus,",
-   "en": "«Paris» is overcast, with a wind of ten kilometres per hour at most,",
+   "text": "Marseille reçoit des averses, avec un creux à vingt degrés, un sommet à vingt-six,",
+   "en": "«Marseille» gets showers, with a low of twenty degrees, a high of twenty-six,",
    "prosody": {
     "pause_ms": 300,
-    "rate": 1.02,
+    "rate": 1.01,
     "pitch": 1.04
    }
   },
   {
    "speaker": "SPK1",
-   "text": "un minimum de treize degrés et un maximum de vingt-quatre.",
-   "en": "a low of thirteen degrees and a high of twenty-four.",
+   "text": "et un vent qui se cantonne à douze kilomètres par heure.",
+   "en": "and wind confined to twelve kilometres an hour.",
    "prosody": {
     "pause_ms": 300,
-    "rate": 1.05,
+    "rate": 1.06,
     "pitch": 0.96
    }
   },
   {
    "speaker": "SPK1",
-   "text": "Lille a elle aussi un ciel couvert.",
-   "en": "«Lille» also has an overcast sky.",
+   "text": "Paris conserve un ciel couvert,",
+   "en": "«Paris» keeps an overcast sky,",
    "prosody": {
     "pause_ms": 300,
-    "rate": 1.02,
+    "rate": 1.04,
     "pitch": 1.06
    }
   },
   {
    "speaker": "SPK1",
-   "text": "Il y fera onze degrés au minimum, vingt-trois au maximum,",
-   "en": "It will be eleven degrees at the lowest, twenty-three at the highest,",
+   "text": "le thermomètre y oscille entre treize et vingt-quatre degrés,",
+   "en": "the thermometer swings between thirteen and twenty-four degrees,",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.01,
@@ -146,8 +96,8 @@
   },
   {
    "speaker": "SPK1",
-   "text": "et le vent atteindra onze kilomètres par heure au plus.",
-   "en": "and the wind will reach eleven kilometres per hour at most.",
+   "text": "et la valeur maximale du vent est de dix kilomètres par heure.",
+   "en": "and the maximum wind value is ten kilometres an hour.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.1,
@@ -156,31 +106,91 @@
   },
   {
    "speaker": "SPK1",
-   "text": "Pour finir, Strasbourg: le ciel est couvert,",
-   "en": "To finish, «Strasbourg»: the sky is overcast,",
+   "text": "À Lille, les nuages dominent,",
+   "en": "In «Lille», the clouds dominate,",
    "prosody": {
     "pause_ms": 300,
-    "rate": 1.02,
+    "rate": 1.01,
     "pitch": 1.06
    }
   },
   {
    "speaker": "SPK1",
-   "text": "le vent ne dépasse pas onze kilomètres par heure,",
-   "en": "the wind does not exceed eleven kilometres per hour,",
+   "text": "les valeurs s'échelonnent de onze à vingt-trois degrés,",
+   "en": "the values range from eleven to twenty-three degrees,",
    "prosody": {
     "pause_ms": 300,
-    "rate": 0.99,
+    "rate": 1.0,
     "pitch": 1.035
    }
   },
   {
    "speaker": "SPK1",
-   "text": "et le mercure s'étage de douze à vingt-cinq degrés.",
-   "en": "and the mercury ranges from twelve to twenty-five degrees.",
+   "text": "tandis que le vent ne monte pas au-dessus de onze kilomètres par heure.",
+   "en": "while the wind does not rise above eleven kilometres an hour.",
    "prosody": {
     "pause_ms": 300,
     "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Même ciel couvert à Strasbourg,",
+   "en": "Same overcast sky in «Strasbourg»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec douze degrés en bas de l'échelle et vingt-cinq en haut,",
+   "en": "with twelve degrees at the bottom of the scale and twenty-five at the top,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et un vent qui s'arrête à onze kilomètres par heure.",
+   "en": "and wind stopping at eleven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lyon reste sous les nuages:",
+   "en": "«Lyon» stays under the clouds:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le vent ne va pas au-delà de seize kilomètres par heure,",
+   "en": "the wind does not go beyond sixteen kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et les températures s'inscrivent entre quinze et vingt-sept degrés.",
+   "en": "and temperatures fall between fifteen and twenty-seven degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
     "pitch": 0.96
    }
   },
@@ -201,9 +211,9 @@
  "edition": "morning",
  "region": "fr-FR",
  "region_label": "France",
- "headline_en": "Showers in Marseille, between 20 and 26 degrees, wind 12 km/h at most",
+ "headline_en": "Bordeaux today: drizzle, 20 to 29 degrees, wind up to 15 km/h",
  "summary_en": [
-  "Showers in Marseille, between 20 and 26 degrees, wind 12 km/h at most",
-  "Rain in Bordeaux, between 20 and 29 degrees, wind 15 km/h at most"
+  "Bordeaux today: drizzle, 20 to 29 degrees, wind up to 15 km/h",
+  "Marseille today: showers, 20 to 26 degrees, wind up to 12 km/h"
  ]
 }
