@@ -1,0 +1,209 @@
+{
+ "title": "La météo, vendredi 16 octobre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-10-16",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Les modèles de Météo-France passent aujourd'hui six villes du pays en revue.",
+   "en": "Today, the «Météo-France» models run through six cities across the country.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lille a droit à de la pluie faible:",
+   "en": "«Lille» gets light rain:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le vent atteint dix-huit kilomètres par heure,",
+   "en": "the wind reaches eighteen kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et la température varie de douze à vingt degrés.",
+   "en": "and the temperature ranges from twelve to twenty degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Paris, la bruine s'accompagne d'un vent donné à dix-neuf kilomètres par heure,",
+   "en": "In «Paris» the drizzle comes with a wind put at nineteen kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec quatorze degrés au minimum et vingt et un au maximum.",
+   "en": "with fourteen degrees at the minimum and twenty-one at the maximum.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ciel est couvert à Strasbourg,",
+   "en": "The sky is overcast in «Strasbourg»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec des températures comprises entre neuf et vingt et un degrés,",
+   "en": "with temperatures between nine and twenty-one degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour un vent qui n'excède pas neuf kilomètres par heure.",
+   "en": "and a wind that does not exceed nine kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lyon se présente sous un ciel couvert:",
+   "en": "«Lyon» is under an overcast sky:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le vent souffle à dix-sept kilomètres par heure,",
+   "en": "the wind blows at seventeen kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la minimale est de treize degrés et la maximale s'établit à vingt-six degrés.",
+   "en": "the minimum is thirteen degrees and the maximum comes to twenty-six degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Marseille, c'est un temps couvert,",
+   "en": "In «Marseille» it is overcast,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans une fourchette de seize à vingt et un degrés,",
+   "en": "within a range of sixteen to twenty-one degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un vent prévu à dix-sept kilomètres par heure.",
+   "en": "with the wind forecast at seventeen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il bruine sur Bordeaux, où le vent ne dépasse pas onze kilomètres par heure,",
+   "en": "It is drizzling over «Bordeaux», where the wind does not exceed eleven kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec des températures qui se tiennent entre dix-sept et vingt degrés.",
+   "en": "with temperatures holding between seventeen and twenty degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Friday 16 October",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Lille today: light rain, 12 to 20 degrees, wind up to 18 km/h",
+ "summary_en": [
+  "Lille today: light rain, 12 to 20 degrees, wind up to 18 km/h",
+  "Paris today: drizzle, 14 to 21 degrees, wind up to 19 km/h"
+ ]
+}

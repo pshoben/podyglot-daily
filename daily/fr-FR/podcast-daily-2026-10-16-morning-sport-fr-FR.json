@@ -1,0 +1,189 @@
+{
+ "title": "Le sport, vendredi 16 octobre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-10-16",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Sur les terrains, le rugby:",
+   "en": "On the pitch, rugby:",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la principale coupe internationale de clubs reprend ses droits à partir de ce vendredi.",
+   "en": "the main international club cup resumes this Friday.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Union Bordeaux-Bègles, tenante du titre,",
+   "en": "«Union Bordeaux-Bègles», the title holders,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ouvre ce soir la Champions Cup sur la pelouse de Gloucester,",
+   "en": "open the Champions Cup tonight at Gloucester,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à vingt et une heures.",
+   "en": "at nine o'clock.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Quatre joueurs bordelais, dont l'ailier Louis Bielle-Biarrey,",
+   "en": "Four Bordeaux players, including the winger «Louis Bielle-Biarrey»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "étaient bloqués jeudi à l'aéroport de Bristol pour des raisons administratives, rapporte Ouest-France.",
+   "en": "were held up on Thursday at Bristol airport for administrative reasons, «Ouest-France» reports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ils ont pu rejoindre le reste de l'équipe.",
+   "en": "They were able to join the rest of the team.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au programme, la gouvernance du football:",
+   "en": "On the programme, football governance:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le nom d'Arsène Wenger, soixante-seize ans,",
+   "en": "the name of «Arsène Wenger», seventy-six,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "circule pour la présidence de la Fifa, face à Gianni Infantino.",
+   "en": "is being mentioned for the presidency of Fifa, against «Gianni Infantino».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Arsène Wenger n'a pas dévoilé ses intentions à ce stade,",
+   "en": "«Arsène Wenger» has not revealed his intentions at this stage,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le dépôt des candidatures est fixé au dix-huit novembre.",
+   "en": "and applications are due by 18th November.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En tennis, Loïs Boisson est touchée au talon, écrit L'Équipe.",
+   "en": "In tennis, «Loïs Boisson» has a heel injury, «L'Équipe» writes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Elle a annoncé sur Instagram qu'elle serait absente pour plusieurs semaines.",
+   "en": "She announced on «Instagram» that she would be out for several weeks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Friday 16 October",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Rugby: the Champions Cup resumes, with the title holders Bordeaux-Begles opening at Gloucester tonight at 9pm",
+ "summary_en": [
+  "Rugby: the Champions Cup resumes, with the title holders Bordeaux-Begles opening at Gloucester tonight at 9pm",
+  "Rugby: four Bordeaux-Begles players held up at Bristol airport have joined the squad"
+ ]
+}

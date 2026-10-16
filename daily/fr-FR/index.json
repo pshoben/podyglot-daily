@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-FR-Le journal du matin, vendredi 16 octobre",
+   "file": "podcast-daily-2026-10-16-morning-news-fr-FR.json",
+   "bytes": 10193,
+   "sha256": "2e01935a0be250c6569db5daf3dc9b86f07cec6b8ead7b987c3ad1bc1ca59edf",
+   "date": "2026-10-16",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, vendredi 16 octobre",
+   "title_en": "The morning news, Friday 16 October",
+   "headline_en": "Gilets jaunes and high school students are called to demonstrate across France on Saturday against the high cost of living",
+   "summary_en": [
+    "Gilets jaunes and high school students are called to demonstrate across France on Saturday against the high cost of living",
+    "Donald Trump criticises Volodymyr Zelensky again after the announcement that Ukraine will resume strikes on Russian refineries",
+    "France 24 counts more than a thousand actions for the 17 October day of mobilisation"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, vendredi 16 octobre",
+   "file": "podcast-daily-2026-10-16-morning-sport-fr-FR.json",
+   "bytes": 4741,
+   "sha256": "c27b09436099457fac15b09a1de096f31466ecc3dcac0270fd88af3ad2fd00e1",
+   "date": "2026-10-16",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, vendredi 16 octobre",
+   "title_en": "Today's sport, Friday 16 October",
+   "headline_en": "Rugby: the Champions Cup resumes, with the title holders Bordeaux-Begles opening at Gloucester tonight at 9pm",
+   "summary_en": [
+    "Rugby: the Champions Cup resumes, with the title holders Bordeaux-Begles opening at Gloucester tonight at 9pm",
+    "Rugby: four Bordeaux-Begles players held up at Bristol airport have joined the squad"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, vendredi 16 octobre",
+   "file": "podcast-daily-2026-10-16-morning-weather-fr-FR.json",
+   "bytes": 5170,
+   "sha256": "0bb94b12812e4ce319e2d0dc7c3736dfb2aca7dfa95b88ac1448a43d9ca8729b",
+   "date": "2026-10-16",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, vendredi 16 octobre",
+   "title_en": "Today's weather, Friday 16 October",
+   "headline_en": "Lille today: light rain, 12 to 20 degrees, wind up to 18 km/h",
+   "summary_en": [
+    "Lille today: light rain, 12 to 20 degrees, wind up to 18 km/h",
+    "Paris today: drizzle, 14 to 21 degrees, wind up to 19 km/h"
+   ]
+  },
+  {
    "id": "fr-FR-Le journal du matin, mardi 6 octobre",
    "file": "podcast-daily-2026-10-06-morning-news-fr-FR.json",
    "bytes": 9767,

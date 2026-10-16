@@ -1,0 +1,370 @@
+{
+ "title": "Le journal du matin, vendredi 16 octobre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-10-16",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Vendredi seize octobre. Le journal du matin.",
+   "en": "Friday 16th October. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Samedi, les gilets jaunes et les lycéens sont appelés à manifester dans toute la France,",
+   "en": "On Saturday, the «gilets jaunes» and high school students are called to demonstrate across France,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "contre la vie chère.",
+   "en": "against the high cost of living.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Donald Trump critique de nouveau Volodymyr Zelensky,",
+   "en": "Donald Trump criticises «Volodymyr Zelensky» again,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "après l'annonce de la reprise des frappes ukrainiennes sur des raffineries russes.",
+   "en": "after the announcement that Ukrainian strikes on Russian refineries would resume.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par la mobilisation de samedi, contre la vie chère:",
+   "en": "We start with Saturday's day of action against the high cost of living:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "lancé sur les réseaux sociaux, l'appel concerne aussi les agriculteurs et les retraités.",
+   "en": "launched on social media, the call also concerns farmers and retirees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Plus d'un millier d'actions sont déjà recensées dans le pays, d'après France 24.",
+   "en": "More than a thousand actions are already listed across the country, according to «France 24».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ministre de l'Intérieur, Laurent Nuñez,",
+   "en": "Interior Minister «Laurent Nuñez»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a annoncé vendredi que les forces de l'ordre pourront de nouveau utiliser des grenades assourdissantes,",
+   "en": "announced on Friday that the security forces will be able to use stun grenades again,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "si de graves violences éclatent lors des manifestations de samedi.",
+   "en": "if serious violence breaks out at Saturday's demonstrations.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Leur usage avait été suspendu pendant le mouvement lycéen.",
+   "en": "Their use had been suspended during the high school movement.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre sujet maintenant, l'Ukraine:",
+   "en": "Turning to something else, Ukraine:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Libération relève que Donald Trump a prolongé jeudi ses attaques contre Volodymyr Zelensky,",
+   "en": "«Libération» notes that Donald Trump continued his attacks on «Volodymyr Zelensky» on Thursday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans un entretien à Newsmax.",
+   "en": "in an interview with «Newsmax».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le président américain a jugé honteuse la reprise des frappes ukrainiennes sur les raffineries russes.",
+   "en": "The American president called the resumption of Ukrainian strikes on Russian refineries shameful.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Volodymyr Zelensky va plaider à Bruxelles pour un soutien réaffirmé de ses alliés européens,",
+   "en": "«Volodymyr Zelensky» is going to plead in Brussels for renewed support from his European allies,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "réunis en sommet, écrit Le Figaro.",
+   "en": "who are gathered for a summit, «Le Figaro» writes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au même sommet, Emmanuel Macron et Friedrich Merz restent opposés sur le budget de l'Union,",
+   "en": "At the same summit, «Emmanuel Macron» and «Friedrich Merz» remain at odds over the Union's budget,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "mais se sont accordés sur la nécessité d'aboutir avant la fin de l'année,",
+   "en": "but have agreed it must be settled before the end of the year,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "note Le Monde.",
+   "en": "«Le Monde» says.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, un accident s'est produit jeudi soir à l'entrée du tunnel sous la Manche,",
+   "en": "In France, an accident happened on Thursday evening at the entrance to the Channel Tunnel,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à Coquelles: un véhicule est entré en collision avec un train à l'arrêt.",
+   "en": "at «Coquelles»: a vehicle collided with a stationary train.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dix-neuf personnes ont été blessées, selon franceinfo.",
+   "en": "Nineteen people were injured, according to «franceinfo».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité, aux États-Unis,",
+   "en": "In other news, in the United States,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un adolescent de seize ans a tué quatre personnes, dont trois enfants,",
+   "en": "a sixteen-year-old killed four people, three of them children,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans une école primaire de l'Oregon, d'après Sud Ouest.",
+   "en": "at a primary school in Oregon, according to «Sud Ouest».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le tireur a été abattu par une personne armée.",
+   "en": "The gunman was shot dead by someone armed.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à autre chose, la santé:",
+   "en": "Moving on, health:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en commission, les députés ont adopté un amendement sur la délivrance de médicaments à l'unité.",
+   "en": "in committee, MPs have adopted an amendment on dispensing medicines by the unit.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le texte vise à élargir cette possibilité, afin de limiter le gaspillage.",
+   "en": "The text aims to widen that possibility, to limit waste.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour finir, la chanteuse belge Angèle sort aujourd'hui son troisième album, Instinct, signale Ouest-France.",
+   "en": "And finally, the Belgian singer «Angèle» releases her third album, Instinct, today, «Ouest-France» points out.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cinq ans après Nonante-Cinq, le disque réunit plusieurs collaborations, notamment avec Justice, Sebastian et Soulwax.",
+   "en": "Five years after «Nonante-Cinq», the record brings together several collaborations, including with «Justice», «Sebastian» and «Soulwax».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Friday 16 October",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Gilets jaunes and high school students are called to demonstrate across France on Saturday against the high cost of living",
+ "summary_en": [
+  "Gilets jaunes and high school students are called to demonstrate across France on Saturday against the high cost of living",
+  "Donald Trump criticises Volodymyr Zelensky again after the announcement that Ukraine will resume strikes on Russian refineries",
+  "France 24 counts more than a thousand actions for the 17 October day of mobilisation"
+ ]
+}
