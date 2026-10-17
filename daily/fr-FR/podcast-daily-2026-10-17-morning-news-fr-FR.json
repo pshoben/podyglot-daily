@@ -1,0 +1,420 @@
+{
+ "title": "Le journal du matin, samedi 17 octobre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-10-17",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Samedi dix-sept octobre. Le journal du matin.",
+   "en": "Saturday 17th October. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les gilets jaunes, les lycéens et les étudiants",
+   "en": "The «gilets jaunes», high school students and students",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "se mobilisent ce samedi contre la vie chère,",
+   "en": "are mobilising on Saturday against the high cost of living,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à Paris comme en régions.",
+   "en": "in Paris and across the regions.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Donald Trump exempte la Russie de nouvelles sanctions,",
+   "en": "Donald Trump exempts Russia from new sanctions,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "par un décret de la Maison Blanche publié vendredi soir.",
+   "en": "by a White House decree published on Friday evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par la journée de mobilisation de ce samedi:",
+   "en": "We start with Saturday's day of action:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.1
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les gilets jaunes, les lycéens et les étudiants,",
+   "en": "the «gilets jaunes», high school students and students,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.075
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "rejoints par des organisations syndicales,",
+   "en": "joined by trade union organisations,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.05
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "appellent à manifester contre la vie chère, la hausse des prix des carburants et les difficultés des services publics,",
+   "en": "are calling for demonstrations against the high cost of living, rising fuel prices and the difficulties of public services,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.025
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "écrit Le Figaro.",
+   "en": "«Le Figaro» writes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le préfet de police de Paris a interdit de manifester ce samedi dans plusieurs secteurs stratégiques de la capitale,",
+   "en": "The Paris police prefect has banned demonstrations on Saturday in several strategic areas of the capital,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "autour du palais présidentiel, de Matignon et des Champs-Élysées.",
+   "en": "around the presidential palace, «Matignon» and the «Champs-Élysées».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De premiers heurts ont éclaté à Lyon et à Marseille, rapporte Libération.",
+   "en": "First clashes have broken out in Lyon and «Marseille», «Libération» reports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Libération ajoute que quarante mille personnes sont prévues à Paris,",
+   "en": "«Libération» adds that forty thousand people are expected in Paris,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et cent cinquante mille ailleurs.",
+   "en": "and a hundred and fifty thousand elsewhere.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Une note des renseignements consultée par France Télévisions donne un autre chiffre:",
+   "en": "An intelligence note seen by «France Télévisions» gives another figure:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "soixante mille à cent dix mille participants sont attendus dans les cortèges des grandes villes.",
+   "en": "sixty thousand to a hundred and ten thousand participants are expected in the marches in the big cities.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à autre chose, la guerre en Ukraine:",
+   "en": "Moving on, the war in Ukraine:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans son décret, Donald Trump exempte la Russie des sanctions, des restrictions et des droits de douane",
+   "en": "in his decree, Donald Trump exempts Russia from the sanctions, restrictions and tariffs",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "prévus par le Graham Act, relève Le Monde.",
+   "en": "provided for by the Graham Act, «Le Monde» notes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Cette loi était la première action majeure du Congrès contre Moscou",
+   "en": "This law was Congress's first major action against Moscow",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "depuis le retour de Donald Trump au pouvoir.",
+   "en": "since Donald Trump's return to power.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Moscou qualifie d'historique l'exemption accordée par Donald Trump.",
+   "en": "Moscow calls the exemption granted by Donald Trump historic.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité, en Asie du Sud-Est,",
+   "en": "In other news, in South-East Asia,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le niveau d'alerte maximal sur la qualité de l'air",
+   "en": "the highest air quality alert level",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a été déclenché dans une partie de la région,",
+   "en": "has been triggered in part of the region,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à cause des incendies qui ravagent l'Indonésie.",
+   "en": "because of the fires ravaging Indonesia.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les fumées toxiques traversent les frontières,",
+   "en": "The toxic smoke is crossing borders,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "notamment vers la Malaisie et Singapour.",
+   "en": "notably towards Malaysia and Singapore.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, un policier est mort dans un accident ce samedi,",
+   "en": "In France, a police officer died in an accident on Saturday",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "vers une heure du matin,",
+   "en": "at about one o'clock in the morning,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sur le périphérique de Nantes, lors d'une intervention,",
+   "en": "on the Nantes ring road, during an intervention,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après Ouest-France.",
+   "en": "according to «Ouest-France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour finir, Céline Dion clôt ce samedi soir",
+   "en": "And finally, «Céline Dion» closes this Saturday evening",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le premier volet de sa série de concerts à Paris,",
+   "en": "the first part of her series of concerts in Paris,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "signale Sud Ouest.",
+   "en": "«Sud Ouest» points out.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La chanteuse livre ainsi son dernier concert dans la capitale, avant de revenir.",
+   "en": "The singer thus gives her last concert in the capital, before coming back.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Saturday 17 October",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Gilets jaunes, high school students and students mobilise on Saturday against the high cost of living, in Paris and in the regions",
+ "summary_en": [
+  "Gilets jaunes, high school students and students mobilise on Saturday against the high cost of living, in Paris and in the regions",
+  "Donald Trump exempts Russia from new sanctions by a decree published on Friday evening",
+  "The Paris police prefect has banned demonstrating around the presidential palace, Matignon and the Champs-Elysees on Saturday"
+ ]
+}

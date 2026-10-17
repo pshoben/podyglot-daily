@@ -1,8 +1,8 @@
 {
  "schema": 1,
  "base": "https://pshoben.github.io/podyglot-daily/archive/",
- "generated": "2026-10-16T09:26:07.473Z",
- "archived_before": "2026-10-03",
+ "generated": "2026-10-17T09:25:45.931Z",
+ "archived_before": "2026-10-04",
  "live_window_days": 14,
  "channels": [
   {

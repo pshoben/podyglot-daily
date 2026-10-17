@@ -1,0 +1,169 @@
+{
+ "title": "Le sport, samedi 17 octobre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-10-17",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "À suivre aujourd'hui, le rugby:",
+   "en": "On the programme today, rugby:",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en Champions Cup, Montpellier se déplace à Bath.",
+   "en": "in the Champions Cup, «Montpellier» travel to Bath.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le match est prévu ce samedi soir, à vingt et une heures, d'après L'Équipe.",
+   "en": "The match is scheduled for this Saturday evening, at nine o'clock, according to «L'Équipe».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En handball, le Brest Bretagne Handball se déplace à Esbjerg samedi, à seize heures.",
+   "en": "In handball, «Brest Bretagne Handball» travel to «Esbjerg» on Saturday at four o'clock in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au programme, le football: pour la septième journée de Ligue 1,",
+   "en": "On the programme, football: for the seventh round of «Ligue 1»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le Paris Saint-Germain se déplace à Strasbourg,",
+   "en": "«Paris Saint-Germain» travel to «Strasbourg»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "samedi à dix-sept heures quinze, à la Meinau.",
+   "en": "on Saturday at a quarter past five in the afternoon, at the «Meinau».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Également en Ligue 1, Angers reçoit Marseille dimanche à quinze heures, rapporte Ouest-France.",
+   "en": "Also in «Ligue 1», Angers host «Marseille» on Sunday at three o'clock in the afternoon, «Ouest-France» reports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Ligue 2, le Red Star accueille Saint-Étienne ce samedi à vingt heures,",
+   "en": "In «Ligue 2», Red Star host «Saint-Étienne» this Saturday at eight o'clock in the evening,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "au stade Bauer, pour la neuvième journée.",
+   "en": "at the «Bauer» stadium, for the ninth round.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sur les terrains, le basket:",
+   "en": "On the pitch, basketball:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la finale de la WNBA débute ce samedi,",
+   "en": "the «WNBA» final begins this Saturday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec la Française Gabby Williams et les Golden State Valkyries, écrit France Télévisions.",
+   "en": "with the French player Gabby Williams and the Golden State Valkyries, «France Télévisions» writes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Saturday 17 October",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Rugby: Montpellier travel to Bath in the Champions Cup on Saturday evening at 9pm",
+ "summary_en": [
+  "Rugby: Montpellier travel to Bath in the Champions Cup on Saturday evening at 9pm",
+  "Handball: Brest Bretagne Handball travel to Esbjerg on Saturday at 4pm"
+ ]
+}

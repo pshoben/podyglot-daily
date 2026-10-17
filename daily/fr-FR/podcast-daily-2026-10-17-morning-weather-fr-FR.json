@@ -1,0 +1,189 @@
+{
+ "title": "La météo, samedi 17 octobre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-10-17",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Pour aujourd'hui, six villes de France passent au crible des modèles de Météo-France.",
+   "en": "For today, six cities in France go under the «Météo-France» models.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Couvert à Paris, où le mercure reste entre dix et seize degrés,",
+   "en": "Overcast in «Paris», where the temperature stays between ten and sixteen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un vent qui monte jusqu'à vingt et un kilomètres par heure.",
+   "en": "with a wind rising to twenty-one kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La pluie est attendue à Strasbourg,",
+   "en": "Rain is expected in «Strasbourg»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un minimum de dix degrés, un maximum de dix-huit,",
+   "en": "with a minimum of ten degrees, a maximum of eighteen,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et un vent de dix-huit kilomètres par heure en pointe.",
+   "en": "and a wind of eighteen kilometres an hour at its peak.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Du côté de Lyon,",
+   "en": "Around «Lyon»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la bruine accompagne des températures de treize à dix-huit degrés et un vent de vingt kilomètres par heure.",
+   "en": "there is drizzle, with temperatures of thirteen to eighteen degrees and a wind of twenty kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sous un ciel couvert, Marseille voit le vent souffler à vingt-cinq kilomètres par heure,",
+   "en": "Under an overcast sky, «Marseille» sees the wind blowing at twenty-five kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour des températures de seize à vingt-trois degrés.",
+   "en": "with temperatures of sixteen to twenty-three degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les nuages l'emportent à Bordeaux:",
+   "en": "Cloud wins out in «Bordeaux»:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de treize à dix-sept degrés,",
+   "en": "from thirteen to seventeen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un vent plafonnant à vingt kilomètres par heure.",
+   "en": "with a wind topping out at twenty kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Lille, il bruine,",
+   "en": "In «Lille», it is drizzling,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec des températures de neuf à quinze degrés et un vent de seize kilomètres par heure.",
+   "en": "with temperatures of nine to fifteen degrees and a wind of sixteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Saturday 17 October",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Paris: overcast, 10 to 16 degrees, wind up to 21 km/h",
+ "summary_en": [
+  "Paris: overcast, 10 to 16 degrees, wind up to 21 km/h",
+  "Strasbourg: rain, 10 to 18 degrees, wind up to 18 km/h"
+ ]
+}

@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-FR-Le journal du matin, samedi 17 octobre",
+   "file": "podcast-daily-2026-10-17-morning-news-fr-FR.json",
+   "bytes": 10607,
+   "sha256": "d50c06920e4d20f86bfb323283e10d77c717a1807bff81adffc2a60a36b7abd2",
+   "date": "2026-10-17",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, samedi 17 octobre",
+   "title_en": "The morning news, Saturday 17 October",
+   "headline_en": "Gilets jaunes, high school students and students mobilise on Saturday against the high cost of living, in Paris and in the regions",
+   "summary_en": [
+    "Gilets jaunes, high school students and students mobilise on Saturday against the high cost of living, in Paris and in the regions",
+    "Donald Trump exempts Russia from new sanctions by a decree published on Friday evening",
+    "The Paris police prefect has banned demonstrating around the presidential palace, Matignon and the Champs-Elysees on Saturday"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, samedi 17 octobre",
+   "file": "podcast-daily-2026-10-17-morning-sport-fr-FR.json",
+   "bytes": 4418,
+   "sha256": "dd74ca9487cc273bfc8ad0243efc42384101efea74d4b971857cca1db0f33400",
+   "date": "2026-10-17",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, samedi 17 octobre",
+   "title_en": "Today's sport, Saturday 17 October",
+   "headline_en": "Rugby: Montpellier travel to Bath in the Champions Cup on Saturday evening at 9pm",
+   "summary_en": [
+    "Rugby: Montpellier travel to Bath in the Champions Cup on Saturday evening at 9pm",
+    "Handball: Brest Bretagne Handball travel to Esbjerg on Saturday at 4pm"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, samedi 17 octobre",
+   "file": "podcast-daily-2026-10-17-morning-weather-fr-FR.json",
+   "bytes": 4676,
+   "sha256": "81b26d3857339319d3f03c3ad078e93cbefee7e5e16833047e4a456d449f3084",
+   "date": "2026-10-17",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, samedi 17 octobre",
+   "title_en": "Today's weather, Saturday 17 October",
+   "headline_en": "Paris: overcast, 10 to 16 degrees, wind up to 21 km/h",
+   "summary_en": [
+    "Paris: overcast, 10 to 16 degrees, wind up to 21 km/h",
+    "Strasbourg: rain, 10 to 18 degrees, wind up to 18 km/h"
+   ]
+  },
+  {
    "id": "fr-FR-Le journal du matin, vendredi 16 octobre",
    "file": "podcast-daily-2026-10-16-morning-news-fr-FR.json",
    "bytes": 10193,
