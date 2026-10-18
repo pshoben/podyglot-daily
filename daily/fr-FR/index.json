@@ -5,6 +5,47 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-FR-Le journal du matin, dimanche 18 octobre",
+   "file": "podcast-daily-2026-10-18-morning-news-fr-FR.json",
+   "bytes": 9404,
+   "sha256": "25df01e8613faecbb2080d555e599fea47254d21586ff603cce4cb0e912a104e",
+   "date": "2026-10-18",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, dimanche 18 octobre",
+   "title_en": "The morning news, Sunday 18 October",
+   "headline_en": "After the violence of 17 October, Emmanuel Macron will address the French at 8pm this evening, the Elysee announces",
+   "summary_en": [
+    "After the violence of 17 October, Emmanuel Macron will address the French at 8pm this evening, the Elysee announces",
+    "Pope Leo XIV appears in public for the first time since his operation, at the Angelus in Saint Peter's Square",
+    "Before his address, the president will meet the Prime Minister and the ministers concerned at 5.30pm"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, dimanche 18 octobre",
+   "file": "podcast-daily-2026-10-18-morning-weather-fr-FR.json",
+   "bytes": 4714,
+   "sha256": "2f6cdb5db0ac6db1298db571c37db40b18d16a1e143c28df92066a33b9c1f7e7",
+   "date": "2026-10-18",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, dimanche 18 octobre",
+   "title_en": "Today's weather, Sunday 18 October",
+   "headline_en": "Strasbourg: drizzle, 8 to 11 degrees, wind up to 17 km/h",
+   "summary_en": [
+    "Strasbourg: drizzle, 8 to 11 degrees, wind up to 17 km/h",
+    "Lille: drizzle, 7 to 13 degrees, wind up to 12 km/h"
+   ]
+  },
+  {
    "id": "fr-FR-Le journal du matin, samedi 17 octobre",
    "file": "podcast-daily-2026-10-17-morning-news-fr-FR.json",
    "bytes": 10607,

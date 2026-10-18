@@ -1,0 +1,179 @@
+{
+ "title": "La météo, dimanche 18 octobre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-10-18",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Aujourd'hui, direction six villes de France, avec les prévisions des modèles de Météo-France.",
+   "en": "Today, we head to six cities across France, with the «Météo-France» forecasts.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Strasbourg, la bruine est annoncée.",
+   "en": "In «Strasbourg», drizzle is forecast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les températures vont de huit à onze degrés, et le vent marque un maximum de dix-sept kilomètres par heure.",
+   "en": "Temperatures range from eight to eleven degrees, and the wind peaks at seventeen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sur Lille, le ciel laisse tomber de la bruine.",
+   "en": "Over «Lille», the sky lets drizzle fall.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le thermomètre descend jusqu'à sept degrés et ne dépasse pas treize,",
+   "en": "The thermometer falls as low as seven degrees and does not go above thirteen,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tandis que le vent n'excède pas douze kilomètres par heure.",
+   "en": "while the wind does not exceed twelve kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lyon est sous la bruine.",
+   "en": "«Lyon» is under drizzle.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il y fait entre dix et treize degrés, et le vent peut souffler jusqu'à dix-neuf kilomètres par heure.",
+   "en": "It is between ten and thirteen degrees there, and the wind can blow up to nineteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Un ciel couvert s'étend sur Paris, de sept degrés au plus frais à quatorze au plus doux.",
+   "en": "An overcast sky spreads over Paris, from seven degrees at the coolest to fourteen at the mildest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent se limite à douze kilomètres par heure.",
+   "en": "The wind is limited to twelve kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Bordeaux a un ciel couvert, et la température passe de huit à seize degrés.",
+   "en": "«Bordeaux» has an overcast sky, and the temperature goes from eight to sixteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent culmine à quinze kilomètres par heure.",
+   "en": "The wind tops out at fifteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Marseille, le temps est à la bruine, sur une plage de quinze à dix-neuf degrés.",
+   "en": "In «Marseille», the weather is drizzly, across a range of fifteen to nineteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent grimpe à dix-huit kilomètres par heure.",
+   "en": "The wind climbs to eighteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Sunday 18 October",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Strasbourg: drizzle, 8 to 11 degrees, wind up to 17 km/h",
+ "summary_en": [
+  "Strasbourg: drizzle, 8 to 11 degrees, wind up to 17 km/h",
+  "Lille: drizzle, 7 to 13 degrees, wind up to 12 km/h"
+ ]
+}
