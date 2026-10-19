@@ -1,0 +1,310 @@
+{
+ "title": "Le journal du matin, lundi 19 octobre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-10-19",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lundi dix-neuf octobre. Le journal du matin.",
+   "en": "Monday 19th October. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Après les violences de la mobilisation du dix-sept octobre,",
+   "en": "After the violence of the 17th October mobilization,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le ministre de l'Intérieur, Laurent Nuñez, a présenté sa démission au président de la République,",
+   "en": "the Interior Minister, «Laurent Nuñez», has offered his resignation to the president of the Republic,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qui l'a refusée.",
+   "en": "who refused it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Donald Trump accuse Volodymyr Zelensky de ne pas vouloir mettre fin à la guerre avec la Russie.",
+   "en": "Donald Trump accuses «Volodymyr Zelensky» of not wanting to end the war with Russia.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par la démission refusée du ministre de l'Intérieur:",
+   "en": "We start with the Interior Minister's refused resignation:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Laurent Nuñez l'a remise dimanche à Emmanuel Macron,",
+   "en": "«Laurent Nuñez» handed it to «Emmanuel Macron» on Sunday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qui l'a refusée, d'après France Télévisions.",
+   "en": "and the president refused it, according to «France Télévisions».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Laurent Nuñez a déclaré avoir remis sa démission",
+   "en": "«Laurent Nuñez» said he handed in his resignation",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "parce qu'il est responsable de tout ce qui se passe.",
+   "en": "because he is responsible for everything that is happening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dimanche soir, de nouveaux affrontements se sont prolongés pendant plusieurs heures à Paris,",
+   "en": "On Sunday evening, fresh clashes went on for several hours in Paris,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "autour de la place de la République et du quartier des Halles.",
+   "en": "around «Place de la République» and the «Halles» district.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Laurent Nuñez a aussi admis une perte de contrôle de la police dans certaines villes,",
+   "en": "«Laurent Nuñez» also admitted that the police lost control in certain cities,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "écrit France 24.",
+   "en": "«France 24» writes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des incidents ont également été signalés dimanche à Lyon et à Marseille.",
+   "en": "Incidents were also reported on Sunday in «Lyon» and «Marseille».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Figaro écrit que Laurent Nuñez, maintenu à son poste,",
+   "en": "«Le Figaro» writes that «Laurent Nuñez», kept in his post,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a de nouveau été chargé par le président de faire la transparence sur les défaillances d'anticipation et de renseignements qui ont conduit aux violences.",
+   "en": "has again been charged by the president with bringing transparency on the failures of anticipation and intelligence that led to the violence.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à autre chose, l'Ukraine:",
+   "en": "Turning to something else, Ukraine:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sud Ouest rapporte que Donald Trump a de nouveau critiqué Volodymyr Zelensky,",
+   "en": "«Sud Ouest» reports that Donald Trump has again criticised «Volodymyr Zelensky»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qu'il accuse de ne pas vouloir mettre fin au conflit avec la Russie.",
+   "en": "whom he accuses of not wanting to end the conflict with Russia.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le Gard et l'Hérault sont placés en vigilance orange pour un risque de pluies, d'inondations et d'orages à partir de cet après-midi,",
+   "en": "the «Gard» and the «Hérault» are on orange vigilance for a risk of rain, flooding and storms from this afternoon,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon Météo-France.",
+   "en": "according to «Météo-France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, Libération écrit que le procès d'un triple meurtre lié au narcotrafic",
+   "en": "In France, «Libération» writes that the trial of a triple murder linked to drug trafficking",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "s'ouvre aujourd'hui à Aix-en-Provence.",
+   "en": "opens today in «Aix-en-Provence».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Erevan, en Arménie, la COP17 sur la biodiversité s'ouvre aussi aujourd'hui,",
+   "en": "In «Yerevan», Armenia, the COP17 biodiversity summit also opens today,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec près de deux cents États réunis.",
+   "en": "with nearly two hundred countries gathered.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Monday 19 October",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Interior Minister Laurent Nunez offered his resignation to Emmanuel Macron on Sunday, and the president refused it",
+ "summary_en": [
+  "Interior Minister Laurent Nunez offered his resignation to Emmanuel Macron on Sunday, and the president refused it",
+  "Donald Trump accuses Volodymyr Zelensky of not wanting to end the war with Russia",
+  "Laurent Nunez says he handed in his resignation because he is responsible for everything"
+ ]
+}

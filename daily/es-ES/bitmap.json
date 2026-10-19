@@ -4,8 +4,6 @@
  "dialect": "es-ES",
  "bits": 366,
  "encoding": "base62",
- "years": {
-  "2026": "0000000000000008cAmye3eroBrtofgvH6QmGDlZsCMpYt7dEy2G4BXqk0xTm4"
- },
+ "years": {},
  "revs": {}
 }

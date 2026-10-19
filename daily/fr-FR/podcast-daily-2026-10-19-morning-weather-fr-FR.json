@@ -1,0 +1,229 @@
+{
+ "title": "La météo, lundi 19 octobre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-10-19",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Voici les prévisions de ce lundi, ville par ville,",
+   "en": "Here are Monday's forecasts, city by city,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon les modèles de Météo-France.",
+   "en": "according to the «Météo-France» models.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Marseille, la pluie est au programme aujourd'hui.",
+   "en": "In «Marseille», rain is on the cards today.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le thermomètre affiche entre seize et vingt-trois degrés,",
+   "en": "The thermometer shows between sixteen and twenty-three degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent atteint trente-deux kilomètres par heure.",
+   "en": "and the wind reaches thirty-two kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Bordeaux reste sous la bruine pour la journée.",
+   "en": "«Bordeaux» stays under drizzle for the day.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La température évolue entre sept et seize degrés,",
+   "en": "The temperature ranges between seven and sixteen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un vent de onze kilomètres par heure au maximum.",
+   "en": "with a wind of eleven kilometres an hour at most.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Lyon, la bruine tombe sur toute la journée,",
+   "en": "In «Lyon», drizzle falls all day,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec des températures de dix à quatorze degrés.",
+   "en": "with temperatures from ten to fourteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent n'ira pas au-delà de neuf kilomètres par heure.",
+   "en": "The wind will not go beyond nine kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La bruine gagne Strasbourg, où le thermomètre se tient entre neuf et dix-sept degrés.",
+   "en": "Drizzle sets in over «Strasbourg», where the thermometer sits between nine and seventeen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au plus fort, le vent souffle à quatorze kilomètres par heure.",
+   "en": "At its strongest, the wind blows at fourteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ciel reste couvert sur Paris,",
+   "en": "The sky stays overcast over Paris,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec cinq degrés au minimum et quatorze au maximum.",
+   "en": "with five degrees at the minimum and fourteen at the maximum.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent ne dépasse pas dix kilomètres par heure.",
+   "en": "The wind does not exceed ten kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lille garde un ciel couvert.",
+   "en": "«Lille» keeps an overcast sky.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les températures s'échelonnent de huit à seize degrés,",
+   "en": "Temperatures range from eight to sixteen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent se hisse à seize kilomètres par heure.",
+   "en": "and the wind rises to sixteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Monday 19 October",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Marseille: rain, 16 to 23 degrees, wind up to 32 kilometres an hour",
+ "summary_en": [
+  "Marseille: rain, 16 to 23 degrees, wind up to 32 kilometres an hour",
+  "Bordeaux: drizzle, 7 to 16 degrees, wind up to 11 kilometres an hour"
+ ]
+}

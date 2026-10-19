@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-FR",
+ "date": "2026-10-19",
+ "episodes": [
+  {
+   "id": "fr-FR-Le journal du matin, lundi 19 octobre",
+   "file": "podcast-daily-2026-10-19-morning-news-fr-FR.json",
+   "bytes": 8293,
+   "sha256": "710ac593c196a9be000a57345575069b4b33029d8695e24a91d42f13ab8b9166",
+   "date": "2026-10-19",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, lundi 19 octobre",
+   "title_en": "The morning news, Monday 19 October",
+   "headline_en": "Interior Minister Laurent Nunez offered his resignation to Emmanuel Macron on Sunday, and the president refused it",
+   "summary_en": [
+    "Interior Minister Laurent Nunez offered his resignation to Emmanuel Macron on Sunday, and the president refused it",
+    "Donald Trump accuses Volodymyr Zelensky of not wanting to end the war with Russia",
+    "Laurent Nunez says he handed in his resignation because he is responsible for everything"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, lundi 19 octobre",
+   "file": "podcast-daily-2026-10-19-morning-weather-fr-FR.json",
+   "bytes": 5489,
+   "sha256": "be7bcb00f7f0744be3ca28a7139b3c0eab69a6a9b7aa867dd397f028c17a7550",
+   "date": "2026-10-19",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, lundi 19 octobre",
+   "title_en": "Today's weather, Monday 19 October",
+   "headline_en": "Marseille: rain, 16 to 23 degrees, wind up to 32 kilometres an hour",
+   "summary_en": [
+    "Marseille: rain, 16 to 23 degrees, wind up to 32 kilometres an hour",
+    "Bordeaux: drizzle, 7 to 16 degrees, wind up to 11 kilometres an hour"
+   ]
+  }
+ ],
+ "content": "6587d46db9ecc745f9c75d12182bab4ac33a23a1da49d7169f988272f51a08c0",
+ "rev": 1,
+ "updated": "2026-10-19T07:49:18.919Z"
+}
