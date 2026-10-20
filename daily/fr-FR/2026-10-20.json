@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-FR",
+ "date": "2026-10-20",
+ "episodes": [
+  {
+   "id": "fr-FR-Le journal du matin, mardi 20 octobre",
+   "file": "podcast-daily-2026-10-20-morning-news-fr-FR.json",
+   "bytes": 7981,
+   "sha256": "dbea90cdbb7e9abf2d4d0318b8a5739c34c0809ce37276a0ff02cea19669409b",
+   "date": "2026-10-20",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, mardi 20 octobre",
+   "title_en": "The morning news, Tuesday 20 October",
+   "headline_en": "Partial curfews came into force on Monday evening in Paris, Lyon, Lille and Nice, after the violence of 17 October",
+   "summary_en": [
+    "Partial curfews came into force on Monday evening in Paris, Lyon, Lille and Nice, after the violence of 17 October",
+    "In Australia, a member of parliament was deliberately run over by a driver, and Prime Minister Anthony Albanese says it was a deliberate act",
+    "Prime Minister Sébastien Lecornu says the curfews contributed to the calm of the night and that new ones will be decided this evening where the situation requires"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, mardi 20 octobre",
+   "file": "podcast-daily-2026-10-20-morning-sport-fr-FR.json",
+   "bytes": 4515,
+   "sha256": "b6751c3dcd8e0b4923ee797b37c209e5b916fe3aadf219b2a4672f55a825d888",
+   "date": "2026-10-20",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, mardi 20 octobre",
+   "title_en": "Today's sport, Tuesday 20 October",
+   "headline_en": "Football: Paris Saint-Germain host FC Barcelona at the Parc des Princes this Tuesday, for the third round of the Champions League league phase",
+   "summary_en": [
+    "Football: Paris Saint-Germain host FC Barcelona at the Parc des Princes this Tuesday, for the third round of the Champions League league phase",
+    "Football: FC Barcelona face Real Madrid in the Clasico on Sunday, and the Barcelona president Joan Laporta criticised Real Madrid's recruitment"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, mardi 20 octobre",
+   "file": "podcast-daily-2026-10-20-morning-weather-fr-FR.json",
+   "bytes": 5249,
+   "sha256": "70a92f4a5bab7c76171a38420c0d079a87a7bbe9b73e797b9de43bf61cc762e6",
+   "date": "2026-10-20",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, mardi 20 octobre",
+   "title_en": "Today's weather, Tuesday 20 October",
+   "headline_en": "Marseille: showers, 17 to 22 degrees, wind up to 28 kilometres an hour",
+   "summary_en": [
+    "Marseille: showers, 17 to 22 degrees, wind up to 28 kilometres an hour",
+    "Bordeaux: drizzle, 11 to 17 degrees, wind up to 13 kilometres an hour"
+   ]
+  }
+ ],
+ "content": "0ff944c76912ef4195fdcc2572251a945d0beabfcea27d52d83d9cffee71c4ce",
+ "rev": 1,
+ "updated": "2026-10-20T08:04:30.785Z"
+}

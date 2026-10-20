@@ -4,10 +4,6 @@
  "dialect": "fr-BE",
  "bits": 366,
  "encoding": "base62",
- "years": {
-  "2026": "000000000000000HELZxI7JjcNjndLNqYCrYWRX9kOjf7mFGTw4W8N5hU1uxY8"
- },
- "revs": {
-  "2026-10-06": 2
- }
+ "years": {},
+ "revs": {}
 }

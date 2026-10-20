@@ -1,0 +1,280 @@
+{
+ "title": "Le journal du matin, mardi 20 octobre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-10-20",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Mardi vingt octobre. Le journal du matin.",
+   "en": "Tuesday 20th October. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Après les violences de la mobilisation du dix-sept octobre,",
+   "en": "After the violence of the 17th October mobilization,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "des couvre-feux partiels sont entrés en vigueur lundi soir dans plusieurs villes,",
+   "en": "partial curfews came into force on Monday evening in several cities,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dont Paris, Lyon, Lille et Nice.",
+   "en": "including Paris, «Lyon», «Lille» and «Nice».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Australie, une députée a été renversée intentionnellement par un conducteur.",
+   "en": "In Australia, a member of parliament was deliberately run over by a driver.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par les couvre-feux:",
+   "en": "We start with the curfews:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "certains secteurs de plusieurs grandes villes ont connu leur première nuit sous couvre-feu, rapporte RFI.",
+   "en": "certain areas of several big cities spent their first night under curfew, «RFI» reports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Premier ministre, Sébastien Lecornu, a affirmé que ces couvre-feux avaient contribué au calme de la nuit,",
+   "en": "Prime Minister «Sébastien Lecornu» said the curfews had contributed to the calm of the night,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et que de nouveaux seraient décidés ce soir là où la situation le nécessite, ajoute RFI.",
+   "en": "and that new ones would be decided this evening where the situation requires, «RFI» adds.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les autorités ont décrété ces couvre-feux partiels à Paris, Lyon, Lille et Nice,",
+   "en": "The authorities decreed these partial curfews in Paris, «Lyon», «Lille» and «Nice»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à partir de la nuit de lundi soir, d'après France Télévisions.",
+   "en": "from Monday evening onwards, according to «France Télévisions».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Après l'incendie de l'hôtel de ville de Limoges le dix-sept octobre,",
+   "en": "After the fire at the «Limoges» town hall on 17th October,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un individu soupçonné d'y être impliqué a été interpellé en Haute-Vienne, écrit France Télévisions.",
+   "en": "a person suspected of involvement has been arrested in «Haute-Vienne», «France Télévisions» writes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre sujet maintenant, l'Australie:",
+   "en": "Now to a different subject, Australia:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Monde écrit qu'une députée a été renversée intentionnellement par un conducteur.",
+   "en": "«Le Monde» writes that a member of parliament was deliberately run over by a driver.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Premier ministre australien, Anthony Albanese,",
+   "en": "The Australian Prime Minister, «Anthony Albanese»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a déclaré lundi qu'il ne s'agissait pas d'un accident, mais d'un acte délibéré,",
+   "en": "said on Monday that it was not an accident, but a deliberate act,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "précise Le Monde.",
+   "en": "«Le Monde» adds.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sept départements du Sud restent en vigilance orange mardi pour des risques de pluie-inondation, d'orages ou de crues, selon Météo-France.",
+   "en": "seven departments in the south remain on orange vigilance on Tuesday for risks of rain and flooding, storms or river floods, according to «Météo-France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Montpellier, les crèches et les équipements recevant du public ont été fermés,",
+   "en": "In «Montpellier», nurseries and public facilities have been closed,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et deux gymnases ont été ouverts pour accueillir les personnes les plus vulnérables, écrit Libération.",
+   "en": "and two sports halls have been opened for the most vulnerable people, «Libération» writes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, la CGT et la CFDT de la Sarthe condamnent les violences,",
+   "en": "In France, the «CGT» and «CFDT» of the «Sarthe» condemn the violence,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "mais restent mobilisées pour la journée du cinq novembre, écrit Ouest-France.",
+   "en": "but remain mobilized for the 5th November day of action, «Ouest-France» writes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 20 October",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Partial curfews came into force on Monday evening in Paris, Lyon, Lille and Nice, after the violence of 17 October",
+ "summary_en": [
+  "Partial curfews came into force on Monday evening in Paris, Lyon, Lille and Nice, after the violence of 17 October",
+  "In Australia, a member of parliament was deliberately run over by a driver, and Prime Minister Anthony Albanese says it was a deliberate act",
+  "Prime Minister Sébastien Lecornu says the curfews contributed to the calm of the night and that new ones will be decided this evening where the situation requires"
+ ]
+}

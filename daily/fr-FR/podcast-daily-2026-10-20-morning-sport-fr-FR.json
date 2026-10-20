@@ -1,0 +1,169 @@
+{
+ "title": "Le sport, mardi 20 octobre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-10-20",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "À suivre aujourd'hui, le football: en Ligue des champions,",
+   "en": "Coming up today, football: in the Champions League,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le Paris Saint-Germain reçoit le FC Barcelone ce mardi au Parc des Princes,",
+   "en": "«Paris Saint-Germain» host «FC Barcelona» this Tuesday at the «Parc des Princes»,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour la troisième journée de la phase de ligue.",
+   "en": "for the third round of the league phase.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le coup d'envoi est prévu à vingt et une heures, d'après Ouest-France.",
+   "en": "Kick-off is scheduled for nine o'clock in the evening, according to «Ouest-France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au programme, le Clasico: le FC Barcelone affronte le Real Madrid dimanche,",
+   "en": "On the programme, the «Clasico»: «FC Barcelona» face «Real Madrid» on Sunday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et Ouest-France écrit que le président catalan, Joan Laporta,",
+   "en": "and «Ouest-France» writes that the Catalan club's president, «Joan Laporta»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a critiqué le recrutement du club madrilène,",
+   "en": "criticised the Madrid club's recruitment,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "notamment l'arrivée de Kylian Mbappé.",
+   "en": "notably the arrival of «Kylian Mbappé».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Équipe situe ce Clasico à vingt et une heures.",
+   "en": "«L'Équipe» puts this «Clasico» at nine o'clock in the evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au Paris FC, Pierre Ferracci quitte la présidence du club,",
+   "en": "At «Paris FC», «Pierre Ferracci» is leaving the presidency of the club,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où Antoine Arnault lui succède, écrit L'Équipe.",
+   "en": "where «Antoine Arnault» succeeds him, «L'Équipe» writes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sur les terrains, le basket: en NBA,",
+   "en": "On the pitch, basketball: in the NBA,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Victor Wembanyama s'apprête à débuter sa quatrième saison, écrit L'Équipe.",
+   "en": "«Victor Wembanyama» is about to begin his fourth season, «L'Équipe» writes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Tuesday 20 October",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Football: Paris Saint-Germain host FC Barcelona at the Parc des Princes this Tuesday, for the third round of the Champions League league phase",
+ "summary_en": [
+  "Football: Paris Saint-Germain host FC Barcelona at the Parc des Princes this Tuesday, for the third round of the Champions League league phase",
+  "Football: FC Barcelona face Real Madrid in the Clasico on Sunday, and the Barcelona president Joan Laporta criticised Real Madrid's recruitment"
+ ]
+}

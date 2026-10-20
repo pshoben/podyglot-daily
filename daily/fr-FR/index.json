@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-FR-Le journal du matin, mardi 20 octobre",
+   "file": "podcast-daily-2026-10-20-morning-news-fr-FR.json",
+   "bytes": 7981,
+   "sha256": "dbea90cdbb7e9abf2d4d0318b8a5739c34c0809ce37276a0ff02cea19669409b",
+   "date": "2026-10-20",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, mardi 20 octobre",
+   "title_en": "The morning news, Tuesday 20 October",
+   "headline_en": "Partial curfews came into force on Monday evening in Paris, Lyon, Lille and Nice, after the violence of 17 October",
+   "summary_en": [
+    "Partial curfews came into force on Monday evening in Paris, Lyon, Lille and Nice, after the violence of 17 October",
+    "In Australia, a member of parliament was deliberately run over by a driver, and Prime Minister Anthony Albanese says it was a deliberate act",
+    "Prime Minister Sébastien Lecornu says the curfews contributed to the calm of the night and that new ones will be decided this evening where the situation requires"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, mardi 20 octobre",
+   "file": "podcast-daily-2026-10-20-morning-sport-fr-FR.json",
+   "bytes": 4515,
+   "sha256": "b6751c3dcd8e0b4923ee797b37c209e5b916fe3aadf219b2a4672f55a825d888",
+   "date": "2026-10-20",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, mardi 20 octobre",
+   "title_en": "Today's sport, Tuesday 20 October",
+   "headline_en": "Football: Paris Saint-Germain host FC Barcelona at the Parc des Princes this Tuesday, for the third round of the Champions League league phase",
+   "summary_en": [
+    "Football: Paris Saint-Germain host FC Barcelona at the Parc des Princes this Tuesday, for the third round of the Champions League league phase",
+    "Football: FC Barcelona face Real Madrid in the Clasico on Sunday, and the Barcelona president Joan Laporta criticised Real Madrid's recruitment"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, mardi 20 octobre",
+   "file": "podcast-daily-2026-10-20-morning-weather-fr-FR.json",
+   "bytes": 5249,
+   "sha256": "70a92f4a5bab7c76171a38420c0d079a87a7bbe9b73e797b9de43bf61cc762e6",
+   "date": "2026-10-20",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, mardi 20 octobre",
+   "title_en": "Today's weather, Tuesday 20 October",
+   "headline_en": "Marseille: showers, 17 to 22 degrees, wind up to 28 kilometres an hour",
+   "summary_en": [
+    "Marseille: showers, 17 to 22 degrees, wind up to 28 kilometres an hour",
+    "Bordeaux: drizzle, 11 to 17 degrees, wind up to 13 kilometres an hour"
+   ]
+  },
+  {
    "id": "fr-FR-Le journal du matin, lundi 19 octobre",
    "file": "podcast-daily-2026-10-19-morning-news-fr-FR.json",
    "bytes": 8293,
@@ -206,67 +267,6 @@
    "summary_en": [
     "Lille today: light rain, 12 to 20 degrees, wind up to 18 km/h",
     "Paris today: drizzle, 14 to 21 degrees, wind up to 19 km/h"
-   ]
-  },
-  {
-   "id": "fr-FR-Le journal du matin, mardi 6 octobre",
-   "file": "podcast-daily-2026-10-06-morning-news-fr-FR.json",
-   "bytes": 9767,
-   "sha256": "2a3b97b021258d995cf4cc1fb35b2de3e386f58c81109e6b1aaff0dde090c2f3",
-   "date": "2026-10-06",
-   "edition": "morning",
-   "programme": "news",
-   "programme_order": 0,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le journal du matin, mardi 6 octobre",
-   "title_en": "The morning news, Tuesday 6 October",
-   "headline_en": "High school students, parents and teachers march across France for a third day of action; the counts differ widely",
-   "summary_en": [
-    "High school students, parents and teachers march across France for a third day of action; the counts differ widely",
-    "Paramount completes its 110 billion dollar purchase of Warner Bros Discovery, creating a group renamed Skydance",
-    "Prime Minister Sebastien Lecornu announces a time of internal democracy in the high schools"
-   ]
-  },
-  {
-   "id": "fr-FR-Le sport, mardi 6 octobre",
-   "file": "podcast-daily-2026-10-06-morning-sport-fr-FR.json",
-   "bytes": 4774,
-   "sha256": "eaa3a3a7dbb92e88064eac4411b25ce35ba00da1ca8ca63cc2b32db46d784e3c",
-   "date": "2026-10-06",
-   "edition": "morning",
-   "programme": "sport",
-   "programme_order": 1,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "Le sport, mardi 6 octobre",
-   "title_en": "Today's sport, Tuesday 6 October",
-   "headline_en": "Football: Lionel Messi plays his last match for Argentina, against Benin in Buenos Aires",
-   "summary_en": [
-    "Football: Lionel Messi plays his last match for Argentina, against Benin in Buenos Aires",
-    "Football: FC Nantes's works council gives an unfavourable opinion on the Tavares takeover project"
-   ]
-  },
-  {
-   "id": "fr-FR-La météo, mardi 6 octobre",
-   "file": "podcast-daily-2026-10-06-morning-weather-fr-FR.json",
-   "bytes": 5379,
-   "sha256": "f0e5c2e803b778cfdf04cc085fe92fa5a7e3a2fffb89e25000f69c82779ad456",
-   "date": "2026-10-06",
-   "edition": "morning",
-   "programme": "weather",
-   "programme_order": 2,
-   "segment_order": null,
-   "region": "fr-FR",
-   "region_label": "France",
-   "title": "La météo, mardi 6 octobre",
-   "title_en": "Today's weather, Tuesday 6 October",
-   "headline_en": "Bordeaux today: drizzle, 20 to 29 degrees, wind up to 15 km/h",
-   "summary_en": [
-    "Bordeaux today: drizzle, 20 to 29 degrees, wind up to 15 km/h",
-    "Marseille today: showers, 20 to 26 degrees, wind up to 12 km/h"
    ]
   }
  ]
