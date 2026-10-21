@@ -1,0 +1,229 @@
+{
+ "title": "Le sport, mercredi 21 octobre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-10-21",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Au programme, le football: jeudi vingt-deux octobre, en Ligue Europa,",
+   "en": "On the programme, football: on Thursday 22nd October, in the Europa League,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le Stade Rennais se déplace à Turin pour affronter la Juventus,",
+   "en": "«Stade Rennais» travel to «Turin» to face «Juventus»,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "lors de la troisième journée, à dix-huit heures quarante-cinq, écrit Ouest-France.",
+   "en": "in the third round, at a quarter to seven in the evening, «Ouest-France» writes.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Rennes sera privé de son buteur Estéban Lepaul,",
+   "en": "Rennes will be without their striker «Estéban Lepaul»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "mais le reste du groupe est au complet, précise Ouest-France.",
+   "en": "but the rest of the squad is available, «Ouest-France» adds.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sur les terrains, en Ligue 1,",
+   "en": "On the pitch, in «Ligue 1»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.1
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le match de la huitième journée entre Toulouse et Troyes, prévu samedi,",
+   "en": "the round-eight match between «Toulouse» and «Troyes», scheduled for Saturday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.075
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "est décalé à dimanche, à dix-sept heures quinze,",
+   "en": "has been moved to Sunday, at a quarter past five in the afternoon,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.05
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sur décision préfectorale,",
+   "en": "on a prefectoral decision,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.025
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avant un nouveau week-end de manifestations, d'après Ouest-France.",
+   "en": "ahead of another weekend of demonstrations, according to «Ouest-France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Du côté de l'OM,",
+   "en": "At «Marseille»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le président Stéphane Richard a annoncé mercredi, dans un communiqué,",
+   "en": "the club president «Stéphane Richard» announced on Wednesday, in a statement,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "des changements dans l'organigramme du club et un projet de nouveau centre d'entraînement pour remplacer la Commanderie,",
+   "en": "changes to the club's organisation chart and a project for a new training centre to replace the «Commanderie»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "précise L'Équipe.",
+   "en": "«L'Équipe» says.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au rugby, le sélectionneur Fabien Galthié a dévoilé mercredi",
+   "en": "In rugby, the France coach «Fabien Galthié» unveiled on Wednesday",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.1
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "une liste de quarante-deux joueurs pour la suite du Championnat des nations,",
+   "en": "a list of forty-two players for the rest of the Nations Championship,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.075
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en novembre,",
+   "en": "in November,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.05
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec le retour de Grégory Alldritt,",
+   "en": "with «Grégory Alldritt» back,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.025
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "rapporte L'Équipe.",
+   "en": "«L'Équipe» reports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Wednesday 21 October",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Football: Rennes travel to Juventus in Turin on Thursday 22 October for the third round of the Europa League, kick-off 6.45pm",
+ "summary_en": [
+  "Football: Rennes travel to Juventus in Turin on Thursday 22 October for the third round of the Europa League, kick-off 6.45pm",
+  "Rennes will be without striker Estéban Lepaul at Juventus, the rest of the squad is available"
+ ]
+}

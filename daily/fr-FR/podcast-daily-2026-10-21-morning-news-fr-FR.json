@@ -1,0 +1,360 @@
+{
+ "title": "Le journal du matin, mercredi 21 octobre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-10-21",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Mercredi vingt et un octobre. Le journal du matin.",
+   "en": "Wednesday 21st October. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Après les violences de la mobilisation du dix-sept octobre,",
+   "en": "After the violence of the 17th October mobilization,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "des couvre-feux sont de nouveau décrétés pour la nuit de mercredi à jeudi dans certains secteurs de plusieurs villes,",
+   "en": "curfews have been decreed again for the night of Wednesday to Thursday in certain areas of several cities,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dont Paris et Lyon.",
+   "en": "including Paris and «Lyon».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Russie, le président Vladimir Poutine",
+   "en": "In Russia, President Vladimir Putin",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a fait état de la libération d'un Américain",
+   "en": "has reported the release of an American",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "accusé d'avoir servi comme mercenaire pour l'Ukraine.",
+   "en": "accused of having served as a mercenary for Ukraine.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par les couvre-feux:",
+   "en": "We start with the curfews:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un nouveau couvre-feu a été décrété pour la nuit de mercredi à jeudi dans certains secteurs de Paris,",
+   "en": "a new curfew has been decreed for the night of Wednesday to Thursday in certain areas of Paris,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "comme la place de la République,",
+   "en": "such as the «place de la République»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon France Télévisions.",
+   "en": "according to «France Télévisions».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Paris, la préfecture de police reconduit",
+   "en": "In Paris, the police prefecture is renewing",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les mesures de couvre-feu et d'interdiction de rassemblement,",
+   "en": "the curfew and the ban on gatherings,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ajoute Sud Ouest.",
+   "en": "«Sud Ouest» adds.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les syndicats ont été reçus mercredi à Matignon par le Premier ministre, Sébastien Lecornu,",
+   "en": "The unions were received on Wednesday at «Matignon» by Prime Minister «Sébastien Lecornu»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et la secrétaire générale de la CGT, Sophie Binet,",
+   "en": "and the general secretary of the «CGT», «Sophie Binet»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a estimé que le Premier ministre n'avait annoncé « aucune mesure », rapporte France 24.",
+   "en": "judged that the Prime Minister had announced \"no measures\", «France 24» reports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour la journée de mobilisation de samedi vingt-quatre octobre,",
+   "en": "For the day of mobilization on Saturday 24th October,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le gouvernement a annoncé mardi l'envoi de la force Sentinelle pour « des missions de sécurisation statique ».",
+   "en": "the government announced on Tuesday that the «Sentinelle» force would be deployed for \"static security missions\".",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à autre chose:",
+   "en": "Moving on:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.1
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le président russe, Vladimir Poutine,",
+   "en": "Russian President Vladimir Putin",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.075
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a annoncé mercredi la fin de la détention d'un Américain",
+   "en": "announced on Wednesday the end of the detention of an American",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.05
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "accusé d'avoir servi comme mercenaire pour l'Ukraine,",
+   "en": "accused of having served as a mercenary for Ukraine,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.025
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "écrit Libération.",
+   "en": "«Libération» writes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le président américain, Donald Trump, nie toute contrepartie à cette libération.",
+   "en": "US President Donald Trump denies any quid pro quo for the release.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité, un Mirage 2000D s'est écrasé mardi près de Nancy,",
+   "en": "In other news, a «Mirage 2000D» crashed near «Nancy» on Tuesday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et l'accident a fait au moins un mort,",
+   "en": "and the accident left at least one dead,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tandis que l'autre membre de l'équipage est recherché, d'après Ouest-France.",
+   "en": "while the other crew member is being searched for, according to «Ouest-France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, Orange a été touché mercredi par une panne",
+   "en": "In France, Orange was hit on Wednesday by an outage",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "perturbant les appels, les SMS et les usages mobiles,",
+   "en": "disrupting calls, text messages and mobile use,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon Le Monde.",
+   "en": "according to «Le Monde».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Monde ajoute que de nombreux sites ont été mis hors ligne par précaution après la découverte de failles dans le langage informatique PHP.",
+   "en": "«Le Monde» adds that many websites were taken offline as a precaution after the discovery of flaws in the «PHP» programming language.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Wednesday 21 October",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "New curfews have been decreed for the night of Wednesday to Thursday in certain sectors of several cities, including Paris and Lyon, after the violence of 17 October",
+ "summary_en": [
+  "New curfews have been decreed for the night of Wednesday to Thursday in certain sectors of several cities, including Paris and Lyon, after the violence of 17 October",
+  "Russian President Vladimir Putin announced on Wednesday the release of an American held in Russia and accused of having served as a mercenary for Ukraine",
+  "France Televisions: a new curfew has been decreed for the night of Wednesday to Thursday in certain sectors of Paris such as Place de la Republique"
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-FR",
+ "date": "2026-10-21",
+ "episodes": [
+  {
+   "id": "fr-FR-Le journal du matin, mercredi 21 octobre",
+   "file": "podcast-daily-2026-10-21-morning-news-fr-FR.json",
+   "bytes": 9401,
+   "sha256": "69d8d0722135361f96c2a1798cc5e7ba65040ac9a93a60ef7b706ad3be8ebd8c",
+   "date": "2026-10-21",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, mercredi 21 octobre",
+   "title_en": "The morning news, Wednesday 21 October",
+   "headline_en": "New curfews have been decreed for the night of Wednesday to Thursday in certain sectors of several cities, including Paris and Lyon, after the violence of 17 October",
+   "summary_en": [
+    "New curfews have been decreed for the night of Wednesday to Thursday in certain sectors of several cities, including Paris and Lyon, after the violence of 17 October",
+    "Russian President Vladimir Putin announced on Wednesday the release of an American held in Russia and accused of having served as a mercenary for Ukraine",
+    "France Televisions: a new curfew has been decreed for the night of Wednesday to Thursday in certain sectors of Paris such as Place de la Republique"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, mercredi 21 octobre",
+   "file": "podcast-daily-2026-10-21-morning-sport-fr-FR.json",
+   "bytes": 5738,
+   "sha256": "117e1362ed9fb93fc6e22cc5d6659824ddbc0ef444b693206c3d7ddc75e97cfb",
+   "date": "2026-10-21",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, mercredi 21 octobre",
+   "title_en": "Today's sport, Wednesday 21 October",
+   "headline_en": "Football: Rennes travel to Juventus in Turin on Thursday 22 October for the third round of the Europa League, kick-off 6.45pm",
+   "summary_en": [
+    "Football: Rennes travel to Juventus in Turin on Thursday 22 October for the third round of the Europa League, kick-off 6.45pm",
+    "Rennes will be without striker Estéban Lepaul at Juventus, the rest of the squad is available"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, mercredi 21 octobre",
+   "file": "podcast-daily-2026-10-21-morning-weather-fr-FR.json",
+   "bytes": 5073,
+   "sha256": "5506bd72cf15d8e8c52d377524bcea5ac9946434a2bc840d13b4e38e8d2bf79e",
+   "date": "2026-10-21",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, mercredi 21 octobre",
+   "title_en": "Today's weather, Wednesday 21 October",
+   "headline_en": "Marseille: overcast, 13 to 18 degrees, wind up to 33 kilometres an hour",
+   "summary_en": [
+    "Marseille: overcast, 13 to 18 degrees, wind up to 33 kilometres an hour",
+    "Bordeaux: light rain, 12 to 17 degrees, wind up to 24 kilometres an hour"
+   ]
+  }
+ ],
+ "content": "1d0134f98b16eb2f8ac8e84591babb94b3234c6f5fcb025ef733980e31237d19",
+ "rev": 1,
+ "updated": "2026-10-21T18:29:37.940Z"
+}
