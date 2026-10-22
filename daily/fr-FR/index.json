@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-FR-Le journal du matin, jeudi 22 octobre",
+   "file": "podcast-daily-2026-10-22-morning-news-fr-FR.json",
+   "bytes": 8467,
+   "sha256": "f90da60fc09e8d422239c0e8de45191a20e8e587a4a2873bbca4dc9c06109e7e",
+   "date": "2026-10-22",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, jeudi 22 octobre",
+   "title_en": "The morning news, Thursday 22 October",
+   "headline_en": "Prime Minister Sébastien Lecornu is due to receive the political parties at Matignon on Thursday 22 October, after the violence of the 17 October mobilisation",
+   "summary_en": [
+    "Prime Minister Sébastien Lecornu is due to receive the political parties at Matignon on Thursday 22 October, after the violence of the 17 October mobilisation",
+    "New Russian strikes on Ukraine came a few hours after the Russian-American talks",
+    "At Matignon, La France insoumise wants to ask the Prime Minister for 'excuses', according to Le Figaro and Liberation"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, jeudi 22 octobre",
+   "file": "podcast-daily-2026-10-22-morning-sport-fr-FR.json",
+   "bytes": 4477,
+   "sha256": "e8bf81090bfe504818c74d2ded7c5ea634a473d65870c84d15e43c947eb8988e",
+   "date": "2026-10-22",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, jeudi 22 octobre",
+   "title_en": "Today's sport, Thursday 22 October",
+   "headline_en": "Football: Marseille travel to Austria to face Sturm Graz on Thursday at 6.45pm in the Europa League",
+   "summary_en": [
+    "Football: Marseille travel to Austria to face Sturm Graz on Thursday at 6.45pm in the Europa League",
+    "Football: Lyon face Hoffenheim on Thursday at 9pm in the Europa League"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, jeudi 22 octobre",
+   "file": "podcast-daily-2026-10-22-morning-weather-fr-FR.json",
+   "bytes": 5213,
+   "sha256": "84c9965e91461e452bd1244e5fcab22377091f744bae689664705d972659f5ab",
+   "date": "2026-10-22",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, jeudi 22 octobre",
+   "title_en": "Today's weather, Thursday 22 October",
+   "headline_en": "Marseille today: overcast, 12 to 17 degrees, wind up to 27 km/h, per the Météo-France models",
+   "summary_en": [
+    "Marseille today: overcast, 12 to 17 degrees, wind up to 27 km/h, per the Météo-France models",
+    "Bordeaux today: light rain, 10 to 17 degrees, wind up to 14 km/h, per the Météo-France models"
+   ]
+  },
+  {
    "id": "fr-FR-Le journal du matin, mercredi 21 octobre",
    "file": "podcast-daily-2026-10-21-morning-news-fr-FR.json",
    "bytes": 9401,

@@ -1,0 +1,310 @@
+{
+ "title": "Le journal du matin, jeudi 22 octobre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-10-22",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Jeudi vingt-deux octobre. Le journal du matin.",
+   "en": "Thursday 22nd October. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Après les violences de la mobilisation du dix-sept octobre,",
+   "en": "After the violence of the 17th October mobilization,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le Premier ministre, Sébastien Lecornu,",
+   "en": "Prime Minister «Sébastien Lecornu»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "doit recevoir ce jeudi les partis politiques à Matignon.",
+   "en": "is due to receive the political parties at «Matignon» this Thursday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Ukraine, de nouvelles frappes russes ont eu lieu quelques heures après des pourparlers russo-américains.",
+   "en": "In Ukraine, new Russian strikes took place a few hours after Russian-American talks.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par la réunion de Matignon: selon Le Figaro,",
+   "en": "We start with the «Matignon» meeting: according to «Le Figaro»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le Premier ministre doit y recevoir les partis en début d'après-midi,",
+   "en": "the Prime Minister is due to receive the parties there in the early afternoon,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et La France insoumise veut lui demander des « excuses ».",
+   "en": "and «La France insoumise» wants to ask him for \"apologies\".",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le président, Emmanuel Macron, a convoqué à l'Élysée les services de renseignement, rapporte France 24.",
+   "en": "President «Emmanuel Macron» has summoned the intelligence services to the «Élysée», «France 24» reports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les autorités ont annoncé mercredi des interdictions de manifester à Paris et à Lyon,",
+   "en": "The authorities announced on Wednesday bans on demonstrations in Paris and «Lyon»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en raison des risques de troubles.",
+   "en": "because of the risk of disorder.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre sujet maintenant, l'Ukraine:",
+   "en": "Now to a different subject, Ukraine:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.1
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sud Ouest écrit que,",
+   "en": "«Sud Ouest» writes that,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.075
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "quelques heures seulement après ces pourparlers destinés à mettre fin au conflit,",
+   "en": "only a few hours after those talks aimed at ending the conflict,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.05
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la Russie a tiré des missiles sur Kiev,",
+   "en": "Russia fired missiles at Kyiv,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.025
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tandis que l'Ukraine a lancé des drones vers la région de Moscou.",
+   "en": "while Ukraine launched drones toward the Moscow region.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "De son côté, franceinfo rapporte que Volodymyr Zelensky dénonce de nouvelles frappes sur l'Ukraine,",
+   "en": "Meanwhile, «franceinfo» reports that «Volodymyr Zelensky» denounces new strikes on Ukraine,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qui sont selon lui la preuve que Moscou n'a pas « changé d'attitude »,",
+   "en": "which he says are proof that Moscow has not \"changed its attitude\",",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "au lendemain de la rencontre entre l'émissaire américain Steve Witkoff et le président russe Vladimir Poutine.",
+   "en": "the day after American envoy «Steve Witkoff» met Russian President «Vladimir Putin».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité, la tempête Austen:",
+   "en": "In other news, storm «Austen»:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Météo-France prévient que le Finistère, le Morbihan et les Côtes-d'Armor",
+   "en": "«Météo-France» warns that the «Finistère», the «Morbihan» and the «Côtes-d'Armor»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "passeront en vigilance orange pour le vent à partir de vingt-deux heures ce soir.",
+   "en": "will go on orange wind alert from ten o'clock tonight.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La Manche et l'Ille-et-Vilaine les rejoindront dans la nuit.",
+   "en": "The «Manche» and the «Ille-et-Vilaine» will join them during the night.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Figaro parle de vents « violents », pouvant atteindre cent trente kilomètres par heure.",
+   "en": "«Le Figaro» speaks of \"violent\" winds that could reach one hundred and thirty kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le trafic ferroviaire sera perturbé vendredi, précise Le Monde.",
+   "en": "Rail traffic will be disrupted on Friday, «Le Monde» specifies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Toujours en France, les intempéries du Sud-Est ont fait quatre morts et un disparu,",
+   "en": "Still in France, the storms in the south-east have left four dead and one missing,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après Sud Ouest.",
+   "en": "according to «Sud Ouest».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Thursday 22 October",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Prime Minister Sébastien Lecornu is due to receive the political parties at Matignon on Thursday 22 October, after the violence of the 17 October mobilisation",
+ "summary_en": [
+  "Prime Minister Sébastien Lecornu is due to receive the political parties at Matignon on Thursday 22 October, after the violence of the 17 October mobilisation",
+  "New Russian strikes on Ukraine came a few hours after the Russian-American talks",
+  "At Matignon, La France insoumise wants to ask the Prime Minister for 'excuses', according to Le Figaro and Liberation"
+ ]
+}

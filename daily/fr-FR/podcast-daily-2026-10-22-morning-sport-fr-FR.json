@@ -1,0 +1,169 @@
+{
+ "title": "Le sport, jeudi 22 octobre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-10-22",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "À suivre aujourd'hui, le football:",
+   "en": "Coming up today, football:",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en Ligue Europa, l'Olympique de Marseille se déplace en Autriche pour affronter le Sturm Graz",
+   "en": "in the Europa League, «Olympique de Marseille» travel to Austria to face «Sturm Graz»",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ce jeudi, à dix-huit heures quarante-cinq, écrit L'Équipe.",
+   "en": "this Thursday, at a quarter to seven in the evening, «L'Équipe» writes.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lyon affronte Hoffenheim ce jeudi à vingt et une heures,",
+   "en": "«Lyon» face «Hoffenheim» this Thursday at nine o'clock in the evening,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour la troisième journée de Ligue Europa.",
+   "en": "for the third matchday of the Europa League.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Même heure à Monaco, qui reçoit Fribourg à Louis-II, en Ligue Conférence.",
+   "en": "At the same time, «Monaco» host «Fribourg» at «Louis-II», in the Conference League.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Stade Rennais, lui, défie la Juventus à Turin ce jeudi,",
+   "en": "«Stade Rennais», meanwhile, take on «Juventus» in «Turin» this Thursday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à dix-huit heures quarante-cinq, toujours en Ligue Europa, selon L'Équipe et Ouest-France.",
+   "en": "at a quarter to seven in the evening, again in the Europa League, according to «L'Équipe» and «Ouest-France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au Paris Saint-Germain, l'attaquant Khvicha Kvaratskhelia",
+   "en": "At «Paris Saint-Germain», the striker «Khvicha Kvaratskhelia»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "souffre d'une rupture du ligament croisé du genou droit,",
+   "en": "has a ruptured cruciate ligament in his right knee,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "écrit Ouest-France.",
+   "en": "«Ouest-France» writes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au programme dimanche, le football américain:",
+   "en": "On the programme on Sunday, American football:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la NFL organise une rencontre officielle au Stade de France, à Saint-Denis, d'après France Télévisions.",
+   "en": "the NFL is staging an official game at the «Stade de France», in «Saint-Denis», according to «France Télévisions».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Thursday 22 October",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Football: Marseille travel to Austria to face Sturm Graz on Thursday at 6.45pm in the Europa League",
+ "summary_en": [
+  "Football: Marseille travel to Austria to face Sturm Graz on Thursday at 6.45pm in the Europa League",
+  "Football: Lyon face Hoffenheim on Thursday at 9pm in the Europa League"
+ ]
+}

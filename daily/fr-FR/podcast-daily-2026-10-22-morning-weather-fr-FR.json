@@ -1,0 +1,209 @@
+{
+ "title": "La météo, jeudi 22 octobre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-10-22",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Aujourd'hui jeudi, voici ce que prévoient les modèles de Météo-France pour Marseille, Bordeaux, Lyon, Strasbourg, Paris et Lille.",
+   "en": "Today, Thursday, here is what the «Météo-France» models forecast for «Marseille», «Bordeaux», «Lyon», «Strasbourg», Paris and «Lille».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Marseille: un ciel couvert, douze degrés pour la minimale, dix-sept pour la maximale,",
+   "en": "«Marseille»: an overcast sky, twelve degrees for the minimum, seventeen for the maximum,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et un vent qui atteint vingt-sept kilomètres par heure.",
+   "en": "and a wind reaching twenty-seven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Une pluie faible concerne Bordeaux,",
+   "en": "Light rain is forecast for «Bordeaux»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où les températures vont de dix à dix-sept degrés.",
+   "en": "where temperatures run from ten to seventeen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La vitesse maximale du vent est de quatorze kilomètres par heure.",
+   "en": "The maximum wind speed is fourteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lyon présente un ciel couvert,",
+   "en": "«Lyon» has an overcast sky,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour des températures de six à seize degrés.",
+   "en": "with temperatures from six to sixteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent est prévu à neuf kilomètres par heure.",
+   "en": "The wind is forecast at nine kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Même ciel couvert à Strasbourg,",
+   "en": "The same overcast sky in «Strasbourg»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "entre sept et quinze degrés,",
+   "en": "between seven and fifteen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un vent de vingt kilomètres par heure.",
+   "en": "with a wind of twenty kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Paris est couvert,",
+   "en": "Paris is overcast,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec des températures qui vont de neuf à quinze degrés et un vent pouvant atteindre dix-neuf kilomètres par heure.",
+   "en": "with temperatures from nine to fifteen degrees and a wind that can reach nineteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dernière ville, Lille, où l'on prévoit une pluie faible,",
+   "en": "Last city, «Lille», where light rain is forecast,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "entre neuf et quinze degrés,",
+   "en": "between nine and fifteen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un vent de vingt-quatre kilomètres par heure.",
+   "en": "with a wind of twenty-four kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Thursday 22 October",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Marseille today: overcast, 12 to 17 degrees, wind up to 27 km/h, per the Météo-France models",
+ "summary_en": [
+  "Marseille today: overcast, 12 to 17 degrees, wind up to 27 km/h, per the Météo-France models",
+  "Bordeaux today: light rain, 10 to 17 degrees, wind up to 14 km/h, per the Météo-France models"
+ ]
+}
