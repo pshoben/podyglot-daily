@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-FR",
+ "date": "2026-10-25",
+ "episodes": [
+  {
+   "id": "fr-FR-Le journal du matin, dimanche 25 octobre",
+   "file": "podcast-daily-2026-10-25-morning-news-fr-FR.json",
+   "bytes": 8456,
+   "sha256": "d571ed939eede2a21ea121858009e94396f867e55343733f1da441e4940714aa",
+   "date": "2026-10-25",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, dimanche 25 octobre",
+   "title_en": "The morning news, Sunday 25 October",
+   "headline_en": "The anti-terrorist prosecutor announced on Sunday morning that the custody of the suspect in Friday's attack at Trappes and La Verrière is suspended for a psychiatric observation of up to 48 hours",
+   "summary_en": [
+    "The anti-terrorist prosecutor announced on Sunday morning that the custody of the suspect in Friday's attack at Trappes and La Verrière is suspended for a psychiatric observation of up to 48 hours",
+    "Serbia votes today in legislative elections, after a student protest movement against the power of Aleksandar Vucic",
+    "Ouest-France writes that Friday's attack at Trappes and La Verrière left one dead and five injured"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, dimanche 25 octobre",
+   "file": "podcast-daily-2026-10-25-morning-sport-fr-FR.json",
+   "bytes": 4665,
+   "sha256": "c40ee30f895ddd42fceb3c238d52212ba49bfdaa96c31cc42efabb98316b84c0",
+   "date": "2026-10-25",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, dimanche 25 octobre",
+   "title_en": "Today's sport, Sunday 25 October",
+   "headline_en": "Football: the New Orleans Saints face the Pittsburgh Steelers at the Stade de France on Sunday 25 October, at 2.30pm according to L'Equipe",
+   "summary_en": [
+    "Football: the New Orleans Saints face the Pittsburgh Steelers at the Stade de France on Sunday 25 October, at 2.30pm according to L'Equipe",
+    "The Clasico, FC Barcelona against Real Madrid, is at the Camp Nou on Sunday evening at 9pm; Ouest-France says Vinícius Jr is suspended"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, dimanche 25 octobre",
+   "file": "podcast-daily-2026-10-25-morning-weather-fr-FR.json",
+   "bytes": 5139,
+   "sha256": "13d6ec6dbe49fc2b27edb843bf961b4fa5f7474bdb806d9f7286f4c441f48361",
+   "date": "2026-10-25",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, dimanche 25 octobre",
+   "title_en": "Today's weather, Sunday 25 October",
+   "headline_en": "Paris today: heavy rain, 11 to 16 degrees, wind up to 30 km/h, per the Météo-France models",
+   "summary_en": [
+    "Paris today: heavy rain, 11 to 16 degrees, wind up to 30 km/h, per the Météo-France models",
+    "Strasbourg today: light rain, 9 to 16 degrees, wind up to 37 km/h, per the Météo-France models"
+   ]
+  }
+ ],
+ "content": "55ae0bd69bc32efd9b5ef2b2717d128e7344c9461e883c54849bf04dd4a001e1",
+ "rev": 1,
+ "updated": "2026-10-25T10:25:58.080Z"
+}

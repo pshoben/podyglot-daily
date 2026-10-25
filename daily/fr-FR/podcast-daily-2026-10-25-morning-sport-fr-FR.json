@@ -1,0 +1,169 @@
+{
+ "title": "Le sport, dimanche 25 octobre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-10-25",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Au programme de ce dimanche, le football américain:",
+   "en": "On the programme this Sunday, American football:",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les Saints de La Nouvelle-Orléans affrontent les Steelers de Pittsburgh au Stade de France,",
+   "en": "the New Orleans Saints face the «Pittsburgh Steelers» at the Stade de France,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après L'Équipe et France Télévisions.",
+   "en": "according to «L'Équipe» and «France Télévisions».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le coup d'envoi est prévu cet après-midi, à quatorze heures trente, précise L'Équipe.",
+   "en": "The kick-off is set for this afternoon, at half past two, «L'Équipe» says.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce soir à vingt et une heures,",
+   "en": "Tonight at nine o'clock,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le FC Barcelone reçoit le Real Madrid au Camp Nou pour le Clasico,",
+   "en": "FC Barcelona host Real Madrid at the «Camp Nou» for the «Clasico»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon L'Équipe et Ouest-France.",
+   "en": "according to «L'Équipe» and «Ouest-France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Côté Real Madrid, Vinicius Jr est suspendu, note Ouest-France.",
+   "en": "On the Real Madrid side, «Vinicius Jr» is suspended, «Ouest-France» notes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Ligue 1, Rennes reçoit Strasbourg cet après-midi, à dix-sept heures quinze,",
+   "en": "In «Ligue 1», Rennes host «Strasbourg» this afternoon, at a quarter past five,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon L'Équipe et Ouest-France.",
+   "en": "according to «L'Équipe» and «Ouest-France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Rennes sera encore privé de l'attaquant Estéban Lepaul pour ce match, souligne Ouest-France.",
+   "en": "Rennes will once again be without the forward «Estéban Lepaul» for this match, «Ouest-France» points out.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Auxerre reçoit Le Mans à la même heure, d'après L'Équipe et Ouest-France.",
+   "en": "«Auxerre» host Le Mans at the same time, according to «L'Équipe» and «Ouest-France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ouest-France précise qu'Angers reçoit Lorient lui aussi à dix-sept heures quinze.",
+   "en": "«Ouest-France» adds that Angers host «Lorient», also at a quarter past five in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport.",
+   "en": "That is the sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Sunday 25 October",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Football: the New Orleans Saints face the Pittsburgh Steelers at the Stade de France on Sunday 25 October, at 2.30pm according to L'Equipe",
+ "summary_en": [
+  "Football: the New Orleans Saints face the Pittsburgh Steelers at the Stade de France on Sunday 25 October, at 2.30pm according to L'Equipe",
+  "The Clasico, FC Barcelona against Real Madrid, is at the Camp Nou on Sunday evening at 9pm; Ouest-France says Vinícius Jr is suspended"
+ ]
+}

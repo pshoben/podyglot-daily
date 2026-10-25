@@ -1,0 +1,300 @@
+{
+ "title": "Le journal du matin, dimanche 25 octobre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-10-25",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Dimanche vingt-cinq octobre. Le journal du matin.",
+   "en": "Sunday 25th October. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Après l'attaque armée de vendredi à Trappes et à La Verrière, dans les Yvelines,",
+   "en": "After Friday's armed attack at «Trappes» and «La Verrière», in the «Yvelines»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le parquet national antiterroriste a annoncé ce matin que la garde à vue du suspect",
+   "en": "the national anti-terrorist prosecutor announced this morning that the suspect's police custody",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "était suspendue, pour une observation psychiatrique.",
+   "en": "was suspended, for a psychiatric observation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Serbie, les électeurs votent aujourd'hui pour des législatives,",
+   "en": "In Serbia, voters go to the polls today in legislative elections,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "après une contestation étudiante contre le pouvoir du dirigeant Aleksandar Vucic.",
+   "en": "after a student protest against the power of the leader «Aleksandar Vucic».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par les Yvelines:",
+   "en": "We start with the «Yvelines»:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après franceinfo, le parquet national antiterroriste a annoncé que la garde à vue du suspect",
+   "en": "according to «franceinfo», the national anti-terrorist prosecutor announced that the suspect's police custody",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "était suspendue, le temps d'une observation psychiatrique pouvant durer quarante-huit heures.",
+   "en": "was suspended for a psychiatric observation that can last forty-eight hours.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'attaque de vendredi a fait un mort et cinq blessés, écrit Ouest-France.",
+   "en": "Friday's attack left one dead and five injured, «Ouest-France» writes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Figaro rapporte que le livre d'Hitler, Mein Kampf, a été retrouvé au domicile du suspect.",
+   "en": "«Le Figaro» reports that Hitler's book «Mein Kampf» was found at the suspect's home.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à autre chose: selon Libération,",
+   "en": "On to something else: according to «Libération»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "après deux ans de mobilisation contre la corruption et le pouvoir du dirigeant serbe,",
+   "en": "after two years of mobilization against corruption and the power of the Serbian leader,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "une liste étudiante se présente aux législatives de ce dimanche.",
+   "en": "a student list is standing in this Sunday's legislative elections.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sud Ouest ajoute que ces législatives sont anticipées,",
+   "en": "«Sud Ouest» adds that these elections were called early,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et qu'elles sont provoquées par une contestation étudiante historique.",
+   "en": "and that they were provoked by a historic student protest.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité, la mobilisation de samedi contre la vie chère:",
+   "en": "In other news, Saturday's mobilization against the high cost of living:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après le ministère de l'Intérieur,",
+   "en": "according to the Interior Ministry,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "près de quatre cent dix mille personnes ont défilé en France,",
+   "en": "nearly four hundred and ten thousand people marched across France,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et huit cent mille selon la CGT, note Le Monde.",
+   "en": "and eight hundred thousand according to the «CGT», «Le Monde» notes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "France 24 relate que le ministre de l'Intérieur, Laurent Nunez,",
+   "en": "«France 24» relates that the Interior Minister, «Laurent Nunez»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a estimé que les cortèges s'étaient bien passés, malgré environ mille interpellations.",
+   "en": "judged that the marches went well, despite about a thousand arrests.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Toujours en France, à Orléans,",
+   "en": "Still in France, at «Orléans»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "RFI a indiqué que Jordan Bardella, seul candidat,",
+   "en": "«RFI» said that «Jordan Bardella», the only candidate,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a été reconduit samedi à la présidence du Rassemblement national.",
+   "en": "was re-elected on Saturday as president of the «Rassemblement national».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Marine Le Pen doit y prononcer aujourd'hui un discours qui lance sa campagne présidentielle, précise RFI.",
+   "en": "«Marine Le Pen» is due to give a speech there today that launches her presidential campaign, «RFI» adds.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Sunday 25 October",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "The anti-terrorist prosecutor announced on Sunday morning that the custody of the suspect in Friday's attack at Trappes and La Verrière is suspended for a psychiatric observation of up to 48 hours",
+ "summary_en": [
+  "The anti-terrorist prosecutor announced on Sunday morning that the custody of the suspect in Friday's attack at Trappes and La Verrière is suspended for a psychiatric observation of up to 48 hours",
+  "Serbia votes today in legislative elections, after a student protest movement against the power of Aleksandar Vucic",
+  "Ouest-France writes that Friday's attack at Trappes and La Verrière left one dead and five injured"
+ ]
+}

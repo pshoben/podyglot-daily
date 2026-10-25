@@ -1,0 +1,209 @@
+{
+ "title": "La météo, dimanche 25 octobre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-10-25",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Aujourd'hui dimanche, place aux prévisions des modèles de Météo-France pour Paris, Lille, Strasbourg, Lyon, Bordeaux et Marseille.",
+   "en": "Today, Sunday, here are the forecasts from the «Météo-France» models for Paris, «Lille», «Strasbourg», «Lyon», «Bordeaux» and «Marseille».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sur Paris, la pluie sera forte,",
+   "en": "In Paris the rain will be heavy,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le thermomètre marquera de onze à seize degrés.",
+   "en": "and the thermometer will read between eleven and sixteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le vent montera à trente kilomètres par heure.",
+   "en": "The wind will rise to thirty kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pluie faible à Strasbourg,",
+   "en": "Light rain in «Strasbourg»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où l'on attend de neuf à seize degrés et un vent allant jusqu'à trente-sept kilomètres par heure.",
+   "en": "where nine to sixteen degrees are expected, and a wind of up to thirty-seven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lille connaît aussi la pluie:",
+   "en": "«Lille» has rain too:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le mercure varie de neuf à seize degrés,",
+   "en": "temperatures vary from nine to sixteen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un vent à trente-deux kilomètres par heure.",
+   "en": "with a wind of thirty-two kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il bruinera à Lyon, de huit à seize degrés,",
+   "en": "It will drizzle in «Lyon», from eight to sixteen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent soufflera à vingt-quatre kilomètres par heure.",
+   "en": "and the wind will blow at twenty-four kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Bordeaux, il pleuvra faiblement,",
+   "en": "In «Bordeaux» there will be light rain,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "entre douze et dix-huit degrés,",
+   "en": "between twelve and eighteen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un vent maximal de vingt-quatre kilomètres par heure.",
+   "en": "with a maximum wind of twenty-four kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Marseille, le ciel sera couvert.",
+   "en": "In «Marseille» the sky will be overcast.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il fera de quatorze à dix-neuf degrés,",
+   "en": "It will be between fourteen and nineteen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec vingt-sept kilomètres par heure de vent.",
+   "en": "with a wind of twenty-seven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo.",
+   "en": "That is the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Sunday 25 October",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Paris today: heavy rain, 11 to 16 degrees, wind up to 30 km/h, per the Météo-France models",
+ "summary_en": [
+  "Paris today: heavy rain, 11 to 16 degrees, wind up to 30 km/h, per the Météo-France models",
+  "Strasbourg today: light rain, 9 to 16 degrees, wind up to 37 km/h, per the Météo-France models"
+ ]
+}
