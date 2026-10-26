@@ -1,0 +1,209 @@
+{
+ "title": "Le sport, lundi 26 octobre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-10-26",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Au programme ce lundi, le football:",
+   "en": "On the programme this Monday, football:",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le Paris Saint-Germain reçoit l'Olympique Lyonnais",
+   "en": "«Paris Saint-Germain» host «Olympique Lyonnais»",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ce soir au Parc des Princes, à vingt heures trente, écrit Ouest-France.",
+   "en": "tonight at the «Parc des Princes», at half past eight, «Ouest-France» writes.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ouest-France note que Paris et Lyon doivent composer avec de nombreux absents,",
+   "en": "«Ouest-France» notes that «Paris» and «Lyon» have to cope with many absentees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et L'Équipe écrit que l'OL est forcé de bricoler en attaque.",
+   "en": "and «L'Équipe» writes that «Lyon» are forced to improvise in attack.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La cérémonie du Ballon d'or se tient ce soir à Londres,",
+   "en": "The «Ballon d'Or» ceremony takes place tonight in London,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après L'Équipe et Ouest-France,",
+   "en": "according to «L'Équipe» and «Ouest-France»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et l'attaquant du PSG Khvitcha Kvaratskhelia ne s'y rendra pas, précise L'Équipe.",
+   "en": "and the «PSG» forward «Khvitcha Kvaratskhelia» will not attend, «L'Équipe» specifies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Chez les Bleus, L'Équipe écrit que l'absence d'Ousmane Dembélé et de Manu Koné",
+   "en": "With the national team, «L'Équipe» writes that the absence of «Ousmane Dembélé» and «Manu Koné»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "est probable dans la deuxième liste de Zinédine Zidane,",
+   "en": "is probable in the second squad list of «Zinédine Zidane»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "attendue dans onze jours.",
+   "en": "due in eleven days.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au rugby, le XV de France compte trois nouveaux forfaits:",
+   "en": "In rugby, the «XV de France» have three new withdrawals:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Fabien Brau-Boirie, Marko Gazzotti et Antoine Hastoy,",
+   "en": "«Fabien Brau-Boirie», «Marko Gazzotti» and «Antoine Hastoy»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après L'Équipe et Ouest-France.",
+   "en": "according to «L'Équipe» and «Ouest-France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Nicolas Depoortere, Anthony Jelonch et Louis Le Brun sont appelés en renfort,",
+   "en": "«Nicolas Depoortere», «Anthony Jelonch» and «Louis Le Brun» are called up as reinforcements,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour les quatre derniers matches du Championnat des nations,",
+   "en": "for the last four matches of the Nations Championship,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en novembre, précise Ouest-France.",
+   "en": "in November, «Ouest-France» specifies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport.",
+   "en": "That is it for sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Monday 26 October",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Football: Paris Saint-Germain host Lyon tonight at the Parc des Princes at 8.30pm, according to Ouest-France",
+ "summary_en": [
+  "Football: Paris Saint-Germain host Lyon tonight at the Parc des Princes at 8.30pm, according to Ouest-France",
+  "Ouest-France: many absentees at Paris and Lyon; L'Equipe: Lyon forced to improvise in attack"
+ ]
+}

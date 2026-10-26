@@ -1,0 +1,410 @@
+{
+ "title": "Le journal du matin, lundi 26 octobre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-10-26",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Lundi vingt-six octobre. Le journal du matin.",
+   "en": "Monday 26th October. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Après un mois de blocages et de mobilisation dans les lycées,",
+   "en": "After a month of blockades and mobilization in the high schools,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le gouvernement a promis lundi « des réponses très concrètes »,",
+   "en": "the government promised on Monday \"very concrete answers\",",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec des annonces attendues en fin d'après-midi.",
+   "en": "with announcements expected late in the afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au Brésil, le président sortant, Luiz Inácio Lula da Silva,",
+   "en": "In Brazil, the outgoing president, «Luiz Inácio Lula da Silva»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a été réélu pour un quatrième mandat face au sénateur Flavio Bolsonaro.",
+   "en": "was re-elected for a fourth term against Senator «Flavio Bolsonaro».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par la mobilisation lycéenne:",
+   "en": "We start with the high-school mobilization:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après franceinfo, le gouvernement reçoit les organisations lycéennes et étudiantes dans l'après-midi,",
+   "en": "according to «franceinfo», the government is receiving the high-school and student organizations this afternoon,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec le Premier ministre, Sébastien Lecornu.",
+   "en": "together with the Prime Minister, «Sébastien Lecornu».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les ministres de l'Éducation nationale et de l'Enseignement supérieur,",
+   "en": "The ministers for Education and Higher Education,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Édouard Geffray et Philippe Baptiste,",
+   "en": "«Édouard Geffray» and «Philippe Baptiste»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "doivent tenir une conférence de presse en fin d'après-midi, précise franceinfo.",
+   "en": "are due to hold a press conference late in the afternoon, «franceinfo» specifies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Parcoursup, le système d'accès aux études supérieures,",
+   "en": "«Parcoursup», the system of access to higher education,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "concentre les désaccords, écrit Libération,",
+   "en": "is where the disagreements concentrate, «Libération» writes,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et franceinfo précise que l'exécutif refuse de l'abroger.",
+   "en": "and «franceinfo» specifies that the government refuses to repeal it.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sud Ouest écrit que l'exécutif doit dévoiler ce lundi des mesures sur Parcoursup,",
+   "en": "«Sud Ouest» writes that the government is due to unveil measures on Monday on «Parcoursup»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le budget des universités et l'état des lycées.",
+   "en": "the universities' budget and the state of the high schools.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon Le Monde, de nouveaux appels à la mobilisation",
+   "en": "According to «Le Monde», new calls to mobilize",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ont déjà été lancés pour le trente et un octobre et le cinq novembre.",
+   "en": "have already been issued for the 31st of October and the 5th of November.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre sujet maintenant: franceinfo rapporte que le président brésilien, Lula,",
+   "en": "Now to a different subject: «franceinfo» reports that Brazil's president, «Lula»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a décroché un quatrième mandat, en s'imposant face au sénateur Flavio Bolsonaro.",
+   "en": "has won a fourth term, beating Senator «Flavio Bolsonaro».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le sénateur Flavio Bolsonaro a annoncé son intention de faire annuler le scrutin, ajoute franceinfo.",
+   "en": "Senator «Flavio Bolsonaro» announced his intention to have the vote annulled, «franceinfo» adds.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité, le chef de l'État, Emmanuel Macron,",
+   "en": "In other news, the head of state, «Emmanuel Macron»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "se rend ce lundi à Marseille pour une visite surprise, écrit Sud Ouest.",
+   "en": "is going to «Marseille» on Monday for a surprise visit, «Sud Ouest» writes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sud Ouest précise que des émeutes sont survenues dans la ville",
+   "en": "«Sud Ouest» specifies that riots occurred in the city",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "lors de la journée de mobilisation du dix-sept octobre.",
+   "en": "during the day of mobilization on the 17th of October.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Emmanuel Macron doit y rencontrer le maire, Benoît Payan,",
+   "en": "«Emmanuel Macron» is due to meet the mayor, «Benoît Payan»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ainsi que des commerçants, des habitants et les forces de l'ordre, précise Le Figaro.",
+   "en": "as well as shopkeepers, residents and the police, «Le Figaro» specifies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, Le Figaro rapporte que le Conseil constitutionnel a écarté lundi",
+   "en": "In France, «Le Figaro» reports that the Constitutional Council on Monday set aside",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la demande de démission de son président, Richard Ferrand,",
+   "en": "the request for the resignation of its president, «Richard Ferrand»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "formulée par le Rassemblement national et l'UDR.",
+   "en": "made by the National Rally and the UDR.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Figaro précise que, pour le Conseil,",
+   "en": "«Le Figaro» specifies that, for the Council,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les propos de Richard Ferrand sur la révision de la Constitution",
+   "en": "«Richard Ferrand»'s remarks on revising the Constitution",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ne justifiaient pas son départ.",
+   "en": "did not justify his departure.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ministre de l'Intérieur, Laurent Nuñez,",
+   "en": "Interior Minister «Laurent Nuñez»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a donné lundi un nouveau bilan des manifestations du vingt-quatre octobre:",
+   "en": "gave a new tally on Monday for the demonstrations of the 24th of October:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "mille quatre cent trente-cinq interpellations, selon franceinfo et Libération.",
+   "en": "one thousand four hundred and thirty-five arrests, according to «franceinfo» and «Libération».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Monday 26 October",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "After a month of school blockades and mobilisation, the government promised on Monday \"very concrete answers\", with announcements expected late in the afternoon",
+ "summary_en": [
+  "After a month of school blockades and mobilisation, the government promised on Monday \"very concrete answers\", with announcements expected late in the afternoon",
+  "Brazil's outgoing president Lula was re-elected for a fourth term against Senator Flavio Bolsonaro",
+  "franceinfo says the government receives the high-school and student organisations in the afternoon, with the Prime Minister"
+ ]
+}

@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-FR-Le journal du matin, lundi 26 octobre",
+   "file": "podcast-daily-2026-10-26-morning-news-fr-FR.json",
+   "bytes": 11096,
+   "sha256": "bacb2d19808289ffc592907b93e69ff000f0dc4cee0c0df501844b7eca5ec1a4",
+   "date": "2026-10-26",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, lundi 26 octobre",
+   "title_en": "The morning news, Monday 26 October",
+   "headline_en": "After a month of school blockades and mobilisation, the government promised on Monday \"very concrete answers\", with announcements expected late in the afternoon",
+   "summary_en": [
+    "After a month of school blockades and mobilisation, the government promised on Monday \"very concrete answers\", with announcements expected late in the afternoon",
+    "Brazil's outgoing president Lula was re-elected for a fourth term against Senator Flavio Bolsonaro",
+    "franceinfo says the government receives the high-school and student organisations in the afternoon, with the Prime Minister"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, lundi 26 octobre",
+   "file": "podcast-daily-2026-10-26-morning-sport-fr-FR.json",
+   "bytes": 5400,
+   "sha256": "abdc78391e84566679099494fbd7ea3dcd4745f1547ce907311c4e73082a90f2",
+   "date": "2026-10-26",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, lundi 26 octobre",
+   "title_en": "Today's sport, Monday 26 October",
+   "headline_en": "Football: Paris Saint-Germain host Lyon tonight at the Parc des Princes at 8.30pm, according to Ouest-France",
+   "summary_en": [
+    "Football: Paris Saint-Germain host Lyon tonight at the Parc des Princes at 8.30pm, according to Ouest-France",
+    "Ouest-France: many absentees at Paris and Lyon; L'Equipe: Lyon forced to improvise in attack"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, lundi 26 octobre",
+   "file": "podcast-daily-2026-10-26-morning-weather-fr-FR.json",
+   "bytes": 5350,
+   "sha256": "4ffa58636cde6bc763a6bf5dfabbb9810399dae687f4dcb18901e49f59a17e99",
+   "date": "2026-10-26",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, lundi 26 octobre",
+   "title_en": "Today's weather, Monday 26 October",
+   "headline_en": "Lille today: drizzle, 8 to 13 degrees, wind up to 22 km/h, per the Météo-France models",
+   "summary_en": [
+    "Lille today: drizzle, 8 to 13 degrees, wind up to 22 km/h, per the Météo-France models",
+    "Paris today: overcast, 9 to 14 degrees, wind up to 18 km/h, per the Météo-France models"
+   ]
+  },
+  {
    "id": "fr-FR-Le journal du matin, dimanche 25 octobre",
    "file": "podcast-daily-2026-10-25-morning-news-fr-FR.json",
    "bytes": 8456,
