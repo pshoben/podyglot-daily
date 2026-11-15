@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-FR",
+ "date": "2026-11-15",
+ "episodes": [
+  {
+   "id": "fr-FR-Le journal du matin, dimanche 15 novembre",
+   "file": "podcast-daily-2026-11-15-morning-news-fr-FR.json",
+   "bytes": 12967,
+   "sha256": "a6f6b3da1869d2af7255d8e17c545bd5770e1d7ee99b308bf6f1020bcf093ee3",
+   "date": "2026-11-15",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, dimanche 15 novembre",
+   "title_en": "The morning news, Sunday 15 November",
+   "headline_en": "The movement against the high cost of living held its fifth day of action on Saturday, with a lower turnout",
+   "summary_en": [
+    "The movement against the high cost of living held its fifth day of action on Saturday, with a lower turnout",
+    "In the United States, the authorities blame thousands of disrupted flights on obsolete copper cables",
+    "RFI: the fifth day of action drew a little less turnout and tension, and a new \"massive\" mobilisation is expected on Tuesday 17 November"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, dimanche 15 novembre",
+   "file": "podcast-daily-2026-11-15-morning-sport-fr-FR.json",
+   "bytes": 4599,
+   "sha256": "21d5458a5095b686fbca0ab5dfdc2121442229055abe41df74eba7afec571da2",
+   "date": "2026-11-15",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, dimanche 15 novembre",
+   "title_en": "Today's sport, Sunday 15 November",
+   "headline_en": "Football: France host Turkey tonight in Bordeaux at 8.45pm, the last Nations League group matchday",
+   "summary_en": [
+    "Football: France host Turkey tonight in Bordeaux at 8.45pm, the last Nations League group matchday",
+    "Zinedine Zidane, the France coach, returns to Bordeaux, where he played from 1992 to 1996"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, dimanche 15 novembre",
+   "file": "podcast-daily-2026-11-15-morning-weather-fr-FR.json",
+   "bytes": 5273,
+   "sha256": "f16173ed703a9eb693461f6dc495f1112a8ffd15b5432e7f96f4475c4ed3fa6e",
+   "date": "2026-11-15",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, dimanche 15 novembre",
+   "title_en": "Today's weather, Sunday 15 November",
+   "headline_en": "Strasbourg today: overcast, 2 to 13 degrees, wind up to 22 km/h, per the Météo-France models",
+   "summary_en": [
+    "Strasbourg today: overcast, 2 to 13 degrees, wind up to 22 km/h, per the Météo-France models",
+    "Lille today: rain, 2 to 12 degrees, wind up to 24 km/h, per the Météo-France models"
+   ]
+  }
+ ],
+ "content": "aa2d819879062e1adc5c35f0e65448492f97e6ad499be653fbd6b341f7158e2f",
+ "rev": 1,
+ "updated": "2026-11-15T14:00:38.754Z"
+}

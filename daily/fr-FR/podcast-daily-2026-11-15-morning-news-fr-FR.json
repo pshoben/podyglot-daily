@@ -1,0 +1,470 @@
+{
+ "title": "Le journal du matin, dimanche 15 novembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-11-15",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Dimanche quinze novembre. Le journal du matin.",
+   "en": "Sunday 15th November. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le mouvement contre la vie chère a connu samedi son cinquième acte,",
+   "en": "The movement against the high cost of living held its fifth day of action on Saturday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec une affluence en baisse.",
+   "en": "with a lower turnout.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Aux États-Unis,",
+   "en": "In the United States,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les autorités attribuent les perturbations de milliers de vols à des câbles en cuivre vétustes.",
+   "en": "the authorities are attributing the disruption of thousands of flights to obsolete copper cables.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par la mobilisation de samedi:",
+   "en": "We begin with Saturday's mobilization:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "RFI écrit que ce cinquième acte a réuni un peu moins de monde,",
+   "en": "«RFI» writes that this fifth day of action drew slightly fewer people,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un peu moins de tensions que les précédents,",
+   "en": "with a little less tension than the previous ones,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et qu'une nouvelle mobilisation « massive » est attendue mardi dix-sept novembre.",
+   "en": "and that a new \"massive\" mobilization is expected on Tuesday the 17th of November.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Parmi les revendications figuraient la protection des enfants et des adolescents,",
+   "en": "The demands included the protection of children and teenagers,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les salaires et les moyens pour l'enseignement, précise RFI.",
+   "en": "wages and resources for schools, «RFI» specifies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Plus de quatre cents personnes ont été interpellées en France samedi,",
+   "en": "More than four hundred people were arrested in France on Saturday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon Le Figaro et Ouest-France.",
+   "en": "according to «Le Figaro» and «Ouest-France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Paris, cent huit personnes, dont trente-huit mineurs,",
+   "en": "In Paris, one hundred and eight people, thirty-eight of them minors,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ont été placées en garde à vue, rapporte franceinfo,",
+   "en": "were placed in police custody, «franceinfo» reports,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et la préfecture de police affirme que la mobilisation s'est déroulée « globalement dans le calme ».",
+   "en": "and the Paris police prefecture says the mobilization went off \"on the whole calmly\".",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le gouvernement chiffre à un peu plus d'un milliard d'euros le coût des revalorisations des plus bas salaires,",
+   "en": "The government puts the cost of the rises in the lowest wages at a little over one billion euros,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "rapportent franceinfo et Le Monde,",
+   "en": "«franceinfo» and «Le Monde» report,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qui précise que ces mesures, annoncées cette semaine, concernent le smic et les bas salaires de la fonction publique.",
+   "en": "the latter specifying that these measures, announced this week, cover the minimum wage and the low salaries of civil servants.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ministre des Comptes publics, David Amiel,",
+   "en": "The Public Accounts Minister, «David Amiel»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a confirmé que les agents concernés toucheront trois cent cinquante euros brut de plus par an,",
+   "en": "confirmed that the civil servants concerned will receive three hundred and fifty euros gross more a year,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon franceinfo et Libération.",
+   "en": "according to «franceinfo» and «Libération».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le gouvernement a aussi interdit la vente de mortiers d'artifice jusqu'au vingt-sept novembre, rapporte franceinfo.",
+   "en": "The government has also banned the sale of mortar fireworks until the 27th of November, «franceinfo» reports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Figaro précise que l'interdiction porte sur les artifices des catégories F deux et F trois,",
+   "en": "«Le Figaro» specifies that the ban covers fireworks of categories F2 and F3,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et Libération, qu'elle est inscrite dimanche au Journal officiel,",
+   "en": "and «Libération», that it was entered in the «Journal officiel» on Sunday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "après plusieurs incidents lors de la mobilisation des lycéens.",
+   "en": "after several incidents during the high-school mobilization.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à autre chose: aux États-Unis,",
+   "en": "Now to a different subject: in the United States,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le ministre des Transports a détaillé samedi que le remplacement de câbles vétustes avait provoqué des problèmes de communication avec les avions et avec des radars,",
+   "en": "the Transport Secretary explained on Saturday that the replacement of obsolete cables had caused communication problems with aircraft and with radars,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "rapporte franceinfo.",
+   "en": "«franceinfo» reports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Libération rappelle que l'incident de vendredi avait entraîné une paralysie totale du trafic aérien outre-Atlantique.",
+   "en": "«Libération» recalls that Friday's incident had led to a total paralysis of air traffic in the United States.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "l'Hérault s'est retrouvé sous les eaux après de violents orages dans la nuit de samedi à dimanche,",
+   "en": "the «Hérault» was left under water after violent storms in the night from Saturday to Sunday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "rapporte franceinfo.",
+   "en": "«franceinfo» reports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Des automobilistes ont été piégés par les inondations au sud de Montpellier,",
+   "en": "Motorists were trapped by floods south of «Montpellier»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le département était en vigilance orange pluie-inondation jusqu'à dimanche matin, précise franceinfo.",
+   "en": "and the department was on orange rain-flood alert until Sunday morning, «franceinfo» specifies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Toujours en France, la filiale de La Poste Maileva a annoncé samedi",
+   "en": "Still in France, the «La Poste» subsidiary «Maileva» announced on Saturday",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un vol de données touchant vingt-deux millions de personnes,",
+   "en": "a theft of data affecting twenty-two million people,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à la suite d'une cyberattaque, rapporte franceinfo.",
+   "en": "following a cyberattack, «franceinfo» reports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Figaro précise que les données exposées sont le prénom, le nom et l'adresse postale,",
+   "en": "«Le Figaro» specifies that the exposed data are first names, surnames and postal addresses,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et que l'attaque remonte à la mi-septembre.",
+   "en": "and that the attack dates back to mid-September.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour finir, en région parisienne, le tunnel de Saint-Cloud, sur l'A13,",
+   "en": "To finish, in the Paris region, the «Saint-Cloud» tunnel, on the A13,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sera fermé dans le sens Paris-province à partir de lundi, précise Le Figaro,",
+   "en": "will be closed in the Paris to provinces direction from Monday, «Le Figaro» specifies,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et l'A14 sera gratuite à partir de lundi, écrit Libération.",
+   "en": "and the A14 will be free of charge from Monday, «Libération» writes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Sunday 15 November",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "The movement against the high cost of living held its fifth day of action on Saturday, with a lower turnout",
+ "summary_en": [
+  "The movement against the high cost of living held its fifth day of action on Saturday, with a lower turnout",
+  "In the United States, the authorities blame thousands of disrupted flights on obsolete copper cables",
+  "RFI: the fifth day of action drew a little less turnout and tension, and a new \"massive\" mobilisation is expected on Tuesday 17 November"
+ ]
+}

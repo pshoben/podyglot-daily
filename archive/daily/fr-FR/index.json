@@ -3,8 +3,517 @@
  "channel": "daily",
  "dialect": "fr-FR",
  "base": "https://pshoben.github.io/podyglot-daily/archive/",
- "archived_before": "2026-10-13",
+ "archived_before": "2026-11-02",
  "episodes": [
+  {
+   "id": "fr-FR-Le journal du matin, lundi 26 octobre",
+   "file": "podcast-daily-2026-10-26-morning-news-fr-FR.json",
+   "bytes": 11096,
+   "sha256": "bacb2d19808289ffc592907b93e69ff000f0dc4cee0c0df501844b7eca5ec1a4",
+   "date": "2026-10-26",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, lundi 26 octobre",
+   "title_en": "The morning news, Monday 26 October",
+   "headline_en": "After a month of school blockades and mobilisation, the government promised on Monday \"very concrete answers\", with announcements expected late in the afternoon",
+   "summary_en": [
+    "After a month of school blockades and mobilisation, the government promised on Monday \"very concrete answers\", with announcements expected late in the afternoon",
+    "Brazil's outgoing president Lula was re-elected for a fourth term against Senator Flavio Bolsonaro",
+    "franceinfo says the government receives the high-school and student organisations in the afternoon, with the Prime Minister"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, lundi 26 octobre",
+   "file": "podcast-daily-2026-10-26-morning-sport-fr-FR.json",
+   "bytes": 5400,
+   "sha256": "abdc78391e84566679099494fbd7ea3dcd4745f1547ce907311c4e73082a90f2",
+   "date": "2026-10-26",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, lundi 26 octobre",
+   "title_en": "Today's sport, Monday 26 October",
+   "headline_en": "Football: Paris Saint-Germain host Lyon tonight at the Parc des Princes at 8.30pm, according to Ouest-France",
+   "summary_en": [
+    "Football: Paris Saint-Germain host Lyon tonight at the Parc des Princes at 8.30pm, according to Ouest-France",
+    "Ouest-France: many absentees at Paris and Lyon; L'Equipe: Lyon forced to improvise in attack"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, lundi 26 octobre",
+   "file": "podcast-daily-2026-10-26-morning-weather-fr-FR.json",
+   "bytes": 5350,
+   "sha256": "4ffa58636cde6bc763a6bf5dfabbb9810399dae687f4dcb18901e49f59a17e99",
+   "date": "2026-10-26",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, lundi 26 octobre",
+   "title_en": "Today's weather, Monday 26 October",
+   "headline_en": "Lille today: drizzle, 8 to 13 degrees, wind up to 22 km/h, per the Météo-France models",
+   "summary_en": [
+    "Lille today: drizzle, 8 to 13 degrees, wind up to 22 km/h, per the Météo-France models",
+    "Paris today: overcast, 9 to 14 degrees, wind up to 18 km/h, per the Météo-France models"
+   ]
+  },
+  {
+   "id": "fr-FR-Le journal du matin, dimanche 25 octobre",
+   "file": "podcast-daily-2026-10-25-morning-news-fr-FR.json",
+   "bytes": 8456,
+   "sha256": "d571ed939eede2a21ea121858009e94396f867e55343733f1da441e4940714aa",
+   "date": "2026-10-25",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, dimanche 25 octobre",
+   "title_en": "The morning news, Sunday 25 October",
+   "headline_en": "The anti-terrorist prosecutor announced on Sunday morning that the custody of the suspect in Friday's attack at Trappes and La Verrière is suspended for a psychiatric observation of up to 48 hours",
+   "summary_en": [
+    "The anti-terrorist prosecutor announced on Sunday morning that the custody of the suspect in Friday's attack at Trappes and La Verrière is suspended for a psychiatric observation of up to 48 hours",
+    "Serbia votes today in legislative elections, after a student protest movement against the power of Aleksandar Vucic",
+    "Ouest-France writes that Friday's attack at Trappes and La Verrière left one dead and five injured"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, dimanche 25 octobre",
+   "file": "podcast-daily-2026-10-25-morning-sport-fr-FR.json",
+   "bytes": 4665,
+   "sha256": "c40ee30f895ddd42fceb3c238d52212ba49bfdaa96c31cc42efabb98316b84c0",
+   "date": "2026-10-25",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, dimanche 25 octobre",
+   "title_en": "Today's sport, Sunday 25 October",
+   "headline_en": "Football: the New Orleans Saints face the Pittsburgh Steelers at the Stade de France on Sunday 25 October, at 2.30pm according to L'Equipe",
+   "summary_en": [
+    "Football: the New Orleans Saints face the Pittsburgh Steelers at the Stade de France on Sunday 25 October, at 2.30pm according to L'Equipe",
+    "The Clasico, FC Barcelona against Real Madrid, is at the Camp Nou on Sunday evening at 9pm; Ouest-France says Vinícius Jr is suspended"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, dimanche 25 octobre",
+   "file": "podcast-daily-2026-10-25-morning-weather-fr-FR.json",
+   "bytes": 5139,
+   "sha256": "13d6ec6dbe49fc2b27edb843bf961b4fa5f7474bdb806d9f7286f4c441f48361",
+   "date": "2026-10-25",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, dimanche 25 octobre",
+   "title_en": "Today's weather, Sunday 25 October",
+   "headline_en": "Paris today: heavy rain, 11 to 16 degrees, wind up to 30 km/h, per the Météo-France models",
+   "summary_en": [
+    "Paris today: heavy rain, 11 to 16 degrees, wind up to 30 km/h, per the Météo-France models",
+    "Strasbourg today: light rain, 9 to 16 degrees, wind up to 37 km/h, per the Météo-France models"
+   ]
+  },
+  {
+   "id": "fr-FR-Le journal du matin, jeudi 22 octobre",
+   "file": "podcast-daily-2026-10-22-morning-news-fr-FR.json",
+   "bytes": 8467,
+   "sha256": "f90da60fc09e8d422239c0e8de45191a20e8e587a4a2873bbca4dc9c06109e7e",
+   "date": "2026-10-22",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, jeudi 22 octobre",
+   "title_en": "The morning news, Thursday 22 October",
+   "headline_en": "Prime Minister Sébastien Lecornu is due to receive the political parties at Matignon on Thursday 22 October, after the violence of the 17 October mobilisation",
+   "summary_en": [
+    "Prime Minister Sébastien Lecornu is due to receive the political parties at Matignon on Thursday 22 October, after the violence of the 17 October mobilisation",
+    "New Russian strikes on Ukraine came a few hours after the Russian-American talks",
+    "At Matignon, La France insoumise wants to ask the Prime Minister for 'excuses', according to Le Figaro and Liberation"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, jeudi 22 octobre",
+   "file": "podcast-daily-2026-10-22-morning-sport-fr-FR.json",
+   "bytes": 4477,
+   "sha256": "e8bf81090bfe504818c74d2ded7c5ea634a473d65870c84d15e43c947eb8988e",
+   "date": "2026-10-22",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, jeudi 22 octobre",
+   "title_en": "Today's sport, Thursday 22 October",
+   "headline_en": "Football: Marseille travel to Austria to face Sturm Graz on Thursday at 6.45pm in the Europa League",
+   "summary_en": [
+    "Football: Marseille travel to Austria to face Sturm Graz on Thursday at 6.45pm in the Europa League",
+    "Football: Lyon face Hoffenheim on Thursday at 9pm in the Europa League"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, jeudi 22 octobre",
+   "file": "podcast-daily-2026-10-22-morning-weather-fr-FR.json",
+   "bytes": 5213,
+   "sha256": "84c9965e91461e452bd1244e5fcab22377091f744bae689664705d972659f5ab",
+   "date": "2026-10-22",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, jeudi 22 octobre",
+   "title_en": "Today's weather, Thursday 22 October",
+   "headline_en": "Marseille today: overcast, 12 to 17 degrees, wind up to 27 km/h, per the Météo-France models",
+   "summary_en": [
+    "Marseille today: overcast, 12 to 17 degrees, wind up to 27 km/h, per the Météo-France models",
+    "Bordeaux today: light rain, 10 to 17 degrees, wind up to 14 km/h, per the Météo-France models"
+   ]
+  },
+  {
+   "id": "fr-FR-Le journal du matin, mercredi 21 octobre",
+   "file": "podcast-daily-2026-10-21-morning-news-fr-FR.json",
+   "bytes": 9401,
+   "sha256": "69d8d0722135361f96c2a1798cc5e7ba65040ac9a93a60ef7b706ad3be8ebd8c",
+   "date": "2026-10-21",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, mercredi 21 octobre",
+   "title_en": "The morning news, Wednesday 21 October",
+   "headline_en": "New curfews have been decreed for the night of Wednesday to Thursday in certain sectors of several cities, including Paris and Lyon, after the violence of 17 October",
+   "summary_en": [
+    "New curfews have been decreed for the night of Wednesday to Thursday in certain sectors of several cities, including Paris and Lyon, after the violence of 17 October",
+    "Russian President Vladimir Putin announced on Wednesday the release of an American held in Russia and accused of having served as a mercenary for Ukraine",
+    "France Televisions: a new curfew has been decreed for the night of Wednesday to Thursday in certain sectors of Paris such as Place de la Republique"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, mercredi 21 octobre",
+   "file": "podcast-daily-2026-10-21-morning-sport-fr-FR.json",
+   "bytes": 5738,
+   "sha256": "117e1362ed9fb93fc6e22cc5d6659824ddbc0ef444b693206c3d7ddc75e97cfb",
+   "date": "2026-10-21",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, mercredi 21 octobre",
+   "title_en": "Today's sport, Wednesday 21 October",
+   "headline_en": "Football: Rennes travel to Juventus in Turin on Thursday 22 October for the third round of the Europa League, kick-off 6.45pm",
+   "summary_en": [
+    "Football: Rennes travel to Juventus in Turin on Thursday 22 October for the third round of the Europa League, kick-off 6.45pm",
+    "Rennes will be without striker Estéban Lepaul at Juventus, the rest of the squad is available"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, mercredi 21 octobre",
+   "file": "podcast-daily-2026-10-21-morning-weather-fr-FR.json",
+   "bytes": 5073,
+   "sha256": "5506bd72cf15d8e8c52d377524bcea5ac9946434a2bc840d13b4e38e8d2bf79e",
+   "date": "2026-10-21",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, mercredi 21 octobre",
+   "title_en": "Today's weather, Wednesday 21 October",
+   "headline_en": "Marseille: overcast, 13 to 18 degrees, wind up to 33 kilometres an hour",
+   "summary_en": [
+    "Marseille: overcast, 13 to 18 degrees, wind up to 33 kilometres an hour",
+    "Bordeaux: light rain, 12 to 17 degrees, wind up to 24 kilometres an hour"
+   ]
+  },
+  {
+   "id": "fr-FR-Le journal du matin, mardi 20 octobre",
+   "file": "podcast-daily-2026-10-20-morning-news-fr-FR.json",
+   "bytes": 7981,
+   "sha256": "dbea90cdbb7e9abf2d4d0318b8a5739c34c0809ce37276a0ff02cea19669409b",
+   "date": "2026-10-20",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, mardi 20 octobre",
+   "title_en": "The morning news, Tuesday 20 October",
+   "headline_en": "Partial curfews came into force on Monday evening in Paris, Lyon, Lille and Nice, after the violence of 17 October",
+   "summary_en": [
+    "Partial curfews came into force on Monday evening in Paris, Lyon, Lille and Nice, after the violence of 17 October",
+    "In Australia, a member of parliament was deliberately run over by a driver, and Prime Minister Anthony Albanese says it was a deliberate act",
+    "Prime Minister Sébastien Lecornu says the curfews contributed to the calm of the night and that new ones will be decided this evening where the situation requires"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, mardi 20 octobre",
+   "file": "podcast-daily-2026-10-20-morning-sport-fr-FR.json",
+   "bytes": 4515,
+   "sha256": "b6751c3dcd8e0b4923ee797b37c209e5b916fe3aadf219b2a4672f55a825d888",
+   "date": "2026-10-20",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, mardi 20 octobre",
+   "title_en": "Today's sport, Tuesday 20 October",
+   "headline_en": "Football: Paris Saint-Germain host FC Barcelona at the Parc des Princes this Tuesday, for the third round of the Champions League league phase",
+   "summary_en": [
+    "Football: Paris Saint-Germain host FC Barcelona at the Parc des Princes this Tuesday, for the third round of the Champions League league phase",
+    "Football: FC Barcelona face Real Madrid in the Clasico on Sunday, and the Barcelona president Joan Laporta criticised Real Madrid's recruitment"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, mardi 20 octobre",
+   "file": "podcast-daily-2026-10-20-morning-weather-fr-FR.json",
+   "bytes": 5249,
+   "sha256": "70a92f4a5bab7c76171a38420c0d079a87a7bbe9b73e797b9de43bf61cc762e6",
+   "date": "2026-10-20",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, mardi 20 octobre",
+   "title_en": "Today's weather, Tuesday 20 October",
+   "headline_en": "Marseille: showers, 17 to 22 degrees, wind up to 28 kilometres an hour",
+   "summary_en": [
+    "Marseille: showers, 17 to 22 degrees, wind up to 28 kilometres an hour",
+    "Bordeaux: drizzle, 11 to 17 degrees, wind up to 13 kilometres an hour"
+   ]
+  },
+  {
+   "id": "fr-FR-Le journal du matin, lundi 19 octobre",
+   "file": "podcast-daily-2026-10-19-morning-news-fr-FR.json",
+   "bytes": 8293,
+   "sha256": "710ac593c196a9be000a57345575069b4b33029d8695e24a91d42f13ab8b9166",
+   "date": "2026-10-19",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, lundi 19 octobre",
+   "title_en": "The morning news, Monday 19 October",
+   "headline_en": "Interior Minister Laurent Nunez offered his resignation to Emmanuel Macron on Sunday, and the president refused it",
+   "summary_en": [
+    "Interior Minister Laurent Nunez offered his resignation to Emmanuel Macron on Sunday, and the president refused it",
+    "Donald Trump accuses Volodymyr Zelensky of not wanting to end the war with Russia",
+    "Laurent Nunez says he handed in his resignation because he is responsible for everything"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, lundi 19 octobre",
+   "file": "podcast-daily-2026-10-19-morning-weather-fr-FR.json",
+   "bytes": 5489,
+   "sha256": "be7bcb00f7f0744be3ca28a7139b3c0eab69a6a9b7aa867dd397f028c17a7550",
+   "date": "2026-10-19",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, lundi 19 octobre",
+   "title_en": "Today's weather, Monday 19 October",
+   "headline_en": "Marseille: rain, 16 to 23 degrees, wind up to 32 kilometres an hour",
+   "summary_en": [
+    "Marseille: rain, 16 to 23 degrees, wind up to 32 kilometres an hour",
+    "Bordeaux: drizzle, 7 to 16 degrees, wind up to 11 kilometres an hour"
+   ]
+  },
+  {
+   "id": "fr-FR-Le journal du matin, dimanche 18 octobre",
+   "file": "podcast-daily-2026-10-18-morning-news-fr-FR.json",
+   "bytes": 9404,
+   "sha256": "25df01e8613faecbb2080d555e599fea47254d21586ff603cce4cb0e912a104e",
+   "date": "2026-10-18",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, dimanche 18 octobre",
+   "title_en": "The morning news, Sunday 18 October",
+   "headline_en": "After the violence of 17 October, Emmanuel Macron will address the French at 8pm this evening, the Elysee announces",
+   "summary_en": [
+    "After the violence of 17 October, Emmanuel Macron will address the French at 8pm this evening, the Elysee announces",
+    "Pope Leo XIV appears in public for the first time since his operation, at the Angelus in Saint Peter's Square",
+    "Before his address, the president will meet the Prime Minister and the ministers concerned at 5.30pm"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, dimanche 18 octobre",
+   "file": "podcast-daily-2026-10-18-morning-weather-fr-FR.json",
+   "bytes": 4714,
+   "sha256": "2f6cdb5db0ac6db1298db571c37db40b18d16a1e143c28df92066a33b9c1f7e7",
+   "date": "2026-10-18",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, dimanche 18 octobre",
+   "title_en": "Today's weather, Sunday 18 October",
+   "headline_en": "Strasbourg: drizzle, 8 to 11 degrees, wind up to 17 km/h",
+   "summary_en": [
+    "Strasbourg: drizzle, 8 to 11 degrees, wind up to 17 km/h",
+    "Lille: drizzle, 7 to 13 degrees, wind up to 12 km/h"
+   ]
+  },
+  {
+   "id": "fr-FR-Le journal du matin, samedi 17 octobre",
+   "file": "podcast-daily-2026-10-17-morning-news-fr-FR.json",
+   "bytes": 10607,
+   "sha256": "d50c06920e4d20f86bfb323283e10d77c717a1807bff81adffc2a60a36b7abd2",
+   "date": "2026-10-17",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, samedi 17 octobre",
+   "title_en": "The morning news, Saturday 17 October",
+   "headline_en": "Gilets jaunes, high school students and students mobilise on Saturday against the high cost of living, in Paris and in the regions",
+   "summary_en": [
+    "Gilets jaunes, high school students and students mobilise on Saturday against the high cost of living, in Paris and in the regions",
+    "Donald Trump exempts Russia from new sanctions by a decree published on Friday evening",
+    "The Paris police prefect has banned demonstrating around the presidential palace, Matignon and the Champs-Elysees on Saturday"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, samedi 17 octobre",
+   "file": "podcast-daily-2026-10-17-morning-sport-fr-FR.json",
+   "bytes": 4418,
+   "sha256": "dd74ca9487cc273bfc8ad0243efc42384101efea74d4b971857cca1db0f33400",
+   "date": "2026-10-17",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, samedi 17 octobre",
+   "title_en": "Today's sport, Saturday 17 October",
+   "headline_en": "Rugby: Montpellier travel to Bath in the Champions Cup on Saturday evening at 9pm",
+   "summary_en": [
+    "Rugby: Montpellier travel to Bath in the Champions Cup on Saturday evening at 9pm",
+    "Handball: Brest Bretagne Handball travel to Esbjerg on Saturday at 4pm"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, samedi 17 octobre",
+   "file": "podcast-daily-2026-10-17-morning-weather-fr-FR.json",
+   "bytes": 4676,
+   "sha256": "81b26d3857339319d3f03c3ad078e93cbefee7e5e16833047e4a456d449f3084",
+   "date": "2026-10-17",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, samedi 17 octobre",
+   "title_en": "Today's weather, Saturday 17 October",
+   "headline_en": "Paris: overcast, 10 to 16 degrees, wind up to 21 km/h",
+   "summary_en": [
+    "Paris: overcast, 10 to 16 degrees, wind up to 21 km/h",
+    "Strasbourg: rain, 10 to 18 degrees, wind up to 18 km/h"
+   ]
+  },
+  {
+   "id": "fr-FR-Le journal du matin, vendredi 16 octobre",
+   "file": "podcast-daily-2026-10-16-morning-news-fr-FR.json",
+   "bytes": 10193,
+   "sha256": "2e01935a0be250c6569db5daf3dc9b86f07cec6b8ead7b987c3ad1bc1ca59edf",
+   "date": "2026-10-16",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, vendredi 16 octobre",
+   "title_en": "The morning news, Friday 16 October",
+   "headline_en": "Gilets jaunes and high school students are called to demonstrate across France on Saturday against the high cost of living",
+   "summary_en": [
+    "Gilets jaunes and high school students are called to demonstrate across France on Saturday against the high cost of living",
+    "Donald Trump criticises Volodymyr Zelensky again after the announcement that Ukraine will resume strikes on Russian refineries",
+    "France 24 counts more than a thousand actions for the 17 October day of mobilisation"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, vendredi 16 octobre",
+   "file": "podcast-daily-2026-10-16-morning-sport-fr-FR.json",
+   "bytes": 4741,
+   "sha256": "c27b09436099457fac15b09a1de096f31466ecc3dcac0270fd88af3ad2fd00e1",
+   "date": "2026-10-16",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, vendredi 16 octobre",
+   "title_en": "Today's sport, Friday 16 October",
+   "headline_en": "Rugby: the Champions Cup resumes, with the title holders Bordeaux-Begles opening at Gloucester tonight at 9pm",
+   "summary_en": [
+    "Rugby: the Champions Cup resumes, with the title holders Bordeaux-Begles opening at Gloucester tonight at 9pm",
+    "Rugby: four Bordeaux-Begles players held up at Bristol airport have joined the squad"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, vendredi 16 octobre",
+   "file": "podcast-daily-2026-10-16-morning-weather-fr-FR.json",
+   "bytes": 5170,
+   "sha256": "0bb94b12812e4ce319e2d0dc7c3736dfb2aca7dfa95b88ac1448a43d9ca8729b",
+   "date": "2026-10-16",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, vendredi 16 octobre",
+   "title_en": "Today's weather, Friday 16 October",
+   "headline_en": "Lille today: light rain, 12 to 20 degrees, wind up to 18 km/h",
+   "summary_en": [
+    "Lille today: light rain, 12 to 20 degrees, wind up to 18 km/h",
+    "Paris today: drizzle, 14 to 21 degrees, wind up to 19 km/h"
+   ]
+  },
   {
    "id": "fr-FR-Le journal du matin, mardi 6 octobre",
    "file": "podcast-daily-2026-10-06-morning-news-fr-FR.json",

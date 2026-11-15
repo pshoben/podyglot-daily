@@ -1,0 +1,179 @@
+{
+ "title": "Le sport, dimanche 15 novembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-11-15",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Sur les terrains ce dimanche, le football:",
+   "en": "On the pitches this Sunday, football:",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "l'équipe de France reçoit la Turquie ce soir à Bordeaux, à vingt heures quarante-cinq,",
+   "en": "the France team hosts Turkey tonight in «Bordeaux», at a quarter to nine,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour la dernière journée de la phase de groupes de la Ligue des nations,",
+   "en": "for the last group matchday of the Nations League,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après L'Équipe et Ouest-France.",
+   "en": "according to «L'Équipe» and «Ouest-France».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ce sera aussi l'occasion des retrouvailles du sélectionneur des Bleus, Zinédine Zidane, avec Bordeaux,",
+   "en": "It will also be a reunion between the France coach, «Zinédine Zidane», and «Bordeaux»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où il a joué quatre saisons, écrit Ouest-France.",
+   "en": "where he played four seasons, «Ouest-France» writes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Au rugby, le XV de France affrontera l'Argentine samedi vingt et un novembre,",
+   "en": "In rugby, the «XV de France» will face Argentina on Saturday the 21st of November,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à vingt et une heures dix,",
+   "en": "at ten past nine in the evening,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour le dernier match de poule du Championnat des nations, d'après Ouest-France et L'Équipe.",
+   "en": "for the last pool match of the Nations Championship, according to «Ouest-France» and «L'Équipe».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon L'Équipe, le match aura lieu au Stade de France,",
+   "en": "According to «L'Équipe», the match will take place at the «Stade de France»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.1
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le staff a convoqué un nouveau groupe,",
+   "en": "and the staff has called a new group,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.075
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec le retour de l'ouvreur Matthieu Jalibert,",
+   "en": "with the return of the fly-half «Matthieu Jalibert»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.05
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'Anthony Jelonch et de Nicolas Depoortere,",
+   "en": "of «Anthony Jelonch» and of «Nicolas Depoortere»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.025
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et l'arrivée de l'ailier Hugo Avogadro.",
+   "en": "and the arrival of the winger «Hugo Avogadro».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport.",
+   "en": "That is it for sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Sunday 15 November",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Football: France host Turkey tonight in Bordeaux at 8.45pm, the last Nations League group matchday",
+ "summary_en": [
+  "Football: France host Turkey tonight in Bordeaux at 8.45pm, the last Nations League group matchday",
+  "Zinedine Zidane, the France coach, returns to Bordeaux, where he played from 1992 to 1996"
+ ]
+}

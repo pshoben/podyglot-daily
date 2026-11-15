@@ -1,0 +1,199 @@
+{
+ "title": "La météo, dimanche 15 novembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-11-15",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Voici ce que les modèles de Météo-France annoncent aujourd'hui, dimanche,",
+   "en": "Here is what the «Météo-France» models forecast today, Sunday,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour Strasbourg, Lille, Paris, Lyon, Bordeaux et Marseille.",
+   "en": "for «Strasbourg», «Lille», «Paris», «Lyon», «Bordeaux» and «Marseille».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Strasbourg restera sous un ciel couvert:",
+   "en": "«Strasbourg» will stay under an overcast sky:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le mercure y oscillera entre deux et treize degrés,",
+   "en": "the mercury will hover between two and thirteen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec une pointe de vent à vingt-deux kilomètres par heure.",
+   "en": "with a wind peak of twenty-two kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Il pleuvra sur Lille, où le thermomètre indiquera de deux à douze degrés,",
+   "en": "It will rain over «Lille», where the thermometer will read from two to twelve degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent pourra atteindre vingt-quatre kilomètres par heure.",
+   "en": "and the wind could reach twenty-four kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La pluie touchera Paris, avec six degrés au minimum, quatorze au maximum,",
+   "en": "Rain will reach «Paris», with six degrees at the minimum, fourteen at the maximum,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et un vent qui peut aller jusqu'à vingt-huit kilomètres par heure.",
+   "en": "and a wind that can go up to twenty-eight kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Lyon, la bruine accompagnera des températures allant de dix à seize degrés;",
+   "en": "In «Lyon», drizzle will accompany temperatures ranging from ten to sixteen degrees;",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour le vent, le maximum attendu est de vingt-six kilomètres par heure.",
+   "en": "for the wind, the maximum expected is twenty-six kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sous la pluie, Bordeaux verra le thermomètre passer de douze à dix-sept degrés,",
+   "en": "Under the rain, «Bordeaux» will see the thermometer go from twelve to seventeen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent s'élèvera à vingt-trois kilomètres par heure.",
+   "en": "and the wind will rise to twenty-three kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Même pluie du côté de Marseille,",
+   "en": "The same rain on the «Marseille» side,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un minimum de treize degrés pour un maximum de dix-huit,",
+   "en": "with a minimum of thirteen degrees for a maximum of eighteen,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et un vent maximal de vingt et un kilomètres par heure.",
+   "en": "and a maximum wind of twenty-one kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo.",
+   "en": "That is it for the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Sunday 15 November",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Strasbourg today: overcast, 2 to 13 degrees, wind up to 22 km/h, per the Météo-France models",
+ "summary_en": [
+  "Strasbourg today: overcast, 2 to 13 degrees, wind up to 22 km/h, per the Météo-France models",
+  "Lille today: rain, 2 to 12 degrees, wind up to 24 km/h, per the Météo-France models"
+ ]
+}
