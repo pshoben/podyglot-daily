@@ -1,0 +1,470 @@
+{
+ "title": "Le journal du matin, jeudi 19 novembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-11-19",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Jeudi dix-neuf novembre. Le journal du matin.",
+   "en": "Thursday 19th November. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans la course à la présidentielle, Marine Tondelier, candidate des Écologistes,",
+   "en": "In the race for the presidency, «Marine Tondelier», the Ecologists' candidate,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "s'est dite prête mercredi à travailler à une coalition autour de Jean-Luc Mélenchon,",
+   "en": "said on Wednesday she is ready to work on a coalition around «Jean-Luc Mélenchon»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "chef de file de La France insoumise.",
+   "en": "the leader of «La France insoumise».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Shenzhen, dans le sud de la Chine,",
+   "en": "In «Shenzhen», in southern China,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les présidents américain, russe et chinois se réunissent ce jeudi pour un sommet inédit à trois.",
+   "en": "the American, Russian and Chinese presidents meet this Thursday for an unprecedented three-way summit.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par la présidentielle:",
+   "en": "We begin with the presidential race:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "franceinfo et Le Figaro rapportent que Marine Tondelier, secrétaire nationale des Écologistes,",
+   "en": "«franceinfo» and «Le Figaro» report that «Marine Tondelier», national secretary of the Ecologists,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a dit mercredi sur France 2 être « prête à travailler à une coalition autour de la candidature de Jean-Luc Mélenchon ».",
+   "en": "said on Wednesday on «France 2» that she is \"ready to work on a coalition around the candidacy of «Jean-Luc Mélenchon»\".",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Figaro écrit qu'elle y voit « un chemin possible »",
+   "en": "«Le Figaro» writes that she sees \"a possible path\"",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "si les Insoumis ont la volonté d'ouvrir un travail de coalition.",
+   "en": "if the «Insoumis» have the will to open coalition work.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon Le Monde,",
+   "en": "According to «Le Monde»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le parti des Écologistes ne s'est pas encore prononcé sur une candidature propre,",
+   "en": "the Ecologists' party has not yet ruled on a candidacy of its own,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "une alliance avec La France insoumise ou un rapprochement avec Raphaël Glucksmann.",
+   "en": "an alliance with «La France insoumise» or closer ties with «Raphaël Glucksmann».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le candidat Raphaël Glucksmann a répondu jeudi qu'elle avait « choisi de tourner le dos » à la tradition des écologistes,",
+   "en": "The candidate «Raphaël Glucksmann» answered on Thursday that she had \"chosen to turn her back\" on the ecologist tradition,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "rapportent franceinfo et Ouest-France.",
+   "en": "«franceinfo» and «Ouest-France» report.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Manuel Bompard, de La France insoumise, a salué « une bonne nouvelle »,",
+   "en": "«Manuel Bompard», of «La France insoumise», welcomed \"good news\",",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "écrivent franceinfo et Le Figaro.",
+   "en": "«franceinfo» and «Le Figaro» write.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre sujet maintenant: à Shenzhen,",
+   "en": "On to another subject: in «Shenzhen»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Donald Trump, Vladimir Poutine et Xi Jinping se réunissent ce jeudi pour un sommet tripartite,",
+   "en": "Donald Trump, Vladimir Putin and «Xi Jinping» meet this Thursday for a tripartite summit,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "écrivent franceinfo, Le Figaro et Libération;",
+   "en": "«franceinfo», «Le Figaro» and «Libération» write;",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Figaro et Libération le qualifient d'inédit.",
+   "en": "«Le Figaro» and «Libération» describe it as unprecedented.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Monde précise que les présidents américain et russe ont d'abord discuté pendant environ quarante minutes,",
+   "en": "«Le Monde» specifies that the American and Russian presidents first talked for about forty minutes,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sans que l'on sache quels thèmes ont été abordés.",
+   "en": "without it being known which subjects were covered.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Toujours selon Le Monde, Donald Trump s'est aussi entretenu avec Xi Jinping,",
+   "en": "Again according to «Le Monde», Donald Trump also spoke with «Xi Jinping»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et il affirme que tous deux souhaitent apporter leur « aide » pour mettre fin à la guerre en Ukraine.",
+   "en": "and says that both want to bring their \"help\" to end the war in Ukraine.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "cinq départements sont en vigilance orange pour la pluie-inondation ou les crues, selon Libération:",
+   "en": "five departments are on orange alert for rain-related flooding or river floods, according to «Libération»:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la Somme, le Pas-de-Calais, la Seine-Maritime, les Landes et la Haute-Corse.",
+   "en": "the «Somme», the «Pas-de-Calais», the «Seine-Maritime», the «Landes» and «Haute-Corse».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "franceinfo précise que Météo-France prévoit de fortes précipitations dans le quart nord-ouest du pays,",
+   "en": "«franceinfo» specifies that «Météo-France» forecasts heavy rainfall in the north-west quarter of the country,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "notamment dans la nuit de jeudi à vendredi.",
+   "en": "notably overnight from Thursday into Friday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le préfet du Pas-de-Calais prévient que « l'épisode de pluie n'est pas terminé »,",
+   "en": "The prefect of the «Pas-de-Calais» warns that \"the rain episode is not over\",",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "rapporte aussi franceinfo.",
+   "en": "«franceinfo» also reports.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Toujours en France, Bertrand Méheut,",
+   "en": "Still in France, «Bertrand Méheut»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "président du groupe Canal+ de deux mille deux à deux mille quinze,",
+   "en": "president of the «Canal+» group from 2002 to 2015,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "est mort à soixante-quinze ans, selon Le Monde et Le Figaro.",
+   "en": "has died at 75, according to «Le Monde» and «Le Figaro».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Maxime Saada, président du directoire de Canal+,",
+   "en": "«Maxime Saada», president of the management board of «Canal+»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "salue un dirigeant qui a « profondément marqué l'histoire » de l'entreprise,",
+   "en": "praises a leader who \"deeply marked the history\" of the company,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon Le Monde et franceinfo.",
+   "en": "according to «Le Monde» and «franceinfo».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour finir, l'Union européenne a annoncé jeudi reporter de deux ans",
+   "en": "To finish, the European Union announced on Thursday that it is postponing by two years",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "l'application d'une loi contre le méthane,",
+   "en": "the application of a law against methane,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un gaz à effet de serre extrêmement polluant,",
+   "en": "an extremely polluting greenhouse gas,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "indiquent Ouest-France et Libération.",
+   "en": "«Ouest-France» and «Libération» report.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Thursday 19 November",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Marine Tondelier, the Ecologists' presidential candidate, said on Wednesday she is ready to work on a coalition around Jean-Luc Mélenchon",
+ "summary_en": [
+  "Marine Tondelier, the Ecologists' presidential candidate, said on Wednesday she is ready to work on a coalition around Jean-Luc Mélenchon",
+  "In Shenzhen, in southern China, the American, Russian and Chinese presidents meet on Thursday for an unprecedented three-way summit",
+  "Le Figaro: Tondelier sees \"a possible path\" if the Insoumis want to open coalition work"
+ ]
+}

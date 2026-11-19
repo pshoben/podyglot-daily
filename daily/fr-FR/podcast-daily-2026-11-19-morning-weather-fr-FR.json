@@ -1,0 +1,199 @@
+{
+ "title": "La météo, jeudi 19 novembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-11-19",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Aujourd'hui jeudi, de la pluie ou de la bruine dans six villes de France,",
+   "en": "Today, Thursday, rain or drizzle in six cities of France,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après les modèles de Météo-France.",
+   "en": "according to the «Météo-France» models.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Marseille essuiera une pluie faible;",
+   "en": "«Marseille» will get light rain;",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le mercure y variera de quatorze à dix-huit degrés,",
+   "en": "the mercury will range from fourteen to eighteen degrees there,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent soufflera jusqu'à trente-quatre kilomètres par heure.",
+   "en": "and the wind will blow up to thirty-four kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La pluie sera forte à Bordeaux:",
+   "en": "The rain will be heavy in «Bordeaux»:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "il fera entre douze et seize degrés,",
+   "en": "it will be between twelve and sixteen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec jusqu'à vingt-sept kilomètres par heure de vent.",
+   "en": "with winds of up to twenty-seven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lyon reçoit de la pluie, avec des températures de onze à seize degrés,",
+   "en": "«Lyon» gets rain, with temperatures from eleven to sixteen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent n'y dépasse pas dix-sept kilomètres par heure.",
+   "en": "and the wind there does not exceed seventeen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Strasbourg aura droit à de la bruine, pour dix degrés au minimum et treize au maximum,",
+   "en": "«Strasbourg» will have drizzle, with a low of ten degrees and a high of thirteen,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tandis que le vent ira jusqu'à vingt-quatre kilomètres par heure.",
+   "en": "while the wind will go up to twenty-four kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Paris, bruine également, entre onze et quatorze degrés,",
+   "en": "In «Paris», drizzle too, between eleven and fourteen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et vingt-quatre kilomètres par heure de vent au maximum.",
+   "en": "and winds of up to twenty-four kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lille verra de la pluie, entre neuf et onze degrés seulement,",
+   "en": "«Lille» will see rain, between nine and eleven degrees only,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un vent qui culminera à vingt-quatre kilomètres par heure.",
+   "en": "with a wind peaking at twenty-four kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo.",
+   "en": "That is it for the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Thursday 19 November",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Marseille today: light rain, 14 to 18 degrees, wind up to 34 km/h, per the Météo-France models",
+ "summary_en": [
+  "Marseille today: light rain, 14 to 18 degrees, wind up to 34 km/h, per the Météo-France models",
+  "Bordeaux today: heavy rain, 12 to 16 degrees, wind up to 27 km/h, per the Météo-France models"
+ ]
+}

@@ -1,0 +1,199 @@
+{
+ "title": "Le sport, jeudi 19 novembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-11-19",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Ce jeudi, au tennis, Arthur Fils affronte Alexander Zverev aux Finales ATP,",
+   "en": "This Thursday, in tennis, Arthur Fils plays «Alexander Zverev» at the ATP Finals,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après L'Équipe et Ouest-France.",
+   "en": "according to «L'Équipe» and «Ouest-France».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Carlos Alcaraz a ressenti une gêne à un ischio-jambier pendant ces Finales, rapporte L'Équipe,",
+   "en": "«Carlos Alcaraz» felt discomfort in a hamstring during these Finals, «L'Équipe» reports,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et Ouest-France écrit qu'il pourrait déclarer forfait.",
+   "en": "and «Ouest-France» writes that he could withdraw.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En football féminin, l'OL Lyonnes affronte Arsenal ce jeudi en Ligue des champions,",
+   "en": "In women's football, «OL Lyonnes» face Arsenal this Thursday in the Champions League,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon L'Équipe et Ouest-France.",
+   "en": "according to «L'Équipe» and «Ouest-France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon L'Équipe, le match a lieu jeudi soir à vingt et une heures,",
+   "en": "According to «L'Équipe», the match takes place on Thursday evening at nine o'clock,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en direct sur la chaîne L'Équipe.",
+   "en": "live on the «L'Équipe» channel.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Havre a un nouvel entraîneur, Valérien Ismaël,",
+   "en": "«Le Havre» has a new coach, «Valérien Ismaël»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "présenté mercredi à la presse, écrivent L'Équipe et Ouest-France.",
+   "en": "presented to the press on Wednesday, «L'Équipe» and «Ouest-France» write.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Équipe précise que le club se déplace vendredi chez Troyes, à vingt heures quarante-cinq.",
+   "en": "«L'Équipe» specifies that the club travels to Troyes on Friday, at a quarter to nine in the evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Formule 1, Cadillac a annoncé mercredi que Valtteri Bottas sera l'un de ses pilotes en deux mille vingt-sept,",
+   "en": "In Formula 1, «Cadillac» announced on Wednesday that «Valtteri Bottas» will be one of its drivers in 2027,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après L'Équipe et Ouest-France.",
+   "en": "according to «L'Équipe» and «Ouest-France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En athlétisme, la Kényane Peres Jepchirchir, championne du monde du marathon, est suspendue trois ans:",
+   "en": "In athletics, the Kenyan «Peres Jepchirchir», the marathon world champion, is suspended for three years:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "elle a admis avoir utilisé de l'EPO, a annoncé jeudi l'Unité d'intégrité de l'athlétisme,",
+   "en": "she admitted using EPO, the Athletics Integrity Unit announced on Thursday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon franceinfo, L'Équipe et Ouest-France.",
+   "en": "according to «franceinfo», «L'Équipe» and «Ouest-France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport.",
+   "en": "That is it for sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Thursday 19 November",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Tennis: Arthur Fils plays Alexander Zverev at the ATP Finals this Thursday",
+ "summary_en": [
+  "Tennis: Arthur Fils plays Alexander Zverev at the ATP Finals this Thursday",
+  "Carlos Alcaraz felt a hamstring problem at the ATP Finals; Ouest-France says he could withdraw"
+ ]
+}

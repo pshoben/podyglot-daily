@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-FR",
+ "date": "2026-11-19",
+ "episodes": [
+  {
+   "id": "fr-FR-Le journal du matin, jeudi 19 novembre",
+   "file": "podcast-daily-2026-11-19-morning-news-fr-FR.json",
+   "bytes": 12718,
+   "sha256": "98acbbf99ec0799fbc9d5c1028bc5cd8692a6d91405e54b44fa7f7753668f210",
+   "date": "2026-11-19",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, jeudi 19 novembre",
+   "title_en": "The morning news, Thursday 19 November",
+   "headline_en": "Marine Tondelier, the Ecologists' presidential candidate, said on Wednesday she is ready to work on a coalition around Jean-Luc Mélenchon",
+   "summary_en": [
+    "Marine Tondelier, the Ecologists' presidential candidate, said on Wednesday she is ready to work on a coalition around Jean-Luc Mélenchon",
+    "In Shenzhen, in southern China, the American, Russian and Chinese presidents meet on Thursday for an unprecedented three-way summit",
+    "Le Figaro: Tondelier sees \"a possible path\" if the Insoumis want to open coalition work"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, jeudi 19 novembre",
+   "file": "podcast-daily-2026-11-19-morning-sport-fr-FR.json",
+   "bytes": 5418,
+   "sha256": "c5f5f44e100b23b2bc1700edd1ace559f607b74e23d6d43288dd193a2d5cb027",
+   "date": "2026-11-19",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, jeudi 19 novembre",
+   "title_en": "Today's sport, Thursday 19 November",
+   "headline_en": "Tennis: Arthur Fils plays Alexander Zverev at the ATP Finals this Thursday",
+   "summary_en": [
+    "Tennis: Arthur Fils plays Alexander Zverev at the ATP Finals this Thursday",
+    "Carlos Alcaraz felt a hamstring problem at the ATP Finals; Ouest-France says he could withdraw"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, jeudi 19 novembre",
+   "file": "podcast-daily-2026-11-19-morning-weather-fr-FR.json",
+   "bytes": 5048,
+   "sha256": "890b167ce316b912bca54d553cab737d12526279ebc72230aaddf0ca584d84eb",
+   "date": "2026-11-19",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, jeudi 19 novembre",
+   "title_en": "Today's weather, Thursday 19 November",
+   "headline_en": "Marseille today: light rain, 14 to 18 degrees, wind up to 34 km/h, per the Météo-France models",
+   "summary_en": [
+    "Marseille today: light rain, 14 to 18 degrees, wind up to 34 km/h, per the Météo-France models",
+    "Bordeaux today: heavy rain, 12 to 16 degrees, wind up to 27 km/h, per the Météo-France models"
+   ]
+  }
+ ],
+ "content": "0a9e4e18e4d67c327bc9e276f2bc8f6934e78b677a3539a4dca814faa84f5dc8",
+ "rev": 1,
+ "updated": "2026-11-19T09:28:10.439Z"
+}
