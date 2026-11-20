@@ -1,0 +1,159 @@
+{
+ "title": "Le sport, vendredi 20 novembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-11-20",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Ce vendredi, le football a rendez-vous avec le tirage au sort de la phase finale de la Ligue des nations,",
+   "en": "This Friday in football, the draw for the final phase of the Nations League takes place,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à midi selon L'Équipe,",
+   "en": "at midday according to «L'Équipe»,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qui précise qu'il sera diffusé en direct sur sa chaîne.",
+   "en": "which specifies that it will be shown live on its own channel.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ouest-France écrit que ce tirage désignera l'adversaire de l'équipe de France en quarts de finale.",
+   "en": "«Ouest-France» writes that this draw will decide the French national team's opponent in the quarter-finals.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En Ligue 1,",
+   "en": "In «Ligue 1»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ouest-France présente la rencontre entre Troyes et Le Havre comme le match d'ouverture de la onzième journée.",
+   "en": "«Ouest-France» presents the match between «Troyes» and «Le Havre» as the opening match of the eleventh round.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon L'Équipe,",
+   "en": "According to «L'Équipe»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Troyes reçoit Le Havre ce vendredi soir, avec un coup d'envoi fixé à vingt heures quarante-cinq.",
+   "en": "«Troyes» hosts «Le Havre» this Friday evening, with kick-off set for a quarter to nine.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Valérien Ismaël s'apprête à diriger son premier match sur le banc d'un club français,",
+   "en": "«Valérien Ismaël» is about to lead his first match on the bench of a French club,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec Le Havre, écrit L'Équipe.",
+   "en": "with «Le Havre», «L'Équipe» writes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Figaro note que Lens, Lyon, Le Havre et Strasbourg ont changé d'entraîneur pendant la trêve internationale,",
+   "en": "«Le Figaro» notes that «Lens», «Lyon», «Le Havre» and «Strasbourg» changed coaches during the international break,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et que leurs premiers tests arrivent ce week-end.",
+   "en": "and that their first tests come this weekend.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport.",
+   "en": "That is it for sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Friday 20 November",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Football: the draw for the Nations League final phase takes place on Friday, at midday according to L'Équipe",
+ "summary_en": [
+  "Football: the draw for the Nations League final phase takes place on Friday, at midday according to L'Équipe",
+  "Ligue 1: Troyes host Le Havre on Friday evening in the opening match of round 11, kick-off 8:45 pm according to L'Équipe"
+ ]
+}

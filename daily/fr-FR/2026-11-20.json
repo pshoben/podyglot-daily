@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-FR",
+ "date": "2026-11-20",
+ "episodes": [
+  {
+   "id": "fr-FR-Le journal du matin, vendredi 20 novembre",
+   "file": "podcast-daily-2026-11-20-morning-news-fr-FR.json",
+   "bytes": 13557,
+   "sha256": "df4ade05ae5c349b232b084838a67915e20de2a97dfcd37cc0b97f7cb311a2de",
+   "date": "2026-11-20",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, vendredi 20 novembre",
+   "title_en": "The morning news, Friday 20 November",
+   "headline_en": "Yannick Jadot announces on Thursday that he is leaving Les Écologistes, the day after the party's presidential candidate Marine Tondelier said she was ready to work on a coalition around Jean-Luc Mélenchon",
+   "summary_en": [
+    "Yannick Jadot announces on Thursday that he is leaving Les Écologistes, the day after the party's presidential candidate Marine Tondelier said she was ready to work on a coalition around Jean-Luc Mélenchon",
+    "In Berlin, the American envoy Jared Kushner says Donald Trump would be open to NATO-type protection for Ukraine, if it serves American interests",
+    "Le Monde: the Socialist Party halts talks with the Ecologists; Libération: Raphaël Glucksmann wants to win over ecologists hostile to Mélenchon"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, vendredi 20 novembre",
+   "file": "podcast-daily-2026-11-20-morning-sport-fr-FR.json",
+   "bytes": 4358,
+   "sha256": "7493505b0ed484def46436f0226c88cb14e620bdb3935765a811fc1e8e6b47c0",
+   "date": "2026-11-20",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, vendredi 20 novembre",
+   "title_en": "Today's sport, Friday 20 November",
+   "headline_en": "Football: the draw for the Nations League final phase takes place on Friday, at midday according to L'Équipe",
+   "summary_en": [
+    "Football: the draw for the Nations League final phase takes place on Friday, at midday according to L'Équipe",
+    "Ligue 1: Troyes host Le Havre on Friday evening in the opening match of round 11, kick-off 8:45 pm according to L'Équipe"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, vendredi 20 novembre",
+   "file": "podcast-daily-2026-11-20-morning-weather-fr-FR.json",
+   "bytes": 5063,
+   "sha256": "e4a2898edf16952043e60896d5c5ec37244b13bcab33bc8730823a4c67995015",
+   "date": "2026-11-20",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, vendredi 20 novembre",
+   "title_en": "Today's weather, Friday 20 November",
+   "headline_en": "Marseille today: overcast, 14 to 16 degrees, wind up to 30 km/h, per the Météo-France models",
+   "summary_en": [
+    "Marseille today: overcast, 14 to 16 degrees, wind up to 30 km/h, per the Météo-France models",
+    "Bordeaux today: rain, 12 to 17 degrees, wind up to 23 km/h, per the Météo-France models"
+   ]
+  }
+ ],
+ "content": "3132dc60b107465b8a41a2e546137e9e24db78abaa9326060583f4d31a49f5e3",
+ "rev": 1,
+ "updated": "2026-11-20T06:30:15.227Z"
+}

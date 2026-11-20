@@ -1,0 +1,500 @@
+{
+ "title": "Le journal du matin, vendredi 20 novembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-11-20",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Vendredi vingt novembre. Le journal du matin.",
+   "en": "Friday 20th November. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le sénateur Yannick Jadot a annoncé jeudi quitter Les Écologistes,",
+   "en": "Senator «Yannick Jadot» announced on Thursday that he is leaving the Ecologists,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "après que Marine Tondelier, candidate du parti à la présidentielle,",
+   "en": "after «Marine Tondelier», the party's presidential candidate,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "s'est dite prête à travailler à une coalition autour de Jean-Luc Mélenchon, le leader des Insoumis.",
+   "en": "said she was ready to work on a coalition around «Jean-Luc Mélenchon», the leader of the «Insoumis».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Berlin,",
+   "en": "In Berlin,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "l'émissaire américain Jared Kushner a affirmé jeudi que Donald Trump serait ouvert à une protection de type Otan pour l'Ukraine,",
+   "en": "the American envoy «Jared Kushner» said on Thursday that Donald Trump would be open to NATO-type protection for Ukraine,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à condition qu'elle serve les intérêts des États-Unis.",
+   "en": "provided it serves American interests.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par la présidentielle:",
+   "en": "We begin with the presidential race:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "franceinfo et France 24 rapportent que le sénateur Yannick Jadot a annoncé jeudi quitter Les Écologistes,",
+   "en": "«franceinfo» and «France 24» report that Senator «Yannick Jadot» announced on Thursday that he is leaving the Ecologists,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "après que Marine Tondelier, leur candidate,",
+   "en": "after «Marine Tondelier», their candidate,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a dit mercredi être prête à travailler à une coalition avec Jean-Luc Mélenchon.",
+   "en": "said on Wednesday she was ready to work on a coalition with «Jean-Luc Mélenchon».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "franceinfo rapporte ces mots de Yannick Jadot:",
+   "en": "«franceinfo» reports these words from «Yannick Jadot»:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "« aujourd'hui c'est un fiasco,",
+   "en": "\"today it is a fiasco,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "mais ma famille politique c'est l'écologie politique, incontestablement ».",
+   "en": "but my political family is political ecology, without a doubt\".",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon Le Monde, le Parti socialiste a stoppé les discussions avec les Écologistes",
+   "en": "According to «Le Monde», the Socialist Party has halted talks with the Ecologists",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "après le ralliement de Marine Tondelier à Jean-Luc Mélenchon.",
+   "en": "after «Marine Tondelier» rallied to «Jean-Luc Mélenchon».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Libération écrit que le candidat du Parti socialiste et de Place publique, Raphaël Glucksmann,",
+   "en": "«Libération» writes that the candidate of the Socialist Party and «Place publique», «Raphaël Glucksmann»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "entend profiter de ce rapprochement pour ramener à lui les écologistes hostiles à Jean-Luc Mélenchon.",
+   "en": "intends to use this move to win back the ecologists who are hostile to «Jean-Luc Mélenchon».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à autre chose: à Berlin,",
+   "en": "On to another subject: in Berlin,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.1
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "l'émissaire américain Jared Kushner a dit jeudi lors d'une conférence de presse,",
+   "en": "the American envoy «Jared Kushner» said on Thursday at a press conference,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.075
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "après une réunion de la coalition des volontaires pour l'Ukraine,",
+   "en": "after a meeting of the coalition of the willing for Ukraine,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.05
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que Donald Trump serait ouvert à une protection de type Otan pour ce pays,",
+   "en": "that Donald Trump would be open to NATO-type protection for that country,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.025
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à condition qu'elle serve les intérêts des États-Unis,",
+   "en": "provided it serves American interests,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.0
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "rapportent Libération et Le Figaro.",
+   "en": "«Libération» and «Le Figaro» report.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Monde précise que les membres de la coalition des volontaires,",
+   "en": "«Le Monde» specifies that the members of the coalition of the willing,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "réunis jeudi en Allemagne,",
+   "en": "meeting in Germany on Thursday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "se sont engagés à honorer l'intégralité de l'aide promise en 2026 et à maintenir ce soutien en 2027.",
+   "en": "committed to honouring all the aid promised for 2026 and to maintaining that support in 2027.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un cargo battant pavillon maltais s'est échoué tôt ce vendredi sur la côte des Landes,",
+   "en": "a Maltese-flagged cargo ship ran aground early this Friday on the coast of the «Landes»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à Lit-et-Mixe, écrivent Le Figaro et Ouest-France.",
+   "en": "at «Lit-et-Mixe», «Le Figaro» and «Ouest-France» write.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dix-neuf marins ont été évacués par hélicoptère,",
+   "en": "Nineteen sailors were evacuated by helicopter,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon la préfecture des Landes citée par Le Monde et franceinfo;",
+   "en": "according to the «Landes» prefecture quoted by «Le Monde» and «franceinfo»;",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "trois membres de l'équipage sont restés à bord, précise Le Monde.",
+   "en": "three crew members stayed on board, «Le Monde» specifies.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour le moment,",
+   "en": "For the moment,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "aucun blessé n'est à déplorer et aucun risque de pollution n'est signalé, ajoute franceinfo.",
+   "en": "no injuries are reported and no risk of pollution has been signalled, «franceinfo» adds.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Toujours en France,",
+   "en": "Still in France,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les nouvelles règles sur les petits découverts bancaires entrent en vigueur ce vendredi,",
+   "en": "the new rules on small bank overdrafts come into force this Friday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon franceinfo et Libération.",
+   "en": "according to «franceinfo» and «Libération».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "franceinfo précise qu'elles alignent les découverts de moins de deux cents euros,",
+   "en": "«franceinfo» specifies that they bring overdrafts of under two hundred euros,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et ceux remboursables en moins d'un mois,",
+   "en": "and those repayable within a month,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sur les conditions plus restrictives des crédits à la consommation.",
+   "en": "into line with the stricter terms of consumer credit.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Pour finir, à partir de ce vendredi,",
+   "en": "To finish, from this Friday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les hôtes Airbnb ne peuvent plus demander à leurs voyageurs de défaire les lits ou de laver la vaisselle avant de partir,",
+   "en": "«Airbnb» hosts can no longer ask their guests to strip the beds or wash the dishes before leaving,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "écrit Le Figaro.",
+   "en": "«Le Figaro» writes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Monde rapporte que des dizaines de milliers d'hôtes dénoncent ces nouvelles règles,",
+   "en": "«Le Monde» reports that tens of thousands of hosts are denouncing the new rules,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et Libération que des hébergeurs réfléchissent à une action collective en justice.",
+   "en": "and «Libération» that hosts are considering collective legal action.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Friday 20 November",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Yannick Jadot announces on Thursday that he is leaving Les Écologistes, the day after the party's presidential candidate Marine Tondelier said she was ready to work on a coalition around Jean-Luc Mélenchon",
+ "summary_en": [
+  "Yannick Jadot announces on Thursday that he is leaving Les Écologistes, the day after the party's presidential candidate Marine Tondelier said she was ready to work on a coalition around Jean-Luc Mélenchon",
+  "In Berlin, the American envoy Jared Kushner says Donald Trump would be open to NATO-type protection for Ukraine, if it serves American interests",
+  "Le Monde: the Socialist Party halts talks with the Ecologists; Libération: Raphaël Glucksmann wants to win over ecologists hostile to Mélenchon"
+ ]
+}
