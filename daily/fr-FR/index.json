@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-FR-Le journal du matin, samedi 21 novembre",
+   "file": "podcast-daily-2026-11-21-morning-news-fr-FR.json",
+   "bytes": 12151,
+   "sha256": "6724ba336926c27e5266fdf6db4d2c3808eef2ad2d3c6dcb09a177c8bff376a5",
+   "date": "2026-11-21",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, samedi 21 novembre",
+   "title_en": "The morning news, Saturday 21 November",
+   "headline_en": "A Paris criminal court convicts three police officers over the 2020 violent arrest of a music producer and retains racism as an aggravating circumstance",
+   "summary_en": [
+    "A Paris criminal court convicts three police officers over the 2020 violent arrest of a music producer and retains racism as an aggravating circumstance",
+    "Video game GTA VI generated 3.79 billion dollars in sales on its release day, according to its publisher",
+    "A new Saturday of protests against the high cost of living in France, the sixth, with the Interior Minister asking prefects to be particularly vigilant"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, samedi 21 novembre",
+   "file": "podcast-daily-2026-11-21-morning-sport-fr-FR.json",
+   "bytes": 5212,
+   "sha256": "b9cb091a07f20ea79166696e8218be5ae3e032fc6161bfad97aaeace12fe3977",
+   "date": "2026-11-21",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, samedi 21 novembre",
+   "title_en": "Today's sport, Saturday 21 November",
+   "headline_en": "The XV de France face Argentina on Saturday in their last pool match of the Nations Championship, kick-off 9:10 pm according to Ouest-France and L'Équipe",
+   "summary_en": [
+    "The XV de France face Argentina on Saturday in their last pool match of the Nations Championship, kick-off 9:10 pm according to Ouest-France and L'Équipe",
+    "Ligue 1, round 11, Saturday evening: Lille v Lyon, Lens v Toulouse and Strasbourg v Brest, 8:45 pm according to L'Équipe"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, samedi 21 novembre",
+   "file": "podcast-daily-2026-11-21-morning-weather-fr-FR.json",
+   "bytes": 5601,
+   "sha256": "a94c0caa0636598c2407718ffab5fadb21d1a951d50ccffaa1beb4f649d2bcad",
+   "date": "2026-11-21",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, samedi 21 novembre",
+   "title_en": "Today's weather, Saturday 21 November",
+   "headline_en": "Orange flood vigilance in the Pas-de-Calais on Saturday, according to Météo-France",
+   "summary_en": [
+    "Orange flood vigilance in the Pas-de-Calais on Saturday, according to Météo-France",
+    "Marseille today: drizzle, 12 to 17 degrees, wind up to 14 km/h, per the Météo-France models"
+   ]
+  },
+  {
    "id": "fr-FR-Le journal du matin, vendredi 20 novembre",
    "file": "podcast-daily-2026-11-20-morning-news-fr-FR.json",
    "bytes": 13557,

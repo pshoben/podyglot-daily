@@ -1,0 +1,450 @@
+{
+ "title": "Le journal du matin, samedi 21 novembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-11-21",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Samedi vingt et un novembre. Le journal du matin.",
+   "en": "Saturday 21st November. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Paris, la cour criminelle a condamné vendredi soir trois policiers pour des violences",
+   "en": "In Paris, the criminal court on Friday evening convicted three police officers over violence",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "commises en deux mille vingt contre un producteur de musique,",
+   "en": "committed in 2020 against a music producer,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en retenant la circonstance aggravante de racisme.",
+   "en": "retaining the aggravating circumstance of racism.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le monde du jeu vidéo,",
+   "en": "In the video game world,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "GTA VI a généré trois virgule soixante-dix-neuf milliards de dollars de ventes le jour de sa sortie,",
+   "en": "«GTA VI» generated 3.79 billion dollars in sales on the day of its release,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon son éditeur.",
+   "en": "according to its publisher.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par le procès des trois policiers:",
+   "en": "We begin with the trial of the three police officers:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "franceinfo rapporte que la cour criminelle de Paris a rendu son verdict vendredi soir,",
+   "en": "«franceinfo» reports that the Paris criminal court handed down its verdict on Friday evening,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec des peines allant d'un an sous bracelet électronique à deux ans de prison ferme,",
+   "en": "with sentences ranging from one year under electronic tag to two years in prison,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et qu'elle a retenu la circonstance aggravante de racisme.",
+   "en": "and that it retained the aggravating circumstance of racism.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Monde écrit que le producteur,",
+   "en": "«Le Monde» writes that the producer,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.1
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "contrôlé en deux mille vingt devant son studio de musique,",
+   "en": "stopped in 2020 outside his music studio,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.075
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avait été frappé par les agents,",
+   "en": "had been hit by the officers,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.05
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qui avaient ensuite prétendu dans leur procès-verbal qu'il les avait agressés,",
+   "en": "who then claimed in their report that he had attacked them,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.025
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "une version démentie par les images d'une caméra de surveillance.",
+   "en": "a version contradicted by CCTV footage.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Figaro écrit que les peines sont inférieures aux réquisitions.",
+   "en": "«Le Figaro» writes that the sentences are lower than the prosecution had asked for.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre sujet maintenant, le jeu vidéo GTA VI:",
+   "en": "On to another subject, the video game «GTA VI»:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.1
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "franceinfo rapporte qu'il a généré trois virgule soixante-dix-neuf milliards de dollars de ventes le jour de sa sortie,",
+   "en": "«franceinfo» reports that it generated 3.79 billion dollars in sales on the day of its release,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.075
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon son éditeur,",
+   "en": "according to its publisher,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.05
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "soit près de cinq fois les quelque huit cents millions de dollars générés par son prédécesseur en vingt-quatre heures,",
+   "en": "nearly five times the roughly 800 million dollars its predecessor generated in twenty-four hours,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.025
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "en deux mille treize.",
+   "en": "in 2013.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon Le Figaro,",
+   "en": "According to «Le Figaro»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le jeu s'est vendu à trente-deux virgule cinq millions d'exemplaires en vingt-quatre heures.",
+   "en": "the game sold 32.5 million copies in twenty-four hours.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Monde ajoute que le jeu, lancé jeudi, a été salué par la critique.",
+   "en": "«Le Monde» adds that the game, launched on Thursday, was praised by critics.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité,",
+   "en": "In other news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ce samedi est le sixième samedi de manifestations contre la vie chère en France,",
+   "en": "this Saturday is the sixth Saturday of protests against the high cost of living in France,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans un contexte de baisse de la mobilisation, écrit Le Monde.",
+   "en": "at a time when the turnout is waning, «Le Monde» writes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le journal précise que l'ampleur de cette journée reste difficile à anticiper,",
+   "en": "The paper specifies that the scale of the day is hard to anticipate,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et qu'elle s'inscrit dans un appel européen de syndicats et d'associations de défense du droit au logement",
+   "en": "and that it is part of a European call by unions and housing-rights groups",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à des actions coordonnées de vendredi à dimanche.",
+   "en": "for coordinated action from Friday to Sunday.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon franceinfo, le ministre de l'Intérieur a demandé aux préfets",
+   "en": "According to «franceinfo», the Interior Minister has asked prefects",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'être « particulièrement vigilants » ce samedi,",
+   "en": "to be \"particularly vigilant\" this Saturday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "journée qui coïncide avec le huitième anniversaire du mouvement des gilets jaunes.",
+   "en": "a day that coincides with the eighth anniversary of the yellow vests movement.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Toujours en France, franceinfo rapporte que le Rassemblement national",
+   "en": "Still in France, «franceinfo» reports that the «Rassemblement national»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "est soupçonné d'avoir bénéficié de fuites d'informations normalement couvertes par le secret de l'enquête,",
+   "en": "is suspected of having benefited from leaks of information normally covered by the secrecy of the investigation,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et que la participation d'un préfet est étudiée, selon plusieurs médias.",
+   "en": "and that the role of a prefect is being examined, according to several media.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Libération écrit que, dans cette affaire de fuites de l'Intérieur vers le parti,",
+   "en": "«Libération» writes that, in this affair of leaks from the Interior Ministry to the party,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "c'est à l'occasion d'investigations lancées au niveau européen que la justice a soupçonné",
+   "en": "it was during investigations launched at European level that the judiciary suspected",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la complicité d'un agent de l'État.",
+   "en": "the complicity of a state official.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "RFI rapporte que le Rassemblement national économise sa parole, voire se mure dans le silence.",
+   "en": "«RFI» reports that the «Rassemblement national» is saying as little as possible, even keeping silent.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Saturday 21 November",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "A Paris criminal court convicts three police officers over the 2020 violent arrest of a music producer and retains racism as an aggravating circumstance",
+ "summary_en": [
+  "A Paris criminal court convicts three police officers over the 2020 violent arrest of a music producer and retains racism as an aggravating circumstance",
+  "Video game GTA VI generated 3.79 billion dollars in sales on its release day, according to its publisher",
+  "A new Saturday of protests against the high cost of living in France, the sixth, with the Interior Minister asking prefects to be particularly vigilant"
+ ]
+}

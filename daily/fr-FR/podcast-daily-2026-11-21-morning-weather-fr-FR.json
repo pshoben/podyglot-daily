@@ -1,0 +1,229 @@
+{
+ "title": "La météo, samedi 21 novembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-11-21",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Aujourd'hui, une vigilance orange pour les crues est en vigueur dans le Pas-de-Calais,",
+   "en": "Today, an orange flood vigilance is in force in the «Pas-de-Calais»,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où une crue importante est en cours sur la Canche,",
+   "en": "where a major flood is under way on the «Canche»,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après le bulletin de Météo-France de six heures que cite Ouest-France.",
+   "en": "according to the «Météo-France» bulletin of six in the morning, quoted by «Ouest-France».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon les modèles de Météo-France, Marseille bruine,",
+   "en": "According to the «Météo-France» models, «Marseille» has drizzle,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec douze degrés au plus frais et dix-sept au plus doux;",
+   "en": "with a low of twelve degrees and a high of seventeen;",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le vent n'excède pas quatorze kilomètres par heure.",
+   "en": "the wind does not exceed fourteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Bordeaux a droit à une pluie faible, entre dix et quatorze degrés,",
+   "en": "«Bordeaux» has light rain, between ten and fourteen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour un vent maximal de seize kilomètres par heure.",
+   "en": "with winds of up to sixteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sur Lyon, de la bruine:",
+   "en": "In «Lyon», drizzle:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "il fera de dix à quinze degrés,",
+   "en": "it will be ten to fifteen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent atteindra tout juste huit kilomètres par heure.",
+   "en": "and the wind will reach only eight kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Strasbourg est sous la pluie, le thermomètre descendant à trois degrés pour monter à dix,",
+   "en": "«Strasbourg» is getting rain, with a low of three degrees and a high of ten,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec quinze kilomètres par heure de vent.",
+   "en": "and a wind of fifteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Paris a de la bruine;",
+   "en": "«Paris» has drizzle;",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le mercure oscille entre huit et onze degrés,",
+   "en": "temperatures range between eight and eleven degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent ne souffle pas au-delà de douze kilomètres par heure.",
+   "en": "and the wind does not blow beyond twelve kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Lille, de la bruine encore:",
+   "en": "In «Lille», more drizzle:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le thermomètre affiche de deux à sept degrés,",
+   "en": "a low of two degrees and a high of seven,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour un vent de huit kilomètres par heure seulement.",
+   "en": "with a wind of just eight kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo.",
+   "en": "That is it for the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Saturday 21 November",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Orange flood vigilance in the Pas-de-Calais on Saturday, according to Météo-France",
+ "summary_en": [
+  "Orange flood vigilance in the Pas-de-Calais on Saturday, according to Météo-France",
+  "Marseille today: drizzle, 12 to 17 degrees, wind up to 14 km/h, per the Météo-France models"
+ ]
+}

@@ -1,0 +1,199 @@
+{
+ "title": "Le sport, samedi 21 novembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-11-21",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "À suivre aujourd'hui, le XV de France affronte l'Argentine",
+   "en": "Today, the «XV de France» take on Argentina",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ce samedi à vingt et une heures dix,",
+   "en": "this Saturday at ten past nine in the evening,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour le dernier match de poule du Championnat des nations,",
+   "en": "in the last pool match of the Nations Championship,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon Ouest-France et L'Équipe.",
+   "en": "according to «Ouest-France» and «L'Équipe».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Équipe précise que les Bleus jouent une place en finale de la première édition de la compétition.",
+   "en": "«L'Équipe» specifies that the French side are playing for a place in the final of the competition's first edition.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sur les terrains de Ligue 1,",
+   "en": "On the «Ligue 1» pitches,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "trois matchs de la onzième journée se jouent ce samedi soir:",
+   "en": "three matches from round eleven are being played this Saturday evening:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lille contre Lyon, Lens contre Toulouse et Strasbourg contre Brest,",
+   "en": "«Lille» against «Lyon», «Lens» against «Toulouse» and «Strasbourg» against «Brest»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tous à vingt heures quarante-cinq, écrit L'Équipe.",
+   "en": "all at a quarter to nine in the evening, «L'Équipe» writes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Lille, l'attaquant Ayase Ueda, absent depuis la mi-octobre,",
+   "en": "At «Lille», the striker «Ayase Ueda», out since mid-October,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pourrait retrouver la compétition face à Lyon.",
+   "en": "could return to competition against «Lyon».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Toulouse a un groupe presque au complet pour son déplacement à Lens,",
+   "en": "«Toulouse» have an almost complete squad for the trip to «Lens»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et Francis Abu a été préféré à Niklas Schmidt.",
+   "en": "and «Francis Abu» has been preferred to «Niklas Schmidt».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Brest, de son côté, attend son capitaine Brendan Chardonnet,",
+   "en": "Meanwhile, «Brest» are waiting for their captain «Brendan Chardonnet»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "absent des terrains depuis la mi-août, qui pourrait reprendre dès lundi,",
+   "en": "who has been off the pitch since mid-August and could resume as early as Monday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "écrit L'Équipe.",
+   "en": "«L'Équipe» writes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport.",
+   "en": "That is it for sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Saturday 21 November",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "The XV de France face Argentina on Saturday in their last pool match of the Nations Championship, kick-off 9:10 pm according to Ouest-France and L'Équipe",
+ "summary_en": [
+  "The XV de France face Argentina on Saturday in their last pool match of the Nations Championship, kick-off 9:10 pm according to Ouest-France and L'Équipe",
+  "Ligue 1, round 11, Saturday evening: Lille v Lyon, Lens v Toulouse and Strasbourg v Brest, 8:45 pm according to L'Équipe"
+ ]
+}
