@@ -1,0 +1,390 @@
+{
+ "title": "Le journal du matin, dimanche 22 novembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-11-22",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Dimanche vingt-deux novembre. Le journal du matin.",
+   "en": "Sunday 22nd November. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le sixième samedi de manifestations contre la vie chère en France",
+   "en": "The sixth Saturday of protests against the high cost of living in France",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "s'est déroulé avec une mobilisation en baisse,",
+   "en": "took place with a falling turnout,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "écrivent Libération et Le Figaro.",
+   "en": "«Libération» and «Le Figaro» write.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En mer Baltique, un cargo russe a été attaqué,",
+   "en": "In the Baltic Sea, a Russian cargo ship has been attacked,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon Le Monde et Libération,",
+   "en": "according to «Le Monde» and «Libération»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qui parle d'un drone ukrainien.",
+   "en": "which reports a Ukrainian drone.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par la mobilisation de samedi contre la vie chère:",
+   "en": "We begin with Saturday's protest against the high cost of living:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "franceinfo rapporte que le ministère de l'Intérieur a compté",
+   "en": "«franceinfo» reports that the Interior Ministry counted",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "quatre-vingt-deux mille cinq cents manifestants dans l'Hexagone,",
+   "en": "82,500 marchers across mainland France,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "contre cent cinquante mille selon la CGT.",
+   "en": "against 150,000 according to the «CGT».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Libération écrit qu'à Lyon,",
+   "en": "«Libération» writes that in «Lyon»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "plus de quatre mille personnes ont défilé malgré l'interdiction de manifester dans une large partie du centre-ville.",
+   "en": "more than 4,000 people marched despite a ban on demonstrating in a large part of the city centre.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "France 24 écrit que syndicats, organisations de jeunesse et gilets jaunes",
+   "en": "«France 24» writes that unions, youth organisations and yellow vests",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ont manifesté pour la sixième semaine d'affilée,",
+   "en": "demonstrated for the sixth week running,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans une colère sociale qui commence à s'essouffler en France.",
+   "en": "amid a social anger that is starting to fade in France.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon la chaîne, le ministère a compté",
+   "en": "According to the channel, the ministry counted",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "vingt et un mille cinq cents manifestants à Paris, et la CGT quarante-cinq mille.",
+   "en": "21,500 marchers in Paris, and the «CGT» 45,000.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Figaro écrit qu'à Paris,",
+   "en": "«Le Figaro» writes that in Paris,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "des heurts ont éclaté place de la Nation en fin de cortège,",
+   "en": "clashes broke out at the «Place de la Nation» at the end of the march,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que des débordements ont été constatés à Marseille,",
+   "en": "that disorder was noted in «Marseille»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et que le ministère de l'Intérieur a annoncé cent quarante-quatre interpellations.",
+   "en": "and that the Interior Ministry announced 144 arrests.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à autre chose: en mer Baltique,",
+   "en": "Moving on: in the Baltic Sea,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Libération écrit qu'un drone ukrainien a frappé un cargo russe dans le golfe de Finlande,",
+   "en": "«Libération» writes that a Ukrainian drone struck a Russian cargo ship in the Gulf of Finland,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "que le ministère finlandais de la Défense a détecté l'incident samedi,",
+   "en": "that the Finnish Defence Ministry detected the incident on Saturday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et qu'un porte-parole a confirmé une attaque ukrainienne contre le navire.",
+   "en": "and that a spokesperson confirmed a Ukrainian attack on the vessel.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Monde titre de son côté sur l'attaque d'un cargo russe en mer Baltique,",
+   "en": "Meanwhile, «Le Monde» headlines the attack on a Russian cargo ship in the Baltic Sea,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans son direct sur la guerre en Ukraine.",
+   "en": "in its live coverage of the war in Ukraine.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le journal précise que les ministres de la Défense ukrainien et britannique",
+   "en": "The paper adds that the Ukrainian and British defence ministers",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ont signé de nouveaux accords pour produire au Royaume-Uni des drones de frappe conçus par l'Ukraine.",
+   "en": "signed new agreements to produce Ukrainian-designed strike drones in the United Kingdom.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "En France, Ouest-France écrit que Météo-France a placé l'Ain en vigilance orange pour la pluie et les inondations ce dimanche,",
+   "en": "In France, «Ouest-France» writes that «Météo-France» has placed the «Ain» in orange vigilance for rain and flooding this Sunday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "après le Jura samedi,",
+   "en": "after the «Jura» on Saturday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "tandis que le Pas-de-Calais reste en alerte pour de possibles crues.",
+   "en": "while the «Pas-de-Calais» remains on alert for possible floods.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Libération écrit que huit cents personnes ont été évacuées depuis jeudi dans le Pas-de-Calais,",
+   "en": "«Libération» writes that 800 people have been evacuated since Thursday in the «Pas-de-Calais»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où la Canche et la Lys sont en vigilance orange.",
+   "en": "where the «Canche» and the «Lys» are in orange vigilance.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Sunday 22 November",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "The sixth Saturday of protests against the high cost of living in France drew a falling turnout, according to Libération and Le Figaro; the Interior Ministry counted 82,500 marchers, the CGT 150,000",
+ "summary_en": [
+  "The sixth Saturday of protests against the high cost of living in France drew a falling turnout, according to Libération and Le Figaro; the Interior Ministry counted 82,500 marchers, the CGT 150,000",
+  "A Russian cargo ship attacked in the Baltic Sea, according to Le Monde and Libération, which reports a Ukrainian drone strike in the Gulf of Finland",
+  "The Ain joins the Jura and the Pas-de-Calais in orange vigilance for rain and flooding, Ouest-France writes; Libération reports 800 evacuated in the Pas-de-Calais"
+ ]
+}

@@ -1,0 +1,179 @@
+{
+ "title": "Le sport, dimanche 22 novembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-11-22",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Au programme ce dimanche, au tennis,",
+   "en": "On the schedule this Sunday, in tennis,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la finale des Finales ATP à Turin entre Carlos Alcaraz et Alexander Zverev,",
+   "en": "the final of the ATP Finals in «Turin» between «Carlos Alcaraz» and «Alexander Zverev»,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après Ouest-France et L'Équipe.",
+   "en": "according to «Ouest-France» and «L'Équipe».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Équipe écrit qu'Alcaraz vise à Turin son premier titre dans ce Masters.",
+   "en": "«L'Équipe» writes that «Alcaraz» is aiming for his first title at this tournament in «Turin».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sur les terrains de Ligue 1,",
+   "en": "On the «Ligue 1» pitches,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lorient reçoit Rennes ce dimanche à dix-sept heures quinze,",
+   "en": "«Lorient» host «Rennes» this Sunday at a quarter past five in the afternoon,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon Ouest-France et L'Équipe.",
+   "en": "according to «Ouest-France» and «L'Équipe».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ouest-France présente cette rencontre de la onzième journée comme un derby breton très attendu.",
+   "en": "«Ouest-France» presents this round-eleven match as a much-awaited Breton derby.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le rugby,",
+   "en": "In rugby,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le XV de France jouera la finale du Championnat des nations contre l'Afrique du Sud",
+   "en": "the «XV de France» will play the final of the Nations Championship against South Africa",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dimanche prochain, vingt-neuf novembre,",
+   "en": "next Sunday, 29th November,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon Le Monde et L'Équipe.",
+   "en": "according to «Le Monde» and «L'Équipe».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Équipe écrit que la finale de cette première édition aura lieu à Twickenham,",
+   "en": "«L'Équipe» writes that the final of this first edition will take place at «Twickenham»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un coup d'envoi fixé à dix-sept heures quarante.",
+   "en": "with kick-off set for twenty to six in the evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport.",
+   "en": "That is it for sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Sunday 22 November",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "The ATP Finals final in Turin, Carlos Alcaraz v Alexander Zverev, on Sunday 22 November, according to Ouest-France and L'Équipe",
+ "summary_en": [
+  "The ATP Finals final in Turin, Carlos Alcaraz v Alexander Zverev, on Sunday 22 November, according to Ouest-France and L'Équipe",
+  "Ligue 1: Lorient host Rennes on Sunday 22 November at 5:15 pm according to Ouest-France and L'Équipe"
+ ]
+}

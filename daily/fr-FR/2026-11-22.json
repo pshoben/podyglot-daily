@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "channel": "daily",
+ "dialect": "fr-FR",
+ "date": "2026-11-22",
+ "episodes": [
+  {
+   "id": "fr-FR-Le journal du matin, dimanche 22 novembre",
+   "file": "podcast-daily-2026-11-22-morning-news-fr-FR.json",
+   "bytes": 10497,
+   "sha256": "0ed116b997521e677223ea5444b8b8c03b44aefc1c0a95cd58d116ea9591424c",
+   "date": "2026-11-22",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, dimanche 22 novembre",
+   "title_en": "The morning news, Sunday 22 November",
+   "headline_en": "The sixth Saturday of protests against the high cost of living in France drew a falling turnout, according to Libération and Le Figaro; the Interior Ministry counted 82,500 marchers, the CGT 150,000",
+   "summary_en": [
+    "The sixth Saturday of protests against the high cost of living in France drew a falling turnout, according to Libération and Le Figaro; the Interior Ministry counted 82,500 marchers, the CGT 150,000",
+    "A Russian cargo ship attacked in the Baltic Sea, according to Le Monde and Libération, which reports a Ukrainian drone strike in the Gulf of Finland",
+    "The Ain joins the Jura and the Pas-de-Calais in orange vigilance for rain and flooding, Ouest-France writes; Libération reports 800 evacuated in the Pas-de-Calais"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, dimanche 22 novembre",
+   "file": "podcast-daily-2026-11-22-morning-sport-fr-FR.json",
+   "bytes": 4581,
+   "sha256": "ea5f9f58a90c44224dd59e26adc0e60fa3f48c199fbedc5e4edd1f896e48065c",
+   "date": "2026-11-22",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, dimanche 22 novembre",
+   "title_en": "Today's sport, Sunday 22 November",
+   "headline_en": "The ATP Finals final in Turin, Carlos Alcaraz v Alexander Zverev, on Sunday 22 November, according to Ouest-France and L'Équipe",
+   "summary_en": [
+    "The ATP Finals final in Turin, Carlos Alcaraz v Alexander Zverev, on Sunday 22 November, according to Ouest-France and L'Équipe",
+    "Ligue 1: Lorient host Rennes on Sunday 22 November at 5:15 pm according to Ouest-France and L'Équipe"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, dimanche 22 novembre",
+   "file": "podcast-daily-2026-11-22-morning-weather-fr-FR.json",
+   "bytes": 4698,
+   "sha256": "dc07506c6d191293f6dc7c35b6a5da2b4ae32a53083c1a311ea7fc40ccc717c9",
+   "date": "2026-11-22",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, dimanche 22 novembre",
+   "title_en": "Today's weather, Sunday 22 November",
+   "headline_en": "Marseille today: light rain, 14 to 18 degrees, wind up to 42 km/h, per the Météo-France models",
+   "summary_en": [
+    "Marseille today: light rain, 14 to 18 degrees, wind up to 42 km/h, per the Météo-France models",
+    "Bordeaux today: rain, 12 to 16 degrees, wind up to 32 km/h, per the Météo-France models"
+   ]
+  }
+ ],
+ "content": "ec065cbf90970289df8a89c0fd41caf9aae452633cd44a61ee970a42dd903096",
+ "rev": 1,
+ "updated": "2026-11-22T06:35:14.616Z"
+}

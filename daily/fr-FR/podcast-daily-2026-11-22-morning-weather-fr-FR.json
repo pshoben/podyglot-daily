@@ -1,0 +1,189 @@
+{
+ "title": "La météo, dimanche 22 novembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-11-22",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Aujourd'hui, d'après les modèles de Météo-France,",
+   "en": "Today, according to the «Météo-France» models,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Marseille a une pluie faible:",
+   "en": "«Marseille» has light rain:",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le mercure variera de quatorze à dix-huit degrés,",
+   "en": "temperatures will range from fourteen to eighteen degrees,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent montera à quarante-deux kilomètres par heure.",
+   "en": "and the wind will rise to forty-two kilometres an hour.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Bordeaux, la pluie tombe et le vent souffle jusqu'à trente-deux kilomètres par heure;",
+   "en": "In «Bordeaux» the rain is falling and the wind is blowing at up to thirty-two kilometres an hour;",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le thermomètre marquera de douze à seize degrés.",
+   "en": "the thermometer will read twelve to sixteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sur Lyon, il pleuvra, et le vent ira à vingt et un kilomètres par heure,",
+   "en": "In «Lyon» it will rain, and the wind will reach twenty-one kilometres an hour,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour des températures de dix à quinze degrés.",
+   "en": "with temperatures of ten to fifteen degrees.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ciel est couvert à Strasbourg:",
+   "en": "The sky is overcast in «Strasbourg»:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "treize kilomètres par heure de vent, et de deux à six degrés au thermomètre.",
+   "en": "winds of thirteen kilometres an hour, and two to six degrees on the thermometer.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Paris, de la bruine et un écart d'un seul degré:",
+   "en": "In Paris, drizzle and a gap of just one degree:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "huit au plus bas, neuf au plus haut,",
+   "en": "eight at the lowest, nine at the highest,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour un vent de douze kilomètres par heure.",
+   "en": "with winds of twelve kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sous un ciel couvert, Lille aura de deux à sept degrés,",
+   "en": "Under an overcast sky, «Lille» will have two to seven degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour seize kilomètres par heure de vent.",
+   "en": "with winds of sixteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo.",
+   "en": "That is it for the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Sunday 22 November",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Marseille today: light rain, 14 to 18 degrees, wind up to 42 km/h, per the Météo-France models",
+ "summary_en": [
+  "Marseille today: light rain, 14 to 18 degrees, wind up to 42 km/h, per the Météo-France models",
+  "Bordeaux today: rain, 12 to 16 degrees, wind up to 32 km/h, per the Météo-France models"
+ ]
+}
