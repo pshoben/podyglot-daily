@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-FR-Le journal du matin, lundi 23 novembre",
+   "file": "podcast-daily-2026-11-23-morning-news-fr-FR.json",
+   "bytes": 9258,
+   "sha256": "2980998cc153eefa67d4b0e0a474de3827626535fe8eabfcfed80fb368b92817",
+   "date": "2026-11-23",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, lundi 23 novembre",
+   "title_en": "The morning news, Monday 23 November",
+   "headline_en": "The head of state, Emmanuel Macron, is considering writing a budgetary golden rule into the Constitution, according to Le Figaro and Le Monde",
+   "summary_en": [
+    "The head of state, Emmanuel Macron, is considering writing a budgetary golden rule into the Constitution, according to Le Figaro and Le Monde",
+    "The COP31 climate conference ended in Antalya, Turkey, without a final agreement, according to franceinfo; Libération quotes Laurence Tubiana on multilateralism",
+    "The Choose France summit, devoted to French companies, takes place on Monday; Le Monde writes it aims to showcase 42.5 billion euros of investment by French companies"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, lundi 23 novembre",
+   "file": "podcast-daily-2026-11-23-morning-sport-fr-FR.json",
+   "bytes": 4944,
+   "sha256": "3dc109e28dba809811132e94690486837814ee4b6011a7e28d28a494aa6a3368",
+   "date": "2026-11-23",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, lundi 23 novembre",
+   "title_en": "Today's sport, Monday 23 November",
+   "headline_en": "The XV de France face South Africa in the Nations Championship final next Sunday, at Twickenham according to franceinfo, kick-off 5:40 pm according to L'Équipe and Ouest-France",
+   "summary_en": [
+    "The XV de France face South Africa in the Nations Championship final next Sunday, at Twickenham according to franceinfo, kick-off 5:40 pm according to L'Équipe and Ouest-France",
+    "Thomas Ramos is in the group of 42 players called up to prepare the Nations Championship final, Ouest-France and L'Équipe write"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, lundi 23 novembre",
+   "file": "podcast-daily-2026-11-23-morning-weather-fr-FR.json",
+   "bytes": 6076,
+   "sha256": "b30a03f1de350c8e9318d44eede91fe4525622d1f9bdf1c53df9d1525f5646cc",
+   "date": "2026-11-23",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, lundi 23 novembre",
+   "title_en": "Today's weather, Monday 23 November",
+   "headline_en": "Météo-France lifts the orange rain-and-flood vigilance for the Ain and the Jura but keeps orange alerts for river floods in the Pas-de-Calais and for wind in Corsica, Ouest-France writes",
+   "summary_en": [
+    "Météo-France lifts the orange rain-and-flood vigilance for the Ain and the Jura but keeps orange alerts for river floods in the Pas-de-Calais and for wind in Corsica, Ouest-France writes",
+    "Marseille today: partly cloudy, 10 to 14 degrees, wind up to 33 km/h, per the Météo-France models"
+   ]
+  },
+  {
    "id": "fr-FR-Le journal du matin, dimanche 22 novembre",
    "file": "podcast-daily-2026-11-22-morning-news-fr-FR.json",
    "bytes": 10497,

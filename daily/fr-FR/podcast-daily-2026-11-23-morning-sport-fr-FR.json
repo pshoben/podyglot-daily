@@ -1,0 +1,189 @@
+{
+ "title": "Le sport, lundi 23 novembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-11-23",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Au programme de la semaine,",
+   "en": "On the schedule this week,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le XV de France affronte l'Afrique du Sud en finale du Championnat des nations dimanche prochain,",
+   "en": "the «XV de France» meet South Africa in the Nations Championship final next Sunday,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon franceinfo.",
+   "en": "according to «franceinfo».",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La finale se jouera à Twickenham,",
+   "en": "The final will be played at «Twickenham»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "face à l'équipe double championne du monde en titre.",
+   "en": "against the reigning two-time world champions. «Ouest-France» and «L'Équipe»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ouest-France et L'Équipe écrivent que le coup d'envoi est fixé à dix-sept heures quarante.",
+   "en": "write that kick-off is set for twenty to six in the evening. «Ouest-France»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ouest-France écrit que Thomas Ramos a été appelé pour préparer cette finale.",
+   "en": "writes that «Thomas Ramos» has been called up to prepare this final.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Équipe écrit que l'arrière du Stade Toulousain,",
+   "en": "«L'Équipe» writes that the «Stade Toulousain» full-back,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "absent depuis près de deux mois,",
+   "en": "who has been out for nearly two months,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "fait partie des quarante-deux joueurs appelés,",
+   "en": "is among the 42 players called up,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et qu'il pourrait même être titulaire.",
+   "en": "and that he could even start.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sur les terrains de football, franceinfo écrit qu'au PSG,",
+   "en": "On the football pitches, «franceinfo» writes that at «PSG»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Désiré Doué devrait être absent de longs mois.",
+   "en": "«Désiré Doué» is expected to be out for many months.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ouest-France écrit qu'avec l'équipe de France,",
+   "en": "«Ouest-France» writes that with the France team,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Désiré Doué ne sera sans doute pas là pour le quart de finale de la Ligue des nations contre l'Espagne.",
+   "en": "«Désiré Doué» will probably not be there for the Nations League quarter-final against Spain.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport.",
+   "en": "That is it for sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Monday 23 November",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "The XV de France face South Africa in the Nations Championship final next Sunday, at Twickenham according to franceinfo, kick-off 5:40 pm according to L'Équipe and Ouest-France",
+ "summary_en": [
+  "The XV de France face South Africa in the Nations Championship final next Sunday, at Twickenham according to franceinfo, kick-off 5:40 pm according to L'Équipe and Ouest-France",
+  "Thomas Ramos is in the group of 42 players called up to prepare the Nations Championship final, Ouest-France and L'Équipe write"
+ ]
+}

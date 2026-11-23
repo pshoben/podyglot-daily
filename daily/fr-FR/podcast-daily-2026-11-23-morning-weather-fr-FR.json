@@ -1,0 +1,229 @@
+{
+ "title": "La météo, lundi 23 novembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-11-23",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Ce lundi, Ouest-France écrit que Météo-France a levé sa vigilance orange pluie-inondations pour l'Ain et le Jura,",
+   "en": "This Monday, «Ouest-France» writes that «Météo-France» has lifted its orange rain-and-flood vigilance for the «Ain» and the «Jura»,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "mais que le Pas-de-Calais reste en alerte aux crues jusqu'à mardi,",
+   "en": "but that the «Pas-de-Calais» remains on alert for river floods until Tuesday,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et la Corse en vigilance orange au vent jusqu'à neuf heures ce matin.",
+   "en": "and Corsica under orange wind vigilance until nine o'clock this morning.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Selon les modèles de Météo-France,",
+   "en": "According to the «Météo-France» models,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Marseille a un ciel peu nuageux,",
+   "en": "«Marseille» has a partly cloudy sky,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec une minimale de dix degrés et une maximale de quatorze;",
+   "en": "with a low of ten degrees and a high of fourteen;",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le vent grimpera jusqu'à trente-trois kilomètres par heure.",
+   "en": "winds will climb to as much as thirty-three kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Bordeaux, il bruine; la température passera de neuf à quinze degrés,",
+   "en": "In «Bordeaux» it is drizzling; the temperature will go from nine to fifteen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le vent ne s'élevant pas au-delà de dix-sept kilomètres par heure.",
+   "en": "with winds not rising above seventeen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lyon reçoit de la bruine;",
+   "en": "«Lyon» gets drizzle;",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "il y fera six degrés au minimum, douze au maximum,",
+   "en": "it will be six degrees at the lowest and twelve at the highest,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent atteindra seize kilomètres par heure.",
+   "en": "and winds will reach sixteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Strasbourg, ciel couvert: le thermomètre ira de zéro à cinq degrés,",
+   "en": "«Strasbourg» has an overcast sky: the thermometer will go from zero to five degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent ne dépassera pas treize kilomètres par heure.",
+   "en": "and winds will not exceed thirteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sur Paris, la bruine s'accompagne de trois à huit degrés,",
+   "en": "In Paris, drizzle comes with temperatures of three to eight degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent peut monter jusqu'à dix-huit kilomètres par heure.",
+   "en": "and winds can climb to eighteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Du côté de Lille, ciel couvert,",
+   "en": "Around «Lille», the sky is overcast,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "zéro degré au plus bas, cinq au plus haut,",
+   "en": "with a low of zero degrees and a high of five,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et un vent pouvant atteindre quatorze kilomètres par heure.",
+   "en": "and winds of up to fourteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo.",
+   "en": "That is it for the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Monday 23 November",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Météo-France lifts the orange rain-and-flood vigilance for the Ain and the Jura but keeps orange alerts for river floods in the Pas-de-Calais and for wind in Corsica, Ouest-France writes",
+ "summary_en": [
+  "Météo-France lifts the orange rain-and-flood vigilance for the Ain and the Jura but keeps orange alerts for river floods in the Pas-de-Calais and for wind in Corsica, Ouest-France writes",
+  "Marseille today: partly cloudy, 10 to 14 degrees, wind up to 33 km/h, per the Météo-France models"
+ ]
+}
