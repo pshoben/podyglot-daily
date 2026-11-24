@@ -1,0 +1,340 @@
+{
+ "title": "Le journal du matin, mardi 24 novembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-11-24",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Mardi vingt-quatre novembre. Le journal du matin.",
+   "en": "Tuesday 24th November. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Les épargnants français ont retiré près de dix milliards d'euros de leurs Livrets A depuis janvier,",
+   "en": "French savers have withdrawn nearly ten billion euros from their «Livret A» savings accounts since January,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon franceinfo et Le Monde.",
+   "en": "according to «franceinfo» and «Le Monde».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À l'international, le conseil d'administration de Nvidia, le géant américain des puces électroniques,",
+   "en": "Internationally, the board of «Nvidia», the American chip giant,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "a réintégré lundi son PDG Jensen Huang,",
+   "en": "reinstated its chief executive «Jensen Huang» on Monday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qui avait quitté ses fonctions onze jours plus tôt,",
+   "en": "after he had left his post eleven days earlier,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon Le Monde et Libération.",
+   "en": "according to «Le Monde» and «Libération».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par les Livrets A:",
+   "en": "We begin with the «Livret A» accounts:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "franceinfo écrit que, depuis janvier,",
+   "en": "«franceinfo» writes that since January",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "les Français ont retiré près de dix milliards d'euros de ces livrets,",
+   "en": "the French have withdrawn nearly ten billion euros from these accounts,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et que le Livret A connaît sa pire année depuis deux mille huit.",
+   "en": "and that the «Livret A» is having its worst year since 2008.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La chaîne cite le directeur du Cercle de l'Épargne,",
+   "en": "The channel quotes the director of the «Cercle de l'Épargne»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour qui les ménages ont été amenés à puiser dans leurs livrets,",
+   "en": "for whom households were led to draw on their savings accounts,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans un contexte de baisse du pouvoir d'achat et de hausse du coût de l'énergie.",
+   "en": "against a backdrop of falling purchasing power and rising energy costs.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Figaro écrit que le rendement du Livret A ne suffit plus à compenser la hausse des prix.",
+   "en": "«Le Figaro» writes that the return on the «Livret A» no longer makes up for the rise in prices.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ouest-France écrit que le mois dernier, les épargnants ont nettement ponctionné l'argent mis de côté,",
+   "en": "«Ouest-France» writes that last month savers drew heavily on the money they had set aside,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour faire face à l'inflation.",
+   "en": "to cope with inflation.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On passe à autre chose: chez Nvidia,",
+   "en": "Turning to something else, at «Nvidia»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Monde écrit que le PDG a été réintégré lundi par le conseil d'administration,",
+   "en": "«Le Monde» writes that the chief executive was reinstated on Monday by the board,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sous la pression du président américain Donald Trump et des marchés financiers.",
+   "en": "under pressure from the American president, Donald Trump, and the financial markets.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité,",
+   "en": "In the rest of the news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la France va créer des stocks stratégiques de terres rares et de métaux prioritaires,",
+   "en": "France will create strategic stocks of rare earths and priority metals,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "écrivent franceinfo et Le Monde.",
+   "en": "«franceinfo» and «Le Monde» write.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "franceinfo précise que l'Élysée l'annonce,",
+   "en": "«franceinfo» adds that the «Élysée» announces it,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et que ce projet sera piloté par la Caisse des dépôts,",
+   "en": "and that the project will be led by the «Caisse des dépôts»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qui doit consulter les industriels des secteurs stratégiques concernés.",
+   "en": "which must consult the industrial firms of the strategic sectors concerned.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Toujours en France, selon franceinfo,",
+   "en": "Still in France, according to «franceinfo»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le Congrès des maires s'ouvre à cinq mois de la présidentielle,",
+   "en": "the mayors' congress opens five months before the presidential election,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec la plupart des candidats attendus,",
+   "en": "with most candidates expected,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à l'exception de Marine Le Pen et de Jean-Luc Mélenchon.",
+   "en": "except «Marine Le Pen» and «Jean-Luc Mélenchon».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Tuesday 24 November",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "French savers have withdrawn nearly 10 billion euros from their Livrets A since January, franceinfo and Le Monde report; franceinfo says it is the savings account's worst year since 2008",
+ "summary_en": [
+  "French savers have withdrawn nearly 10 billion euros from their Livrets A since January, franceinfo and Le Monde report; franceinfo says it is the savings account's worst year since 2008",
+  "Nvidia, the American chipmaker, has reinstated its chief executive Jensen Huang, eleven days after he was removed, under pressure from Donald Trump according to Le Monde and Libération",
+  "The Elysée announces that France will build strategic stocks of rare earths and priority metals, franceinfo reports"
+ ]
+}

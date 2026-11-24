@@ -1,0 +1,169 @@
+{
+ "title": "Le sport, mardi 24 novembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-11-24",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "À suivre aujourd'hui en Ligue des champions:",
+   "en": "To watch today in the Champions League:",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le RC Lens affronte Leipzig ce mardi soir, d'après franceinfo,",
+   "en": "«RC Lens» face «Leipzig» this Tuesday evening, according to «franceinfo»,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qui ajoute que Didier Digard, intronisé le treize novembre,",
+   "en": "which adds that «Didier Digard», appointed on 13th November,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.0,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "est déjà le troisième entraîneur du club cette saison.",
+   "en": "is already the club's third coach this season.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ouest-France et L'Équipe écrivent que le coup d'envoi est fixé à vingt et une heures,",
+   "en": "«Ouest-France» and «L'Équipe» write that kick-off is at nine o'clock tonight,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour la cinquième journée de la compétition.",
+   "en": "for the fifth round of the competition.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le sport automobile, Ouest-France et L'Équipe écrivent que le groupe Stellantis met fin à l'engagement de Peugeot en endurance,",
+   "en": "In motor racing, «Ouest-France» and «L'Équipe» write that the «Stellantis» group is ending the involvement of «Peugeot» in endurance racing,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "puis, à l'été deux mille vingt-sept, à ceux de Citroën et d'Opel en Formule E.",
+   "en": "then, in the summer of 2027, that of «Citroën» and Opel in Formula E.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ouest-France ajoute que la compétition client sera maintenue.",
+   "en": "«Ouest-France» adds that customer racing will be maintained.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le rugby,",
+   "en": "In rugby,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le XV de France affronte l'Afrique du Sud en finale du Championnat des nations dimanche,",
+   "en": "the «XV de France» face South Africa in the Nations Championship final on Sunday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un coup d'envoi à dix-sept heures quarante,",
+   "en": "with kick-off at twenty to six in the evening,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "d'après L'Équipe et Ouest-France.",
+   "en": "according to «L'Équipe» and «Ouest-France».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport.",
+   "en": "That is it for sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Tuesday 24 November",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "RC Lens play at Leipzig on Tuesday evening in the Champions League, franceinfo and L'Équipe say; kick-off is at nine o'clock tonight, Ouest-France and L'Équipe write",
+ "summary_en": [
+  "RC Lens play at Leipzig on Tuesday evening in the Champions League, franceinfo and L'Équipe say; kick-off is at nine o'clock tonight, Ouest-France and L'Équipe write",
+  "Stellantis ends its factory motorsport programmes, Ouest-France and L'Équipe write: Peugeot in endurance, then Citroën and Opel in Formula E in the summer of 2027"
+ ]
+}

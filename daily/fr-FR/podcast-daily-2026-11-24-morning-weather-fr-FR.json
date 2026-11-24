@@ -1,0 +1,229 @@
+{
+ "title": "La météo, mardi 24 novembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-11-24",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Pour aujourd'hui, les modèles de Météo-France donnent leurs prévisions sur six villes.",
+   "en": "For today, the «Météo-France» models give their forecasts for six cities.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Marseille, le ciel est couvert;",
+   "en": "In «Marseille», the sky is overcast;",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la température varie de huit à seize degrés,",
+   "en": "temperatures range from eight to sixteen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent souffle à vingt et un kilomètres par heure au plus fort.",
+   "en": "and winds blow at up to twenty-one kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Une pluie faible tombe sur Bordeaux,",
+   "en": "Light rain falls on «Bordeaux»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "où le mercure oscille entre huit et onze degrés,",
+   "en": "where the temperature hovers between eight and eleven degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un vent de quatorze kilomètres par heure au maximum.",
+   "en": "with winds of up to fourteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lyon reçoit une pluie faible;",
+   "en": "«Lyon» gets light rain;",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la minimale est de cinq degrés, la maximale de douze,",
+   "en": "the low is five degrees, the high twelve,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent monte à treize kilomètres par heure.",
+   "en": "and winds rise to thirteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Strasbourg a un ciel couvert et une minimale sous zéro,",
+   "en": "«Strasbourg» has an overcast sky and a low below zero,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à moins deux degrés; la maximale est de cinq,",
+   "en": "at minus two degrees; the high is five,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec quatorze kilomètres par heure de vent.",
+   "en": "with winds of fourteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Paris est sous un ciel couvert,",
+   "en": "Paris is under an overcast sky,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec une minimale de trois degrés, une maximale de sept,",
+   "en": "with a low of three degrees, a high of seven,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et seize kilomètres par heure de vent.",
+   "en": "and winds of sixteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lille a un ciel couvert,",
+   "en": "«Lille» has an overcast sky,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec une minimale de moins deux degrés, une maximale de quatre,",
+   "en": "with a low of minus two degrees, a high of four,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et quatorze kilomètres par heure de vent au plus.",
+   "en": "and winds of up to fourteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo.",
+   "en": "That is it for the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Tuesday 24 November",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Marseille today: overcast, 8 to 16 degrees, wind up to 21 km/h, per the Météo-France models",
+ "summary_en": [
+  "Marseille today: overcast, 8 to 16 degrees, wind up to 21 km/h, per the Météo-France models",
+  "Bordeaux today: light rain, 8 to 11 degrees, wind up to 14 km/h, per the Météo-France models"
+ ]
+}

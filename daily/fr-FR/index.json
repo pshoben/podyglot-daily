@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-FR-Le journal du matin, mardi 24 novembre",
+   "file": "podcast-daily-2026-11-24-morning-news-fr-FR.json",
+   "bytes": 9089,
+   "sha256": "4cfb74f2985f3c4361aef563068f6c208529da6aa7835b3479fe85fb6a742b9d",
+   "date": "2026-11-24",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, mardi 24 novembre",
+   "title_en": "The morning news, Tuesday 24 November",
+   "headline_en": "French savers have withdrawn nearly 10 billion euros from their Livrets A since January, franceinfo and Le Monde report; franceinfo says it is the savings account's worst year since 2008",
+   "summary_en": [
+    "French savers have withdrawn nearly 10 billion euros from their Livrets A since January, franceinfo and Le Monde report; franceinfo says it is the savings account's worst year since 2008",
+    "Nvidia, the American chipmaker, has reinstated its chief executive Jensen Huang, eleven days after he was removed, under pressure from Donald Trump according to Le Monde and Libération",
+    "The Elysée announces that France will build strategic stocks of rare earths and priority metals, franceinfo reports"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, mardi 24 novembre",
+   "file": "podcast-daily-2026-11-24-morning-sport-fr-FR.json",
+   "bytes": 4651,
+   "sha256": "6d03b89b79541277a73b1cacadf11ed8e544ae3a38428a74c506fd83f416e9b3",
+   "date": "2026-11-24",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, mardi 24 novembre",
+   "title_en": "Today's sport, Tuesday 24 November",
+   "headline_en": "RC Lens play at Leipzig on Tuesday evening in the Champions League, franceinfo and L'Équipe say; kick-off is at nine o'clock tonight, Ouest-France and L'Équipe write",
+   "summary_en": [
+    "RC Lens play at Leipzig on Tuesday evening in the Champions League, franceinfo and L'Équipe say; kick-off is at nine o'clock tonight, Ouest-France and L'Équipe write",
+    "Stellantis ends its factory motorsport programmes, Ouest-France and L'Équipe write: Peugeot in endurance, then Citroën and Opel in Formula E in the summer of 2027"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, mardi 24 novembre",
+   "file": "podcast-daily-2026-11-24-morning-weather-fr-FR.json",
+   "bytes": 5413,
+   "sha256": "3b7c3bd4f4fdb2b965161b2f6d6c072fbdab573a52ee3a565ea27609993f4599",
+   "date": "2026-11-24",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, mardi 24 novembre",
+   "title_en": "Today's weather, Tuesday 24 November",
+   "headline_en": "Marseille today: overcast, 8 to 16 degrees, wind up to 21 km/h, per the Météo-France models",
+   "summary_en": [
+    "Marseille today: overcast, 8 to 16 degrees, wind up to 21 km/h, per the Météo-France models",
+    "Bordeaux today: light rain, 8 to 11 degrees, wind up to 14 km/h, per the Météo-France models"
+   ]
+  },
+  {
    "id": "fr-FR-Le journal du matin, lundi 23 novembre",
    "file": "podcast-daily-2026-11-23-morning-news-fr-FR.json",
    "bytes": 9258,
