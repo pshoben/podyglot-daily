@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-FR-Le journal du matin, mercredi 25 novembre",
+   "file": "podcast-daily-2026-11-25-morning-news-fr-FR.json",
+   "bytes": 11225,
+   "sha256": "9f13ef1e79d44d1b0b7c8cd88184887f53ffb59b9f81eac829bf683c09f173f9",
+   "date": "2026-11-25",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, mercredi 25 novembre",
+   "title_en": "The morning news, Wednesday 25 November",
+   "headline_en": "Edouard Philippe, the Horizons candidate for the presidency, proposes a televised debate to David Lisnard, the mayor of Cannes, before mid-December, franceinfo and Le Monde report",
+   "summary_en": [
+    "Edouard Philippe, the Horizons candidate for the presidency, proposes a televised debate to David Lisnard, the mayor of Cannes, before mid-December, franceinfo and Le Monde report",
+    "In the United States, Donald Trump's backing for Jensen Huang's return to the head of the chipmaker Nvidia prompts indignant reactions in Congress, Le Figaro writes",
+    "On the international day against violence towards women, the Fondation des femmes publishes a report putting a figure on the cost of leaving the home for a victim of domestic violence, franceinfo and RFI write"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, mercredi 25 novembre",
+   "file": "podcast-daily-2026-11-25-morning-sport-fr-FR.json",
+   "bytes": 4719,
+   "sha256": "9d26aa189a2409da83b4173224d56e19eda1aeeaba807fd0465c39f6e8e91df1",
+   "date": "2026-11-25",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, mercredi 25 novembre",
+   "title_en": "Today's sport, Wednesday 25 November",
+   "headline_en": "Paris Saint-Germain host AS Roma on Wednesday evening at 9 pm in the Champions League, L'Equipe and Ouest-France write; L'Equipe and franceinfo write PSG are without Kvaratskhelia and Doue",
+   "summary_en": [
+    "Paris Saint-Germain host AS Roma on Wednesday evening at 9 pm in the Champions League, L'Equipe and Ouest-France write; L'Equipe and franceinfo write PSG are without Kvaratskhelia and Doue",
+    "Lille host Bayern Munich on Wednesday evening in the Champions League, franceinfo writes; L'Equipe puts kick-off at 9 pm; franceinfo says Bayern are without Harry Kane and Michael Olise"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, mercredi 25 novembre",
+   "file": "podcast-daily-2026-11-25-morning-weather-fr-FR.json",
+   "bytes": 5752,
+   "sha256": "b3c836cc032f2778a5011a066e9b5109b6c3c64afac43fc7fa057ff937b9030a",
+   "date": "2026-11-25",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, mercredi 25 novembre",
+   "title_en": "Today's weather, Wednesday 25 November",
+   "headline_en": "Marseille today: heavy rain, 10 to 16 degrees, wind up to 26 km/h, per the Météo-France models",
+   "summary_en": [
+    "Marseille today: heavy rain, 10 to 16 degrees, wind up to 26 km/h, per the Météo-France models",
+    "Bordeaux today: light rain, 8 to 12 degrees, wind up to 17 km/h, per the Météo-France models"
+   ]
+  },
+  {
    "id": "fr-FR-Le journal du matin, mardi 24 novembre",
    "file": "podcast-daily-2026-11-24-morning-news-fr-FR.json",
    "bytes": 9089,

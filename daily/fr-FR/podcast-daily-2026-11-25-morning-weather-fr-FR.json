@@ -1,0 +1,239 @@
+{
+ "title": "La météo, mercredi 25 novembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-11-25",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "D'après les modèles de Météo-France,",
+   "en": "According to the «Météo-France» models,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de la pluie ou de la bruine tombe aujourd'hui sur cinq des six villes;",
+   "en": "rain or drizzle is falling today in five of the six cities;",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.02,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "seul Strasbourg y échappe, avec une minimale sous zéro.",
+   "en": "only «Strasbourg» escapes it, with a low below zero.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Marseille a la pluie la plus forte du lot,",
+   "en": "«Marseille» has the heaviest rain of the six,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec dix degrés au plus frais, seize au plus doux,",
+   "en": "with a low of ten degrees, a high of sixteen,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et un vent dont la vitesse maximale est de vingt-six kilomètres par heure.",
+   "en": "and winds with a top speed of twenty-six kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Bordeaux reçoit une pluie faible, entre huit et douze degrés;",
+   "en": "«Bordeaux» gets light rain, between eight and twelve degrees;",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le vent y va jusqu'à dix-sept kilomètres par heure.",
+   "en": "winds reach up to seventeen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Lyon aussi, la pluie est faible:",
+   "en": "In «Lyon» too the rain is light:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "huit degrés le plus bas, treize le plus haut,",
+   "en": "a low of eight degrees, a high of thirteen,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et seize kilomètres par heure de vent au plus.",
+   "en": "and winds of up to sixteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le ciel est couvert à Strasbourg,",
+   "en": "The sky is overcast in «Strasbourg»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et c'est la seule des six villes où la minimale passe sous zéro,",
+   "en": "and it is the only one of the six cities where the low drops below zero,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à moins un degré; la maximale est de trois,",
+   "en": "to minus one degree; the high is three,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent n'excède pas onze kilomètres par heure.",
+   "en": "and winds do not exceed eleven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Sur Paris, une pluie faible, des températures de quatre à sept degrés,",
+   "en": "In Paris, light rain, temperatures from four to seven degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et dix kilomètres par heure de vent.",
+   "en": "and winds of ten kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lille a de la bruine;",
+   "en": "«Lille» has drizzle;",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la température y oscille entre zéro et trois degrés,",
+   "en": "temperatures hover between zero and three degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et le vent ne dépasse pas quinze kilomètres par heure.",
+   "en": "and winds peak at fifteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo.",
+   "en": "That is it for the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Wednesday 25 November",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Marseille today: heavy rain, 10 to 16 degrees, wind up to 26 km/h, per the Météo-France models",
+ "summary_en": [
+  "Marseille today: heavy rain, 10 to 16 degrees, wind up to 26 km/h, per the Météo-France models",
+  "Bordeaux today: light rain, 8 to 12 degrees, wind up to 17 km/h, per the Météo-France models"
+ ]
+}

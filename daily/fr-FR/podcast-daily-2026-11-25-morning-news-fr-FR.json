@@ -1,0 +1,420 @@
+{
+ "title": "Le journal du matin, mercredi 25 novembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-news",
+   "wpm": 191,
+   "rate_multiplier": 0.96,
+   "pitch_multiplier": 0.94
+  }
+ },
+ "channel": "daily",
+ "programme": "news",
+ "date": "2026-11-25",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Mercredi vingt-cinq novembre. Le journal du matin.",
+   "en": "Wednesday 25th November. The morning news.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans la course à l'Élysée, Édouard Philippe,",
+   "en": "In the race for the «Élysée», «Édouard Philippe»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "candidat Horizons à la présidentielle,",
+   "en": "the «Horizons» candidate for the presidency,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "propose un débat télévisé à David Lisnard, maire de Cannes,",
+   "en": "proposes a televised debate to «David Lisnard», the mayor of «Cannes»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "selon franceinfo et Le Monde.",
+   "en": "according to «franceinfo» and «Le Monde».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À l'international, aux États-Unis,",
+   "en": "Internationally, in the United States,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 1.1
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "l'appui du président Donald Trump",
+   "en": "the backing of President Donald Trump",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.075
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "au retour de Jensen Huang à la tête du géant des puces Nvidia",
+   "en": "for the return of «Jensen Huang» to the head of the chip giant «Nvidia»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.05
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "suscite des réactions indignées au Congrès,",
+   "en": "is prompting indignant reactions in Congress,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.025
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "écrit Le Figaro.",
+   "en": "«Le Figaro» writes.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "On commence par la présidentielle:",
+   "en": "We begin with the presidential race:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "franceinfo écrit qu'Édouard Philippe propose",
+   "en": "«franceinfo» writes that «Édouard Philippe» is proposing",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "un débat télévisé avant la mi-décembre à David Lisnard,",
+   "en": "a televised debate before mid-December to «David Lisnard»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qu'il soupçonne de ne pas être « étanche » avec l'extrême droite.",
+   "en": "whom he suspects of not being \"watertight\" with the far right.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.07,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "La chaîne ajoute que le maire de Cannes",
+   "en": "The channel adds that the mayor of «Cannes»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "sera fixé dans la journée sur sa réélection à la tête de l'Association des maires de France,",
+   "en": "will learn today whether he has been re-elected at the head of the Association of Mayors of France,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le résultat du vote devant être proclamé vers quatorze heures cet après-midi.",
+   "en": "with the result of the vote due to be announced at around two o'clock this afternoon.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Figaro écrit que, invité mardi soir de LCI,",
+   "en": "«Le Figaro» writes that, as a guest on «LCI» on Tuesday evening,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le candidat Horizons accuse le maire de Cannes d'entretenir une frontière « poreuse » avec l'extrême droite,",
+   "en": "the «Horizons» candidate accuses the mayor of «Cannes» of keeping a \"porous\" border with the far right,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et lui propose ce débat plutôt qu'une primaire.",
+   "en": "and offers him this debate rather than a primary.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Monde écrit que David Lisnard",
+   "en": "«Le Monde» writes that «David Lisnard»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "s'est engagé à continuer « à défendre les mairies »",
+   "en": "has pledged to continue \"to defend the town halls\"",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.96,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "s'il était élu à l'Élysée.",
+   "en": "if he is elected to the «Élysée».",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "RFI précise qu'Édouard Philippe s'est rendu mardi au Salon des maires, à Paris,",
+   "en": "«RFI» adds that «Édouard Philippe» went on Tuesday to the mayors' fair, in Paris,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour marquer ses différences avec David Lisnard,",
+   "en": "to mark his differences with «David Lisnard»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "candidat à sa réélection à la tête de l'Association des maires de France.",
+   "en": "a candidate for re-election at the head of the Association of Mayors of France.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Autre sujet maintenant:",
+   "en": "Turning to something else:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "chez Nvidia,",
+   "en": "at «Nvidia»,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "franceinfo écrit que le président américain Donald Trump",
+   "en": "«franceinfo» writes that the American president, Donald Trump,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "reconnaît avoir fait pression pour le retour de Jensen Huang à la tête du géant mondial des puces électroniques.",
+   "en": "acknowledges having applied pressure for the return of «Jensen Huang» to the head of the world's chip giant.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le Figaro écrit que cette intervention suscite des réactions indignées au Congrès,",
+   "en": "«Le Figaro» writes that this intervention is prompting indignant reactions in Congress,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qui doit auditionner le dirigeant début décembre.",
+   "en": "which is due to hear the chief executive in early December.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le journal ajoute que Jensen Huang a présenté mardi ses excuses aux salariés,",
+   "en": "The paper adds that «Jensen Huang» apologised to staff on Tuesday,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "au lendemain de son retour, selon des médias américains.",
+   "en": "the day after his return, according to American media.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le reste de l'actualité,",
+   "en": "In the rest of the news,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "c'est aujourd'hui la journée de lutte contre les violences faites aux femmes:",
+   "en": "today is the day against violence towards women:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "franceinfo et RFI écrivent que la Fondation des femmes publie un rapport qui chiffre le coût du départ du foyer pour une victime de violences conjugales.",
+   "en": "«franceinfo» and «RFI» write that the «Fondation des femmes» is publishing a report putting a figure on the cost of leaving the home for a victim of domestic violence.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.08,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "franceinfo précise que ce départ représente presque une année de salaire.",
+   "en": "«franceinfo» adds that leaving the home amounts to almost a year's salary.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour l'essentiel.",
+   "en": "That is the main news.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 0,
+ "handover": "junction",
+ "title_en": "The morning news, Wednesday 25 November",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Edouard Philippe, the Horizons candidate for the presidency, proposes a televised debate to David Lisnard, the mayor of Cannes, before mid-December, franceinfo and Le Monde report",
+ "summary_en": [
+  "Edouard Philippe, the Horizons candidate for the presidency, proposes a televised debate to David Lisnard, the mayor of Cannes, before mid-December, franceinfo and Le Monde report",
+  "In the United States, Donald Trump's backing for Jensen Huang's return to the head of the chipmaker Nvidia prompts indignant reactions in Congress, Le Figaro writes",
+  "On the international day against violence towards women, the Fondation des femmes publishes a report putting a figure on the cost of leaving the home for a victim of domestic violence, franceinfo and RFI write"
+ ]
+}

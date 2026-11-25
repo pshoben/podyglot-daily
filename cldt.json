@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated": "2026-11-24T06:28:33.127Z",
+ "generated": "2026-11-25T06:26:51.628Z",
  "channels": [
   {
    "dialect": "es-AR",
@@ -81,13 +81,13 @@
   },
   {
    "dialect": "fr-FR",
-   "updated": "2026-11-24T06:28:33.127Z",
-   "content": "9d4cbfa34f3f31b22a66362437cdd44efdeae991ff66db5e5f64b954b46e24a8",
-   "days": 7,
-   "episodes": 21,
-   "latest_date": "2026-11-24",
+   "updated": "2026-11-25T06:26:51.628Z",
+   "content": "777dd0d8c759dcf289c7171b76528e1f8618ca78a2d6880aae3c2067723bcd6d",
+   "days": 8,
+   "episodes": 24,
+   "latest_date": "2026-11-25",
    "last_written": [
-    "2026-11-24"
+    "2026-11-25"
    ],
    "last_removed": [],
    "bitmap": "daily/fr-FR/bitmap.json"
