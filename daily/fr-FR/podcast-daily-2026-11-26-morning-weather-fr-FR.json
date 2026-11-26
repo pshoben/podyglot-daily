@@ -1,0 +1,249 @@
+{
+ "title": "La météo, jeudi 26 novembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-weather",
+   "wpm": 191,
+   "rate_multiplier": 0.75,
+   "pitch_multiplier": 0.63
+  }
+ },
+ "channel": "daily",
+ "programme": "weather",
+ "date": "2026-11-26",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Aujourd'hui, selon les modèles de Météo-France,",
+   "en": "Today, according to the «Météo-France» models,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la minimale tombe à moins deux degrés à Strasbourg comme à Lille,",
+   "en": "the low falls to minus two degrees in «Strasbourg» as in «Lille»,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et c'est à Marseille que le vent est le plus fort.",
+   "en": "and it is in «Marseille» that the wind is strongest.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Marseille, ciel couvert:",
+   "en": "In «Marseille», an overcast sky:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "de neuf à treize degrés,",
+   "en": "from nine to thirteen degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un vent à trente-sept kilomètres par heure.",
+   "en": "with winds of thirty-seven kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Bordeaux a de la bruine;",
+   "en": "«Bordeaux» has drizzle;",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le thermomètre ira de huit à onze degrés,",
+   "en": "the thermometer will go from eight to eleven degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec douze kilomètres par heure de vent.",
+   "en": "with winds of twelve kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Lyon a de la bruine,",
+   "en": "«Lyon» has drizzle,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "une température comprise entre six et dix degrés,",
+   "en": "temperatures between six and ten degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et un vent qui souffle jusqu'à dix-sept kilomètres par heure.",
+   "en": "and winds of up to seventeen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Strasbourg est sous un ciel couvert,",
+   "en": "«Strasbourg» is under an overcast sky,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec moins deux degrés au minimum, deux au maximum,",
+   "en": "with a low of minus two degrees and a high of two,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et dix-huit kilomètres par heure de vent.",
+   "en": "and winds of eighteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Paris est sous la bruine,",
+   "en": "Paris is under drizzle,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un mercure entre deux et cinq degrés;",
+   "en": "with temperatures between two and five degrees;",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "le vent ne passe pas au-delà de douze kilomètres par heure.",
+   "en": "winds do not go beyond twelve kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "À Lille, des nuages épars:",
+   "en": "In «Lille», scattered clouds:",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "il fera de moins deux à deux degrés,",
+   "en": "it will be from minus two to two degrees,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.97,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "avec un vent qui pointe à quinze kilomètres par heure.",
+   "en": "with winds peaking at fifteen kilometres an hour.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour la météo.",
+   "en": "That is it for the weather.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 2,
+ "handover": "junction",
+ "title_en": "Today's weather, Thursday 26 November",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Marseille today: overcast, 9 to 13 degrees, wind up to 37 km/h, per the Météo-France models",
+ "summary_en": [
+  "Marseille today: overcast, 9 to 13 degrees, wind up to 37 km/h, per the Météo-France models",
+  "Bordeaux today: drizzle, 8 to 11 degrees, wind up to 12 km/h, per the Météo-France models"
+ ]
+}

@@ -1,0 +1,249 @@
+{
+ "title": "Le sport, jeudi 26 novembre",
+ "dialect": "fr-FR",
+ "speakers": {
+  "SPK1": {
+   "persona": "fr-FR-daily-sport",
+   "wpm": 191,
+   "rate_multiplier": 1.05,
+   "pitch_multiplier": 1.17
+  }
+ },
+ "channel": "daily",
+ "programme": "sport",
+ "date": "2026-11-26",
+ "voice_policy": "distinct_per_speaker",
+ "turns": [
+  {
+   "speaker": "SPK1",
+   "text": "Au programme aujourd'hui en Ligue Europa,",
+   "en": "On today's programme in the Europa League,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.99,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "l'Olympique de Marseille affronte le Levski Sofia ce jeudi,",
+   "en": "«Olympique de Marseille» take on «Levski Sofia» this Thursday,",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 0.95,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "écrivent franceinfo et L'Équipe.",
+   "en": "«franceinfo» and «L'Équipe» write.",
+   "prosody": {
+    "pause_ms": 240,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Équipe précise que le coup d'envoi est fixé à dix-huit heures quarante-cinq.",
+   "en": "«L'Équipe» adds that kick-off is set for a quarter to seven this evening.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Le journal écrit que Lyon affronte Lillestrøm jeudi soir,",
+   "en": "The paper writes that «Lyon» take on «Lillestrøm» on Thursday evening,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.04,
+    "pitch": 1.08
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "à vingt et une heures,",
+   "en": "at nine o'clock tonight,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.055
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et que l'entraîneur Carlos Vicens récupère l'attaquant Loïs Openda,",
+   "en": "and that coach «Carlos Vicens» gets striker «Loïs Openda» back",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.03
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "après presque deux mois d'absence.",
+   "en": "after an absence of almost two months.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.06,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Équipe écrit aussi que le Stade Rennais pourrait compter sur son attaquant Estéban Lepaul",
+   "en": "«L'Équipe» also writes that «Rennes» could count on striker «Estéban Lepaul»",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.99,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "dans son onze de départ à Nimègue, jeudi, en Ligue Europa.",
+   "en": "in their starting eleven at Nijmegen on Thursday, in the Europa League.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.03,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Ouest-France écrit que Rennes joue à Nimègue ce jeudi à vingt et une heures,",
+   "en": "«Ouest-France» writes that «Rennes» play at Nijmegen this Thursday at nine o'clock tonight,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.04
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour son cinquième match de la compétition.",
+   "en": "in their fifth match of the competition.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le handball, Ouest-France écrit que les Bleues affrontent l'Allemagne",
+   "en": "In handball, «Ouest-France» writes that the French women's team play Germany",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.01,
+    "pitch": 1.1
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "ce jeudi à dix-neuf heures trente,",
+   "en": "this Thursday at half past seven this evening,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.075
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour l'un de leurs deux derniers matchs de préparation à l'Euro,",
+   "en": "in one of their last two warm-up matches for the Euro,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.05
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "qui se déroule du trois au vingt décembre,",
+   "en": "which runs from 3rd to 20th December,",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.025
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "et L'Équipe qu'il s'agit de leur avant-dernier match amical.",
+   "en": "and «L'Équipe» that it is their next-to-last friendly.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.1,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Dans le biathlon, franceinfo écrit que l'équipe de France retrouve",
+   "en": "In «biathlon», «franceinfo» writes that the French team returns",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.02,
+    "pitch": 1.06
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "la neige finlandaise à Kontiolahti ce jeudi,",
+   "en": "to the Finnish snow at «Kontiolahti» this Thursday",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.0,
+    "pitch": 1.035
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "pour la première course de la Coupe du monde.",
+   "en": "for the first race of the World Cup.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.09,
+    "pitch": 0.96
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "L'Équipe précise que la saison commence par l'individuel.",
+   "en": "«L'Équipe» adds that the season starts with the individual race.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 0.98,
+    "pitch": 1.02
+   }
+  },
+  {
+   "speaker": "SPK1",
+   "text": "Voilà pour le sport.",
+   "en": "That is it for sport.",
+   "prosody": {
+    "pause_ms": 300,
+    "rate": 1.05,
+    "pitch": 0.97
+   }
+  }
+ ],
+ "programme_order": 1,
+ "handover": "junction",
+ "title_en": "Today's sport, Thursday 26 November",
+ "edition": "morning",
+ "region": "fr-FR",
+ "region_label": "France",
+ "headline_en": "Marseille face Levski Sofia in the Europa League on Thursday, kick-off 6.45 pm, L'Equipe reports",
+ "summary_en": [
+  "Marseille face Levski Sofia in the Europa League on Thursday, kick-off 6.45 pm, L'Equipe reports",
+  "Lyon face Lillestrom in the Europa League on Thursday evening at 9 pm, with Loic Openda back after almost two months' absence, L'Equipe reports"
+ ]
+}

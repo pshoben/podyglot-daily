@@ -5,6 +5,67 @@
  "base": "https://pshoben.github.io/podyglot-daily/",
  "episodes": [
   {
+   "id": "fr-FR-Le journal du matin, jeudi 26 novembre",
+   "file": "podcast-daily-2026-11-26-morning-news-fr-FR.json",
+   "bytes": 12268,
+   "sha256": "596d5bcd7edb16496807b98b11ee6decd4c53747c00f8df556a5889da6f8db60",
+   "date": "2026-11-26",
+   "edition": "morning",
+   "programme": "news",
+   "programme_order": 0,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le journal du matin, jeudi 26 novembre",
+   "title_en": "The morning news, Thursday 26 November",
+   "headline_en": "The press freedom group Reporters Without Borders asks the media regulator Arcom to suspend the channel CNews for a month, franceinfo and Le Monde report",
+   "summary_en": [
+    "The press freedom group Reporters Without Borders asks the media regulator Arcom to suspend the channel CNews for a month, franceinfo and Le Monde report",
+    "The countries targeted by the new American customs duties voice their indignation, franceinfo and Le Figaro report",
+    "The trial of a Frenchwoman accused of terrorist criminal conspiracy for having joined the Islamic State group in Syria opens in Paris"
+   ]
+  },
+  {
+   "id": "fr-FR-Le sport, jeudi 26 novembre",
+   "file": "podcast-daily-2026-11-26-morning-sport-fr-FR.json",
+   "bytes": 6334,
+   "sha256": "19aca07c612b89aaac355636653e02c2e976d649d61a104b49ad589360635709",
+   "date": "2026-11-26",
+   "edition": "morning",
+   "programme": "sport",
+   "programme_order": 1,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "Le sport, jeudi 26 novembre",
+   "title_en": "Today's sport, Thursday 26 November",
+   "headline_en": "Marseille face Levski Sofia in the Europa League on Thursday, kick-off 6.45 pm, L'Equipe reports",
+   "summary_en": [
+    "Marseille face Levski Sofia in the Europa League on Thursday, kick-off 6.45 pm, L'Equipe reports",
+    "Lyon face Lillestrom in the Europa League on Thursday evening at 9 pm, with Loic Openda back after almost two months' absence, L'Equipe reports"
+   ]
+  },
+  {
+   "id": "fr-FR-La météo, jeudi 26 novembre",
+   "file": "podcast-daily-2026-11-26-morning-weather-fr-FR.json",
+   "bytes": 5684,
+   "sha256": "2518fe0d98c5eb6f602d3ba3f2923141bea5c0556e14ae0002d4e98ca685cc73",
+   "date": "2026-11-26",
+   "edition": "morning",
+   "programme": "weather",
+   "programme_order": 2,
+   "segment_order": null,
+   "region": "fr-FR",
+   "region_label": "France",
+   "title": "La météo, jeudi 26 novembre",
+   "title_en": "Today's weather, Thursday 26 November",
+   "headline_en": "Marseille today: overcast, 9 to 13 degrees, wind up to 37 km/h, per the Météo-France models",
+   "summary_en": [
+    "Marseille today: overcast, 9 to 13 degrees, wind up to 37 km/h, per the Météo-France models",
+    "Bordeaux today: drizzle, 8 to 11 degrees, wind up to 12 km/h, per the Météo-France models"
+   ]
+  },
+  {
    "id": "fr-FR-Le journal du matin, mercredi 25 novembre",
    "file": "podcast-daily-2026-11-25-morning-news-fr-FR.json",
    "bytes": 11225,
